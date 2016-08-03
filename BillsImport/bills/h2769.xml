@@ -1,0 +1,40 @@
+<bill session="114" type="h" number="2769" updated="2015-07-29T04:48:45-04:00">
+  <state datetime="2015-06-15">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-15"/>
+  </status>
+  <introduced datetime="2015-06-15"/>
+  <titles>
+    <title type="short" as="introduced">Risk-Based Capital Study Act of 2015</title>
+    <title type="official" as="introduced">To require the National Credit Union Administration to conduct a study of the appropriate capital requirements for credit unions, and for other purposes.</title>
+  </titles>
+  <sponsor id="412479"/>
+  <cosponsors>
+    <cosponsor id="412541" joined="2015-07-13"/>
+    <cosponsor id="412395" joined="2015-07-22"/>
+    <cosponsor id="412584" joined="2015-06-15"/>
+    <cosponsor id="412609" joined="2015-07-08"/>
+    <cosponsor id="412527" joined="2015-07-23"/>
+    <cosponsor id="400295" joined="2015-07-27"/>
+    <cosponsor id="412309" joined="2015-06-15"/>
+    <cosponsor id="412394" joined="2015-07-28"/>
+    <cosponsor id="412411" joined="2015-07-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-15">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E894"/>
+    </action>
+    <action datetime="2015-06-15" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+  </subjects>
+  <amendments/>
+</bill>

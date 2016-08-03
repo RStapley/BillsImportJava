@@ -1,0 +1,60 @@
+<bill session="114" type="hj" number="42" updated="2015-06-17T04:50:53-04:00">
+  <state datetime="2015-04-13">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-13"/>
+  </status>
+  <introduced datetime="2015-04-13"/>
+  <titles>
+    <title type="official" as="introduced">Disapproving the rule submitted by the Federal Communications Commission relating to the matter of protecting and promoting the open Internet.</title>
+  </titles>
+  <sponsor id="412531"/>
+  <cosponsors>
+    <cosponsor id="412625" joined="2015-04-13"/>
+    <cosponsor id="412196" joined="2015-04-13"/>
+    <cosponsor id="412622" joined="2015-04-13"/>
+    <cosponsor id="400071" joined="2015-04-13"/>
+    <cosponsor id="412526" joined="2015-04-23"/>
+    <cosponsor id="400141" joined="2015-06-16"/>
+    <cosponsor id="400154" joined="2015-04-13"/>
+    <cosponsor id="412397" joined="2015-04-22"/>
+    <cosponsor id="412661" joined="2015-04-13"/>
+    <cosponsor id="412623" joined="2015-04-14"/>
+    <cosponsor id="400206" joined="2015-04-13"/>
+    <cosponsor id="412256" joined="2015-04-13"/>
+    <cosponsor id="412624" joined="2015-04-13"/>
+    <cosponsor id="412608" joined="2015-04-14"/>
+    <cosponsor id="400652" joined="2015-04-13"/>
+    <cosponsor id="412309" joined="2015-04-13"/>
+    <cosponsor id="412653" joined="2015-04-20"/>
+    <cosponsor id="412411" joined="2015-04-13"/>
+    <cosponsor id="412564" joined="2015-04-23"/>
+    <cosponsor id="400627" joined="2015-04-13"/>
+    <cosponsor id="412525" joined="2015-04-16"/>
+    <cosponsor id="412640" joined="2015-04-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-13" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-04-17">
+      <text>Referred to the Subcommittee on Communications and Technology.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF16" subcommittee="Communications and Technology" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1212"/>
+  </relatedbills>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Congressional oversight"/>
+    <term name="Federal Communications Commission (FCC)"/>
+    <term name="Internet and video services"/>
+  </subjects>
+  <amendments/>
+  <summary>4/13/2015--Introduced.
+Disapproves and nullifies the rule adopted by the Federal Communications Commission on February 26, 2015, relating to the reclassification of broadband Internet access service as a telecommunications service in the matter of protecting and promoting the open Internet.</summary>
+</bill>

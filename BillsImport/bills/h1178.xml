@@ -1,0 +1,89 @@
+<bill session="114" type="h" number="1178" updated="2015-08-05T04:47:09-04:00">
+  <state datetime="2015-02-27">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-27"/>
+  </status>
+  <introduced datetime="2015-02-27"/>
+  <titles>
+    <title type="short" as="introduced">Ensuring Equal Access to Treatments Act of 2015</title>
+    <title type="official" as="introduced">To amend title XVIII of the Social Security Act to modify payment under the Medicare program for outpatient department procedures that utilize drugs as supplies, and for other purposes.</title>
+  </titles>
+  <sponsor id="412393"/>
+  <cosponsors>
+    <cosponsor id="412512" joined="2015-04-28"/>
+    <cosponsor id="412478" joined="2015-04-16"/>
+    <cosponsor id="400032" joined="2015-04-13"/>
+    <cosponsor id="400062" joined="2015-02-27"/>
+    <cosponsor id="400087" joined="2015-04-22"/>
+    <cosponsor id="400093" joined="2015-07-15"/>
+    <cosponsor id="412420" joined="2015-04-20"/>
+    <cosponsor id="412457" joined="2015-06-01"/>
+    <cosponsor id="412480" joined="2015-05-13"/>
+    <cosponsor id="412278" joined="2015-02-27"/>
+    <cosponsor id="412280" joined="2015-06-23"/>
+    <cosponsor id="412284" joined="2015-08-04"/>
+    <cosponsor id="412460" joined="2015-07-15"/>
+    <cosponsor id="412465" joined="2015-06-01"/>
+    <cosponsor id="400218" joined="2015-02-27"/>
+    <cosponsor id="412421" joined="2015-05-21"/>
+    <cosponsor id="412290" joined="2015-07-08"/>
+    <cosponsor id="400240" joined="2015-07-16"/>
+    <cosponsor id="412616" joined="2015-04-13"/>
+    <cosponsor id="400245" joined="2015-06-01"/>
+    <cosponsor id="412445" joined="2015-06-01"/>
+    <cosponsor id="400656" joined="2015-05-18"/>
+    <cosponsor id="400663" joined="2015-03-16"/>
+    <cosponsor id="412466" joined="2015-06-23"/>
+    <cosponsor id="412568" joined="2015-05-13"/>
+    <cosponsor id="400291" joined="2015-05-18"/>
+    <cosponsor id="412302" joined="2015-03-16"/>
+    <cosponsor id="400309" joined="2015-03-16"/>
+    <cosponsor id="412303" joined="2015-05-18"/>
+    <cosponsor id="412523" joined="2015-04-22"/>
+    <cosponsor id="412431" joined="2015-06-25"/>
+    <cosponsor id="400333" joined="2015-06-01"/>
+    <cosponsor id="412202" joined="2015-02-27"/>
+    <cosponsor id="400355" joined="2015-02-27"/>
+    <cosponsor id="412626" joined="2015-07-21"/>
+    <cosponsor id="412520" joined="2015-06-09"/>
+    <cosponsor id="412319" joined="2015-07-08"/>
+    <cosponsor id="412618" joined="2015-06-09"/>
+    <cosponsor id="412644" joined="2015-07-21"/>
+    <cosponsor id="412239" joined="2015-07-08"/>
+    <cosponsor id="412428" joined="2015-04-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-27" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-02-27">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-02-27">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-03-06">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="1466"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Drug therapy"/>
+    <term name="Health technology, devices, supplies"/>
+    <term name="Home and outpatient care"/>
+    <term name="Medicare"/>
+  </subjects>
+  <amendments/>
+  <summary>2/27/2015--Introduced.
+Ensuring Equal Access to Treatments Act of 2015
+
+ Amends title XVIII (Medicare) of the Social Security Act, with respect to the prospective payment system for hospital outpatient department (OPD) services, to direct the Secretary of Health and Human Services to create certain additional groups of covered OPD services that classify separately, from those that do not utilize such a drug, procedures that utilize a drug (other than contrast agents, diagnostic radiopharmaceutical, or anesthesia drugs) that both has a cost above the drug packaging threshold and functions as a supply when used in a diagnostic test or procedure.</summary>
+</bill>

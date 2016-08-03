@@ -1,0 +1,31 @@
+<bill session="114" type="s" number="1620" updated="2015-07-04T06:59:52-04:00">
+  <state datetime="2015-06-24">REPORTED</state>
+  <status>
+    <unknown datetime="2015-06-24"/>
+  </status>
+  <introduced datetime="2015-06-18"/>
+  <titles>
+    <title type="short" as="introduced">DHS IT Duplication Reduction Act of 2015</title>
+    <title type="official" as="introduced">A bill to reduce duplication of information technology at the Department of Homeland Security, and for other purposes.</title>
+  </titles>
+  <sponsor id="412496"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-06-18" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <calendar datetime="2015-06-24" state="REPORTED">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1626"/>
+  </relatedbills>
+  <subjects>
+    <term name="Emergency management"/>
+  </subjects>
+  <amendments/>
+</bill>

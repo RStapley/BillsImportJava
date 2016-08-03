@@ -1,0 +1,30 @@
+<bill session="114" type="h" number="3234" updated="2015-08-22T06:46:21-04:00">
+  <state datetime="2015-07-28">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-28"/>
+  </status>
+  <introduced datetime="2015-07-28"/>
+  <titles>
+    <title type="short" as="introduced">Failing VA Medical Center Recovery Act</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to establish within the Department of Veterans Affairs an Office of Failing Medical Center Recovery, and for other purposes.</title>
+  </titles>
+  <sponsor id="412394"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-28">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H5531-5532"/>
+    </action>
+    <action datetime="2015-07-28" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+</bill>

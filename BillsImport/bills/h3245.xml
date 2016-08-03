@@ -1,0 +1,44 @@
+<bill session="114" type="h" number="3245" updated="2015-07-31T09:48:45-04:00">
+  <state datetime="2015-07-28">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-28"/>
+  </status>
+  <introduced datetime="2015-07-28"/>
+  <titles>
+    <title type="short" as="introduced">Government Refusal of Abortion in Contracting and Enterprise</title>
+    <title type="short" as="introduced">GRACE Act</title>
+    <title type="official" as="introduced">To prohibit the Federal Government from contracting with entities that donate or match employee donations to Planned Parenthood Federation of America, Inc.</title>
+  </titles>
+  <sponsor id="412567"/>
+  <cosponsors>
+    <cosponsor id="400018" joined="2015-07-29"/>
+    <cosponsor id="400052" joined="2015-07-29"/>
+    <cosponsor id="400089" joined="2015-07-29"/>
+    <cosponsor id="412472" joined="2015-07-29"/>
+    <cosponsor id="400640" joined="2015-07-29"/>
+    <cosponsor id="400141" joined="2015-07-29"/>
+    <cosponsor id="412473" joined="2015-07-29"/>
+    <cosponsor id="412434" joined="2015-07-29"/>
+    <cosponsor id="412623" joined="2015-07-29"/>
+    <cosponsor id="412226" joined="2015-07-29"/>
+    <cosponsor id="400220" joined="2015-07-29"/>
+    <cosponsor id="412503" joined="2015-07-29"/>
+    <cosponsor id="412474" joined="2015-07-29"/>
+    <cosponsor id="412572" joined="2015-07-29"/>
+    <cosponsor id="412570" joined="2015-07-29"/>
+    <cosponsor id="412641" joined="2015-07-29"/>
+    <cosponsor id="400606" joined="2015-07-29"/>
+    <cosponsor id="412525" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-28" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

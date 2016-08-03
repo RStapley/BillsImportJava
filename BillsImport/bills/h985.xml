@@ -1,0 +1,234 @@
+<bill session="114" type="h" number="985" updated="2015-07-30T04:48:18-04:00">
+  <state datetime="2015-07-29">REPORTED</state>
+  <status>
+    <unknown datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-02-13"/>
+  <titles>
+    <title type="short" as="introduced">Concrete Masonry Products Research, Education, and Promotion Act of 2015</title>
+    <title type="official" as="introduced">To enable concrete masonry products manufacturers to establish, finance, and carry out a coordinated program of research, education, and promotion to improve, maintain, and develop markets for concrete masonry products.</title>
+  </titles>
+  <sponsor id="412278"/>
+  <cosponsors>
+    <cosponsor id="412607" joined="2015-07-27"/>
+    <cosponsor id="400004" joined="2015-05-01"/>
+    <cosponsor id="412500" joined="2015-03-17"/>
+    <cosponsor id="412469" joined="2015-06-04"/>
+    <cosponsor id="412541" joined="2015-06-16"/>
+    <cosponsor id="412565" joined="2015-05-29"/>
+    <cosponsor id="412436" joined="2015-04-13"/>
+    <cosponsor id="412512" joined="2015-06-25"/>
+    <cosponsor id="412250" joined="2015-07-29"/>
+    <cosponsor id="412635" joined="2015-04-30"/>
+    <cosponsor id="400032" joined="2015-04-13"/>
+    <cosponsor id="412627" joined="2015-04-27"/>
+    <cosponsor id="412629" joined="2015-05-20"/>
+    <cosponsor id="400047" joined="2015-06-16"/>
+    <cosponsor id="412539" joined="2015-03-26"/>
+    <cosponsor id="400048" joined="2015-06-16"/>
+    <cosponsor id="412516" joined="2015-03-17"/>
+    <cosponsor id="412427" joined="2015-03-02"/>
+    <cosponsor id="412537" joined="2015-06-23"/>
+    <cosponsor id="400616" joined="2015-02-27"/>
+    <cosponsor id="412601" joined="2015-05-01"/>
+    <cosponsor id="400057" joined="2015-07-07"/>
+    <cosponsor id="400062" joined="2015-07-08"/>
+    <cosponsor id="412407" joined="2015-05-29"/>
+    <cosponsor id="400068" joined="2015-07-08"/>
+    <cosponsor id="412571" joined="2015-04-30"/>
+    <cosponsor id="412195" joined="2015-02-13"/>
+    <cosponsor id="400071" joined="2015-05-13"/>
+    <cosponsor id="412600" joined="2015-03-17"/>
+    <cosponsor id="412236" joined="2015-07-27"/>
+    <cosponsor id="400077" joined="2015-05-13"/>
+    <cosponsor id="412563" joined="2015-03-10"/>
+    <cosponsor id="412272" joined="2015-03-13"/>
+    <cosponsor id="400080" joined="2015-04-13"/>
+    <cosponsor id="400081" joined="2015-05-13"/>
+    <cosponsor id="400618" joined="2015-06-17"/>
+    <cosponsor id="412651" joined="2015-06-24"/>
+    <cosponsor id="400086" joined="2015-06-04"/>
+    <cosponsor id="400090" joined="2015-04-21"/>
+    <cosponsor id="412536" joined="2015-05-13"/>
+    <cosponsor id="400101" joined="2015-06-03"/>
+    <cosponsor id="412544" joined="2015-04-30"/>
+    <cosponsor id="412505" joined="2015-04-27"/>
+    <cosponsor id="412403" joined="2015-06-04"/>
+    <cosponsor id="400648" joined="2015-03-26"/>
+    <cosponsor id="412477" joined="2015-05-13"/>
+    <cosponsor id="400108" joined="2015-06-11"/>
+    <cosponsor id="412420" joined="2015-07-29"/>
+    <cosponsor id="400114" joined="2015-06-01"/>
+    <cosponsor id="412488" joined="2015-06-11"/>
+    <cosponsor id="400116" joined="2015-06-19"/>
+    <cosponsor id="412457" joined="2015-02-24"/>
+    <cosponsor id="412524" joined="2015-04-13"/>
+    <cosponsor id="412482" joined="2015-06-10"/>
+    <cosponsor id="400130" joined="2015-05-13"/>
+    <cosponsor id="412479" joined="2015-06-19"/>
+    <cosponsor id="400646" joined="2015-06-16"/>
+    <cosponsor id="412257" joined="2015-07-15"/>
+    <cosponsor id="412529" joined="2015-06-04"/>
+    <cosponsor id="400141" joined="2015-05-14"/>
+    <cosponsor id="412382" joined="2015-03-10"/>
+    <cosponsor id="412453" joined="2015-06-17"/>
+    <cosponsor id="400154" joined="2015-05-20"/>
+    <cosponsor id="400157" joined="2015-05-15"/>
+    <cosponsor id="400158" joined="2015-03-10"/>
+    <cosponsor id="412276" joined="2015-06-03"/>
+    <cosponsor id="412485" joined="2015-07-22"/>
+    <cosponsor id="412454" joined="2015-03-24"/>
+    <cosponsor id="412280" joined="2015-03-02"/>
+    <cosponsor id="412444" joined="2015-03-24"/>
+    <cosponsor id="400170" joined="2015-06-04"/>
+    <cosponsor id="412584" joined="2015-04-27"/>
+    <cosponsor id="400641" joined="2015-07-07"/>
+    <cosponsor id="400179" joined="2015-05-29"/>
+    <cosponsor id="412553" joined="2015-05-13"/>
+    <cosponsor id="412550" joined="2015-02-27"/>
+    <cosponsor id="412429" joined="2015-03-25"/>
+    <cosponsor id="412511" joined="2015-06-12"/>
+    <cosponsor id="412437" joined="2015-03-04"/>
+    <cosponsor id="412422" joined="2015-05-19"/>
+    <cosponsor id="412283" joined="2015-05-29"/>
+    <cosponsor id="400195" joined="2015-04-14"/>
+    <cosponsor id="400199" joined="2015-05-29"/>
+    <cosponsor id="412663" joined="2015-07-20"/>
+    <cosponsor id="412284" joined="2015-05-29"/>
+    <cosponsor id="412460" joined="2015-04-20"/>
+    <cosponsor id="400204" joined="2015-07-09"/>
+    <cosponsor id="400209" joined="2015-06-09"/>
+    <cosponsor id="400211" joined="2015-04-30"/>
+    <cosponsor id="412649" joined="2015-07-09"/>
+    <cosponsor id="412465" joined="2015-05-13"/>
+    <cosponsor id="412595" joined="2015-07-14"/>
+    <cosponsor id="412543" joined="2015-05-13"/>
+    <cosponsor id="412546" joined="2015-04-30"/>
+    <cosponsor id="412583" joined="2015-04-29"/>
+    <cosponsor id="400219" joined="2015-06-19"/>
+    <cosponsor id="400220" joined="2015-04-13"/>
+    <cosponsor id="412421" joined="2015-03-26"/>
+    <cosponsor id="412557" joined="2015-07-07"/>
+    <cosponsor id="412638" joined="2015-07-13"/>
+    <cosponsor id="400238" joined="2015-03-10"/>
+    <cosponsor id="400630" joined="2015-03-24"/>
+    <cosponsor id="412209" joined="2015-03-23"/>
+    <cosponsor id="412445" joined="2015-03-17"/>
+    <cosponsor id="412292" joined="2015-03-17"/>
+    <cosponsor id="412293" joined="2015-05-13"/>
+    <cosponsor id="400251" joined="2015-04-30"/>
+    <cosponsor id="400663" joined="2015-03-02"/>
+    <cosponsor id="400263" joined="2015-03-17"/>
+    <cosponsor id="400644" joined="2015-03-13"/>
+    <cosponsor id="412487" joined="2015-03-02"/>
+    <cosponsor id="412552" joined="2015-06-24"/>
+    <cosponsor id="412466" joined="2015-03-24"/>
+    <cosponsor id="412540" joined="2015-06-09"/>
+    <cosponsor id="400276" joined="2015-04-14"/>
+    <cosponsor id="400279" joined="2015-04-22"/>
+    <cosponsor id="400661" joined="2015-03-10"/>
+    <cosponsor id="412568" joined="2015-07-07"/>
+    <cosponsor id="412527" joined="2015-04-13"/>
+    <cosponsor id="400285" joined="2015-05-29"/>
+    <cosponsor id="400291" joined="2015-06-19"/>
+    <cosponsor id="400441" joined="2015-04-15"/>
+    <cosponsor id="408211" joined="2015-04-15"/>
+    <cosponsor id="400295" joined="2015-04-21"/>
+    <cosponsor id="412302" joined="2015-03-04"/>
+    <cosponsor id="412443" joined="2015-04-30"/>
+    <cosponsor id="412523" joined="2015-07-08"/>
+    <cosponsor id="400316" joined="2015-04-21"/>
+    <cosponsor id="400652" joined="2015-06-15"/>
+    <cosponsor id="412309" joined="2015-03-17"/>
+    <cosponsor id="412331" joined="2015-07-20"/>
+    <cosponsor id="412393" joined="2015-07-29"/>
+    <cosponsor id="412489" joined="2015-03-10"/>
+    <cosponsor id="412394" joined="2015-05-21"/>
+    <cosponsor id="400340" joined="2015-07-09"/>
+    <cosponsor id="400341" joined="2015-06-16"/>
+    <cosponsor id="412311" joined="2015-06-10"/>
+    <cosponsor id="400344" joined="2015-06-15"/>
+    <cosponsor id="412202" joined="2015-06-24"/>
+    <cosponsor id="412411" joined="2015-07-15"/>
+    <cosponsor id="412641" joined="2015-05-14"/>
+    <cosponsor id="400348" joined="2015-06-23"/>
+    <cosponsor id="400349" joined="2015-04-22"/>
+    <cosponsor id="400350" joined="2015-03-26"/>
+    <cosponsor id="400352" joined="2015-04-14"/>
+    <cosponsor id="412212" joined="2015-07-07"/>
+    <cosponsor id="400367" joined="2015-06-01"/>
+    <cosponsor id="412396" joined="2015-05-21"/>
+    <cosponsor id="400373" joined="2015-03-02"/>
+    <cosponsor id="409888" joined="2015-07-29"/>
+    <cosponsor id="412509" joined="2015-03-19"/>
+    <cosponsor id="400379" joined="2015-05-19"/>
+    <cosponsor id="400381" joined="2015-06-01"/>
+    <cosponsor id="412259" joined="2015-05-29"/>
+    <cosponsor id="412461" joined="2015-06-17"/>
+    <cosponsor id="412520" joined="2015-06-15"/>
+    <cosponsor id="412317" joined="2015-06-16"/>
+    <cosponsor id="400406" joined="2015-04-13"/>
+    <cosponsor id="412319" joined="2015-06-23"/>
+    <cosponsor id="412254" joined="2015-04-30"/>
+    <cosponsor id="400411" joined="2015-05-21"/>
+    <cosponsor id="412515" joined="2015-06-09"/>
+    <cosponsor id="400415" joined="2015-04-22"/>
+    <cosponsor id="412522" joined="2015-06-16"/>
+    <cosponsor id="400416" joined="2015-06-16"/>
+    <cosponsor id="412213" joined="2015-03-10"/>
+    <cosponsor id="412214" joined="2015-04-13"/>
+    <cosponsor id="400623" joined="2015-07-16"/>
+    <cosponsor id="412410" joined="2015-04-14"/>
+    <cosponsor id="400431" joined="2015-03-02"/>
+    <cosponsor id="412578" joined="2015-05-14"/>
+    <cosponsor id="412412" joined="2015-05-13"/>
+    <cosponsor id="400433" joined="2015-03-02"/>
+    <cosponsor id="412211" joined="2015-03-04"/>
+    <cosponsor id="412430" joined="2015-06-16"/>
+    <cosponsor id="412525" joined="2015-06-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-13" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-02-20">
+      <text>Referred to the Subcommittee on Commerce, Manufacturing, and Trade.</text>
+    </action>
+    <action datetime="2015-07-10">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-07-29" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup"/>
+    <committee activity="Referral, Hearings" code="HSIF17" subcommittee="Commerce, Manufacturing, and Trade" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Administrative remedies"/>
+    <term name="Building construction"/>
+    <term name="Department of Commerce"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Judicial review and appeals"/>
+    <term name="Manufacturing"/>
+    <term name="Marketing and advertising"/>
+    <term name="Materials"/>
+    <term name="User charges and fees"/>
+  </subjects>
+  <amendments/>
+  <summary>2/13/2015--Introduced.
+Concrete Masonry Products Research, Education, and Promotion Act of 2015
+
+This bill directs the Secretary of Commerce to issue orders applicable to manufacturers of concrete masonry products. Any such order must provide for the establishment of a Concrete Masonry Products Board to carry out a program of promotion, research, and information regarding concrete masonry products. Manufacturers and importers shall maintain, and make available, specified records.
+
+An order must also provide that assessments be paid by concrete masonry product manufacturers with respect to concrete masonry products manufactured and marketed in the United States. Assessment rates are specified. At least 50% of the assessments paid by a manufacturer must be used to support research, education, and promotion plans and projects in support of the geographic region of the manufacturer. During the 60-day period preceding the proposed effective date of an order, the Secretary shall conduct a referendum for order approval among the manufacturers required to pay assessments under it. Referendum procedures are outlined.
+
+The bill allows petition and review of an order, and order enforcement through U.S. district courts. The Secretary: (1) may conduct appropriate investigations in order to administer this Act (with power of subpoena); and (2) must suspend or terminate any order or provision that obstructs or does not tend to effectuate the purposes of this Act, or that is not favored by persons voting in a referendum.</summary>
+</bill>

@@ -1,0 +1,24 @@
+<bill session="114" type="s" number="1937" updated="2015-08-14T12:47:29-04:00">
+  <state datetime="2015-08-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-08-04"/>
+  </status>
+  <introduced datetime="2015-08-04"/>
+  <titles>
+    <title type="short" as="introduced">Tribal Nutrition Improvement Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend the Richard B. Russell National School Lunch Act and the Child Nutrition Act of 1966 to improve nutrition in tribal areas, and for other purposes.</title>
+  </titles>
+  <sponsor id="400413"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-08-04" state="REFERRED">
+      <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

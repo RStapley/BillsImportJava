@@ -1,0 +1,38 @@
+<bill session="114" type="h" number="1709" updated="2015-05-14T04:47:52-04:00">
+  <state datetime="2015-03-26">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-26"/>
+  </status>
+  <introduced datetime="2015-03-26"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Safe Drinking Water Act to provide for the assessment and management of the risks of drought to drinking water, and for other purposes.</title>
+  </titles>
+  <sponsor id="412189"/>
+  <cosponsors>
+    <cosponsor id="400062" joined="2015-03-26"/>
+    <cosponsor id="400185" joined="2015-03-26"/>
+    <cosponsor id="412511" joined="2015-04-14"/>
+    <cosponsor id="400663" joined="2015-03-26"/>
+    <cosponsor id="412319" joined="2015-03-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-26" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-03-27">
+      <text>Referred to the Subcommittee on Environment and the Economy.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF18" subcommittee="Environment and the Economy" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="212"/>
+    <bill relation="unknown" session="114" type="s" number="460"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+  </subjects>
+  <amendments/>
+</bill>

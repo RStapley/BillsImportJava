@@ -1,0 +1,31 @@
+<bill session="114" type="s" number="1915" updated="2015-08-15T07:07:50-04:00">
+  <state datetime="2015-08-03">REFERRED</state>
+  <status>
+    <introduced datetime="2015-08-03"/>
+  </status>
+  <introduced datetime="2015-08-03"/>
+  <titles>
+    <title type="short" as="introduced">First Responder Anthrax Preparedness Act</title>
+    <title type="official" as="introduced">A bill to direct the Secretary of Homeland Security to make anthrax vaccines and antimicrobials available to emergency response providers, and for other purposes.</title>
+  </titles>
+  <sponsor id="412493"/>
+  <cosponsors>
+    <cosponsor id="412598" joined="2015-08-03"/>
+    <cosponsor id="412390" joined="2015-08-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-08-03" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1300"/>
+  </relatedbills>
+  <subjects>
+    <term name="Emergency management"/>
+  </subjects>
+  <amendments/>
+</bill>

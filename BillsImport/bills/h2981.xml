@@ -1,0 +1,31 @@
+<bill session="114" type="h" number="2981" updated="2015-07-18T04:47:02-04:00">
+  <state datetime="2015-07-08">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-08"/>
+  </status>
+  <introduced datetime="2015-07-08"/>
+  <titles>
+    <title type="official" as="introduced">To amend title 38, United States Code, to provide that congressional testimony by Department of Veterans Affairs employees is official duty, and for other purposes.</title>
+  </titles>
+  <sponsor id="412429"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-08" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2015-07-17">
+      <text>Referred to the Subcommittee on Oversight and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR08" subcommittee="Oversight and Investigations" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <summary>7/8/2015--Introduced.
+This bill provides that an employee of the Department of Veterans Affairs is performing official duty when testifying in an official capacity in front of either House of Congress, a committee of either House of Congress, or a joint or select committee of Congress.</summary>
+</bill>

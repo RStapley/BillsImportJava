@@ -1,0 +1,252 @@
+<bill session="114" type="h" number="30" updated="2015-01-13T04:45:56-05:00">
+  <state datetime="2015-01-08T16:17:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2015-01-08T16:17:00-05:00"/>
+  </status>
+  <introduced datetime="2015-01-06"/>
+  <titles>
+    <title type="short" as="introduced">Save American Workers Act of 2015</title>
+    <title type="short" as="passed house">Save American Workers Act of 2015</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to repeal the 30-hour threshold for classification as a full-time employee for purposes of the employer mandate in the Patient Protection and Affordable Care Act and replace it with 40 hours.</title>
+  </titles>
+  <sponsor id="412428"/>
+  <cosponsors>
+    <cosponsor id="412500" joined="2015-01-06"/>
+    <cosponsor id="412642" joined="2015-01-06"/>
+    <cosponsor id="412655" joined="2015-01-07"/>
+    <cosponsor id="412469" joined="2015-01-06"/>
+    <cosponsor id="412541" joined="2015-01-06"/>
+    <cosponsor id="412436" joined="2015-01-06"/>
+    <cosponsor id="400029" joined="2015-01-06"/>
+    <cosponsor id="412478" joined="2015-01-06"/>
+    <cosponsor id="400032" joined="2015-01-06"/>
+    <cosponsor id="412629" joined="2015-01-07"/>
+    <cosponsor id="400636" joined="2015-01-06"/>
+    <cosponsor id="400046" joined="2015-01-06"/>
+    <cosponsor id="412605" joined="2015-01-06"/>
+    <cosponsor id="412395" joined="2015-01-06"/>
+    <cosponsor id="412539" joined="2015-01-06"/>
+    <cosponsor id="412196" joined="2015-01-06"/>
+    <cosponsor id="412427" joined="2015-01-06"/>
+    <cosponsor id="400052" joined="2015-01-06"/>
+    <cosponsor id="412601" joined="2015-01-06"/>
+    <cosponsor id="400057" joined="2015-01-06"/>
+    <cosponsor id="412270" joined="2015-01-06"/>
+    <cosponsor id="400077" joined="2015-01-06"/>
+    <cosponsor id="412563" joined="2015-01-06"/>
+    <cosponsor id="412513" joined="2015-01-06"/>
+    <cosponsor id="412651" joined="2015-01-06"/>
+    <cosponsor id="412555" joined="2015-01-06"/>
+    <cosponsor id="412400" joined="2015-01-06"/>
+    <cosponsor id="400089" joined="2015-01-07"/>
+    <cosponsor id="412621" joined="2015-01-08"/>
+    <cosponsor id="412536" joined="2015-01-06"/>
+    <cosponsor id="412403" joined="2015-01-06"/>
+    <cosponsor id="400648" joined="2015-01-07"/>
+    <cosponsor id="412526" joined="2015-01-06"/>
+    <cosponsor id="400108" joined="2015-01-06"/>
+    <cosponsor id="412420" joined="2015-01-06"/>
+    <cosponsor id="412488" joined="2015-01-06"/>
+    <cosponsor id="400116" joined="2015-01-06"/>
+    <cosponsor id="412457" joined="2015-01-06"/>
+    <cosponsor id="412482" joined="2015-01-06"/>
+    <cosponsor id="400646" joined="2015-01-08"/>
+    <cosponsor id="412476" joined="2015-01-06"/>
+    <cosponsor id="412480" joined="2015-01-06"/>
+    <cosponsor id="400137" joined="2015-01-06"/>
+    <cosponsor id="400640" joined="2015-01-06"/>
+    <cosponsor id="400142" joined="2015-01-06"/>
+    <cosponsor id="412463" joined="2015-01-06"/>
+    <cosponsor id="412453" joined="2015-01-06"/>
+    <cosponsor id="412397" joined="2015-01-06"/>
+    <cosponsor id="412620" joined="2015-01-06"/>
+    <cosponsor id="400158" joined="2015-01-06"/>
+    <cosponsor id="412485" joined="2015-01-06"/>
+    <cosponsor id="412447" joined="2015-01-06"/>
+    <cosponsor id="412278" joined="2015-01-06"/>
+    <cosponsor id="412454" joined="2015-01-06"/>
+    <cosponsor id="412444" joined="2015-01-06"/>
+    <cosponsor id="412446" joined="2015-01-06"/>
+    <cosponsor id="400175" joined="2015-01-06"/>
+    <cosponsor id="412609" joined="2015-01-06"/>
+    <cosponsor id="412553" joined="2015-01-06"/>
+    <cosponsor id="412550" joined="2015-01-06"/>
+    <cosponsor id="412429" joined="2015-01-06"/>
+    <cosponsor id="412437" joined="2015-01-06"/>
+    <cosponsor id="412484" joined="2015-01-06"/>
+    <cosponsor id="400196" joined="2015-01-06"/>
+    <cosponsor id="412284" joined="2015-01-06"/>
+    <cosponsor id="412460" joined="2015-01-06"/>
+    <cosponsor id="400206" joined="2015-01-06"/>
+    <cosponsor id="412603" joined="2015-01-06"/>
+    <cosponsor id="400209" joined="2015-01-06"/>
+    <cosponsor id="412226" joined="2015-01-06"/>
+    <cosponsor id="412566" joined="2015-01-06"/>
+    <cosponsor id="412649" joined="2015-01-06"/>
+    <cosponsor id="412465" joined="2015-01-06"/>
+    <cosponsor id="400224" joined="2015-01-06"/>
+    <cosponsor id="412191" joined="2015-01-06"/>
+    <cosponsor id="412290" joined="2015-01-06"/>
+    <cosponsor id="412256" joined="2015-01-06"/>
+    <cosponsor id="400630" joined="2015-01-06"/>
+    <cosponsor id="412656" joined="2015-01-08"/>
+    <cosponsor id="412292" joined="2015-01-06"/>
+    <cosponsor id="412294" joined="2015-01-06"/>
+    <cosponsor id="400656" joined="2015-01-06"/>
+    <cosponsor id="412468" joined="2015-01-06"/>
+    <cosponsor id="400654" joined="2015-01-06"/>
+    <cosponsor id="412295" joined="2015-01-06"/>
+    <cosponsor id="412487" joined="2015-01-06"/>
+    <cosponsor id="412611" joined="2015-01-08"/>
+    <cosponsor id="412552" joined="2015-01-06"/>
+    <cosponsor id="412540" joined="2015-01-06"/>
+    <cosponsor id="400273" joined="2015-01-08"/>
+    <cosponsor id="400276" joined="2015-01-06"/>
+    <cosponsor id="400279" joined="2015-01-06"/>
+    <cosponsor id="412662" joined="2015-01-08"/>
+    <cosponsor id="412568" joined="2015-01-06"/>
+    <cosponsor id="412474" joined="2015-01-06"/>
+    <cosponsor id="400441" joined="2015-01-06"/>
+    <cosponsor id="412475" joined="2015-01-06"/>
+    <cosponsor id="412302" joined="2015-01-06"/>
+    <cosponsor id="412443" joined="2015-01-06"/>
+    <cosponsor id="412303" joined="2015-01-06"/>
+    <cosponsor id="400313" joined="2015-01-06"/>
+    <cosponsor id="412569" joined="2015-01-06"/>
+    <cosponsor id="400316" joined="2015-01-06"/>
+    <cosponsor id="412551" joined="2015-01-06"/>
+    <cosponsor id="400320" joined="2015-01-06"/>
+    <cosponsor id="412633" joined="2015-01-06"/>
+    <cosponsor id="412309" joined="2015-01-06"/>
+    <cosponsor id="400626" joined="2015-01-06"/>
+    <cosponsor id="412653" joined="2015-01-06"/>
+    <cosponsor id="412393" joined="2015-01-06"/>
+    <cosponsor id="400660" joined="2015-01-06"/>
+    <cosponsor id="412489" joined="2015-01-06"/>
+    <cosponsor id="412572" joined="2015-01-06"/>
+    <cosponsor id="412310" joined="2015-01-06"/>
+    <cosponsor id="400340" joined="2015-01-06"/>
+    <cosponsor id="400343" joined="2015-01-06"/>
+    <cosponsor id="412426" joined="2015-01-06"/>
+    <cosponsor id="412311" joined="2015-01-06"/>
+    <cosponsor id="412202" joined="2015-01-06"/>
+    <cosponsor id="412570" joined="2015-01-06"/>
+    <cosponsor id="400606" joined="2015-01-07"/>
+    <cosponsor id="400607" joined="2015-01-06"/>
+    <cosponsor id="412314" joined="2015-01-06"/>
+    <cosponsor id="412315" joined="2015-01-06"/>
+    <cosponsor id="412399" joined="2015-01-06"/>
+    <cosponsor id="400367" joined="2015-01-06"/>
+    <cosponsor id="400373" joined="2015-01-06"/>
+    <cosponsor id="412509" joined="2015-01-06"/>
+    <cosponsor id="412217" joined="2015-01-06"/>
+    <cosponsor id="400380" joined="2015-01-06"/>
+    <cosponsor id="412596" joined="2015-01-06"/>
+    <cosponsor id="412581" joined="2015-01-06"/>
+    <cosponsor id="412461" joined="2015-01-06"/>
+    <cosponsor id="412392" joined="2015-01-06"/>
+    <cosponsor id="412317" joined="2015-01-06"/>
+    <cosponsor id="400406" joined="2015-01-06"/>
+    <cosponsor id="412405" joined="2015-01-06"/>
+    <cosponsor id="400411" joined="2015-01-06"/>
+    <cosponsor id="412515" joined="2015-01-06"/>
+    <cosponsor id="412548" joined="2015-01-06"/>
+    <cosponsor id="412213" joined="2015-01-06"/>
+    <cosponsor id="400419" joined="2015-01-06"/>
+    <cosponsor id="412538" joined="2015-01-06"/>
+    <cosponsor id="412618" joined="2015-01-06"/>
+    <cosponsor id="412410" joined="2015-01-06"/>
+    <cosponsor id="412564" joined="2015-01-06"/>
+    <cosponsor id="412610" joined="2015-01-06"/>
+    <cosponsor id="400627" joined="2015-01-06"/>
+    <cosponsor id="400431" joined="2015-01-06"/>
+    <cosponsor id="412578" joined="2015-01-06"/>
+    <cosponsor id="400433" joined="2015-01-06"/>
+    <cosponsor id="412402" joined="2015-01-06"/>
+    <cosponsor id="412416" joined="2015-01-06"/>
+    <cosponsor id="412430" joined="2015-01-06"/>
+    <cosponsor id="412525" joined="2015-01-06"/>
+    <cosponsor id="412646" joined="2015-01-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-06" state="REFERRED">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-01-06">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-01-06">
+      <text>Referred to House Budget</text>
+    </action>
+    <action datetime="2015-01-07T15:44:00-05:00">
+      <text>Rules Committee Resolution H. Res. 19 Reported to House. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. All points of order against the bills are waived. The bills shall be considered as read.</text>
+    </action>
+    <action datetime="2015-01-08T14:11:00-05:00">
+      <text>Rule H. Res. 19 passed House.</text>
+    </action>
+    <action datetime="2015-01-08T14:13:00-05:00">
+      <text>Considered under the provisions of rule H. Res. 19.</text>
+      <reference ref="CR H125-140" label="consideration"/>
+    </action>
+    <action datetime="2015-01-08T14:13:00-05:00">
+      <text>Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. All points of order against the bill are waived. The bills shall be considered as read.</text>
+    </action>
+    <action datetime="2015-01-08T14:13:00-05:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.R. 30.</text>
+    </action>
+    <action datetime="2015-01-08T15:29:00-05:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+      <reference ref="CR H138" label="consideration"/>
+    </action>
+    <action datetime="2015-01-08T15:30:00-05:00">
+      <text>Mr. Becerra moved to recommit with instructions to the Committee on Ways and Means.</text>
+      <reference ref="CR H138-140" label="consideration"/>
+      <reference ref="CR H138" label="text"/>
+    </action>
+    <action datetime="2015-01-08T15:31:00-05:00">
+      <text>DEBATE - The House proceeded with 10 minutes of debate on the Becerra motion to recommit with instructions, pending the reservation of a point of order. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment prohibiting the amendments in section 2 of the bill from taking effect if additional, listed conditions could be expected as a result.</text>
+    </action>
+    <action datetime="2015-01-08T15:41:00-05:00">
+      <text>The previous question on the motion to recommit with instructions was ordered without objection.</text>
+      <reference ref="CR H139" label="consideration"/>
+    </action>
+    <action datetime="2015-01-08T16:08:00-05:00">
+      <text>On motion to recommit with instructions Failed by the Yeas and Nays: 179 - 244 (Roll no. 13).</text>
+    </action>
+    <vote how="roll" type="vote" roll="14" datetime="2015-01-08T16:17:00-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by recorded vote: 252 - 172 (Roll no. 14).</text>
+      <reference ref="CR H125-126" label="text"/>
+    </vote>
+    <action datetime="2015-01-08T16:17:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2015-01-09">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="2015-01-12">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee code="HSBU" name="House Budget" activity="Referral"/>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="rule" session="114" type="hr" number="19"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Sales and excise taxes"/>
+  </subjects>
+  <amendments/>
+  <summary>1/8/2015--Passed House without amendment.
+(This measure has not been amended since it was introduced. The summary of that version is repeated here.)
+
+Save American Workers Act of 2015 
+
+This bill amends the Internal&#160;Revenue Code to change the definition of "full-time employee" for purposes of the employer mandate to provide minimum essential health care coverage under the&#160;Patient Protection and Affordable Care Act from an employee who is employed on average at least 30 hours of service&#160;a week to an employee who is employed on average at least 40 hours of service a week.</summary>
+</bill>

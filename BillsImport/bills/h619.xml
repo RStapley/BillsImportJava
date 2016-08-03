@@ -1,0 +1,67 @@
+<bill session="114" type="h" number="619" updated="2015-07-08T04:47:23-04:00">
+  <state datetime="2015-01-28">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-28"/>
+  </status>
+  <introduced datetime="2015-01-28"/>
+  <titles>
+    <title type="short" as="introduced">Collaborative Academic Research Efforts for Tourette Syndrome Act of 2015</title>
+    <title type="official" as="introduced">To amend the Public Health Service Act to provide for the expansion, intensification, and coordination of the programs and activities of the National Institutes of Health with respect to Tourette syndrome.</title>
+  </titles>
+  <sponsor id="412186"/>
+  <cosponsors>
+    <cosponsor id="412571" joined="2015-04-23"/>
+    <cosponsor id="412600" joined="2015-04-30"/>
+    <cosponsor id="412236" joined="2015-06-12"/>
+    <cosponsor id="412215" joined="2015-04-14"/>
+    <cosponsor id="400142" joined="2015-04-15"/>
+    <cosponsor id="412612" joined="2015-04-13"/>
+    <cosponsor id="400162" joined="2015-02-09"/>
+    <cosponsor id="400185" joined="2015-05-13"/>
+    <cosponsor id="412603" joined="2015-04-13"/>
+    <cosponsor id="412616" joined="2015-04-13"/>
+    <cosponsor id="400263" joined="2015-03-25"/>
+    <cosponsor id="412506" joined="2015-02-13"/>
+    <cosponsor id="412307" joined="2015-04-15"/>
+    <cosponsor id="412585" joined="2015-04-14"/>
+    <cosponsor id="412647" joined="2015-04-13"/>
+    <cosponsor id="400361" joined="2015-04-28"/>
+    <cosponsor id="412254" joined="2015-07-07"/>
+    <cosponsor id="412211" joined="2015-04-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-28" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-01-30">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Government information and archives"/>
+    <term name="Health information and medical records"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Medical research"/>
+    <term name="Neurological disorders"/>
+    <term name="Research administration and funding"/>
+  </subjects>
+  <amendments/>
+  <summary>1/28/2015--Introduced.
+Collaborative Academic Research Efforts for Tourette Syndrome Act of 2015
+
+Amends the Public Health Service Act to require the National Institutes of Health (NIH) to expand, intensify, and coordinate NIH research on Tourette syndrome.
+
+Requires the NIH to develop a system to collect data on Tourette syndrome, including epidemiological information, primary data, and data on the availability of medical and social services for individuals with Tourette syndrome and their families.
+
+ Requires the NIH to award grants and contracts to public or nonprofit private entities to support four to six Collaborative Research Centers for Tourette Syndrome in different regions to conduct basic and clinical research on Tourette syndrome.
+
+ Requires the NIH to award grants for research on the full range of symptoms within the Tourette syndrome clinical spectrum and the efficacy of treatment options for particular patient subpopulations.
+
+Requires the NIH to designate a portion of the amounts made available to carry out NIH programs and activities for a fiscal year to carry out programs and activities with respect to Tourette syndrome.</summary>
+</bill>

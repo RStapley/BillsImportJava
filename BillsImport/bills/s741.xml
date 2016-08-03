@@ -1,0 +1,51 @@
+<bill session="114" type="s" number="741" updated="2015-04-04T06:39:37-04:00">
+  <state datetime="2015-03-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-16"/>
+  </status>
+  <introduced datetime="2015-03-16"/>
+  <titles>
+    <title type="short" as="introduced">Water Infrastructure Resiliency and Sustainability Act of 2015</title>
+    <title type="official" as="introduced">A bill to authorize the Administrator of the Environmental Protection Agency to establish a program of awarding grants to owners or operators of water systems to increase the resiliency or adaptability of the systems to any ongoing or forecasted changes to the hydrologic conditions of a region of the United States.</title>
+  </titles>
+  <sponsor id="400064"/>
+  <cosponsors>
+    <cosponsor id="300011" joined="2015-03-16"/>
+    <cosponsor id="300082" joined="2015-03-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-16">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S1530"/>
+    </action>
+    <action datetime="2015-03-16" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+      <reference ref="CR S1530-1531" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1278"/>
+  </relatedbills>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Alternative and renewable resources"/>
+    <term name="Climate change and greenhouse gases"/>
+    <term name="Energy efficiency and conservation"/>
+    <term name="Floods and storm protection"/>
+    <term name="Hydrology and hydrography"/>
+    <term name="Infrastructure development"/>
+    <term name="Labor standards"/>
+    <term name="Land use and conservation"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Wages and earnings"/>
+    <term name="Water quality"/>
+    <term name="Water resources funding"/>
+    <term name="Water storage"/>
+    <term name="Water use and supply"/>
+    <term name="Watersheds"/>
+  </subjects>
+  <amendments/>
+</bill>

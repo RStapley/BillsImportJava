@@ -1,0 +1,46 @@
+<bill session="114" type="h" number="195" updated="2015-03-05T04:46:15-05:00">
+  <state datetime="2015-03-04">REPORTED</state>
+  <status>
+    <unknown datetime="2015-03-04"/>
+  </status>
+  <introduced datetime="2015-01-07"/>
+  <titles>
+    <title type="short" as="introduced">Election Assistance Commission Termination Act</title>
+    <title type="official" as="introduced">To terminate the Election Assistance Commission.</title>
+  </titles>
+  <sponsor id="412280"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-01-07" state="REFERRED">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+    <action datetime="2015-03-04">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-03-04" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congressional elections"/>
+    <term name="Election Assistance Commission"/>
+    <term name="Elections, voting, political campaign regulation"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Federal Election Commission (FEC)"/>
+    <term name="Office of Management and Budget (OMB)"/>
+  </subjects>
+  <amendments/>
+  <summary>1/7/2015--Introduced.
+Election Assistance Commission Termination Act
+
+ Amends the Help America Vote Act of 2002 to terminate the Election Assistance Commission (EAC), the EAC Standards Board, and the EAC Board of Advisors. Requires the Director of the Office of Management and Budget to perform EAC functions with respect to certain existing contracts and agreements during the transition period for winding up EAC affairs.
+
+Transfers specified election administration functions of the EAC to the Federal Election Commission.
+
+Terminates the Technical Guidelines Development Committee.</summary>
+</bill>

@@ -1,0 +1,130 @@
+<bill session="114" type="h" number="921" updated="2015-07-30T04:48:16-04:00">
+  <state datetime="2015-02-12">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-12"/>
+  </status>
+  <introduced datetime="2015-02-12"/>
+  <titles>
+    <title type="short" as="introduced">Sports Medicine Licensure Clarity Act of 2015</title>
+    <title type="official" as="introduced">To provide protections for certain sports medicine professionals who provide certain medical services in a secondary State.</title>
+  </titles>
+  <sponsor id="412278"/>
+  <cosponsors>
+    <cosponsor id="412625" joined="2015-05-13"/>
+    <cosponsor id="412500" joined="2015-05-20"/>
+    <cosponsor id="412642" joined="2015-03-03"/>
+    <cosponsor id="412655" joined="2015-06-04"/>
+    <cosponsor id="412469" joined="2015-05-13"/>
+    <cosponsor id="412541" joined="2015-04-28"/>
+    <cosponsor id="412250" joined="2015-05-01"/>
+    <cosponsor id="412635" joined="2015-04-30"/>
+    <cosponsor id="400032" joined="2015-04-30"/>
+    <cosponsor id="400636" joined="2015-04-29"/>
+    <cosponsor id="412567" joined="2015-04-30"/>
+    <cosponsor id="412622" joined="2015-06-25"/>
+    <cosponsor id="412236" joined="2015-05-13"/>
+    <cosponsor id="412563" joined="2015-02-20"/>
+    <cosponsor id="412651" joined="2015-04-30"/>
+    <cosponsor id="412555" joined="2015-06-25"/>
+    <cosponsor id="412505" joined="2015-04-30"/>
+    <cosponsor id="400648" joined="2015-04-30"/>
+    <cosponsor id="412477" joined="2015-04-30"/>
+    <cosponsor id="400116" joined="2015-07-29"/>
+    <cosponsor id="412457" joined="2015-04-28"/>
+    <cosponsor id="400124" joined="2015-06-15"/>
+    <cosponsor id="412479" joined="2015-06-25"/>
+    <cosponsor id="412480" joined="2015-05-13"/>
+    <cosponsor id="400158" joined="2015-02-24"/>
+    <cosponsor id="412485" joined="2015-05-15"/>
+    <cosponsor id="412454" joined="2015-02-26"/>
+    <cosponsor id="400170" joined="2015-04-30"/>
+    <cosponsor id="412584" joined="2015-07-10"/>
+    <cosponsor id="412446" joined="2015-03-23"/>
+    <cosponsor id="412609" joined="2015-03-03"/>
+    <cosponsor id="400185" joined="2015-05-20"/>
+    <cosponsor id="412511" joined="2015-05-13"/>
+    <cosponsor id="412284" joined="2015-07-29"/>
+    <cosponsor id="412460" joined="2015-06-01"/>
+    <cosponsor id="412603" joined="2015-05-13"/>
+    <cosponsor id="412465" joined="2015-04-30"/>
+    <cosponsor id="412583" joined="2015-05-13"/>
+    <cosponsor id="412616" joined="2015-04-13"/>
+    <cosponsor id="412209" joined="2015-03-24"/>
+    <cosponsor id="412445" joined="2015-04-22"/>
+    <cosponsor id="400656" joined="2015-05-01"/>
+    <cosponsor id="412468" joined="2015-04-30"/>
+    <cosponsor id="412487" joined="2015-04-15"/>
+    <cosponsor id="412568" joined="2015-05-13"/>
+    <cosponsor id="412474" joined="2015-05-15"/>
+    <cosponsor id="412475" joined="2015-06-15"/>
+    <cosponsor id="412575" joined="2015-04-28"/>
+    <cosponsor id="412302" joined="2015-06-23"/>
+    <cosponsor id="412303" joined="2015-04-13"/>
+    <cosponsor id="412523" joined="2015-05-13"/>
+    <cosponsor id="412306" joined="2015-07-22"/>
+    <cosponsor id="412585" joined="2015-05-20"/>
+    <cosponsor id="412431" joined="2015-03-04"/>
+    <cosponsor id="400626" joined="2015-05-13"/>
+    <cosponsor id="412393" joined="2015-07-16"/>
+    <cosponsor id="412489" joined="2015-05-13"/>
+    <cosponsor id="412432" joined="2015-02-12"/>
+    <cosponsor id="412310" joined="2015-07-22"/>
+    <cosponsor id="412426" joined="2015-05-20"/>
+    <cosponsor id="412202" joined="2015-07-29"/>
+    <cosponsor id="412641" joined="2015-07-23"/>
+    <cosponsor id="412417" joined="2015-07-29"/>
+    <cosponsor id="400363" joined="2015-04-14"/>
+    <cosponsor id="400373" joined="2015-07-20"/>
+    <cosponsor id="412509" joined="2015-07-07"/>
+    <cosponsor id="412461" joined="2015-06-09"/>
+    <cosponsor id="412514" joined="2015-06-11"/>
+    <cosponsor id="412520" joined="2015-06-09"/>
+    <cosponsor id="400402" joined="2015-05-13"/>
+    <cosponsor id="412405" joined="2015-05-13"/>
+    <cosponsor id="412319" joined="2015-04-30"/>
+    <cosponsor id="412213" joined="2015-05-13"/>
+    <cosponsor id="412538" joined="2015-07-22"/>
+    <cosponsor id="412214" joined="2015-05-20"/>
+    <cosponsor id="412239" joined="2015-07-16"/>
+    <cosponsor id="412610" joined="2015-05-13"/>
+    <cosponsor id="412402" joined="2015-02-12"/>
+    <cosponsor id="412628" joined="2015-06-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-12" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-02-12">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-02-12">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2015-02-13">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="689"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Athletes"/>
+    <term name="Civil actions and liability"/>
+    <term name="Health care quality"/>
+    <term name="Health personnel"/>
+    <term name="Jurisdiction and venue"/>
+    <term name="Professional sports"/>
+    <term name="School athletics"/>
+  </subjects>
+  <amendments/>
+  <summary>2/12/2015--Introduced.
+Sports Medicine Licensure Clarity Act of 2015
+
+Provides that for purposes of medical professional liability insurance or civil and criminal malpractice liability determinations, a physician or athletic trainer (covered sports medicine professional) who is authorized to practice medicine in a state (primary state) and who provides medical services to an athlete or athletic team in a state where such professional is not authorized to practice (secondary state) shall be deemed to have provided such medical services in the primary state, provided that prior to providing the covered medical services such professional has disclosed the nature and extent of such services to the entity that provides such professional with medical professional liability insurance in the primary state.</summary>
+</bill>

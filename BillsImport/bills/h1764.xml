@@ -1,0 +1,55 @@
+<bill session="114" type="h" number="1764" updated="2015-06-20T06:33:13-04:00">
+  <state datetime="2015-04-14">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-14"/>
+  </status>
+  <introduced datetime="2015-04-14"/>
+  <titles>
+    <title type="short" as="introduced">United States Chief Technology Officer Act</title>
+    <title type="official" as="introduced">To provide for the designation of the United States Chief Technology Officer.</title>
+  </titles>
+  <sponsor id="412624"/>
+  <cosponsors>
+    <cosponsor id="412567" joined="2015-04-14"/>
+    <cosponsor id="412658" joined="2015-04-14"/>
+    <cosponsor id="412460" joined="2015-04-14"/>
+    <cosponsor id="412634" joined="2015-04-21"/>
+    <cosponsor id="400365" joined="2015-04-14"/>
+    <cosponsor id="400381" joined="2015-04-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-14" state="REFERRED">
+      <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-04-14">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2015-04-14">
+      <text>Referred to House Science, Space, and Technology</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+    <committee code="HSSY" name="House Science, Space, and Technology" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1806"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Advanced technology and technological innovations"/>
+    <term name="Computer security and identity theft"/>
+    <term name="Computers and information technology"/>
+    <term name="Executive Office of the President"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Federal officials"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Right of privacy"/>
+    <term name="Scientific communication"/>
+  </subjects>
+  <amendments/>
+  <summary>4/14/2015--Introduced.
+United States Chief Technology Officer Act
+
+Amends the&#160;National Science and Technology Policy, Organization, and Priorities Act of 1976 to authorize the President to appoint a United States Chief Technology Officer whose duties shall include advising the President and the Director of the Office of Science and Technology Policy on federal information systems, technology, data, and innovation policies and initiatives.</summary>
+</bill>

@@ -1,0 +1,39 @@
+<bill session="114" type="s" number="1682" updated="2015-07-11T07:01:21-04:00">
+  <state datetime="2015-06-25">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-25"/>
+  </status>
+  <introduced datetime="2015-06-25"/>
+  <titles>
+    <title type="short" as="introduced">Iran Sanctions Relief Oversight Act of 2015</title>
+    <title type="official" as="introduced">A bill to extend the Iran Sanctions Act of 1996 and to require the Secretary of the Treasury to report on the use by Iran of funds made available through sanctions relief.</title>
+  </titles>
+  <sponsor id="400222"/>
+  <cosponsors>
+    <cosponsor id="400272" joined="2015-06-25"/>
+    <cosponsor id="412491" joined="2015-07-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-25" state="REFERRED">
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1705"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+  </subjects>
+  <amendments/>
+  <summary>6/25/2015--Introduced.
+Iran Sanctions Relief Oversight Act of 2015
+
+This bill extends the Iran Sanctions Act of 1996 through December 31, 2026.
+
+The Secretary of the Treasury shall report to Congress assessing:
+
+ the monetary value of any sanctions relief that Iran has received since the Joint Plan of Action entered into effect; Iran's use of such funds funds, including to support international terrorism and the al-Assad regime in Syria, advance nuclear weapons or ballistic missile efforts, or commit any violation of the human rights of the people of Iran; and the extent to which senior Iranian officials have diverted sanctions relief funds into their personal accounts.</summary>
+</bill>

@@ -1,0 +1,47 @@
+<bill session="114" type="s" number="708" updated="2015-05-02T06:46:10-04:00">
+  <state datetime="2015-03-11">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-11"/>
+  </status>
+  <introduced datetime="2015-03-11"/>
+  <titles>
+    <title type="short" as="introduced">Regulatory Improvement Act of 2015</title>
+    <title type="official" as="introduced">A bill to establish an independent advisory committee to review certain regulations, and for other purposes.</title>
+  </titles>
+  <sponsor id="412545"/>
+  <cosponsors>
+    <cosponsor id="400034" joined="2015-03-11"/>
+    <cosponsor id="412323" joined="2015-03-11"/>
+    <cosponsor id="400432" joined="2015-03-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-11" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1407"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Advisory bodies"/>
+    <term name="Congressional oversight"/>
+    <term name="Legislative rules and procedure"/>
+    <term name="Public participation and lobbying"/>
+  </subjects>
+  <amendments/>
+  <summary>3/11/2015--Introduced.
+Regulatory Improvement Act of 2015
+
+Establishes in the legislative branch the Regulatory Improvement Commission.
+
+Requires the Commission to evaluate and make recommendations and propose legislation for modification, consolidation, or repeal of regulations that have been finalized not later than 10 years before the establishment of the Commission (covered regulations) for the purpose of reducing compliance costs, encouraging growth and innovation, improving competitiveness, and protecting public safety.
+
+ Requires the Commission to give priority to covered regulations that: (1) impose disproportionately high costs on a small entity, (2) create substantial recurring paperwork burdens or transaction costs, or (3) could be made more effective while reducing regulatory costs.
+
+Sets forth reporting requirements for the Commission and procedures for congressional consideration of Commission reports and recommendations and proposed legislation.</summary>
+</bill>

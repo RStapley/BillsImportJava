@@ -1,0 +1,27 @@
+<bill session="114" type="h" number="3191" updated="2015-08-01T06:46:25-04:00">
+  <state datetime="2015-07-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-23"/>
+  </status>
+  <introduced datetime="2015-07-23"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Consolidated and Further Continuing Appropriations Act, 2015 with respect to funding available for fiscal year 2015 for certain general business loans authorized under the Small Business Act, to amend the Small Business Act to modify loan limitations, and for other purposes.</title>
+  </titles>
+  <sponsor id="400071"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-23" state="REFERRED">
+      <text>Referred to the House Committee on Small Business.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSM" name="House Small Business" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="2499"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commerce"/>
+  </subjects>
+  <amendments/>
+</bill>

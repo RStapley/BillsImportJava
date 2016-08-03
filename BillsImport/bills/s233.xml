@@ -1,0 +1,79 @@
+<bill session="114" type="s" number="233" updated="2015-02-27T04:47:35-05:00">
+  <state datetime="2015-01-22">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-22"/>
+  </status>
+  <introduced datetime="2015-01-22"/>
+  <titles>
+    <title type="short" as="introduced">Working Families Flexibility Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend the Fair Labor Standards Act of 1938 to provide compensatory time for employees in the private sector.</title>
+  </titles>
+  <sponsor id="412495"/>
+  <cosponsors>
+    <cosponsor id="300002" joined="2015-01-22"/>
+    <cosponsor id="412493" joined="2015-01-22"/>
+    <cosponsor id="412251" joined="2015-01-22"/>
+    <cosponsor id="400034" joined="2015-01-22"/>
+    <cosponsor id="400054" joined="2015-01-22"/>
+    <cosponsor id="400061" joined="2015-01-22"/>
+    <cosponsor id="300027" joined="2015-01-22"/>
+    <cosponsor id="300030" joined="2015-01-22"/>
+    <cosponsor id="412573" joined="2015-01-22"/>
+    <cosponsor id="412549" joined="2015-01-22"/>
+    <cosponsor id="300041" joined="2015-02-26"/>
+    <cosponsor id="412556" joined="2015-01-22"/>
+    <cosponsor id="400134" joined="2015-01-22"/>
+    <cosponsor id="400194" joined="2015-01-22"/>
+    <cosponsor id="300072" joined="2015-01-22"/>
+    <cosponsor id="300075" joined="2015-01-22"/>
+    <cosponsor id="412666" joined="2015-01-28"/>
+    <cosponsor id="412322" joined="2015-01-22"/>
+    <cosponsor id="412669" joined="2015-01-22"/>
+    <cosponsor id="412491" joined="2015-01-22"/>
+    <cosponsor id="412471" joined="2015-01-22"/>
+    <cosponsor id="300088" joined="2015-01-28"/>
+    <cosponsor id="400546" joined="2015-01-22"/>
+    <cosponsor id="400408" joined="2015-01-22"/>
+    <cosponsor id="400418" joined="2015-01-22"/>
+    <cosponsor id="400432" joined="2015-01-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-22" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="465"/>
+  </relatedbills>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Administrative remedies"/>
+    <term name="Civil actions and liability"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Labor"/>
+    <term name="Employee leave"/>
+    <term name="Employment discrimination and employee rights"/>
+    <term name="Government studies and investigations"/>
+    <term name="Labor standards"/>
+    <term name="Labor-management relations"/>
+    <term name="Wages and earnings"/>
+  </subjects>
+  <amendments/>
+  <summary>1/22/2015--Introduced.
+Working Families Flexibility Act of 2015
+
+ Amends the Fair Labor Standards Act of 1938 to authorize private employers to provide compensatory time off to private employees at a rate of 1 1/2 hours per hour of employment for which overtime compensation is required. Authorizes an employer to provide compensatory time only if it is in accordance with an applicable collective bargaining agreement or, in the absence of such an agreement, an agreement between the employer and employee.
+
+Prohibits an employee from accruing more than 160 hours of compensatory time. Requires an employee's employer to provide monetary compensation, after the end of a calendar year, for any unused compensatory time off accrued during the preceding year.
+
+Requires an employer to give employees 30-day notice before discontinuing compensatory time off.
+
+Prohibits an employer from intimidating, threatening, or coercing an employee in order to: (1) interfere with the employee's right to request or not to request compensatory time off in lieu of payment of monetary overtime compensation, or (2) require an employee to use such compensatory time.
+
+Makes an employer who violates such requirements liable to the affected employee in the amount of the compensation rate for each hour of compensatory time accrued, plus an additional equal amount as liquidated damages, reduced for each hour of compensatory time used.
+
+Directs the Comptroller General to report to Congress every three years on: (1) the extent to which employers provide compensatory time off and employees opt to receive it; (2) the number of complaints filed by an employee with the Secretary of Labor alleging a violation of the requirements as well as enforcement actions commenced by the Secretary on behalf of an aggrieved employee; (3) the disposition of such complaints and actions; and (4) any unpaid wages, damages, penalties, injunctive relief, or other remedies sought by the Secretary in connection with such actions.</summary>
+</bill>

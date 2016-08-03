@@ -1,0 +1,41 @@
+<bill session="114" type="s" number="732" updated="2015-04-04T06:39:32-04:00">
+  <state datetime="2015-03-12">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-12"/>
+  </status>
+  <introduced datetime="2015-03-12"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Act of June 18, 1934, to reaffirm the authority of the Secretary of the Interior to take land into trust for Indian tribes.</title>
+  </titles>
+  <sponsor id="412244"/>
+  <cosponsors>
+    <cosponsor id="412378" joined="2015-03-12"/>
+    <cosponsor id="412281" joined="2015-03-12"/>
+    <cosponsor id="412554" joined="2015-03-12"/>
+    <cosponsor id="400284" joined="2015-03-12"/>
+    <cosponsor id="300076" joined="2015-03-12"/>
+    <cosponsor id="300093" joined="2015-03-12"/>
+    <cosponsor id="400413" joined="2015-03-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-12" state="REFERRED">
+      <text>Read twice and referred to the Committee on Indian Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SLIA" name="Senate Indian Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="407"/>
+  </relatedbills>
+  <subjects>
+    <term name="Native Americans"/>
+    <term name="Federal-Indian relations"/>
+    <term name="Indian lands and resources rights"/>
+  </subjects>
+  <amendments/>
+  <summary>3/12/2015--Introduced.
+Amends the Indian Reorganization Act to apply the Act to all federally recognized Indian tribes, regardless of when any tribe became recognized. (This effectively overrules the Supreme Court's decision in Carcieri v. Salazar, which held that the Secretary of the Interior could not take land into trust for a specified tribe because that tribe had not been under federal jurisdiction when the Act was enacted.)
+
+Ratifies and confirms any action taken by the Secretary pursuant to such Act for any Indian tribe that was federally recognized on the date of that action.</summary>
+</bill>

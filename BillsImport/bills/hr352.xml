@@ -1,0 +1,41 @@
+<bill session="114" type="hr" number="352" updated="2015-08-22T04:47:05-04:00">
+  <state datetime="2015-07-08">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-08"/>
+  </status>
+  <introduced datetime="2015-07-08"/>
+  <titles>
+    <title type="official" as="introduced">Expressing support for the designation of a "Prisoners of Conscience Day".</title>
+  </titles>
+  <sponsor id="400320"/>
+  <cosponsors>
+    <cosponsor id="400263" joined="2015-07-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-08" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2015-08-20">
+      <text>Referred to the Subcommittee on Africa, Global Health, Global Human Rights and International Organizations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSFA16" subcommittee="Africa, Global Health, Global Human Rights and International Organizations" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+  </subjects>
+  <amendments/>
+  <summary>7/8/2015--Introduced.
+Calls for the designation of a Prisoners of Conscience Day.
+
+ Requests that the President issue a proclamation recognizing Prisoners of Conscience Day.
+
+Encourages Members of Congress to raise individual prisoner of conscience cases in Congress, with the executive branch, with their constituents, to foreign governments and multilateral organizations, and during delegation trips abroad.
+
+Encourages the U.S. government to: (1) implement policies that support human rights programs, and (2) undertake actions directed at countries that detain prisoners of conscience in violation of international standards.
+
+Urges that advocacy on behalf of prisoners of conscience be pursued at every level of U.S. foreign policy and in all bilateral and multilateral engagements.</summary>
+</bill>

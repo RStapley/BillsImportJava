@@ -1,0 +1,39 @@
+<bill session="114" type="h" number="562" updated="2015-05-01T04:47:21-04:00">
+  <state datetime="2015-01-27">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-27"/>
+  </status>
+  <introduced datetime="2015-01-27"/>
+  <titles>
+    <title type="short" as="introduced">Improving Education for Foster Youth Act</title>
+    <title type="official" as="introduced">To improve transfer of earned school credits for foster youth.</title>
+  </titles>
+  <sponsor id="412276"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-01-27" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+    <action datetime="2015-04-29">
+      <text>Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee activity="Referral" code="HSED14" subcommittee="Early Childhood, Elementary, and Secondary Education" name="House Education and the Workforce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Adoption and foster care"/>
+    <term name="Education of the disadvantaged"/>
+    <term name="Education programs funding"/>
+    <term name="Elementary and secondary education"/>
+    <term name="School administration"/>
+  </subjects>
+  <amendments/>
+  <summary>1/27/2015--Introduced.
+Improving Education for Foster Youth Act
+
+Amends the Elementary and Secondary Education Act of 1965 (ESEA) to require states that receive ESEA assistance to implement policies ensuring that foster care children who are changing schools can transfer school credits and receive partial credits for coursework satisfactorily completed while attending a prior school or educational program.</summary>
+</bill>

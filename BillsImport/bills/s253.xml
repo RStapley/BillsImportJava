@@ -1,0 +1,77 @@
+<bill session="114" type="s" number="253" updated="2015-07-11T06:49:24-04:00">
+  <state datetime="2015-06-10">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2015-06-10"/>
+  </status>
+  <introduced datetime="2015-01-26"/>
+  <titles>
+    <title type="short" as="introduced">Federal Communications Commission Consolidated Reporting Act of 2015</title>
+    <title type="short" as="reported to senate">Federal Communications Commission Consolidated Reporting Act of 2015</title>
+    <title type="short" as="passed senate">Federal Communications Commission Consolidated Reporting Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend the Communications Act of 1934 to consolidate the reporting obligations of the Federal Communications Commission in order to improve congressional oversight and reduce reporting burdens.</title>
+  </titles>
+  <sponsor id="412218"/>
+  <cosponsors>
+    <cosponsor id="412507" joined="2015-02-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-26" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+    <calendar datetime="2015-02-26" state="REPORTED">
+      <text>Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+    <action datetime="2015-05-22">
+      <text>Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 114-58.</text>
+    </action>
+    <calendar datetime="2015-05-22" calendar="Senate Legislative" under="General Orders" number="100">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 100.</text>
+    </calendar>
+    <vote how="by Unanimous Consent" type="vote" datetime="2015-06-10" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+      <reference ref="CR S4059-4061" label="consideration"/>
+      <reference ref="CR S4059-4061" label="text"/>
+    </vote>
+    <action datetime="2015-06-11">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2015-06-11T15:00:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2015-06-11T16:31:00-04:00">
+      <text>Held at the desk.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="734"/>
+  </relatedbills>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Competition and antitrust"/>
+    <term name="Congressional oversight"/>
+    <term name="Federal Communications Commission (FCC)"/>
+    <term name="Government information and archives"/>
+    <term name="Internet and video services"/>
+    <term name="Small business"/>
+    <term name="Telephone and wireless communication"/>
+  </subjects>
+  <amendments/>
+  <summary>6/10/2015--Passed Senate amended.
+(This measure has not been amended since it was reported to the Senate on May 22, 2015. The summary of that version is repeated here.)
+
+Federal Communications Commission Consolidated Reporting Act of 2015
+
+(Sec. 2) Amends the Communications Act of 1934 to replace various reporting requirements with a communications marketplace report that the Federal Communications Commission (FCC) is required to publish on its website and submit to Congress every two years assessing: (1) competition in the communications marketplace; (2) deployment of communications capabilities, including advanced telecommunications capabilities; and (3) whether laws, regulations, regulatory practices, or demonstrated marketplace practices pose a barrier to competitive entry or expansion of existing providers of communications services.
+
+Requires each report to describe the FCC's agenda for the next two years.
+
+Directs the FCC to: (1) include a list of geographic areas that are not served by any provider of advanced telecommunications capability; and (2) consider market entry barriers for entrepreneurs and small businesses in accordance with national policy favoring diversity of media voices, competition, technological advancement, and promotion of the public interest, convenience, and necessity.
+
+Establishes a process for the FCC to publish a report after the applicable deadline if it provides to Congress, and posts on the FCC website, a notification letter (within 7 days after the deadline and every 60 days thereafter) regarding the delay and the anticipated date on which the report will be published.
+
+(Sec. 3) Repeals or consolidates various reports of the FCC and the Corporation for Public Broadcasting, including reports on satellite competition, international broadband, video programming, cable industry prices, small business entry barriers, commercial mobile radio, services to minority and diverse audiences, waivers from requirements prohibiting FCC employees from being financially interested in companies subject to FCC regulation, and several other existing reports under such Act.</summary>
+</bill>

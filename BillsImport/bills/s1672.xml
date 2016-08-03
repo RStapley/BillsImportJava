@@ -1,0 +1,30 @@
+<bill session="114" type="s" number="1672" updated="2015-08-15T07:05:48-04:00">
+  <state datetime="2015-06-24">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-24"/>
+  </status>
+  <introduced datetime="2015-06-24"/>
+  <titles>
+    <title type="short" as="introduced">Commercial Driver Act</title>
+    <title type="official" as="introduced">A bill to authorize States to enter into interstate compacts regarding Class A commercial driver's licenses.</title>
+  </titles>
+  <sponsor id="412556"/>
+  <cosponsors>
+    <cosponsor id="412244" joined="2015-07-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-24" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="3283"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+</bill>

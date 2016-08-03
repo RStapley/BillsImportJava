@@ -1,0 +1,82 @@
+<bill session="114" type="sr" number="65" updated="2015-05-02T06:39:01-04:00">
+  <state datetime="2015-02-24">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2015-02-24"/>
+  </status>
+  <introduced datetime="2015-02-04"/>
+  <titles>
+    <title type="official" as="introduced">A resolution supporting efforts to bring an end to violence perpetrated by Boko Haram, and urging the Government of Nigeria to conduct transparent, peaceful, and credible elections.</title>
+  </titles>
+  <sponsor id="400272"/>
+  <cosponsors>
+    <cosponsor id="400040" joined="2015-02-04"/>
+    <cosponsor id="412390" joined="2015-02-04"/>
+    <cosponsor id="300038" joined="2015-02-04"/>
+    <cosponsor id="400194" joined="2015-02-04"/>
+    <cosponsor id="300065" joined="2015-02-12"/>
+    <cosponsor id="412323" joined="2015-02-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-04">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S782"/>
+    </action>
+    <action datetime="2015-02-04" state="REFERRED">
+      <text>Referred to the Committee on Foreign Relations.</text>
+      <reference ref="CR S781-782" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2015-02-24">
+      <text>Senate Committee on Foreign Relations discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="2015-02-24">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S1081-1083" label="consideration"/>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="2015-02-24" where="s" result="pass" state="PASSED:SIMPLERES">
+      <text>Resolution agreed to in Senate with an amendment and an amended preamble by Voice Vote.</text>
+      <reference ref="CR S1082-1083" label="text"/>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="hr" number="147"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Africa"/>
+    <term name="Cameroon"/>
+    <term name="Chad"/>
+    <term name="Crimes against women"/>
+    <term name="Elections, voting, political campaign regulation"/>
+    <term name="Human rights"/>
+    <term name="Niger"/>
+    <term name="Nigeria"/>
+    <term name="Political movements and philosophies"/>
+    <term name="Racial and ethnic relations"/>
+    <term name="Religion"/>
+    <term name="Rule of law and government transparency"/>
+    <term name="Terrorism"/>
+    <term name="Women's rights"/>
+  </subjects>
+  <amendments>
+    <amendment number="s252"/>
+    <amendment number="s253"/>
+    <amendment number="s254"/>
+  </amendments>
+  <summary>2/24/2015--Passed Senate amended.
+Condemns Boko Haram for its violent attacks, particularly the indiscriminate targeting of civilians, especially women and girls, and the use of children as fighters and suicide bombers.
+
+ Stands with: (1) the people of Nigeria in their right to live free from fear of state or nonstate actors; (2) the people of Cameroon, Chad, and Niger who are increasingly at risk from Boko Haram's violence; and (3) the international community in its efforts to defeat Boko Haram.
+
+ Supports the Abuja Accord, and calls on candidates, party officials, and adherents of all political movements to refrain from divisive rhetoric and actions.
+
+ Condemns civilian abuses by Nigerian security forces.
+
+ Urges the government of Nigeria to:
+
+ adhere to the new time line for elections and ensure credible and peaceful elections, refrain from using security concerns to impede the democratic process and from using the security apparatus for political purposes, prioritize the security of Nigerians vulnerable to Boko Haram, implement a civilian security response to defeat Boko Haram that addresses political and economic grievances of citizens in the north, improve Nigeria's security forces, and cooperate with regional and international partners to defeat Boko Haram. Urges all Nigerians to engage in the electoral process and to reject divisive actions.
+
+Reaffirms that the people of the United States stand with the people of Nigeria in support of peace and democracy.</summary>
+</bill>

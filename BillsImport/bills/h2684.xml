@@ -1,0 +1,54 @@
+<bill session="114" type="h" number="2684" updated="2015-08-08T06:41:45-04:00">
+  <state datetime="2015-06-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-04"/>
+  </status>
+  <introduced datetime="2015-06-04"/>
+  <titles>
+    <title type="short" as="introduced">Alabama-Coushatta Tribe of Texas Equal and Fair Opportunity Settlement Act</title>
+    <title type="official" as="introduced">To restore tribal economic development opportunity for the Alabama-Coushatta Tribe of Texas on terms that are equal and fair, and for other purposes.</title>
+  </titles>
+  <sponsor id="400440"/>
+  <cosponsors>
+    <cosponsor id="412655" joined="2015-06-04"/>
+    <cosponsor id="400018" joined="2015-06-04"/>
+    <cosponsor id="412517" joined="2015-06-04"/>
+    <cosponsor id="412513" joined="2015-06-04"/>
+    <cosponsor id="412403" joined="2015-06-04"/>
+    <cosponsor id="400160" joined="2015-06-04"/>
+    <cosponsor id="400162" joined="2015-06-04"/>
+    <cosponsor id="412510" joined="2015-06-04"/>
+    <cosponsor id="412521" joined="2015-06-04"/>
+    <cosponsor id="412519" joined="2015-06-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-04" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2015-07-01">
+      <text>Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.</text>
+    </action>
+    <action datetime="2015-07-15">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral, Hearings" code="HSII24" subcommittee="Indian, Insular and Alaska Native Affairs" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1457"/>
+  </relatedbills>
+  <subjects>
+    <term name="Native Americans"/>
+  </subjects>
+  <amendments/>
+  <summary>6/4/2015--Introduced.
+Alabama-Coushatta Tribe of Texas Equal and Fair Opportunity Settlement Act
+
+ This bill amends the Alabama-Coushatta Tribes of Texas Restoration Act to repeal the prohibition against gaming activities by the Alabama-Coushatta Tribe of Texas on its lands if those gaming activities are prohibited by Texas law.
+
+The United States and the Tribe must execute and file in each applicable court a motion for dismissal of any pending claim arising out of or relating to any interest in the aboriginal lands of the Tribe.
+
+Any claim by or on behalf of the Tribe, or any predecessor in interest or any of its members, against the United States, Texas, or any landowner, which is based on any interest in or right involving any land or natural resources regarding the aboriginal lands, is hereby extinguished.</summary>
+</bill>

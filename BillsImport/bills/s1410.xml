@@ -1,0 +1,36 @@
+<bill session="114" type="s" number="1410" updated="2015-08-01T07:03:59-04:00">
+  <state datetime="2015-05-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-21"/>
+  </status>
+  <introduced datetime="2015-05-21"/>
+  <titles>
+    <title type="short" as="introduced">Treatment and Recovery Investment Act</title>
+    <title type="official" as="introduced">A bill to amend the Public Health Service Act to provide grants to improve the treatment of substance use disorders.</title>
+  </titles>
+  <sponsor id="400253"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-05-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Child health"/>
+    <term name="Congressional oversight"/>
+    <term name="Drug therapy"/>
+    <term name="Drug trafficking and controlled substances"/>
+    <term name="Drug, alcohol, tobacco use"/>
+    <term name="Government studies and investigations"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Home and outpatient care"/>
+    <term name="Prescription drugs"/>
+    <term name="Women's health"/>
+  </subjects>
+  <amendments/>
+</bill>

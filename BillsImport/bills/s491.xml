@@ -1,0 +1,74 @@
+<bill session="114" type="s" number="491" updated="2015-08-22T06:55:47-04:00">
+  <state datetime="2015-02-12">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-12"/>
+  </status>
+  <introduced datetime="2015-02-12"/>
+  <titles>
+    <title type="short" as="introduced">Freedom to Export to Cuba Act of 2015</title>
+    <title type="official" as="introduced">A bill to lift the trade embargo on Cuba.</title>
+  </titles>
+  <sponsor id="412242"/>
+  <cosponsors>
+    <cosponsor id="400013" joined="2015-06-23"/>
+    <cosponsor id="300011" joined="2015-06-18"/>
+    <cosponsor id="300038" joined="2015-02-12"/>
+    <cosponsor id="300041" joined="2015-02-12"/>
+    <cosponsor id="400134" joined="2015-02-12"/>
+    <cosponsor id="412378" joined="2015-05-18"/>
+    <cosponsor id="412281" joined="2015-07-07"/>
+    <cosponsor id="412554" joined="2015-06-09"/>
+    <cosponsor id="412545" joined="2015-06-10"/>
+    <cosponsor id="300065" joined="2015-02-12"/>
+    <cosponsor id="400253" joined="2015-06-15"/>
+    <cosponsor id="412243" joined="2015-05-20"/>
+    <cosponsor id="412194" joined="2015-06-16"/>
+    <cosponsor id="412492" joined="2015-02-24"/>
+    <cosponsor id="412507" joined="2015-07-27"/>
+    <cosponsor id="412323" joined="2015-07-14"/>
+    <cosponsor id="300093" joined="2015-02-12"/>
+    <cosponsor id="412244" joined="2015-05-22"/>
+    <cosponsor id="412542" joined="2015-07-08"/>
+    <cosponsor id="412247" joined="2015-06-08"/>
+    <cosponsor id="300100" joined="2015-04-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-12">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S986-987"/>
+    </action>
+    <action datetime="2015-02-12" state="REFERRED">
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="3238"/>
+    <bill relation="unknown" session="114" type="s" number="1543"/>
+  </relatedbills>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Caribbean area"/>
+    <term name="Cuba"/>
+    <term name="Latin America"/>
+  </subjects>
+  <amendments/>
+  <summary>2/12/2015--Introduced.
+Freedom to Export to Cuba Act of 2015
+
+This bill repeals or amends current laws restricting trade with Cuba.
+
+The prohibition on assistance to Cuba, and the President's authority for the embargo on Cuba, under the Foreign Assistance Act of 1961 are eliminated.
+
+The President's authority to continue direct restrictions on trade with Cuba under the Trading with the Enemy Act is eliminated, and any related regulations are no longer effective.
+
+The Cuban Democracy Act of 1992 is amended to eliminate:
+
+ presidential authority to impose sanctions against Cuban trading partners, restrictions on transactions between U.S.-owned or controlled firms and Cuba, limitations on direct shipping between Cuban and U.S. ports, and restrictions on remittances. The Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 1996 is amended to eliminate:
+
+ the enforcement of an economic embargo of Cuban provisions, and the prohibition on indirect financing of Cuba. The Trade Sanctions Reform and Export Enhancement Act of 2000 is amended to:
+
+ remove Cuba from the list of state sponsors of terrorism subject to agricultural and medical export restrictions; and repeal the prohibition on the U.S. entry of merchandise that is of Cuban origin, is or has been located in or transported from or through Cuba, or is made or derived in whole or in part of any article which is the growth, produce, or manufacture of Cuba.</summary>
+</bill>

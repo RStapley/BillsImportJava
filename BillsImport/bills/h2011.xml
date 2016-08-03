@@ -1,0 +1,37 @@
+<bill session="114" type="h" number="2011" updated="2015-06-13T06:35:14-04:00">
+  <state datetime="2015-04-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-23"/>
+  </status>
+  <introduced datetime="2015-04-23"/>
+  <titles>
+    <title type="official" as="introduced">To amend title 10, United States Code, to remove the authority of the Secretaries of the military departments to revoke combat valor awards.</title>
+  </titles>
+  <sponsor id="412283"/>
+  <cosponsors>
+    <cosponsor id="400142" joined="2015-04-23"/>
+    <cosponsor id="400157" joined="2015-04-23"/>
+    <cosponsor id="412421" joined="2015-04-23"/>
+    <cosponsor id="412409" joined="2015-04-23"/>
+    <cosponsor id="412483" joined="2015-04-23"/>
+    <cosponsor id="400433" joined="2015-04-23"/>
+    <cosponsor id="412640" joined="2015-04-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-23" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Military operations and strategy"/>
+    <term name="Military personnel and dependents"/>
+  </subjects>
+  <amendments/>
+  <summary>4/23/2015--Introduced.
+Prohibits the Secretary of a military department from revoking any combat valor award.</summary>
+</bill>

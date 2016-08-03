@@ -1,0 +1,50 @@
+<bill session="114" type="s" number="709" updated="2015-08-04T04:47:25-04:00">
+  <state datetime="2015-03-11">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-11"/>
+  </status>
+  <introduced datetime="2015-03-11"/>
+  <titles>
+    <title type="short" as="introduced">Restoring Access to Medication Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to repeal the amendments made by the Patient Protection and Affordable Care Act which disqualify expenses for over-the-counter drugs under health savings accounts and health flexible spending arrangements.</title>
+  </titles>
+  <sponsor id="300083"/>
+  <cosponsors>
+    <cosponsor id="412493" joined="2015-03-24"/>
+    <cosponsor id="400054" joined="2015-03-11"/>
+    <cosponsor id="400061" joined="2015-03-19"/>
+    <cosponsor id="300025" joined="2015-03-11"/>
+    <cosponsor id="400134" joined="2015-03-11"/>
+    <cosponsor id="300052" joined="2015-03-11"/>
+    <cosponsor id="412554" joined="2015-03-11"/>
+    <cosponsor id="412218" joined="2015-03-11"/>
+    <cosponsor id="400194" joined="2015-03-11"/>
+    <cosponsor id="412545" joined="2015-03-11"/>
+    <cosponsor id="400222" joined="2015-08-03"/>
+    <cosponsor id="300071" joined="2015-07-29"/>
+    <cosponsor id="412491" joined="2015-03-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-11" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="1270"/>
+    <bill relation="unknown" session="114" type="s" number="254"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Income tax deductions"/>
+    <term name="Prescription drugs"/>
+  </subjects>
+  <amendments/>
+  <summary>3/11/2015--Introduced.
+Restoring Access to Medication Act of 2015
+
+ Repeals provisions of the Internal Revenue Code, as added by the Patient Protection and Affordable Care Act, that limit payments for medications from health savings accounts, medical savings accounts, and health flexible spending arrangements to only prescription drugs or insulin (thus allowing distributions from such accounts for over-the-counter drugs).</summary>
+</bill>

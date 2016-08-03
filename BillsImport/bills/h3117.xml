@@ -1,0 +1,27 @@
+<bill session="114" type="h" number="3117" updated="2015-07-22T12:47:59-04:00">
+  <state datetime="2015-07-20">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-20"/>
+  </status>
+  <introduced datetime="2015-07-20"/>
+  <titles>
+    <title type="short" as="introduced">FEM Products Act of 2015</title>
+    <title type="short" as="introduced">Fund Essential Menstruation Products Act of 2015</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to provide for reimbursement from health flexible spending arrangements for feminine hygiene products.</title>
+  </titles>
+  <sponsor id="412560"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-20" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+</bill>

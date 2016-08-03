@@ -1,0 +1,71 @@
+<bill session="114" type="h" number="2829" updated="2015-08-15T06:43:02-04:00">
+  <state datetime="2015-06-18">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-18"/>
+  </status>
+  <introduced datetime="2015-06-18"/>
+  <titles>
+    <title type="short" as="introduced">Free Market Healthcare Restoration and Coverage Act of 2015</title>
+    <title type="official" as="introduced">To repeal the Patient Protection and Affordable Care Act and health care-related provisions in the Health Care and Education Reconciliation Act of 2010, and for other purposes.</title>
+  </titles>
+  <sponsor id="400108"/>
+  <cosponsors>
+    <cosponsor id="400344" joined="2015-06-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-18" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, Education and the Workforce, Natural Resources, the Judiciary, House Administration, Rules, Appropriations, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-06-18">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-06-18">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-06-18">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+    <action datetime="2015-06-18">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2015-06-18">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2015-06-18">
+      <text>Referred to House House Administration</text>
+    </action>
+    <action datetime="2015-06-18">
+      <text>Referred to House Rules</text>
+    </action>
+    <action datetime="2015-06-18">
+      <text>Referred to House Appropriations</text>
+    </action>
+    <action datetime="2015-06-18">
+      <text>Referred to House Budget</text>
+    </action>
+    <action datetime="2015-06-19">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2015-07-14">
+      <text>Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII24" subcommittee="Indian, Insular and Alaska Native Affairs" name="House Natural Resources"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee code="HSHA" name="House Administration" activity="Referral"/>
+    <committee code="HSRU" name="House Rules" activity="Referral"/>
+    <committee code="HSAP" name="House Appropriations" activity="Referral"/>
+    <committee code="HSBU" name="House Budget" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+</bill>

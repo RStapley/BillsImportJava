@@ -1,0 +1,65 @@
+<bill session="114" type="h" number="2223" updated="2015-08-15T06:37:56-04:00">
+  <state datetime="2015-07-09">REPORTED</state>
+  <status>
+    <unknown datetime="2015-07-09"/>
+  </status>
+  <introduced datetime="2015-05-01"/>
+  <titles>
+    <title type="short" as="introduced">Crags, Colorado Land Exchange Act of 2015</title>
+    <title type="official" as="introduced">To authorize, direct, expedite, and facilitate a land exchange in El Paso and Teller Counties, Colorado, and for other purposes.</title>
+  </titles>
+  <sponsor id="412191"/>
+  <cosponsors>
+    <cosponsor id="412308" joined="2015-05-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-01" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2015-06-05">
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+    </action>
+    <action datetime="2015-06-16">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="2015-07-08">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2015-07-09">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-07-09" state="REPORTED">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+    </calendar>
+    <action datetime="2015-07-09">
+      <text>Subcommittee on Federal Lands Discharged.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII10" subcommittee="Federal Lands" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="1941"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Colorado"/>
+    <term name="Forests, forestry, trees"/>
+    <term name="Land transfers"/>
+    <term name="Land use and conservation"/>
+  </subjects>
+  <amendments/>
+  <summary>5/1/2015--Introduced.
+Crags, Colorado Land Exchange Act of 2015
+
+This bill directs the Department of Agriculture (USDA), if the Broadmoor Hotel, Inc., (BHI) offers to convey to the USDA 320 acres of specified nonfederal land in the Pike National Forest in Teller County, Colorado, and a permanent trail easement for the Barr Trail in El Paso County, Colorado, to accept the offer and convey to BHI 83 acres of specified federal land within the Forest, together with a non-exclusive perpetual access easement for BHI to and from such land on Forest Service Road 371.
+
+The nonexclusive perpetual access easement granted to BHI shall allow: (1) BHI to fully maintain, at its own expense, and use Forest Service Road 371 from its junction with Forest Service Road 368 in accordance with historic BHI use and maintenance patterns; and (2) full and continued public and administrative access and use of FSR 371 in accordance with the existing Forest Service travel management plan, or as it may be revised by USDA.
+
+The USDA shall determine the values of the lands to be exchanged through appraisals following specified requirements. The values shall be equal, or if they are not equal, equalized as prescribed by this Act.
+
+The Barr Trail easement donation shall not be appraised for purposes of this Act.
+
+The land acquired by the USDA under this Act shall become part of the Pike-San Isabel National Forest.</summary>
+</bill>

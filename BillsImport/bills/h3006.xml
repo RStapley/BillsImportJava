@@ -1,0 +1,35 @@
+<bill session="114" type="h" number="3006" updated="2015-07-23T04:49:07-04:00">
+  <state datetime="2015-07-09">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-09"/>
+  </status>
+  <introduced datetime="2015-07-09"/>
+  <titles>
+    <title type="short" as="introduced">Helping Save Americans' Health Care Choices Act of 2015</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to improve health savings accounts, and for other purposes.</title>
+  </titles>
+  <sponsor id="412275"/>
+  <cosponsors>
+    <cosponsor id="412625" joined="2015-07-22"/>
+    <cosponsor id="412463" joined="2015-07-16"/>
+    <cosponsor id="412510" joined="2015-07-21"/>
+    <cosponsor id="400313" joined="2015-07-16"/>
+    <cosponsor id="412551" joined="2015-07-16"/>
+    <cosponsor id="412310" joined="2015-07-16"/>
+    <cosponsor id="400607" joined="2015-07-21"/>
+    <cosponsor id="412213" joined="2015-07-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-09" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,50 @@
+<bill session="114" type="h" number="2896" updated="2015-07-29T04:48:53-04:00">
+  <state datetime="2015-06-25">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-25"/>
+  </status>
+  <introduced datetime="2015-06-25"/>
+  <titles>
+    <title type="short" as="introduced">TAILOR Act of 2015</title>
+    <title type="short" as="introduced">Taking Account of Institutions with Low Operation Risk Act of 2015</title>
+    <title type="official" as="introduced">To require the Federal financial institutions regulatory agencies to take risk profiles and business models of institutions into account when taking regulatory actions, and for other purposes.</title>
+  </titles>
+  <sponsor id="412405"/>
+  <cosponsors>
+    <cosponsor id="412541" joined="2015-06-25"/>
+    <cosponsor id="412627" joined="2015-07-10"/>
+    <cosponsor id="412567" joined="2015-07-22"/>
+    <cosponsor id="412271" joined="2015-07-10"/>
+    <cosponsor id="400077" joined="2015-07-22"/>
+    <cosponsor id="412555" joined="2015-07-22"/>
+    <cosponsor id="400086" joined="2015-07-22"/>
+    <cosponsor id="412639" joined="2015-07-22"/>
+    <cosponsor id="412482" joined="2015-07-09"/>
+    <cosponsor id="412397" joined="2015-07-22"/>
+    <cosponsor id="412484" joined="2015-07-22"/>
+    <cosponsor id="412284" joined="2015-07-22"/>
+    <cosponsor id="412465" joined="2015-07-22"/>
+    <cosponsor id="412487" joined="2015-07-22"/>
+    <cosponsor id="412633" joined="2015-07-22"/>
+    <cosponsor id="412431" joined="2015-07-22"/>
+    <cosponsor id="412309" joined="2015-07-22"/>
+    <cosponsor id="412650" joined="2015-07-22"/>
+    <cosponsor id="412217" joined="2015-07-23"/>
+    <cosponsor id="400406" joined="2015-07-28"/>
+    <cosponsor id="412618" joined="2015-07-10"/>
+    <cosponsor id="412628" joined="2015-07-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-25" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+  </subjects>
+  <amendments/>
+</bill>

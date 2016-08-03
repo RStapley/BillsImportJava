@@ -1,0 +1,52 @@
+<bill session="114" type="h" number="1545" updated="2015-07-24T04:48:00-04:00">
+  <state datetime="2015-03-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-23"/>
+  </status>
+  <introduced datetime="2015-03-23"/>
+  <titles>
+    <title type="short" as="introduced">Lieutenant Osvaldo Albarati Correctional Officer Self-Protection Act of 2015</title>
+    <title type="official" as="introduced">To amend title 18, United States Code, to require that the Director of the Bureau of Prisons ensure that each chief executive officer of a Federal penal or correctional institution provides a secure storage area located outside of the secure perimeter of the Federal penal or correctional institution for firearms carried by certain employees of the Bureau of Prisons, and for other purposes.</title>
+  </titles>
+  <sponsor id="412409"/>
+  <cosponsors>
+    <cosponsor id="412513" joined="2015-03-23"/>
+    <cosponsor id="412472" joined="2015-03-23"/>
+    <cosponsor id="412446" joined="2015-05-13"/>
+    <cosponsor id="412663" joined="2015-07-23"/>
+    <cosponsor id="412460" joined="2015-06-11"/>
+    <cosponsor id="412603" joined="2015-03-23"/>
+    <cosponsor id="408211" joined="2015-04-14"/>
+    <cosponsor id="412306" joined="2015-03-26"/>
+    <cosponsor id="400341" joined="2015-03-23"/>
+    <cosponsor id="412515" joined="2015-03-23"/>
+    <cosponsor id="412214" joined="2015-03-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-23" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-04-21">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="1592"/>
+    <bill relation="identical" session="114" type="s" number="368"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Correctional facilities and imprisonment"/>
+    <term name="Firearms and explosives"/>
+    <term name="Law enforcement officers"/>
+  </subjects>
+  <amendments/>
+  <summary>3/23/2015--Introduced.
+Lieutenant Osvaldo Albarati Correctional Officer Self-Protection Act of 2015
+
+ Amends the federal criminal code to require the Bureau of Prisons to ensure that each chief executive officer of a federal penal or correctional institution: (1) provides a secure storage area located outside of the secure perimeter of the institution for qualified law enforcement officers employed by the Bureau to store firearms, or allows such officers to store firearms in a vehicle lockbox approved by the Bureau; and (2) allows such officers to carry concealed firearms on the premises outside of the secure perimeter of the institution.</summary>
+</bill>

@@ -1,0 +1,36 @@
+<bill session="114" type="h" number="1645" updated="2015-06-27T06:46:24-04:00">
+  <state datetime="2015-03-26">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-26"/>
+  </status>
+  <introduced datetime="2015-03-26"/>
+  <titles>
+    <title type="short" as="introduced">Transportation for Elderly and Disabled Individuals Act of 2015</title>
+    <title type="official" as="introduced">To amend title 49, United States Code, with respect to urbanized area formula grants, and for other purposes.</title>
+  </titles>
+  <sponsor id="412579"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-03-26" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2015-03-27">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW12" subcommittee="Highways and Transit" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+  <summary>3/26/2015--Introduced.
+Transportation for Elderly and Disabled Individuals Act of 2015
+
+This bill revises a special rule granting the Department of Transportation authority to make urbanized area formula grants to states or designated entities to finance the operating cost of equipment and facilities for use in public transportation.
+
+These grants may also be used for public transportation systems that operate a specified number of buses in general public demand response service during peak hours.</summary>
+</bill>

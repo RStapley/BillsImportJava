@@ -1,0 +1,51 @@
+<bill session="114" type="hr" number="102" updated="2015-06-24T04:47:27-04:00">
+  <state datetime="2015-02-10">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-10"/>
+  </status>
+  <introduced datetime="2015-02-10"/>
+  <titles>
+    <title type="official" as="introduced">Expressing support for designation of September 25, 2015, as "National Pediatric Bone Cancer Awareness Day".</title>
+  </titles>
+  <sponsor id="412482"/>
+  <cosponsors>
+    <cosponsor id="412655" joined="2015-02-13"/>
+    <cosponsor id="400030" joined="2015-02-13"/>
+    <cosponsor id="412236" joined="2015-03-03"/>
+    <cosponsor id="400170" joined="2015-03-26"/>
+    <cosponsor id="412465" joined="2015-02-13"/>
+    <cosponsor id="400259" joined="2015-06-23"/>
+    <cosponsor id="400263" joined="2015-04-13"/>
+    <cosponsor id="400295" joined="2015-02-13"/>
+    <cosponsor id="412523" joined="2015-04-21"/>
+    <cosponsor id="400316" joined="2015-03-03"/>
+    <cosponsor id="400333" joined="2015-02-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-10" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-02-13">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Cancer"/>
+    <term name="Child health"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="Musculoskeletal and skin diseases"/>
+    <term name="Social work, volunteer service, charitable organizations"/>
+  </subjects>
+  <amendments/>
+  <summary>2/10/2015--Introduced.
+Expresses support for the designation of National Pediatric Bone Cancer Awareness Day.
+
+Commends: (1) children battling bone cancer, and their families and friends, for their courage and perseverance; (2) organizations like the Triumph Over Kid Cancer Foundation that raise awareness and encourage the accurate and early diagnosis of pediatric bone cancer; and (3) the researchers, scientists, and health care providers who are dedicated to treating and finding a cure for pediatric bone cancer.</summary>
+</bill>

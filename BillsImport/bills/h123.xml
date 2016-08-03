@@ -1,0 +1,41 @@
+<bill session="114" type="h" number="123" updated="2015-04-24T04:46:32-04:00">
+  <state datetime="2015-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-06"/>
+  </status>
+  <introduced datetime="2015-01-06"/>
+  <titles>
+    <title type="short" as="introduced">FHA Alternative Credit Pilot Program Reauthorization Act of 2015</title>
+    <title type="official" as="introduced">To extend the pilot program under section 258 of the National Housing Act that establishes an automated process for providing alternative credit rating information for mortgagors and prospective mortgagors under certain mortgages.</title>
+  </titles>
+  <sponsor id="400653"/>
+  <cosponsors>
+    <cosponsor id="412258" joined="2015-01-09"/>
+    <cosponsor id="412379" joined="2015-01-06"/>
+    <cosponsor id="400093" joined="2015-01-13"/>
+    <cosponsor id="400179" joined="2015-01-09"/>
+    <cosponsor id="412638" joined="2015-04-23"/>
+    <cosponsor id="400661" joined="2015-01-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-06" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Housing and community development"/>
+    <term name="Consumer credit"/>
+    <term name="Government information and archives"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Housing finance and home ownership"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/2015--Introduced.
+FHA Alternative Credit Pilot Program Reauthorization Act of 2015
+
+ Amends the National Housing Act to extend from five to 10 years the pilot program to establish for mortgagees an automated process for providing alternative credit rating information on mortgagors and prospective mortgagors under mortgages on 1- to 4-family residences who have insufficient credit histories for determining their creditworthiness.</summary>
+</bill>

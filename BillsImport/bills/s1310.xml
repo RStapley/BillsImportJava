@@ -1,0 +1,39 @@
+<bill session="114" type="s" number="1310" updated="2015-08-08T07:02:41-04:00">
+  <state datetime="2015-05-12">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-12"/>
+  </status>
+  <introduced datetime="2015-05-12"/>
+  <titles>
+    <title type="short" as="introduced">Deficit Reduction Through Fair Oil Royalties Act</title>
+    <title type="official" as="introduced">A bill to prohibit the Secretary of the Interior from issuing new oil or natural gas production leases in the Gulf of Mexico under the Outer Continental Shelf Lands Act to a person that does not renegotiate its existing leases in order to require royalty payments if oil and natural gas prices are greater than or equal to specified price thresholds, and for other purposes.</title>
+  </titles>
+  <sponsor id="400253"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-05-12" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2015-06-09">
+      <text>Committee on Energy and Natural Resources. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="844"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+  </subjects>
+  <amendments/>
+  <summary>5/12/2015--Introduced.
+Deficit Reduction Through Fair Oil Royalties Act
+
+This bill prohibits the Department of the Interior from issuing new oil or natural gas production leases in the Gulf of Mexico under the Outer Continental Shelf Lands Act unless they have been renegotiated to require royalty payments if the price of oil and natural gas is greater than or equal to specified price thresholds.
+
+Rentals or royalties received by the United States under covered leases must be deposited in the Treasury and used for federal budget deficit reduction or, if there is no federal budget deficit, federal debt reduction.
+
+Interior must agree to a lessee's request to amend a lease to incorporate price thresholds applicable to royalty suspension requirements that are equal to or less than certain statutory price thresholds if the lease was issued for any Central and Western Gulf of Mexico tract on or after January 1, 1996, through November 28, 2000.</summary>
+</bill>

@@ -1,0 +1,47 @@
+<bill session="114" type="h" number="67" updated="2015-05-20T04:47:28-04:00">
+  <state datetime="2015-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-06"/>
+  </status>
+  <introduced datetime="2015-01-06"/>
+  <titles>
+    <title type="short" as="introduced">Domestic Violence Safety Plan Grant Program Act of 2015</title>
+    <title type="short" as="introduced">My Sister's Keeper Act of 2015</title>
+    <title type="official" as="introduced">To establish a grant program to empower relatives, friends, and co-workers of domestic violence victims to create safety plans.</title>
+  </titles>
+  <sponsor id="400199"/>
+  <cosponsors>
+    <cosponsor id="412236" joined="2015-02-05"/>
+    <cosponsor id="400170" joined="2015-02-10"/>
+    <cosponsor id="412561" joined="2015-05-19"/>
+    <cosponsor id="412638" joined="2015-05-08"/>
+    <cosponsor id="412506" joined="2015-05-08"/>
+    <cosponsor id="400333" joined="2015-02-10"/>
+    <cosponsor id="400363" joined="2015-02-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-06" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-01-12">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Crime prevention"/>
+    <term name="Crime victims"/>
+    <term name="Domestic violence and child abuse"/>
+    <term name="Law enforcement administration and funding"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/2015--Introduced.
+Domestic Violence Safety Plan Grant Program Act of 2015 or My Sister's Keeper Act of 2015
+
+ Directs the Attorney General to establish a program to award grants to eligible state and local governments, educational institutions, and non-profit organizations to develop, promote, and teach the importance of the critical role that can be played by relatives, friends, and co-workers in combatting domestic violence.</summary>
+</bill>

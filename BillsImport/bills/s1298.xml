@@ -1,0 +1,32 @@
+<bill session="114" type="s" number="1298" updated="2015-06-26T04:49:41-04:00">
+  <state datetime="2015-06-25">REPORTED</state>
+  <status>
+    <unknown datetime="2015-06-25"/>
+  </status>
+  <introduced datetime="2015-05-12"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide nationally consistent measures of performance of the Nation's ports, and for other purposes.</title>
+  </titles>
+  <sponsor id="400546"/>
+  <cosponsors>
+    <cosponsor id="300002" joined="2015-05-12"/>
+    <cosponsor id="412556" joined="2015-05-12"/>
+    <cosponsor id="412406" joined="2015-05-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-12" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+    <calendar datetime="2015-06-25" state="REPORTED">
+      <text>Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+</bill>

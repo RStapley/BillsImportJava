@@ -1,0 +1,55 @@
+<bill session="114" type="h" number="814" updated="2015-07-30T04:48:08-04:00">
+  <state datetime="2015-02-09">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-09"/>
+  </status>
+  <introduced datetime="2015-02-09"/>
+  <titles>
+    <title type="short" as="introduced">Thin Blue Line Act</title>
+    <title type="official" as="introduced">To amend title 18, United States Code, to provide additional aggravating factors for the imposition of the death penalty based on the status of the victim.</title>
+  </titles>
+  <sponsor id="412603"/>
+  <cosponsors>
+    <cosponsor id="412629" joined="2015-02-24"/>
+    <cosponsor id="412513" joined="2015-02-10"/>
+    <cosponsor id="412555" joined="2015-02-11"/>
+    <cosponsor id="412526" joined="2015-03-19"/>
+    <cosponsor id="412284" joined="2015-02-12"/>
+    <cosponsor id="400244" joined="2015-07-29"/>
+    <cosponsor id="412540" joined="2015-02-24"/>
+    <cosponsor id="412662" joined="2015-02-10"/>
+    <cosponsor id="412409" joined="2015-02-24"/>
+    <cosponsor id="412411" joined="2015-03-19"/>
+    <cosponsor id="400367" joined="2015-02-10"/>
+    <cosponsor id="412317" joined="2015-07-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-09" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-03-16">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Crime victims"/>
+    <term name="Criminal procedure and sentencing"/>
+    <term name="Emergency medical services and trauma care"/>
+    <term name="Fires"/>
+    <term name="First responders and emergency personnel"/>
+    <term name="Health personnel"/>
+    <term name="Law enforcement officers"/>
+    <term name="Violent crime"/>
+  </subjects>
+  <amendments/>
+  <summary>2/9/2015--Introduced.
+Thin Blue Line Act
+
+ Amends the federal criminal code to make the killing or attempted killing of a law enforcement officer, firefighter, or other first responder an aggravating factor in death penalty determinations.</summary>
+</bill>

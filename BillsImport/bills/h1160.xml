@@ -1,0 +1,50 @@
+<bill session="114" type="h" number="1160" updated="2015-07-11T06:28:18-04:00">
+  <state datetime="2015-02-27">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-27"/>
+  </status>
+  <introduced datetime="2015-02-27"/>
+  <titles>
+    <title type="short" as="introduced">Savings Act</title>
+    <title type="short" as="introduced">Water Supply Cost Savings Act</title>
+    <title type="official" as="introduced">To reduce Federal, State, and local costs of providing high-quality drinking water to millions of people in the United States residing in rural communities by facilitating greater use of cost-effective alternative systems, including well water systems, and for other purposes.</title>
+  </titles>
+  <sponsor id="412392"/>
+  <cosponsors>
+    <cosponsor id="412454" joined="2015-04-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-27" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-02-27">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-02-27">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2015-03-06">
+      <text>Referred to the Subcommittee on Environment and the Economy.</text>
+    </action>
+    <action datetime="2015-03-16">
+      <text>Referred to the Subcommittee on Commodity Exchanges, Energy, and Credit.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF18" subcommittee="Environment and the Economy" name="House Energy and Commerce"/>
+    <committee code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee activity="Referral" code="HSAG22" subcommittee="Commodity Exchanges, Energy, and Credit" name="House Agriculture"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1642"/>
+  </relatedbills>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Government information and archives"/>
+    <term name="Hydrology and hydrography"/>
+    <term name="Rural conditions and development"/>
+    <term name="Water use and supply"/>
+  </subjects>
+  <amendments/>
+</bill>

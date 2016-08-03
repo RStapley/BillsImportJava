@@ -1,0 +1,28 @@
+<bill session="114" type="s" number="2000" updated="2015-08-22T07:08:29-04:00">
+  <state datetime="2015-08-05">REFERRED</state>
+  <status>
+    <introduced datetime="2015-08-05"/>
+  </status>
+  <introduced datetime="2015-08-05"/>
+  <titles>
+    <title type="short" as="introduced">Veterans Access to Long Term Care and Health Services Act</title>
+    <title type="official" as="introduced">A bill to amend title 38, United States Code, to allow the Secretary of Veterans Affairs to enter into certain agreements with non-Department of Veterans Affairs health care providers if the Secretary is not feasibly able to provide health care in facilities of the Department or through contracts or sharing agreements, and for other purposes.</title>
+  </titles>
+  <sponsor id="412494"/>
+  <cosponsors>
+    <cosponsor id="412391" joined="2015-08-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-08-05" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+</bill>

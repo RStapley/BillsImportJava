@@ -1,0 +1,52 @@
+<bill session="114" type="h" number="3105" updated="2015-07-24T04:49:03-04:00">
+  <state datetime="2015-07-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-16"/>
+  </status>
+  <introduced datetime="2015-07-16"/>
+  <titles>
+    <title type="short" as="introduced">Equal Dignity for Married Taxpayers Act of 2015</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to clarify that all provisions shall apply to legally married same-sex couples in the same manner as other married couples, and for other purposes.</title>
+  </titles>
+  <sponsor id="400238"/>
+  <cosponsors>
+    <cosponsor id="400021" joined="2015-07-16"/>
+    <cosponsor id="400033" joined="2015-07-16"/>
+    <cosponsor id="400075" joined="2015-07-16"/>
+    <cosponsor id="400080" joined="2015-07-22"/>
+    <cosponsor id="400087" joined="2015-07-16"/>
+    <cosponsor id="400093" joined="2015-07-16"/>
+    <cosponsor id="400101" joined="2015-07-23"/>
+    <cosponsor id="412637" joined="2015-07-16"/>
+    <cosponsor id="400111" joined="2015-07-16"/>
+    <cosponsor id="400189" joined="2015-07-16"/>
+    <cosponsor id="412546" joined="2015-07-22"/>
+    <cosponsor id="400218" joined="2015-07-16"/>
+    <cosponsor id="400233" joined="2015-07-16"/>
+    <cosponsor id="412638" joined="2015-07-22"/>
+    <cosponsor id="400240" joined="2015-07-16"/>
+    <cosponsor id="400262" joined="2015-07-16"/>
+    <cosponsor id="400291" joined="2015-07-16"/>
+    <cosponsor id="400309" joined="2015-07-16"/>
+    <cosponsor id="400314" joined="2015-07-16"/>
+    <cosponsor id="400333" joined="2015-07-16"/>
+    <cosponsor id="400355" joined="2015-07-16"/>
+    <cosponsor id="400403" joined="2015-07-16"/>
+    <cosponsor id="400415" joined="2015-07-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-16" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="1740"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+</bill>

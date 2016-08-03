@@ -1,0 +1,43 @@
+<bill session="114" type="s" number="1042" updated="2015-05-16T06:49:02-04:00">
+  <state datetime="2015-04-22">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-22"/>
+  </status>
+  <introduced datetime="2015-04-22"/>
+  <titles>
+    <title type="short" as="introduced">Clean Ocean and Safe Tourism Anti-Drilling Act</title>
+    <title type="short" as="introduced">COAST Anti-Drilling Act</title>
+    <title type="official" as="introduced">A bill to amend the Outer Continental Shelf Lands Act to permanently prohibit the conduct of offshore drilling on the outer Continental Shelf in the Mid-Atlantic, South Atlantic, and North Atlantic planning areas.</title>
+  </titles>
+  <sponsor id="400272"/>
+  <cosponsors>
+    <cosponsor id="412490" joined="2015-04-22"/>
+    <cosponsor id="412598" joined="2015-04-22"/>
+    <cosponsor id="400064" joined="2015-04-22"/>
+    <cosponsor id="400253" joined="2015-04-22"/>
+    <cosponsor id="300073" joined="2015-04-22"/>
+    <cosponsor id="300081" joined="2015-04-22"/>
+    <cosponsor id="400357" joined="2015-04-22"/>
+    <cosponsor id="412542" joined="2015-04-22"/>
+    <cosponsor id="412247" joined="2015-04-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-22" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="1977"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+  </subjects>
+  <amendments/>
+  <summary>4/22/2015--Introduced.
+Clean Ocean and Safe Tourism Anti-Drilling Act or the COAST Anti-Drilling Act
+
+ Amends the Outer Continental Shelf Lands Act to prohibit the Secretary of the Interior from issuing a lease or other authorization for the exploration, development, or production of oil, natural gas, or any other mineral in either the Mid-Atlantic, South Atlantic, or the North Atlantic planning areas.</summary>
+</bill>

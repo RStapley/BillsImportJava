@@ -1,0 +1,110 @@
+<bill session="114" type="h" number="2156" updated="2015-08-01T04:50:52-04:00">
+  <state datetime="2015-04-30">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-30"/>
+  </status>
+  <introduced datetime="2015-04-30"/>
+  <titles>
+    <title type="short" as="introduced">Medicare Audit Improvement Act of 2015</title>
+    <title type="official" as="introduced">To amend title XVIII of the Social Security Act to reform the practices of recovery audit contractors under the Medicare program, and for other purposes.</title>
+  </titles>
+  <sponsor id="400158"/>
+  <cosponsors>
+    <cosponsor id="400004" joined="2015-05-18"/>
+    <cosponsor id="412469" joined="2015-07-21"/>
+    <cosponsor id="412512" joined="2015-06-09"/>
+    <cosponsor id="412627" joined="2015-05-18"/>
+    <cosponsor id="412629" joined="2015-04-30"/>
+    <cosponsor id="412516" joined="2015-05-14"/>
+    <cosponsor id="412379" joined="2015-05-19"/>
+    <cosponsor id="412400" joined="2015-04-30"/>
+    <cosponsor id="412536" joined="2015-05-08"/>
+    <cosponsor id="400648" joined="2015-07-31"/>
+    <cosponsor id="412482" joined="2015-05-12"/>
+    <cosponsor id="400142" joined="2015-07-16"/>
+    <cosponsor id="412532" joined="2015-07-13"/>
+    <cosponsor id="412453" joined="2015-06-25"/>
+    <cosponsor id="400154" joined="2015-06-12"/>
+    <cosponsor id="412485" joined="2015-07-28"/>
+    <cosponsor id="412661" joined="2015-05-18"/>
+    <cosponsor id="412454" joined="2015-05-13"/>
+    <cosponsor id="412280" joined="2015-05-05"/>
+    <cosponsor id="400179" joined="2015-06-17"/>
+    <cosponsor id="412429" joined="2015-05-12"/>
+    <cosponsor id="400195" joined="2015-05-12"/>
+    <cosponsor id="412460" joined="2015-05-26"/>
+    <cosponsor id="412649" joined="2015-06-02"/>
+    <cosponsor id="400219" joined="2015-05-14"/>
+    <cosponsor id="400220" joined="2015-07-07"/>
+    <cosponsor id="400245" joined="2015-05-14"/>
+    <cosponsor id="412445" joined="2015-05-18"/>
+    <cosponsor id="412521" joined="2015-05-12"/>
+    <cosponsor id="412292" joined="2015-05-12"/>
+    <cosponsor id="412558" joined="2015-05-08"/>
+    <cosponsor id="412294" joined="2015-06-02"/>
+    <cosponsor id="412643" joined="2015-05-05"/>
+    <cosponsor id="400259" joined="2015-06-23"/>
+    <cosponsor id="412540" joined="2015-07-29"/>
+    <cosponsor id="400276" joined="2015-06-03"/>
+    <cosponsor id="412523" joined="2015-06-16"/>
+    <cosponsor id="400316" joined="2015-05-18"/>
+    <cosponsor id="412307" joined="2015-07-31"/>
+    <cosponsor id="412431" joined="2015-05-14"/>
+    <cosponsor id="412331" joined="2015-05-13"/>
+    <cosponsor id="412489" joined="2015-05-19"/>
+    <cosponsor id="412647" joined="2015-06-23"/>
+    <cosponsor id="412426" joined="2015-05-08"/>
+    <cosponsor id="400361" joined="2015-04-30"/>
+    <cosponsor id="412396" joined="2015-05-19"/>
+    <cosponsor id="412186" joined="2015-07-22"/>
+    <cosponsor id="400378" joined="2015-05-12"/>
+    <cosponsor id="412514" joined="2015-06-17"/>
+    <cosponsor id="412405" joined="2015-05-08"/>
+    <cosponsor id="412617" joined="2015-05-14"/>
+    <cosponsor id="412579" joined="2015-07-07"/>
+    <cosponsor id="412548" joined="2015-04-30"/>
+    <cosponsor id="412213" joined="2015-06-02"/>
+    <cosponsor id="412610" joined="2015-07-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-30" state="REFERRED">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-04-30">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-04-30">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-05-01">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Accounting and auditing"/>
+    <term name="Debt collection"/>
+    <term name="Hospital care"/>
+    <term name="Medicare"/>
+    <term name="Public contracts and procurement"/>
+  </subjects>
+  <amendments/>
+  <summary>4/30/2015--Introduced.
+Medicare Audit Improvement Act of 2015
+
+This bill amends title XVIII (Medicare) of the Social Security Act (SSAct) with respect to the practices of recovery audit contractors (RACs) under the Medicare program fin identifying underpayments and overpayments and recouping overpayments.
+
+Incentive payments to a RAC for recovery activities are prohibited for FY2015 and subsequent fiscal years.
+
+Payments for recovery activities shall be reduced, according to a sliding scale established by the Secretary of Health and Human Services, to any RAC with a complex audit denial rate at the end of a fiscal year, determined pursuant to a specified formula, that is .1% or greater.
+
+The one-year timely filing limit for certain rebilled SSAct title XVIII part B (Supplementary Medical Insurance) claims is eliminated, extending the deadline for the rebill to 180 days after final denial of the claim.
+
+A determination of whether inpatient hospital services or inpatient critical access hospital services furnished to an individual are reasonable and necessary shall now be based solely on information available to the admitting physician at the time of the inpatient admission of the individual for such services, as documented in the medical record.</summary>
+</bill>

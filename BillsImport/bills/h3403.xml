@@ -1,0 +1,29 @@
+<bill session="114" type="h" number="3403" updated="2015-08-15T06:47:50-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">Safe Campus Act of 2015</title>
+    <title type="official" as="introduced">To amend the Higher Education Act of 1965 to protect victims of sexual violence, to improve the adjudication of allegations related to sexual violence, and for other purposes.</title>
+  </titles>
+  <sponsor id="400606"/>
+  <cosponsors>
+    <cosponsor id="400157" joined="2015-07-29"/>
+    <cosponsor id="400367" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+  </subjects>
+  <amendments/>
+</bill>

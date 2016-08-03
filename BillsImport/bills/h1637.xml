@@ -1,0 +1,92 @@
+<bill session="114" type="h" number="1637" updated="2015-08-01T06:33:05-04:00">
+  <state datetime="2015-06-23T17:02:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2015-06-23T17:02:00-04:00"/>
+  </status>
+  <introduced datetime="2015-03-25"/>
+  <titles>
+    <title type="short" as="introduced">Federally Funded Research and Development Sunshine Act of 2015</title>
+    <title type="short" as="reported to house">Federally Funded Research and Development Sunshine Act of 2015</title>
+    <title type="short" as="passed house">Federally Funded Research and Development Sunshine Act of 2015</title>
+    <title type="official" as="introduced">To require annual reports on the activities and accomplishments of federally funded research and development centers within the Department of Homeland Security, and for other purposes.</title>
+  </titles>
+  <sponsor id="412653"/>
+  <cosponsors>
+    <cosponsor id="412622" joined="2015-03-25"/>
+    <cosponsor id="412654" joined="2015-03-25"/>
+    <cosponsor id="412649" joined="2015-03-25"/>
+    <cosponsor id="412624" joined="2015-03-25"/>
+    <cosponsor id="400654" joined="2015-03-25"/>
+    <cosponsor id="412611" joined="2015-03-25"/>
+    <cosponsor id="400276" joined="2015-05-12"/>
+    <cosponsor id="412670" joined="2015-03-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-25" state="REFERRED">
+      <text>Referred to the House Committee on Homeland Security.</text>
+    </action>
+    <action datetime="2015-04-07">
+      <text>Referred to the Subcommittee on Cybersecurity, Infrastructure Protection, and Security Technologies.</text>
+    </action>
+    <action datetime="2015-04-07">
+      <text>Referred to the Subcommittee on Oversight and Management Efficiency.</text>
+    </action>
+    <action datetime="2015-05-20">
+      <text>Subcommittee on Cybersecurity, Infrastructure Protection, and Security Technologies Discharged.</text>
+    </action>
+    <action datetime="2015-05-20">
+      <text>Subcommittee on Oversight and Management Efficiency Discharged.</text>
+    </action>
+    <action datetime="2015-05-20">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-05-20" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </calendar>
+    <action datetime="2015-06-11T16:07:00-04:00">
+      <text>Reported by the Committee on Homeland Security. H. Rept. 114-149.</text>
+    </action>
+    <calendar datetime="2015-06-11T16:07:00-04:00" calendar="Union" number="107">
+      <text>Placed on the Union Calendar, Calendar No. 107.</text>
+    </calendar>
+    <action datetime="2015-06-23T16:55:00-04:00">
+      <text>Mr. Ratcliffe moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2015-06-23T16:55:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4572-4574" label="consideration"/>
+    </action>
+    <action datetime="2015-06-23T16:55:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1637.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2015-06-23T17:02:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H4573" label="text"/>
+    </vote>
+    <action datetime="2015-06-23T17:02:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2015-06-24">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSHM08" subcommittee="Cybersecurity, Infrastructure Protection, and Security Technologies" name="House Homeland Security"/>
+    <committee activity="Referral, Discharged" code="HSHM09" subcommittee="Oversight and Management Efficiency" name="House Homeland Security"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+  </subjects>
+  <amendments/>
+  <summary>6/23/2015--Passed House without amendment.
+(This measure has not been amended since it was introduced. The expanded summary of the House reported version is repeated here.)
+
+Federally Funded Research and Development Sunshine Act of 2015
+
+(Sec. 2) Directs the Department of Homeland Security (DHS) to annually submit to the Committee on Homeland Security, the Committee on Science, Space, and Technology, and the Committee on Appropriations of the House of Representatives and the Committee on Homeland Security and Governmental Affairs, the Committee on Commerce, Science, and Transportation, and the Committee on Appropriations of the Senate a list of ongoing and completed projects that federally funded research and development centers within DHS have been tasked to complete.
+
+Prohibits additional funds from being authorized to be appropriated to carry out this Act.</summary>
+</bill>

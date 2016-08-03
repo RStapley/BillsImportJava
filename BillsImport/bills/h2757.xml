@@ -1,0 +1,27 @@
+<bill session="114" type="h" number="2757" updated="2015-06-20T06:41:34-04:00">
+  <state datetime="2015-06-12">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-12"/>
+  </status>
+  <introduced datetime="2015-06-12"/>
+  <titles>
+    <title type="official" as="introduced">To prohibit United States voluntary contributions to the regular budget of the United Nations or any United Nations agency.</title>
+  </titles>
+  <sponsor id="412655"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-06-12" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+  </subjects>
+  <amendments/>
+  <summary>6/12/2015--Introduced.
+Prohibits funds made available to any federal agency for FY2015 and subsequent fiscal years from being used to make U.S. voluntary contributions to the regular budget of the United Nations or any U.N. agency.</summary>
+</bill>

@@ -1,0 +1,44 @@
+<bill session="114" type="s" number="1134" updated="2015-06-27T07:28:08-04:00">
+  <state datetime="2015-04-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-29"/>
+  </status>
+  <introduced datetime="2015-04-29"/>
+  <titles>
+    <title type="short" as="introduced">Heroin and Prescription Opioid Abuse Prevention, Education, and Enforcement Act of 2015</title>
+    <title type="official" as="introduced">A bill to address prescription opioid abuse and heroin use.</title>
+  </titles>
+  <sponsor id="412493"/>
+  <cosponsors>
+    <cosponsor id="412205" joined="2015-04-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-29" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="2805"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Advisory bodies"/>
+    <term name="Civil actions and liability"/>
+    <term name="Congressional oversight"/>
+    <term name="Crime prevention"/>
+    <term name="Drug therapy"/>
+    <term name="Drug, alcohol, tobacco use"/>
+    <term name="Emergency medical services and trauma care"/>
+    <term name="First responders and emergency personnel"/>
+    <term name="Government information and archives"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="Law enforcement administration and funding"/>
+    <term name="Medical research"/>
+    <term name="Prescription drugs"/>
+  </subjects>
+  <amendments/>
+</bill>

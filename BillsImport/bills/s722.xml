@@ -1,0 +1,37 @@
+<bill session="114" type="s" number="722" updated="2015-08-22T06:57:43-04:00">
+  <state datetime="2015-03-11">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-11"/>
+  </status>
+  <introduced datetime="2015-03-11"/>
+  <titles>
+    <title type="official" as="introduced">A bill to extend the date after which interest earned on obligations held in the wildlife restoration fund may be available for apportionment.</title>
+  </titles>
+  <sponsor id="412390"/>
+  <cosponsors>
+    <cosponsor id="400432" joined="2015-03-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-11" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="2345"/>
+    <bill relation="unknown" session="114" type="h" number="2406"/>
+    <bill relation="unknown" session="114" type="s" number="659"/>
+  </relatedbills>
+  <subjects>
+    <term name="Animals"/>
+    <term name="Government trust funds"/>
+    <term name="Interest, dividends, interest rates"/>
+    <term name="Wetlands"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+  <summary>3/11/2015--Introduced.
+This bill amends the Pittman-Robertson Wildlife Restoration Act to delay by 10 years until 2026 the date after which interest from the wildlife conservation and restoration fund is available for apportionment.</summary>
+</bill>

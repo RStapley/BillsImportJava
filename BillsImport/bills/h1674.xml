@@ -1,0 +1,81 @@
+<bill session="114" type="h" number="1674" updated="2015-06-11T04:47:36-04:00">
+  <state datetime="2015-03-26">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-26"/>
+  </status>
+  <introduced datetime="2015-03-26"/>
+  <titles>
+    <title type="short" as="introduced">Private Student Loan Bankruptcy Fairness Act of 2015</title>
+    <title type="official" as="introduced">To amend title 11 of the United States Code to modify the dischargeability of debts for certain educational payments and loans.</title>
+  </titles>
+  <sponsor id="412236"/>
+  <cosponsors>
+    <cosponsor id="400048" joined="2015-04-14"/>
+    <cosponsor id="412516" joined="2015-04-13"/>
+    <cosponsor id="400062" joined="2015-04-13"/>
+    <cosponsor id="412379" joined="2015-04-20"/>
+    <cosponsor id="412221" joined="2015-04-14"/>
+    <cosponsor id="400080" joined="2015-04-15"/>
+    <cosponsor id="412193" joined="2015-04-13"/>
+    <cosponsor id="400093" joined="2015-03-26"/>
+    <cosponsor id="400103" joined="2015-04-13"/>
+    <cosponsor id="412385" joined="2015-04-16"/>
+    <cosponsor id="412263" joined="2015-04-21"/>
+    <cosponsor id="412215" joined="2015-04-13"/>
+    <cosponsor id="412532" joined="2015-04-30"/>
+    <cosponsor id="400162" joined="2015-04-21"/>
+    <cosponsor id="400170" joined="2015-04-20"/>
+    <cosponsor id="400179" joined="2015-04-13"/>
+    <cosponsor id="412561" joined="2015-05-20"/>
+    <cosponsor id="412199" joined="2015-04-22"/>
+    <cosponsor id="412435" joined="2015-04-13"/>
+    <cosponsor id="400245" joined="2015-05-12"/>
+    <cosponsor id="400246" joined="2015-05-15"/>
+    <cosponsor id="412189" joined="2015-04-16"/>
+    <cosponsor id="400271" joined="2015-04-20"/>
+    <cosponsor id="412560" joined="2015-04-13"/>
+    <cosponsor id="400661" joined="2015-04-14"/>
+    <cosponsor id="412632" joined="2015-06-10"/>
+    <cosponsor id="400295" joined="2015-04-13"/>
+    <cosponsor id="412523" joined="2015-04-16"/>
+    <cosponsor id="412307" joined="2015-04-13"/>
+    <cosponsor id="400333" joined="2015-04-22"/>
+    <cosponsor id="400352" joined="2015-04-29"/>
+    <cosponsor id="400360" joined="2015-04-29"/>
+    <cosponsor id="412514" joined="2015-03-26"/>
+    <cosponsor id="412520" joined="2015-06-03"/>
+    <cosponsor id="412318" joined="2015-05-14"/>
+    <cosponsor id="400415" joined="2015-05-20"/>
+    <cosponsor id="412239" joined="2015-04-22"/>
+    <cosponsor id="412412" joined="2015-04-15"/>
+    <cosponsor id="412211" joined="2015-04-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-26">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E446"/>
+    </action>
+    <action datetime="2015-03-26" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-04-29">
+      <text>Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU05" subcommittee="Regulatory Reform, Commercial And Antitrust Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="100"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Bankruptcy"/>
+    <term name="Higher education"/>
+    <term name="Student aid and college costs"/>
+  </subjects>
+  <amendments/>
+  <summary>3/26/2015--Introduced.
+Private Student Loan Bankruptcy Fairness Act of 2015 Amends the federal bankruptcy code to limit the non-dischargeability, except in cases of undue hardship, of educational loans to those made, insured, or guaranteed by a governmental unit, or made under any program funded by a governmental unit or any program for which substantially all of the funds are provided by a nonprofit institution (thus allowing the discharge of private educational loan indebtedness without the need to show an undue hardship).</summary>
+</bill>

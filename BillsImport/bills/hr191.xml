@@ -1,0 +1,32 @@
+<bill session="114" type="hr" number="191" updated="2015-06-13T06:17:13-04:00">
+  <state datetime="2015-04-13">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-13"/>
+  </status>
+  <introduced datetime="2015-04-13"/>
+  <titles>
+    <title type="official" as="introduced">Expressing support for the designation of April 10, 2015, as "Venture Smith's Freedom Day".</title>
+  </titles>
+  <sponsor id="400103"/>
+  <cosponsors>
+    <cosponsor id="412193" joined="2015-04-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-13" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social sciences and history"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Connecticut"/>
+    <term name="Racial and ethnic relations"/>
+  </subjects>
+  <amendments/>
+  <summary>4/13/2015--Introduced.
+Expresses support for the designation of Venture Smith's Freedom Day to recognize the 250th anniversary of Venture Smith purchasing his freedom and going on to become a successful businessman in Connecticut.</summary>
+</bill>

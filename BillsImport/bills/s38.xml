@@ -1,0 +1,47 @@
+<bill session="114" type="s" number="38" updated="2015-01-31T06:22:18-05:00">
+  <state datetime="2015-01-07">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-07"/>
+  </status>
+  <introduced datetime="2015-01-07"/>
+  <titles>
+    <title type="short" as="introduced">Helping Individuals Regain Employment Act</title>
+    <title type="official" as="introduced">A bill to ensure that long-term unemployed individuals are not taken into account for purposes of the employer health care coverage mandate.</title>
+  </titles>
+  <sponsor id="400546"/>
+  <cosponsors>
+    <cosponsor id="412493" joined="2015-01-07"/>
+    <cosponsor id="400034" joined="2015-01-07"/>
+    <cosponsor id="412556" joined="2015-01-07"/>
+    <cosponsor id="300048" joined="2015-01-07"/>
+    <cosponsor id="300055" joined="2015-01-07"/>
+    <cosponsor id="400194" joined="2015-01-07"/>
+    <cosponsor id="412666" joined="2015-01-27"/>
+    <cosponsor id="300083" joined="2015-01-07"/>
+    <cosponsor id="400432" joined="2015-01-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-07" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="440"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Sales and excise taxes"/>
+    <term name="Unemployment"/>
+  </subjects>
+  <amendments/>
+  <summary>1/7/2015--Introduced.
+Helping Individuals Regain Employment Act
+
+Amends the Internal Revenue Code to exclude from the definition of "full-time employee," for purposes of the employer mandate to provide minimum essential health care coverage, any individual who is a long-term unemployed individual. Defines "long-term unemployed individual" as an individual who begins employment after enactment of this Act and has been unemployed for 27 weeks or longer.</summary>
+</bill>

@@ -1,0 +1,30 @@
+<bill session="114" type="s" number="1289" updated="2015-06-20T06:56:12-04:00">
+  <state datetime="2015-05-12">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-12"/>
+  </status>
+  <introduced datetime="2015-05-12"/>
+  <titles>
+    <title type="short" as="introduced">Defense Acquisition Contractor Workforce Improvement Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend title 10, United States Code, to provide for the inclusion of certain contractor personnel in matters on the defense acquisition workforce in the annual strategic workforce plan of the Department of Defense.</title>
+  </titles>
+  <sponsor id="412669"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-05-12" state="REFERRED">
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <summary>5/12/2015--Introduced.
+Defense Acquisition Contractor Workforce Improvement Act of 2015 
+
+This bill includes certain contractor personnel in the defense acquisition workforce for purposes of the Department of Defense annual strategic workforce plan.</summary>
+</bill>

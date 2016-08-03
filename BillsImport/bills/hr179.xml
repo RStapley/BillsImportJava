@@ -1,0 +1,44 @@
+<bill session="114" type="hr" number="179" updated="2015-06-27T06:18:07-04:00">
+  <state datetime="2015-03-26">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-26"/>
+  </status>
+  <introduced datetime="2015-03-26"/>
+  <titles>
+    <title type="official" as="introduced">Expressing the sense of the House of Representatives that the Secretary of Defense should review section 504 of title 10, United States Code, for purposes related to enlisting certain aliens in the Armed Forces.</title>
+  </titles>
+  <sponsor id="412257"/>
+  <cosponsors>
+    <cosponsor id="412516" joined="2015-03-26"/>
+    <cosponsor id="412517" joined="2015-03-26"/>
+    <cosponsor id="412263" joined="2015-03-26"/>
+    <cosponsor id="412529" joined="2015-04-28"/>
+    <cosponsor id="412521" joined="2015-03-26"/>
+    <cosponsor id="400263" joined="2015-04-21"/>
+    <cosponsor id="412308" joined="2015-03-26"/>
+    <cosponsor id="400333" joined="2015-03-26"/>
+    <cosponsor id="412520" joined="2015-03-26"/>
+    <cosponsor id="412522" joined="2015-03-26"/>
+    <cosponsor id="412579" joined="2015-03-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-26" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1735"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Foreign labor"/>
+    <term name="Immigration status and procedures"/>
+    <term name="Military personnel and dependents"/>
+  </subjects>
+  <amendments/>
+  <summary>3/26/2015--Introduced.
+Expresses the sense of the House of Representatives that the Department of Defense should review exceptions to citizenship, residency, and disqualification standards for enlistment in the Armed Forces to make a determination regarding the enlistment of aliens who possess an employment authorization document issued under the Deferred Action for Childhood Arrivals program established by the Department of Homeland Security on June 15, 2012.</summary>
+</bill>

@@ -1,0 +1,26 @@
+<bill session="114" type="h" number="2982" updated="2015-07-10T12:46:19-04:00">
+  <state datetime="2015-07-08">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-08"/>
+  </status>
+  <introduced datetime="2015-07-08"/>
+  <titles>
+    <title type="short" as="introduced">Solar and Water-Efficient Homes Act of 2015</title>
+    <title type="official" as="introduced">To amend title I of the National Housing Act to modify premium charges and the dollar amount limitation on loans for financing alterations, repairs, and improvements to, or conversion of, existing structures, including energy efficiency or water conserving home improvements, and for other purposes.</title>
+  </titles>
+  <sponsor id="412511"/>
+  <cosponsors>
+    <cosponsor id="412584" joined="2015-07-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-08" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

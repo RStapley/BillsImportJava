@@ -1,0 +1,29 @@
+<bill session="114" type="s" number="1405" updated="2015-06-13T06:56:30-04:00">
+  <state datetime="2015-05-20">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-20"/>
+  </status>
+  <introduced datetime="2015-05-20"/>
+  <titles>
+    <title type="short" as="introduced">Severe Fuel Supply Emergency Response Act of 2015</title>
+    <title type="official" as="introduced">A bill to require a coordinated response to coal fuel supply emergencies that could impact electric power system adequacy or reliability.</title>
+  </titles>
+  <sponsor id="412378"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-05-20" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2015-06-09">
+      <text>Committee on Energy and Natural Resources. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+  </subjects>
+  <amendments/>
+</bill>

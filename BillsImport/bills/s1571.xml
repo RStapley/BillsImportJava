@@ -1,0 +1,26 @@
+<bill session="114" type="s" number="1571" updated="2015-06-23T12:46:43-04:00">
+  <state datetime="2015-06-15">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-15"/>
+  </status>
+  <introduced datetime="2015-06-15"/>
+  <titles>
+    <title type="short" as="introduced">Read the Bills Act</title>
+    <title type="official" as="introduced">A bill to preserve the constitutional authority of Congress and ensure accountability and transparency in legislation.</title>
+  </titles>
+  <sponsor id="412492"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-06-15" state="REFERRED">
+      <text>Read twice and referred to the Committee on Rules and Administration.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSRA" name="Senate Rules and Administration" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+  </subjects>
+  <amendments/>
+</bill>

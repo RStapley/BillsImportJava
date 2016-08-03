@@ -1,0 +1,101 @@
+<bill session="114" type="h" number="1602" updated="2015-08-15T06:32:40-04:00">
+  <state datetime="2015-03-25">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-25"/>
+  </status>
+  <introduced datetime="2015-03-25"/>
+  <titles>
+    <title type="short" as="introduced">Nurse Staffing Standards for Patient Safety and Quality Care Act of 2015</title>
+    <title type="official" as="introduced">To amend the Public Health Service Act to establish direct care registered nurse-to-patient staffing ratio requirements in hospitals, and for other purposes.</title>
+  </titles>
+  <sponsor id="400360"/>
+  <cosponsors>
+    <cosponsor id="412565" joined="2015-05-12"/>
+    <cosponsor id="412512" joined="2015-06-09"/>
+    <cosponsor id="400041" joined="2015-05-12"/>
+    <cosponsor id="400048" joined="2015-06-01"/>
+    <cosponsor id="412571" joined="2015-04-13"/>
+    <cosponsor id="412379" joined="2015-06-09"/>
+    <cosponsor id="412600" joined="2015-04-28"/>
+    <cosponsor id="412221" joined="2015-05-14"/>
+    <cosponsor id="400080" joined="2015-04-28"/>
+    <cosponsor id="400100" joined="2015-04-14"/>
+    <cosponsor id="412215" joined="2015-04-21"/>
+    <cosponsor id="412382" joined="2015-05-12"/>
+    <cosponsor id="412498" joined="2015-05-12"/>
+    <cosponsor id="400170" joined="2015-05-20"/>
+    <cosponsor id="412435" joined="2015-04-28"/>
+    <cosponsor id="412638" joined="2015-07-21"/>
+    <cosponsor id="400237" joined="2015-04-28"/>
+    <cosponsor id="412521" joined="2015-05-12"/>
+    <cosponsor id="400249" joined="2015-04-28"/>
+    <cosponsor id="400290" joined="2015-05-12"/>
+    <cosponsor id="400295" joined="2015-05-20"/>
+    <cosponsor id="412506" joined="2015-05-13"/>
+    <cosponsor id="412523" joined="2015-05-12"/>
+    <cosponsor id="412308" joined="2015-04-21"/>
+    <cosponsor id="400352" joined="2015-04-28"/>
+    <cosponsor id="400371" joined="2015-04-28"/>
+    <cosponsor id="412520" joined="2015-04-28"/>
+    <cosponsor id="412617" joined="2015-04-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-25" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-03-25">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-03-25">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-03-27">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="864"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Civil actions and liability"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Employment discrimination and employee rights"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Health care quality"/>
+    <term name="Health facilities and institutions"/>
+    <term name="Health personnel"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Health technology, devices, supplies"/>
+    <term name="Hospital care"/>
+    <term name="Indian social and development programs"/>
+    <term name="Labor-management relations"/>
+    <term name="Medicaid"/>
+    <term name="Medical education"/>
+    <term name="Medicare"/>
+    <term name="Military medicine"/>
+    <term name="Minority health"/>
+    <term name="Nursing"/>
+    <term name="Student aid and college costs"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>3/25/2015--Introduced.
+Nurse Staffing Standards for Patient Safety and Quality Care Act of 2015
+
+Amends the Public Health Service Act to require hospitals to implement and submit to the Department of Health and Human Services (HHS) a staffing plan that complies with specified minimum nurse-to-patient ratios by unit. Requires HHS to develop a transparent method for establishing nurse staffing requirements above minimum ratios.
+
+Directs HHS to adjust Medicare payments to hospitals to cover additional costs incurred in providing services to Medicare beneficiaries that are attributable to compliance with such ratios.
+
+Allows a nurse to object to, or refuse to participate in, any assignment if it would violate minimum ratios or if the nurse is not prepared by education or experience to fulfill the assignment without compromising the safety of a patient or jeopardizing the nurse's license. Prohibits a hospital from: (1) taking specified actions against a nurse based on the nurse's refusal to accept an assignment for such a reason; or (2) discriminating against any individual for good faith complaints relating to the care, services, or conditions of the hospital or of any related facilities.
+
+Adds stipends to the nurse workforce loan repayment and scholarship program. Expands the nurse retention grant program to authorize programs to implement nurse preceptorship and mentorship projects.</summary>
+</bill>

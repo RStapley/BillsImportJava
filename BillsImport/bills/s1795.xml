@@ -1,0 +1,37 @@
+<bill session="114" type="s" number="1795" updated="2015-07-22T12:48:12-04:00">
+  <state datetime="2015-07-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-16"/>
+  </status>
+  <introduced datetime="2015-07-16"/>
+  <titles>
+    <title type="short" as="introduced">National Disaster Tax Relief Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to provide tax relief for major disasters declared in any of calendar years 2012 through 2015, to make certain tax relief provisions permanent, and for other purposes.</title>
+  </titles>
+  <sponsor id="400418"/>
+  <cosponsors>
+    <cosponsor id="412330" joined="2015-07-16"/>
+    <cosponsor id="412598" joined="2015-07-16"/>
+    <cosponsor id="400061" joined="2015-07-16"/>
+    <cosponsor id="412269" joined="2015-07-16"/>
+    <cosponsor id="412223" joined="2015-07-16"/>
+    <cosponsor id="412391" joined="2015-07-16"/>
+    <cosponsor id="400272" joined="2015-07-16"/>
+    <cosponsor id="300087" joined="2015-07-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-16" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="3110"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,63 @@
+<bill session="114" type="h" number="897" updated="2015-08-15T06:26:41-04:00">
+  <state datetime="2015-03-19">REPORTED</state>
+  <status>
+    <unknown datetime="2015-03-19"/>
+  </status>
+  <introduced datetime="2015-02-11"/>
+  <titles>
+    <title type="short" as="introduced">Reducing Regulatory Burdens Act of 2015</title>
+    <title type="official" as="introduced">To amend the Federal Insecticide, Fungicide, and Rodenticide Act and the Federal Water Pollution Control Act to clarify Congressional intent regarding the regulation of the use of pesticides in or near navigable waters, and for other purposes.</title>
+  </titles>
+  <sponsor id="412463"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-02-11" state="REFERRED">
+      <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-02-11">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2015-02-11">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2015-02-12">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+    </action>
+    <action datetime="2015-02-27">
+      <text>Referred to the Subcommittee on Biotechnology, Horticulture, and Research.</text>
+    </action>
+    <action datetime="2015-03-19">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-03-19" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW02" subcommittee="Water Resources and Environment" name="House Transportation and Infrastructure"/>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, Markup"/>
+    <committee activity="Referral" code="HSAG14" subcommittee="Biotechnology, Horticulture, and Research" name="House Agriculture"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1500"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Environmental Protection Agency (EPA)"/>
+    <term name="Environmental regulatory procedures"/>
+    <term name="Hazardous wastes and toxic substances"/>
+    <term name="Licensing and registrations"/>
+    <term name="Pest management"/>
+    <term name="State and local government operations"/>
+    <term name="Water quality"/>
+  </subjects>
+  <amendments/>
+  <summary>2/11/2015--Introduced.
+Reducing Regulatory Burdens Act of 2015 
+
+This bill amends the Federal Insecticide, Fungicide, and Rodenticide Act (FIFRA) and the Federal Water Pollution Control Act (commonly known as the Clean Water Act) to prohibit the Environmental Protection Agency or a state from requiring a permit under the Clean Water Act for a discharge from a point source into navigable waters of a pesticide authorized for sale, distribution, or use under FIFRA, or a residue resulting from the application of the pesticide. Point source pollution is waste discharged from a distinct place, such as a pipe, channel, or tunnel.
+
+The bill establishes exemptions for the following discharges containing a pesticide or pesticide residue: (1) a discharge resulting from the application of a pesticide in violation of FIFRA that is relevant to protecting water quality, if the discharge would not have occurred but for the violation or the amount of pesticide or pesticide residue contained in the discharge is greater than would have occurred without the violation; (2) stormwater discharges regulated under the National Pollutant Discharge Elimination System (NPDES); and (3) discharges regulated under NPDES of manufacturing or industrial effluent or treatment works effluent and discharges incidental to the normal operation of a vessel, including a discharge resulting from operations concerning ballast water held in ships to increase stability or vessel biofouling prevention.</summary>
+</bill>

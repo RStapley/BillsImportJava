@@ -1,0 +1,41 @@
+<bill session="114" type="h" number="991" updated="2015-05-14T04:46:59-04:00">
+  <state datetime="2015-02-13">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-13"/>
+  </status>
+  <introduced datetime="2015-02-13"/>
+  <titles>
+    <title type="short" as="introduced">Children of Military Service Members Commemorative Lapel Pin Act</title>
+    <title type="official" as="introduced">To amend title 10, United States Code, to recognize the dependent children of members of the Armed Forces who are serving on active duty or who have served on active duty through the presentation of an official lapel button.</title>
+  </titles>
+  <sponsor id="412256"/>
+  <cosponsors>
+    <cosponsor id="412487" joined="2015-02-13"/>
+    <cosponsor id="412611" joined="2015-05-13"/>
+    <cosponsor id="400279" joined="2015-05-13"/>
+    <cosponsor id="412255" joined="2015-02-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-13" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Veterans' organizations and recognition"/>
+  </subjects>
+  <amendments/>
+  <summary>2/13/2015--Introduced.
+Children of Military Service Members Commemorative Lapel Pin Act
+
+Requires a lapel button, to be known as the children of military service members commemorative lapel button, to be designed, as approved by the Department of Defense (DOD), to identify and recognize child dependents of members of the Armed Forces who serve on active duty for more than 30 days. Expresses the sense of Congress that DOD should expedite the design and manufacture of the button, as well as mechanisms to facilitate its issuance.
+
+Makes such button available retroactively to the child of any member satisfying such eligibility conditions before the enactment of this Act.
+
+Requires DOD to notify members with qualifying service since September 11, 2001, of the availability of the button.</summary>
+</bill>

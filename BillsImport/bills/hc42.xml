@@ -1,0 +1,35 @@
+<bill session="114" type="hc" number="42" updated="2015-05-23T06:40:23-04:00">
+  <state datetime="2015-04-27">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-27"/>
+  </status>
+  <introduced datetime="2015-04-27"/>
+  <titles>
+    <title type="official" as="introduced">Authorizing the use of the Capitol Grounds for official Congressional events surrounding the visit of His Holiness Pope Francis to the United States Capitol.</title>
+  </titles>
+  <sponsor id="412469"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-04-27" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2015-04-28">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="hc" number="43"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Religion"/>
+    <term name="U.S. Capitol"/>
+  </subjects>
+  <amendments/>
+  <summary>4/27/2015--Introduced.
+Authorizes the use of the Capitol grounds for official congressional events surrounding the visit of His Holiness Pope Francis to the U.S. Capitol on Thursday, September 24, 2015.</summary>
+</bill>

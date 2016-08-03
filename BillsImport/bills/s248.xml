@@ -1,0 +1,53 @@
+<bill session="114" type="s" number="248" updated="2015-06-16T04:48:00-04:00">
+  <state datetime="2015-06-10">REPORTED</state>
+  <status>
+    <unknown datetime="2015-06-10"/>
+  </status>
+  <introduced datetime="2015-01-22"/>
+  <titles>
+    <title type="short" as="introduced">Tribal Labor Sovereignty Act of 2015</title>
+    <title type="official" as="introduced">A bill to clarify the rights of Indians and Indian tribes on Indian lands under the National Labor Relations Act.</title>
+  </titles>
+  <sponsor id="400284"/>
+  <cosponsors>
+    <cosponsor id="300030" joined="2015-01-22"/>
+    <cosponsor id="412549" joined="2015-01-22"/>
+    <cosponsor id="412556" joined="2015-01-22"/>
+    <cosponsor id="412406" joined="2015-06-01"/>
+    <cosponsor id="412494" joined="2015-01-22"/>
+    <cosponsor id="300055" joined="2015-01-22"/>
+    <cosponsor id="412464" joined="2015-01-22"/>
+    <cosponsor id="300071" joined="2015-06-15"/>
+    <cosponsor id="412322" joined="2015-01-28"/>
+    <cosponsor id="412669" joined="2015-04-23"/>
+    <cosponsor id="400546" joined="2015-01-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-22" state="REFERRED">
+      <text>Read twice and referred to the Committee on Indian Affairs.</text>
+    </action>
+    <action datetime="2015-04-29">
+      <text>Committee on Indian Affairs. Hearings held.</text>
+    </action>
+    <calendar datetime="2015-06-10" state="REPORTED">
+      <text>Committee on Indian Affairs. Ordered to be reported favorably.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SLIA" name="Senate Indian Affairs" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="511"/>
+  </relatedbills>
+  <subjects>
+    <term name="Native Americans"/>
+    <term name="Federal-Indian relations"/>
+    <term name="Indian lands and resources rights"/>
+    <term name="Labor-management relations"/>
+  </subjects>
+  <amendments/>
+  <summary>1/22/2015--Introduced.
+Tribal Labor Sovereignty Act of 2015
+
+ Amends the National Labor Relations Act to provide that any enterprise or institution owned and operated by an Indian tribe and located on its lands is not considered an employer (thus excluding such enterprises or institutions from coverage by such Act).</summary>
+</bill>

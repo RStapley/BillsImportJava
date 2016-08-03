@@ -1,0 +1,69 @@
+<bill session="114" type="h" number="308" updated="2015-08-08T06:21:44-04:00">
+  <state datetime="2015-03-25">REPORTED</state>
+  <status>
+    <unknown datetime="2015-03-25"/>
+  </status>
+  <introduced datetime="2015-01-13"/>
+  <titles>
+    <title type="short" as="introduced">Keep the Promise Act of 2015</title>
+    <title type="short" as="reported to house">Keep the Promise Act of 2015</title>
+    <title type="official" as="introduced">To prohibit gaming activities on certain Indian lands in Arizona until the expiration of certain gaming compacts.</title>
+  </titles>
+  <sponsor id="400141"/>
+  <cosponsors>
+    <cosponsor id="400080" joined="2015-03-23"/>
+    <cosponsor id="412397" joined="2015-01-13"/>
+    <cosponsor id="412546" joined="2015-03-23"/>
+    <cosponsor id="412286" joined="2015-01-13"/>
+    <cosponsor id="400259" joined="2015-02-05"/>
+    <cosponsor id="400606" joined="2015-01-13"/>
+    <cosponsor id="412399" joined="2015-01-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-13" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2015-03-02">
+      <text>Referred to the Subcommittee on Indians, Insular and Alaska Native Affairs.</text>
+    </action>
+    <action datetime="2015-03-24">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2015-03-25">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-03-25" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </calendar>
+    <action datetime="2015-03-25">
+      <text>Subcommittee on Indian, Insular and Alaska Native Affairs Discharged.</text>
+    </action>
+    <action datetime="2015-04-29T12:30:00-04:00">
+      <text>Reported by the Committee on Natural Resources. H. Rept. 114-95.</text>
+    </action>
+    <calendar datetime="2015-04-29T12:30:00-04:00" calendar="Union" number="67">
+      <text>Placed on the Union Calendar, Calendar No. 67.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSII24" subcommittee="Indian, Insular and Alaska Native Affairs" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="152"/>
+  </relatedbills>
+  <subjects>
+    <term name="Native Americans"/>
+    <term name="Arizona"/>
+    <term name="Gambling"/>
+    <term name="Indian lands and resources rights"/>
+    <term name="Land transfers"/>
+  </subjects>
+  <amendments/>
+  <summary>4/29/2015--Reported to House without amendment.
+(This measure has not been amended since it was introduced. The summary of that version is repeated here.)
+
+Keep the Promise Act of 2015
+
+ Restricts gaming on land within the Phoenix, Arizona, metropolitan area acquired by the Secretary of the Interior in trust for the benefit of an Indian tribe after April 9, 2013. Terminates the restriction on January 1, 2027.</summary>
+</bill>

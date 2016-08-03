@@ -1,0 +1,34 @@
+<bill session="114" type="h" number="2707" updated="2015-08-11T04:48:08-04:00">
+  <state datetime="2015-06-09">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-09"/>
+  </status>
+  <introduced datetime="2015-06-09"/>
+  <titles>
+    <title type="short" as="introduced">Prevention of Bureaucratic Workarounds Act</title>
+    <title type="official" as="introduced">To ensure a legislative solution for those individuals who may be affected by ObamaCare's unlawful implementation, and for other purposes.</title>
+  </titles>
+  <sponsor id="412670"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-06-09" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-06-12">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+  <summary>6/9/2015--Introduced.
+Prevention of Bureaucratic Workarounds Act
+
+This bill prohibits the Department of Health and Human Services (HHS) from entering into a contract with a state or awarding assistance to a state to provide the state with technology from the federal health insurance exchange.</summary>
+</bill>

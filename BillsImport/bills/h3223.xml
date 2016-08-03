@@ -1,0 +1,28 @@
+<bill session="114" type="h" number="3223" updated="2015-08-22T06:46:16-04:00">
+  <state datetime="2015-07-27">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-27"/>
+  </status>
+  <introduced datetime="2015-07-27"/>
+  <titles>
+    <title type="short" as="introduced">Timothy Nugent Congressional Gold Medal Act</title>
+    <title type="official" as="introduced">To award a Congressional Gold Medal to Timothy Nugent, in recognition of his pioneering work on behalf of people with disabilities, including disabled veterans.</title>
+  </titles>
+  <sponsor id="412536"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-27" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1863"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+</bill>

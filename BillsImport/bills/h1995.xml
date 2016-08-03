@@ -1,0 +1,65 @@
+<bill session="114" type="h" number="1995" updated="2015-07-24T04:48:15-04:00">
+  <state datetime="2015-04-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-23"/>
+  </status>
+  <introduced datetime="2015-04-23"/>
+  <titles>
+    <title type="short" as="introduced">Local Zoning and Property Rights Protection Act of 2015</title>
+    <title type="official" as="introduced">To prohibit the Department of Housing and Urban Development from implementing certain regulations, and for other purposes.</title>
+  </titles>
+  <sponsor id="412397"/>
+  <cosponsors>
+    <cosponsor id="412655" joined="2015-04-23"/>
+    <cosponsor id="400032" joined="2015-04-23"/>
+    <cosponsor id="412567" joined="2015-04-23"/>
+    <cosponsor id="400071" joined="2015-04-28"/>
+    <cosponsor id="412400" joined="2015-04-28"/>
+    <cosponsor id="412477" joined="2015-04-23"/>
+    <cosponsor id="400116" joined="2015-04-23"/>
+    <cosponsor id="412479" joined="2015-04-23"/>
+    <cosponsor id="400141" joined="2015-04-23"/>
+    <cosponsor id="400651" joined="2015-04-23"/>
+    <cosponsor id="412661" joined="2015-04-23"/>
+    <cosponsor id="412566" joined="2015-07-14"/>
+    <cosponsor id="412510" joined="2015-04-23"/>
+    <cosponsor id="412656" joined="2015-07-23"/>
+    <cosponsor id="412294" joined="2015-04-23"/>
+    <cosponsor id="412503" joined="2015-04-23"/>
+    <cosponsor id="412295" joined="2015-04-23"/>
+    <cosponsor id="400652" joined="2015-04-23"/>
+    <cosponsor id="400367" joined="2015-04-23"/>
+    <cosponsor id="400381" joined="2015-07-09"/>
+    <cosponsor id="412574" joined="2015-04-23"/>
+    <cosponsor id="400627" joined="2015-04-23"/>
+    <cosponsor id="412525" joined="2015-04-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-23" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-05-15">
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU10" subcommittee="Constitution and Civil Justice" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Housing and community development"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Department of Housing and Urban Development"/>
+    <term name="Housing discrimination"/>
+    <term name="Intergovernmental relations"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+  <summary>4/23/2015--Introduced.
+Local Zoning and Property Rights Protection Act of 2015
+
+This bill requires the Secretary of Housing and Urban Development (HUD) to withdraw:
+
+ the proposed HUD rule entitled "Affirmatively Furthering Fair Housing (AFFH)," any final rule based on it (including the rule with the Regulation Identifier Number RIN 2501-AD33), and any successor rule that is substantially similar to them; and the HUD notice relating to the AFFH Assessment Tool, any proposed or final rule issued pursuant to such notice, and any successor notice or rule substantially similar to them. HUD is required to consult with state, local government, and public housing agency officials to develop recommendations, consistent with applicable rulings of the U.S. Supreme Court, to further the Fair Housing Act's purposes and policies.</summary>
+</bill>

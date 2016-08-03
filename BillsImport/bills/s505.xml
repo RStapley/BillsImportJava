@@ -1,0 +1,43 @@
+<bill session="114" type="s" number="505" updated="2015-06-27T07:22:28-04:00">
+  <state datetime="2015-02-12">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-12"/>
+  </status>
+  <introduced datetime="2015-02-12"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to extend the Health Coverage Tax Credit.</title>
+  </titles>
+  <sponsor id="400325"/>
+  <cosponsors>
+    <cosponsor id="400013" joined="2015-02-25"/>
+    <cosponsor id="400050" joined="2015-02-12"/>
+    <cosponsor id="412246" joined="2015-03-02"/>
+    <cosponsor id="300023" joined="2015-03-11"/>
+    <cosponsor id="412205" joined="2015-02-24"/>
+    <cosponsor id="300087" joined="2015-03-19"/>
+    <cosponsor id="300093" joined="2015-03-19"/>
+    <cosponsor id="400432" joined="2015-03-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-12" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1088"/>
+    <bill relation="unknown" session="114" type="h" number="1295"/>
+    <bill relation="unknown" session="114" type="h" number="1892"/>
+    <bill relation="unknown" session="114" type="s" number="1268"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Income tax credits"/>
+  </subjects>
+  <amendments/>
+  <summary>2/12/2015--Introduced.
+This bill amends the Internal Revenue Code to extend the tax credit for health insurance coverage costs by extending the eligible coverage month in which a taxpayer and the taxpayer's family members are covered by qualified health insurance to any month beginning before January 1, 2020.</summary>
+</bill>

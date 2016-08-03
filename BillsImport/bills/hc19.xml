@@ -1,0 +1,86 @@
+<bill session="114" type="hc" number="19" updated="2015-08-01T04:51:30-04:00">
+  <state datetime="2015-02-26">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-26"/>
+  </status>
+  <introduced datetime="2015-02-26"/>
+  <titles>
+    <title type="official" as="introduced">Expressing the sense of the Congress that tax-exempt fraternal benefit societies have historically and continue to provide critical benefits to Americans and United States communities.</title>
+  </titles>
+  <sponsor id="412303"/>
+  <cosponsors>
+    <cosponsor id="412478" joined="2015-07-14"/>
+    <cosponsor id="412196" joined="2015-05-01"/>
+    <cosponsor id="412571" joined="2015-05-01"/>
+    <cosponsor id="412555" joined="2015-05-01"/>
+    <cosponsor id="400087" joined="2015-06-25"/>
+    <cosponsor id="400093" joined="2015-05-19"/>
+    <cosponsor id="412536" joined="2015-07-29"/>
+    <cosponsor id="412477" joined="2015-06-24"/>
+    <cosponsor id="412488" joined="2015-03-18"/>
+    <cosponsor id="412215" joined="2015-07-21"/>
+    <cosponsor id="412639" joined="2015-06-09"/>
+    <cosponsor id="400640" joined="2015-07-28"/>
+    <cosponsor id="400141" joined="2015-07-16"/>
+    <cosponsor id="412661" joined="2015-06-09"/>
+    <cosponsor id="412550" joined="2015-07-13"/>
+    <cosponsor id="412422" joined="2015-05-13"/>
+    <cosponsor id="412284" joined="2015-07-07"/>
+    <cosponsor id="412603" joined="2015-07-15"/>
+    <cosponsor id="400211" joined="2015-07-31"/>
+    <cosponsor id="412465" joined="2015-05-15"/>
+    <cosponsor id="400218" joined="2015-02-26"/>
+    <cosponsor id="400238" joined="2015-07-21"/>
+    <cosponsor id="400240" joined="2015-07-29"/>
+    <cosponsor id="400630" joined="2015-07-28"/>
+    <cosponsor id="412292" joined="2015-04-14"/>
+    <cosponsor id="412294" joined="2015-04-28"/>
+    <cosponsor id="400656" joined="2015-07-29"/>
+    <cosponsor id="400263" joined="2015-07-28"/>
+    <cosponsor id="400659" joined="2015-03-23"/>
+    <cosponsor id="412466" joined="2015-07-15"/>
+    <cosponsor id="400661" joined="2015-04-21"/>
+    <cosponsor id="400291" joined="2015-03-16"/>
+    <cosponsor id="412475" joined="2015-03-23"/>
+    <cosponsor id="400297" joined="2015-07-31"/>
+    <cosponsor id="400309" joined="2015-06-17"/>
+    <cosponsor id="412192" joined="2015-05-19"/>
+    <cosponsor id="400316" joined="2015-07-09"/>
+    <cosponsor id="412551" joined="2015-06-25"/>
+    <cosponsor id="412585" joined="2015-04-23"/>
+    <cosponsor id="412393" joined="2015-06-03"/>
+    <cosponsor id="400660" joined="2015-04-15"/>
+    <cosponsor id="412462" joined="2015-07-13"/>
+    <cosponsor id="412489" joined="2015-03-16"/>
+    <cosponsor id="412310" joined="2015-06-25"/>
+    <cosponsor id="412202" joined="2015-05-12"/>
+    <cosponsor id="412570" joined="2015-07-29"/>
+    <cosponsor id="400365" joined="2015-04-13"/>
+    <cosponsor id="400373" joined="2015-03-23"/>
+    <cosponsor id="412596" joined="2015-07-29"/>
+    <cosponsor id="412461" joined="2015-07-29"/>
+    <cosponsor id="400403" joined="2015-07-07"/>
+    <cosponsor id="400406" joined="2015-03-17"/>
+    <cosponsor id="412213" joined="2015-03-19"/>
+    <cosponsor id="400627" joined="2015-07-29"/>
+    <cosponsor id="412428" joined="2015-06-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-26" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Life, casualty, property insurance"/>
+    <term name="Social work, volunteer service, charitable organizations"/>
+    <term name="Tax-exempt organizations"/>
+  </subjects>
+  <amendments/>
+  <summary>2/26/2015--Introduced.
+Expresses the sense of Congress that the tax exemption of fraternal benefit societies continues to generate significant returns to society and that the work of such societies should continue to be promoted.</summary>
+</bill>

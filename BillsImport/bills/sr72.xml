@@ -1,0 +1,85 @@
+<bill session="114" type="sr" number="72" updated="2015-03-28T06:32:45-04:00">
+  <state datetime="2015-03-24">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2015-03-24"/>
+  </status>
+  <introduced datetime="2015-02-10"/>
+  <titles>
+    <title type="official" as="introduced">A resolution expressing the sense of the Senate regarding the January 24, 2015, attacks carried out by Russian-backed rebels on the civilian propulation in Mariupol, Ukraine, and the provision of lethal and non-lethal military assitance to Ukraine.</title>
+    <title type="official" as="amended by senate">A resolution expressing the sense of the Senate regarding the January 24, 2015, attacks carried out by Russian-backed rebels on the civilian population in Mariupol, Ukraine, and the provision of defensive lethal and non-lethal military assistance to Ukraine.</title>
+  </titles>
+  <sponsor id="412496"/>
+  <cosponsors>
+    <cosponsor id="412493" joined="2015-02-10"/>
+    <cosponsor id="412251" joined="2015-02-10"/>
+    <cosponsor id="412490" joined="2015-02-10"/>
+    <cosponsor id="300011" joined="2015-02-10"/>
+    <cosponsor id="412248" joined="2015-02-10"/>
+    <cosponsor id="300038" joined="2015-02-10"/>
+    <cosponsor id="400134" joined="2015-02-23"/>
+    <cosponsor id="412406" joined="2015-02-10"/>
+    <cosponsor id="300047" joined="2015-02-10"/>
+    <cosponsor id="300055" joined="2015-02-10"/>
+    <cosponsor id="400194" joined="2015-02-10"/>
+    <cosponsor id="400222" joined="2015-02-10"/>
+    <cosponsor id="300071" joined="2015-02-10"/>
+    <cosponsor id="400272" joined="2015-02-10"/>
+    <cosponsor id="412194" joined="2015-02-10"/>
+    <cosponsor id="400325" joined="2015-02-10"/>
+    <cosponsor id="412322" joined="2015-02-10"/>
+    <cosponsor id="300083" joined="2015-02-10"/>
+    <cosponsor id="412491" joined="2015-02-10"/>
+    <cosponsor id="412323" joined="2015-02-10"/>
+    <cosponsor id="412247" joined="2015-02-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-10" state="REFERRED">
+      <text>Referred to the Committee on Foreign Relations.</text>
+      <reference ref="CR S903-904" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2015-03-24">
+      <text>Senate Committee on Foreign Relations discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="2015-03-24">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S1831-1832" label="consideration"/>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="2015-03-24" where="s" result="pass" state="PASSED:SIMPLERES">
+      <text>Resolution agreed to in Senate with an amendment and an amendment to the Title and with a preamble by Voice Vote.</text>
+      <reference ref="CR S1831-1832" label="text"/>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="sr" number="68"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Conflicts and wars"/>
+    <term name="Europe"/>
+    <term name="Foreign aid and international relief"/>
+    <term name="International organizations and cooperation"/>
+    <term name="Military assistance, sales, and agreements"/>
+    <term name="Russia"/>
+    <term name="Sanctions"/>
+    <term name="Ukraine"/>
+  </subjects>
+  <amendments>
+    <amendment number="s598"/>
+    <amendment number="s599"/>
+  </amendments>
+  <summary>3/24/2015--Passed Senate amended.
+Condemns the attack on Mariupol by Russian-backed rebels.
+
+ Urges the President to expedite the provision of lethal and non-lethal military assistance to Ukraine as unanimously supported by Congress in the Ukraine Freedom Support Act of 2014.
+
+ Calls on the United States, its European allies, and the international community to continue to apply economic and other pressure on the Russian Federation, especially sanctions, if the Russian Federation continues to refuse to cease its aggression in Ukraine.
+
+ Calls on the Russian Federation to end its support for the rebels in eastern Ukraine, allow Ukraine to regain control of its internationally-recognized borders, and withdraw its military presence in eastern Ukraine.
+
+ Expresses solidarity with the people of Ukraine regarding the humanitarian crisis in their country and the destruction caused by the Russian Federation's military, financial, and ideological support for the rebels in eastern Ukraine.
+
+ States that nothing in this resolution shall be construed as an authorization for the use of force or a declaration of war.</summary>
+</bill>

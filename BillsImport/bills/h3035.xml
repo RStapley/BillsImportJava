@@ -1,0 +1,41 @@
+<bill session="114" type="h" number="3035" updated="2015-07-22T05:00:17-04:00">
+  <state datetime="2015-07-13">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-13"/>
+  </status>
+  <introduced datetime="2015-07-13"/>
+  <titles>
+    <title type="short" as="introduced">The Credit Access and Inclusion Act of 2015</title>
+    <title type="official" as="introduced">To amend the Fair Credit Reporting Act to clarify Federal law with respect to reporting certain positive consumer credit information to consumer reporting agencies, and for other purposes.</title>
+  </titles>
+  <sponsor id="412215"/>
+  <cosponsors>
+    <cosponsor id="412407" joined="2015-07-13"/>
+    <cosponsor id="400646" joined="2015-07-13"/>
+    <cosponsor id="400653" joined="2015-07-13"/>
+    <cosponsor id="400162" joined="2015-07-13"/>
+    <cosponsor id="412282" joined="2015-07-21"/>
+    <cosponsor id="400179" joined="2015-07-13"/>
+    <cosponsor id="400209" joined="2015-07-13"/>
+    <cosponsor id="412189" joined="2015-07-13"/>
+    <cosponsor id="400661" joined="2015-07-13"/>
+    <cosponsor id="412474" joined="2015-07-13"/>
+    <cosponsor id="412551" joined="2015-07-13"/>
+    <cosponsor id="412462" joined="2015-07-13"/>
+    <cosponsor id="400350" joined="2015-07-13"/>
+    <cosponsor id="412399" joined="2015-07-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-13" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+  </subjects>
+  <amendments/>
+</bill>

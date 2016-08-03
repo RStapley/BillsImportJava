@@ -1,0 +1,33 @@
+<bill session="114" type="h" number="1705" updated="2015-06-10T04:47:43-04:00">
+  <state datetime="2015-03-26">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-26"/>
+  </status>
+  <introduced datetime="2015-03-26"/>
+  <titles>
+    <title type="short" as="introduced">Clean Water Affordability Act of 2015</title>
+    <title type="official" as="introduced">To amend the Federal Water Pollution Control Act to assist municipalities and regional sewer authorities that would experience a significant hardship raising the revenue necessary to finance projects and activities for the construction of wastewater treatment works, and for other purposes.</title>
+  </titles>
+  <sponsor id="412256"/>
+  <cosponsors>
+    <cosponsor id="412642" joined="2015-06-09"/>
+    <cosponsor id="412214" joined="2015-03-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-26" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2015-03-27">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW02" subcommittee="Water Resources and Environment" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+  </subjects>
+  <amendments/>
+</bill>

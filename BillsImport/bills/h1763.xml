@@ -1,0 +1,44 @@
+<bill session="114" type="h" number="1763" updated="2015-07-30T04:48:58-04:00">
+  <state datetime="2015-04-13">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-13"/>
+  </status>
+  <introduced datetime="2015-04-13"/>
+  <titles>
+    <title type="short" as="introduced">Safe Freight Act</title>
+    <title type="official" as="introduced">To provide for the minimum size of crews of freight trains, and for other purposes.</title>
+  </titles>
+  <sponsor id="400440"/>
+  <cosponsors>
+    <cosponsor id="412470" joined="2015-07-07"/>
+    <cosponsor id="412215" joined="2015-07-07"/>
+    <cosponsor id="412257" joined="2015-07-07"/>
+    <cosponsor id="412511" joined="2015-04-29"/>
+    <cosponsor id="400219" joined="2015-05-14"/>
+    <cosponsor id="400232" joined="2015-07-29"/>
+    <cosponsor id="412254" joined="2015-07-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-13" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2015-04-14">
+      <text>Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW14" subcommittee="Railroads, Pipelines, and Hazardous Materials" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Railroads"/>
+    <term name="Transportation employees"/>
+  </subjects>
+  <amendments/>
+  <summary>4/13/2015--Introduced.
+Safe Freight Act
+
+ Prohibits the operation of a freight train or light locomotive engine used in the movement of freight unless it has a crew of at least two individuals, one of whom is certified by the Federal Rail Administration as a locomotive operator and the other as a train conductor.</summary>
+</bill>

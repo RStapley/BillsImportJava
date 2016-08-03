@@ -1,0 +1,87 @@
+<bill session="114" type="h" number="680" updated="2015-08-22T06:24:50-04:00">
+  <state datetime="2015-02-03">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-03"/>
+  </status>
+  <introduced datetime="2015-02-03"/>
+  <titles>
+    <title type="short" as="introduced">Update, Promote, and Develop America's Transportation Essentials Act of 2015</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to increase the excise tax on gasoline, diesel, and kerosene fuels.</title>
+  </titles>
+  <sponsor id="400033"/>
+  <cosponsors>
+    <cosponsor id="412657" joined="2015-02-03"/>
+    <cosponsor id="412652" joined="2015-02-03"/>
+    <cosponsor id="400048" joined="2015-02-03"/>
+    <cosponsor id="400063" joined="2015-04-23"/>
+    <cosponsor id="412571" joined="2015-04-23"/>
+    <cosponsor id="412600" joined="2015-06-17"/>
+    <cosponsor id="400074" joined="2015-06-11"/>
+    <cosponsor id="400639" joined="2015-02-03"/>
+    <cosponsor id="412236" joined="2015-02-03"/>
+    <cosponsor id="412613" joined="2015-02-25"/>
+    <cosponsor id="412385" joined="2015-02-03"/>
+    <cosponsor id="412215" joined="2015-02-03"/>
+    <cosponsor id="400129" joined="2015-02-03"/>
+    <cosponsor id="400162" joined="2015-02-03"/>
+    <cosponsor id="412498" joined="2015-02-03"/>
+    <cosponsor id="400170" joined="2015-06-12"/>
+    <cosponsor id="400179" joined="2015-07-13"/>
+    <cosponsor id="400185" joined="2015-02-03"/>
+    <cosponsor id="412511" joined="2015-02-03"/>
+    <cosponsor id="412561" joined="2015-04-23"/>
+    <cosponsor id="400232" joined="2015-07-07"/>
+    <cosponsor id="400237" joined="2015-06-12"/>
+    <cosponsor id="412521" joined="2015-02-03"/>
+    <cosponsor id="400259" joined="2015-06-12"/>
+    <cosponsor id="400262" joined="2015-02-03"/>
+    <cosponsor id="400263" joined="2015-02-03"/>
+    <cosponsor id="400289" joined="2015-06-24"/>
+    <cosponsor id="400290" joined="2015-02-03"/>
+    <cosponsor id="412575" joined="2015-02-03"/>
+    <cosponsor id="412506" joined="2015-02-03"/>
+    <cosponsor id="412192" joined="2015-02-04"/>
+    <cosponsor id="412585" joined="2015-02-03"/>
+    <cosponsor id="400355" joined="2015-02-03"/>
+    <cosponsor id="400360" joined="2015-02-03"/>
+    <cosponsor id="412186" joined="2015-02-03"/>
+    <cosponsor id="400403" joined="2015-07-08"/>
+    <cosponsor id="412239" joined="2015-02-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-13">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="H229-230"/>
+    </action>
+    <action datetime="2015-02-03">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E152-153"/>
+    </action>
+    <action datetime="2015-02-03" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1994"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Inflation and prices"/>
+    <term name="Motor fuels"/>
+    <term name="Sales and excise taxes"/>
+  </subjects>
+  <amendments/>
+  <summary>2/3/2015--Introduced.
+Update, Promote, and Develop America's Transportation Essentials Act of 2015
+
+Expresses the sense of Congress that by 2024&#160;the gas tax should be repealed and replaced with a more sustainable, stable funding source.
+
+Amends the Internal Revenue Code, with respect to the excise tax on motor fuels, to increase the rate of tax on: (1) gasoline other than aviation gasoline to 26.3 cents per gallon in 2016, 30.3 cents per gallon in 2017, and 33.3 cents per gallon after 2017 and before 2028; (2) diesel fuel or kerosene to 32.3 cents per gallon in 2016, 36.3 cents per gallon in 2017, and 39.3 cents per gallon after 2017 and before 2027; and (3) diesel-water fuel emulsion. Delays the termination of such increased rates from the end of FY2016 to December 31, 2026. Requires an adjustment for inflation to such increased rates beginning after 2017.
+
+Increases allocations in the Mass Transit Account of the Highway Trust Fund in 2016 and 2017 and after 2017.
+
+Imposes a floor stocks tax on&#160;rate increases for gasoline, diesel fuel, and&#160; kerosene (other than aviation-grade kerosene), subject to specified exemptions for exempt uses and low-volume producers.</summary>
+</bill>

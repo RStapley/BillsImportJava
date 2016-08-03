@@ -1,0 +1,56 @@
+<bill session="114" type="hc" number="26" updated="2015-08-01T06:49:13-04:00">
+  <state datetime="2015-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-19"/>
+  </status>
+  <introduced datetime="2015-03-19"/>
+  <titles>
+    <title type="official" as="introduced">Effectuating the Compact for a Balanced Budget.</title>
+  </titles>
+  <sponsor id="412397"/>
+  <cosponsors>
+    <cosponsor id="412567" joined="2015-03-19"/>
+    <cosponsor id="412395" joined="2015-03-19"/>
+    <cosponsor id="412622" joined="2015-06-12"/>
+    <cosponsor id="412555" joined="2015-03-19"/>
+    <cosponsor id="400089" joined="2015-03-19"/>
+    <cosponsor id="412472" joined="2015-03-19"/>
+    <cosponsor id="400209" joined="2015-03-19"/>
+    <cosponsor id="412624" joined="2015-03-19"/>
+    <cosponsor id="412294" joined="2015-03-19"/>
+    <cosponsor id="412660" joined="2015-03-19"/>
+    <cosponsor id="400606" joined="2015-03-19"/>
+    <cosponsor id="412399" joined="2015-03-19"/>
+    <cosponsor id="412417" joined="2015-05-01"/>
+    <cosponsor id="400381" joined="2015-03-26"/>
+    <cosponsor id="400433" joined="2015-03-19"/>
+    <cosponsor id="400440" joined="2015-03-19"/>
+    <cosponsor id="412640" joined="2015-03-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-19" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-03-31">
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU10" subcommittee="Constitution and Civil Justice" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Budget deficits and national debt"/>
+    <term name="Budget process"/>
+    <term name="Constitution and constitutional amendments"/>
+    <term name="General taxation matters"/>
+    <term name="Legislative rules and procedure"/>
+  </subjects>
+  <amendments/>
+  <summary>3/19/2015--Introduced.
+Resolves that Congress calls a convention for proposing amendments under Article V of the U.S. Constitution in accordance with the Compact for a Balanced Budget, effective after Congress receives certification that at least three-fourths of the states are members of the Compact and have applied for a convention for proposing amendments under Article V of the U.S. Constitution.
+
+Resolves that Congress refers the Balanced Budget Amendment to the state legislatures for ratification after Congress receives a certified copy of the Amendment showing that a convention for proposing amendments under Article V has approved and proposed for ratification the Amendment that is defined by the Compact and meets specified criteria, including prohibiting outlays from exceeding receipts unless the excess is financed by debt issued using specified procedures requiring approval by a majority of state legislatures.</summary>
+</bill>

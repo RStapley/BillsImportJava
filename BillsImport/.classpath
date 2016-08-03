@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MySQL/MySQL Connector J/mysql-connector-java-5.1.36-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rstap/.m2/repository/com/sun/jersey/jersey-core/1.19/jersey-core-1.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rstap/.m2/repository/com/sun/jersey/jersey-bundle/1.19/jersey-bundle-1.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rstap/.m2/repository/com/sun/jersey/jersey-server/1.19/jersey-server-1.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rstap/.m2/repository/com/google/code/gson/gson/2.3.1/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rstap/Downloads/commons-lang3-3.4-bin/commons-lang3-3.4/commons-lang3-3.4.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

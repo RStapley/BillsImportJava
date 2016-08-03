@@ -1,0 +1,59 @@
+<bill session="114" type="hr" number="176" updated="2015-05-16T06:16:58-04:00">
+  <state datetime="2015-03-26">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-26"/>
+  </status>
+  <introduced datetime="2015-03-26"/>
+  <titles>
+    <title type="official" as="introduced">Recognizing the significance of women in education.</title>
+  </titles>
+  <sponsor id="412607"/>
+  <cosponsors>
+    <cosponsor id="400048" joined="2015-03-26"/>
+    <cosponsor id="412516" joined="2015-03-26"/>
+    <cosponsor id="412537" joined="2015-04-23"/>
+    <cosponsor id="400087" joined="2015-03-26"/>
+    <cosponsor id="400093" joined="2015-03-26"/>
+    <cosponsor id="400103" joined="2015-03-26"/>
+    <cosponsor id="412524" joined="2015-03-26"/>
+    <cosponsor id="400162" joined="2015-03-26"/>
+    <cosponsor id="400179" joined="2015-03-26"/>
+    <cosponsor id="412638" joined="2015-03-26"/>
+    <cosponsor id="412616" joined="2015-03-26"/>
+    <cosponsor id="400263" joined="2015-03-26"/>
+    <cosponsor id="400661" joined="2015-03-26"/>
+    <cosponsor id="412606" joined="2015-03-26"/>
+    <cosponsor id="400295" joined="2015-03-26"/>
+    <cosponsor id="400326" joined="2015-03-26"/>
+    <cosponsor id="400352" joined="2015-04-23"/>
+    <cosponsor id="412396" joined="2015-03-26"/>
+    <cosponsor id="412522" joined="2015-03-26"/>
+    <cosponsor id="412412" joined="2015-03-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-26" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Racial and ethnic relations"/>
+    <term name="Sex, gender, sexual orientation discrimination"/>
+    <term name="Teaching, teachers, curricula"/>
+    <term name="U.S. history"/>
+    <term name="Women's education"/>
+    <term name="Women's employment"/>
+    <term name="Women's rights"/>
+  </subjects>
+  <amendments/>
+  <summary>3/26/2015--Introduced.
+Recognizes the significance of women in education, acknowledges their contributions to advancing women's rights, and recognizes their significance to dismantling barriers to ethnic, racial, and gender equality in the United States.
+
+Recognizes that the ethnic, racial, and gender diversity enriches and strengthens the United States.
+
+Encourages all states to include the history and contributions of women in education in their year-round educational curriculum.</summary>
+</bill>

@@ -1,0 +1,24 @@
+<bill session="114" type="h" number="3098" updated="2015-07-21T12:46:38-04:00">
+  <state datetime="2015-07-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-16"/>
+  </status>
+  <introduced datetime="2015-07-16"/>
+  <titles>
+    <title type="short" as="introduced">Brownfield Redevelopment and Economic Development Innovative Financing Act of 2015</title>
+    <title type="official" as="introduced">To establish the Brownfield Redevelopment and Economic Development Innovative Financing program to promote urban renewal, and for other purposes.</title>
+  </titles>
+  <sponsor id="412498"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-16" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

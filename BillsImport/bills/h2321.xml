@@ -1,0 +1,50 @@
+<bill session="114" type="h" number="2321" updated="2015-07-04T06:38:00-04:00">
+  <state datetime="2015-05-14">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-14"/>
+  </status>
+  <introduced datetime="2015-05-14"/>
+  <titles>
+    <title type="short" as="introduced">Keep Teachers Teaching Act of 2015</title>
+    <title type="official" as="introduced">To amend the Elementary and Secondary Education Act of 1965 to provide grants for innovative teacher retention programs.</title>
+  </titles>
+  <sponsor id="400326"/>
+  <cosponsors>
+    <cosponsor id="412607" joined="2015-05-14"/>
+    <cosponsor id="400041" joined="2015-05-20"/>
+    <cosponsor id="400048" joined="2015-05-14"/>
+    <cosponsor id="400616" joined="2015-05-14"/>
+    <cosponsor id="400080" joined="2015-05-15"/>
+    <cosponsor id="400162" joined="2015-05-20"/>
+    <cosponsor id="400170" joined="2015-05-14"/>
+    <cosponsor id="400185" joined="2015-05-14"/>
+    <cosponsor id="400271" joined="2015-05-14"/>
+    <cosponsor id="400295" joined="2015-05-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-14" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Education programs funding"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Higher education"/>
+    <term name="Licensing and registrations"/>
+    <term name="Student aid and college costs"/>
+    <term name="Teaching, teachers, curricula"/>
+    <term name="Travel and tourism"/>
+  </subjects>
+  <amendments/>
+  <summary>5/14/2015--Introduced.
+Keep Teachers Teaching Act of 2015
+
+This bill amends the Elementary and Secondary Education Act of 1965 to direct the Department of Education (ED) to award competitive, renewable grants to local educational agencies (LEAs), states, and partnerships of LEAs, nonprofit organizations, and institutions of higher education for the development and implementation of innovative teacher retention programs that include: (1) professional development; (2) teacher mentoring; (3) advanced certification or credentialing; (4) research, travel, or fellowship opportunities; and (5) pairing teachers with research or industry professionals.
+
+ED must: (1) identify the most promising teacher retention strategies, and (2) make information about those strategies publicly available and easily accessible to states and LEAs.</summary>
+</bill>

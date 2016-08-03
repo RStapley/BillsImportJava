@@ -1,0 +1,48 @@
+<bill session="114" type="h" number="1333" updated="2015-08-01T04:50:39-04:00">
+  <state datetime="2015-03-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-04"/>
+  </status>
+  <introduced datetime="2015-03-04"/>
+  <titles>
+    <title type="short" as="introduced">Child Tax Credit Integrity Preservation Act of 2015</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to clarify eligibility for the child tax credit.</title>
+  </titles>
+  <sponsor id="400627"/>
+  <cosponsors>
+    <cosponsor id="412395" joined="2015-03-04"/>
+    <cosponsor id="400655" joined="2015-03-04"/>
+    <cosponsor id="412513" joined="2015-03-04"/>
+    <cosponsor id="400116" joined="2015-03-04"/>
+    <cosponsor id="400141" joined="2015-03-04"/>
+    <cosponsor id="412661" joined="2015-03-04"/>
+    <cosponsor id="412623" joined="2015-06-10"/>
+    <cosponsor id="400209" joined="2015-03-04"/>
+    <cosponsor id="412445" joined="2015-03-17"/>
+    <cosponsor id="400279" joined="2015-07-31"/>
+    <cosponsor id="412302" joined="2015-03-04"/>
+    <cosponsor id="400367" joined="2015-03-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-04" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="53"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Income tax credits"/>
+    <term name="Tax administration and collection, taxpayers"/>
+    <term name="Tax treatment of families"/>
+  </subjects>
+  <amendments/>
+  <summary>3/4/2015--Introduced.
+Child Tax Credit Integrity Preservation Act of 2015
+
+Amends the Internal Revenue Code to expand the identification requirement for the child tax credit to require taxpayers to provide a valid identification number (i.e., a Social Security account number issued by the Social Security Administration) on their tax returns in addition to the name and identification number of each qualifying child.</summary>
+</bill>

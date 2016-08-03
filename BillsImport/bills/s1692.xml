@@ -1,0 +1,31 @@
+<bill session="114" type="s" number="1692" updated="2015-07-17T05:00:04-04:00">
+  <state datetime="2015-06-25">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-25"/>
+  </status>
+  <introduced datetime="2015-06-25"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 49, United States Code, to clarify the use of a towaway trailer transportation combination, and for other purposes.</title>
+  </titles>
+  <sponsor id="400284"/>
+  <cosponsors>
+    <cosponsor id="412205" joined="2015-06-25"/>
+    <cosponsor id="300055" joined="2015-07-16"/>
+    <cosponsor id="300083" joined="2015-06-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-25" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="2904"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+</bill>

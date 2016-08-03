@@ -1,0 +1,185 @@
+<bill session="114" type="h" number="1342" updated="2015-08-01T04:50:40-04:00">
+  <state datetime="2015-03-06">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-06"/>
+  </status>
+  <introduced datetime="2015-03-06"/>
+  <titles>
+    <title type="short" as="introduced">Home Health Care Planning Improvement Act of 2015</title>
+    <title type="official" as="introduced">To amend title XVIII of the Social Security Act to ensure more timely access to home health services for Medicare beneficiaries under the Medicare program, and for other purposes.</title>
+  </titles>
+  <sponsor id="400419"/>
+  <cosponsors>
+    <cosponsor id="412500" joined="2015-06-24"/>
+    <cosponsor id="412469" joined="2015-04-23"/>
+    <cosponsor id="412565" joined="2015-04-21"/>
+    <cosponsor id="412478" joined="2015-07-13"/>
+    <cosponsor id="400033" joined="2015-03-06"/>
+    <cosponsor id="412501" joined="2015-03-19"/>
+    <cosponsor id="412652" joined="2015-07-07"/>
+    <cosponsor id="412539" joined="2015-04-28"/>
+    <cosponsor id="400048" joined="2015-07-13"/>
+    <cosponsor id="412516" joined="2015-04-28"/>
+    <cosponsor id="400062" joined="2015-03-06"/>
+    <cosponsor id="412258" joined="2015-07-07"/>
+    <cosponsor id="412622" joined="2015-05-14"/>
+    <cosponsor id="412571" joined="2015-04-21"/>
+    <cosponsor id="400071" joined="2015-06-08"/>
+    <cosponsor id="412470" joined="2015-07-29"/>
+    <cosponsor id="412221" joined="2015-07-07"/>
+    <cosponsor id="400074" joined="2015-06-23"/>
+    <cosponsor id="412271" joined="2015-06-02"/>
+    <cosponsor id="412236" joined="2015-06-15"/>
+    <cosponsor id="412563" joined="2015-04-21"/>
+    <cosponsor id="412658" joined="2015-04-13"/>
+    <cosponsor id="412272" joined="2015-07-21"/>
+    <cosponsor id="412651" joined="2015-05-14"/>
+    <cosponsor id="412193" joined="2015-04-13"/>
+    <cosponsor id="400090" joined="2015-04-13"/>
+    <cosponsor id="400093" joined="2015-03-06"/>
+    <cosponsor id="412536" joined="2015-05-05"/>
+    <cosponsor id="400100" joined="2015-03-19"/>
+    <cosponsor id="400103" joined="2015-04-13"/>
+    <cosponsor id="412505" joined="2015-04-13"/>
+    <cosponsor id="400648" joined="2015-04-13"/>
+    <cosponsor id="412488" joined="2015-04-28"/>
+    <cosponsor id="412263" joined="2015-04-13"/>
+    <cosponsor id="412215" joined="2015-04-23"/>
+    <cosponsor id="412524" joined="2015-04-23"/>
+    <cosponsor id="400646" joined="2015-07-07"/>
+    <cosponsor id="400137" joined="2015-04-13"/>
+    <cosponsor id="412257" joined="2015-07-13"/>
+    <cosponsor id="412532" joined="2015-07-13"/>
+    <cosponsor id="412382" joined="2015-04-23"/>
+    <cosponsor id="412463" joined="2015-07-29"/>
+    <cosponsor id="400158" joined="2015-04-21"/>
+    <cosponsor id="412485" joined="2015-07-29"/>
+    <cosponsor id="400162" joined="2015-07-21"/>
+    <cosponsor id="412447" joined="2015-07-29"/>
+    <cosponsor id="412454" joined="2015-03-26"/>
+    <cosponsor id="412280" joined="2015-03-06"/>
+    <cosponsor id="400170" joined="2015-03-19"/>
+    <cosponsor id="412584" joined="2015-05-14"/>
+    <cosponsor id="412446" joined="2015-03-19"/>
+    <cosponsor id="400641" joined="2015-04-13"/>
+    <cosponsor id="412282" joined="2015-05-14"/>
+    <cosponsor id="412511" joined="2015-06-08"/>
+    <cosponsor id="412422" joined="2015-04-23"/>
+    <cosponsor id="412284" joined="2015-03-06"/>
+    <cosponsor id="412460" joined="2015-03-06"/>
+    <cosponsor id="400209" joined="2015-03-26"/>
+    <cosponsor id="412566" joined="2015-03-26"/>
+    <cosponsor id="412649" joined="2015-05-21"/>
+    <cosponsor id="412465" joined="2015-03-06"/>
+    <cosponsor id="412546" joined="2015-04-13"/>
+    <cosponsor id="412583" joined="2015-05-14"/>
+    <cosponsor id="400218" joined="2015-03-06"/>
+    <cosponsor id="400219" joined="2015-07-27"/>
+    <cosponsor id="412286" joined="2015-04-28"/>
+    <cosponsor id="412557" joined="2015-05-05"/>
+    <cosponsor id="400230" joined="2015-03-19"/>
+    <cosponsor id="412256" joined="2015-04-23"/>
+    <cosponsor id="400237" joined="2015-04-21"/>
+    <cosponsor id="400630" joined="2015-03-19"/>
+    <cosponsor id="400244" joined="2015-07-13"/>
+    <cosponsor id="412209" joined="2015-05-14"/>
+    <cosponsor id="400245" joined="2015-05-05"/>
+    <cosponsor id="412521" joined="2015-03-19"/>
+    <cosponsor id="412292" joined="2015-04-28"/>
+    <cosponsor id="412293" joined="2015-05-21"/>
+    <cosponsor id="412294" joined="2015-04-21"/>
+    <cosponsor id="400251" joined="2015-04-13"/>
+    <cosponsor id="412562" joined="2015-04-28"/>
+    <cosponsor id="400663" joined="2015-04-21"/>
+    <cosponsor id="400259" joined="2015-06-08"/>
+    <cosponsor id="400263" joined="2015-04-28"/>
+    <cosponsor id="412487" joined="2015-03-06"/>
+    <cosponsor id="412466" joined="2015-03-19"/>
+    <cosponsor id="412540" joined="2015-07-31"/>
+    <cosponsor id="400661" joined="2015-05-05"/>
+    <cosponsor id="408211" joined="2015-04-23"/>
+    <cosponsor id="400295" joined="2015-05-14"/>
+    <cosponsor id="412302" joined="2015-04-21"/>
+    <cosponsor id="400309" joined="2015-05-14"/>
+    <cosponsor id="400313" joined="2015-04-28"/>
+    <cosponsor id="412192" joined="2015-07-27"/>
+    <cosponsor id="412569" joined="2015-07-13"/>
+    <cosponsor id="412523" joined="2015-03-19"/>
+    <cosponsor id="400316" joined="2015-04-23"/>
+    <cosponsor id="412307" joined="2015-03-19"/>
+    <cosponsor id="412585" joined="2015-04-28"/>
+    <cosponsor id="412308" joined="2015-05-21"/>
+    <cosponsor id="412431" joined="2015-04-21"/>
+    <cosponsor id="400326" joined="2015-04-21"/>
+    <cosponsor id="400333" joined="2015-04-21"/>
+    <cosponsor id="412462" joined="2015-05-05"/>
+    <cosponsor id="412489" joined="2015-03-26"/>
+    <cosponsor id="412647" joined="2015-07-07"/>
+    <cosponsor id="400347" joined="2015-07-13"/>
+    <cosponsor id="412519" joined="2015-05-14"/>
+    <cosponsor id="400350" joined="2015-05-14"/>
+    <cosponsor id="400352" joined="2015-04-28"/>
+    <cosponsor id="400360" joined="2015-03-06"/>
+    <cosponsor id="400361" joined="2015-05-05"/>
+    <cosponsor id="412315" joined="2015-03-06"/>
+    <cosponsor id="400365" joined="2015-07-29"/>
+    <cosponsor id="412186" joined="2015-04-23"/>
+    <cosponsor id="400378" joined="2015-03-26"/>
+    <cosponsor id="400379" joined="2015-04-28"/>
+    <cosponsor id="412217" joined="2015-03-19"/>
+    <cosponsor id="400380" joined="2015-04-13"/>
+    <cosponsor id="400381" joined="2015-04-28"/>
+    <cosponsor id="412626" joined="2015-04-13"/>
+    <cosponsor id="400402" joined="2015-05-14"/>
+    <cosponsor id="412317" joined="2015-07-07"/>
+    <cosponsor id="400403" joined="2015-03-06"/>
+    <cosponsor id="400406" joined="2015-03-06"/>
+    <cosponsor id="412405" joined="2015-04-13"/>
+    <cosponsor id="412318" joined="2015-04-21"/>
+    <cosponsor id="412319" joined="2015-05-14"/>
+    <cosponsor id="412254" joined="2015-04-28"/>
+    <cosponsor id="412515" joined="2015-07-13"/>
+    <cosponsor id="412538" joined="2015-07-21"/>
+    <cosponsor id="412214" joined="2015-04-23"/>
+    <cosponsor id="412239" joined="2015-03-06"/>
+    <cosponsor id="412255" joined="2015-04-13"/>
+    <cosponsor id="400440" joined="2015-03-19"/>
+    <cosponsor id="412428" joined="2015-03-06"/>
+    <cosponsor id="412640" joined="2015-04-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-06" state="REFERRED">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-03-06">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-03-06">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-03-13">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="578"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Home and outpatient care"/>
+    <term name="Medicare"/>
+    <term name="Nursing"/>
+  </subjects>
+  <amendments/>
+  <summary>3/6/2015--Introduced.
+Home Health Care Planning Improvement Act of 2015 
+
+ Amends title XVIII (Medicare) of the Social Security Act to revise conditions of and limitations on payment for home health care services.
+
+Allows payment for home health services to Medicare beneficiaries by: (1) a nurse practitioner, (2) a clinical nurse specialist working in collaboration with a physician in accordance with state law, (3) a certified nurse-midwife, or (4) a physician assistant under a physician's supervision.</summary>
+</bill>

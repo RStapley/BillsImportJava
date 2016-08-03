@@ -1,0 +1,65 @@
+<bill session="114" type="h" number="455" updated="2015-08-01T06:23:06-04:00">
+  <state datetime="2015-06-25">REPORTED</state>
+  <status>
+    <unknown datetime="2015-06-25"/>
+  </status>
+  <introduced datetime="2015-01-21"/>
+  <titles>
+    <title type="short" as="introduced">Northern Border Security Review Act</title>
+    <title type="short" as="reported to house">Northern Border Security Review Act</title>
+    <title type="official" as="introduced">To require the Secretary of Homeland Security to conduct a northern border threat analysis, and for other purposes.</title>
+  </titles>
+  <sponsor id="412649"/>
+  <cosponsors>
+    <cosponsor id="412436" joined="2015-07-13"/>
+    <cosponsor id="400641" joined="2015-01-21"/>
+    <cosponsor id="400219" joined="2015-01-21"/>
+    <cosponsor id="400276" joined="2015-01-21"/>
+    <cosponsor id="412647" joined="2015-02-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-21" state="REFERRED">
+      <text>Referred to the House Committee on Homeland Security.</text>
+    </action>
+    <action datetime="2015-01-30">
+      <text>Referred to the Subcommittee on Border and Maritime Security.</text>
+    </action>
+    <action datetime="2015-06-25">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-06-25" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+    <action datetime="2015-07-28T14:20:00-04:00">
+      <text>Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-232.</text>
+    </action>
+    <calendar datetime="2015-07-28T14:21:00-04:00" calendar="Union" number="175">
+      <text>Placed on the Union Calendar, Calendar No. 175.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="HSHM11" subcommittee="Border and Maritime Security" name="House Homeland Security"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="399"/>
+    <bill relation="unknown" session="114" type="s" number="1808"/>
+  </relatedbills>
+  <subjects>
+    <term name="Emergency management"/>
+    <term name="Border security and unlawful immigration"/>
+    <term name="Canada"/>
+    <term name="Congressional oversight"/>
+    <term name="Government studies and investigations"/>
+    <term name="Great Lakes"/>
+    <term name="Lakes and rivers"/>
+    <term name="Terrorism"/>
+  </subjects>
+  <amendments/>
+  <summary>1/21/2015--Introduced.
+Northern Border Security Review Act
+
+Directs the Secretary of Homeland Security to submit a northern border threat analysis, which shall include analyses of:
+
+ terrorism threats posed by individuals seeking to enter the United States through the northern border; improvements needed at ports of entry along the northern border to prevent terrorists and instruments of terror from entering the United States; gaps in law, policy, international agreements, or tribal agreements that hinder the border security and counterterrorism efforts along the northern border; and illegal cross border activity between ports of entry, including the maritime borders of the Great Lakes.</summary>
+</bill>

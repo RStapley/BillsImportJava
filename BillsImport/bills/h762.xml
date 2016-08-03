@@ -1,0 +1,49 @@
+<bill session="114" type="h" number="762" updated="2015-06-03T04:47:05-04:00">
+  <state datetime="2015-02-05">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-05"/>
+  </status>
+  <introduced datetime="2015-02-05"/>
+  <titles>
+    <title type="short" as="introduced">Small Business Tax Credit Accessibility Act</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to expand and modify the credit for employee health insurance expenses of small employers.</title>
+  </titles>
+  <sponsor id="412505"/>
+  <cosponsors>
+    <cosponsor id="412407" joined="2015-02-05"/>
+    <cosponsor id="412571" joined="2015-06-02"/>
+    <cosponsor id="400100" joined="2015-02-27"/>
+    <cosponsor id="400218" joined="2015-02-05"/>
+    <cosponsor id="412557" joined="2015-02-10"/>
+    <cosponsor id="400237" joined="2015-02-10"/>
+    <cosponsor id="412562" joined="2015-04-28"/>
+    <cosponsor id="400308" joined="2015-02-05"/>
+    <cosponsor id="412192" joined="2015-02-12"/>
+    <cosponsor id="400349" joined="2015-02-05"/>
+    <cosponsor id="400360" joined="2015-03-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-05" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="379"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Income tax credits"/>
+    <term name="Small business"/>
+    <term name="Wages and earnings"/>
+  </subjects>
+  <amendments/>
+  <summary>2/5/2015--Introduced.
+Small Business Tax Credit Accessibility Act 
+
+Amends the Internal Revenue Code, with respect to the small employer health care insurance tax credit, to: (1) revise the definition of "eligible small employer" to mean an employer with not more than 50 (currently, 25) full-time employees; (2) modify the phaseout formula for such credit to base such phaseout on number of employees and average annual wages; (3) extend from two to three consecutive taxable years the period during which an employer may claim such credit; and (4)&#160;eliminate the requirement that employers contribute the same percentage of cost of each employee's health insurance and the cap limiting eligible employer contributions to average premiums paid to a state health insurance exchange.</summary>
+</bill>

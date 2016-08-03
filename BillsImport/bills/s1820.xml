@@ -1,0 +1,30 @@
+<bill session="114" type="s" number="1820" updated="2015-08-01T07:07:27-04:00">
+  <state datetime="2015-07-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-21"/>
+  </status>
+  <introduced datetime="2015-07-21"/>
+  <titles>
+    <title type="short" as="introduced">Early Participation in Regulations Act of 2015</title>
+    <title type="official" as="introduced">A bill to require agencies to publish an advance notice of proposed rule making for major rules.</title>
+  </titles>
+  <sponsor id="412464"/>
+  <cosponsors>
+    <cosponsor id="412554" joined="2015-07-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="185"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+  </subjects>
+  <amendments/>
+</bill>

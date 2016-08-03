@@ -1,0 +1,58 @@
+<bill session="114" type="h" number="1950" updated="2015-06-25T04:47:47-04:00">
+  <state datetime="2015-04-22">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-22"/>
+  </status>
+  <introduced datetime="2015-04-22"/>
+  <titles>
+    <title type="short" as="introduced">Sunset Inefficient and Unaccountable Government Act</title>
+    <title type="official" as="introduced">To abolish certain executive agencies unless Congress disapproves of such abolishment, and for other purposes.</title>
+  </titles>
+  <sponsor id="412601"/>
+  <cosponsors>
+    <cosponsor id="412655" joined="2015-06-11"/>
+    <cosponsor id="412635" joined="2015-06-04"/>
+    <cosponsor id="412478" joined="2015-06-24"/>
+    <cosponsor id="400032" joined="2015-06-11"/>
+    <cosponsor id="412627" joined="2015-06-24"/>
+    <cosponsor id="412604" joined="2015-06-04"/>
+    <cosponsor id="412482" joined="2015-06-24"/>
+    <cosponsor id="412661" joined="2015-06-24"/>
+    <cosponsor id="412310" joined="2015-06-11"/>
+    <cosponsor id="400607" joined="2015-06-11"/>
+    <cosponsor id="412574" joined="2015-06-11"/>
+    <cosponsor id="412564" joined="2015-06-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-22" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Agriculture"/>
+    <term name="Department of Commerce"/>
+    <term name="Department of Education"/>
+    <term name="Department of Energy"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Department of Housing and Urban Development"/>
+    <term name="Department of Labor"/>
+    <term name="Department of Transportation"/>
+    <term name="Department of Veterans Affairs"/>
+    <term name="Department of the Interior"/>
+    <term name="Department of the Treasury"/>
+    <term name="Executive agency funding and structure"/>
+  </subjects>
+  <amendments/>
+  <summary>4/22/2015--Introduced.
+Sunset Inefficient and Unaccountable Government Act
+
+This bill requires the abolishment of the Departments of Agriculture, Commerce, Education, Energy, Health and Human Services, Housing and Urban Development, Labor, the Interior, the Treasury, Veterans Affairs, and Transportation on specified dates of between 2 years and 11 years after enactment of this Act or every 10 years thereafter, and of any other agency about which Congress has not passed a concurrent resolution disapproving abolishment during the previous 10 years, unless a disapproval of such abolishment is enacted prior to the date of the agency's scheduled abolishment.
+
+The head of each agency which is scheduled to be abolished must: (1) take necessary actions to dispose of the assets, obligations, and liabilities of the agency during the one-year period that begins on the date of abolishment; and (2) report to Congress on the roles and responsibilities of the agency, detailing the agency's justification for existence, including areas where the duties of the agency may overlap with the duties of other agencies.</summary>
+</bill>

@@ -1,0 +1,35 @@
+<bill session="114" type="s" number="1465" updated="2015-07-30T04:52:34-04:00">
+  <state datetime="2015-05-22">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-22"/>
+  </status>
+  <introduced datetime="2015-05-22"/>
+  <titles>
+    <title type="short" as="introduced">FAST Act</title>
+    <title type="short" as="introduced">Furthering Access to Stroke Telemedicine Act</title>
+    <title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act to expand access to stroke telehealth services under the Medicare program.</title>
+  </titles>
+  <sponsor id="400222"/>
+  <cosponsors>
+    <cosponsor id="400546" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-22" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="2799"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+  <summary>5/22/2015--Introduced.
+Furthering Access to Stroke Telemedicine Act or the FAST Act
+
+This bill amends title XVIII (Medicare) of the Social Security Act to: (1) expand access to certain stroke telehealth services to any originating site at which the eligible telehealth individual is located at the time the service is furnished, regardless of where the site is located; and (2) waive the facility fee for certain such originating sites.</summary>
+</bill>

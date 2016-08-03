@@ -1,0 +1,90 @@
+<bill session="114" type="s" number="311" updated="2015-07-09T04:48:14-04:00">
+  <state datetime="2015-01-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-29"/>
+  </status>
+  <introduced datetime="2015-01-29"/>
+  <titles>
+    <title type="short" as="introduced">Safe Schools Improvement Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend the Elementary and Secondary Education Act of 1965 to address and take action to prevent bullying and harassment of students.</title>
+  </titles>
+  <sponsor id="412246"/>
+  <cosponsors>
+    <cosponsor id="400013" joined="2015-05-14"/>
+    <cosponsor id="412330" joined="2015-06-04"/>
+    <cosponsor id="412598" joined="2015-05-14"/>
+    <cosponsor id="300011" joined="2015-07-08"/>
+    <cosponsor id="400050" joined="2015-05-14"/>
+    <cosponsor id="300018" joined="2015-04-23"/>
+    <cosponsor id="400064" joined="2015-06-01"/>
+    <cosponsor id="300019" joined="2015-05-14"/>
+    <cosponsor id="412390" joined="2015-05-14"/>
+    <cosponsor id="300038" joined="2015-06-18"/>
+    <cosponsor id="300043" joined="2015-07-08"/>
+    <cosponsor id="412378" joined="2015-06-03"/>
+    <cosponsor id="412223" joined="2015-06-01"/>
+    <cosponsor id="412281" joined="2015-05-22"/>
+    <cosponsor id="412554" joined="2015-07-08"/>
+    <cosponsor id="412200" joined="2015-07-08"/>
+    <cosponsor id="412582" joined="2015-07-08"/>
+    <cosponsor id="400222" joined="2015-01-29"/>
+    <cosponsor id="412242" joined="2015-07-08"/>
+    <cosponsor id="300065" joined="2015-05-14"/>
+    <cosponsor id="412391" joined="2015-07-08"/>
+    <cosponsor id="412243" joined="2015-07-08"/>
+    <cosponsor id="400272" joined="2015-07-08"/>
+    <cosponsor id="412325" joined="2015-07-08"/>
+    <cosponsor id="300073" joined="2015-05-14"/>
+    <cosponsor id="412194" joined="2015-06-18"/>
+    <cosponsor id="300076" joined="2015-03-26"/>
+    <cosponsor id="300078" joined="2015-05-22"/>
+    <cosponsor id="412305" joined="2015-06-01"/>
+    <cosponsor id="300081" joined="2015-05-22"/>
+    <cosponsor id="412507" joined="2015-06-24"/>
+    <cosponsor id="300087" joined="2015-06-09"/>
+    <cosponsor id="412323" joined="2015-05-14"/>
+    <cosponsor id="300093" joined="2015-05-14"/>
+    <cosponsor id="400413" joined="2015-06-04"/>
+    <cosponsor id="412542" joined="2015-05-14"/>
+    <cosponsor id="412247" joined="2015-06-03"/>
+    <cosponsor id="300100" joined="2015-05-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-29" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="2902"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Administrative remedies"/>
+    <term name="Assault and harassment offenses"/>
+    <term name="Child safety and welfare"/>
+    <term name="Congressional oversight"/>
+    <term name="Crime prevention"/>
+    <term name="Crime victims"/>
+    <term name="Crimes against children"/>
+    <term name="Disability and health-based discrimination"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Government information and archives"/>
+    <term name="Performance measurement"/>
+    <term name="Racial and ethnic relations"/>
+    <term name="Religion"/>
+    <term name="School administration"/>
+    <term name="Sex, gender, sexual orientation discrimination"/>
+  </subjects>
+  <amendments/>
+  <summary>1/29/2015--Introduced.
+Safe Schools Improvement Act of 2015
+
+Amends the Elementary and Secondary Education Act of 1965 to require states to direct their local educational agencies (LEAs) to establish policies that prevent and prohibit conduct, including bullying and harassment, that is sufficiently severe, persistent, or pervasive to: (1) limit students' ability to participate in, or benefit from, school programs; or (2) create a hostile or abusive educational environment that adversely affects their education.
+
+Requires LEAs to also provide: (1) students, parents, and educational professionals with annual notice of the conduct prohibited in their discipline policies; (2) students and parents with grievance procedures that target such conduct; and (3) the public with annual data on the incidence and frequency of that conduct at the school and LEA level.
+
+Requires: (1) the Secretary of Education to conduct, and report on, an independent biennial evaluation of programs and policies to combat bullying and harassment in elementary and secondary schools; and (2) the Commissioner for Education Statistics to collect state data, that are subject to independent review, to determine the incidence and frequency of the conduct prohibited by LEA discipline policies.</summary>
+</bill>

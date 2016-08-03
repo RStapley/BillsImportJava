@@ -1,0 +1,48 @@
+<bill session="114" type="h" number="2991" updated="2015-07-30T04:50:10-04:00">
+  <state datetime="2015-07-09">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-09"/>
+  </status>
+  <introduced datetime="2015-07-09"/>
+  <titles>
+    <title type="short" as="introduced">Preparing More Welfare Recipients for Work Act</title>
+    <title type="official" as="introduced">To encourage States to engage more TANF recipients in activities leading to employment and self-sufficiency, and to simplify State administration of TANF work requirements.</title>
+  </titles>
+  <sponsor id="412462"/>
+  <cosponsors>
+    <cosponsor id="412407" joined="2015-07-22"/>
+    <cosponsor id="412566" joined="2015-07-14"/>
+    <cosponsor id="412583" joined="2015-07-09"/>
+    <cosponsor id="400352" joined="2015-07-09"/>
+    <cosponsor id="400406" joined="2015-07-09"/>
+    <cosponsor id="412410" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-09" state="REFERRED">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-07-09">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-07-09">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="3005"/>
+  </relatedbills>
+  <subjects>
+    <term name="Social welfare"/>
+  </subjects>
+  <amendments/>
+  <summary>7/9/2015--Introduced.
+Preparing More Welfare Recipients for Work Act
+
+This bill amends part A (Temporary Assistance for Needy Families) (TANF) of title IV of the Social Security Act with respect to mandatory work requirements to:
+
+ eliminate the requirement that recipients participate in certain core work activities not fewer than 20 hours per week, as well as separate requirements for two-parent families; allow states to receive partial credit for certain families participating for less than the minimum hours required for purposes of calculating the monthly participation rate; give states the option to apply an alternative work participation rate calculation; revise requirements for counting job search as work; modify the rule deeming an individual to meet work participation requirements by attending secondary school; require a state to meet individuals participating for three months in job readiness assistance and certify whether continued participation is necessary to prepare them for employment; replace with job readiness assistance as a separate work activity the currently recognized work activity of providing child care services to a participant in a community service program; and increase from 12 to 24 months the maximum period that vocational educational training counts as a work activity.</summary>
+</bill>

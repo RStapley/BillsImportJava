@@ -1,0 +1,53 @@
+<bill session="114" type="s" number="554" updated="2015-07-04T06:50:58-04:00">
+  <state datetime="2015-02-24">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-24"/>
+  </status>
+  <introduced datetime="2015-02-24"/>
+  <titles>
+    <title type="short" as="introduced">Federal Employee Retroactive Pay Fairness Act of 2015</title>
+    <title type="official" as="introduced">A bill to provide for the compensation of Federal employees affected by a lapse in appropriations.</title>
+  </titles>
+  <sponsor id="400064"/>
+  <cosponsors>
+    <cosponsor id="400013" joined="2015-02-24"/>
+    <cosponsor id="412490" joined="2015-02-24"/>
+    <cosponsor id="412598" joined="2015-02-26"/>
+    <cosponsor id="300011" joined="2015-02-24"/>
+    <cosponsor id="300019" joined="2015-02-24"/>
+    <cosponsor id="300043" joined="2015-02-26"/>
+    <cosponsor id="412223" joined="2015-02-24"/>
+    <cosponsor id="412281" joined="2015-02-26"/>
+    <cosponsor id="412200" joined="2015-02-24"/>
+    <cosponsor id="412582" joined="2015-02-24"/>
+    <cosponsor id="300065" joined="2015-02-24"/>
+    <cosponsor id="400253" joined="2015-02-26"/>
+    <cosponsor id="300073" joined="2015-02-24"/>
+    <cosponsor id="300076" joined="2015-02-24"/>
+    <cosponsor id="400357" joined="2015-02-24"/>
+    <cosponsor id="412323" joined="2015-02-26"/>
+    <cosponsor id="400413" joined="2015-02-24"/>
+    <cosponsor id="412321" joined="2015-02-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-24" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Appropriations"/>
+    <term name="Employee leave"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+  </subjects>
+  <amendments/>
+  <summary>2/24/2015--Introduced.
+Federal Employee Retroactive Pay Fairness Act of 2015 
+
+This bill requires federal employees furloughed or required to work due to a lapse in appropriations beginning on February 28, 2015, to be compensated after the lapse in appropriations ends. Employees required to work during the lapse in appropriations are permitted to use leave. The bill addresses a lapse in appropriations scheduled to begin after continuing FY2015 appropriations for the Department of Homeland Security expire on February 27, 2015.</summary>
+</bill>

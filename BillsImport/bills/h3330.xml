@@ -1,0 +1,28 @@
+<bill session="114" type="h" number="3330" updated="2015-08-05T09:48:25-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">Earmark Elimination Act of 2015</title>
+    <title type="official" as="introduced">To prohibit the consideration in the House of Representatives of any legislation containing an earmark.</title>
+  </titles>
+  <sponsor id="400081"/>
+  <cosponsors>
+    <cosponsor id="412474" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the House Committee on Rules.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+  </subjects>
+  <amendments/>
+</bill>

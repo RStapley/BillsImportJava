@@ -1,0 +1,41 @@
+<bill session="114" type="s" number="1590" updated="2015-07-25T07:02:31-04:00">
+  <state datetime="2015-06-17">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-17"/>
+  </status>
+  <introduced datetime="2015-06-17"/>
+  <titles>
+    <title type="short" as="introduced">Pregnancy Discrimination Amendment Act</title>
+    <title type="official" as="introduced">A bill to amend the Civil Rights Act of 1964 to provide protections against pregnancy discrimination in the workplace, and for other purposes.</title>
+  </titles>
+  <sponsor id="300075"/>
+  <cosponsors>
+    <cosponsor id="300002" joined="2015-06-17"/>
+    <cosponsor id="412556" joined="2015-06-17"/>
+    <cosponsor id="300048" joined="2015-06-17"/>
+    <cosponsor id="400222" joined="2015-06-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-17" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="2800"/>
+  </relatedbills>
+  <subjects>
+    <term name="Civil rights and liberties, minority issues"/>
+  </subjects>
+  <amendments/>
+  <summary>6/17/2015--Introduced.
+Pregnancy Discrimination Amendment Act
+
+Amends provisions of the Civil Rights Act of 1964 that protect against pregnancy discrimination in the workplace to provide for women affected by pregnancy, childbirth, or related medical conditions to be treated the same for all employment-related purposes as any other persons who are applicants for employment with, or employees of, the same employer in work that is performed under similar working conditions and who are not so affected but are similar in their temporary ability or inability to work.
+
+Makes such treatment applicable to existing prohibited categories of employment discrimination on the basis of sex or because of sex.
+
+Prohibits this treatment from permitting a labor organization to cause an employer to commit an unlawful employment practice against an employee in violation of such provisions.</summary>
+</bill>

@@ -1,0 +1,31 @@
+<bill session="114" type="h" number="2264" updated="2015-07-25T06:37:54-04:00">
+  <state datetime="2015-05-12">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-12"/>
+  </status>
+  <introduced datetime="2015-05-12"/>
+  <titles>
+    <title type="official" as="introduced">To amend title 10, United States Code, to establish a space-available transportation priority for veterans of the Armed Forces who have a service-connected, permanent disability rated as total.</title>
+  </titles>
+  <sponsor id="412250"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-05-12" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Aviation and airports"/>
+    <term name="Disability and paralysis"/>
+    <term name="Disability assistance"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>5/12/2015--Introduced.
+Directs the Department of Defense to provide transportation on scheduled and unscheduled military flights within the United States and on scheduled overseas flights on a space-available basis for veterans with a service-connected, permanent disability rated as total on the same basis as such transportation is provided to members of the Armed Forces entitled to retired or retainer pay.</summary>
+</bill>

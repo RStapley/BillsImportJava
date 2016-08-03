@@ -1,0 +1,35 @@
+<bill session="114" type="h" number="2337" updated="2015-07-25T06:38:31-04:00">
+  <state datetime="2015-05-14">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-14"/>
+  </status>
+  <introduced datetime="2015-05-14"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Federal Food, Drug, and Cosmetic Act to authorize priority review for breakthrough devices.</title>
+  </titles>
+  <sponsor id="400320"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-05-14" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-05-15">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="6"/>
+    <bill relation="unknown" session="114" type="s" number="1077"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Drug safety, medical device, and laboratory regulation"/>
+    <term name="Health technology, devices, supplies"/>
+    <term name="Manufacturing"/>
+  </subjects>
+  <amendments/>
+</bill>

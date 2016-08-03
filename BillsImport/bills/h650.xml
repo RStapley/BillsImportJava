@@ -1,0 +1,156 @@
+<bill session="114" type="h" number="650" updated="2015-08-08T06:24:35-04:00">
+  <state datetime="2015-04-14T17:56:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2015-04-14T17:56:00-04:00"/>
+  </status>
+  <introduced datetime="2015-02-02"/>
+  <titles>
+    <title type="short" as="introduced">Preserving Access to Manufactured Housing Act of 2015</title>
+    <title type="short" as="reported to house">Preserving Access to Manufactured Housing Act of 2015</title>
+    <title type="short" as="passed house">Preserving Access to Manufactured Housing Act of 2015</title>
+    <title type="official" as="introduced">To amend the Truth in Lending Act to modify the definitions of a mortgage originator and a high-cost mortgage.</title>
+  </titles>
+  <sponsor id="412479"/>
+  <cosponsors>
+    <cosponsor id="412541" joined="2015-02-02"/>
+    <cosponsor id="412478" joined="2015-02-11"/>
+    <cosponsor id="400032" joined="2015-03-16"/>
+    <cosponsor id="412627" joined="2015-03-16"/>
+    <cosponsor id="412539" joined="2015-03-18"/>
+    <cosponsor id="412619" joined="2015-03-23"/>
+    <cosponsor id="412601" joined="2015-03-18"/>
+    <cosponsor id="400648" joined="2015-03-18"/>
+    <cosponsor id="412477" joined="2015-03-23"/>
+    <cosponsor id="412488" joined="2015-03-03"/>
+    <cosponsor id="400116" joined="2015-02-10"/>
+    <cosponsor id="400646" joined="2015-03-26"/>
+    <cosponsor id="412476" joined="2015-03-23"/>
+    <cosponsor id="400141" joined="2015-03-03"/>
+    <cosponsor id="412397" joined="2015-03-03"/>
+    <cosponsor id="412280" joined="2015-02-24"/>
+    <cosponsor id="412609" joined="2015-03-23"/>
+    <cosponsor id="400179" joined="2015-03-23"/>
+    <cosponsor id="412484" joined="2015-03-23"/>
+    <cosponsor id="400219" joined="2015-03-26"/>
+    <cosponsor id="412286" joined="2015-03-04"/>
+    <cosponsor id="400247" joined="2015-02-24"/>
+    <cosponsor id="400656" joined="2015-03-23"/>
+    <cosponsor id="412568" joined="2015-02-13"/>
+    <cosponsor id="412474" joined="2015-02-24"/>
+    <cosponsor id="412409" joined="2015-02-11"/>
+    <cosponsor id="412443" joined="2015-02-24"/>
+    <cosponsor id="400313" joined="2015-03-04"/>
+    <cosponsor id="412569" joined="2015-03-23"/>
+    <cosponsor id="412309" joined="2015-03-24"/>
+    <cosponsor id="412411" joined="2015-03-24"/>
+    <cosponsor id="412570" joined="2015-03-23"/>
+    <cosponsor id="412650" joined="2015-03-16"/>
+    <cosponsor id="400606" joined="2015-02-24"/>
+    <cosponsor id="412399" joined="2015-03-19"/>
+    <cosponsor id="412396" joined="2015-02-02"/>
+    <cosponsor id="412509" joined="2015-02-02"/>
+    <cosponsor id="412461" joined="2015-03-24"/>
+    <cosponsor id="412392" joined="2015-03-16"/>
+    <cosponsor id="412317" joined="2015-03-16"/>
+    <cosponsor id="412538" joined="2015-03-03"/>
+    <cosponsor id="400431" joined="2015-03-03"/>
+    <cosponsor id="412578" joined="2015-03-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-02" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2015-02-03">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E157"/>
+    </action>
+    <action datetime="2015-03-25">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2015-03-26">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-03-26" state="REPORTED">
+      <text>Ordered to be Reported by the Yeas and Nays: 43 - 15.</text>
+    </calendar>
+    <action datetime="2015-04-06T16:49:00-04:00">
+      <text>Reported by the Committee on Financial Services. H. Rept. 114-53.</text>
+    </action>
+    <calendar datetime="2015-04-06T16:50:00-04:00" calendar="Union" number="34">
+      <text>Placed on the Union Calendar, Calendar No. 34.</text>
+    </calendar>
+    <action datetime="2015-04-13T19:32:00-04:00">
+      <text>Rules Committee Resolution H. Res. 189 Reported to House. Resolution provides for consideration of 3 measures: H.R. 650; H.R. 685; and S. Con. Res. 11.</text>
+    </action>
+    <action datetime="2015-04-14T15:00:00-04:00">
+      <text>Considered under the provisions of rule H. Res. 189.</text>
+      <reference ref="CR H2178-2188" label="consideration"/>
+    </action>
+    <action datetime="2015-04-14T15:01:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 189, the House proceeded with one hour of debate on H. R. 650.</text>
+    </action>
+    <action datetime="2015-04-14T16:10:00-04:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+      <reference ref="CR H2188" label="consideration"/>
+    </action>
+    <action datetime="2015-04-14T16:10:00-04:00">
+      <text>POSTPONED PROCEEDINGS - Pursuant to clause 1(c) of Rule 19, further proceedings on H.R. 650 was postponed.</text>
+    </action>
+    <action datetime="2015-04-14T17:12:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H2194-2197" label="consideration"/>
+    </action>
+    <action datetime="2015-04-14T17:13:00-04:00">
+      <text>Pursuant to clause 1(c) of Rule 19, further proceedings on H.R. 650 resumed.</text>
+    </action>
+    <action datetime="2015-04-14T17:13:00-04:00">
+      <text>Ms. Waters, Maxine moved to recommit with instructions to the Committee on Financial Services.</text>
+      <reference ref="CR H2194-2196" label="consideration"/>
+    </action>
+    <action datetime="2015-04-14T17:13:00-04:00">
+      <text>DEBATE - The House proceeded with 10 minutes of debate on the Waters motion to recommit with instructions. The instructions contained in the motion seek to report the same back to the House forthwith with an amendment to ensure that the underlying legislation does not benefit lenders or individuals that have engaged in unfair, deceptive, predatory, or abusive lending practices, or have been convicted of mortgage fraud, pending reservation of a point of order. Subsequently, the reservation of a point of order was removed.</text>
+    </action>
+    <action datetime="2015-04-14T17:49:00-04:00">
+      <text>On motion to recommit with instructions Failed by the Yeas and Nays: 184 - 239 (Roll no. 150).</text>
+    </action>
+    <vote how="roll" type="vote" roll="151" datetime="2015-04-14T17:56:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by the Yeas and Nays: 263 - 162 (Roll no. 151).</text>
+      <reference ref="CR H2178" label="text"/>
+    </vote>
+    <action datetime="2015-04-14T17:56:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2015-04-15">
+      <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, Markup, Reporting"/>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="rule" session="114" type="hr" number="189"/>
+    <bill relation="identical" session="114" type="s" number="682"/>
+    <bill relation="unknown" session="114" type="s" number="1910"/>
+  </relatedbills>
+  <subjects>
+    <term name="Housing and community development"/>
+    <term name="Banking and financial institutions regulation"/>
+    <term name="Housing finance and home ownership"/>
+    <term name="Housing industry and standards"/>
+    <term name="Interest, dividends, interest rates"/>
+    <term name="Real estate business"/>
+    <term name="Retail and wholesale trades"/>
+  </subjects>
+  <amendments/>
+  <summary>4/14/2015--Passed House without amendment.
+(This measure has not been amended since it was introduced. The summary of has been expanded because action occurred on the measure.)
+
+Preserving Access to Manufactured Housing Act of 2015
+
+(Sec. 2) Amends the Truth in Lending Act to revise the exclusion from the meaning of "mortgage originator" of any employee of a retailer of manufactured homes who does not for compensation or gain take residential mortgage loan applications, for compensation or gain offer or negotiate terms of a residential mortgage loan, or advise a consumer on loan terms (including rates, fees, and other costs).
+
+Excludes from the meaning of "mortgage originator," instead, any retailer of manufactured or modular homes or its employees unless the retailer or its employees receive compensation or gain for engaging in certain activities in excess of any compensation or gain received in a comparable cash transaction.
+
+(Sec. 3) Revises the definition of "high cost mortgage."</summary>
+</bill>

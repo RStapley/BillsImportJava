@@ -1,0 +1,41 @@
+<bill session="114" type="h" number="3019" updated="2015-07-18T04:47:03-04:00">
+  <state datetime="2015-07-10">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-10"/>
+  </status>
+  <introduced datetime="2015-07-10"/>
+  <titles>
+    <title type="short" as="introduced">Veterans Residential Care Choice Act</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to direct the Secretary of Veterans Affairs to furnish, at the request of an eligible veteran, nursing home care and hospital care at State licensed or certified residential care facilities.</title>
+  </titles>
+  <sponsor id="400103"/>
+  <cosponsors>
+    <cosponsor id="412193" joined="2015-07-10"/>
+    <cosponsor id="412524" joined="2015-07-10"/>
+    <cosponsor id="412282" joined="2015-07-10"/>
+    <cosponsor id="400233" joined="2015-07-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-10" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2015-07-17">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <summary>7/10/2015--Introduced.
+Veterans Residential Care Choice Act
+
+This bill authorizes the Department of Veterans Affairs (VA), at the request of an eligible veteran for whom VA is required to provide domiciliary, nursing home, adult day health, or hospital care, or whom VA determines is in need of such care, to place the veteran (at the expense of the United States) in a state licensed or certified residential care facility that meets VA standards if the cost of providing such care through the facility is less than the cost of providing the care through any other available option.
+
+An eligible veteran is a veteran with a service-connected disability rated at 70% or more disabling.</summary>
+</bill>

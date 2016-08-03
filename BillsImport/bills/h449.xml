@@ -1,0 +1,49 @@
+<bill session="114" type="h" number="449" updated="2015-08-01T04:50:21-04:00">
+  <state datetime="2015-01-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-21"/>
+  </status>
+  <introduced datetime="2015-01-21"/>
+  <titles>
+    <title type="short" as="introduced">Discharge Student Loans in Bankruptcy Act of 2015</title>
+    <title type="official" as="introduced">To amend title 11 of the United States Code to make student loans dischargeable.</title>
+  </titles>
+  <sponsor id="412544"/>
+  <cosponsors>
+    <cosponsor id="412195" joined="2015-02-03"/>
+    <cosponsor id="400100" joined="2015-03-17"/>
+    <cosponsor id="400124" joined="2015-07-31"/>
+    <cosponsor id="412603" joined="2015-04-23"/>
+    <cosponsor id="400218" joined="2015-07-23"/>
+    <cosponsor id="400233" joined="2015-01-28"/>
+    <cosponsor id="400237" joined="2015-04-15"/>
+    <cosponsor id="400245" joined="2015-05-12"/>
+    <cosponsor id="400309" joined="2015-06-10"/>
+    <cosponsor id="400403" joined="2015-04-17"/>
+    <cosponsor id="412319" joined="2015-02-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-21" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-02-05">
+      <text>Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU05" subcommittee="Regulatory Reform, Commercial And Antitrust Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Bankruptcy"/>
+    <term name="Higher education"/>
+    <term name="Student aid and college costs"/>
+  </subjects>
+  <amendments/>
+  <summary>1/21/2015--Introduced.
+Discharge Student Loans in Bankruptcy Act of 2015
+
+Amends the federal bankruptcy code to allow the discharge in bankruptcy of an educational loan or an obligation to repay funds received as an educational benefit, scholarship, or stipend. (Currently, those debts are dischargeable only if excepting them from discharge would impose an undue hardship on the debtor and the debtor's dependents.)</summary>
+</bill>

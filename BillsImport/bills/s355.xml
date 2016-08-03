@@ -1,0 +1,59 @@
+<bill session="114" type="s" number="355" updated="2015-08-22T06:54:38-04:00">
+  <state datetime="2015-02-03">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-03"/>
+  </status>
+  <introduced datetime="2015-02-03"/>
+  <titles>
+    <title type="short" as="introduced">Teach Safe Relationships Act of 2015</title>
+    <title type="official" as="introduced">A bill to support the provision of safe relationship behavior education and training.</title>
+  </titles>
+  <sponsor id="412582"/>
+  <cosponsors>
+    <cosponsor id="412490" joined="2015-02-03"/>
+    <cosponsor id="400050" joined="2015-06-15"/>
+    <cosponsor id="412223" joined="2015-02-05"/>
+    <cosponsor id="412243" joined="2015-02-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-03">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S738"/>
+    </action>
+    <action datetime="2015-02-03" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="3141"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Assault and harassment offenses"/>
+    <term name="Crimes against women"/>
+    <term name="Domestic violence and child abuse"/>
+    <term name="Education programs funding"/>
+    <term name="Elementary and secondary education"/>
+    <term name="HIV/AIDS"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="School administration"/>
+    <term name="Sex and reproductive health"/>
+    <term name="Sex offenses"/>
+    <term name="Sexually transmitted diseases"/>
+    <term name="Teaching, teachers, curricula"/>
+  </subjects>
+  <amendments/>
+  <summary>2/3/2015--Introduced.
+Teach Safe Relationships Act of 2015
+
+Amends the Elementary and Secondary Education Act of 1965 (ESEA) to authorize the Secretary of Education to award competitive four-year grants to local educational agencies (LEAs) to provide: (1) professional development to school administrators, teachers, and staff in safe relationship behavior education; and (2) educational programming and curricula for students regarding safe relationship behavior.
+
+Defines "safe relationship behavior education" as education that:
+
+ is medically accurate and appropriate for an individual's age, developmental stage, and culture; promotes safe relationships and teaches students to recognize and prevent coercion, violence, or abuse, including physical and emotional relationship abuse; includes education regarding relationship communication skills, emotional health, accountability, and well-being in relationships, and consent; and includes education regarding healthy relationships. Directs the Secretary to provide LEAs with policy guidance regarding safe relationship behavior training and the promotion of safe and healthy relationships.
+
+Prohibits the use of ESEA funds for sex or HIV-prevention education in schools if that instruction does not include safe relationship behavior education. (Currently, sex or HIV-prevention education in schools must be age appropriate and include the health benefits of abstinence.)</summary>
+</bill>

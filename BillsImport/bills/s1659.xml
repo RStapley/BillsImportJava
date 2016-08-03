@@ -1,0 +1,84 @@
+<bill session="114" type="s" number="1659" updated="2015-08-06T04:48:46-04:00">
+  <state datetime="2015-06-24">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-24"/>
+  </status>
+  <introduced datetime="2015-06-24"/>
+  <titles>
+    <title type="short" as="introduced">Voting Rights Advancement Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend the Voting Rights Act of 1965 to revise the criteria for determining which States and political subdivisions are subject to section 4 of the Act, and for other purposes.</title>
+  </titles>
+  <sponsor id="300065"/>
+  <cosponsors>
+    <cosponsor id="400013" joined="2015-06-24"/>
+    <cosponsor id="412330" joined="2015-08-05"/>
+    <cosponsor id="412490" joined="2015-06-24"/>
+    <cosponsor id="412598" joined="2015-06-24"/>
+    <cosponsor id="400050" joined="2015-06-24"/>
+    <cosponsor id="400064" joined="2015-07-07"/>
+    <cosponsor id="412246" joined="2015-06-24"/>
+    <cosponsor id="412390" joined="2015-06-24"/>
+    <cosponsor id="300038" joined="2015-06-24"/>
+    <cosponsor id="300043" joined="2015-06-24"/>
+    <cosponsor id="412378" joined="2015-06-24"/>
+    <cosponsor id="412223" joined="2015-06-24"/>
+    <cosponsor id="412554" joined="2015-08-04"/>
+    <cosponsor id="412200" joined="2015-08-04"/>
+    <cosponsor id="412582" joined="2015-06-24"/>
+    <cosponsor id="412242" joined="2015-06-24"/>
+    <cosponsor id="412243" joined="2015-07-23"/>
+    <cosponsor id="400272" joined="2015-06-25"/>
+    <cosponsor id="412325" joined="2015-06-24"/>
+    <cosponsor id="300076" joined="2015-06-24"/>
+    <cosponsor id="412305" joined="2015-07-29"/>
+    <cosponsor id="300081" joined="2015-08-04"/>
+    <cosponsor id="300082" joined="2015-06-24"/>
+    <cosponsor id="400357" joined="2015-06-24"/>
+    <cosponsor id="300087" joined="2015-06-24"/>
+    <cosponsor id="412323" joined="2015-06-24"/>
+    <cosponsor id="300093" joined="2015-06-24"/>
+    <cosponsor id="412321" joined="2015-06-24"/>
+    <cosponsor id="412542" joined="2015-06-24"/>
+    <cosponsor id="412247" joined="2015-06-24"/>
+    <cosponsor id="300100" joined="2015-06-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-24">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S4604-4606"/>
+    </action>
+    <action datetime="2015-06-24" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="2867"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+  </subjects>
+  <amendments/>
+  <summary>6/24/2015--Introduced.
+Voting Rights Advancement Act of 2015
+
+This bill amends the Voting Rights Act of 1965 to allow a representative official of an Indian tribe, with authorization from the governing body of the tribe, to request one or more polling places to be located on tribal lands. The state or political subdivision shall provide each requested polling place at no expense to the Indian tribe if certain criteria are met.
+
+A federal court shall retain jurisdiction to enforce constitutional voting guarantees, but also certain violations of the Act as well as of any federal prohibition against discrimination on the basis of race, color, or membership in a language minority group, for an appropriate period to prevent commencement of new devices to deny or abridge the right to vote.
+
+Requirements are revised for determining which states and political subdivisions are or are not covered by criteria for declaratory judgments that they have not used devices to deny or abridge the right to vote.
+
+Any state (and all of its political subdivisions) shall be subject to such requirements for a ten-year period if:
+
+ 15 or more voting rights violations occurred there during the previous 25 years; or 10 or more voting rights violations occurred during the previous 25 years, at least one of which was committed by the state itself (as opposed to a political subdivision within it). Any specific political subdivision of a state shall also be subject to those requirements for a ten-year period if three or more voting rights violations occurred in it during the previous 25 calendar years.
+
+A state or political subdivision that obtains a declaratory judgment that it has not used a device to deny or abridge the right to vote shall be exempt from such requirements unless new violations occur after the declaratory judgment was issued.
+
+Each state and each political subdivision shall: (1) identify any newly enacted or adopted law, regulation, or policy that includes a voting qualification or prerequisite to voting, or a voting-related standard, practice, or procedure (covered practice); and (2) ensure that no such covered practice is implemented unless or until the state or political subdivision complies with certain preclearance requirements.
+
+This bill prescribes transparency requirements, including reasonable public notice, regarding any changes to: (1) voting prerequisites, standards, or procedures; (2) polling place resources; or (3) demographics and electoral districts. Department of Justice authority to assign observers receives new extensions, including authority to assign observers to enforce bilingual election requirements.
+
+Courts shall grant preliminary injunctive relief if a complainant raises a serious question whether the challenged covered practice violates the Act or the Constitution and, on balance, the hardship imposed upon the defendant by the relief will be less than the hardship on the plaintiff if the relief were not granted.</summary>
+</bill>

@@ -1,0 +1,36 @@
+<bill session="114" type="h" number="1223" updated="2015-05-16T06:27:56-04:00">
+  <state datetime="2015-03-03">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-03"/>
+  </status>
+  <introduced datetime="2015-03-03"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to prevent the retroactive claim of the earned income tax credit after issuance of a social security number.</title>
+  </titles>
+  <sponsor id="400640"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-03-03" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1298"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Border security and unlawful immigration"/>
+    <term name="Foreign labor"/>
+    <term name="Immigration status and procedures"/>
+    <term name="Income tax credits"/>
+    <term name="Poverty and welfare assistance"/>
+    <term name="Social security and elderly assistance"/>
+    <term name="Tax administration and collection, taxpayers"/>
+  </subjects>
+  <amendments/>
+  <summary>3/3/2015--Introduced.
+This bill amends the Internal Revenue Code to deny the earned income tax credit to a taxpayer to whom a social security number was issued after the close of the taxable year for which the credit is being claimed, unless such taxpayer can demonstrate eligibility for the social security number in such taxable year. A valid social security number is required to claim the earned income tax credit.</summary>
+</bill>

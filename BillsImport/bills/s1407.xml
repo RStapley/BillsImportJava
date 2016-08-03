@@ -1,0 +1,54 @@
+<bill session="114" type="s" number="1407" updated="2015-08-01T07:03:58-04:00">
+  <state datetime="2015-05-20">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-20"/>
+  </status>
+  <introduced datetime="2015-05-20"/>
+  <titles>
+    <title type="short" as="introduced">Public Land Renewable Energy Development Act of 2015</title>
+    <title type="official" as="introduced">A bill to promote the development of renewable energy on public land, and for other purposes.</title>
+  </titles>
+  <sponsor id="412218"/>
+  <cosponsors>
+    <cosponsor id="412549" joined="2015-06-09"/>
+    <cosponsor id="412406" joined="2015-06-02"/>
+    <cosponsor id="412281" joined="2015-05-20"/>
+    <cosponsor id="412322" joined="2015-05-20"/>
+    <cosponsor id="412244" joined="2015-05-20"/>
+    <cosponsor id="400413" joined="2015-06-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-20" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2015-06-09">
+      <text>Committee on Energy and Natural Resources. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="2663"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+  <summary>5/20/2015--Introduced.
+Public Land Renewable Energy Development Act of 2015
+
+Amends the Energy Policy Act of 2005 to extend from FY2010 through FY2020 the authorization for deposit and use of leases under the Geothermal Steam Act of 1970. Makes such funds available to the Department of the Interior for FY2015 and afterwards to implement both the Energy Policy Act of 2005 and the Geothermal Steam Act of 1970.
+
+Directs the Bureau of Land Management to establish priority and variance areas on covered land for geothermal, solar, and wind energy projects.
+
+Requires Interior to establish a program to improve federal permit coordination with respect to renewable energy projects carried out on public land administered by Interior and not excluded from the development of geothermal, solar, or wind energy (covered land).
+
+Defines "variance area" as covered land that is neither an exclusion area (not suitable for development of renewable energy projects) nor a priority area.
+
+Establishes in the Treasury the Renewable Energy Resource Conservation Fund, to be available in regions affected by the development of wind or solar energy on federal land for: (1) protecting and restoring important fish and wildlife habitat; and (2) ensuring and improving right-of-way access to federal land and water in the impacted region for fishing, hunting, and other forms of outdoor recreation.
+
+Requires the Department of Agriculture as well as Interior to determine the feasibility of carrying out a conservation banking program on federal land.
+
+Denies the rental fee exemption for rights-of-way under the Federal Land Policy and Management Act to wind or solar generation projects with a capacity of 20 megawatts or more that are issued a lease, right-of-way, permit, or other authorization.</summary>
+</bill>

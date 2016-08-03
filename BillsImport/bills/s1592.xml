@@ -1,0 +1,31 @@
+<bill session="114" type="s" number="1592" updated="2015-06-27T07:32:41-04:00">
+  <state datetime="2015-06-17">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-17"/>
+  </status>
+  <introduced datetime="2015-06-17"/>
+  <titles>
+    <title type="official" as="introduced">A bill to clarify the description of certain Federal land under the Northern Arizona Land Exchange and Verde River Basin Partnership Act of 2005 to include additional land in the Kaibab National Forest.</title>
+  </titles>
+  <sponsor id="400134"/>
+  <cosponsors>
+    <cosponsor id="300071" joined="2015-06-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-17">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S4251"/>
+    </action>
+    <action datetime="2015-06-17" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+</bill>

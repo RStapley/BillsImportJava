@@ -1,0 +1,66 @@
+<bill session="114" type="h" number="2235" updated="2015-07-11T06:37:25-04:00">
+  <state datetime="2015-05-05">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-05"/>
+  </status>
+  <introduced datetime="2015-05-05"/>
+  <titles>
+    <title type="short" as="introduced">National Mitigation Fisheries Coordination Act</title>
+    <title type="official" as="introduced">To ensure the continuation of successful fisheries mitigation programs, and for other purposes.</title>
+  </titles>
+  <sponsor id="412400"/>
+  <cosponsors>
+    <cosponsor id="412531" joined="2015-05-05"/>
+    <cosponsor id="412310" joined="2015-05-05"/>
+    <cosponsor id="412402" joined="2015-05-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-05" state="REFERRED">
+      <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-05-05">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2015-05-05">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2015-05-06">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+    </action>
+    <action datetime="2015-06-04">
+      <text>Referred to the Subcommittee on Water, Power and Oceans.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW02" subcommittee="Water Resources and Environment" name="House Transportation and Infrastructure"/>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII13" subcommittee="Water, Power and Oceans" name="House Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Arkansas"/>
+    <term name="Dams and canals"/>
+    <term name="Electric power generation and transmission"/>
+    <term name="Fishes"/>
+    <term name="Georgia"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Kentucky"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Missouri"/>
+    <term name="Montana"/>
+    <term name="North Dakota"/>
+    <term name="Pennsylvania"/>
+    <term name="South Dakota"/>
+    <term name="Tennessee"/>
+    <term name="User charges and fees"/>
+    <term name="Utah"/>
+    <term name="Water resources funding"/>
+    <term name="Water use and supply"/>
+    <term name="West Virginia"/>
+    <term name="Wisconsin"/>
+    <term name="Wyoming"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,50 @@
+<bill session="114" type="h" number="2616" updated="2015-06-18T04:48:44-04:00">
+  <state datetime="2015-06-02">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-02"/>
+  </status>
+  <introduced datetime="2015-06-02"/>
+  <titles>
+    <title type="short" as="introduced">Urban Flooding Awareness Act of 2015</title>
+    <title type="official" as="introduced">To direct the Administrator of the Federal Emergency Management Agency to enter into an agreement with the National Academy of Sciences to conduct a study on urban flooding, and for other purposes.</title>
+  </titles>
+  <sponsor id="412331"/>
+  <cosponsors>
+    <cosponsor id="412236" joined="2015-06-17"/>
+    <cosponsor id="400163" joined="2015-06-02"/>
+    <cosponsor id="412511" joined="2015-06-02"/>
+    <cosponsor id="400295" joined="2015-06-02"/>
+    <cosponsor id="412506" joined="2015-06-02"/>
+    <cosponsor id="412308" joined="2015-06-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-02">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H3646"/>
+    </action>
+    <action datetime="2015-06-02" state="REFERRED">
+      <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-06-02">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2015-06-02">
+      <text>Referred to House Financial Services</text>
+    </action>
+    <action datetime="2015-06-03">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1481"/>
+  </relatedbills>
+  <subjects>
+    <term name="Emergency management"/>
+  </subjects>
+  <amendments/>
+</bill>

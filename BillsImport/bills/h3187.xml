@@ -1,0 +1,39 @@
+<bill session="114" type="h" number="3187" updated="2015-08-26T04:46:58-04:00">
+  <state datetime="2015-07-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-23"/>
+  </status>
+  <introduced datetime="2015-07-23"/>
+  <titles>
+    <title type="short" as="introduced">PRIME Act</title>
+    <title type="short" as="introduced">Processing Revival and Intrastate Meat Exemption Act</title>
+    <title type="official" as="introduced">To amend the Federal Meat Inspection Act to exempt from inspection the slaughter of animals and the preparation of carcasses conducted at a custom slaughter facility, and for other purposes.</title>
+  </titles>
+  <sponsor id="412503"/>
+  <cosponsors>
+    <cosponsor id="412438" joined="2015-07-31"/>
+    <cosponsor id="412382" joined="2015-07-31"/>
+    <cosponsor id="400145" joined="2015-07-31"/>
+    <cosponsor id="412511" joined="2015-07-29"/>
+    <cosponsor id="400209" joined="2015-07-23"/>
+    <cosponsor id="412307" joined="2015-07-23"/>
+    <cosponsor id="412308" joined="2015-07-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-23" state="REFERRED">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+    <action datetime="2015-08-25">
+      <text>Referred to the Subcommittee on Livestock and Foreign Agriculture.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee activity="Referral" code="HSAG29" subcommittee="Livestock and Foreign Agriculture" name="House Agriculture"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+  </subjects>
+  <amendments/>
+</bill>

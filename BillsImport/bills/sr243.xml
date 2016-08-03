@@ -1,0 +1,34 @@
+<bill session="114" type="sr" number="243" updated="2015-08-15T06:51:30-04:00">
+  <state datetime="2015-08-05">REFERRED</state>
+  <status>
+    <introduced datetime="2015-08-05"/>
+  </status>
+  <introduced datetime="2015-08-05"/>
+  <titles>
+    <title type="official" as="introduced">A resolution celebrating the 35th anniversary of the Small Business Development Centers of the United States.</title>
+  </titles>
+  <sponsor id="400418"/>
+  <cosponsors>
+    <cosponsor id="412493" joined="2015-08-05"/>
+    <cosponsor id="300041" joined="2015-08-05"/>
+    <cosponsor id="412406" joined="2015-08-05"/>
+    <cosponsor id="412200" joined="2015-08-05"/>
+    <cosponsor id="412305" joined="2015-08-05"/>
+    <cosponsor id="412322" joined="2015-08-05"/>
+    <cosponsor id="412323" joined="2015-08-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-08-05" state="REFERRED">
+      <text>Referred to the Committee on Small Business and Entrepreneurship.</text>
+      <reference ref="CR S6402" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSSB" name="Senate Small Business and Entrepreneurship" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+  </subjects>
+  <amendments/>
+</bill>

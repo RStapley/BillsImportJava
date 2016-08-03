@@ -1,0 +1,56 @@
+<bill session="114" type="h" number="2739" updated="2015-08-11T04:48:12-04:00">
+  <state datetime="2015-06-11">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-11"/>
+  </status>
+  <introduced datetime="2015-06-11"/>
+  <titles>
+    <title type="short" as="introduced">Cancer Drug Coverage Parity Act of 2015</title>
+    <title type="official" as="introduced">To amend the Public Health Service Act to require group and individual health insurance coverage and group health plans to provide for coverage of oral anticancer drugs on terms no less favorable than the coverage provided for anticancer medications administered by a health care provider.</title>
+  </titles>
+  <sponsor id="412290"/>
+  <cosponsors>
+    <cosponsor id="412635" joined="2015-07-13"/>
+    <cosponsor id="412600" joined="2015-06-11"/>
+    <cosponsor id="400648" joined="2015-06-11"/>
+    <cosponsor id="400646" joined="2015-06-11"/>
+    <cosponsor id="400142" joined="2015-07-07"/>
+    <cosponsor id="412454" joined="2015-06-15"/>
+    <cosponsor id="400170" joined="2015-06-11"/>
+    <cosponsor id="400641" joined="2015-06-11"/>
+    <cosponsor id="400195" joined="2015-06-11"/>
+    <cosponsor id="400219" joined="2015-06-11"/>
+    <cosponsor id="400230" joined="2015-06-17"/>
+    <cosponsor id="400245" joined="2015-07-07"/>
+    <cosponsor id="412643" joined="2015-06-17"/>
+    <cosponsor id="412562" joined="2015-06-15"/>
+    <cosponsor id="412307" joined="2015-07-13"/>
+    <cosponsor id="400360" joined="2015-06-11"/>
+    <cosponsor id="400365" joined="2015-06-11"/>
+    <cosponsor id="400380" joined="2015-06-11"/>
+    <cosponsor id="412626" joined="2015-07-28"/>
+    <cosponsor id="412319" joined="2015-07-09"/>
+    <cosponsor id="412255" joined="2015-07-09"/>
+    <cosponsor id="412211" joined="2015-06-11"/>
+    <cosponsor id="400440" joined="2015-07-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-11" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-06-12">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="1566"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+</bill>

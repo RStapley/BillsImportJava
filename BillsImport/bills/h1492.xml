@@ -1,0 +1,68 @@
+<bill session="114" type="h" number="1492" updated="2015-07-30T04:48:42-04:00">
+  <state datetime="2015-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-19"/>
+  </status>
+  <introduced datetime="2015-03-19"/>
+  <titles>
+    <title type="short" as="introduced">Child Care Access and Refundability Expansion Act</title>
+    <title type="short" as="introduced">Child CARE Act</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to increase and improve the credit for dependent care expenses and to provide a credit for education of employees of child care centers.</title>
+  </titles>
+  <sponsor id="412263"/>
+  <cosponsors>
+    <cosponsor id="412512" joined="2015-05-19"/>
+    <cosponsor id="412657" joined="2015-04-14"/>
+    <cosponsor id="400033" joined="2015-03-19"/>
+    <cosponsor id="412501" joined="2015-07-29"/>
+    <cosponsor id="412537" joined="2015-03-19"/>
+    <cosponsor id="400062" joined="2015-03-19"/>
+    <cosponsor id="412195" joined="2015-03-19"/>
+    <cosponsor id="412600" joined="2015-07-29"/>
+    <cosponsor id="412236" joined="2015-03-26"/>
+    <cosponsor id="400080" joined="2015-03-19"/>
+    <cosponsor id="412544" joined="2015-03-19"/>
+    <cosponsor id="400103" joined="2015-03-19"/>
+    <cosponsor id="412505" joined="2015-03-19"/>
+    <cosponsor id="400124" joined="2015-07-29"/>
+    <cosponsor id="400129" joined="2015-04-14"/>
+    <cosponsor id="412327" joined="2015-03-19"/>
+    <cosponsor id="400170" joined="2015-03-19"/>
+    <cosponsor id="400199" joined="2015-04-14"/>
+    <cosponsor id="412557" joined="2015-07-10"/>
+    <cosponsor id="400663" joined="2015-04-14"/>
+    <cosponsor id="400259" joined="2015-03-19"/>
+    <cosponsor id="400262" joined="2015-03-19"/>
+    <cosponsor id="400289" joined="2015-03-19"/>
+    <cosponsor id="408211" joined="2015-05-19"/>
+    <cosponsor id="400295" joined="2015-03-19"/>
+    <cosponsor id="412192" joined="2015-03-19"/>
+    <cosponsor id="412307" joined="2015-03-19"/>
+    <cosponsor id="400350" joined="2015-03-19"/>
+    <cosponsor id="400360" joined="2015-03-19"/>
+    <cosponsor id="400378" joined="2015-03-19"/>
+    <cosponsor id="412259" joined="2015-03-19"/>
+    <cosponsor id="412319" joined="2015-04-14"/>
+    <cosponsor id="400623" joined="2015-03-19"/>
+    <cosponsor id="412644" joined="2015-04-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-19" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+  <summary>3/19/2015--Introduced.
+Child Care Access and Refundability Expansion Act or the Child CARE Act
+
+This bill amends the Internal Revenue Code, with respect to the tax credit for employment-related expenses incurred for the care of a taxpayer's dependent, to: (1) make such credit refundable, (2) deny such credit&#160;for services provided outside the United States, (3) increase the dollar limit on the allowable amount of such credit and the percentage rate for qualified expenses, (4) deny such credit for taxpayers whose adjusted gross income exceeds $200,000 in a taxable year; and (5) allow an annual inflation adjustment to the threshold amount for reducing such credit and the maximum allowable credit amount, beginning after 2015.
+
+The bill also allows a new tax credit for 50% of the child care educational expenses, up to a maximum of $1,000 in any taxable year,&#160;paid with respect to the operation of a qualified child care center.</summary>
+</bill>

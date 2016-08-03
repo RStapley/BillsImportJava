@@ -1,0 +1,44 @@
+<bill session="114" type="h" number="1649" updated="2015-05-16T06:31:29-04:00">
+  <state datetime="2015-03-26">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-26"/>
+  </status>
+  <introduced datetime="2015-03-26"/>
+  <titles>
+    <title type="short" as="introduced">Partnering to Detect and Defeat Tunnels Act</title>
+    <title type="official" as="introduced">To authorize the Secretary of Defense to enter into partnerships with Israel and other allies of the United States to develop technology to detect tunnels, and for other purposes.</title>
+  </titles>
+  <sponsor id="412191"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-03-26" state="REFERRED">
+      <text>Referred to the Committee on Armed Services, and in addition to the Committees on Foreign Affairs, and Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-03-26">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2015-03-26">
+      <text>Referred to House Foreign Affairs</text>
+    </action>
+    <action datetime="2015-03-26">
+      <text>Referred to House Intelligence</text>
+      <reference ref="Permanent Select"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee code="HLIG" name="House Intelligence (Permanent Select)" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+  </subjects>
+  <amendments/>
+  <summary>3/26/2015--Introduced.
+Partnering to Detect and Defeat Tunnels Act
+
+This bill expresses the sense of Congress that: (1) it is in the best interests of the United States to develop technology to detect and counter tunnels, and the best way to do this is to partner with other affected countries; and (2) Israel is facing serious threats posed by tunnels and should be the first U.S. partner in addressing this challenge.
+
+The Secretary of Defense: (1) shall seek to enter into an agreement with Israel to partner in developing and deploying technologies to detect and counter tunnels, (2) may seek to enter into similar agreements with U.S. allies, and (3) shall report to Congress annually through 2020.</summary>
+</bill>

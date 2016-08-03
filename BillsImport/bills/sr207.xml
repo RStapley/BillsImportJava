@@ -1,0 +1,53 @@
+<bill session="114" type="sr" number="207" updated="2015-07-07T04:47:24-04:00">
+  <state datetime="2015-06-25">REPORTED</state>
+  <status>
+    <unknown datetime="2015-06-25"/>
+  </status>
+  <introduced datetime="2015-06-22"/>
+  <titles>
+    <title type="official" as="introduced">A resolution recognizing threats to freedom of the press and expression around the world and reaffirming freedom of the press as a priority in efforts of the United States Government to promote democracy and good governance.</title>
+  </titles>
+  <sponsor id="412246"/>
+  <cosponsors>
+    <cosponsor id="412491" joined="2015-06-22"/>
+    <cosponsor id="412323" joined="2015-06-25"/>
+    <cosponsor id="300100" joined="2015-06-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-22" state="REFERRED">
+      <text>Referred to the Committee on Foreign Relations.</text>
+      <reference ref="CR S4347-4348" label="text of measure as introduced"/>
+    </action>
+    <calendar datetime="2015-06-25" state="REPORTED">
+      <text>Committee on Foreign Relations. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="2015-06-25">
+      <text>Committee on Foreign Relations. Reported by Senator Corker without amendment and with a preamble. Without written report.</text>
+    </action>
+    <calendar datetime="2015-06-25" calendar="Senate Legislative" under="General Orders" number="135">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 135.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+  </subjects>
+  <amendments/>
+  <summary>6/25/2015--Reported to Senate without amendment.
+(This measure has not been amended since it was introduced. The summary of that version is repeated here.)
+
+Commemorates World Press Freedom Day by commending journalists like Mazen Darwish and others around the world for the vital role they play in supporting democratic societies, promoting government accountability, and strengthening civil society.
+
+Expresses concern about the threats to freedom of the press and expression around the world, and pays tribute to journalists who have lost their lives carrying out their work.
+
+Calls on governments abroad to implement United Nations General Assembly Resolution (A/RES/68/163) by investigating and seeking to resolve outstanding cases of violence against journalists.
+
+Condemns actions around the world that suppress freedom of the press, including the murders of journalists by the terrorist group ISIS, attacks against media outlets like the French satirical magazine Charlie Hebdo, and kidnappings of journalists and media workers in eastern Ukraine by pro-Russian militant groups.
+
+Reaffirms the centrality of freedom of the press to U.S. efforts to support democracy and mitigate conflict.
+
+Calls on the President and the Secretary of State to: (1) improve the means by which the United States responds to threats against freedom of the press around the world, (2) urge foreign governments to investigate and bring to justice the perpetrators of attacks against journalists, and (3) highlight the issue of threats against freedom of the press.</summary>
+</bill>

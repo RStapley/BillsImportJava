@@ -1,0 +1,57 @@
+<bill session="114" type="h" number="3429" updated="2015-08-22T06:47:59-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">Pro-LIFE Act</title>
+    <title type="short" as="introduced">Prohibiting the Life-Ending Industry of Fetal Organ Exchange Act</title>
+    <title type="official" as="introduced">To amend title IV of the Public Health Service Act to prohibit sale or transactions relating to human fetal tissue.</title>
+  </titles>
+  <sponsor id="412430"/>
+  <cosponsors>
+    <cosponsor id="412630" joined="2015-07-31"/>
+    <cosponsor id="412655" joined="2015-07-29"/>
+    <cosponsor id="400018" joined="2015-07-29"/>
+    <cosponsor id="412250" joined="2015-07-31"/>
+    <cosponsor id="400032" joined="2015-07-31"/>
+    <cosponsor id="400636" joined="2015-07-29"/>
+    <cosponsor id="412563" joined="2015-07-29"/>
+    <cosponsor id="412621" joined="2015-07-31"/>
+    <cosponsor id="412488" joined="2015-07-29"/>
+    <cosponsor id="412472" joined="2015-07-29"/>
+    <cosponsor id="412476" joined="2015-07-29"/>
+    <cosponsor id="400141" joined="2015-07-29"/>
+    <cosponsor id="412473" joined="2015-07-29"/>
+    <cosponsor id="412631" joined="2015-07-31"/>
+    <cosponsor id="412434" joined="2015-07-29"/>
+    <cosponsor id="412284" joined="2015-07-29"/>
+    <cosponsor id="400209" joined="2015-07-29"/>
+    <cosponsor id="412465" joined="2015-07-29"/>
+    <cosponsor id="400656" joined="2015-07-29"/>
+    <cosponsor id="400441" joined="2015-07-29"/>
+    <cosponsor id="400313" joined="2015-07-29"/>
+    <cosponsor id="412551" joined="2015-07-29"/>
+    <cosponsor id="400373" joined="2015-07-29"/>
+    <cosponsor id="412581" joined="2015-07-29"/>
+    <cosponsor id="412618" joined="2015-08-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+  <summary>7/29/2015--Introduced.
+Prohibiting the Life-Ending Industry of Fetal Organ Exchange Act or the Pro-LIFE Act
+
+This bill amends the Public Health Service Act to prohibit the transfer of fetal tissue in exchange for valuable consideration, including payments associated with the transportation, implantation, processing, preservation, quality control, or storage of human fetal tissue.</summary>
+</bill>

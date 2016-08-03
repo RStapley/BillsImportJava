@@ -1,0 +1,46 @@
+<bill session="114" type="h" number="1532" updated="2015-05-13T04:47:34-04:00">
+  <state datetime="2015-03-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-23"/>
+  </status>
+  <introduced datetime="2015-03-23"/>
+  <titles>
+    <title type="short" as="introduced">Keeping our Promises to Veterans Act of 2015</title>
+    <title type="official" as="introduced">To amend the Veterans Access, Choice, and Accountability Act of 2014 to modify the distance requirements regarding the eligibility of certain veterans to receive medical care and services from non-Department of Veterans Affairs facilities, and for other purposes.</title>
+  </titles>
+  <sponsor id="412639"/>
+  <cosponsors>
+    <cosponsor id="412529" joined="2015-05-12"/>
+    <cosponsor id="412654" joined="2015-03-23"/>
+    <cosponsor id="400224" joined="2015-05-12"/>
+    <cosponsor id="412256" joined="2015-03-23"/>
+    <cosponsor id="412633" joined="2015-05-12"/>
+    <cosponsor id="412399" joined="2015-03-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-23" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2015-04-07">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Government information and archives"/>
+    <term name="Health care coverage and access"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>3/23/2015--Introduced.
+Keeping our Promises to Veterans Act of 2015
+
+This bill amends the Veterans Access, Choice, and Accountability Act of 2014 regarding the veterans choice program to:
+
+ reduce the 40-mile radius requirement to 20 miles, and require that the closest medical facility is able to provide a veteran with the care and services needed; reduce the 30-day wait-time goal to 15 days; and require the Veterans Administration (VA) to implement the prompt payment system by the earlier of February 1, 2016, or 180 days after the Comptroller General submits a certain report on the timeliness of VA payments for hospital care, medical services, and other health care furnished by non-VA health care providers.</summary>
+</bill>

@@ -1,0 +1,53 @@
+<bill session="114" type="s" number="429" updated="2015-08-04T04:47:23-04:00">
+  <state datetime="2015-02-10">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-10"/>
+  </status>
+  <introduced datetime="2015-02-10"/>
+  <titles>
+    <title type="short" as="introduced">Family-Based Foster Care Services Act</title>
+    <title type="official" as="introduced">A bill to amend title XIX of the Social Security Act to provide a standard definition of therapeutic foster care services in Medicaid.</title>
+  </titles>
+  <sponsor id="400013"/>
+  <cosponsors>
+    <cosponsor id="400034" joined="2015-06-08"/>
+    <cosponsor id="400050" joined="2015-02-10"/>
+    <cosponsor id="412246" joined="2015-02-10"/>
+    <cosponsor id="300043" joined="2015-07-13"/>
+    <cosponsor id="300075" joined="2015-06-23"/>
+    <cosponsor id="400325" joined="2015-02-10"/>
+    <cosponsor id="300087" joined="2015-08-03"/>
+    <cosponsor id="300093" joined="2015-02-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-10" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="835"/>
+    <bill relation="unknown" session="114" type="h" number="919"/>
+    <bill relation="unknown" session="114" type="s" number="473"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Adoption and foster care"/>
+    <term name="Child care and development"/>
+    <term name="Child health"/>
+    <term name="Disability and paralysis"/>
+    <term name="Medicaid"/>
+    <term name="Mental health"/>
+  </subjects>
+  <amendments/>
+  <summary>2/10/2015--Introduced.
+Family-Based Foster Care Services Act
+
+ Amends title XIX (Medicaid) of the Social Security Act to extend medical assistance coverage to therapeutic foster care services.
+
+Requires a qualified therapeutic foster care program to be state-licensed and provide:
+
+ foster care children under 21 with structured daily activities, including the development of age-appropriate social, communication and behavioral skills, trauma-informed and gender-responsive services, crisis intervention and crisis support services, medication monitoring, counseling, and case management; and biological parents, kinship caregivers, and foster care parents with specialized training and consultation in the management of children with mental illness, trauma, other emotional or behavioral disorders, medically fragile conditions, or developmental disabilities, the impact of trauma on child and caregiver, and specific additional training on the needs of each child provided such services.</summary>
+</bill>

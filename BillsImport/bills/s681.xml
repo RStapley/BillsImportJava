@@ -1,0 +1,63 @@
+<bill session="114" type="s" number="681" updated="2015-07-31T04:47:34-04:00">
+  <state datetime="2015-03-09">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-09"/>
+  </status>
+  <introduced datetime="2015-03-09"/>
+  <titles>
+    <title type="short" as="introduced">Blue Water Navy Vietnam Veterans Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend title 38, United States Code, to clarify presumptions relating to the exposure of certain veterans who served in the vicinity of the Republic of Vietnam, and for other purposes.</title>
+  </titles>
+  <sponsor id="412223"/>
+  <cosponsors>
+    <cosponsor id="300011" joined="2015-06-24"/>
+    <cosponsor id="400050" joined="2015-05-06"/>
+    <cosponsor id="300023" joined="2015-07-21"/>
+    <cosponsor id="412390" joined="2015-07-21"/>
+    <cosponsor id="300030" joined="2015-06-25"/>
+    <cosponsor id="412549" joined="2015-03-09"/>
+    <cosponsor id="300038" joined="2015-07-07"/>
+    <cosponsor id="300043" joined="2015-07-30"/>
+    <cosponsor id="412200" joined="2015-05-21"/>
+    <cosponsor id="412242" joined="2015-03-16"/>
+    <cosponsor id="400272" joined="2015-06-24"/>
+    <cosponsor id="400284" joined="2015-04-21"/>
+    <cosponsor id="412305" joined="2015-04-22"/>
+    <cosponsor id="400357" joined="2015-05-06"/>
+    <cosponsor id="412507" joined="2015-07-08"/>
+    <cosponsor id="300087" joined="2015-05-14"/>
+    <cosponsor id="300093" joined="2015-06-01"/>
+    <cosponsor id="412665" joined="2015-06-15"/>
+    <cosponsor id="412244" joined="2015-03-12"/>
+    <cosponsor id="400418" joined="2015-07-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-09" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2015-05-13">
+      <text>Committee on Veterans' Affairs. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="969"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Asia"/>
+    <term name="Conflicts and wars"/>
+    <term name="Disability and paralysis"/>
+    <term name="Hazardous wastes and toxic substances"/>
+    <term name="Veterans' medical care"/>
+    <term name="Veterans' pensions and compensation"/>
+    <term name="Vietnam"/>
+  </subjects>
+  <amendments/>
+  <summary>3/9/2015--Introduced.
+Blue Water Navy Vietnam Veterans Act of 2015
+
+ Includes as part of the Republic of Vietnam its territorial seas for purposes of the presumption of service connection for diseases associated with exposure by veterans to certain herbicide agents while in Vietnam.</summary>
+</bill>

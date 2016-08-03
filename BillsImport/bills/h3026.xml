@@ -1,0 +1,31 @@
+<bill session="114" type="h" number="3026" updated="2015-07-30T04:50:16-04:00">
+  <state datetime="2015-07-10">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-10"/>
+  </status>
+  <introduced datetime="2015-07-10"/>
+  <titles>
+    <title type="short" as="introduced">Tribal TANF Fairness Act of 2015</title>
+    <title type="official" as="introduced">To amend part A of title IV of the Social Security Act to clarify the authority of tribal governments in regard to the Temporary Assistance for Needy Families program.</title>
+  </titles>
+  <sponsor id="412513"/>
+  <cosponsors>
+    <cosponsor id="412519" joined="2015-07-16"/>
+    <cosponsor id="412617" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-10" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <summary>7/10/2015--Introduced.
+Tribal TANF Fairness Act of 2015
+
+This bill amends part A (Temporary Assistance for Needy Families) (TANF) of title IV of the Social Security Act to allow a tribal government (including one participating in an intertribal consortium) to lease land held in trust or in fee, at a fair market rate, for the administration of a tribal family assistance grant by the tribal government or the intertribal consortium.</summary>
+</bill>

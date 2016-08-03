@@ -1,0 +1,106 @@
+<bill session="114" type="h" number="1188" updated="2015-07-29T04:47:50-04:00">
+  <state datetime="2015-03-02">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-02"/>
+  </status>
+  <introduced datetime="2015-03-02"/>
+  <titles>
+    <title type="short" as="introduced">Credit Union Small Business Jobs Creation Act</title>
+    <title type="official" as="introduced">To amend the Federal Credit Union Act to provide certain credit unions with the authority to make additional member business loans, and for other purposes.</title>
+  </titles>
+  <sponsor id="400348"/>
+  <cosponsors>
+    <cosponsor id="412615" joined="2015-03-04"/>
+    <cosponsor id="412500" joined="2015-05-08"/>
+    <cosponsor id="412512" joined="2015-06-04"/>
+    <cosponsor id="400030" joined="2015-04-29"/>
+    <cosponsor id="400033" joined="2015-04-28"/>
+    <cosponsor id="412501" joined="2015-03-03"/>
+    <cosponsor id="412516" joined="2015-03-13"/>
+    <cosponsor id="412537" joined="2015-04-28"/>
+    <cosponsor id="412517" joined="2015-04-28"/>
+    <cosponsor id="412258" joined="2015-04-28"/>
+    <cosponsor id="412563" joined="2015-04-30"/>
+    <cosponsor id="412513" joined="2015-04-13"/>
+    <cosponsor id="412505" joined="2015-04-28"/>
+    <cosponsor id="412403" joined="2015-04-13"/>
+    <cosponsor id="400124" joined="2015-05-12"/>
+    <cosponsor id="400129" joined="2015-05-08"/>
+    <cosponsor id="400162" joined="2015-04-28"/>
+    <cosponsor id="412498" joined="2015-03-13"/>
+    <cosponsor id="412446" joined="2015-05-13"/>
+    <cosponsor id="400185" joined="2015-07-28"/>
+    <cosponsor id="412511" joined="2015-04-29"/>
+    <cosponsor id="400196" joined="2015-04-28"/>
+    <cosponsor id="412199" joined="2015-04-28"/>
+    <cosponsor id="400209" joined="2015-04-28"/>
+    <cosponsor id="400211" joined="2015-06-15"/>
+    <cosponsor id="412510" joined="2015-04-28"/>
+    <cosponsor id="400230" joined="2015-04-28"/>
+    <cosponsor id="400237" joined="2015-04-28"/>
+    <cosponsor id="400240" joined="2015-06-09"/>
+    <cosponsor id="412616" joined="2015-04-28"/>
+    <cosponsor id="400630" joined="2015-05-19"/>
+    <cosponsor id="400245" joined="2015-04-29"/>
+    <cosponsor id="412521" joined="2015-03-13"/>
+    <cosponsor id="412558" joined="2015-04-28"/>
+    <cosponsor id="412295" joined="2015-04-13"/>
+    <cosponsor id="412189" joined="2015-06-04"/>
+    <cosponsor id="400271" joined="2015-03-02"/>
+    <cosponsor id="400276" joined="2015-03-18"/>
+    <cosponsor id="400279" joined="2015-04-28"/>
+    <cosponsor id="400290" joined="2015-07-13"/>
+    <cosponsor id="408211" joined="2015-04-13"/>
+    <cosponsor id="400295" joined="2015-03-13"/>
+    <cosponsor id="412523" joined="2015-05-12"/>
+    <cosponsor id="400652" joined="2015-05-19"/>
+    <cosponsor id="412309" joined="2015-06-04"/>
+    <cosponsor id="400333" joined="2015-04-28"/>
+    <cosponsor id="400343" joined="2015-06-02"/>
+    <cosponsor id="400352" joined="2015-04-28"/>
+    <cosponsor id="400355" joined="2015-05-13"/>
+    <cosponsor id="400356" joined="2015-04-13"/>
+    <cosponsor id="400361" joined="2015-04-28"/>
+    <cosponsor id="400371" joined="2015-03-06"/>
+    <cosponsor id="412259" joined="2015-07-27"/>
+    <cosponsor id="412461" joined="2015-03-13"/>
+    <cosponsor id="412514" joined="2015-03-13"/>
+    <cosponsor id="412626" joined="2015-03-13"/>
+    <cosponsor id="412520" joined="2015-03-04"/>
+    <cosponsor id="400403" joined="2015-05-29"/>
+    <cosponsor id="412318" joined="2015-04-28"/>
+    <cosponsor id="412319" joined="2015-04-28"/>
+    <cosponsor id="412515" joined="2015-05-13"/>
+    <cosponsor id="412416" joined="2015-05-12"/>
+    <cosponsor id="400440" joined="2015-07-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-02" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Banking and financial institutions regulation"/>
+    <term name="Congressional oversight"/>
+    <term name="Credit and credit markets"/>
+    <term name="Government studies and investigations"/>
+    <term name="National Credit Union Administration"/>
+  </subjects>
+  <amendments/>
+  <summary>3/2/2015--Introduced.
+Credit Union Small Business Jobs Creation Act 
+
+ Amends the Federal Credit Union Act to prohibit an insured credit union from making any member business loan that would result in the total amount of such loans outstanding at that credit union at any one time exceeding either: (1) 1.75 times the actual net worth of the credit union, or (2) 12.25% of the total assets of the credit union.
+
+Authorizes the National Credit Union Administration Board to approve an application by an insured credit union to make one or more member business loans that would result in a total amount of such loans outstanding at any one time of up to 27.5 % of the total assets of the credit union, if the credit union meets specified safety and soundness criteria. Prohibits an insured credit union that has made such a member business loan but that is not well capitalized from making any new member business loans until it becomes well capitalized and obtains Board approval.
+
+Directs the Board to develop a tiered approval process, including lending standards, under which an insured credit union gradually increases the amount of member business lending in a manner consistent with safe and sound operations.
+
+Directs the Comptroller General to study the status of member business lending by insured credit unions.</summary>
+</bill>

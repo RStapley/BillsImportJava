@@ -1,0 +1,25 @@
+<bill session="114" type="s" number="1859" updated="2015-07-25T07:04:46-04:00">
+  <state datetime="2015-07-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-23"/>
+  </status>
+  <introduced datetime="2015-07-23"/>
+  <titles>
+    <title type="official" as="introduced">A bill to assure equity in contracting between the Federal Government and small business concerns, and for other purposes.</title>
+  </titles>
+  <sponsor id="400413"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-23" state="REFERRED">
+      <text>Read twice and referred to the Committee on Small Business and Entrepreneurship.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSSB" name="Senate Small Business and Entrepreneurship" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+  </subjects>
+  <amendments/>
+</bill>

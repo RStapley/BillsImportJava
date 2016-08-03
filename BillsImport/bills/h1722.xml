@@ -1,0 +1,48 @@
+<bill session="114" type="h" number="1722" updated="2015-07-30T04:48:54-04:00">
+  <state datetime="2015-03-26">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-26"/>
+  </status>
+  <introduced datetime="2015-03-26"/>
+  <titles>
+    <title type="short" as="introduced">Keith Nolan Air Force Deaf Demonstration Act of 2015</title>
+    <title type="official" as="introduced">To require a demonstration program on the accession as Air Force officers of candidates with auditory impairments.</title>
+  </titles>
+  <sponsor id="412520"/>
+  <cosponsors>
+    <cosponsor id="412517" joined="2015-05-12"/>
+    <cosponsor id="412544" joined="2015-03-26"/>
+    <cosponsor id="412382" joined="2015-06-24"/>
+    <cosponsor id="400230" joined="2015-07-29"/>
+    <cosponsor id="412616" joined="2015-03-26"/>
+    <cosponsor id="412521" joined="2015-05-12"/>
+    <cosponsor id="412254" joined="2015-03-26"/>
+    <cosponsor id="400415" joined="2015-03-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-26" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Congressional oversight"/>
+    <term name="Disability and paralysis"/>
+    <term name="Hearing, speech, and vision care"/>
+    <term name="Military education and training"/>
+    <term name="Military personnel and dependents"/>
+  </subjects>
+  <amendments/>
+  <summary>3/26/2015--Introduced.
+Keith Nolan Air Force Deaf Demonstration Act of 2015
+
+Requires the Secretary of the Air Force to carry out a demonstration program to assess the feasibility and advisability of permitting individuals with auditory impairments (including deafness) access as officers of the Air Force.
+
+Authorizes between 15 and 20 individuals who are deaf or have a range of other auditory impairments, who otherwise meet all essential qualifications for accession as an officer of the Air Force, and who have not previously served as officers to participate in such program.
+
+Requires selected participants to undergo the Basic Officer Training course or the Commissioned Officer Training course at Maxwell Air Force Base, Alabama, at the election of the Secretary. Requires the Secretary to designate a special advisor to act as a resource for participants, as well as a liaison between participants and those providing the officer training.</summary>
+</bill>

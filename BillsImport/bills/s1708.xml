@@ -1,0 +1,26 @@
+<bill session="114" type="s" number="1708" updated="2015-07-15T12:46:59-04:00">
+  <state datetime="2015-07-07">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-07"/>
+  </status>
+  <introduced datetime="2015-07-07"/>
+  <titles>
+    <title type="short" as="introduced">Charter School Accountability Act of 2015</title>
+    <title type="official" as="introduced">A bill to improve certain provisions relating to charter schools.</title>
+  </titles>
+  <sponsor id="400050"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-07" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+  </subjects>
+  <amendments/>
+</bill>

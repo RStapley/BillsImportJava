@@ -1,0 +1,41 @@
+<bill session="114" type="h" number="2932" updated="2015-07-30T04:50:00-04:00">
+  <state datetime="2015-06-25">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-25"/>
+  </status>
+  <introduced datetime="2015-06-25"/>
+  <titles>
+    <title type="short" as="introduced">Physical activity, Living healthy, Access, Youth development, and Safety in Youth Sports Act</title>
+    <title type="short" as="introduced">PLAYS in Youth Sports Act</title>
+    <title type="official" as="introduced">To provide for the Secretary of Health and Human Services to establish grant programs to improve the health and positive youth development impacts of youth sports participation, and for other purposes.</title>
+  </titles>
+  <sponsor id="400218"/>
+  <cosponsors>
+    <cosponsor id="400080" joined="2015-06-25"/>
+    <cosponsor id="400097" joined="2015-06-25"/>
+    <cosponsor id="412527" joined="2015-06-25"/>
+    <cosponsor id="400333" joined="2015-06-25"/>
+    <cosponsor id="412520" joined="2015-07-29"/>
+    <cosponsor id="412579" joined="2015-06-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-25" state="REFERRED">
+      <text>Referred to the Committee on Education and the Workforce, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-06-25">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+    <action datetime="2015-06-25">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Sports and recreation"/>
+  </subjects>
+  <amendments/>
+</bill>

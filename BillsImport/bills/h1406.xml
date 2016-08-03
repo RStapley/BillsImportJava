@@ -1,0 +1,50 @@
+<bill session="114" type="h" number="1406" updated="2015-06-30T04:59:32-04:00">
+  <state datetime="2015-03-17">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-17"/>
+  </status>
+  <introduced datetime="2015-03-17"/>
+  <titles>
+    <title type="short" as="introduced">New Mexico Navajo Water Settlement Technical Corrections Act</title>
+    <title type="official" as="introduced">To make technical corrections to the Navajo water rights settlement in the State of New Mexico, and for other purposes.</title>
+  </titles>
+  <sponsor id="412293"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-03-17" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2015-04-07">
+      <text>Referred to the Subcommittee on Water, Power and Oceans.</text>
+    </action>
+    <action datetime="2015-06-25">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral, Hearings" code="HSII13" subcommittee="Water, Power and Oceans" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="501"/>
+  </relatedbills>
+  <subjects>
+    <term name="Native Americans"/>
+    <term name="Historical and cultural resources"/>
+    <term name="Indian claims"/>
+    <term name="Indian lands and resources rights"/>
+    <term name="New Mexico"/>
+    <term name="Water resources funding"/>
+    <term name="Water use and supply"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+  <summary>3/17/2015--Introduced.
+New Mexico Navajo Water Settlement Technical Corrections Act
+
+ Amends the Omnibus Public Land Management Act of 2009 to expand the current authorization for the construction or rehabilitation and operation and maintenance of conjunctive use wells in the San Juan River Basin, Little Colorado River Basin, and Rio Grande Basin in New Mexico to include the planning and design of those wells.
+
+Revises the percentages of funds authorized for the Navajo-Gallup Water Supply Project, conjunctive use wells, and San Juan River Irrigation Projects that may be made available for specified purposes by:
+
+ increasing from 2% to 4% the portion of funds that may be used for the survey, recovery, protection, preservation, and display of archaeological resources in the area of a Project facility or conjunctive use well; and decreasing from 4% to 2% the portion of funds that may be used for purchasing land and constructing and maintaining facilities to mitigate the loss of, and improve conditions for the propagation of, fish and wildlife.</summary>
+</bill>

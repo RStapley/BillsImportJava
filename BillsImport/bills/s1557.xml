@@ -1,0 +1,44 @@
+<bill session="114" type="s" number="1557" updated="2015-08-22T07:04:46-04:00">
+  <state datetime="2015-06-11">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-11"/>
+  </status>
+  <introduced datetime="2015-06-11"/>
+  <titles>
+    <title type="short" as="introduced">Servicemember Student Loan Affordability Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend the Servicemembers Civil Relief Act to extend the interest rate limitation on debt entered into during military service to debt incurred during military service to consolidate or refinance student loans incurred before military service, and for other purposes.</title>
+  </titles>
+  <sponsor id="300038"/>
+  <cosponsors>
+    <cosponsor id="412490" joined="2015-06-11"/>
+    <cosponsor id="400050" joined="2015-06-11"/>
+    <cosponsor id="400253" joined="2015-06-11"/>
+    <cosponsor id="300076" joined="2015-06-11"/>
+    <cosponsor id="412507" joined="2015-06-16"/>
+    <cosponsor id="412244" joined="2015-06-11"/>
+    <cosponsor id="412247" joined="2015-06-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-11" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+      <reference ref="CR S4107-4108" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="2718"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Interest, dividends, interest rates"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Student aid and college costs"/>
+  </subjects>
+  <amendments/>
+  <summary>6/11/2015--Introduced.
+Servicemember Student Loan Affordability Act of 2015
+
+Amends the Servicemembers Civil Relief Act to extend the 6% interest rate limitation on debt entered into during a servicemember's military service to any debt entered into to consolidate or refinance one or more student loans incurred before such service.</summary>
+</bill>

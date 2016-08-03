@@ -1,0 +1,29 @@
+<bill session="114" type="s" number="1761" updated="2015-07-25T07:03:57-04:00">
+  <state datetime="2015-07-14">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-14"/>
+  </status>
+  <introduced datetime="2015-07-14"/>
+  <titles>
+    <title type="official" as="introduced">A bill to take certain Federal land located in Lassen County, California, into trust for the benefit of the Susanville Indian Rancheria, and for other purposes.</title>
+  </titles>
+  <sponsor id="300011"/>
+  <cosponsors>
+    <cosponsor id="300043" joined="2015-07-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-14" state="REFERRED">
+      <text>Read twice and referred to the Committee on Indian Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SLIA" name="Senate Indian Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="2212"/>
+  </relatedbills>
+  <subjects>
+    <term name="Native Americans"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,28 @@
+<bill session="114" type="s" number="1870" updated="2015-07-30T04:52:45-04:00">
+  <state datetime="2015-07-29">REPORTED</state>
+  <status>
+    <unknown datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-27"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Small Business Act to require the Administrator of the Small Business Administration to carry out a pilot program on issuing grants to eligible veterans to start or acquire qualifying businesses, and for other purposes.</title>
+  </titles>
+  <sponsor id="400284"/>
+  <cosponsors>
+    <cosponsor id="412244" joined="2015-07-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-27" state="REFERRED">
+      <text>Read twice and referred to the Committee on Small Business and Entrepreneurship.</text>
+    </action>
+    <calendar datetime="2015-07-29" state="REPORTED">
+      <text>Committee on Small Business and Entrepreneurship. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSSB" name="Senate Small Business and Entrepreneurship" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

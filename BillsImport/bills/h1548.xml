@@ -1,0 +1,91 @@
+<bill session="114" type="h" number="1548" updated="2015-07-15T04:48:18-04:00">
+  <state datetime="2015-03-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-23"/>
+  </status>
+  <introduced datetime="2015-03-23"/>
+  <titles>
+    <title type="short" as="introduced">BREATHE Act</title>
+    <title type="short" as="introduced">Bringing Reductions to Energy's Airborne Toxic Health Effects Act</title>
+    <title type="official" as="introduced">To amend the Clean Air Act to eliminate the exemption for aggregation of emissions from oil and gas sources, and for other purposes.</title>
+  </titles>
+  <sponsor id="412308"/>
+  <cosponsors>
+    <cosponsor id="412615" joined="2015-07-14"/>
+    <cosponsor id="412404" joined="2015-03-23"/>
+    <cosponsor id="412657" joined="2015-05-12"/>
+    <cosponsor id="400033" joined="2015-03-23"/>
+    <cosponsor id="400063" joined="2015-03-23"/>
+    <cosponsor id="412571" joined="2015-03-23"/>
+    <cosponsor id="412195" joined="2015-03-23"/>
+    <cosponsor id="412379" joined="2015-05-12"/>
+    <cosponsor id="412600" joined="2015-03-23"/>
+    <cosponsor id="412221" joined="2015-03-26"/>
+    <cosponsor id="412236" joined="2015-05-12"/>
+    <cosponsor id="412272" joined="2015-03-23"/>
+    <cosponsor id="400090" joined="2015-03-26"/>
+    <cosponsor id="400097" joined="2015-03-23"/>
+    <cosponsor id="400100" joined="2015-03-23"/>
+    <cosponsor id="400101" joined="2015-03-23"/>
+    <cosponsor id="412613" joined="2015-05-12"/>
+    <cosponsor id="412263" joined="2015-03-23"/>
+    <cosponsor id="412215" joined="2015-03-23"/>
+    <cosponsor id="400124" joined="2015-03-23"/>
+    <cosponsor id="400129" joined="2015-03-23"/>
+    <cosponsor id="412276" joined="2015-03-23"/>
+    <cosponsor id="400162" joined="2015-03-23"/>
+    <cosponsor id="400170" joined="2015-03-23"/>
+    <cosponsor id="400185" joined="2015-03-23"/>
+    <cosponsor id="412511" joined="2015-03-23"/>
+    <cosponsor id="412435" joined="2015-03-23"/>
+    <cosponsor id="412557" joined="2015-03-23"/>
+    <cosponsor id="400230" joined="2015-03-23"/>
+    <cosponsor id="412638" joined="2015-05-12"/>
+    <cosponsor id="400237" joined="2015-03-23"/>
+    <cosponsor id="412616" joined="2015-05-12"/>
+    <cosponsor id="400245" joined="2015-03-23"/>
+    <cosponsor id="412521" joined="2015-03-23"/>
+    <cosponsor id="400251" joined="2015-03-23"/>
+    <cosponsor id="400259" joined="2015-07-14"/>
+    <cosponsor id="400262" joined="2015-03-23"/>
+    <cosponsor id="412560" joined="2015-03-23"/>
+    <cosponsor id="400289" joined="2015-03-23"/>
+    <cosponsor id="400290" joined="2015-05-12"/>
+    <cosponsor id="400295" joined="2015-03-23"/>
+    <cosponsor id="412523" joined="2015-03-23"/>
+    <cosponsor id="412307" joined="2015-03-23"/>
+    <cosponsor id="412585" joined="2015-03-23"/>
+    <cosponsor id="400326" joined="2015-03-23"/>
+    <cosponsor id="412331" joined="2015-03-23"/>
+    <cosponsor id="400333" joined="2015-03-23"/>
+    <cosponsor id="412212" joined="2015-03-23"/>
+    <cosponsor id="400360" joined="2015-03-23"/>
+    <cosponsor id="400361" joined="2015-03-23"/>
+    <cosponsor id="400378" joined="2015-03-23"/>
+    <cosponsor id="400379" joined="2015-05-12"/>
+    <cosponsor id="412259" joined="2015-03-26"/>
+    <cosponsor id="412514" joined="2015-03-23"/>
+    <cosponsor id="412520" joined="2015-03-23"/>
+    <cosponsor id="412319" joined="2015-03-23"/>
+    <cosponsor id="412254" joined="2015-03-23"/>
+    <cosponsor id="400415" joined="2015-03-23"/>
+    <cosponsor id="412211" joined="2015-05-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-23" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-03-27">
+      <text>Referred to the Subcommittee on Energy and Power.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+  </subjects>
+  <amendments/>
+</bill>

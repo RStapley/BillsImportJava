@@ -1,0 +1,67 @@
+<bill session="114" type="hr" number="126" updated="2015-04-17T04:54:57-04:00">
+  <state datetime="2015-02-25">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-25"/>
+  </status>
+  <introduced datetime="2015-02-25"/>
+  <titles>
+    <title type="official" as="introduced">Expressing the sense of the House of Representatives regarding United States efforts to promote Israeli-Palestinian peace.</title>
+  </titles>
+  <sponsor id="400237"/>
+  <cosponsors>
+    <cosponsor id="400080" joined="2015-04-13"/>
+    <cosponsor id="412215" joined="2015-04-13"/>
+    <cosponsor id="412199" joined="2015-04-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-25" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2015-03-20">
+      <text>Referred to the Subcommittee on Middle East and North Africa.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSFA13" subcommittee="Middle East and North Africa" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Arab-Israeli relations"/>
+    <term name="Building construction"/>
+    <term name="Conflicts and wars"/>
+    <term name="Congressional tributes"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="International law and treaties"/>
+    <term name="International organizations and cooperation"/>
+    <term name="Israel"/>
+    <term name="Middle East"/>
+    <term name="Military assistance, sales, and agreements"/>
+    <term name="Palestinians"/>
+    <term name="Presidential administrations"/>
+    <term name="Religion"/>
+    <term name="Sovereignty, recognition, national governance and status"/>
+  </subjects>
+  <amendments/>
+  <summary>2/25/2015--Introduced.
+Reaffirms the commitment of the House of Representatives to supporting U.S. actions that promote peace between Israel and the Palestinians and are designed to ensure the security of Israel and its people.
+
+ Reaffirms support for previous agreements between Israel and the Palestinians and adopted by third parties that recognize Israel's right to exist and promote a Palestinian state.
+
+Commends the Obama administration and its predecessors for their commitment to Israel's security and for their efforts to demonstrate this commitment through the promotion of Israeli-Palestinian negotiations.
+
+Calls on Hamas to recognize Israel's right to exist, denounce violence, abide by existing agreements, and prevent missile attacks against Israel.
+
+Calls upon states, international organizations, and individuals to oppose efforts to deny the Jewish people's historical, cultural, and spiritual connection to Israel.
+
+Calls upon Arab and Muslim-majority states to build upon efforts towards full normalization of state-to-state relations with Israel.
+
+Calls on the Israeli government to prevent further settlement expansion in the Occupied Territories.
+
+Commends the Obama administration for supporting Israel's Iron Dome Missile Defense System.
+
+Calls on Israel and Hamas to uphold the existing cease fire agreement.
+
+Applauds the Obama administration's efforts to facilitate Israel-Palestinian peace negotiations.</summary>
+</bill>

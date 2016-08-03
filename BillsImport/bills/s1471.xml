@@ -1,0 +1,37 @@
+<bill session="114" type="s" number="1471" updated="2015-08-15T07:04:07-04:00">
+  <state datetime="2015-06-01">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-01"/>
+  </status>
+  <introduced datetime="2015-06-01"/>
+  <titles>
+    <title type="short" as="introduced">Transparency for the Families of 9/11 Victims and Survivors Act of 2015</title>
+    <title type="official" as="introduced">A bill to require declassification of certain redacted information from the Joint Inquiry into Intelligence Community Activities Before and After the Terrorist Attacks of September 2001 and for other purposes.</title>
+  </titles>
+  <sponsor id="412492"/>
+  <cosponsors>
+    <cosponsor id="412223" joined="2015-06-01"/>
+    <cosponsor id="300100" joined="2015-06-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-01" state="REFERRED">
+      <text>Read twice and referred to the Select Committee on Intelligence.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SLIN" name="Senate Intelligence (Select)" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Intelligence activities, surveillance, classified information"/>
+    <term name="Terrorism"/>
+  </subjects>
+  <amendments/>
+  <summary>6/1/2015--Introduced.
+Transparency for the Families of 9/11 Victims and Survivors Act of 2015
+
+This bill requires the President to declassify and release to the public the previously redacted portions of the report on the Joint Inquiry into Intelligence Community Activities Before and After the Terrorist Attacks of September 2001, filed in the Senate and the House of Representatives on December 20, 2002, including all the material under the heading "Part Four--Findings, Discussion and Narrative Regarding Certain Sensitive National Security Matters."
+
+The President is not required to declassify and release to the public the names and identifying information of individuals or specific methodologies described in such report if it would result in imminent lawless action or compromise presently ongoing national security operations.</summary>
+</bill>

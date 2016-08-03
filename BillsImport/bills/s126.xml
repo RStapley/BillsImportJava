@@ -1,0 +1,39 @@
+<bill session="114" type="s" number="126" updated="2015-02-07T06:24:55-05:00">
+  <state datetime="2015-01-08">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-08"/>
+  </status>
+  <introduced datetime="2015-01-08"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide a permanent deduction for State and local general sales taxes.</title>
+  </titles>
+  <sponsor id="412218"/>
+  <cosponsors>
+    <cosponsor id="300002" joined="2015-01-08"/>
+    <cosponsor id="300018" joined="2015-01-08"/>
+    <cosponsor id="300027" joined="2015-01-08"/>
+    <cosponsor id="300041" joined="2015-01-08"/>
+    <cosponsor id="300076" joined="2015-01-08"/>
+    <cosponsor id="300078" joined="2015-01-08"/>
+    <cosponsor id="300082" joined="2015-01-09"/>
+    <cosponsor id="400546" joined="2015-01-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-08" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Income tax deductions"/>
+    <term name="Sales and excise taxes"/>
+    <term name="State and local taxation"/>
+  </subjects>
+  <amendments/>
+  <summary>1/8/2015--Introduced.
+Amends the Internal Revenue Code to make permanent the taxpayer election to deduct state and local general sales taxes in lieu of state and local income taxes.</summary>
+</bill>

@@ -1,0 +1,40 @@
+<bill session="114" type="h" number="1219" updated="2015-06-06T06:28:15-04:00">
+  <state datetime="2015-03-03">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-03"/>
+  </status>
+  <introduced datetime="2015-03-03"/>
+  <titles>
+    <title type="short" as="introduced">Arbuckle Project Maintenance Complex and District Office Conveyance Act of 2015</title>
+    <title type="official" as="introduced">To authorize the Secretary of the Interior to convey certain land and appurtenances of the Arbuckle Project, Oklahoma, to the Arbuckle Master Conservancy District, and for other purposes.</title>
+  </titles>
+  <sponsor id="400077"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-03-03" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2015-03-23">
+      <text>Referred to the Subcommittee on Water, Power and Oceans.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII13" subcommittee="Water, Power and Oceans" name="House Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Land transfers"/>
+    <term name="Oklahoma"/>
+    <term name="Water use and supply"/>
+  </subjects>
+  <amendments/>
+  <summary>3/3/2015--Introduced.
+Arbuckle Project Maintenance Complex and District Office Conveyance Act of 2015
+
+Authorizes the Department of the Interior to convey to the Arbuckle Master Conservancy District in Murray County, Oklahoma, all U.S. interest in the Maintenance Complex and District Office, Arbuckle Project, Oklahoma, consistent with the Agreement between the United States and the Arbuckle Master Conservancy District for Transferring Title to the Federally Owned Maintenance Complex and District Office to the Arbuckle Master Conservancy District.
+
+Provides that after such conveyance: (1) the Complex and Office shall not be considered to be a part of a federal reclamation project; and (2) such District shall not be eligible to receive any benefits with respect to any facility comprising that Complex and Office, except benefits that would be available to a similarly situated person with respect to such a facility that is not part of a federal reclamation project.</summary>
+</bill>

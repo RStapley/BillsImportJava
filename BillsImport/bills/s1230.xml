@@ -1,0 +1,32 @@
+<bill session="114" type="s" number="1230" updated="2015-07-25T06:59:29-04:00">
+  <state datetime="2015-05-06">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-06"/>
+  </status>
+  <introduced datetime="2015-05-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to direct the Secretary of the Interior to establish a program under which the Director of the Bureau of Land Management shall enter into memoranda of understanding with States providing for State oversight of oil and gas productions activities.</title>
+  </titles>
+  <sponsor id="300075"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-05-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2015-06-09">
+      <text>Committee on Energy and Natural Resources. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+  </subjects>
+  <amendments/>
+  <summary>5/6/2015--Introduced.
+This bill requires the Department of the Interior, upon state request, to establish a program under which the Director of the Bureau of Land Management (BLM) shall enter into a memorandum of understanding with a state to create consistent rules and processes for measurement of oil and gas production activities, inspection of meters or other measurement methodologies, and other operational activities.
+
+ To be eligible for this program, a state must administer oil and gas programs sufficient to fulfill BLM oversight and enforcement responsibilities.</summary>
+</bill>

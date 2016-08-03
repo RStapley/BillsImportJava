@@ -1,0 +1,76 @@
+<bill session="114" type="hj" number="47" updated="2015-08-15T06:48:33-04:00">
+  <state datetime="2015-04-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-23"/>
+  </status>
+  <introduced datetime="2015-04-23"/>
+  <titles>
+    <title type="official" as="introduced">Supporting the establishment of a Presidential Youth Council.</title>
+  </titles>
+  <sponsor id="400233"/>
+  <cosponsors>
+    <cosponsor id="412642" joined="2015-04-23"/>
+    <cosponsor id="412565" joined="2015-06-24"/>
+    <cosponsor id="400029" joined="2015-04-23"/>
+    <cosponsor id="412539" joined="2015-04-23"/>
+    <cosponsor id="412516" joined="2015-04-23"/>
+    <cosponsor id="412601" joined="2015-04-23"/>
+    <cosponsor id="412517" joined="2015-04-23"/>
+    <cosponsor id="412407" joined="2015-05-21"/>
+    <cosponsor id="412258" joined="2015-04-23"/>
+    <cosponsor id="412470" joined="2015-05-21"/>
+    <cosponsor id="400074" joined="2015-04-23"/>
+    <cosponsor id="400081" joined="2015-04-23"/>
+    <cosponsor id="412193" joined="2015-04-23"/>
+    <cosponsor id="412544" joined="2015-04-23"/>
+    <cosponsor id="412385" joined="2015-05-13"/>
+    <cosponsor id="412524" joined="2015-04-23"/>
+    <cosponsor id="400646" joined="2015-04-23"/>
+    <cosponsor id="400170" joined="2015-04-23"/>
+    <cosponsor id="412614" joined="2015-07-22"/>
+    <cosponsor id="412290" joined="2015-04-23"/>
+    <cosponsor id="400630" joined="2015-05-21"/>
+    <cosponsor id="412558" joined="2015-05-13"/>
+    <cosponsor id="412293" joined="2015-05-21"/>
+    <cosponsor id="400259" joined="2015-04-23"/>
+    <cosponsor id="400263" joined="2015-05-13"/>
+    <cosponsor id="400291" joined="2015-04-23"/>
+    <cosponsor id="412475" joined="2015-04-23"/>
+    <cosponsor id="412308" joined="2015-05-13"/>
+    <cosponsor id="400326" joined="2015-04-23"/>
+    <cosponsor id="412411" joined="2015-06-10"/>
+    <cosponsor id="400352" joined="2015-04-23"/>
+    <cosponsor id="400381" joined="2015-07-31"/>
+    <cosponsor id="412581" joined="2015-04-23"/>
+    <cosponsor id="400403" joined="2015-04-23"/>
+    <cosponsor id="400415" joined="2015-04-23"/>
+    <cosponsor id="412538" joined="2015-06-10"/>
+    <cosponsor id="412239" joined="2015-06-10"/>
+    <cosponsor id="412610" joined="2015-04-23"/>
+    <cosponsor id="412412" joined="2015-06-10"/>
+    <cosponsor id="412211" joined="2015-05-21"/>
+    <cosponsor id="412628" joined="2015-04-23"/>
+    <cosponsor id="400440" joined="2015-04-23"/>
+    <cosponsor id="412428" joined="2015-04-23"/>
+    <cosponsor id="412640" joined="2015-04-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-23" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Families"/>
+    <term name="Advisory bodies"/>
+    <term name="Child care and development"/>
+    <term name="Policy sciences"/>
+    <term name="Youth employment and child labor"/>
+  </subjects>
+  <amendments/>
+  <summary>4/23/2015--Introduced.
+Supports the establishment with private funds of a Presidential Youth Council to: (1) advise the President and the administration on the perspectives of young people, (2) make public policy-related youth programs more efficient and effective, and (3) address issues that will affect the long-term future of the United States.</summary>
+</bill>

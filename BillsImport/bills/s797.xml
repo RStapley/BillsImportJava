@@ -1,0 +1,42 @@
+<bill session="114" type="s" number="797" updated="2015-06-10T04:48:51-04:00">
+  <state datetime="2015-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-19"/>
+  </status>
+  <introduced datetime="2015-03-19"/>
+  <titles>
+    <title type="short" as="introduced">Railroad Infrastructure Financing Improvement Act</title>
+    <title type="official" as="introduced">A bill to amend the Railroad Revitalization and Regulatory Reform Act of 1976, and for other purposes.</title>
+  </titles>
+  <sponsor id="412598"/>
+  <cosponsors>
+    <cosponsor id="300019" joined="2015-06-01"/>
+    <cosponsor id="412218" joined="2015-06-09"/>
+    <cosponsor id="400222" joined="2015-05-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-19">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S1661-1662"/>
+    </action>
+    <action datetime="2015-03-19" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Credit and credit markets"/>
+    <term name="Economic development"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Infrastructure development"/>
+    <term name="Railroads"/>
+    <term name="Securities"/>
+    <term name="Transportation programs funding"/>
+    <term name="User charges and fees"/>
+  </subjects>
+  <amendments/>
+</bill>

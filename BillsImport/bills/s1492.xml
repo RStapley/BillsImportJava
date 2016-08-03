@@ -1,0 +1,33 @@
+<bill session="114" type="s" number="1492" updated="2015-08-15T07:04:18-04:00">
+  <state datetime="2015-06-03">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-03"/>
+  </status>
+  <introduced datetime="2015-06-03"/>
+  <titles>
+    <title type="official" as="introduced">A bill to direct the Administrator of General Services, on behalf of the Archivist of the United States, to convey certain Federal property located in the State of Alaska to the Municipality of Anchorage, Alaska.</title>
+  </titles>
+  <sponsor id="412665"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-06-03" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="336"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Alaska"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Land transfers"/>
+    <term name="National Archives and Records Administration"/>
+  </subjects>
+  <amendments/>
+  <summary>6/3/2015--Introduced.
+Directs the Administrator of the General Services Administration, on behalf of the Archivist of the United States, to convey to the City of Anchorage, Alaska, property in such city consisting of approximately nine acres and improvements located at 400 East Fortieth Avenue for not less than fair market value.</summary>
+</bill>

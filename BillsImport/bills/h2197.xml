@@ -1,0 +1,89 @@
+<bill session="114" type="h" number="2197" updated="2015-07-31T04:47:16-04:00">
+  <state datetime="2015-05-01">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-01"/>
+  </status>
+  <introduced datetime="2015-05-01"/>
+  <titles>
+    <title type="short" as="introduced">Youth Prison Reduction through Opportunities, Mentoring, Intervention, Support, and Education Act</title>
+    <title type="short" as="introduced">Youth PROMISE Act</title>
+    <title type="official" as="introduced">To provide for evidence-based and promising practices related to juvenile delinquency and criminal street gang activity prevention and intervention to help build individual, family, and community strength and resiliency to ensure that youth lead productive, safe, healthy, gang-free, and law-abiding lives.</title>
+  </titles>
+  <sponsor id="400364"/>
+  <cosponsors>
+    <cosponsor id="412404" joined="2015-06-23"/>
+    <cosponsor id="412516" joined="2015-07-29"/>
+    <cosponsor id="412517" joined="2015-05-01"/>
+    <cosponsor id="412258" joined="2015-07-29"/>
+    <cosponsor id="412470" joined="2015-07-29"/>
+    <cosponsor id="400090" joined="2015-06-23"/>
+    <cosponsor id="412613" joined="2015-07-29"/>
+    <cosponsor id="412257" joined="2015-07-29"/>
+    <cosponsor id="412473" joined="2015-05-01"/>
+    <cosponsor id="400162" joined="2015-06-23"/>
+    <cosponsor id="412511" joined="2015-07-29"/>
+    <cosponsor id="412199" joined="2015-06-23"/>
+    <cosponsor id="400209" joined="2015-05-01"/>
+    <cosponsor id="400233" joined="2015-07-29"/>
+    <cosponsor id="400238" joined="2015-06-23"/>
+    <cosponsor id="400259" joined="2015-06-23"/>
+    <cosponsor id="412307" joined="2015-07-29"/>
+    <cosponsor id="412585" joined="2015-06-23"/>
+    <cosponsor id="400333" joined="2015-07-29"/>
+    <cosponsor id="412519" joined="2015-06-23"/>
+    <cosponsor id="400361" joined="2015-07-29"/>
+    <cosponsor id="400366" joined="2015-06-23"/>
+    <cosponsor id="412254" joined="2015-07-29"/>
+    <cosponsor id="400415" joined="2015-06-23"/>
+    <cosponsor id="400417" joined="2015-06-23"/>
+    <cosponsor id="412525" joined="2015-07-29"/>
+    <cosponsor id="400440" joined="2015-06-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-01" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1770"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Advisory bodies"/>
+    <term name="Child care and development"/>
+    <term name="Child health"/>
+    <term name="Child safety and welfare"/>
+    <term name="Crime prevention"/>
+    <term name="Criminal justice information and records"/>
+    <term name="Drug, alcohol, tobacco use"/>
+    <term name="Education programs funding"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Employment and training programs"/>
+    <term name="Government information and archives"/>
+    <term name="Higher education"/>
+    <term name="Homelessness and emergency shelter"/>
+    <term name="Juvenile crime and gang violence"/>
+    <term name="Law enforcement administration and funding"/>
+    <term name="Mental health"/>
+    <term name="Performance measurement"/>
+    <term name="Preschool education"/>
+    <term name="Public-private cooperation"/>
+    <term name="Research administration and funding"/>
+    <term name="Teenage pregnancy"/>
+    <term name="Youth employment and child labor"/>
+  </subjects>
+  <amendments/>
+  <summary>5/1/2015--Introduced.
+Youth Prison Reduction through Opportunities, Mentoring, Intervention, Support, and Education Act or the Youth PROMISE Act
+
+Amends the Juvenile Justice and Delinquency Prevention Act of 1974 to establish a PROMISE Advisory Panel to assist the Office of Juvenile Justice and Delinquency Prevention in: (1) assessing and developing standards and evidence-based and promising&#160;practices to prevent juvenile delinquency and criminal street gang activity, and (2) collecting data in designated geographic areas to assess the needs and existing resources for juvenile delinquency and criminal street gang activity prevention and intervention.
+
+Authorizes the Office of Juvenile Justice and Delinquency Prevention to award grants to local governments and Indian tribes to: (1) plan and assess evidence-based and promising practices for juvenile delinquency and criminal street gang activity prevention and intervention, especially for at-risk youth; and (2) implement PROMISE plans, developed by local PROMISE Coordinating Councils (PCCs), for coordinating and supporting the delivery of juvenile delinquency and gang prevention and intervention programs in local communities and Indian tribes.
+
+Establishes a National Research Center for Proven Juvenile Justice Practices to provide PCCs and the public with&#160;research and other information about evidence-based practices related to juvenile delinquency and criminal street gang prevention or intervention.
+
+Directs the Office to award grants to&#160;institutions of higher education to serve as regional research partners with PCCs that are located in the same geographic region as the educational institution.</summary>
+</bill>

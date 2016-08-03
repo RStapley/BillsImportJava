@@ -1,0 +1,32 @@
+<bill session="114" type="s" number="1699" updated="2015-07-07T15:46:39-04:00">
+  <state datetime="2015-06-25">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-25"/>
+  </status>
+  <introduced datetime="2015-06-25"/>
+  <titles>
+    <title type="short" as="introduced">Oregon Wildlands Act</title>
+    <title type="official" as="introduced">A bill to designate certain land administered by the Bureau of Land Management and the Forest Service in the State of Oregon as wilderness and national recreation areas and to make additional wild and scenic river designations in the State of Oregon, and for other purposes.</title>
+  </titles>
+  <sponsor id="300100"/>
+  <cosponsors>
+    <cosponsor id="412325" joined="2015-06-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-25">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S4653"/>
+    </action>
+    <action datetime="2015-06-25" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+</bill>

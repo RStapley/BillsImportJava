@@ -1,0 +1,37 @@
+<bill session="114" type="s" number="1875" updated="2015-08-05T15:46:51-04:00">
+  <state datetime="2015-07-29">REPORTED</state>
+  <status>
+    <unknown datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-28"/>
+  <titles>
+    <title type="short" as="introduced">Afghanistan Accountability Act of 2015</title>
+    <title type="official" as="introduced">A bill to support enhanced accountability for United States assistance to Afghanistan, and for other purposes.</title>
+  </titles>
+  <sponsor id="400272"/>
+  <cosponsors>
+    <cosponsor id="412246" joined="2015-08-03"/>
+    <cosponsor id="412248" joined="2015-07-28"/>
+    <cosponsor id="412491" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-28" state="REFERRED">
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+    <calendar datetime="2015-07-29" state="REPORTED">
+      <text>Committee on Foreign Relations. Ordered to be reported with an amendment favorably.</text>
+    </calendar>
+    <action datetime="2015-07-30">
+      <text>Committee on Foreign Relations. Reported by Senator Corker with an amendment. Without written report.</text>
+    </action>
+    <calendar datetime="2015-07-30" calendar="Senate Legislative" under="General Orders" number="189">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 189.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

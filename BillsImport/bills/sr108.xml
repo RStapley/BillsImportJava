@@ -1,0 +1,49 @@
+<bill session="114" type="sr" number="108" updated="2015-04-04T06:33:04-04:00">
+  <state datetime="2015-03-24">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-24"/>
+  </status>
+  <introduced datetime="2015-03-24"/>
+  <titles>
+    <title type="official" as="introduced">A resolution commemorating the discovery of the polio vaccine and supporting efforts to eradicate the disease.</title>
+  </titles>
+  <sponsor id="300038"/>
+  <cosponsors>
+    <cosponsor id="412493" joined="2015-03-24"/>
+    <cosponsor id="300011" joined="2015-03-24"/>
+    <cosponsor id="412390" joined="2015-03-24"/>
+    <cosponsor id="400194" joined="2015-03-24"/>
+    <cosponsor id="400222" joined="2015-03-24"/>
+    <cosponsor id="300065" joined="2015-03-24"/>
+    <cosponsor id="400253" joined="2015-03-24"/>
+    <cosponsor id="300076" joined="2015-03-24"/>
+    <cosponsor id="300081" joined="2015-03-24"/>
+    <cosponsor id="412323" joined="2015-03-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-24" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <reference ref="CR S1784" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Congressional tributes"/>
+    <term name="Immunology and vaccination"/>
+    <term name="Infectious and parasitic diseases"/>
+    <term name="Medical research"/>
+    <term name="Research administration and funding"/>
+    <term name="World health"/>
+  </subjects>
+  <amendments/>
+  <summary>3/24/2015--Introduced.
+Commends the work of Jonas Salk and Albert Sabin in developing effective, safe vaccines for polio.
+
+Supports the Global Polio Eradication Initiative's goals and ideals and the international community in remaining committed to the eradication of polio.
+
+Encourages continued funding for the Global Polio Eradication Initiative and scientific research so that more life-saving discoveries can be made.</summary>
+</bill>

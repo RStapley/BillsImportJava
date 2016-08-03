@@ -1,0 +1,46 @@
+<bill session="114" type="s" number="633" updated="2015-03-28T06:38:43-04:00">
+  <state datetime="2015-03-03">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-03"/>
+  </status>
+  <introduced datetime="2015-03-03"/>
+  <titles>
+    <title type="short" as="introduced">Stand with Israel Act of 2015</title>
+    <title type="official" as="introduced">A bill to prohibit certain assistance to the Palestinian Authority.</title>
+  </titles>
+  <sponsor id="412492"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-03-03" state="REFERRED">
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Arab-Israeli relations"/>
+    <term name="Conflicts and wars"/>
+    <term name="Congressional oversight"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="Foreign aid and international relief"/>
+    <term name="Foreign loans and debt"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Israel"/>
+    <term name="Middle East"/>
+    <term name="Palestinians"/>
+    <term name="Sovereignty, recognition, national governance and status"/>
+    <term name="Terrorism"/>
+  </subjects>
+  <amendments/>
+  <summary>3/3/2015--Introduced.
+Stand with Israel Act of 2015
+
+Prohibits any direct U.S. assistance, loan guarantee, or debt relief to the Palestinian Authority (PA) or any affiliated governing entity or leadership organization.
+
+States that such prohibition shall have no effect for a fiscal year if the President certifies to Congress that the PA has:
+
+ formally recognized Israel's right to exist as a Jewish state and publicly recognized the state of Israel, renounced terrorism and purged all individuals with terrorist ties from the security services, terminated funding of anti-American and anti-Israel incitement, publicly pledged to not engage in war with Israel, and honored previous diplomatic agreements.</summary>
+</bill>

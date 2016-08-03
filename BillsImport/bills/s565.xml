@@ -1,0 +1,69 @@
+<bill session="114" type="s" number="565" updated="2015-07-04T06:51:04-04:00">
+  <state datetime="2015-06-15">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2015-06-15"/>
+  </status>
+  <introduced datetime="2015-02-25"/>
+  <titles>
+    <title type="short" as="introduced">Federal Vehicle Repair Cost Savings Act of 2015</title>
+    <title type="short" as="reported to senate">Federal Vehicle Repair Cost Savings Act of 2015</title>
+    <title type="short" as="passed senate">Federal Vehicle Repair Cost Savings Act of 2015</title>
+    <title type="official" as="introduced">A bill to reduce the operation and maintenance costs associated with the Federal fleet by encouraging the use of remanufactured parts, and for other purposes.</title>
+  </titles>
+  <sponsor id="412305"/>
+  <cosponsors>
+    <cosponsor id="412667" joined="2015-03-18"/>
+    <cosponsor id="412464" joined="2015-02-25"/>
+    <cosponsor id="300093" joined="2015-04-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-25" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <calendar datetime="2015-03-04" state="REPORTED">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="2015-05-22">
+      <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 114-59.</text>
+    </action>
+    <calendar datetime="2015-05-22" calendar="Senate Legislative" under="General Orders" number="101">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 101.</text>
+    </calendar>
+    <vote how="by Unanimous Consent" type="vote" datetime="2015-06-15" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S4168" label="consideration"/>
+      <reference ref="CR S4168" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2015-06-16">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2015-06-16T12:28:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2015-06-16">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup, Reporting"/>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="1613"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Motor vehicles"/>
+    <term name="Public contracts and procurement"/>
+  </subjects>
+  <amendments/>
+  <summary>6/15/2015--Passed Senate without amendment.
+(This measure has not been amended since it was introduced. The expanded summary of the Senate reported version is repeated here.)
+
+Federal Vehicle Repair Cost Savings Act of 2015
+
+(Sec. 3) Defines "remanufactured vehicle component" as a vehicle component (including an engine, transmission, alternator, starter, turbocharger, steering, or suspension component) that has been returned to same-as-new, or better, condition and performance by a standardized industrial process that incorporates technical specifications (including engineering, quality, and testing standards) to yield fully warranted products.
+
+(Sec. 4) Directs the head of each federal agency to: (1) encourage the use of remanufactured vehicle components to maintain federal vehicles if using such components reduces the cost of maintaining such vehicles while maintaining quality; and (2) not encourage the use of remanufactured vehicle components if using such components does not reduce the cost of maintenance, lowers the quality of vehicle performance,&#160;or delays the return to service of a vehicle.</summary>
+</bill>

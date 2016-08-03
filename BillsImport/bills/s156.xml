@@ -1,0 +1,48 @@
+<bill session="114" type="s" number="156" updated="2015-04-04T06:34:42-04:00">
+  <state datetime="2015-01-13">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-13"/>
+  </status>
+  <introduced datetime="2015-01-13"/>
+  <titles>
+    <title type="short" as="introduced">Energy Consumers Relief Act of 2015</title>
+    <title type="official" as="introduced">A bill to protect consumers by prohibiting the Administrator of the Environmental Protection Agency from promulgating as final certain energy-related rules that are estimated to cost more than $1,000,000,000 and will cause significant adverse effects to the economy.</title>
+  </titles>
+  <sponsor id="412269"/>
+  <cosponsors>
+    <cosponsor id="412218" joined="2015-01-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-13" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Climate change and greenhouse gases"/>
+    <term name="Congressional oversight"/>
+    <term name="Economic performance and conditions"/>
+    <term name="Electric power generation and transmission"/>
+    <term name="Energy prices"/>
+    <term name="Energy storage, supplies, demand"/>
+    <term name="Environmental Protection Agency (EPA)"/>
+    <term name="Environmental regulatory procedures"/>
+    <term name="Government studies and investigations"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+  <summary>1/13/2015--Introduced.
+Energy Consumers Relief Act of 2015
+
+ This bill requires the Environmental Protection Agency (EPA) to submit a report to Congress and Department of Energy (DOE) before promulgating a final rule that regulates any aspect of the production, supply, distribution, or use of energy and that is estimated by the EPA or the Office of Management and Budget to impose aggregate costs of more than $1 billion. The report must contain: (1) an estimate of the total costs and benefits of the rule, (2) an estimate of the increases in energy prices that may result from implementation or enforcement of the rule, and (3) a detailed description of the employment effects that may result from implementation or enforcement of the rule.
+
+DOE must: (1) prepare an independent analysis to determine whether the rule will cause any increase in energy prices for consumers, any impact on fuel diversity of the nation's electricity generation portfolio or on electric reliability, or any adverse effect on energy supply, distribution, or use; and (2) determine whether the rule will cause significant adverse effects to the economy and publish the determination.
+
+Prohibits the EPA from promulgating the final rule if the DOE determines that the rule will cause significant adverse effects to the economy.
+
+Prohibits the EPA from using the social cost of carbon in any cost-benefit analysis relating to an energy-related rule estimated to cost more than $1 billion unless a federal law is enacted authorizing such use. The social cost of carbon is an estimate of the monetized damages associated with an incremental increase in carbon dioxide emissions in a given year.</summary>
+</bill>

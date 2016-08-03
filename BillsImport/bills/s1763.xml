@@ -1,0 +1,31 @@
+<bill session="114" type="s" number="1763" updated="2015-07-22T15:47:45-04:00">
+  <state datetime="2015-07-14">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-14"/>
+  </status>
+  <introduced datetime="2015-07-14"/>
+  <titles>
+    <title type="short" as="introduced">Petroleum Coke Transparency and Public Health Protection Act</title>
+    <title type="official" as="introduced">A bill to require a study on the public health and environmental impacts of the production, transportation, storage, and use of petroleum coke, and for other purposes.</title>
+  </titles>
+  <sponsor id="300038"/>
+  <cosponsors>
+    <cosponsor id="412305" joined="2015-07-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-14" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+      <reference ref="CR S5063" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="2636"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+</bill>

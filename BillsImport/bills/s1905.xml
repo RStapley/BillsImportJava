@@ -1,0 +1,30 @@
+<bill session="114" type="s" number="1905" updated="2015-08-15T07:07:45-04:00">
+  <state datetime="2015-07-30">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-30"/>
+  </status>
+  <introduced datetime="2015-07-30"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to make permanent the reduced recognition period for built-in gains for S corporations.</title>
+  </titles>
+  <sponsor id="300083"/>
+  <cosponsors>
+    <cosponsor id="400064" joined="2015-07-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-30" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="629"/>
+    <bill relation="unknown" session="114" type="h" number="2788"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+</bill>

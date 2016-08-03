@@ -1,0 +1,50 @@
+<bill session="114" type="h" number="2963" updated="2015-07-28T05:09:46-04:00">
+  <state datetime="2015-07-08">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-08"/>
+  </status>
+  <introduced datetime="2015-07-08"/>
+  <titles>
+    <title type="short" as="introduced">Bring Jobs Home Act</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to encourage domestic insourcing and discourage foreign outsourcing.</title>
+  </titles>
+  <sponsor id="400309"/>
+  <cosponsors>
+    <cosponsor id="400021" joined="2015-07-08"/>
+    <cosponsor id="400047" joined="2015-07-08"/>
+    <cosponsor id="412516" joined="2015-07-08"/>
+    <cosponsor id="412537" joined="2015-07-27"/>
+    <cosponsor id="412571" joined="2015-07-08"/>
+    <cosponsor id="412379" joined="2015-07-27"/>
+    <cosponsor id="412524" joined="2015-07-08"/>
+    <cosponsor id="412382" joined="2015-07-27"/>
+    <cosponsor id="400641" joined="2015-07-08"/>
+    <cosponsor id="400195" joined="2015-07-08"/>
+    <cosponsor id="400211" joined="2015-07-27"/>
+    <cosponsor id="400218" joined="2015-07-08"/>
+    <cosponsor id="400233" joined="2015-07-08"/>
+    <cosponsor id="400291" joined="2015-07-08"/>
+    <cosponsor id="400295" joined="2015-07-08"/>
+    <cosponsor id="412514" joined="2015-07-08"/>
+    <cosponsor id="412520" joined="2015-07-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-08" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1737"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+  <summary>7/8/2015--Introduced.
+Bring Jobs Home Act 
+
+ Amends the Internal Revenue Code to: (1) grant business taxpayers a&#160;tax credit for up to 20% of insourcing expenses incurred for eliminating a&#160;business located outside the United States and&#160; relocating it within the United States, and (2) deny a tax deduction for outsourcing expenses incurred in relocating a U.S. business outside the United States. Requires an increase in the taxpayer's employment of full-time employees&#160;in the United States in order to claim the tax credit for insourcing expenses.</summary>
+</bill>

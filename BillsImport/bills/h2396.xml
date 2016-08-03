@@ -1,0 +1,42 @@
+<bill session="114" type="h" number="2396" updated="2015-08-01T06:39:33-04:00">
+  <state datetime="2015-05-18">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-18"/>
+  </status>
+  <introduced datetime="2015-05-18"/>
+  <titles>
+    <title type="short" as="introduced">Sensible Oversight for Technology which Advances Regulatory Efficiency Act</title>
+    <title type="short" as="introduced">SOFTWARE Act</title>
+    <title type="official" as="introduced">To amend the Federal Food, Drug, and Cosmetic Act with respect to the regulation of health software, and for other purposes.</title>
+  </titles>
+  <sponsor id="400032"/>
+  <cosponsors>
+    <cosponsor id="400160" joined="2015-05-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-18" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-05-22">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="6"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Computers and information technology"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Drug safety, medical device, and laboratory regulation"/>
+    <term name="Food and Drug Administration (FDA)"/>
+    <term name="Health information and medical records"/>
+    <term name="Health technology, devices, supplies"/>
+  </subjects>
+  <amendments/>
+</bill>

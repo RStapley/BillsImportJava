@@ -1,0 +1,30 @@
+<bill session="114" type="hr" number="217" updated="2015-08-22T06:17:31-04:00">
+  <state datetime="2015-04-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-21"/>
+  </status>
+  <introduced datetime="2015-04-21"/>
+  <titles>
+    <title type="official" as="introduced">Honoring the life and accomplishments of Henry Thomas Segerstrom and expressing condolences on his passing.</title>
+  </titles>
+  <sponsor id="400356"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-04-21" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="California"/>
+    <term name="Congressional tributes"/>
+    <term name="Social work, volunteer service, charitable organizations"/>
+  </subjects>
+  <amendments/>
+  <summary>4/21/2015--Introduced.
+Honors the life and accomplishments of Henry Thomas Segerstrom, and extends heartfelt sympathies and condolences to his family.</summary>
+</bill>

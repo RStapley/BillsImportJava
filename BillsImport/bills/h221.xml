@@ -1,0 +1,63 @@
+<bill session="114" type="h" number="221" updated="2015-05-15T04:47:15-04:00">
+  <state datetime="2015-01-08">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-08"/>
+  </status>
+  <introduced datetime="2015-01-08"/>
+  <titles>
+    <title type="short" as="introduced">Obamacare Taxpayer Bailout Prevention Act</title>
+    <title type="official" as="introduced">To prevent a taxpayer bailout of health insurance issuers.</title>
+  </titles>
+  <sponsor id="412434"/>
+  <cosponsors>
+    <cosponsor id="400032" joined="2015-01-08"/>
+    <cosponsor id="400068" joined="2015-05-14"/>
+    <cosponsor id="400071" joined="2015-05-14"/>
+    <cosponsor id="412604" joined="2015-01-14"/>
+    <cosponsor id="400089" joined="2015-01-14"/>
+    <cosponsor id="412397" joined="2015-01-08"/>
+    <cosponsor id="412473" joined="2015-05-14"/>
+    <cosponsor id="412429" joined="2015-01-08"/>
+    <cosponsor id="412422" joined="2015-05-14"/>
+    <cosponsor id="400209" joined="2015-05-14"/>
+    <cosponsor id="412465" joined="2015-01-08"/>
+    <cosponsor id="412510" joined="2015-01-08"/>
+    <cosponsor id="412624" joined="2015-01-08"/>
+    <cosponsor id="412468" joined="2015-05-14"/>
+    <cosponsor id="412503" joined="2015-01-08"/>
+    <cosponsor id="400279" joined="2015-05-14"/>
+    <cosponsor id="412442" joined="2015-01-14"/>
+    <cosponsor id="412489" joined="2015-01-08"/>
+    <cosponsor id="412310" joined="2015-01-08"/>
+    <cosponsor id="412570" joined="2015-01-08"/>
+    <cosponsor id="400606" joined="2015-01-08"/>
+    <cosponsor id="412581" joined="2015-01-08"/>
+    <cosponsor id="412610" joined="2015-01-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-08" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-01-09">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="123"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Comprehensive health care"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+  </subjects>
+  <amendments/>
+  <summary>1/8/2015--Introduced.
+Obamacare Taxpayer Bailout Prevention Act
+
+Repeals the provision of the Patient Protection and Affordable Care Act that directs the Secretary of Health and Human Services to establish and administer a program of risk corridors for calendar years 2014, 2015, and 2016 under which a qualified health plan offered in the individual or small group market is required to participate in a payment adjustment system based on the ratio of the allowable costs of the plan to the plan's aggregate premiums.</summary>
+</bill>

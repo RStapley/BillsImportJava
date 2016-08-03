@@ -1,0 +1,43 @@
+<bill session="114" type="h" number="80" updated="2015-01-27T04:46:07-05:00">
+  <state datetime="2015-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-06"/>
+  </status>
+  <introduced datetime="2015-01-06"/>
+  <titles>
+    <title type="short" as="introduced">Transportation Security Administration Ombudsman Act of 2015</title>
+    <title type="official" as="introduced">To amend title 49, United States Code, to establish an Ombudsman Office within the Transportation Security Administration for the purpose of enhancing transportation security by providing confidential, informal, and neutral assistance to address work-place related problems of Transportation Security Administration employees, and for other purposes.</title>
+  </titles>
+  <sponsor id="400199"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-01-06" state="REFERRED">
+      <text>Referred to the House Committee on Homeland Security.</text>
+    </action>
+    <action datetime="2015-01-23">
+      <text>Referred to the Subcommittee on Transportation Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral"/>
+    <committee activity="Referral" code="HSHM07" subcommittee="Transportation Security" name="House Homeland Security"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Homeland Security"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Labor-management relations"/>
+    <term name="Transportation employees"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/2015--Introduced.
+Transportation Security Administration Ombudsman Act of 2015
+
+This bill establishes in the Transportation Security Administration (TSA) of the Department of Homeland Security an Office of the Ombudsman to assist TSA employees who have complaints about TSA, including publicizing a toll-free telephone number to report such complaints. The Ombudsman must ensure that each TSA region has a regional ombudsman.</summary>
+</bill>

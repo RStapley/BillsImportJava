@@ -1,0 +1,45 @@
+<bill session="114" type="h" number="2852" updated="2015-08-01T04:51:05-04:00">
+  <state datetime="2015-06-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-23"/>
+  </status>
+  <introduced datetime="2015-06-23"/>
+  <titles>
+    <title type="short" as="introduced">FLORICH Act</title>
+    <title type="short" as="introduced">Founding Legacies of Reserve Integral Combat-training Heroes Act of 2015</title>
+    <title type="official" as="introduced">To provide for the eligibility for burial in Arlington National Cemetery of certain members of reserve components of the Armed Forces.</title>
+  </titles>
+  <sponsor id="412631"/>
+  <cosponsors>
+    <cosponsor id="412630" joined="2015-06-23"/>
+    <cosponsor id="400041" joined="2015-07-31"/>
+    <cosponsor id="400636" joined="2015-06-23"/>
+    <cosponsor id="412443" joined="2015-06-23"/>
+    <cosponsor id="412432" joined="2015-06-23"/>
+    <cosponsor id="412261" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-23" state="REFERRED">
+      <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-06-23">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2015-06-23">
+      <text>Referred to House Armed Services</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <summary>6/23/2015--Introduced.
+FLORICH Act or Founding Legacies of Reserve Integral Combat-training Heroes Act of 2015
+
+This bill makes eligible for burial in Arlington National Cemetery, Arlington, Virginia, any member of a reserve component of the Armed Forces who dies while on inactive-duty training during a mission in which a member of the Armed Forces serving on active duty also dies.</summary>
+</bill>

@@ -1,0 +1,46 @@
+<bill session="114" type="s" number="911" updated="2015-07-08T04:49:52-04:00">
+  <state datetime="2015-04-14">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-14"/>
+  </status>
+  <introduced datetime="2015-04-14"/>
+  <titles>
+    <title type="short" as="introduced">Saracini Aviation Safety Act of 2015</title>
+    <title type="official" as="introduced">A bill to direct the Administrator of the Federal Aviation Administration to issue an order with respect to secondary cockpit barriers, and for other purposes.</title>
+  </titles>
+  <sponsor id="412246"/>
+  <cosponsors>
+    <cosponsor id="412490" joined="2015-05-11"/>
+    <cosponsor id="412598" joined="2015-07-07"/>
+    <cosponsor id="412378" joined="2015-06-08"/>
+    <cosponsor id="412223" joined="2015-05-05"/>
+    <cosponsor id="400253" joined="2015-06-04"/>
+    <cosponsor id="400272" joined="2015-05-12"/>
+    <cosponsor id="400408" joined="2015-04-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-14" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="911"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Aviation and airports"/>
+    <term name="Department of Transportation"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+  <summary>4/14/2015--Introduced.
+Saracini Aviation Safety Act of 2015
+
+ Directs the Administrator of the Federal Aviation Administration to issue an order to require: (1) the installation of secondary barriers, other than the cockpit door, to prevent access to the flight deck of each covered aircraft; (2) such barriers on the aircraft with a cockpit door to remain locked while the aircraft is in flight and the cockpit door separating the flight deck and the passenger area is open; and (3) such barriers on the aircraft without a cockpit door to remain locked as determined by the pilot in command.
+
+Defines "covered aircraft" to mean a commercial aircraft: (1) equipped with more than 75 passenger seats, and (2) with a maximum gross takeoff weight of more than 75,000 pounds.</summary>
+</bill>

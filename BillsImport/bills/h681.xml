@@ -1,0 +1,50 @@
+<bill session="114" type="h" number="681" updated="2015-04-15T04:47:11-04:00">
+  <state datetime="2015-02-03">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-03"/>
+  </status>
+  <introduced datetime="2015-02-03"/>
+  <titles>
+    <title type="short" as="introduced">GSP UPDATE Act</title>
+    <title type="short" as="introduced">GSP Update for Production Diversification and Trade Enhancement Act</title>
+    <title type="official" as="introduced">To make certain luggage and travel articles eligible for duty-free treatment under the Generalized System of Preferences, and for other purposes.</title>
+  </titles>
+  <sponsor id="400086"/>
+  <cosponsors>
+    <cosponsor id="412501" joined="2015-02-26"/>
+    <cosponsor id="400041" joined="2015-02-03"/>
+    <cosponsor id="412533" joined="2015-02-03"/>
+    <cosponsor id="412447" joined="2015-03-26"/>
+    <cosponsor id="412511" joined="2015-02-03"/>
+    <cosponsor id="412557" joined="2015-02-03"/>
+    <cosponsor id="400246" joined="2015-02-09"/>
+    <cosponsor id="412303" joined="2015-02-03"/>
+    <cosponsor id="412192" joined="2015-04-14"/>
+    <cosponsor id="412308" joined="2015-02-03"/>
+    <cosponsor id="400660" joined="2015-02-11"/>
+    <cosponsor id="412462" joined="2015-02-03"/>
+    <cosponsor id="412202" joined="2015-02-03"/>
+    <cosponsor id="412314" joined="2015-03-17"/>
+    <cosponsor id="412217" joined="2015-02-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-03" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="340"/>
+  </relatedbills>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Tariffs"/>
+  </subjects>
+  <amendments/>
+  <summary>2/3/2015--Introduced.
+GSP Update for Production Diversification and Trade Enhancement Act or the GSP UPDATE Act 
+
+ Amends the Trade Act of 1974 to authorize the President to designate certain luggage and travel articles as eligible for duty-free treatment under the Generalized System of Preferences (GSP).</summary>
+</bill>

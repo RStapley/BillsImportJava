@@ -1,0 +1,40 @@
+<bill session="114" type="h" number="1793" updated="2015-05-23T06:32:55-04:00">
+  <state datetime="2015-04-14">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-14"/>
+  </status>
+  <introduced datetime="2015-04-14"/>
+  <titles>
+    <title type="short" as="introduced">Sage-Grouse and Mule Deer Habitat Conservation and Restoration Act of 2015</title>
+    <title type="official" as="introduced">To provide a categorical exclusion under the National Environmental Policy Act of 1969 to allow the Director of the Bureau of Land Management and the Chief of the Forest Service to remove Pinyon-Juniper trees to conserve and restore the habitat of the greater sage-grouse and the mule deer.</title>
+  </titles>
+  <sponsor id="412581"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-04-14" state="REFERRED">
+      <text>Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-04-14">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2015-04-14">
+      <text>Referred to House Agriculture</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee code="HSAG" name="House Agriculture" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="468"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Birds"/>
+    <term name="Environmental assessment, monitoring, research"/>
+    <term name="Forests, forestry, trees"/>
+    <term name="Mammals"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+</bill>

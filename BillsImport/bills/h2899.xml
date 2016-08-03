@@ -1,0 +1,41 @@
+<bill session="114" type="h" number="2899" updated="2015-07-17T04:58:52-04:00">
+  <state datetime="2015-07-15">REPORTED</state>
+  <status>
+    <unknown datetime="2015-07-15"/>
+  </status>
+  <introduced datetime="2015-06-25"/>
+  <titles>
+    <title type="short" as="introduced">Countering Violent Extremism Act of 2015</title>
+    <title type="short" as="introduced">CVE Act</title>
+    <title type="official" as="introduced">To amend the Homeland Security Act of 2002 to authorize the Office for Countering Violent Extremism.</title>
+  </titles>
+  <sponsor id="400654"/>
+  <cosponsors>
+    <cosponsor id="412622" joined="2015-07-14"/>
+    <cosponsor id="412672" joined="2015-07-14"/>
+    <cosponsor id="412649" joined="2015-07-14"/>
+    <cosponsor id="400219" joined="2015-07-15"/>
+    <cosponsor id="412468" joined="2015-07-16"/>
+    <cosponsor id="412611" joined="2015-07-14"/>
+    <cosponsor id="412670" joined="2015-07-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-25" state="REFERRED">
+      <text>Referred to the House Committee on Homeland Security.</text>
+    </action>
+    <action datetime="2015-07-15">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-07-15" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Emergency management"/>
+  </subjects>
+  <amendments/>
+</bill>

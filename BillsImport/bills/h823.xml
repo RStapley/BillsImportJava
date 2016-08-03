@@ -1,0 +1,87 @@
+<bill session="114" type="h" number="823" updated="2015-07-18T06:25:34-04:00">
+  <state datetime="2015-02-10">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-10"/>
+  </status>
+  <introduced datetime="2015-02-10"/>
+  <titles>
+    <title type="short" as="introduced">Educating Tomorrow's Engineers Act of 2015</title>
+    <title type="official" as="introduced">To better integrate STEM education into elementary and secondary instruction and curricula, to encourage high-quality STEM professional development, and to expand current mathematics and science education research to include engineering education.</title>
+  </titles>
+  <sponsor id="412319"/>
+  <cosponsors>
+    <cosponsor id="400033" joined="2015-02-25"/>
+    <cosponsor id="412517" joined="2015-02-20"/>
+    <cosponsor id="412379" joined="2015-03-02"/>
+    <cosponsor id="412236" joined="2015-02-20"/>
+    <cosponsor id="412536" joined="2015-02-10"/>
+    <cosponsor id="412524" joined="2015-03-02"/>
+    <cosponsor id="400641" joined="2015-04-13"/>
+    <cosponsor id="400185" joined="2015-02-24"/>
+    <cosponsor id="400199" joined="2015-02-13"/>
+    <cosponsor id="412561" joined="2015-06-11"/>
+    <cosponsor id="412435" joined="2015-02-26"/>
+    <cosponsor id="412543" joined="2015-02-10"/>
+    <cosponsor id="400237" joined="2015-02-25"/>
+    <cosponsor id="400630" joined="2015-02-26"/>
+    <cosponsor id="412521" joined="2015-02-20"/>
+    <cosponsor id="400663" joined="2015-06-23"/>
+    <cosponsor id="400263" joined="2015-02-13"/>
+    <cosponsor id="412487" joined="2015-02-10"/>
+    <cosponsor id="412189" joined="2015-04-17"/>
+    <cosponsor id="412560" joined="2015-02-24"/>
+    <cosponsor id="412523" joined="2015-02-25"/>
+    <cosponsor id="412308" joined="2015-02-24"/>
+    <cosponsor id="400333" joined="2015-02-20"/>
+    <cosponsor id="400347" joined="2015-02-26"/>
+    <cosponsor id="412259" joined="2015-02-20"/>
+    <cosponsor id="412514" joined="2015-03-02"/>
+    <cosponsor id="412520" joined="2015-02-20"/>
+    <cosponsor id="412254" joined="2015-04-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-10" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+    <action datetime="2015-04-29">
+      <text>Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee activity="Referral" code="HSED14" subcommittee="Early Childhood, Elementary, and Secondary Education" name="House Education and the Workforce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1185"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Academic performance and assessments"/>
+    <term name="Education of the disadvantaged"/>
+    <term name="Education programs funding"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Government information and archives"/>
+    <term name="Higher education"/>
+    <term name="Research administration and funding"/>
+    <term name="Rural conditions and development"/>
+    <term name="Science and engineering education"/>
+    <term name="Teaching, teachers, curricula"/>
+  </subjects>
+  <amendments/>
+  <summary>2/10/2015--Introduced.
+Educating Tomorrow's Engineers Act of 2015
+
+Amends the Elementary and Secondary Education Act of 1965 to require states to incorporate engineering design skills and practices into their academic content standards and academic achievement standards and assessments in science.
+
+Requires states and local educational agencies (LEAs) to use grants and subgrants under the Teacher and Principal Training and Recruiting Fund program to develop and provide professional development and instructional materials for science, technology, engineering, and mathematics (STEM) subject areas, including computer science and engineering.
+
+ Changes current references to the mathematics and science partnerships program to references to the STEM partnerships program, which provides funding to states, institutions of higher education, and high-need LEAs to recruit and train STEM teachers and improve STEM curricula.
+
+Amends the 21st century community learning centers program to include STEM activities (currently, mathematics and science activities) within the before- and after-school activities funded under that program.
+
+Amends the rural and low-income school program to include professional development in engineering education among the uses of the funds provided to rural LEAs.
+
+Amends the Education Sciences Reform Act of 2002 to direct the Secretary of Education to support research on engineering education and use that research to provide information to the public, and technical assistance to states, on best practices and promising innovations in kindergarten through grade 12 engineering education.
+
+ Requires the National Center for Education Research to sponsor and conduct research geared toward improving STEM, rather than just mathematics and science, teaching and learning.</summary>
+</bill>

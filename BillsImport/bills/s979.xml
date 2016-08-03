@@ -1,0 +1,45 @@
+<bill session="114" type="s" number="979" updated="2015-08-06T04:48:34-04:00">
+  <state datetime="2015-04-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-16"/>
+  </status>
+  <introduced datetime="2015-04-16"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 10, United States Code, to repeal the requirement for reduction of survivor annuities under the Survivor Benefit Plan by veterans' dependency and indemnity compensation, and for other purposes.</title>
+  </titles>
+  <sponsor id="300078"/>
+  <cosponsors>
+    <cosponsor id="412493" joined="2015-08-05"/>
+    <cosponsor id="400050" joined="2015-07-07"/>
+    <cosponsor id="300025" joined="2015-04-16"/>
+    <cosponsor id="412390" joined="2015-07-30"/>
+    <cosponsor id="300030" joined="2015-05-05"/>
+    <cosponsor id="412218" joined="2015-06-17"/>
+    <cosponsor id="300075" joined="2015-07-16"/>
+    <cosponsor id="412507" joined="2015-07-30"/>
+    <cosponsor id="300087" joined="2015-07-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-16" state="REFERRED">
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1594"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>4/16/2015--Introduced.
+Repeals certain provisions which require the offset of amounts paid in dependency and indemnity compensation from Survivor Benefit Plan (SBP) annuities for the surviving spouses of former military personnel who are entitled to military retired pay or would be entitled to such pay, except for being under 60 years of age.
+
+Prohibits recoupment by the Secretary of Defense of certain amounts previously paid to SBP recipients in the form of a retired pay refund.
+
+Repeals the optional authority of (and instead requires) the Secretary of the military department concerned to pay an annuity to a member's dependent children when there is no eligible surviving spouse. Directs the Secretary concerned to restore annuity eligibility to a surviving spouse who earlier agreed to transfer such eligibility to a surviving child or children of a member.</summary>
+</bill>

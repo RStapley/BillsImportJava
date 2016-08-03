@@ -1,0 +1,27 @@
+<bill session="114" type="h" number="3262" updated="2015-08-22T06:46:35-04:00">
+  <state datetime="2015-07-28">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-28"/>
+  </status>
+  <introduced datetime="2015-07-28"/>
+  <titles>
+    <title type="official" as="introduced">To provide for the conveyance of land of the Illiana Health Care System of the Department of Veterans Affairs in Danville, Illinois.</title>
+  </titles>
+  <sponsor id="400373"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-28" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1967"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+</bill>

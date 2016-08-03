@@ -1,0 +1,47 @@
+<bill session="114" type="s" number="1719" updated="2015-08-04T04:47:31-04:00">
+  <state datetime="2015-07-08">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-08"/>
+  </status>
+  <introduced datetime="2015-07-08"/>
+  <titles>
+    <title type="short" as="introduced">RAISE Family Caregivers Act</title>
+    <title type="short" as="introduced">Recognize, Assist, Include, Support, and Engage Family Caregivers Act of 2015</title>
+    <title type="official" as="introduced">A bill to provide for the establishment and maintenance of a National Family Caregiving Strategy, and for other purposes.</title>
+  </titles>
+  <sponsor id="300025"/>
+  <cosponsors>
+    <cosponsor id="412493" joined="2015-07-08"/>
+    <cosponsor id="400013" joined="2015-07-08"/>
+    <cosponsor id="412330" joined="2015-07-08"/>
+    <cosponsor id="412242" joined="2015-08-03"/>
+    <cosponsor id="300073" joined="2015-07-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-08">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S4843"/>
+    </action>
+    <action datetime="2015-07-08" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="3099"/>
+  </relatedbills>
+  <subjects>
+    <term name="Families"/>
+  </subjects>
+  <amendments/>
+  <summary>7/8/2015--Introduced.
+Recognize, Assist, Include, Support, and Engage Family Caregivers Act of 2015 or the RAISE Family Caregivers Act
+
+This bill directs the Department of Health and Human Services (HHS) to develop, maintain, and periodically update a National Family Caregiving Strategy.
+
+ HHS shall convene a Family Caregiving Advisory Council to advise it on recognizing and supporting family caregivers.
+
+Federal departments and agencies must share with HHS any data they maintain that HHS needs to prepare the initial and updated Strategies.</summary>
+</bill>

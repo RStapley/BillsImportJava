@@ -1,0 +1,42 @@
+<bill session="114" type="h" number="1665" updated="2015-06-24T04:48:34-04:00">
+  <state datetime="2015-03-26">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-26"/>
+  </status>
+  <introduced datetime="2015-03-26"/>
+  <titles>
+    <title type="short" as="introduced">Alternative Fuel Tax Parity Act</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to equalize the excise tax on liquefied natural gas and liquefied petroleum gas.</title>
+  </titles>
+  <sponsor id="412428"/>
+  <cosponsors>
+    <cosponsor id="412642" joined="2015-04-13"/>
+    <cosponsor id="412284" joined="2015-06-10"/>
+    <cosponsor id="400218" joined="2015-03-26"/>
+    <cosponsor id="400233" joined="2015-03-26"/>
+    <cosponsor id="412475" joined="2015-06-03"/>
+    <cosponsor id="400352" joined="2015-06-23"/>
+    <cosponsor id="400404" joined="2015-03-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-26" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="898"/>
+    <bill relation="unknown" session="114" type="s" number="344"/>
+    <bill relation="unknown" session="114" type="s" number="917"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+  <summary>3/26/2015--Introduced.
+Alternative Fuel Tax Parity Act
+
+This bill equalizes the excise tax&#160;on liquefied petroleum gas and liquefied natural gas by establishing a rate of 18.3 cents per energy equivalent of a gallon of gasoline for liquefied petroleum gas and 24.3 cents per energy equivalent of a gallon of diesel for liquefied natural gas. The bill also expands the alternative fuel excise tax credit to include liquefied natural gas used in a motor vehicle or motorboat or sold for use as a fuel in aviation.</summary>
+</bill>

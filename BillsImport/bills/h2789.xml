@@ -1,0 +1,34 @@
+<bill session="114" type="h" number="2789" updated="2015-08-22T06:42:37-04:00">
+  <state datetime="2015-06-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-16"/>
+  </status>
+  <introduced datetime="2015-06-16"/>
+  <titles>
+    <title type="short" as="introduced">Capital Access for Small Business Banks Act</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to modify S corporation shareholder and preferred stock rules with respect to banks.</title>
+  </titles>
+  <sponsor id="400656"/>
+  <cosponsors>
+    <cosponsor id="412478" joined="2015-06-16"/>
+    <cosponsor id="412292" joined="2015-06-25"/>
+    <cosponsor id="400381" joined="2015-06-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-16" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+  <summary>6/16/2015--Introduced.
+Capital Access for Small Business Banks Act 
+
+This bill amends the Internal Revenue Code to allow a bank or a depository institution holding company which is an S corporation to: (1) have 500 shareholders (the current limit is 100 shareholders), and (2) issue qualified preferred bank stock. The bill makes a distribution of qualified preferred bank stock to a shareholder includible in the gross income of the shareholder and allows the bank or holding company to deduct the amount of such distribution.</summary>
+</bill>

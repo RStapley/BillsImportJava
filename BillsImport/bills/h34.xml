@@ -1,0 +1,106 @@
+<bill session="114" type="h" number="34" updated="2015-08-01T06:19:32-04:00">
+  <state datetime="2015-01-07T14:38:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2015-01-07T14:38:00-05:00"/>
+  </status>
+  <introduced datetime="2015-01-06"/>
+  <titles>
+    <title type="short" as="introduced">Tsunami Warning, Education, and Research Act of 2015</title>
+    <title type="short" as="passed house">Tsunami Warning, Education, and Research Act of 2015</title>
+    <title type="official" as="introduced">To authorize and strengthen the tsunami detection, forecast, warning, research, and mitigation program of the National Oceanic and Atmospheric Administration, and for other purposes.</title>
+  </titles>
+  <sponsor id="412501"/>
+  <cosponsors>
+    <cosponsor id="400100" joined="2015-01-06"/>
+    <cosponsor id="412486" joined="2015-01-07"/>
+    <cosponsor id="400204" joined="2015-01-06"/>
+    <cosponsor id="400343" joined="2015-01-06"/>
+    <cosponsor id="412312" joined="2015-01-06"/>
+    <cosponsor id="412315" joined="2015-01-06"/>
+    <cosponsor id="400381" joined="2015-01-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-06" state="REFERRED">
+      <text>Referred to the House Committee on Science, Space, and Technology.</text>
+    </action>
+    <action datetime="2015-01-07T14:21:00-05:00">
+      <text>Mr. Smith (TX) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2015-01-07T14:21:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H87-92" label="consideration"/>
+    </action>
+    <action datetime="2015-01-07T14:21:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 34.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2015-01-07T14:38:00-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H87-90" label="text"/>
+    </vote>
+    <action datetime="2015-01-07T14:38:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2015-01-08">
+      <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+    <calendar datetime="2015-02-26">
+      <text>Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science, Space, and Technology" activity="Referral"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="533"/>
+  </relatedbills>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="Advisory bodies"/>
+    <term name="Alaska"/>
+    <term name="Atlantic Ocean"/>
+    <term name="Atmospheric science and weather"/>
+    <term name="California"/>
+    <term name="Caribbean Sea"/>
+    <term name="Computers and information technology"/>
+    <term name="Congressional oversight"/>
+    <term name="Emergency planning and evacuation"/>
+    <term name="Floods and storm protection"/>
+    <term name="Gulf of Mexico"/>
+    <term name="Hawaii"/>
+    <term name="Idaho"/>
+    <term name="International organizations and cooperation"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Natural disasters"/>
+    <term name="Oregon"/>
+    <term name="Pacific Ocean"/>
+    <term name="Research administration and funding"/>
+    <term name="Technology transfer and commercialization"/>
+    <term name="Washington State"/>
+  </subjects>
+  <amendments/>
+  <summary>1/7/2015--Passed House without amendment.
+(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)
+
+Tsunami Warning, Education, and Research Act of 2015
+
+Reauthorizes the Tsunami Warning and Education Act through FY2017.
+
+(Sec. 4) Consolidates separate tsunami warning systems for the Pacific and Arctic Oceans and for the Atlantic Ocean into a single warning system. Requires the system to support international tsunami forecasting and warning efforts.
+
+Requires the National Oceanic and Atmospheric Administration (NOAA) to support or maintain tsunami warning centers to support the national warning system and develop uniform operational procedures for the centers.
+
+Requires warning centers to utilize a range of models to predict tsunami arrival times and flooding estimates, and maintain a fail-safe warning capability and an ability to perform back-up duties for each other. Directs the centers to monitor coastal sea level monitoring stations and other data sources and evaluate landslides and volcanic eruptions that have the potential to generate tsunami.
+
+Requires the National Weather Service (NWS) to coordinate with the centers. Directs the NWS to ensure that resources are available to fulfill the obligations of this Act, including supercomputing resources.
+
+Transfers the responsibility for the maintenance of equipment and technology used to forecast tsunami from the NWS to NOAA. Repeals requirements concerning: (1) annual certification of equipment, and (2) notification to Congress of impaired forecasting capabilities due to equipment or system failures and problems in completing work associated with the forecasting and warning system.
+
+(Sec. 5) Modifies the tsunami hazard mitigation program to provide for: (1) technical and financial assistance; (2) the integration of tsunami preparedness and mitigation programs into resilience planning; (3) activities to support the development of regional hazard and risk assessments; and (4) dissemination of guidelines and standards for community planning, education, and training products, programs, and tools.
+
+(Sec. 6) Expands the tsunami research program, including by: (1) requiring the program to develop the technical basis for validation of tsunami maps, models, and forecasts; and (2) authorizing NOAA to develop a pilot project for near-field tsunami forecast development for the west coast's Cascadia region.
+
+(Sec. 7) Removes a requirement that NOAA operate an International Tsunami Information Center to improve preparedness for Pacific Ocean nations.
+
+(Sec. 8) Directs NOAA to: (1) designate an existing working group to serve as the Tsunami Science and Technology Advisory Panel to provide advice on matters regarding tsunami science, technology, and regional preparedness; (2) report on the implementation of the Tsunami Warning and Education Act; (3) develop and carry out formal outreach activities to improve tsunami education and awareness and foster the development of resilient communities; and (4) convene a coordinating committee to assist in the national tsunami hazard mitigation program.</summary>
+</bill>

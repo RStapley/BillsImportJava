@@ -1,0 +1,116 @@
+<bill session="114" type="h" number="631" updated="2015-05-16T06:23:00-04:00">
+  <state datetime="2015-01-30">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-30"/>
+  </status>
+  <introduced datetime="2015-01-30"/>
+  <titles>
+    <title type="short" as="introduced">EACH Act</title>
+    <title type="short" as="introduced">Equitable Access to Care and Health Act</title>
+    <title type="official" as="introduced">To amend section 5000A of the Internal Revenue Code of 1986 to provide an additional religious exemption from the individual health coverage mandate, and for other purposes.</title>
+  </titles>
+  <sponsor id="412314"/>
+  <cosponsors>
+    <cosponsor id="412500" joined="2015-03-16"/>
+    <cosponsor id="412469" joined="2015-01-30"/>
+    <cosponsor id="412512" joined="2015-03-04"/>
+    <cosponsor id="400032" joined="2015-01-30"/>
+    <cosponsor id="400046" joined="2015-01-30"/>
+    <cosponsor id="412395" joined="2015-01-30"/>
+    <cosponsor id="400052" joined="2015-01-30"/>
+    <cosponsor id="412537" joined="2015-03-04"/>
+    <cosponsor id="412571" joined="2015-01-30"/>
+    <cosponsor id="412513" joined="2015-01-30"/>
+    <cosponsor id="400086" joined="2015-01-30"/>
+    <cosponsor id="412536" joined="2015-01-30"/>
+    <cosponsor id="400100" joined="2015-01-30"/>
+    <cosponsor id="412505" joined="2015-01-30"/>
+    <cosponsor id="412524" joined="2015-02-26"/>
+    <cosponsor id="412482" joined="2015-01-30"/>
+    <cosponsor id="412257" joined="2015-03-04"/>
+    <cosponsor id="412529" joined="2015-03-04"/>
+    <cosponsor id="400141" joined="2015-03-24"/>
+    <cosponsor id="400154" joined="2015-01-30"/>
+    <cosponsor id="400157" joined="2015-03-18"/>
+    <cosponsor id="412661" joined="2015-03-18"/>
+    <cosponsor id="412278" joined="2015-02-26"/>
+    <cosponsor id="400175" joined="2015-02-10"/>
+    <cosponsor id="412486" joined="2015-01-30"/>
+    <cosponsor id="412282" joined="2015-01-30"/>
+    <cosponsor id="400185" joined="2015-01-30"/>
+    <cosponsor id="412437" joined="2015-01-30"/>
+    <cosponsor id="412422" joined="2015-01-30"/>
+    <cosponsor id="412284" joined="2015-01-30"/>
+    <cosponsor id="412460" joined="2015-02-26"/>
+    <cosponsor id="412566" joined="2015-01-30"/>
+    <cosponsor id="412435" joined="2015-01-30"/>
+    <cosponsor id="412465" joined="2015-01-30"/>
+    <cosponsor id="412583" joined="2015-03-04"/>
+    <cosponsor id="412510" joined="2015-03-04"/>
+    <cosponsor id="400230" joined="2015-02-26"/>
+    <cosponsor id="400237" joined="2015-03-16"/>
+    <cosponsor id="400630" joined="2015-01-30"/>
+    <cosponsor id="400245" joined="2015-02-26"/>
+    <cosponsor id="400247" joined="2015-03-24"/>
+    <cosponsor id="400654" joined="2015-01-30"/>
+    <cosponsor id="412189" joined="2015-03-04"/>
+    <cosponsor id="412466" joined="2015-03-16"/>
+    <cosponsor id="412568" joined="2015-02-26"/>
+    <cosponsor id="412474" joined="2015-01-30"/>
+    <cosponsor id="400291" joined="2015-03-16"/>
+    <cosponsor id="412409" joined="2015-03-04"/>
+    <cosponsor id="412302" joined="2015-02-04"/>
+    <cosponsor id="412303" joined="2015-03-04"/>
+    <cosponsor id="400316" joined="2015-01-30"/>
+    <cosponsor id="412307" joined="2015-01-30"/>
+    <cosponsor id="412585" joined="2015-01-30"/>
+    <cosponsor id="412308" joined="2015-01-30"/>
+    <cosponsor id="412489" joined="2015-02-26"/>
+    <cosponsor id="412394" joined="2015-02-04"/>
+    <cosponsor id="412310" joined="2015-01-30"/>
+    <cosponsor id="412426" joined="2015-01-30"/>
+    <cosponsor id="412570" joined="2015-01-30"/>
+    <cosponsor id="400350" joined="2015-02-26"/>
+    <cosponsor id="400367" joined="2015-01-30"/>
+    <cosponsor id="400376" joined="2015-01-30"/>
+    <cosponsor id="400378" joined="2015-03-04"/>
+    <cosponsor id="400381" joined="2015-01-30"/>
+    <cosponsor id="412581" joined="2015-03-16"/>
+    <cosponsor id="412461" joined="2015-03-04"/>
+    <cosponsor id="412317" joined="2015-03-18"/>
+    <cosponsor id="400406" joined="2015-01-30"/>
+    <cosponsor id="412405" joined="2015-01-30"/>
+    <cosponsor id="412318" joined="2015-01-30"/>
+    <cosponsor id="412254" joined="2015-01-30"/>
+    <cosponsor id="400411" joined="2015-03-16"/>
+    <cosponsor id="412548" joined="2015-03-16"/>
+    <cosponsor id="412255" joined="2015-01-30"/>
+    <cosponsor id="412402" joined="2015-01-30"/>
+    <cosponsor id="400440" joined="2015-02-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-30" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="2061"/>
+    <bill relation="identical" session="114" type="s" number="352"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Comprehensive health care"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Religion"/>
+    <term name="Sales and excise taxes"/>
+  </subjects>
+  <amendments/>
+  <summary>1/30/2015--Introduced.
+Equitable Access to Care and Health Act or the EACH Act
+
+This bill amends the Internal Revenue Code to expand the religious conscience exemption under the Patient Protection and Affordable Care Act to exempt individuals who rely solely on a religious method of healing and for whom the acceptance of medical health services would be inconsistent with their religious beliefs from the requirement to purchase and maintain minimum essential health care coverage.</summary>
+</bill>

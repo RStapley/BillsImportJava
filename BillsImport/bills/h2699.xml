@@ -1,0 +1,50 @@
+<bill session="114" type="h" number="2699" updated="2015-08-22T06:41:52-04:00">
+  <state datetime="2015-06-09">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-09"/>
+  </status>
+  <introduced datetime="2015-06-09"/>
+  <titles>
+    <title type="short" as="introduced">Undetectable Firearms Modernization Act of 2015</title>
+    <title type="official" as="introduced">To modernize the Undetectable Firearms Act of 1988.</title>
+  </titles>
+  <sponsor id="400195"/>
+  <cosponsors>
+    <cosponsor id="400080" joined="2015-06-09"/>
+    <cosponsor id="412524" joined="2015-06-09"/>
+    <cosponsor id="412282" joined="2015-06-09"/>
+    <cosponsor id="400185" joined="2015-06-09"/>
+    <cosponsor id="400219" joined="2015-06-09"/>
+    <cosponsor id="400230" joined="2015-06-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-09" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-07-01">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1735"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Aviation and airports"/>
+    <term name="Firearms and explosives"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+  <summary>6/9/2015--Introduced.
+Undetectable Firearms Modernization Act of 2015
+
+ Amends the Undetectable Firearms Act of 1988 to revise what are prohibited firearms to include any firearm: (1) that, after removal of all parts other than major components (currently, of grips, stocks, and magazines), is not as detectable by walk-through metal detectors as the Security Exemplar; or (2) any major component of which, if subjected to inspection by the types of detection devices (currently, x-ray machines) commonly used at airports for security screening, would not generate an image that accurately depicts the shape of the component.
+
+Modifies the definition of: (1) "major component" to include the barrel of a firearm only in the case of a rifle or shotgun; and (2) "Security Exemplar" to repeal the requirement that it be fabricated within 12 months after enactment of such Act.
+
+Exempts from undetectable firearms provisions: (1) a prototype firearm for detectability testing; (2) any firearm received by, in the possession of, or under the control of the United States; or (3) the manufacture, importation, possession, transfer, receipt, shipment, or delivery of a firearm by a licensed manufacturer or licensed importer pursuant to an existing contract with the United States. (Replaces the exemption of any firearm that has been certified by the Department of Defense or the Central Intelligence Agency as necessary for military or intelligence applications or that is manufactured and sold exclusively to U.S. military or intelligence agencies.)</summary>
+</bill>

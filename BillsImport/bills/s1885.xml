@@ -1,0 +1,32 @@
+<bill session="114" type="s" number="1885" updated="2015-08-05T15:46:57-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">Veteran Housing Stability Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend title 38, United States Code, to improve the provision of assistance and benefits to veterans who are homeless, at risk of becoming homeless, or occupying temporary housing, and for other purposes.</title>
+  </titles>
+  <sponsor id="412490"/>
+  <cosponsors>
+    <cosponsor id="400050" joined="2015-07-29"/>
+    <cosponsor id="412200" joined="2015-07-29"/>
+    <cosponsor id="400357" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2015-07-30">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S6182-6183"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

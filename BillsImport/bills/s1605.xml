@@ -1,0 +1,45 @@
+<bill session="114" type="s" number="1605" updated="2015-07-11T07:00:42-04:00">
+  <state datetime="2015-06-18">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-18"/>
+  </status>
+  <introduced datetime="2015-06-18"/>
+  <titles>
+    <title type="short" as="introduced">M-CORE Act</title>
+    <title type="short" as="introduced">Millennium Compacts for Regional Economic Integration Act</title>
+    <title type="official" as="introduced">A bill to amend the Millennium Challenge Act of 2003 to authorize concurrent compacts for purposes of regional economic integration and cross-border collaborations, and for other purposes.</title>
+  </titles>
+  <sponsor id="400064"/>
+  <cosponsors>
+    <cosponsor id="412390" joined="2015-06-18"/>
+    <cosponsor id="400134" joined="2015-06-18"/>
+    <cosponsor id="400194" joined="2015-06-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-18" state="REFERRED">
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+    <action datetime="2015-07-08">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S4836-4837"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="2571"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+  </subjects>
+  <amendments/>
+  <summary>6/18/2015--Introduced.
+Millennium Compacts for Regional Economic Integration Act or the M-CORE Act
+
+ States that the purpose of this Act is to expand the Millennium Challenge Corporation's ability to develop compacts with nations, particularly in Africa, that promote regional economic integration and cross-border collaborations.
+
+Amends the Millennium Challenge Act of 2003 to provide that an eligible country and the United States may enter into and have in effect at the same time not more than one additional Compact if:
+
+ one or both of the Compacts are or will be for purposes of regional economic integration, increased regional trade, or cross-border collaborations; and the country is making considerable and demonstrable progress in implementing the terms of any existing Compacts.</summary>
+</bill>

@@ -1,0 +1,41 @@
+<bill session="114" type="s" number="748" updated="2015-04-25T06:42:47-04:00">
+  <state datetime="2015-03-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-16"/>
+  </status>
+  <introduced datetime="2015-03-16"/>
+  <titles>
+    <title type="short" as="introduced">Amnesty Bonuses Elimination Act</title>
+    <title type="official" as="introduced">A bill to prohibit the issuance of social security numbers to individuals given deferred action under the President's immigration executive actions.</title>
+  </titles>
+  <sponsor id="412671"/>
+  <cosponsors>
+    <cosponsor id="412508" joined="2015-03-16"/>
+    <cosponsor id="412573" joined="2015-03-16"/>
+    <cosponsor id="412495" joined="2015-03-16"/>
+    <cosponsor id="412666" joined="2015-03-16"/>
+    <cosponsor id="300088" joined="2015-03-16"/>
+    <cosponsor id="400418" joined="2015-03-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-16" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Border security and unlawful immigration"/>
+    <term name="Child safety and welfare"/>
+    <term name="Immigration status and procedures"/>
+    <term name="Social security and elderly assistance"/>
+  </subjects>
+  <amendments/>
+  <summary>3/16/2015--Introduced.
+Amnesty Bonuses Elimination Act
+
+This bill amends the Social Security Act to prohibit the Commissioner of Social Security from issuing a Social Security account number to any alien granted deferred action pursuant to specified deferred action policies of the Secretary of Homeland Security.</summary>
+</bill>

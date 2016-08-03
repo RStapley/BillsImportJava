@@ -1,0 +1,29 @@
+<bill session="114" type="h" number="1509" updated="2015-05-09T06:33:50-04:00">
+  <state datetime="2015-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-19"/>
+  </status>
+  <introduced datetime="2015-03-19"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Military Selective Service Act to require the reinstatement of the draft whenever an authorization on the use of military force or declaration of war is in effect and to provide for the registration of women with the Selective Service System, and for other purposes.</title>
+  </titles>
+  <sponsor id="400333"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-03-19" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <summary>3/19/2015--Introduced.
+Amends the Military Selective Service Act to require the President to resume the induction of persons subject to registration in the Selective Service System for training and service in the Armed Forces (thereby reinstating the draft) upon the enactment of an authorization on the use of military force or a declaration of war.
+
+ Subjects female citizens and residents of the United States to Selective Service registration requirements.</summary>
+</bill>

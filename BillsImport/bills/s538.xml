@@ -1,0 +1,38 @@
+<bill session="114" type="s" number="538" updated="2015-03-21T06:35:39-04:00">
+  <state datetime="2015-02-24">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-24"/>
+  </status>
+  <introduced datetime="2015-02-24"/>
+  <titles>
+    <title type="short" as="introduced">Idaho Safe and Efficient Vehicle Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend title 23, United States Code, with respect to the operation of longer combination vehicles on the Interstate System in the State of Idaho, and for other purposes.</title>
+  </titles>
+  <sponsor id="300030"/>
+  <cosponsors>
+    <cosponsor id="412322" joined="2015-02-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-24" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="129"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Idaho"/>
+    <term name="Motor carriers"/>
+    <term name="Motor vehicles"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+  <summary>2/24/2015--Introduced.
+Idaho Safe and Efficient Vehicle Act of 2015
+
+ Prohibits application of federal weight limitations to a longer combination vehicle operating on a segment of the Interstate System in Idaho if it: (1) has a gross vehicle weight of 129,000 pounds or less; and (2) complies with certain single axle, tandem axle, and bridge formula weight limits.</summary>
+</bill>

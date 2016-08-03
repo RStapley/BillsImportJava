@@ -1,0 +1,32 @@
+<bill session="114" type="h" number="1794" updated="2015-05-09T06:36:14-04:00">
+  <state datetime="2015-04-14">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-14"/>
+  </status>
+  <introduced datetime="2015-04-14"/>
+  <titles>
+    <title type="short" as="introduced">General of the Army Omar Bradley Property Transfer Act of 2015</title>
+    <title type="official" as="introduced">To authorize the transfer of certain items under the control of the Omar Bradley Foundation to the descendants of General Omar Bradley.</title>
+  </titles>
+  <sponsor id="412469"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-04-14" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="267"/>
+  </relatedbills>
+  <subjects>
+    <term name="Private legislation"/>
+  </subjects>
+  <amendments/>
+  <summary>4/14/2015--Introduced.
+General of the Army Omar Bradley Property Transfer Act of 2015
+
+Authorizes the Omar Bradley Foundation, Pennsylvania,&#160;to transfer, without consideration, to the child of General of the Army Omar Nelson Bradley and his first wife, Mary Elizabeth Quayle Bradley, such items of the Omar Bradley estate under the control of the Foundation as the Secretary of the Army determines to be without historic value to the Army, provided a claim for such a transfer is submitted within 180 days after enactment of this Act.</summary>
+</bill>

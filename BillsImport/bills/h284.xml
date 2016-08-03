@@ -1,0 +1,158 @@
+<bill session="114" type="h" number="284" updated="2015-04-18T06:19:35-04:00">
+  <state datetime="2015-03-16T16:53:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2015-03-16T16:53:00-04:00"/>
+  </status>
+  <introduced datetime="2015-01-12"/>
+  <titles>
+    <title type="short" as="introduced">Medicare DMEPOS Competitive Bidding Improvement Act of 2015</title>
+    <title type="short" as="reported to house">Medicare DMEPOS Competitive Bidding Improvement Act of 2015</title>
+    <title type="short" as="passed house">Medicare DMEPOS Competitive Bidding Improvement Act of 2015</title>
+    <title type="official" as="introduced">To amend title XVIII of the Social Security Act to require State licensure and bid surety bonds for entities submitting bids under the Medicare durable medical equipment, prosthetics, orthotics, and supplies (DMEPOS) competitive acquisition program, and for other purposes.</title>
+  </titles>
+  <sponsor id="400406"/>
+  <cosponsors>
+    <cosponsor id="400004" joined="2015-02-26"/>
+    <cosponsor id="412500" joined="2015-01-12"/>
+    <cosponsor id="412469" joined="2015-01-12"/>
+    <cosponsor id="412250" joined="2015-01-13"/>
+    <cosponsor id="412478" joined="2015-02-02"/>
+    <cosponsor id="400032" joined="2015-02-05"/>
+    <cosponsor id="412627" joined="2015-02-24"/>
+    <cosponsor id="400033" joined="2015-02-24"/>
+    <cosponsor id="412395" joined="2015-03-13"/>
+    <cosponsor id="412601" joined="2015-03-13"/>
+    <cosponsor id="412400" joined="2015-01-22"/>
+    <cosponsor id="400086" joined="2015-01-12"/>
+    <cosponsor id="412533" joined="2015-01-12"/>
+    <cosponsor id="412457" joined="2015-02-02"/>
+    <cosponsor id="412639" joined="2015-01-21"/>
+    <cosponsor id="400137" joined="2015-01-21"/>
+    <cosponsor id="412463" joined="2015-01-12"/>
+    <cosponsor id="412454" joined="2015-01-12"/>
+    <cosponsor id="412280" joined="2015-01-12"/>
+    <cosponsor id="412460" joined="2015-01-12"/>
+    <cosponsor id="412199" joined="2015-01-12"/>
+    <cosponsor id="412226" joined="2015-01-13"/>
+    <cosponsor id="412566" joined="2015-01-12"/>
+    <cosponsor id="412465" joined="2015-01-12"/>
+    <cosponsor id="400218" joined="2015-02-13"/>
+    <cosponsor id="400219" joined="2015-01-22"/>
+    <cosponsor id="400220" joined="2015-02-09"/>
+    <cosponsor id="400230" joined="2015-01-12"/>
+    <cosponsor id="400233" joined="2015-01-12"/>
+    <cosponsor id="412256" joined="2015-02-12"/>
+    <cosponsor id="400240" joined="2015-02-24"/>
+    <cosponsor id="412209" joined="2015-01-12"/>
+    <cosponsor id="412445" joined="2015-03-13"/>
+    <cosponsor id="412503" joined="2015-03-13"/>
+    <cosponsor id="400654" joined="2015-02-10"/>
+    <cosponsor id="400276" joined="2015-01-12"/>
+    <cosponsor id="400441" joined="2015-01-12"/>
+    <cosponsor id="412442" joined="2015-01-13"/>
+    <cosponsor id="412303" joined="2015-02-09"/>
+    <cosponsor id="412192" joined="2015-02-27"/>
+    <cosponsor id="400316" joined="2015-01-13"/>
+    <cosponsor id="412307" joined="2015-01-12"/>
+    <cosponsor id="412551" joined="2015-02-05"/>
+    <cosponsor id="400626" joined="2015-02-25"/>
+    <cosponsor id="400333" joined="2015-02-09"/>
+    <cosponsor id="412393" joined="2015-02-26"/>
+    <cosponsor id="412310" joined="2015-01-12"/>
+    <cosponsor id="412426" joined="2015-01-12"/>
+    <cosponsor id="412570" joined="2015-02-25"/>
+    <cosponsor id="400350" joined="2015-02-24"/>
+    <cosponsor id="400352" joined="2015-01-12"/>
+    <cosponsor id="400363" joined="2015-01-12"/>
+    <cosponsor id="400378" joined="2015-01-12"/>
+    <cosponsor id="412461" joined="2015-01-12"/>
+    <cosponsor id="412317" joined="2015-01-12"/>
+    <cosponsor id="412405" joined="2015-01-12"/>
+    <cosponsor id="412254" joined="2015-01-12"/>
+    <cosponsor id="400417" joined="2015-01-28"/>
+    <cosponsor id="412538" joined="2015-01-12"/>
+    <cosponsor id="412410" joined="2015-01-13"/>
+    <cosponsor id="400431" joined="2015-03-03"/>
+    <cosponsor id="412628" joined="2015-03-03"/>
+    <cosponsor id="412428" joined="2015-02-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-12" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-01-12">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-01-12">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-01-16">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2015-01-28">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E133"/>
+    </action>
+    <action datetime="2015-02-26">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-02-26" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+    <action datetime="2015-03-13T11:28:00-04:00">
+      <text>Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-38, Part I.</text>
+    </action>
+    <action datetime="2015-03-16T16:46:00-04:00">
+      <text>Mr. Ryan (WI) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2015-03-16T16:46:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1646-1647" label="consideration"/>
+    </action>
+    <action datetime="2015-03-16T16:46:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 284.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2015-03-16T16:53:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H1646" label="text"/>
+    </vote>
+    <action datetime="2015-03-16T16:53:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2015-03-17">
+      <text>Received in the Senate and Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, Markup, Reporting"/>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="2"/>
+    <bill relation="identical" session="114" type="s" number="148"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Health technology, devices, supplies"/>
+    <term name="Licensing and registrations"/>
+    <term name="Medicare"/>
+    <term name="Public contracts and procurement"/>
+  </subjects>
+  <amendments/>
+  <summary>3/16/2015--Passed House amended.
+Medicare DMEPOS Competitive Bidding Improvement Act of 2015
+
+Amends title XVIII (Medicare) of the Social Security Act with respect to the Medicare durable medical equipment, prosthetics, orthotics, and supplies (DMEPOS) competitive acquisition program.
+
+Prohibits an entity from submitting a bid for a competitive acquisition area, during calendar 2017-2019, unless it has obtained a bid surety bond of between $50,000 and $100,000 for each such area.
+
+Requires the forfeit of any bid bond submitted for a competitive acquisition area if the bidding entity does not accept a contract offered for any product category when its composite bid was at or below the median composite bid rate for all bidding entities included in the calculation of the single payment amounts for the product category and the area. Requires the Secretary of Health and Human Services to collect on the forfeited bond.
+
+Requires return of a bid bond within a specified 90-day period to a bidding entity that does not meet such bid forfeiture conditions.
+
+Prohibits the Secretary from awarding a contract to any entity that does not meet state licensure requirements.
+
+Directs the Government Accountability Office to study the effect of this bid surety bond requirement on the participation of small suppliers in the Medicare DMEPOS competitive acquisition program.</summary>
+</bill>

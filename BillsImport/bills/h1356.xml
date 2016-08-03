@@ -1,0 +1,140 @@
+<bill session="114" type="h" number="1356" updated="2015-08-04T04:47:15-04:00">
+  <state datetime="2015-03-13">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-13"/>
+  </status>
+  <introduced datetime="2015-03-13"/>
+  <titles>
+    <title type="short" as="introduced">Women Veterans Access to Quality Care Act of 2015</title>
+    <title type="official" as="introduced">To improve the provision of health care for women veterans by the Department of Veterans Affairs, and for other purposes.</title>
+  </titles>
+  <sponsor id="412271"/>
+  <cosponsors>
+    <cosponsor id="412607" joined="2015-05-29"/>
+    <cosponsor id="412615" joined="2015-07-29"/>
+    <cosponsor id="412500" joined="2015-07-29"/>
+    <cosponsor id="412642" joined="2015-07-13"/>
+    <cosponsor id="412541" joined="2015-07-22"/>
+    <cosponsor id="412565" joined="2015-07-22"/>
+    <cosponsor id="412657" joined="2015-07-27"/>
+    <cosponsor id="400029" joined="2015-07-09"/>
+    <cosponsor id="412501" joined="2015-07-27"/>
+    <cosponsor id="400041" joined="2015-06-17"/>
+    <cosponsor id="412395" joined="2015-07-29"/>
+    <cosponsor id="412539" joined="2015-07-14"/>
+    <cosponsor id="412516" joined="2015-07-22"/>
+    <cosponsor id="412537" joined="2015-07-16"/>
+    <cosponsor id="400057" joined="2015-07-29"/>
+    <cosponsor id="412258" joined="2015-07-27"/>
+    <cosponsor id="412379" joined="2015-05-29"/>
+    <cosponsor id="412604" joined="2015-07-14"/>
+    <cosponsor id="412236" joined="2015-07-29"/>
+    <cosponsor id="412272" joined="2015-07-15"/>
+    <cosponsor id="412555" joined="2015-07-14"/>
+    <cosponsor id="400086" joined="2015-07-29"/>
+    <cosponsor id="400090" joined="2015-07-31"/>
+    <cosponsor id="412505" joined="2015-05-29"/>
+    <cosponsor id="412613" joined="2015-07-09"/>
+    <cosponsor id="412637" joined="2015-07-15"/>
+    <cosponsor id="412215" joined="2015-07-29"/>
+    <cosponsor id="400122" joined="2015-07-16"/>
+    <cosponsor id="400124" joined="2015-04-30"/>
+    <cosponsor id="412524" joined="2015-06-09"/>
+    <cosponsor id="412482" joined="2015-07-22"/>
+    <cosponsor id="412453" joined="2015-07-22"/>
+    <cosponsor id="400157" joined="2015-07-27"/>
+    <cosponsor id="400162" joined="2015-07-14"/>
+    <cosponsor id="412278" joined="2015-07-29"/>
+    <cosponsor id="412609" joined="2015-07-31"/>
+    <cosponsor id="400179" joined="2015-07-16"/>
+    <cosponsor id="400185" joined="2015-07-15"/>
+    <cosponsor id="412284" joined="2015-07-27"/>
+    <cosponsor id="412603" joined="2015-07-09"/>
+    <cosponsor id="400209" joined="2015-05-29"/>
+    <cosponsor id="412583" joined="2015-07-13"/>
+    <cosponsor id="400219" joined="2015-07-29"/>
+    <cosponsor id="400224" joined="2015-07-22"/>
+    <cosponsor id="400230" joined="2015-04-30"/>
+    <cosponsor id="412638" joined="2015-07-16"/>
+    <cosponsor id="412616" joined="2015-07-29"/>
+    <cosponsor id="400246" joined="2015-07-21"/>
+    <cosponsor id="412558" joined="2015-07-27"/>
+    <cosponsor id="412643" joined="2015-06-17"/>
+    <cosponsor id="412562" joined="2015-07-15"/>
+    <cosponsor id="400663" joined="2015-06-09"/>
+    <cosponsor id="400262" joined="2015-06-17"/>
+    <cosponsor id="400263" joined="2015-04-28"/>
+    <cosponsor id="412487" joined="2015-07-29"/>
+    <cosponsor id="412611" joined="2015-06-15"/>
+    <cosponsor id="412527" joined="2015-07-29"/>
+    <cosponsor id="412523" joined="2015-07-22"/>
+    <cosponsor id="412551" joined="2015-07-29"/>
+    <cosponsor id="412585" joined="2015-07-27"/>
+    <cosponsor id="412308" joined="2015-04-30"/>
+    <cosponsor id="400326" joined="2015-07-29"/>
+    <cosponsor id="412647" joined="2015-04-28"/>
+    <cosponsor id="412483" joined="2015-07-31"/>
+    <cosponsor id="400347" joined="2015-07-29"/>
+    <cosponsor id="400350" joined="2015-07-15"/>
+    <cosponsor id="400352" joined="2015-07-16"/>
+    <cosponsor id="412417" joined="2015-07-21"/>
+    <cosponsor id="400364" joined="2015-07-27"/>
+    <cosponsor id="400366" joined="2015-05-29"/>
+    <cosponsor id="412509" joined="2015-04-21"/>
+    <cosponsor id="400378" joined="2015-07-27"/>
+    <cosponsor id="412259" joined="2015-03-13"/>
+    <cosponsor id="412648" joined="2015-07-29"/>
+    <cosponsor id="412514" joined="2015-06-15"/>
+    <cosponsor id="400403" joined="2015-07-15"/>
+    <cosponsor id="412318" joined="2015-06-09"/>
+    <cosponsor id="412254" joined="2015-07-31"/>
+    <cosponsor id="412579" joined="2015-07-16"/>
+    <cosponsor id="412580" joined="2015-07-14"/>
+    <cosponsor id="412214" joined="2015-07-15"/>
+    <cosponsor id="412239" joined="2015-07-21"/>
+    <cosponsor id="400433" joined="2015-07-09"/>
+    <cosponsor id="412255" joined="2015-07-22"/>
+    <cosponsor id="412628" joined="2015-07-22"/>
+    <cosponsor id="412640" joined="2015-06-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-13" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2015-03-19">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="471"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Veterans Affairs"/>
+    <term name="Federal officials"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Health care quality"/>
+    <term name="Health facilities and institutions"/>
+    <term name="Right of privacy"/>
+    <term name="Sex and reproductive health"/>
+    <term name="Veterans' medical care"/>
+    <term name="Women's health"/>
+  </subjects>
+  <amendments/>
+  <summary>3/13/2015--Introduced.
+Women Veterans Access to Quality Care Act of 2015
+
+Directs the Department of Veterans Affairs (VA) to: (1) establish standards to ensure that all VA medical facilities have the structural characteristics necessary to adequately meet the gender-specific health care needs of veterans at such facilities, including privacy, safety, and dignity; (2) integrate such standards into its prioritization methodology with respect to requests for funding major medical facility projects and major medical facility leases; and (3) report on such standards, including regarding the facilities that fail to meet such standards and the costs of projects and leases required to meet them.
+
+Requires the VA to: (1) use health outcomes for women veterans furnished health care by the the VA in evaluating the performance of VA medical center directors, (2) publish on its website information on such performance and on health outcomes for women veterans for each VA medical facility, (3) ensure that every VA medical center has a full-time obstetrician or gynecologist, and (4) carry out a pilot program to increase the number of residency program positions and graduate medical education positions for obstetricians and gynecologists at VA medical facilities in not less than three Veterans Integrated Service Networks.
+
+Directs the VA to develop procedures to share information that includes military service and separation data, personal email addresses and telephone numbers, and mailing addresses of veterans with state veterans agencies in electronic format as a means of facilitating the furnishing of assistance and benefits to such veterans. Allows a veteran to elect to prevent their information from being shared.
+
+Directs the Government Accountability Office to carry out an examination of whether VA medical centers are able to meet the health care needs of women veterans.</summary>
+</bill>

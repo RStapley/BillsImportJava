@@ -1,0 +1,28 @@
+<bill session="114" type="h" number="3358" updated="2015-08-08T06:47:23-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">Prevent Repeat Offenders Act of 2015</title>
+    <title type="official" as="introduced">To require the Secretary of Homeland Security to ensure that sex offenders to be released from the custody of Immigration and Customs Enforcement are registered on sex offender registry, and relevant State, tribal, and local authorities are notified of their release, and for other purposes.</title>
+  </titles>
+  <sponsor id="412435"/>
+  <cosponsors>
+    <cosponsor id="412649" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+  </subjects>
+  <amendments/>
+</bill>

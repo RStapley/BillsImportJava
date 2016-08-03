@@ -1,0 +1,42 @@
+<bill session="114" type="h" number="301" updated="2015-02-07T06:18:36-05:00">
+  <state datetime="2015-01-13">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-13"/>
+  </status>
+  <introduced datetime="2015-01-13"/>
+  <titles>
+    <title type="short" as="introduced">44 to 69 Act of 2015</title>
+    <title type="official" as="introduced">To amend the Intermodal Surface Transportation Efficiency Act of 1991 with respect to the identification of high priority corridors on the National Highway System, and for other purposes.</title>
+  </titles>
+  <sponsor id="412482"/>
+  <cosponsors>
+    <cosponsor id="400657" joined="2015-01-14"/>
+    <cosponsor id="400179" joined="2015-01-13"/>
+    <cosponsor id="400204" joined="2015-01-13"/>
+    <cosponsor id="412580" joined="2015-01-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-13" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2015-01-14">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW12" subcommittee="Highways and Transit" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Roads and highways"/>
+    <term name="Texas"/>
+    <term name="Transportation programs funding"/>
+  </subjects>
+  <amendments/>
+  <summary>1/13/2015--Introduced.
+44 to 69 Act of 2015
+
+ Amends the Intermodal Surface Transportation Efficiency Act of 1991 to include Texas State Highway 44 from United States Route 59 at Freer, Texas, to Texas State Highway 358 as part of the high priority Lower Rio Grande Valley Corridor of the National Highway System in Texas.</summary>
+</bill>

@@ -1,0 +1,85 @@
+<bill session="114" type="h" number="2358" updated="2015-08-08T06:39:00-04:00">
+  <state datetime="2015-06-11">REPORTED</state>
+  <status>
+    <unknown datetime="2015-06-11"/>
+  </status>
+  <introduced datetime="2015-05-15"/>
+  <titles>
+    <title type="short" as="introduced">Electricity Reliability and Forest Protection Act</title>
+    <title type="official" as="introduced">To amend the Federal Land Policy and Management Act of 1976 to enhance the reliability of the electricity grid and reduce the threat of wildfires to and from electric transmission and distribution facilities on Federal lands by facilitating vegetation management on such lands.</title>
+  </titles>
+  <sponsor id="412640"/>
+  <cosponsors>
+    <cosponsor id="400077" joined="2015-06-12"/>
+    <cosponsor id="412397" joined="2015-06-10"/>
+    <cosponsor id="412278" joined="2015-07-16"/>
+    <cosponsor id="400209" joined="2015-06-23"/>
+    <cosponsor id="400218" joined="2015-06-10"/>
+    <cosponsor id="412286" joined="2015-06-10"/>
+    <cosponsor id="400224" joined="2015-06-10"/>
+    <cosponsor id="412294" joined="2015-06-10"/>
+    <cosponsor id="412660" joined="2015-06-10"/>
+    <cosponsor id="400313" joined="2015-06-10"/>
+    <cosponsor id="412431" joined="2015-06-25"/>
+    <cosponsor id="412315" joined="2015-05-15"/>
+    <cosponsor id="412610" joined="2015-06-17"/>
+    <cosponsor id="400440" joined="2015-06-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-15" state="REFERRED">
+      <text>Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-05-15">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2015-05-15">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2015-06-04">
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+    </action>
+    <action datetime="2015-06-04">
+      <text>Referred to the Subcommittee on Water, Power and Oceans.</text>
+    </action>
+    <action datetime="2015-06-08">
+      <text>Referred to the Subcommittee on Conservation and Forestry.</text>
+    </action>
+    <action datetime="2015-06-10">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2015-06-11">
+      <text>Subcommittee on Federal Lands Discharged.</text>
+    </action>
+    <action datetime="2015-06-11">
+      <text>Subcommittee on Water, Power and Oceans Discharged.</text>
+    </action>
+    <action datetime="2015-06-11">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-06-11" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 22 - 15.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup"/>
+    <committee activity="Referral, Discharged" code="HSII10" subcommittee="Federal Lands" name="House Natural Resources"/>
+    <committee activity="Referral, Discharged" code="HSII13" subcommittee="Water, Power and Oceans" name="House Natural Resources"/>
+    <committee code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee activity="Referral" code="HSAG15" subcommittee="Conservation and Forestry" name="House Agriculture"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+  <summary>5/15/2015--Introduced.
+Electricity Reliability and Forest Protection Act
+
+This bill requires the Department of the Interior and the Department of Agriculture (USDA), with respect to lands under their respective jurisdictions, to provide direction under the Federal Land Policy and Management Act of 1976 to ensure that all existing and future rights-of-way for electrical transmission and distribution facilities on such lands include requirements for utility vegetation management, facility inspection, and operation and maintenance activities that:
+
+ are developed in consultation with the holder of the right-of-way; enable the owner or operator of a facility to operate it in good working order and comply with federal, state, and local electric system reliability and fire safety requirements; and minimize the need for case-by-case or annual approvals, and instead provide for expedited review and approval, for routine vegetation management, facility inspection, and operation and maintenance activities within existing electrical transmission and distribution rights-of-way, as well as utility vegetation management activities necessary to control danger trees within or adjacent to electrical transmission and distribution rights-of-way. Interior and the USDA shall give facility owners and operators the option to submit to the appropriate Department a vegetation management, facility inspection, and operation and maintenance plan.
+
+Interior and the USDA shall apply its categorical exclusion process under the National Environmental Policy Act of 1969 (NEPA) to plans developed under this Act on existing transmission and distribution rights-of-way located on lands under their respective jurisdictions.
+
+(A "categorical exclusion" under NEPA is a category of actions which do not individually or cumulatively have a significant effect on the human environment and which have been found to have no such effect in procedures adopted by a federal agency in implementing environmental regulations and for which, therefore, neither an Environmental Assessment nor an Environmental Impact Statement is required.)</summary>
+</bill>

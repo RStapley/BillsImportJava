@@ -1,0 +1,179 @@
+<bill session="114" type="h" number="1737" updated="2015-07-31T04:47:14-04:00">
+  <state datetime="2015-07-29">REPORTED</state>
+  <status>
+    <unknown datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-04-13"/>
+  <titles>
+    <title type="short" as="introduced">Reforming CFPB Indirect Auto Financing Guidance Act</title>
+    <title type="official" as="introduced">To nullify certain guidance of the Bureau of Consumer Financial Protection and to provide requirements for guidance issued by the Bureau with respect to indirect auto lending.</title>
+  </titles>
+  <sponsor id="412447"/>
+  <cosponsors>
+    <cosponsor id="412642" joined="2015-04-28"/>
+    <cosponsor id="412655" joined="2015-06-16"/>
+    <cosponsor id="412541" joined="2015-04-15"/>
+    <cosponsor id="412565" joined="2015-04-13"/>
+    <cosponsor id="400030" joined="2015-04-15"/>
+    <cosponsor id="400041" joined="2015-04-22"/>
+    <cosponsor id="400047" joined="2015-06-23"/>
+    <cosponsor id="412539" joined="2015-07-07"/>
+    <cosponsor id="412516" joined="2015-05-19"/>
+    <cosponsor id="412427" joined="2015-04-30"/>
+    <cosponsor id="412537" joined="2015-05-12"/>
+    <cosponsor id="400071" joined="2015-04-21"/>
+    <cosponsor id="412563" joined="2015-06-23"/>
+    <cosponsor id="412272" joined="2015-06-10"/>
+    <cosponsor id="400081" joined="2015-04-15"/>
+    <cosponsor id="400618" joined="2015-07-07"/>
+    <cosponsor id="412193" joined="2015-06-23"/>
+    <cosponsor id="400657" joined="2015-04-30"/>
+    <cosponsor id="412505" joined="2015-05-12"/>
+    <cosponsor id="412420" joined="2015-04-15"/>
+    <cosponsor id="400114" joined="2015-06-10"/>
+    <cosponsor id="412533" joined="2015-04-22"/>
+    <cosponsor id="412488" joined="2015-04-30"/>
+    <cosponsor id="400116" joined="2015-06-16"/>
+    <cosponsor id="412639" joined="2015-06-10"/>
+    <cosponsor id="412524" joined="2015-06-25"/>
+    <cosponsor id="412479" joined="2015-05-12"/>
+    <cosponsor id="412529" joined="2015-04-16"/>
+    <cosponsor id="412532" joined="2015-06-25"/>
+    <cosponsor id="412463" joined="2015-04-21"/>
+    <cosponsor id="412453" joined="2015-04-16"/>
+    <cosponsor id="400154" joined="2015-07-14"/>
+    <cosponsor id="412397" joined="2015-05-21"/>
+    <cosponsor id="412620" joined="2015-06-16"/>
+    <cosponsor id="412631" joined="2015-05-12"/>
+    <cosponsor id="412388" joined="2015-05-12"/>
+    <cosponsor id="400160" joined="2015-05-12"/>
+    <cosponsor id="412661" joined="2015-07-07"/>
+    <cosponsor id="412278" joined="2015-04-22"/>
+    <cosponsor id="412454" joined="2015-06-02"/>
+    <cosponsor id="412444" joined="2015-05-15"/>
+    <cosponsor id="400170" joined="2015-05-12"/>
+    <cosponsor id="412486" joined="2015-05-15"/>
+    <cosponsor id="412609" joined="2015-05-12"/>
+    <cosponsor id="400179" joined="2015-05-12"/>
+    <cosponsor id="412422" joined="2015-04-30"/>
+    <cosponsor id="412484" joined="2015-07-21"/>
+    <cosponsor id="400195" joined="2015-05-12"/>
+    <cosponsor id="400199" joined="2015-05-12"/>
+    <cosponsor id="412460" joined="2015-05-12"/>
+    <cosponsor id="400206" joined="2015-04-28"/>
+    <cosponsor id="412603" joined="2015-06-16"/>
+    <cosponsor id="412226" joined="2015-07-07"/>
+    <cosponsor id="412566" joined="2015-04-21"/>
+    <cosponsor id="412649" joined="2015-07-07"/>
+    <cosponsor id="412546" joined="2015-04-13"/>
+    <cosponsor id="412583" joined="2015-06-16"/>
+    <cosponsor id="400218" joined="2015-05-13"/>
+    <cosponsor id="400219" joined="2015-07-14"/>
+    <cosponsor id="412557" joined="2015-04-21"/>
+    <cosponsor id="412191" joined="2015-06-16"/>
+    <cosponsor id="412256" joined="2015-04-22"/>
+    <cosponsor id="412616" joined="2015-07-21"/>
+    <cosponsor id="400630" joined="2015-04-21"/>
+    <cosponsor id="412209" joined="2015-05-14"/>
+    <cosponsor id="412292" joined="2015-05-12"/>
+    <cosponsor id="412294" joined="2015-04-16"/>
+    <cosponsor id="412643" joined="2015-05-13"/>
+    <cosponsor id="400656" joined="2015-06-23"/>
+    <cosponsor id="400644" joined="2015-05-12"/>
+    <cosponsor id="400659" joined="2015-07-28"/>
+    <cosponsor id="412540" joined="2015-05-21"/>
+    <cosponsor id="412474" joined="2015-06-16"/>
+    <cosponsor id="412527" joined="2015-04-28"/>
+    <cosponsor id="400441" joined="2015-04-15"/>
+    <cosponsor id="412575" joined="2015-07-27"/>
+    <cosponsor id="412302" joined="2015-05-14"/>
+    <cosponsor id="412443" joined="2015-05-19"/>
+    <cosponsor id="400309" joined="2015-06-10"/>
+    <cosponsor id="412303" joined="2015-05-14"/>
+    <cosponsor id="400313" joined="2015-05-15"/>
+    <cosponsor id="412192" joined="2015-04-13"/>
+    <cosponsor id="400316" joined="2015-07-08"/>
+    <cosponsor id="412551" joined="2015-07-28"/>
+    <cosponsor id="412309" joined="2015-06-10"/>
+    <cosponsor id="412331" joined="2015-07-21"/>
+    <cosponsor id="412462" joined="2015-05-12"/>
+    <cosponsor id="412489" joined="2015-05-12"/>
+    <cosponsor id="412647" joined="2015-06-16"/>
+    <cosponsor id="412570" joined="2015-07-09"/>
+    <cosponsor id="400352" joined="2015-04-21"/>
+    <cosponsor id="400356" joined="2015-05-14"/>
+    <cosponsor id="412315" joined="2015-04-21"/>
+    <cosponsor id="412399" joined="2015-05-19"/>
+    <cosponsor id="400363" joined="2015-04-13"/>
+    <cosponsor id="400365" joined="2015-05-14"/>
+    <cosponsor id="400367" joined="2015-05-14"/>
+    <cosponsor id="400371" joined="2015-04-13"/>
+    <cosponsor id="400376" joined="2015-06-23"/>
+    <cosponsor id="412509" joined="2015-04-21"/>
+    <cosponsor id="412648" joined="2015-06-02"/>
+    <cosponsor id="412461" joined="2015-04-13"/>
+    <cosponsor id="412392" joined="2015-04-13"/>
+    <cosponsor id="412514" joined="2015-05-12"/>
+    <cosponsor id="412626" joined="2015-07-07"/>
+    <cosponsor id="400406" joined="2015-04-21"/>
+    <cosponsor id="412405" joined="2015-04-21"/>
+    <cosponsor id="412318" joined="2015-05-15"/>
+    <cosponsor id="412617" joined="2015-07-08"/>
+    <cosponsor id="412636" joined="2015-07-21"/>
+    <cosponsor id="400411" joined="2015-04-30"/>
+    <cosponsor id="412515" joined="2015-06-10"/>
+    <cosponsor id="412522" joined="2015-05-20"/>
+    <cosponsor id="412579" joined="2015-05-15"/>
+    <cosponsor id="412580" joined="2015-06-02"/>
+    <cosponsor id="412548" joined="2015-07-09"/>
+    <cosponsor id="412213" joined="2015-06-16"/>
+    <cosponsor id="412214" joined="2015-05-21"/>
+    <cosponsor id="400623" joined="2015-07-08"/>
+    <cosponsor id="412239" joined="2015-05-12"/>
+    <cosponsor id="412564" joined="2015-04-21"/>
+    <cosponsor id="400627" joined="2015-06-10"/>
+    <cosponsor id="412578" joined="2015-04-13"/>
+    <cosponsor id="412412" joined="2015-04-30"/>
+    <cosponsor id="412430" joined="2015-06-02"/>
+    <cosponsor id="412628" joined="2015-06-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-13" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-07-29" state="REPORTED">
+      <text>Ordered to be Reported by the Yeas and Nays: 47 - 10.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Banking and financial institutions regulation"/>
+    <term name="Consumer Financial Protection Bureau"/>
+    <term name="Consumer affairs"/>
+    <term name="Consumer credit"/>
+    <term name="Financial services and investments"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Minority and disadvantaged businesses"/>
+    <term name="Motor vehicles"/>
+    <term name="Small business"/>
+    <term name="Women in business"/>
+  </subjects>
+  <amendments/>
+  <summary>4/13/2015--Introduced.
+Reforming CFPB Indirect Auto Financing Guidance Act 
+
+ Declares without force or effect Consumer Financial Protection Bureau (CFPB) Bulletin 2013-02 (Indirect Auto Lending and Compliance with the Equal Credit Opportunity Act), published March 21, 2013.
+
+Amends the Consumer Financial Protection Act of 2010 to direct the CFPB, when proposing and issuing guidance primarily related to indirect auto financing, to:
+
+ provide for a public notice and comment period before issuing the guidance in final form; make publicly available all information relied on by the CFPB; redact any information exempt from disclosure under the Freedom of Information Act; consult with the Board of Governors of the Federal Reserve System, the Federal Trade Commission, and the Department of Justice; and study the costs and impacts of the guidance to consumers and women-owned, minority-owned, and small businesses.</summary>
+</bill>

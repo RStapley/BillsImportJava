@@ -1,0 +1,38 @@
+<bill session="114" type="s" number="162" updated="2015-02-28T06:29:02-05:00">
+  <state datetime="2015-01-13">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-13"/>
+  </status>
+  <introduced datetime="2015-01-13"/>
+  <titles>
+    <title type="short" as="introduced">Offshoring Prevention Act</title>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to provide for the taxation of income of controlled foreign corporations attributable to imported property.</title>
+  </titles>
+  <sponsor id="412247"/>
+  <cosponsors>
+    <cosponsor id="300011" joined="2015-01-13"/>
+    <cosponsor id="300065" joined="2015-01-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-13" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="305"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Foreign and international corporations"/>
+    <term name="Income tax credits"/>
+    <term name="Taxation of foreign income"/>
+  </subjects>
+  <amendments/>
+  <summary>1/13/2015--Introduced.
+Offshoring Prevention Act
+
+ Amends the Internal Revenue Code to include in foreign base company income, for purposes of determining the foreign trade income of controlled foreign corporations, imported property income. Defines "imported property income" as, with certain exceptions, income attributable to property manufactured outside of the United States and imported for sale into the United States. Provides for a separate application of limitations on the foreign tax credit for imported property income.</summary>
+</bill>

@@ -1,0 +1,39 @@
+<bill session="114" type="h" number="1420" updated="2015-05-09T06:33:05-04:00">
+  <state datetime="2015-03-18">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-18"/>
+  </status>
+  <introduced datetime="2015-03-18"/>
+  <titles>
+    <title type="short" as="introduced">National Traumatic Brain Injury Research and Treatment Improvement Act of 2015</title>
+    <title type="official" as="introduced">To direct the Secretary of Health and Human Services, acting through the Director of the Centers for Disease Control and Prevention, to establish a surveillance system regarding traumatic brain injury, and for other purposes.</title>
+  </titles>
+  <sponsor id="400309"/>
+  <cosponsors>
+    <cosponsor id="400333" joined="2015-04-13"/>
+    <cosponsor id="412311" joined="2015-03-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-18" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-03-20">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+  <summary>3/18/2015--Introduced.
+National Traumatic Brain Injury Research and Treatment Improvement Act of 2015
+
+Requires the Centers for Disease Control and Prevention (CDC) to: (1) evaluate existing surveillance and data collection systems that track the incidence and circumstances of traumatic brain injury, including concussion; (2) establish a statistically sound, scientifically credible, and integrated National Traumatic Brain Injury Surveillance System; and (3) ensure that the System is designed in a manner that facilitates further research on brain injury.
+
+ Requires the CDC to make information and analysis in the System available to the public and ensure that privacy and security protections applicable to the System are at least as stringent as those under the Health Insurance Portability and Accountability Act.</summary>
+</bill>

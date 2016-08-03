@@ -1,0 +1,68 @@
+<bill session="114" type="hj" number="59" updated="2015-08-15T06:48:39-04:00">
+  <state datetime="2015-07-07">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-07"/>
+  </status>
+  <introduced datetime="2015-07-07"/>
+  <titles>
+    <title type="official" as="introduced">Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Army Corps of Engineers and the Environmental Protection Agency relating to the definition of "waters of the United States" under the Clean Water Act.</title>
+  </titles>
+  <sponsor id="412217"/>
+  <cosponsors>
+    <cosponsor id="412630" joined="2015-07-21"/>
+    <cosponsor id="412655" joined="2015-07-22"/>
+    <cosponsor id="412541" joined="2015-07-22"/>
+    <cosponsor id="400032" joined="2015-07-22"/>
+    <cosponsor id="400052" joined="2015-07-16"/>
+    <cosponsor id="412270" joined="2015-07-15"/>
+    <cosponsor id="400655" joined="2015-07-22"/>
+    <cosponsor id="412482" joined="2015-07-22"/>
+    <cosponsor id="400141" joined="2015-07-22"/>
+    <cosponsor id="400651" joined="2015-07-21"/>
+    <cosponsor id="400175" joined="2015-07-21"/>
+    <cosponsor id="412623" joined="2015-07-28"/>
+    <cosponsor id="412429" joined="2015-07-15"/>
+    <cosponsor id="412422" joined="2015-07-22"/>
+    <cosponsor id="400206" joined="2015-07-23"/>
+    <cosponsor id="400209" joined="2015-07-15"/>
+    <cosponsor id="412419" joined="2015-07-23"/>
+    <cosponsor id="412510" joined="2015-07-22"/>
+    <cosponsor id="412295" joined="2015-07-22"/>
+    <cosponsor id="412487" joined="2015-07-15"/>
+    <cosponsor id="412443" joined="2015-07-28"/>
+    <cosponsor id="400316" joined="2015-07-29"/>
+    <cosponsor id="412551" joined="2015-07-22"/>
+    <cosponsor id="412572" joined="2015-07-22"/>
+    <cosponsor id="412310" joined="2015-07-22"/>
+    <cosponsor id="412417" joined="2015-07-22"/>
+    <cosponsor id="412596" joined="2015-07-28"/>
+    <cosponsor id="412392" joined="2015-07-22"/>
+    <cosponsor id="412548" joined="2015-07-21"/>
+    <cosponsor id="412574" joined="2015-07-22"/>
+    <cosponsor id="412610" joined="2015-07-28"/>
+    <cosponsor id="412416" joined="2015-07-22"/>
+    <cosponsor id="412640" joined="2015-07-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-07" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2015-07-08">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW02" subcommittee="Water Resources and Environment" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Congressional oversight"/>
+    <term name="Environmental Protection Agency (EPA)"/>
+    <term name="Environmental regulatory procedures"/>
+    <term name="Water quality"/>
+  </subjects>
+  <amendments/>
+</bill>

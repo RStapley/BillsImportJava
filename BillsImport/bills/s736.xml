@@ -1,0 +1,49 @@
+<bill session="114" type="s" number="736" updated="2015-05-30T06:48:41-04:00">
+  <state datetime="2015-03-12">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-12"/>
+  </status>
+  <introduced datetime="2015-03-12"/>
+  <titles>
+    <title type="short" as="introduced">State, Tribal, and Local Species Transparency and Recovery Act</title>
+    <title type="official" as="introduced">A bill to amend the Endangered Species Act of 1973 to require disclosure to States of the basis of determinations under such Act, to ensure use of information provided by State, tribal, and county governments in decisionmaking under such Act, and for other purposes.</title>
+  </titles>
+  <sponsor id="300041"/>
+  <cosponsors>
+    <cosponsor id="412251" joined="2015-03-12"/>
+    <cosponsor id="300027" joined="2015-03-16"/>
+    <cosponsor id="412218" joined="2015-03-16"/>
+    <cosponsor id="300083" joined="2015-03-12"/>
+    <cosponsor id="400546" joined="2015-03-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-12" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+    <action datetime="2015-05-06">
+      <text>Committee on Environment and Public Works. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="2352"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Endangered and threatened species"/>
+    <term name="Government information and archives"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Land transfers"/>
+    <term name="State and local government operations"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+  <summary>3/12/2015--Introduced.
+State, Tribal, and Local Species Transparency and Recovery Act
+
+This bill amends the Endangered Species Act of 1973 to require the Department of the Interior or the Department of Commerce, as appropriate, to provide to affected states all data that is used as the basis of a determination on whether a species is an endangered species or a threatened species before making a determination.
+
+The appropriate Department must use data submitted by a state, tribal, or county government in making such a determination.</summary>
+</bill>

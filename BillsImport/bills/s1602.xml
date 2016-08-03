@@ -1,0 +1,39 @@
+<bill session="114" type="s" number="1602" updated="2015-08-08T07:05:09-04:00">
+  <state datetime="2015-06-17">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-17"/>
+  </status>
+  <introduced datetime="2015-06-17"/>
+  <titles>
+    <title type="short" as="introduced">Puerto Rico Hospital HITECH Amendments Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act to allow certain hospitals in Puerto Rico to qualify for incentives for adoption and meaningful use of certified EHR Technology under the Medicare program, and for other purposes.</title>
+  </titles>
+  <sponsor id="400272"/>
+  <cosponsors>
+    <cosponsor id="300078" joined="2015-06-17"/>
+    <cosponsor id="412491" joined="2015-06-17"/>
+    <cosponsor id="300087" joined="2015-06-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-17" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="1225"/>
+    <bill relation="unknown" session="114" type="h" number="2635"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+  <summary>6/17/2015--Introduced.
+Puerto Rico Hospital HITECH Amendments Act of 2015 
+
+Amends title XVIII (Medicare) of the Social Security Act to apply Medicare HITECH (Health Information Technology for Economic and Clinical Health Act) payments to subsection (d) hospitals in Puerto Rico to allow them to qualify for incentives for adoption and meaningful use of certified electronic health record Technology.
+
+(Generally, a subsection [d] hospital is an acute care hospital, particularly one that receives payments under Medicare's inpatient prospective payment system when providing covered inpatient services to eligible beneficiaries.)</summary>
+</bill>

@@ -1,0 +1,40 @@
+<bill session="114" type="h" number="1979" updated="2015-06-20T06:35:01-04:00">
+  <state datetime="2015-04-22">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-22"/>
+  </status>
+  <introduced datetime="2015-04-22"/>
+  <titles>
+    <title type="short" as="introduced">Taxpayer Economic Hardship Protection Act of 2015</title>
+    <title type="official" as="introduced">To strengthen the protections from levy by the Internal Revenue Service for taxpayers in economic hardship.</title>
+  </titles>
+  <sponsor id="412644"/>
+  <cosponsors>
+    <cosponsor id="412638" joined="2015-04-22"/>
+    <cosponsor id="400271" joined="2015-04-22"/>
+    <cosponsor id="400295" joined="2015-04-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-22" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Debt collection"/>
+    <term name="Department of the Treasury"/>
+    <term name="Employee performance"/>
+    <term name="Internal Revenue Service (IRS)"/>
+    <term name="Performance measurement"/>
+    <term name="Tax administration and collection, taxpayers"/>
+  </subjects>
+  <amendments/>
+  <summary>4/22/2015--Introduced.
+Taxpayer Economic Hardship Protection Act of 2015 
+
+This bill requires the Internal Revenue Service to take certain actions to protect taxpayers in economic hardship from a tax levy, including the adoption of procedures and guidelines that consider the possibility that a taxpayer is in economic hardship before issuing a levy.</summary>
+</bill>

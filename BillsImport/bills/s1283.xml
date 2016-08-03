@@ -1,0 +1,38 @@
+<bill session="114" type="s" number="1283" updated="2015-06-27T07:29:33-04:00">
+  <state datetime="2015-05-11">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-11"/>
+  </status>
+  <introduced datetime="2015-05-11"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Energy Policy Act of 2005 to repeal certain programs, to establish a coal technology program, and for other purposes.</title>
+  </titles>
+  <sponsor id="412391"/>
+  <cosponsors>
+    <cosponsor id="412554" joined="2015-05-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-11" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2015-05-19">
+      <text>Committee on Energy and Natural Resources. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+  </subjects>
+  <amendments/>
+  <summary>5/11/2015--Introduced.
+This bill amends the Energy Policy Act of 2005 to repeal: (1) the coal and related technologies program; (2) the carbon capture research, development and demonstration program; and (3) the Clean Coal Power Initiative.
+
+In lieu of those programs the Department of Energy (DOE) shall establish a coal technology program encompassing: (1) research and development, (2) large-scale pilot projects, and (3) demonstration projects.
+
+ DOE must develop performance standards that include:
+
+ ensuring reliable, low cost power from new and existing coal plants; addressing carbon dioxide emissions through high efficiency platforms and carbon capture from new and existing coal plants; support flexible baseload operations for new and existing applications of coal generation; and validate geologic storage of large volumes of anthropogenic sources of carbon dioxide and the infrastructure needed to support a carbon dioxide use and storage industry.</summary>
+</bill>

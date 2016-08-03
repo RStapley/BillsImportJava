@@ -1,0 +1,26 @@
+<bill session="114" type="h" number="3254" updated="2015-08-08T06:46:31-04:00">
+  <state datetime="2015-07-28">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-28"/>
+  </status>
+  <introduced datetime="2015-07-28"/>
+  <titles>
+    <title type="short" as="introduced">Kline DeWire Public Safety Officers' Retroactive Benefits Act</title>
+    <title type="official" as="introduced">To amend the Dale Long Public Safety Officers' Benefits Improvements Act of 2012 to change the retroactive application of the Act to cover injuries sustained by rescue squad or ambulance crew members on or after December 1, 2007, rather than June 1, 2009.</title>
+  </titles>
+  <sponsor id="412468"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-28" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+  </subjects>
+  <amendments/>
+</bill>

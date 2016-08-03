@@ -1,0 +1,44 @@
+<bill session="114" type="s" number="1266" updated="2015-08-01T07:02:44-04:00">
+  <state datetime="2015-05-11">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-11"/>
+  </status>
+  <introduced datetime="2015-05-11"/>
+  <titles>
+    <title type="short" as="introduced">HUBZone Expansion Act of 2015</title>
+    <title type="official" as="introduced">A bill to expand the HUBZone program for communities affected by base realignment and closure, and for other purposes.</title>
+  </titles>
+  <sponsor id="300025"/>
+  <cosponsors>
+    <cosponsor id="412545" joined="2015-05-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-11">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S2761-2762"/>
+    </action>
+    <action datetime="2015-05-11" state="REFERRED">
+      <text>Read twice and referred to the Committee on Small Business and Entrepreneurship.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSSB" name="Senate Small Business and Entrepreneurship" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1735"/>
+    <bill relation="unknown" session="114" type="s" number="1292"/>
+    <bill relation="unknown" session="114" type="s" number="1376"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commerce"/>
+  </subjects>
+  <amendments/>
+  <summary>5/11/2015--Introduced.
+HUBZone Expansion Act of 2015
+
+This bill amends the Small Business Act to expand the HUBZone (historically underutilized business zone) program of Small Business Administration loans to small businesses in HUBZone areas for communities affected by base realignment and closure.
+
+The expansion includes the areas that can be used by small businesses whose principal offices are located in base closure HUBZones, with at least 35% of their employees residing in:
+
+ a HUBZone, a census tract in which the base closure HUBZone is wholly contained, a census tract that intersects the boundaries of the base closure HUBZone, or a census tract contiguous with these census tracts. HUBZone eligibility assistance for base closure areas is extended from five years to eight years after their closure.</summary>
+</bill>

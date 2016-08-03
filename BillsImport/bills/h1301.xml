@@ -1,0 +1,138 @@
+<bill session="114" type="h" number="1301" updated="2015-07-29T04:47:54-04:00">
+  <state datetime="2015-03-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-04"/>
+  </status>
+  <introduced datetime="2015-03-04"/>
+  <titles>
+    <title type="short" as="introduced">Amateur Radio Parity Act of 2015</title>
+    <title type="official" as="introduced">To direct the Federal Communications Commission to extend to private land use restrictions its rule relating to reasonable accommodation of amateur service communications.</title>
+  </titles>
+  <sponsor id="412421"/>
+  <cosponsors>
+    <cosponsor id="412500" joined="2015-04-14"/>
+    <cosponsor id="412469" joined="2015-03-26"/>
+    <cosponsor id="412436" joined="2015-03-24"/>
+    <cosponsor id="412635" joined="2015-06-03"/>
+    <cosponsor id="400030" joined="2015-06-11"/>
+    <cosponsor id="400032" joined="2015-06-09"/>
+    <cosponsor id="400048" joined="2015-06-25"/>
+    <cosponsor id="400057" joined="2015-03-26"/>
+    <cosponsor id="412517" joined="2015-06-01"/>
+    <cosponsor id="412407" joined="2015-06-09"/>
+    <cosponsor id="412622" joined="2015-04-28"/>
+    <cosponsor id="412271" joined="2015-07-16"/>
+    <cosponsor id="412563" joined="2015-03-16"/>
+    <cosponsor id="412193" joined="2015-03-04"/>
+    <cosponsor id="412555" joined="2015-04-14"/>
+    <cosponsor id="400100" joined="2015-03-16"/>
+    <cosponsor id="412403" joined="2015-05-14"/>
+    <cosponsor id="412420" joined="2015-07-23"/>
+    <cosponsor id="400122" joined="2015-03-24"/>
+    <cosponsor id="412524" joined="2015-07-28"/>
+    <cosponsor id="412480" joined="2015-06-09"/>
+    <cosponsor id="400640" joined="2015-03-04"/>
+    <cosponsor id="400142" joined="2015-03-04"/>
+    <cosponsor id="412453" joined="2015-04-14"/>
+    <cosponsor id="400154" joined="2015-04-14"/>
+    <cosponsor id="400157" joined="2015-03-25"/>
+    <cosponsor id="400158" joined="2015-03-16"/>
+    <cosponsor id="412485" joined="2015-03-04"/>
+    <cosponsor id="412661" joined="2015-06-02"/>
+    <cosponsor id="412278" joined="2015-04-28"/>
+    <cosponsor id="412498" joined="2015-06-24"/>
+    <cosponsor id="412454" joined="2015-04-14"/>
+    <cosponsor id="412280" joined="2015-03-16"/>
+    <cosponsor id="412446" joined="2015-03-16"/>
+    <cosponsor id="412282" joined="2015-04-28"/>
+    <cosponsor id="400179" joined="2015-05-20"/>
+    <cosponsor id="412511" joined="2015-04-15"/>
+    <cosponsor id="412437" joined="2015-06-25"/>
+    <cosponsor id="412283" joined="2015-06-25"/>
+    <cosponsor id="400195" joined="2015-03-04"/>
+    <cosponsor id="412284" joined="2015-03-04"/>
+    <cosponsor id="412460" joined="2015-04-21"/>
+    <cosponsor id="400209" joined="2015-06-01"/>
+    <cosponsor id="412566" joined="2015-03-24"/>
+    <cosponsor id="412649" joined="2015-06-01"/>
+    <cosponsor id="400219" joined="2015-03-04"/>
+    <cosponsor id="412286" joined="2015-03-16"/>
+    <cosponsor id="400224" joined="2015-07-08"/>
+    <cosponsor id="412557" joined="2015-06-09"/>
+    <cosponsor id="412290" joined="2015-03-16"/>
+    <cosponsor id="412616" joined="2015-07-23"/>
+    <cosponsor id="400630" joined="2015-03-16"/>
+    <cosponsor id="412292" joined="2015-03-16"/>
+    <cosponsor id="412562" joined="2015-04-21"/>
+    <cosponsor id="400656" joined="2015-07-23"/>
+    <cosponsor id="400263" joined="2015-07-21"/>
+    <cosponsor id="400644" joined="2015-06-09"/>
+    <cosponsor id="412560" joined="2015-04-21"/>
+    <cosponsor id="400279" joined="2015-06-01"/>
+    <cosponsor id="400285" joined="2015-07-22"/>
+    <cosponsor id="400290" joined="2015-03-04"/>
+    <cosponsor id="412660" joined="2015-06-25"/>
+    <cosponsor id="412302" joined="2015-05-12"/>
+    <cosponsor id="412192" joined="2015-05-12"/>
+    <cosponsor id="400316" joined="2015-07-09"/>
+    <cosponsor id="412306" joined="2015-03-25"/>
+    <cosponsor id="412307" joined="2015-04-28"/>
+    <cosponsor id="400326" joined="2015-03-04"/>
+    <cosponsor id="412393" joined="2015-06-03"/>
+    <cosponsor id="412647" joined="2015-07-09"/>
+    <cosponsor id="400341" joined="2015-04-28"/>
+    <cosponsor id="412426" joined="2015-06-01"/>
+    <cosponsor id="412311" joined="2015-04-14"/>
+    <cosponsor id="412641" joined="2015-06-24"/>
+    <cosponsor id="400348" joined="2015-06-16"/>
+    <cosponsor id="400606" joined="2015-06-09"/>
+    <cosponsor id="400367" joined="2015-04-21"/>
+    <cosponsor id="400373" joined="2015-05-12"/>
+    <cosponsor id="400378" joined="2015-07-21"/>
+    <cosponsor id="400380" joined="2015-03-26"/>
+    <cosponsor id="400381" joined="2015-06-16"/>
+    <cosponsor id="412319" joined="2015-03-04"/>
+    <cosponsor id="412213" joined="2015-03-04"/>
+    <cosponsor id="412538" joined="2015-03-19"/>
+    <cosponsor id="412574" joined="2015-06-01"/>
+    <cosponsor id="412410" joined="2015-04-28"/>
+    <cosponsor id="412239" joined="2015-03-16"/>
+    <cosponsor id="412564" joined="2015-05-12"/>
+    <cosponsor id="412610" joined="2015-04-14"/>
+    <cosponsor id="412578" joined="2015-05-12"/>
+    <cosponsor id="412402" joined="2015-03-04"/>
+    <cosponsor id="412430" joined="2015-06-16"/>
+    <cosponsor id="400440" joined="2015-06-11"/>
+    <cosponsor id="412640" joined="2015-04-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-04" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-03-06">
+      <text>Referred to the Subcommittee on Communications and Technology.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF16" subcommittee="Communications and Technology" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="1685"/>
+  </relatedbills>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Broadcasting, cable, digital technologies"/>
+    <term name="Federal Communications Commission (FCC)"/>
+    <term name="Federal preemption"/>
+    <term name="Land use and conservation"/>
+    <term name="State and local government operations"/>
+    <term name="Telephone and wireless communication"/>
+  </subjects>
+  <amendments/>
+  <summary>3/4/2015--Introduced.
+Amateur Radio Parity Act of 2015
+
+Directs the Federal Communications Commission to amend regulations concerning the height and dimensions of station antenna structures to prohibit a private land use restriction from applying to amateur service communications if the restriction precludes such communications, fails to accommodate such communications, or does not constitute the minimum practicable restriction to accomplish the legitimate purpose of the private entity seeking to enforce the restriction.</summary>
+</bill>

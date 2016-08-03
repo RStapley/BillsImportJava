@@ -1,0 +1,36 @@
+<bill session="114" type="h" number="1484" updated="2015-05-09T06:33:37-04:00">
+  <state datetime="2015-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-19"/>
+  </status>
+  <introduced datetime="2015-03-19"/>
+  <titles>
+    <title type="short" as="introduced">Honor the Nevada Enabling Act of 1864 Act</title>
+    <title type="official" as="introduced">To direct the Secretary of Agriculture and the Secretary of the Interior to convey certain Federal lands to the State of Nevada in fulfillment of the Nevada Statehood Enabling Act, and for other purposes.</title>
+  </titles>
+  <sponsor id="412500"/>
+  <cosponsors>
+    <cosponsor id="412645" joined="2015-03-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-19" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2015-04-07">
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+    </action>
+    <action datetime="2015-04-07">
+      <text>Referred to the Subcommittee on Energy and Mineral Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="Federal Lands" name="House Natural Resources"/>
+    <committee activity="Referral" code="HSII06" subcommittee="Energy and Mineral Resources" name="House Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+</bill>

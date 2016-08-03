@@ -1,0 +1,25 @@
+<bill session="114" type="h" number="3357" updated="2015-08-07T12:48:44-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">POWER Counties Act</title>
+    <title type="short" as="introduced">Providing Opportunity with Energy Revenues in Counties Act</title>
+    <title type="official" as="introduced">To amend the Mineral Leasing Act to require payment to counties of a portion of revenues received by the United States under Federal oil and gas leases.</title>
+  </titles>
+  <sponsor id="412460"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

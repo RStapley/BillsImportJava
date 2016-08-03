@@ -1,0 +1,58 @@
+<bill session="114" type="hr" number="122" updated="2015-04-11T06:16:41-04:00">
+  <state datetime="2015-02-24">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-24"/>
+  </status>
+  <introduced datetime="2015-02-24"/>
+  <titles>
+    <title type="official" as="introduced">Providing assistance to Ukraine for fulfillment of the economic, social, and government reform requirements necessary for membership eligibility to the European Union, in keeping with the will of a majority of the people of Ukraine and their Government.</title>
+  </titles>
+  <sponsor id="400646"/>
+  <cosponsors>
+    <cosponsor id="412250" joined="2015-02-24"/>
+    <cosponsor id="412652" joined="2015-02-27"/>
+    <cosponsor id="412513" joined="2015-03-10"/>
+    <cosponsor id="412651" joined="2015-02-24"/>
+    <cosponsor id="400103" joined="2015-02-27"/>
+    <cosponsor id="400211" joined="2015-02-24"/>
+    <cosponsor id="412465" joined="2015-03-10"/>
+    <cosponsor id="412421" joined="2015-03-17"/>
+    <cosponsor id="400238" joined="2015-02-24"/>
+    <cosponsor id="412521" joined="2015-03-06"/>
+    <cosponsor id="412468" joined="2015-02-25"/>
+    <cosponsor id="400309" joined="2015-02-26"/>
+    <cosponsor id="412569" joined="2015-03-26"/>
+    <cosponsor id="412331" joined="2015-03-06"/>
+    <cosponsor id="412489" joined="2015-03-17"/>
+    <cosponsor id="412202" joined="2015-03-06"/>
+    <cosponsor id="400350" joined="2015-02-24"/>
+    <cosponsor id="400361" joined="2015-03-06"/>
+    <cosponsor id="400378" joined="2015-03-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-24" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Europe"/>
+    <term name="European Union"/>
+    <term name="Foreign aid and international relief"/>
+    <term name="Government ethics and transparency, public corruption"/>
+    <term name="Military assistance, sales, and agreements"/>
+    <term name="Rule of law and government transparency"/>
+    <term name="Russia"/>
+    <term name="Sovereignty, recognition, national governance and status"/>
+    <term name="Ukraine"/>
+  </subjects>
+  <amendments/>
+  <summary>2/24/2015--Introduced.
+Expresses the sense of the House of Representatives that:
+
+ U.S. government agencies should provide assistance to Ukraine for fulfillment of the economic, social, and government reform requirements necessary for European Union membership; the President should follow through on the Ukraine Freedom Support Act providing Ukraine with financial and defensive military aid; and President Petro Poroshenko should continue his efforts in fighting corruption, building civil society, and creating an inclusive and tolerant society for all Ukraine's citizens. Expresses solidarity with the Ukrainian people.</summary>
+</bill>

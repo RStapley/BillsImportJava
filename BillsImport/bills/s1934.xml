@@ -1,0 +1,31 @@
+<bill session="114" type="s" number="1934" updated="2015-08-19T18:47:02-04:00">
+  <state datetime="2015-08-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-08-04"/>
+  </status>
+  <introduced datetime="2015-08-04"/>
+  <titles>
+    <title type="short" as="introduced">Scale-up Manufacturing Investment Company Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend the Small Business Investment Act of 1958 to establish the Scale-up Manufacturing Investment Company ("SUMIC") Program.</title>
+  </titles>
+  <sponsor id="412598"/>
+  <cosponsors>
+    <cosponsor id="412390" joined="2015-08-04"/>
+    <cosponsor id="412223" joined="2015-08-04"/>
+    <cosponsor id="300076" joined="2015-08-04"/>
+    <cosponsor id="412305" joined="2015-08-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-08-04" state="REFERRED">
+      <text>Read twice and referred to the Committee on Small Business and Entrepreneurship.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSSB" name="Senate Small Business and Entrepreneurship" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+  </subjects>
+  <amendments/>
+</bill>

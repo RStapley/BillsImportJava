@@ -1,0 +1,69 @@
+<bill session="114" type="h" number="249" updated="2015-07-16T04:47:07-04:00">
+  <state datetime="2015-01-09">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-09"/>
+  </status>
+  <introduced datetime="2015-01-09"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Act of June 18, 1934, to reaffirm the authority of the Secretary of the Interior to take land into trust for Indian tribes, and for other purposes.</title>
+  </titles>
+  <sponsor id="400077"/>
+  <cosponsors>
+    <cosponsor id="400636" joined="2015-05-14"/>
+    <cosponsor id="412601" joined="2015-04-13"/>
+    <cosponsor id="412517" joined="2015-02-25"/>
+    <cosponsor id="412403" joined="2015-03-16"/>
+    <cosponsor id="412612" joined="2015-04-13"/>
+    <cosponsor id="400162" joined="2015-02-10"/>
+    <cosponsor id="412584" joined="2015-07-15"/>
+    <cosponsor id="412284" joined="2015-04-28"/>
+    <cosponsor id="412583" joined="2015-03-17"/>
+    <cosponsor id="400218" joined="2015-04-13"/>
+    <cosponsor id="412286" joined="2015-02-05"/>
+    <cosponsor id="400224" joined="2015-05-14"/>
+    <cosponsor id="412557" joined="2015-05-14"/>
+    <cosponsor id="412558" joined="2015-01-20"/>
+    <cosponsor id="412293" joined="2015-02-03"/>
+    <cosponsor id="412643" joined="2015-04-27"/>
+    <cosponsor id="400259" joined="2015-01-20"/>
+    <cosponsor id="400279" joined="2015-04-15"/>
+    <cosponsor id="400661" joined="2015-02-05"/>
+    <cosponsor id="412568" joined="2015-01-20"/>
+    <cosponsor id="412474" joined="2015-03-16"/>
+    <cosponsor id="412527" joined="2015-04-13"/>
+    <cosponsor id="412308" joined="2015-04-13"/>
+    <cosponsor id="412426" joined="2015-02-25"/>
+    <cosponsor id="412519" joined="2015-03-16"/>
+    <cosponsor id="400367" joined="2015-02-10"/>
+    <cosponsor id="400376" joined="2015-03-16"/>
+    <cosponsor id="412461" joined="2015-02-25"/>
+    <cosponsor id="412626" joined="2015-04-13"/>
+    <cosponsor id="412515" joined="2015-04-13"/>
+    <cosponsor id="400419" joined="2015-04-13"/>
+    <cosponsor id="400623" joined="2015-04-15"/>
+    <cosponsor id="412412" joined="2015-04-13"/>
+    <cosponsor id="400440" joined="2015-01-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-09" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2015-03-02">
+      <text>Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII24" subcommittee="Indian, Insular and Alaska Native Affairs" name="House Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Native Americans"/>
+    <term name="Federal-Indian relations"/>
+    <term name="Indian lands and resources rights"/>
+    <term name="Land transfers"/>
+  </subjects>
+  <amendments/>
+  <summary>1/9/2015--Introduced.
+Amends the Indian Reorganization Act to make it applicable to all federally recognized Indian tribes, regardless of when any tribe became recognized. (This effectively overrules the Supreme Court's decision in Carcieri v. Salazar, which held that the Secretary of the Interior could not take land into trust for a specified tribe because that tribe had not been under federal jurisdiction when the Act was enacted.)</summary>
+</bill>

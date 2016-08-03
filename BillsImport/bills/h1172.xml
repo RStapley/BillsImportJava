@@ -1,0 +1,46 @@
+<bill session="114" type="h" number="1172" updated="2015-06-06T06:27:52-04:00">
+  <state datetime="2015-02-27">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-27"/>
+  </status>
+  <introduced datetime="2015-02-27"/>
+  <titles>
+    <title type="short" as="introduced">Distillery Excise Tax Reform Act of 2015</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to reduce the rate of tax on distilled spirits produced by small distilleries.</title>
+  </titles>
+  <sponsor id="400232"/>
+  <cosponsors>
+    <cosponsor id="400071" joined="2015-03-17"/>
+    <cosponsor id="412505" joined="2015-03-04"/>
+    <cosponsor id="412447" joined="2015-04-13"/>
+    <cosponsor id="412583" joined="2015-03-23"/>
+    <cosponsor id="408211" joined="2015-03-23"/>
+    <cosponsor id="400295" joined="2015-03-04"/>
+    <cosponsor id="412461" joined="2015-02-27"/>
+    <cosponsor id="412317" joined="2015-04-13"/>
+    <cosponsor id="400414" joined="2015-04-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-27" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1444"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Alcoholic beverages"/>
+    <term name="Manufacturing"/>
+    <term name="Sales and excise taxes"/>
+    <term name="Small business"/>
+  </subjects>
+  <amendments/>
+  <summary>2/27/2015--Introduced.
+Distillery Excise Tax Reform Act of 2015
+
+Amends the Internal Revenue Code to allow a reduction (from $13.50 to $2.70 on each proof gallon produced in the United States) in the excise tax on distilled spirits for domestic distillers who produce not more than 100,000 proof gallons of distilled spirits during the calendar year.</summary>
+</bill>

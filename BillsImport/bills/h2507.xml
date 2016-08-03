@@ -1,0 +1,91 @@
+<bill session="114" type="h" number="2507" updated="2015-06-27T07:01:59-04:00">
+  <state datetime="2015-06-17T17:43:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2015-06-17T17:43:00-04:00"/>
+  </status>
+  <introduced datetime="2015-05-21"/>
+  <titles>
+    <title type="short" as="introduced">Increasing Regulatory Fairness Act of 2015</title>
+    <title type="short" as="reported to house">Increasing Regulatory Fairness Act of 2015</title>
+    <title type="short" as="passed house">Increasing Regulatory Fairness Act of 2015</title>
+    <title type="official" as="introduced">To amend title XVIII of the Social Security Act to establish an annual rulemaking schedule for payment rates under Medicare Advantage.</title>
+  </titles>
+  <sponsor id="400046"/>
+  <cosponsors>
+    <cosponsor id="412527" joined="2015-06-15"/>
+    <cosponsor id="400320" joined="2015-05-21"/>
+    <cosponsor id="400367" joined="2015-06-02"/>
+    <cosponsor id="412509" joined="2015-06-02"/>
+    <cosponsor id="400403" joined="2015-05-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-21" state="REFERRED">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-05-21">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-05-21">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-05-22">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2015-06-02">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-06-02" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+    <action datetime="2015-06-16T19:30:00-04:00">
+      <text>Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-159, Part I.</text>
+    </action>
+    <action datetime="2015-06-16T19:30:00-04:00">
+      <text>Committee on Energy and Commerce discharged.</text>
+    </action>
+    <calendar datetime="2015-06-16T19:30:00-04:00" calendar="Union" number="115">
+      <text>Placed on the Union Calendar, Calendar No. 115.</text>
+    </calendar>
+    <action datetime="2015-06-17T17:33:00-04:00">
+      <text>Mr. Brady (TX) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2015-06-17T17:33:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4481-4483" label="consideration"/>
+    </action>
+    <action datetime="2015-06-17T17:33:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2507.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2015-06-17T17:43:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H4481" label="text"/>
+    </vote>
+    <action datetime="2015-06-17T17:43:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2015-06-18">
+      <text>Received in the Senate and Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, Markup, Reporting"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Discharged"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Economic performance and conditions"/>
+    <term name="Medicare"/>
+  </subjects>
+  <amendments/>
+  <summary>6/17/2015--Passed House amended.
+Increasing Regulatory Fairness Act of 2015
+
+(Sec. 2) This bill amends part C (Medicare+Choice) of title XVIII (Medicare) of the Social Security Act to direct the Department of Health and Human Services, by regulation and in accordance with certain notice and public comment requirements, to determine and announce annually for 2017 and each subsequent year:
+
+ the annual MedicareAdvantage (MA) capitation rate for each MA payment area for the year concerned, the risk and other factors to be used in adjusting such rates for monthly payments in such year, the MA region-specific non-drug monthly benchmark amount for each MA region and each MA regional plan for which a bid was submitted, and the major policy changes to the risk adjustment model and the 5-star rating system that are determined to have an economic impact.</summary>
+</bill>

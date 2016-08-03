@@ -1,0 +1,30 @@
+<bill session="114" type="s" number="1803" updated="2015-07-24T12:47:16-04:00">
+  <state datetime="2015-07-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-16"/>
+  </status>
+  <introduced datetime="2015-07-16"/>
+  <titles>
+    <title type="short" as="introduced">Improving Coal Combustion Residuals Regulation Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend subtitle D of the Solid Waste Disposal Act to encourage recovery and beneficial use of coal combustion residuals and establish requirements for the proper management and disposal of coal combustion residuals that are protective of human health and the environment.</title>
+  </titles>
+  <sponsor id="412494"/>
+  <cosponsors>
+    <cosponsor id="412391" joined="2015-07-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-16" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1734"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+  </subjects>
+  <amendments/>
+</bill>

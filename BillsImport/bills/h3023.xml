@@ -1,0 +1,25 @@
+<bill session="114" type="h" number="3023" updated="2015-07-18T06:44:07-04:00">
+  <state datetime="2015-07-10">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-10"/>
+  </status>
+  <introduced datetime="2015-07-10"/>
+  <titles>
+    <title type="official" as="introduced">To amend title 5, United States Code, to modify probationary periods with respect to positions within the competitive service and the Senior Executive Service, and for other purposes.</title>
+  </titles>
+  <sponsor id="412619"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-10" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+  </subjects>
+  <amendments/>
+</bill>

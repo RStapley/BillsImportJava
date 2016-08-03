@@ -1,0 +1,28 @@
+<bill session="114" type="s" number="1606" updated="2015-06-27T07:32:49-04:00">
+  <state datetime="2015-06-18">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-18"/>
+  </status>
+  <introduced datetime="2015-06-18"/>
+  <titles>
+    <title type="short" as="introduced">Digital Learning Equity Act of 2015</title>
+    <title type="official" as="introduced">A bill to support the development, implementation, and evaluation of innovative strategies and methods to increase out-of-school access to digital learning resources for eligible students in order to increase student and educator engagement and disseminate evidence-based strategies to relevant stakeholders and the public.</title>
+  </titles>
+  <sponsor id="412545"/>
+  <cosponsors>
+    <cosponsor id="400061" joined="2015-06-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-18" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+  </subjects>
+  <amendments/>
+</bill>

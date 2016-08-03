@@ -1,0 +1,121 @@
+<bill session="114" type="h" number="879" updated="2015-07-30T04:48:14-04:00">
+  <state datetime="2015-02-11">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-11"/>
+  </status>
+  <introduced datetime="2015-02-11"/>
+  <titles>
+    <title type="short" as="introduced">Ax the Tax on Middle Class Americans' Health Plans Act</title>
+    <title type="official" as="introduced">To repeal the "Cadillac Tax" on middle class Americans' health plans.</title>
+  </titles>
+  <sponsor id="412447"/>
+  <cosponsors>
+    <cosponsor id="412625" joined="2015-04-15"/>
+    <cosponsor id="412469" joined="2015-05-21"/>
+    <cosponsor id="412541" joined="2015-03-19"/>
+    <cosponsor id="412436" joined="2015-07-21"/>
+    <cosponsor id="412635" joined="2015-05-13"/>
+    <cosponsor id="400032" joined="2015-06-23"/>
+    <cosponsor id="412627" joined="2015-04-29"/>
+    <cosponsor id="412629" joined="2015-07-14"/>
+    <cosponsor id="412395" joined="2015-03-19"/>
+    <cosponsor id="412427" joined="2015-05-19"/>
+    <cosponsor id="412622" joined="2015-07-14"/>
+    <cosponsor id="400071" joined="2015-05-13"/>
+    <cosponsor id="412270" joined="2015-07-07"/>
+    <cosponsor id="412531" joined="2015-07-07"/>
+    <cosponsor id="400655" joined="2015-07-10"/>
+    <cosponsor id="412651" joined="2015-07-15"/>
+    <cosponsor id="400089" joined="2015-06-12"/>
+    <cosponsor id="412621" joined="2015-03-03"/>
+    <cosponsor id="412536" joined="2015-03-19"/>
+    <cosponsor id="412477" joined="2015-02-27"/>
+    <cosponsor id="412420" joined="2015-03-16"/>
+    <cosponsor id="412672" joined="2015-07-13"/>
+    <cosponsor id="412472" joined="2015-03-19"/>
+    <cosponsor id="400116" joined="2015-04-13"/>
+    <cosponsor id="412457" joined="2015-07-21"/>
+    <cosponsor id="412479" joined="2015-02-27"/>
+    <cosponsor id="412275" joined="2015-06-24"/>
+    <cosponsor id="400141" joined="2015-07-07"/>
+    <cosponsor id="412463" joined="2015-07-29"/>
+    <cosponsor id="412473" joined="2015-04-28"/>
+    <cosponsor id="400157" joined="2015-07-07"/>
+    <cosponsor id="412631" joined="2015-07-22"/>
+    <cosponsor id="400158" joined="2015-05-15"/>
+    <cosponsor id="412661" joined="2015-05-19"/>
+    <cosponsor id="412454" joined="2015-06-02"/>
+    <cosponsor id="412645" joined="2015-05-21"/>
+    <cosponsor id="412446" joined="2015-04-23"/>
+    <cosponsor id="400175" joined="2015-04-13"/>
+    <cosponsor id="412623" joined="2015-07-07"/>
+    <cosponsor id="412609" joined="2015-07-09"/>
+    <cosponsor id="412437" joined="2015-04-28"/>
+    <cosponsor id="412422" joined="2015-05-13"/>
+    <cosponsor id="412663" joined="2015-07-07"/>
+    <cosponsor id="412460" joined="2015-05-15"/>
+    <cosponsor id="400209" joined="2015-04-13"/>
+    <cosponsor id="412566" joined="2015-05-13"/>
+    <cosponsor id="412649" joined="2015-07-21"/>
+    <cosponsor id="400219" joined="2015-05-15"/>
+    <cosponsor id="412510" joined="2015-03-19"/>
+    <cosponsor id="412292" joined="2015-07-29"/>
+    <cosponsor id="412487" joined="2015-04-30"/>
+    <cosponsor id="412552" joined="2015-07-07"/>
+    <cosponsor id="412540" joined="2015-03-17"/>
+    <cosponsor id="400279" joined="2015-07-07"/>
+    <cosponsor id="412660" joined="2015-06-01"/>
+    <cosponsor id="412475" joined="2015-02-27"/>
+    <cosponsor id="400313" joined="2015-04-30"/>
+    <cosponsor id="412551" joined="2015-06-11"/>
+    <cosponsor id="412633" joined="2015-04-30"/>
+    <cosponsor id="412309" joined="2015-03-19"/>
+    <cosponsor id="412653" joined="2015-04-23"/>
+    <cosponsor id="412393" joined="2015-03-19"/>
+    <cosponsor id="412310" joined="2015-07-08"/>
+    <cosponsor id="412426" joined="2015-06-02"/>
+    <cosponsor id="412641" joined="2015-04-28"/>
+    <cosponsor id="412650" joined="2015-07-21"/>
+    <cosponsor id="400365" joined="2015-07-15"/>
+    <cosponsor id="400367" joined="2015-03-19"/>
+    <cosponsor id="412596" joined="2015-05-13"/>
+    <cosponsor id="412461" joined="2015-06-01"/>
+    <cosponsor id="400406" joined="2015-05-15"/>
+    <cosponsor id="412548" joined="2015-06-11"/>
+    <cosponsor id="400419" joined="2015-05-21"/>
+    <cosponsor id="412610" joined="2015-04-13"/>
+    <cosponsor id="412578" joined="2015-07-07"/>
+    <cosponsor id="400433" joined="2015-07-21"/>
+    <cosponsor id="412430" joined="2015-03-17"/>
+    <cosponsor id="412525" joined="2015-07-29"/>
+    <cosponsor id="400440" joined="2015-04-16"/>
+    <cosponsor id="412646" joined="2015-07-21"/>
+    <cosponsor id="412640" joined="2015-03-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-11" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="2015-02-25">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H1126"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Personnel records"/>
+    <term name="Sales and excise taxes"/>
+    <term name="Tax administration and collection, taxpayers"/>
+  </subjects>
+  <amendments/>
+  <summary>2/11/2015--Introduced.
+Ax the Tax on Middle Class Americans' Health Plans Act
+
+This bill repeals, effective for taxable years beginning after 2017, the excise tax on the excess benefit portion of high-cost employer-sponsored health care plans (known as Cadillac plans). The reporting requirement for such plans is also repealed for calendar years beginning after 2014.</summary>
+</bill>

@@ -1,0 +1,121 @@
+<bill session="114" type="h" number="413" updated="2015-06-10T04:46:50-04:00">
+  <state datetime="2015-01-20">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-20"/>
+  </status>
+  <introduced datetime="2015-01-20"/>
+  <titles>
+    <title type="short" as="introduced">Partnership to Build America Act of 2015</title>
+    <title type="official" as="introduced">To establish the American Infrastructure Fund, to provide bond guarantees and make loans to States, local governments, and infrastructure providers for investments in certain infrastructure projects, and to provide equity investments in such projects, and for other purposes.</title>
+  </titles>
+  <sponsor id="412544"/>
+  <cosponsors>
+    <cosponsor id="412642" joined="2015-05-21"/>
+    <cosponsor id="412541" joined="2015-01-20"/>
+    <cosponsor id="412512" joined="2015-01-20"/>
+    <cosponsor id="412652" joined="2015-06-09"/>
+    <cosponsor id="412539" joined="2015-01-28"/>
+    <cosponsor id="412427" joined="2015-01-20"/>
+    <cosponsor id="412537" joined="2015-01-20"/>
+    <cosponsor id="412407" joined="2015-01-20"/>
+    <cosponsor id="400074" joined="2015-01-20"/>
+    <cosponsor id="412271" joined="2015-04-16"/>
+    <cosponsor id="400077" joined="2015-01-20"/>
+    <cosponsor id="412536" joined="2015-01-20"/>
+    <cosponsor id="400648" joined="2015-01-27"/>
+    <cosponsor id="412420" joined="2015-01-20"/>
+    <cosponsor id="400646" joined="2015-01-20"/>
+    <cosponsor id="412532" joined="2015-01-20"/>
+    <cosponsor id="412453" joined="2015-01-28"/>
+    <cosponsor id="412584" joined="2015-01-20"/>
+    <cosponsor id="412446" joined="2015-01-20"/>
+    <cosponsor id="400195" joined="2015-01-20"/>
+    <cosponsor id="412603" joined="2015-01-20"/>
+    <cosponsor id="412566" joined="2015-01-20"/>
+    <cosponsor id="412421" joined="2015-01-20"/>
+    <cosponsor id="412557" joined="2015-01-20"/>
+    <cosponsor id="412638" joined="2015-02-27"/>
+    <cosponsor id="412209" joined="2015-01-20"/>
+    <cosponsor id="400249" joined="2015-01-20"/>
+    <cosponsor id="412643" joined="2015-01-20"/>
+    <cosponsor id="412562" joined="2015-01-20"/>
+    <cosponsor id="412487" joined="2015-03-26"/>
+    <cosponsor id="412540" joined="2015-01-20"/>
+    <cosponsor id="412527" joined="2015-01-20"/>
+    <cosponsor id="400308" joined="2015-01-20"/>
+    <cosponsor id="412523" joined="2015-01-20"/>
+    <cosponsor id="412551" joined="2015-01-20"/>
+    <cosponsor id="412308" joined="2015-01-20"/>
+    <cosponsor id="400349" joined="2015-01-20"/>
+    <cosponsor id="412509" joined="2015-01-20"/>
+    <cosponsor id="412617" joined="2015-03-13"/>
+    <cosponsor id="400431" joined="2015-01-20"/>
+    <cosponsor id="412211" joined="2015-06-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-20" state="REFERRED">
+      <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-01-20">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2015-01-20">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-01-21">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+    </action>
+    <action datetime="2015-01-21">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+    </action>
+    <action datetime="2015-01-21">
+      <text>Referred to the Subcommittee on Aviation.</text>
+    </action>
+    <action datetime="2015-01-21">
+      <text>Referred to the Subcommittee on Coast Guard and Maritime Transportation.</text>
+    </action>
+    <action datetime="2015-01-21">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+    </action>
+    <action datetime="2015-01-21">
+      <text>Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW12" subcommittee="Highways and Transit" name="House Transportation and Infrastructure"/>
+    <committee activity="Referral" code="HSPW02" subcommittee="Water Resources and Environment" name="House Transportation and Infrastructure"/>
+    <committee activity="Referral" code="HSPW05" subcommittee="Aviation" name="House Transportation and Infrastructure"/>
+    <committee activity="Referral" code="HSPW07" subcommittee="Coast Guard and Maritime Transportation" name="House Transportation and Infrastructure"/>
+    <committee activity="Referral" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+    <committee activity="Referral" code="HSPW14" subcommittee="Railroads, Pipelines, and Hazardous Materials" name="House Transportation and Infrastructure"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Buy American requirements"/>
+    <term name="Corporate finance and management"/>
+    <term name="Foreign and international corporations"/>
+    <term name="Government corporations and government-sponsored enterprises"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Income tax exclusion"/>
+    <term name="Infrastructure development"/>
+    <term name="Interest, dividends, interest rates"/>
+    <term name="Public-private cooperation"/>
+    <term name="Securities"/>
+    <term name="State and local finance"/>
+    <term name="Taxation of foreign income"/>
+  </subjects>
+  <amendments/>
+  <summary>1/20/2015--Introduced.
+Partnership to Build America Act of 2015
+
+ Establishes the American Infrastructure Fund (AIF) as a wholly-owned government corporation to provide bond guarantees and make loans to state and local governments, non-profit infrastructure providers, private parties, and public-private partnerships for state or local government sponsored transportation, energy, water, communications, or educational facility infrastructure projects (Qualified Infrastructure Projects [QIPs]). Authorizes AIF also to make equity investments in QIPs.
+
+Directs the Secretary of the Treasury, acting through the AIF, to issue American Infrastructure Bonds with an aggregate face value of $50 billion. Requires proceeds from the sale of the bonds to be deposited into the AIF.
+
+Amends the Internal Revenue Code to allow U.S. corporations to exclude from gross income qualified cash dividend amounts received during a taxable year from a foreign-controlled corporation equal to the face value of qualified infrastructure bonds the corporation has purchased.
+
+Prohibits allowance of a foreign tax credit to the excluded portion of any dividend received by a U.S. corporation. Prohibits also the allowance of a deduction for expenses related to that excludable portion.</summary>
+</bill>

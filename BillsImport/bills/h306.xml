@@ -1,0 +1,66 @@
+<bill session="114" type="h" number="306" updated="2015-05-19T04:46:32-04:00">
+  <state datetime="2015-01-13">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-13"/>
+  </status>
+  <introduced datetime="2015-01-13"/>
+  <titles>
+    <title type="short" as="introduced">National Statistics on Deadly Force Transparency Act of 2015</title>
+    <title type="official" as="introduced">To require the Attorney General to issue rules pertaining to the collection and compilation of data on the use of deadly force by law enforcement officers.</title>
+  </titles>
+  <sponsor id="412236"/>
+  <cosponsors>
+    <cosponsor id="412379" joined="2015-02-27"/>
+    <cosponsor id="412470" joined="2015-01-30"/>
+    <cosponsor id="412600" joined="2015-01-30"/>
+    <cosponsor id="400074" joined="2015-05-18"/>
+    <cosponsor id="400090" joined="2015-01-30"/>
+    <cosponsor id="400162" joined="2015-01-30"/>
+    <cosponsor id="400163" joined="2015-01-30"/>
+    <cosponsor id="412199" joined="2015-04-13"/>
+    <cosponsor id="412638" joined="2015-04-13"/>
+    <cosponsor id="400237" joined="2015-03-13"/>
+    <cosponsor id="412558" joined="2015-04-13"/>
+    <cosponsor id="400271" joined="2015-01-30"/>
+    <cosponsor id="400295" joined="2015-04-13"/>
+    <cosponsor id="412575" joined="2015-04-16"/>
+    <cosponsor id="400333" joined="2015-04-13"/>
+    <cosponsor id="400350" joined="2015-04-13"/>
+    <cosponsor id="400366" joined="2015-05-05"/>
+    <cosponsor id="412520" joined="2015-02-10"/>
+    <cosponsor id="412522" joined="2015-01-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-13" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-02-05">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Census and government statistics"/>
+    <term name="Criminal justice information and records"/>
+    <term name="Department of Justice"/>
+    <term name="Law enforcement administration and funding"/>
+    <term name="Law enforcement officers"/>
+    <term name="Racial and ethnic relations"/>
+    <term name="Sex, gender, sexual orientation discrimination"/>
+  </subjects>
+  <amendments/>
+  <summary>1/13/2015--Introduced.
+National Statistics on Deadly Force Transparency Act of 2015
+
+ Requires the Attorney General to issue regulations for the collection and compilation of data pertaining to the use of deadly force by law enforcement officers, which shall require:
+
+ the collection of data on all instances wherein deadly force was used; the data to include information on the characteristics of the officer and the person who was the target of deadly force (excluding personally identifiable information), the alleged criminal activity of such person, when and where the deadly force occurred, the nature of the deadly force used, the law enforcement agency's explanation of why deadly force was used, any deadly force guidelines of the law enforcement agency in effect at the time, and any non-lethal efforts employed to apprehend or subdue the person before deadly force was used; a standardized form be made available to law enforcement agencies for the submission of data collected to the Department of Justice Bureau of Justice Statistics; and law enforcement agencies to maintain all data collected for not less than four years. Requires the Bureau to provide the data to Congress and make it available to the public. Restricts the disclosure of the name or identifying information of a law enforcement officer, a person who was the target of deadly force, or any other individual involved in any activity for which such data is collected.
+
+Directs the Attorney General to reduce by 10% the amount that would otherwise be awarded under the Edward Byrne Memorial Justice Assistance Grant Program to a state or local government that fails to comply with the requirements of this Act.</summary>
+</bill>

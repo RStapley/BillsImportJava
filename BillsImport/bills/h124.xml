@@ -1,0 +1,32 @@
+<bill session="114" type="h" number="124" updated="2015-02-12T04:46:17-05:00">
+  <state datetime="2015-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-06"/>
+  </status>
+  <introduced datetime="2015-01-06"/>
+  <titles>
+    <title type="official" as="introduced">To redesignate the Department of the Navy as the Department of the Navy and Marine Corps.</title>
+  </titles>
+  <sponsor id="400209"/>
+  <cosponsors>
+    <cosponsor id="412571" joined="2015-02-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-06" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Department of Defense"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Military command and structure"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/2015--Introduced.
+Redesignates: (1) the Department of the Navy as the Department of the Navy and Marine Corps, and (2) the Secretary of the Navy as the Secretary of the Navy and Marine Corps. Makes similar redesignations with respect to the Department Under Secretary, the Department Assistant Secretaries, and the General Counsel.</summary>
+</bill>

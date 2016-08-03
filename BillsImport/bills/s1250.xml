@@ -1,0 +1,56 @@
+<bill session="114" type="s" number="1250" updated="2015-07-08T04:49:57-04:00">
+  <state datetime="2015-06-25">REPORTED</state>
+  <status>
+    <unknown datetime="2015-06-25"/>
+  </status>
+  <introduced datetime="2015-05-07"/>
+  <titles>
+    <title type="short" as="introduced">Nicholas and Zachary Burt Memorial Carbon Monoxide Poisoning Prevention Act of 2015</title>
+    <title type="official" as="introduced">A bill to encourage States to require the installation of residential carbon monoxide detectors in homes, and for other purposes.</title>
+  </titles>
+  <sponsor id="412242"/>
+  <cosponsors>
+    <cosponsor id="412490" joined="2015-06-25"/>
+    <cosponsor id="412246" joined="2015-05-07"/>
+    <cosponsor id="412378" joined="2015-06-01"/>
+    <cosponsor id="400272" joined="2015-07-07"/>
+    <cosponsor id="300087" joined="2015-05-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-07" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+    <calendar datetime="2015-06-25" state="REPORTED">
+      <text>Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Air quality"/>
+    <term name="Child care and development"/>
+    <term name="Child safety and welfare"/>
+    <term name="Educational facilities and institutions"/>
+    <term name="Emergency communications systems"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Hazardous wastes and toxic substances"/>
+    <term name="Health facilities and institutions"/>
+    <term name="Housing for the elderly and disabled"/>
+    <term name="Housing industry and standards"/>
+    <term name="Low- and moderate-income housing"/>
+    <term name="Product safety and quality"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+  <summary>5/7/2015--Introduced.
+Nicholas and Zachary Burt Memorial Carbon Monoxide Poisoning Prevention Act of 2015 
+
+Directs the Consumer Product Safety Commission to establish a grant program to provide assistance to states that require compliant carbon monoxide alarms to be installed in dwelling units.
+
+Defines "compliant carbon monoxide alarm" as an alarm that complies with the American National Standard for Single and Multiple Station Carbon Monoxide Alarms as well as the American National Standard for Gas and Vapor Detectors and Sensors.
+
+Permits states receiving grants to use such funds to: (1) purchase and install such alarms in dwelling units of low-income families or elderly persons, childcare facilities, public schools, senior centers, or student dwelling units owned by public universities; (2) train state or local fire code enforcement officials regarding compliance and installation; and (3) educate the public about the risk of carbon monoxide poisoning.</summary>
+</bill>

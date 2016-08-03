@@ -1,0 +1,41 @@
+<bill session="114" type="h" number="1660" updated="2015-06-09T04:46:46-04:00">
+  <state datetime="2015-03-26">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-26"/>
+  </status>
+  <introduced datetime="2015-03-26"/>
+  <titles>
+    <title type="short" as="introduced">Federal Savings Association Charter Flexibility Act of 2015</title>
+    <title type="official" as="introduced">To amend the Home Owners' Loan Act to allow Federal savings associations to elect to operate as national banks, and for other purposes.</title>
+  </titles>
+  <sponsor id="412570"/>
+  <cosponsors>
+    <cosponsor id="412541" joined="2015-04-16"/>
+    <cosponsor id="412555" joined="2015-04-16"/>
+    <cosponsor id="412282" joined="2015-03-26"/>
+    <cosponsor id="412284" joined="2015-06-02"/>
+    <cosponsor id="412292" joined="2015-04-16"/>
+    <cosponsor id="412643" joined="2015-06-03"/>
+    <cosponsor id="412489" joined="2015-06-02"/>
+    <cosponsor id="412461" joined="2015-04-16"/>
+    <cosponsor id="412405" joined="2015-04-29"/>
+    <cosponsor id="412428" joined="2015-06-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-26" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+  </subjects>
+  <amendments/>
+  <summary>3/26/2015--Introduced.
+Federal Savings Association Charter Flexibility Act of 2015
+
+This bill amends The Home Owners' Loan Act to permit a federal savings association to elect to operate subject to supervision by the Comptroller of the Currency with the rights and duties of a national bank.</summary>
+</bill>

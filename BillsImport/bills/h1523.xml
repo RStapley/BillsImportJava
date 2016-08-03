@@ -1,0 +1,69 @@
+<bill session="114" type="h" number="1523" updated="2015-07-30T04:48:42-04:00">
+  <state datetime="2015-03-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-23"/>
+  </status>
+  <introduced datetime="2015-03-23"/>
+  <titles>
+    <title type="short" as="introduced">Community Bank Access to Capital Act of 2015</title>
+    <title type="official" as="introduced">To provide relief to community banks and promote their access to capital, and for other purposes.</title>
+  </titles>
+  <sponsor id="400145"/>
+  <cosponsors>
+    <cosponsor id="412630" joined="2015-07-07"/>
+    <cosponsor id="412469" joined="2015-06-16"/>
+    <cosponsor id="412627" joined="2015-04-13"/>
+    <cosponsor id="412531" joined="2015-07-15"/>
+    <cosponsor id="412555" joined="2015-07-07"/>
+    <cosponsor id="400116" joined="2015-07-07"/>
+    <cosponsor id="400646" joined="2015-04-29"/>
+    <cosponsor id="412422" joined="2015-05-13"/>
+    <cosponsor id="412540" joined="2015-07-07"/>
+    <cosponsor id="412474" joined="2015-07-07"/>
+    <cosponsor id="400313" joined="2015-07-07"/>
+    <cosponsor id="412393" joined="2015-07-15"/>
+    <cosponsor id="412411" joined="2015-07-07"/>
+    <cosponsor id="412417" joined="2015-07-29"/>
+    <cosponsor id="400363" joined="2015-06-04"/>
+    <cosponsor id="412648" joined="2015-07-07"/>
+    <cosponsor id="412461" joined="2015-04-23"/>
+    <cosponsor id="400406" joined="2015-04-29"/>
+    <cosponsor id="412405" joined="2015-04-29"/>
+    <cosponsor id="400627" joined="2015-04-23"/>
+    <cosponsor id="412640" joined="2015-04-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-23" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="927"/>
+    <bill relation="unknown" session="114" type="s" number="1816"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+  </subjects>
+  <amendments/>
+  <summary>3/23/2015--Introduced.
+Community Bank Access to Capital Act of 2015
+
+This bill directs the Board of Governors of the Federal Reserve System to increase the asset threshold under the Small Bank Holding Company Policy Statement on Assessment of Financial and Managerial Factors from less than $1 billion to less than $5 billion.
+
+The Comptroller of the Currency, the Board, and the Federal Deposit Insurance Corporation (FDIC) shall exempt community banks from regulations implementing the International Regulatory Framework for Banks (Basel III), and, as they determine appropriate, to adjust the related capital requirements.
+
+ A community bank is defined as one whose consolidated assets are $50 billion or less.
+
+The bill also exempts from the internal control attestation requirements of the Sarbanes-Oxley Act of 2002 both an insured depository institution and a depository institution holding company with consolidated assets of less than $1 billion.
+
+Savings and loan associations meeting specified asset and equity security holder criteria to security registration requirements.
+
+The Securities and Exchange Commission (SEC) is prohibited from adjusting under Regulation D the $1 million net worth threshold and $200,000 and $300,000 income thresholds that define a natural person as an accredited investor.
+
+The SEC is directed, on the other hand, to increase from 35 to 70 the number of purchasers of securities in transactions deemed not to involve a public offering and so are exempt from regulation under the Securities Exchange Act of 1933.
+
+The Securities Exchange Act of 1934 is amended to: (1) subject a savings and loan holding company to registration requirements for securities whose issuer has total assets exceeding $10 million and a class of non-exempt equity security held of record by 2,000 or more persons; and (2) apply the automatic termination of registration, and suspension of the duty to file supplementary and periodic information, to a savings and loan holding company whose securities are found to be held by less than 1,200 persons.</summary>
+</bill>

@@ -1,0 +1,74 @@
+<bill session="114" type="h" number="835" updated="2015-08-01T04:50:28-04:00">
+  <state datetime="2015-02-10">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-10"/>
+  </status>
+  <introduced datetime="2015-02-10"/>
+  <titles>
+    <title type="short" as="introduced">Family-Based Foster Care Services Act of 2015</title>
+    <title type="official" as="introduced">To amend title XIX of the Social Security Act to provide a standard definition of therapeutic foster care services in Medicaid.</title>
+  </titles>
+  <sponsor id="400103"/>
+  <cosponsors>
+    <cosponsor id="412404" joined="2015-02-10"/>
+    <cosponsor id="400616" joined="2015-02-10"/>
+    <cosponsor id="400062" joined="2015-03-19"/>
+    <cosponsor id="412470" joined="2015-05-12"/>
+    <cosponsor id="412236" joined="2015-03-19"/>
+    <cosponsor id="400077" joined="2015-02-10"/>
+    <cosponsor id="400080" joined="2015-03-23"/>
+    <cosponsor id="412555" joined="2015-03-19"/>
+    <cosponsor id="400101" joined="2015-06-02"/>
+    <cosponsor id="412457" joined="2015-05-22"/>
+    <cosponsor id="400170" joined="2015-03-03"/>
+    <cosponsor id="412546" joined="2015-07-14"/>
+    <cosponsor id="400230" joined="2015-03-04"/>
+    <cosponsor id="412209" joined="2015-05-12"/>
+    <cosponsor id="400663" joined="2015-04-20"/>
+    <cosponsor id="400259" joined="2015-06-23"/>
+    <cosponsor id="400262" joined="2015-06-01"/>
+    <cosponsor id="400263" joined="2015-04-29"/>
+    <cosponsor id="412189" joined="2015-06-04"/>
+    <cosponsor id="412568" joined="2015-06-10"/>
+    <cosponsor id="400285" joined="2015-02-24"/>
+    <cosponsor id="400290" joined="2015-07-31"/>
+    <cosponsor id="400295" joined="2015-03-04"/>
+    <cosponsor id="412307" joined="2015-07-21"/>
+    <cosponsor id="400333" joined="2015-04-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-10" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-02-13">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="919"/>
+    <bill relation="unknown" session="114" type="s" number="429"/>
+    <bill relation="unknown" session="114" type="s" number="473"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Adoption and foster care"/>
+    <term name="Child care and development"/>
+    <term name="Child health"/>
+    <term name="Disability and paralysis"/>
+    <term name="Medicaid"/>
+    <term name="Mental health"/>
+  </subjects>
+  <amendments/>
+  <summary>2/10/2015--Introduced.
+Family-Based Foster Care Services Act of 2015
+
+ Amends title XIX (Medicaid) of the Social Security Act to extend medical assistance coverage to therapeutic foster care services.
+
+Requires a qualified therapeutic foster care program to be state-licensed and provide:
+
+ foster care children under 21 with structured daily activities, including the development of age-appropriate social, communication and behavioral skills, trauma-informed and gender-responsive services, crisis intervention and crisis support services, medication monitoring, counseling, and case management; and biological parents, kinship caregivers, and foster care parents with specialized training and consultation in the management of children with mental illness, trauma, other emotional or behavioral disorders, medically fragile conditions, or developmental disabilities, the impact of trauma on child and caregiver, and specific additional training on the needs of each child provided such services.</summary>
+</bill>

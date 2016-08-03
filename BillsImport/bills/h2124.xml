@@ -1,0 +1,134 @@
+<bill session="114" type="h" number="2124" updated="2015-08-01T04:50:51-04:00">
+  <state datetime="2015-04-30">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-30"/>
+  </status>
+  <introduced datetime="2015-04-30"/>
+  <titles>
+    <title type="short" as="introduced">Resident Physician Shortage Reduction Act of 2015</title>
+    <title type="official" as="introduced">To amend title XVIII of the Social Security Act to provide for the distribution of additional residency positions, and for other purposes.</title>
+  </titles>
+  <sponsor id="400087"/>
+  <cosponsors>
+    <cosponsor id="412615" joined="2015-07-29"/>
+    <cosponsor id="412565" joined="2015-06-17"/>
+    <cosponsor id="400636" joined="2015-04-30"/>
+    <cosponsor id="400047" joined="2015-06-17"/>
+    <cosponsor id="412516" joined="2015-05-18"/>
+    <cosponsor id="412379" joined="2015-06-02"/>
+    <cosponsor id="412600" joined="2015-06-02"/>
+    <cosponsor id="400100" joined="2015-05-18"/>
+    <cosponsor id="400103" joined="2015-07-31"/>
+    <cosponsor id="400111" joined="2015-06-02"/>
+    <cosponsor id="412420" joined="2015-06-25"/>
+    <cosponsor id="412672" joined="2015-07-21"/>
+    <cosponsor id="400122" joined="2015-06-25"/>
+    <cosponsor id="412524" joined="2015-06-17"/>
+    <cosponsor id="412612" joined="2015-05-21"/>
+    <cosponsor id="412453" joined="2015-06-25"/>
+    <cosponsor id="400653" joined="2015-07-21"/>
+    <cosponsor id="412454" joined="2015-05-18"/>
+    <cosponsor id="400170" joined="2015-05-18"/>
+    <cosponsor id="412446" joined="2015-05-21"/>
+    <cosponsor id="400641" joined="2015-05-18"/>
+    <cosponsor id="412511" joined="2015-07-21"/>
+    <cosponsor id="400195" joined="2015-05-18"/>
+    <cosponsor id="412561" joined="2015-07-21"/>
+    <cosponsor id="412649" joined="2015-05-18"/>
+    <cosponsor id="400219" joined="2015-05-18"/>
+    <cosponsor id="400233" joined="2015-05-18"/>
+    <cosponsor id="412616" joined="2015-05-18"/>
+    <cosponsor id="400244" joined="2015-07-21"/>
+    <cosponsor id="412209" joined="2015-06-02"/>
+    <cosponsor id="400245" joined="2015-06-02"/>
+    <cosponsor id="412521" joined="2015-06-17"/>
+    <cosponsor id="400251" joined="2015-05-21"/>
+    <cosponsor id="412562" joined="2015-06-02"/>
+    <cosponsor id="400663" joined="2015-06-02"/>
+    <cosponsor id="400263" joined="2015-06-17"/>
+    <cosponsor id="412466" joined="2015-07-29"/>
+    <cosponsor id="412560" joined="2015-07-31"/>
+    <cosponsor id="408211" joined="2015-06-25"/>
+    <cosponsor id="412606" joined="2015-07-21"/>
+    <cosponsor id="400295" joined="2015-05-18"/>
+    <cosponsor id="412575" joined="2015-07-21"/>
+    <cosponsor id="412443" joined="2015-06-02"/>
+    <cosponsor id="400309" joined="2015-07-21"/>
+    <cosponsor id="412523" joined="2015-05-18"/>
+    <cosponsor id="400316" joined="2015-05-18"/>
+    <cosponsor id="412585" joined="2015-06-17"/>
+    <cosponsor id="400333" joined="2015-05-18"/>
+    <cosponsor id="412393" joined="2015-06-25"/>
+    <cosponsor id="412647" joined="2015-06-25"/>
+    <cosponsor id="412432" joined="2015-07-29"/>
+    <cosponsor id="412483" joined="2015-05-18"/>
+    <cosponsor id="400350" joined="2015-05-18"/>
+    <cosponsor id="400352" joined="2015-05-18"/>
+    <cosponsor id="400360" joined="2015-06-02"/>
+    <cosponsor id="400363" joined="2015-05-18"/>
+    <cosponsor id="412186" joined="2015-05-18"/>
+    <cosponsor id="400378" joined="2015-05-18"/>
+    <cosponsor id="412648" joined="2015-06-02"/>
+    <cosponsor id="412520" joined="2015-05-18"/>
+    <cosponsor id="400403" joined="2015-06-02"/>
+    <cosponsor id="412318" joined="2015-05-18"/>
+    <cosponsor id="412319" joined="2015-06-02"/>
+    <cosponsor id="412254" joined="2015-07-21"/>
+    <cosponsor id="412579" joined="2015-07-21"/>
+    <cosponsor id="412214" joined="2015-05-18"/>
+    <cosponsor id="412410" joined="2015-07-21"/>
+    <cosponsor id="412255" joined="2015-05-18"/>
+    <cosponsor id="412646" joined="2015-06-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-30" state="REFERRED">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-04-30">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-04-30">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-05-01">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1148"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Congressional oversight"/>
+    <term name="Government studies and investigations"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health personnel"/>
+    <term name="Hospital care"/>
+    <term name="Medical education"/>
+    <term name="Medicare"/>
+    <term name="Minority employment"/>
+    <term name="Minority health"/>
+  </subjects>
+  <amendments/>
+  <summary>4/30/2015--Introduced.
+Resident Physician Shortage Reduction Act of 2015
+
+ Amends title XVIII (Medicare) of the Social Security Act with respect to distribution of additional resident positions as they affect calculation of payments for direct graduate medical education costs.
+
+Directs the Secretary of Health and Human Services, for each of FY2017-FY2021 (and each succeeding fiscal year if additional residency positions are available to distribute), to increase the otherwise applicable resident limit for each qualifying hospital.
+
+Directs the Secretary to determine the total number of additional residency positions available for distribution, in accordance with guidelines for allocating 33% to hospitals already operating over the resident limit, and generally setting the aggregate number of increases in the resident limit to 3,000 in each year.
+
+Specifies the process for distributing positions.
+
+Declares that, for discharges occurring on or after July 1, 2017, the indirect teaching adjustment factor, with respect to additional payments for subsection (d) hospitals with indirect costs of medical education, insofar as those additional payments are attributable to resident positions distributed to a hospital according to such process, shall be computed in a specified manner with respect to those resident positions.
+
+(Generally, a subsection [d] hospital is an acute care hospital, particularly one that receives payments under Medicare's inpatient prospective payment system when providing covered inpatient services to eligible beneficiaries.) Directs the National Health Care Workforce Commission established under the Patient Protection and Affordable Care Act to study the physician workforce.
+
+Directs the Comptroller General to study strategies for increasing the diversity of the health profession workforce.</summary>
+</bill>

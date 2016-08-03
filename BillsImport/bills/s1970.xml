@@ -1,0 +1,26 @@
+<bill session="114" type="s" number="1970" updated="2015-08-14T12:47:39-04:00">
+  <state datetime="2015-08-05">REFERRED</state>
+  <status>
+    <introduced datetime="2015-08-05"/>
+  </status>
+  <introduced datetime="2015-08-05"/>
+  <titles>
+    <title type="short" as="introduced">Raising Enrollment with a Government Initiated System for Timely Electoral Registration (REGISTER) Act of 2015</title>
+    <title type="official" as="introduced">A bill to establish national procedures for automatic voter registration for elections for Federal Office.</title>
+  </titles>
+  <sponsor id="400357"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-08-05" state="REFERRED">
+      <text>Read twice and referred to the Committee on Rules and Administration.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSRA" name="Senate Rules and Administration" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+  </subjects>
+  <amendments/>
+</bill>

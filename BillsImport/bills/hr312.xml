@@ -1,0 +1,25 @@
+<bill session="114" type="hr" number="312" updated="2015-07-04T06:18:13-04:00">
+  <state datetime="2015-06-12">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-12"/>
+  </status>
+  <introduced datetime="2015-06-12"/>
+  <titles>
+    <title type="official" as="introduced">Supporting raising awareness and educating the public about upper limb and lower limb differences.</title>
+  </titles>
+  <sponsor id="400219"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-06-12" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <summary>6/12/2015--Introduced.
+Supports the designation of National Upper and Lower Limb Differences Month and Wear Orange Day. (Limb differences are medical conditions that result in limbs that are unequal in length.)</summary>
+</bill>

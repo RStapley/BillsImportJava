@@ -1,0 +1,30 @@
+<bill session="114" type="hc" number="6" updated="2015-01-17T06:20:27-05:00">
+  <state datetime="2015-01-09">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-09"/>
+  </status>
+  <introduced datetime="2015-01-09"/>
+  <titles>
+    <title type="official" as="introduced">Expressing the sense of Congress that the United States should provide, on an annual basis, an amount equal to at least one percent of United States gross domestic product (GDP) for nonmilitary foreign assistance programs.</title>
+  </titles>
+  <sponsor id="400237"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-01-09" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Foreign aid and international relief"/>
+  </subjects>
+  <amendments/>
+  <summary>1/9/2015--Introduced.
+Recognizes the importance of foreign assistance programs in promoting national security, demonstrating the American people's humanitarian spirit, and improving U.S. credibility in world affairs.
+
+Expresses support for providing at least 1% of U.S. gross domestic product (GDP) each year for nonmilitary foreign assistance.</summary>
+</bill>

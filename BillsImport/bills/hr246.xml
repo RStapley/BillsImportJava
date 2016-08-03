@@ -1,0 +1,85 @@
+<bill session="114" type="hr" number="246" updated="2015-06-13T06:17:40-04:00">
+  <state datetime="2015-05-01">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-01"/>
+  </status>
+  <introduced datetime="2015-05-01"/>
+  <titles>
+    <title type="official" as="introduced">Honoring the vital role of small business and the passion of entrepreneurs in the United States during "National Small Business Week", beginning on May 4, through May 8, 2015.</title>
+  </titles>
+  <sponsor id="412517"/>
+  <cosponsors>
+    <cosponsor id="412627" joined="2015-05-01"/>
+    <cosponsor id="412501" joined="2015-05-01"/>
+    <cosponsor id="400041" joined="2015-05-01"/>
+    <cosponsor id="400048" joined="2015-05-01"/>
+    <cosponsor id="412537" joined="2015-05-01"/>
+    <cosponsor id="412258" joined="2015-05-01"/>
+    <cosponsor id="412571" joined="2015-05-14"/>
+    <cosponsor id="412379" joined="2015-05-01"/>
+    <cosponsor id="412470" joined="2015-05-01"/>
+    <cosponsor id="412600" joined="2015-05-01"/>
+    <cosponsor id="412221" joined="2015-05-01"/>
+    <cosponsor id="400618" joined="2015-05-01"/>
+    <cosponsor id="400124" joined="2015-05-01"/>
+    <cosponsor id="412524" joined="2015-05-01"/>
+    <cosponsor id="412257" joined="2015-05-01"/>
+    <cosponsor id="412397" joined="2015-05-01"/>
+    <cosponsor id="400653" joined="2015-05-01"/>
+    <cosponsor id="400179" joined="2015-05-01"/>
+    <cosponsor id="400199" joined="2015-05-01"/>
+    <cosponsor id="412465" joined="2015-05-01"/>
+    <cosponsor id="412510" joined="2015-05-01"/>
+    <cosponsor id="400232" joined="2015-05-01"/>
+    <cosponsor id="412558" joined="2015-05-01"/>
+    <cosponsor id="400663" joined="2015-05-01"/>
+    <cosponsor id="400259" joined="2015-05-01"/>
+    <cosponsor id="400263" joined="2015-05-13"/>
+    <cosponsor id="400271" joined="2015-05-01"/>
+    <cosponsor id="412527" joined="2015-05-01"/>
+    <cosponsor id="400295" joined="2015-05-01"/>
+    <cosponsor id="412307" joined="2015-06-08"/>
+    <cosponsor id="412585" joined="2015-05-01"/>
+    <cosponsor id="412519" joined="2015-05-01"/>
+    <cosponsor id="400350" joined="2015-05-01"/>
+    <cosponsor id="400606" joined="2015-05-01"/>
+    <cosponsor id="400376" joined="2015-05-01"/>
+    <cosponsor id="412509" joined="2015-05-01"/>
+    <cosponsor id="412514" joined="2015-05-01"/>
+    <cosponsor id="412520" joined="2015-05-01"/>
+    <cosponsor id="412405" joined="2015-05-01"/>
+    <cosponsor id="412318" joined="2015-05-01"/>
+    <cosponsor id="412617" joined="2015-05-01"/>
+    <cosponsor id="412522" joined="2015-05-01"/>
+    <cosponsor id="412579" joined="2015-05-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-01" state="REFERRED">
+      <text>Referred to the House Committee on Small Business.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSM" name="House Small Business" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="sr" number="172"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="Economic performance and conditions"/>
+    <term name="Small Business Administration"/>
+    <term name="Small business"/>
+  </subjects>
+  <amendments/>
+  <summary>5/1/2015--Introduced.
+Supports: (1) the designation of National Small Business Week, (2) efforts to encourage consumers to shop locally, and (3) efforts to increase awareness of the value of locally owned small businesses and the impact of locally owned small business on the U.S. economy.
+
+Honors the vital role of small business and entrepreneurs in the United States during such week.
+
+Recognizes: (1) the important role of the Small Business Administration as a valuable resource for the U.S. entrepreneur, (2) the importance of creating policies that promote a business friendly environment for small business owners free of unnecessary regulations, and (3) the National Small Business Person of the Year and the National Lender of the Year.
+
+Encourages young entrepreneurs to pursue their passions and create more start-up businesses.</summary>
+</bill>

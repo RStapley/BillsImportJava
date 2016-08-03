@@ -1,0 +1,41 @@
+<bill session="114" type="s" number="1240" updated="2015-08-08T04:47:39-04:00">
+  <state datetime="2015-07-30">REPORTED</state>
+  <status>
+    <unknown datetime="2015-07-30"/>
+  </status>
+  <introduced datetime="2015-05-07"/>
+  <titles>
+    <title type="short" as="introduced">Cerros del Norte Conservation Act</title>
+    <title type="official" as="introduced">A bill to designate the Cerro del Yuta and Rio San Antonio Wilderness Areas in the State of New Mexico, and for other purposes.</title>
+  </titles>
+  <sponsor id="412281"/>
+  <cosponsors>
+    <cosponsor id="400413" joined="2015-05-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-07" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2015-05-21">
+      <text>Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held.</text>
+    </action>
+    <calendar datetime="2015-07-30" state="REPORTED">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported with amendments favorably.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup"/>
+    <committee activity="Hearings" code="SSEG03" subcommittee="Public Lands, Forests, and Mining" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="New Mexico"/>
+    <term name="Wilderness and natural areas, wildlife refuges, wild rivers, habitats"/>
+  </subjects>
+  <amendments/>
+  <summary>5/7/2015--Introduced.
+Cerros del Norte Conservation Act Designates the Cerro del Yuta Wilderness (comprising approximately 13,420 acres) and Rio San Antonio Wilderness (comprising approximately 8,000 acres) within the Rio Grande del Norte National Monument in New Mexico as wilderness and as components of the National Wilderness Preservation System. Releases specified public land within the San Antonio Wilderness Study Area not designated as wilderness by this Act from further study for such a designation.
+
+Requires the wilderness areas to be administered as components of the National Landscape Conservation System.</summary>
+</bill>

@@ -1,0 +1,29 @@
+<bill session="114" type="h" number="3424" updated="2015-08-15T06:48:01-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">Moving to Work Reform Act of 2015</title>
+    <title type="official" as="introduced">To provide for extension of agreements between the Secretary of Housing and Urban Development and public housing agencies participating in the Moving to Work Demonstration Program, and for other purposes.</title>
+  </titles>
+  <sponsor id="400422"/>
+  <cosponsors>
+    <cosponsor id="400416" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Housing and community development"/>
+    <term name="Congress"/>
+  </subjects>
+  <amendments/>
+</bill>

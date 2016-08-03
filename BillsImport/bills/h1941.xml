@@ -1,0 +1,127 @@
+<bill session="114" type="h" number="1941" updated="2015-07-31T04:47:14-04:00">
+  <state datetime="2015-07-29">REPORTED</state>
+  <status>
+    <unknown datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-04-22"/>
+  <titles>
+    <title type="short" as="introduced">Financial Institutions Examination Fairness and Reform Act</title>
+    <title type="official" as="introduced">To improve the examination of depository institutions, and for other purposes.</title>
+  </titles>
+  <sponsor id="400627"/>
+  <cosponsors>
+    <cosponsor id="412541" joined="2015-04-22"/>
+    <cosponsor id="412478" joined="2015-06-01"/>
+    <cosponsor id="412627" joined="2015-05-01"/>
+    <cosponsor id="412605" joined="2015-05-15"/>
+    <cosponsor id="412537" joined="2015-05-15"/>
+    <cosponsor id="412271" joined="2015-04-22"/>
+    <cosponsor id="400081" joined="2015-04-22"/>
+    <cosponsor id="412505" joined="2015-05-15"/>
+    <cosponsor id="412477" joined="2015-04-22"/>
+    <cosponsor id="412488" joined="2015-04-22"/>
+    <cosponsor id="412472" joined="2015-04-22"/>
+    <cosponsor id="400116" joined="2015-05-15"/>
+    <cosponsor id="412479" joined="2015-04-22"/>
+    <cosponsor id="400646" joined="2015-04-22"/>
+    <cosponsor id="412476" joined="2015-04-22"/>
+    <cosponsor id="400145" joined="2015-04-22"/>
+    <cosponsor id="412397" joined="2015-04-22"/>
+    <cosponsor id="412620" joined="2015-06-11"/>
+    <cosponsor id="412584" joined="2015-04-22"/>
+    <cosponsor id="412609" joined="2015-04-22"/>
+    <cosponsor id="412437" joined="2015-06-10"/>
+    <cosponsor id="412422" joined="2015-07-29"/>
+    <cosponsor id="412484" joined="2015-04-22"/>
+    <cosponsor id="412284" joined="2015-06-01"/>
+    <cosponsor id="412603" joined="2015-06-01"/>
+    <cosponsor id="412583" joined="2015-05-01"/>
+    <cosponsor id="400219" joined="2015-04-22"/>
+    <cosponsor id="400224" joined="2015-06-11"/>
+    <cosponsor id="412209" joined="2015-06-23"/>
+    <cosponsor id="412656" joined="2015-04-22"/>
+    <cosponsor id="400247" joined="2015-04-22"/>
+    <cosponsor id="412292" joined="2015-05-15"/>
+    <cosponsor id="412294" joined="2015-05-01"/>
+    <cosponsor id="400251" joined="2015-04-22"/>
+    <cosponsor id="400644" joined="2015-04-22"/>
+    <cosponsor id="412540" joined="2015-04-22"/>
+    <cosponsor id="400279" joined="2015-07-22"/>
+    <cosponsor id="400661" joined="2015-06-10"/>
+    <cosponsor id="412474" joined="2015-04-22"/>
+    <cosponsor id="412527" joined="2015-04-22"/>
+    <cosponsor id="412409" joined="2015-06-01"/>
+    <cosponsor id="412302" joined="2015-05-01"/>
+    <cosponsor id="412551" joined="2015-04-22"/>
+    <cosponsor id="412633" joined="2015-05-01"/>
+    <cosponsor id="412309" joined="2015-04-22"/>
+    <cosponsor id="412570" joined="2015-06-01"/>
+    <cosponsor id="400348" joined="2015-06-10"/>
+    <cosponsor id="400363" joined="2015-04-22"/>
+    <cosponsor id="412581" joined="2015-07-22"/>
+    <cosponsor id="412461" joined="2015-04-22"/>
+    <cosponsor id="412405" joined="2015-04-22"/>
+    <cosponsor id="412548" joined="2015-04-22"/>
+    <cosponsor id="412578" joined="2015-04-22"/>
+    <cosponsor id="412416" joined="2015-06-10"/>
+    <cosponsor id="412525" joined="2015-06-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-22" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2015-07-28">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-07-29" state="REPORTED">
+      <text>Ordered to be Reported by the Yeas and Nays: 45 - 13.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="774"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Administrative remedies"/>
+    <term name="Bank accounts, deposits, capital"/>
+    <term name="Banking and financial institutions regulation"/>
+    <term name="Consumer Financial Protection Bureau"/>
+    <term name="Department of the Treasury"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Federal Deposit Insurance Corporation (FDIC)"/>
+    <term name="Federal Reserve System"/>
+    <term name="Judicial review and appeals"/>
+    <term name="National Credit Union Administration"/>
+  </subjects>
+  <amendments/>
+  <summary>4/22/2015--Introduced.
+Financial Institutions Examination Fairness and Reform Act 
+
+Amends the Federal Financial Institutions Examination Council Act of 1978 to require a federal financial institutions regulatory agency to make a final examination report to a financial institution within 60 days after the later of: (1) the exit interview for an examination of the institution, or (2) the provision of additional information by the institution relating to the examination.
+
+Sets a deadline for the exit interview if a financial institution is not subject to a resident examiner program.
+
+Prescribes examination standards for financial institutions that:
+
+ prescribe requirements and prohibitions for the treatment of certain commercial loans, prohibit a federal financial institution regulatory agency from requiring a well-capitalized financial institution to raise additional capital in lieu of certain actions prohibited with respect to such commercial loans, and require federal financial institutions regulatory agencies to develop and apply identical definitions and reporting requirements for non-accrual loans. Establishes in the Federal Financial Institutions Examination Council (Council) the Office of Independent Examination Review, headed by a Director appointed by the Council, but independent from any member agency of the Council.
+
+Entitles a financial institution to appeal a material supervisory determination contained in a final report of examination.
+
+Requires the Director to determine the merits of the appeal either on the record, or, at the election of the financial institution, refer the appeal to an administrative law judge.
+
+Declares the decision by the Director on an appeal to: (1) be the final agency action, and (2) bind the agency whose supervisory determination was the subject of the appeal and the financial institution making the appeal.
+
+Grants a financial institution the right to petition for judicial review of the Director's decision.
+
+Prohibits a federal financial institutions regulatory agency from:
+
+ retaliating against a financial institution, including service providers, or any institution-affiliated party, for exercising appellate rights under this Act; or delaying or denying any agency action that would benefit a financial institution or any institution-affiliated party on the basis that an appeal under this Act is pending. Amends the Riegle Community Development and Regulatory Improvement Act of 1994 to require:
+
+ the Consumer Financial Protection Bureau to establish an independent intra-agency appellate process in connection with the regulatory appeals process, and safeguards to protect an insured depository institution or insured credit union from retaliation by any federal banking agency for exercising its rights.</summary>
+</bill>

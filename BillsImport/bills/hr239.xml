@@ -1,0 +1,42 @@
+<bill session="114" type="hr" number="239" updated="2015-06-03T04:46:35-04:00">
+  <state datetime="2015-04-30">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-30"/>
+  </status>
+  <introduced datetime="2015-04-30"/>
+  <titles>
+    <title type="official" as="introduced">Expressing the sense of the House of Representatives with respect to childhood stroke and recognizing May 2015 as "National Pediatric Stroke Awareness Month".</title>
+  </titles>
+  <sponsor id="412282"/>
+  <cosponsors>
+    <cosponsor id="400170" joined="2015-04-30"/>
+    <cosponsor id="400333" joined="2015-04-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-30" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-05-01">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="sr" number="156"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Child health"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Medical research"/>
+    <term name="Neurological disorders"/>
+  </subjects>
+  <amendments/>
+  <summary>4/30/2015--Introduced.
+Recognizes National Pediatric Stroke Awareness Month.
+
+Supports the work of the National Institutes of Health in pursuit of medical progress on pediatric stroke.</summary>
+</bill>

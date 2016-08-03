@@ -1,0 +1,100 @@
+<bill session="114" type="h" number="2694" updated="2015-07-22T04:59:45-04:00">
+  <state datetime="2015-06-09">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-09"/>
+  </status>
+  <introduced datetime="2015-06-09"/>
+  <titles>
+    <title type="short" as="introduced">Automatic Voter Registration Act</title>
+    <title type="official" as="introduced">To amend the National Voter Registration Act of 1993 to require each State to ensure that each individual who provides identifying information to the State motor vehicle authority is automatically registered to vote in elections for Federal office held in the State unless the individual does not meet the eligibility requirements for registering to vote in such elections or declines to be registered to vote in such elections, and for other purposes.</title>
+  </titles>
+  <sponsor id="412470"/>
+  <cosponsors>
+    <cosponsor id="412404" joined="2015-06-09"/>
+    <cosponsor id="412657" joined="2015-06-16"/>
+    <cosponsor id="400033" joined="2015-06-09"/>
+    <cosponsor id="412501" joined="2015-06-09"/>
+    <cosponsor id="412516" joined="2015-06-09"/>
+    <cosponsor id="412537" joined="2015-06-09"/>
+    <cosponsor id="400616" joined="2015-06-17"/>
+    <cosponsor id="400062" joined="2015-06-09"/>
+    <cosponsor id="412195" joined="2015-06-09"/>
+    <cosponsor id="412221" joined="2015-06-09"/>
+    <cosponsor id="412236" joined="2015-06-09"/>
+    <cosponsor id="412272" joined="2015-06-09"/>
+    <cosponsor id="400080" joined="2015-06-16"/>
+    <cosponsor id="412193" joined="2015-06-09"/>
+    <cosponsor id="400087" joined="2015-07-15"/>
+    <cosponsor id="400097" joined="2015-06-17"/>
+    <cosponsor id="400103" joined="2015-06-09"/>
+    <cosponsor id="412385" joined="2015-06-09"/>
+    <cosponsor id="400111" joined="2015-06-16"/>
+    <cosponsor id="412215" joined="2015-06-09"/>
+    <cosponsor id="400124" joined="2015-06-16"/>
+    <cosponsor id="400129" joined="2015-06-11"/>
+    <cosponsor id="412529" joined="2015-06-09"/>
+    <cosponsor id="412327" joined="2015-07-21"/>
+    <cosponsor id="412612" joined="2015-06-11"/>
+    <cosponsor id="412382" joined="2015-06-09"/>
+    <cosponsor id="412276" joined="2015-06-16"/>
+    <cosponsor id="412498" joined="2015-06-09"/>
+    <cosponsor id="400641" joined="2015-06-16"/>
+    <cosponsor id="400185" joined="2015-06-16"/>
+    <cosponsor id="400195" joined="2015-06-09"/>
+    <cosponsor id="400199" joined="2015-06-09"/>
+    <cosponsor id="412561" joined="2015-06-09"/>
+    <cosponsor id="400211" joined="2015-06-09"/>
+    <cosponsor id="412557" joined="2015-06-09"/>
+    <cosponsor id="400230" joined="2015-06-09"/>
+    <cosponsor id="412638" joined="2015-06-11"/>
+    <cosponsor id="400237" joined="2015-06-09"/>
+    <cosponsor id="400240" joined="2015-06-09"/>
+    <cosponsor id="412616" joined="2015-06-12"/>
+    <cosponsor id="412521" joined="2015-06-16"/>
+    <cosponsor id="412558" joined="2015-07-15"/>
+    <cosponsor id="400251" joined="2015-06-16"/>
+    <cosponsor id="400263" joined="2015-06-09"/>
+    <cosponsor id="412189" joined="2015-06-09"/>
+    <cosponsor id="400271" joined="2015-06-09"/>
+    <cosponsor id="412560" joined="2015-06-09"/>
+    <cosponsor id="400661" joined="2015-06-09"/>
+    <cosponsor id="400291" joined="2015-06-16"/>
+    <cosponsor id="400308" joined="2015-06-09"/>
+    <cosponsor id="412308" joined="2015-06-16"/>
+    <cosponsor id="412331" joined="2015-06-16"/>
+    <cosponsor id="400333" joined="2015-06-09"/>
+    <cosponsor id="400352" joined="2015-07-15"/>
+    <cosponsor id="400364" joined="2015-06-09"/>
+    <cosponsor id="412396" joined="2015-06-09"/>
+    <cosponsor id="412514" joined="2015-06-09"/>
+    <cosponsor id="412520" joined="2015-06-09"/>
+    <cosponsor id="400403" joined="2015-06-16"/>
+    <cosponsor id="412319" joined="2015-06-09"/>
+    <cosponsor id="412254" joined="2015-06-09"/>
+    <cosponsor id="400415" joined="2015-06-09"/>
+    <cosponsor id="400623" joined="2015-06-09"/>
+    <cosponsor id="412644" joined="2015-06-09"/>
+    <cosponsor id="412412" joined="2015-06-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-09" state="REFERRED">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+  </subjects>
+  <amendments/>
+  <summary>6/9/2015--Introduced.
+Automatic Voter Registration Act
+
+This bill amends the National Voter Registration Act of 1993 to require state motor vehicle authorities (MVAs), upon receiving certain identifying information with respect to any individual requesting MVA services, to transmit it to the appropriate state election official.
+
+The appropriate state election official shall then notify the individual that unless he or she notifies the official, before 21 calendar days elapse after issuance of the notification, that the individual declines to be registered to vote in federal elections in the state, the individual shall be considered to have submitted a completed voter registration application and be considered automatically registered unless:
+
+ the official determines that the individual does not meet voter registration eligibility requirements, or the individual is already registered to vote. A state may not use any identifying information regarding an individual's citizenship status for any purpose other than determining whether the individual is eligible to vote in federal elections.</summary>
+</bill>

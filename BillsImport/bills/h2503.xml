@@ -1,0 +1,35 @@
+<bill session="114" type="h" number="2503" updated="2015-06-20T06:39:26-04:00">
+  <state datetime="2015-05-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-21"/>
+  </status>
+  <introduced datetime="2015-05-21"/>
+  <titles>
+    <title type="short" as="introduced">Permanently Ending Receipt by Prisoners Act</title>
+    <title type="official" as="introduced">To amend title III of the Social Security Act to prevent the payment of unemployment benefits to incarcerated individuals.</title>
+  </titles>
+  <sponsor id="400660"/>
+  <cosponsors>
+    <cosponsor id="400636" joined="2015-05-21"/>
+    <cosponsor id="412462" joined="2015-05-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-21" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Labor and employment"/>
+  </subjects>
+  <amendments/>
+  <summary>5/21/2015--Introduced.
+Permanently Ending Receipt by Prisoners Act
+
+ Amends title III (Grants to States for Unemployment Compensation Administration) of the Social Security Act to require the state agency charged with administering a state's unemployment compensation law to seek from the Commissioner of Social Security, and through additional appropriate means, information necessary to carry out any provision of that law which renders ineligible for regular compensation, because he or she is unable to satisfy work requirements, any individual confined in a jail, prison, or other penal institution or correctional facility for conviction of a criminal offense.
+
+Directs the Department of Labor to notify any state whose unemployment compensation agency fails to comply substantially with such requirements that further payments (for unemployment benefits) will not be made to the state until there is no longer any such failure.</summary>
+</bill>

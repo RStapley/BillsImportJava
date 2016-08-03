@@ -1,0 +1,41 @@
+<bill session="114" type="h" number="3099" updated="2015-07-25T06:44:54-04:00">
+  <state datetime="2015-07-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-16"/>
+  </status>
+  <introduced datetime="2015-07-16"/>
+  <titles>
+    <title type="short" as="introduced">RAISE Family Caregivers Act</title>
+    <title type="short" as="introduced">Recognize, Assist, Include, Support, and Engage Family Caregivers Act of 2015</title>
+    <title type="official" as="introduced">To provide for the establishment and maintenance of a National Family Caregiving Strategy, and for other purposes.</title>
+  </titles>
+  <sponsor id="412280"/>
+  <cosponsors>
+    <cosponsor id="412478" joined="2015-07-16"/>
+    <cosponsor id="412195" joined="2015-07-16"/>
+    <cosponsor id="412558" joined="2015-07-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-16" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1719"/>
+  </relatedbills>
+  <subjects>
+    <term name="Families"/>
+  </subjects>
+  <amendments/>
+  <summary>7/16/2015--Introduced.
+Recognize, Assist, Include, Support, and Engage Family Caregivers Act of 2015 or the RAISE Family Caregivers Act
+
+This bill directs the Department of Health and Human Services (HHS) to develop, maintain, and periodically update a National Family Caregiving Strategy.
+
+ HHS shall convene a Family Caregiving Advisory Council to advise it on recognizing and supporting family caregivers.
+
+Federal departments and agencies must share with HHS any data they maintain that HHS needs to prepare the initial and updated Strategies.</summary>
+</bill>

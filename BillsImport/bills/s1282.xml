@@ -1,0 +1,33 @@
+<bill session="114" type="s" number="1282" updated="2015-08-08T07:02:27-04:00">
+  <state datetime="2015-05-11">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-11"/>
+  </status>
+  <introduced datetime="2015-05-11"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Energy Policy Act of 2005 to require the Secretary of Energy to consider the objective of improving the conversion, use, and storage of carbon dioxide produced from fossil fuels in carrying out research and development programs under that Act.</title>
+  </titles>
+  <sponsor id="412391"/>
+  <cosponsors>
+    <cosponsor id="412554" joined="2015-05-11"/>
+    <cosponsor id="412247" joined="2015-05-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-11" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2015-05-19">
+      <text>Committee on Energy and Natural Resources. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="3392"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+  </subjects>
+  <amendments/>
+</bill>

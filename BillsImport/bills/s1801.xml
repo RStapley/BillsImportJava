@@ -1,0 +1,28 @@
+<bill session="114" type="s" number="1801" updated="2015-07-23T15:47:06-04:00">
+  <state datetime="2015-07-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-16"/>
+  </status>
+  <introduced datetime="2015-07-16"/>
+  <titles>
+    <title type="short" as="introduced">Agriculture Equipment and Machinery Depreciation Act</title>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to treat certain farming business machinery and equipment as 5-year property for purposes of depreciation.</title>
+  </titles>
+  <sponsor id="412242"/>
+  <cosponsors>
+    <cosponsor id="300087" joined="2015-07-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-16" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+</bill>

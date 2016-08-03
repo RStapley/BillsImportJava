@@ -1,0 +1,30 @@
+<bill session="114" type="h" number="1536" updated="2015-05-09T06:34:03-04:00">
+  <state datetime="2015-03-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-23"/>
+  </status>
+  <introduced datetime="2015-03-23"/>
+  <titles>
+    <title type="short" as="introduced">Innovation, Research, and Manufacturing Act</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to increase and make permanent the research credit.</title>
+  </titles>
+  <sponsor id="412516"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-03-23" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+  <summary>3/23/2015--Introduced.
+Innovation, Research, and Manufacturing Act
+
+Amends the Internal Revenue Code, with respect to the tax credit for increasing research activities, to: (1) increase such credit (from the sum of 20% of the excess of qualified research expenses for the taxable year over the base amount, 20% of the basic research payments, and 20% of the amounts paid by the taxpayer in carrying on any trade or business during the taxable year to an energy research consortium for energy research to the sum of 30% of each of those); (2) make such credit permanent; and (3) allow such credit to offset the employment taxes of an eligible small employer, as defined by the Small Business Act.</summary>
+</bill>

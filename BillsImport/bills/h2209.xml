@@ -1,0 +1,50 @@
+<bill session="114" type="h" number="2209" updated="2015-07-28T05:09:13-04:00">
+  <state datetime="2015-05-01">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-01"/>
+  </status>
+  <introduced datetime="2015-05-01"/>
+  <titles>
+    <title type="official" as="introduced">To require the appropriate Federal banking agencies to treat certain municipal obligations as level 2A liquid assets, and for other purposes.</title>
+  </titles>
+  <sponsor id="412540"/>
+  <cosponsors>
+    <cosponsor id="400063" joined="2015-05-01"/>
+    <cosponsor id="400639" joined="2015-05-01"/>
+    <cosponsor id="412422" joined="2015-05-01"/>
+    <cosponsor id="400219" joined="2015-05-01"/>
+    <cosponsor id="400251" joined="2015-05-01"/>
+    <cosponsor id="400661" joined="2015-05-01"/>
+    <cosponsor id="400441" joined="2015-05-01"/>
+    <cosponsor id="400295" joined="2015-07-27"/>
+    <cosponsor id="412633" joined="2015-07-22"/>
+    <cosponsor id="412396" joined="2015-05-01"/>
+    <cosponsor id="412509" joined="2015-06-12"/>
+    <cosponsor id="412461" joined="2015-05-01"/>
+    <cosponsor id="412579" joined="2015-07-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-01" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Banking and financial institutions regulation"/>
+    <term name="Department of the Treasury"/>
+    <term name="Federal Deposit Insurance Corporation (FDIC)"/>
+    <term name="Federal Reserve System"/>
+    <term name="Securities"/>
+    <term name="State and local finance"/>
+  </subjects>
+  <amendments/>
+  <summary>5/1/2015--Introduced.
+This bill amends the Federal Deposit Insurance Act with respect to the treatment of certain municipal obligations to direct the federal banking agencies to treat as a high-quality level 2A liquid asset any municipal obligation that is liquid, readily marketable, and investment grade as of the calculation date.
+
+The Federal Deposit Insurance Corporation, the Board of Governors of the Federal Reserve System, and the Comptroller of the Currency are directed to amend the rule titled "Liquidity Coverage Ratio: Liquidity Risk Measurement Standards; Final Rule" to implement this Act.</summary>
+</bill>

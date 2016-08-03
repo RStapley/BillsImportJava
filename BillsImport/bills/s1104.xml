@@ -1,0 +1,50 @@
+<bill session="114" type="s" number="1104" updated="2015-07-31T04:47:42-04:00">
+  <state datetime="2015-07-30">REPORTED</state>
+  <status>
+    <unknown datetime="2015-07-30"/>
+  </status>
+  <introduced datetime="2015-04-27"/>
+  <titles>
+    <title type="official" as="introduced">A bill to extend the deadline for commencement of construction of a hydroelectric project involving the Gibson Dam.</title>
+  </titles>
+  <sponsor id="412549"/>
+  <cosponsors>
+    <cosponsor id="412322" joined="2015-04-27"/>
+    <cosponsor id="412244" joined="2015-04-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-27">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S2433"/>
+    </action>
+    <action datetime="2015-04-27" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+      <reference ref="CR S2434" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2015-05-19">
+      <text>Committee on Energy and Natural Resources. Hearings held.</text>
+    </action>
+    <calendar datetime="2015-07-30" state="REPORTED">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Hearings, Markup"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="2081"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Alternative and renewable resources"/>
+    <term name="Electric power generation and transmission"/>
+    <term name="Licensing and registrations"/>
+    <term name="Montana"/>
+    <term name="Water storage"/>
+  </subjects>
+  <amendments/>
+  <summary>4/27/2015--Introduced.
+This bill authorizes the Federal Energy Regulatory Commission (FERC), upon the request of the licensee for the project numbered 12478-003 (Gibson Dam, Montana), to extend for six years the time period during which the licensee is required to commence construction.
+
+Commences such time period upon expiration of the previous extension issued by FERC before enactment of this Act.</summary>
+</bill>

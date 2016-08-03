@@ -1,0 +1,72 @@
+<bill session="114" type="h" number="887" updated="2015-08-01T06:26:45-04:00">
+  <state datetime="2015-02-26">REPORTED</state>
+  <status>
+    <unknown datetime="2015-02-26"/>
+  </status>
+  <introduced datetime="2015-02-11"/>
+  <titles>
+    <title type="short" as="introduced">Electronic Health Fairness Act of 2015</title>
+    <title type="short" as="reported to house">Electronic Health Fairness Act of 2015</title>
+    <title type="official" as="introduced">To amend title XVIII of the Social Security Act with respect to the treatment of patient encounters in ambulatory surgical centers in determining meaningful EHR use, and for other purposes.</title>
+  </titles>
+  <sponsor id="412478"/>
+  <cosponsors>
+    <cosponsor id="400032" joined="2015-06-18"/>
+    <cosponsor id="400033" joined="2015-02-25"/>
+    <cosponsor id="412196" joined="2015-02-11"/>
+    <cosponsor id="400052" joined="2015-02-25"/>
+    <cosponsor id="412280" joined="2015-03-17"/>
+    <cosponsor id="412465" joined="2015-03-17"/>
+    <cosponsor id="412523" joined="2015-04-21"/>
+    <cosponsor id="400333" joined="2015-02-25"/>
+    <cosponsor id="400355" joined="2015-02-11"/>
+    <cosponsor id="412399" joined="2015-03-03"/>
+    <cosponsor id="400363" joined="2015-02-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-11" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-02-11">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-02-11">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-02-13">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2015-02-26">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-02-26" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+    <action datetime="2015-03-13T11:46:00-04:00">
+      <text>Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-40, Part I.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="1347"/>
+    <bill relation="unknown" session="114" type="s" number="1347"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Health information and medical records"/>
+    <term name="Home and outpatient care"/>
+    <term name="Medicare"/>
+    <term name="Surgery and anesthesia"/>
+  </subjects>
+  <amendments/>
+  <summary>3/13/2015--Reported to House amended, Part I.
+Electronic Health Fairness Act of 2015 
+
+(Sec. 2) Amends title XVIII (Medicare) of the Social Security Act to prohibit for a payment year after 2015 any patient encounter of an eligible professional occurring at an ambulatory surgical center (ASC) from being treated as such a patient encounter in determining whether an eligible professional qualifies as a meaningful electronic health record (EHR) user.
+
+Terminates this prohibition three years after the Secretary of Health and Human Services determines, through notice and comment rulemaking, that certified EHR technology is applicable to the ASC setting.</summary>
+</bill>

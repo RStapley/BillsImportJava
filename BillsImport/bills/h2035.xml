@@ -1,0 +1,67 @@
+<bill session="114" type="h" number="2035" updated="2015-06-13T06:35:31-04:00">
+  <state datetime="2015-04-27">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-27"/>
+  </status>
+  <introduced datetime="2015-04-27"/>
+  <titles>
+    <title type="short" as="introduced">SCREEN Act of 2015</title>
+    <title type="short" as="introduced">Supporting Colorectal Examination and Education Now Act of 2015</title>
+    <title type="official" as="introduced">To amend titles XI and XVIII of the Social Security Act and title XXVII of the Public Health Service Act to improve coverage for colorectal screening tests under Medicare and private health insurance coverage, and for other purposes.</title>
+  </titles>
+  <sponsor id="400291"/>
+  <cosponsors>
+    <cosponsor id="400047" joined="2015-06-08"/>
+    <cosponsor id="400103" joined="2015-05-13"/>
+    <cosponsor id="400295" joined="2015-05-13"/>
+    <cosponsor id="412514" joined="2015-06-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-27" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-04-27">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-04-27">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-04-28">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E592"/>
+    </action>
+    <action datetime="2015-05-01">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="1079"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Cancer"/>
+    <term name="Digestive and metabolic diseases"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="Home and outpatient care"/>
+    <term name="Hospital care"/>
+    <term name="Infectious and parasitic diseases"/>
+    <term name="Medical tests and diagnostic methods"/>
+    <term name="Medicare"/>
+  </subjects>
+  <amendments/>
+  <summary>4/27/2015--Introduced.
+Supporting Colorectal Examination and Education Now Act of 2015 or the SCREEN Act of 2015
+
+This bill amends title XVIII (Medicare) of the Social Security Act (SSAct) to maintain calendar year 2015 Medicare reimbursement rates for colonoscopy procedures for providers participating in colorectal cancer screening quality improvement registry.
+
+Medicare beneficiary cost-sharing is eliminated for colorectal cancer screening tests, for the removal of tissue or other matter during the screening test, or for a follow-up procedure.
+
+The Center for Medicare and Medicaid Innovation shall test a payment and service delivery model that is a demonstration project to evaluate the effectiveness of a pre-operative visit before screening colonoscopy and hepatitis C screening.
+
+The Secretary of Health and Human Services must reduce the physician fee schedule conversion factor and the hospital outpatient department conversion factor to the extent necessary to reduce expenditures for related items and services to achieve budget-neutral results.</summary>
+</bill>

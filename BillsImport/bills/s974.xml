@@ -1,0 +1,46 @@
+<bill session="114" type="s" number="974" updated="2015-05-21T04:48:18-04:00">
+  <state datetime="2015-04-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-16"/>
+  </status>
+  <introduced datetime="2015-04-16"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Fair Labor Standards Act of 1938 to prohibit employment of children in tobacco-related agriculture by deeming such employment as oppressive child labor.</title>
+  </titles>
+  <sponsor id="300038"/>
+  <cosponsors>
+    <cosponsor id="412490" joined="2015-04-23"/>
+    <cosponsor id="400050" joined="2015-04-16"/>
+    <cosponsor id="300043" joined="2015-04-16"/>
+    <cosponsor id="412378" joined="2015-05-20"/>
+    <cosponsor id="400253" joined="2015-04-29"/>
+    <cosponsor id="300076" joined="2015-04-20"/>
+    <cosponsor id="300081" joined="2015-04-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-16">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S2246-2247"/>
+    </action>
+    <action datetime="2015-04-16" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <reference ref="CR S2247-2249" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="1848"/>
+  </relatedbills>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Labor standards"/>
+    <term name="Migrant, seasonal, agricultural labor"/>
+    <term name="Worker safety and health"/>
+    <term name="Youth employment and child labor"/>
+  </subjects>
+  <amendments/>
+  <summary>4/16/2015--Introduced.
+This bill amends the Fair Labor Standards Act of 1938 to redefine "oppressive child labor," for purposes of child labor prohibitions, to include the employment of any employee under age 18 who has direct contact with tobacco plants or dried tobacco leaves.</summary>
+</bill>

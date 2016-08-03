@@ -1,0 +1,36 @@
+<bill session="114" type="s" number="1650" updated="2015-08-08T07:05:33-04:00">
+  <state datetime="2015-06-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-23"/>
+  </status>
+  <introduced datetime="2015-06-23"/>
+  <titles>
+    <title type="short" as="introduced">Home Health Documentation and Program Improvement Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act to make changes to the Medicare home health face-to-face encounter requirements.</title>
+  </titles>
+  <sponsor id="400272"/>
+  <cosponsors>
+    <cosponsor id="300083" joined="2015-06-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-23" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+  <summary>6/23/2015--Introduced.
+Home Health Documentation and Program Improvement Act of 2015
+
+This bill amends title XVIII (Medicare) of the Social Security Act to direct the Department of Health and Human Services (HHS) to:
+
+ develop a single form or document to be used by a physician to satisfy the documentation requirements necessary to fulfill the requirement of a face-to-face encounter and other criteria for home health eligibility (otherwise known as the certification for home health services); and notify and provide guidance and education to Medicare administrative contractors, recovery audit contractors, and any other appropriate entity regarding application of the form or document to such documentation requirements. HHS shall also:
+
+ develop and implement processes to open and review claims denied on or after January 1, 2011, and before enactment of this Act, due solely to the face-to-face documentation requirements; issue revised decisions of such denials as if the requirements of related regulations did not apply at the time such services were furnished; and establish a voluntary process for home health agencies to enter into a settlement agreement with HHS in lieu of reprocessing claims whose payment this bill now requires.</summary>
+</bill>

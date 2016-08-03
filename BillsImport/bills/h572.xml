@@ -1,0 +1,72 @@
+<bill session="114" type="h" number="572" updated="2015-06-04T04:47:09-04:00">
+  <state datetime="2015-01-27">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-27"/>
+  </status>
+  <introduced datetime="2015-01-27"/>
+  <titles>
+    <title type="short" as="introduced">Veterans Access to Community Care Act of 2015</title>
+    <title type="official" as="introduced">To require the Secretary of Veterans Affairs to use existing authorities to furnish health care at non-Department of Veterans Affairs facilities to veterans who live more than 40 miles driving distance from the closest medical facility of the Department that furnishes the care sought by the veteran, and for other purposes.</title>
+  </titles>
+  <sponsor id="412568"/>
+  <cosponsors>
+    <cosponsor id="412500" joined="2015-06-02"/>
+    <cosponsor id="412541" joined="2015-02-11"/>
+    <cosponsor id="400077" joined="2015-02-10"/>
+    <cosponsor id="412555" joined="2015-03-26"/>
+    <cosponsor id="412505" joined="2015-02-27"/>
+    <cosponsor id="400162" joined="2015-02-27"/>
+    <cosponsor id="412484" joined="2015-06-03"/>
+    <cosponsor id="412256" joined="2015-02-24"/>
+    <cosponsor id="400247" joined="2015-02-11"/>
+    <cosponsor id="412293" joined="2015-05-13"/>
+    <cosponsor id="412562" joined="2015-05-14"/>
+    <cosponsor id="412611" joined="2015-04-13"/>
+    <cosponsor id="412560" joined="2015-03-16"/>
+    <cosponsor id="412660" joined="2015-02-24"/>
+    <cosponsor id="408211" joined="2015-02-05"/>
+    <cosponsor id="412302" joined="2015-05-19"/>
+    <cosponsor id="412523" joined="2015-05-14"/>
+    <cosponsor id="400316" joined="2015-02-27"/>
+    <cosponsor id="412307" joined="2015-03-23"/>
+    <cosponsor id="412659" joined="2015-03-17"/>
+    <cosponsor id="412633" joined="2015-03-23"/>
+    <cosponsor id="412308" joined="2015-05-13"/>
+    <cosponsor id="412664" joined="2015-05-13"/>
+    <cosponsor id="412489" joined="2015-02-27"/>
+    <cosponsor id="412483" joined="2015-02-27"/>
+    <cosponsor id="412581" joined="2015-02-13"/>
+    <cosponsor id="412317" joined="2015-02-13"/>
+    <cosponsor id="400403" joined="2015-03-03"/>
+    <cosponsor id="412430" joined="2015-02-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-27" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2015-02-06">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="577"/>
+    <bill relation="identical" session="114" type="s" number="207"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health facilities and institutions"/>
+    <term name="Home and outpatient care"/>
+    <term name="Hospital care"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>1/27/2015--Introduced.
+Veterans Access to Community Care Act of 2015
+
+Directs the Secretary of Veterans Affairs (VA) to use the Secretary's existing authority to furnish health care to veterans at non-VA facilities to provide health care at non-VA facilities to veterans who reside more than 40 miles driving distance from the closest VA medical facility providing the care they seek.</summary>
+</bill>

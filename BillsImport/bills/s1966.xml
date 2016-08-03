@@ -1,0 +1,30 @@
+<bill session="114" type="s" number="1966" updated="2015-08-13T09:46:17-04:00">
+  <state datetime="2015-08-05">REFERRED</state>
+  <status>
+    <introduced datetime="2015-08-05"/>
+  </status>
+  <introduced datetime="2015-08-05"/>
+  <titles>
+    <title type="short" as="introduced">Hunger Free Summer for Kids Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend the Richard B. Russell National School Lunch Act to require alternative options for program delivery.</title>
+  </titles>
+  <sponsor id="400040"/>
+  <cosponsors>
+    <cosponsor id="412330" joined="2015-08-05"/>
+    <cosponsor id="400050" joined="2015-08-05"/>
+    <cosponsor id="412205" joined="2015-08-05"/>
+    <cosponsor id="400222" joined="2015-08-05"/>
+    <cosponsor id="300072" joined="2015-08-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-08-05" state="REFERRED">
+      <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

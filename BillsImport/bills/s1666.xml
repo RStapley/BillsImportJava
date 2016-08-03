@@ -1,0 +1,29 @@
+<bill session="114" type="s" number="1666" updated="2015-07-18T07:02:06-04:00">
+  <state datetime="2015-06-24">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-24"/>
+  </status>
+  <introduced datetime="2015-06-24"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to increase the limitation on the election to accelerate the AMT credit in lieu of bonus depreciation for 2015 and 2016, and for other purposes.</title>
+  </titles>
+  <sponsor id="300093"/>
+  <cosponsors>
+    <cosponsor id="400034" joined="2015-06-24"/>
+    <cosponsor id="400050" joined="2015-06-24"/>
+    <cosponsor id="300083" joined="2015-06-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-24" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+</bill>

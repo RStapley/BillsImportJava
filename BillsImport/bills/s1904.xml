@@ -1,0 +1,28 @@
+<bill session="114" type="s" number="1904" updated="2015-08-15T07:07:45-04:00">
+  <state datetime="2015-07-30">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-30"/>
+  </status>
+  <introduced datetime="2015-07-30"/>
+  <titles>
+    <title type="short" as="introduced">Social Security 2100 Act</title>
+    <title type="official" as="introduced">A bill to protect our Social Security system and improve benefits for current and future generations.</title>
+  </titles>
+  <sponsor id="412490"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-30" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="1391"/>
+  </relatedbills>
+  <subjects>
+    <term name="Social welfare"/>
+  </subjects>
+  <amendments/>
+</bill>

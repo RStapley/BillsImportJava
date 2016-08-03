@@ -1,0 +1,109 @@
+<bill session="114" type="h" number="999" updated="2015-07-24T04:47:45-04:00">
+  <state datetime="2015-02-13">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-13"/>
+  </status>
+  <introduced datetime="2015-02-13"/>
+  <titles>
+    <title type="short" as="introduced">ROV In-Depth Examination Act</title>
+    <title type="official" as="introduced">To direct the Consumer Product Safety Commission and the National Academy of Sciences to study the vehicle handling requirements proposed by the Commission for recreational off-highway vehicles and to prohibit the adoption of any such requirements until the completion of the study.</title>
+  </titles>
+  <sponsor id="412431"/>
+  <cosponsors>
+    <cosponsor id="400004" joined="2015-04-21"/>
+    <cosponsor id="412625" joined="2015-03-26"/>
+    <cosponsor id="412500" joined="2015-02-13"/>
+    <cosponsor id="412655" joined="2015-05-14"/>
+    <cosponsor id="412436" joined="2015-02-13"/>
+    <cosponsor id="412250" joined="2015-03-04"/>
+    <cosponsor id="400029" joined="2015-02-27"/>
+    <cosponsor id="412478" joined="2015-06-04"/>
+    <cosponsor id="412395" joined="2015-02-27"/>
+    <cosponsor id="412539" joined="2015-05-19"/>
+    <cosponsor id="412604" joined="2015-03-04"/>
+    <cosponsor id="412563" joined="2015-03-18"/>
+    <cosponsor id="412400" joined="2015-04-13"/>
+    <cosponsor id="412488" joined="2015-02-13"/>
+    <cosponsor id="412639" joined="2015-03-18"/>
+    <cosponsor id="412480" joined="2015-05-12"/>
+    <cosponsor id="400137" joined="2015-04-17"/>
+    <cosponsor id="412453" joined="2015-07-23"/>
+    <cosponsor id="412397" joined="2015-04-13"/>
+    <cosponsor id="412278" joined="2015-02-27"/>
+    <cosponsor id="412454" joined="2015-03-18"/>
+    <cosponsor id="412645" joined="2015-04-28"/>
+    <cosponsor id="412280" joined="2015-02-13"/>
+    <cosponsor id="400175" joined="2015-03-18"/>
+    <cosponsor id="412486" joined="2015-02-27"/>
+    <cosponsor id="412550" joined="2015-04-23"/>
+    <cosponsor id="412460" joined="2015-06-11"/>
+    <cosponsor id="400209" joined="2015-02-27"/>
+    <cosponsor id="412226" joined="2015-03-26"/>
+    <cosponsor id="412566" joined="2015-05-18"/>
+    <cosponsor id="412465" joined="2015-03-26"/>
+    <cosponsor id="400220" joined="2015-02-13"/>
+    <cosponsor id="400224" joined="2015-02-13"/>
+    <cosponsor id="412660" joined="2015-04-13"/>
+    <cosponsor id="412475" joined="2015-02-13"/>
+    <cosponsor id="408211" joined="2015-02-27"/>
+    <cosponsor id="412409" joined="2015-07-23"/>
+    <cosponsor id="412302" joined="2015-02-13"/>
+    <cosponsor id="412443" joined="2015-06-17"/>
+    <cosponsor id="412303" joined="2015-02-13"/>
+    <cosponsor id="400316" joined="2015-02-13"/>
+    <cosponsor id="412489" joined="2015-02-27"/>
+    <cosponsor id="412572" joined="2015-04-17"/>
+    <cosponsor id="412394" joined="2015-02-27"/>
+    <cosponsor id="400606" joined="2015-02-27"/>
+    <cosponsor id="412417" joined="2015-06-10"/>
+    <cosponsor id="400376" joined="2015-02-13"/>
+    <cosponsor id="412217" joined="2015-04-21"/>
+    <cosponsor id="412581" joined="2015-02-13"/>
+    <cosponsor id="412461" joined="2015-02-13"/>
+    <cosponsor id="412405" joined="2015-04-17"/>
+    <cosponsor id="412515" joined="2015-07-10"/>
+    <cosponsor id="412522" joined="2015-04-28"/>
+    <cosponsor id="412213" joined="2015-03-26"/>
+    <cosponsor id="412214" joined="2015-03-18"/>
+    <cosponsor id="412610" joined="2015-03-04"/>
+    <cosponsor id="400627" joined="2015-04-13"/>
+    <cosponsor id="400431" joined="2015-03-04"/>
+    <cosponsor id="412402" joined="2015-02-27"/>
+    <cosponsor id="400440" joined="2015-02-27"/>
+    <cosponsor id="412640" joined="2015-02-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-13" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-02-20">
+      <text>Referred to the Subcommittee on Commerce, Manufacturing, and Trade.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF17" subcommittee="Commerce, Manufacturing, and Trade" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1040"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Consumer Product Safety Commission"/>
+    <term name="Government studies and investigations"/>
+    <term name="Motor vehicles"/>
+    <term name="Outdoor recreation"/>
+    <term name="Product safety and quality"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+  <summary>2/13/2015--Introduced.
+ROV In-Depth Examination Act
+
+The Consumer Product Safety Commission shall have no authority to: (1) establish recreational off-highway vehicle (ROV) performance or configuration standards until the study required by this Act is completed, or (2) require ROV manufacturers to provide performance and technical data to prospective purchasers and to the first purchaser of an ROV for purposes other than resale.
+
+The Commission shall contract with the National Academy of Sciences to determine:
+
+ the technical validity of the lateral stability and vehicle handling requirements proposed by the Commission for purposes of reducing the risk of ROV off-road rollovers, the number of ROV rollovers that would be prevented if the proposed requirements were adopted, whether there is a technical basis for the proposal to provide information on a point-of-sale hangtag about a vehicle's rollover resistance on a progressive scale, and the effect on the utility of ROVs used by the Armed Forces if the proposed requirements were adopted.</summary>
+</bill>

@@ -1,0 +1,34 @@
+<bill session="114" type="s" number="1685" updated="2015-08-01T07:06:19-04:00">
+  <state datetime="2015-06-25">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-25"/>
+  </status>
+  <introduced datetime="2015-06-25"/>
+  <titles>
+    <title type="short" as="introduced">Amateur Radio Parity Act of 2015</title>
+    <title type="official" as="introduced">A bill to direct the Federal Communications Commission to extend to private land use restrictions its rule relating to reasonable accommodation of amateur service communications.</title>
+  </titles>
+  <sponsor id="400432"/>
+  <cosponsors>
+    <cosponsor id="412490" joined="2015-06-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-25" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="1301"/>
+  </relatedbills>
+  <subjects>
+    <term name="Science, technology, communications"/>
+  </subjects>
+  <amendments/>
+  <summary>6/25/2015--Introduced.
+Amateur Radio Parity Act of 2015
+
+Directs the Federal Communications Commission to amend regulations concerning the height and dimensions of station antenna structures to prohibit a private land use restriction from applying to amateur service communications if the restriction precludes such communications, fails to accommodate such communications, or does not constitute the minimum practicable restriction to accomplish the legitimate purpose of the private entity seeking to enforce the restriction.</summary>
+</bill>

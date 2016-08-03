@@ -1,0 +1,61 @@
+<bill session="114" type="h" number="433" updated="2015-02-07T06:19:42-05:00">
+  <state datetime="2015-01-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-21"/>
+  </status>
+  <introduced datetime="2015-01-21"/>
+  <titles>
+    <title type="official" as="introduced">To designate the facility of the United States Postal Service located at 523 East Railroad Street in Knox, Pennsylvania, as the "Specialist Ross A. McGinnis Memorial Post Office".</title>
+  </titles>
+  <sponsor id="412317"/>
+  <cosponsors>
+    <cosponsor id="412630" joined="2015-01-21"/>
+    <cosponsor id="412469" joined="2015-01-21"/>
+    <cosponsor id="412627" joined="2015-01-21"/>
+    <cosponsor id="412652" joined="2015-01-21"/>
+    <cosponsor id="400047" joined="2015-01-21"/>
+    <cosponsor id="412571" joined="2015-01-21"/>
+    <cosponsor id="412651" joined="2015-01-21"/>
+    <cosponsor id="400648" joined="2015-01-21"/>
+    <cosponsor id="400114" joined="2015-01-21"/>
+    <cosponsor id="400130" joined="2015-01-21"/>
+    <cosponsor id="400646" joined="2015-01-21"/>
+    <cosponsor id="400142" joined="2015-01-21"/>
+    <cosponsor id="400651" joined="2015-01-21"/>
+    <cosponsor id="412465" joined="2015-01-21"/>
+    <cosponsor id="412419" joined="2015-01-21"/>
+    <cosponsor id="412643" joined="2015-01-21"/>
+    <cosponsor id="412468" joined="2015-01-21"/>
+    <cosponsor id="412466" joined="2015-01-21"/>
+    <cosponsor id="400285" joined="2015-01-21"/>
+    <cosponsor id="412569" joined="2015-01-21"/>
+    <cosponsor id="400320" joined="2015-01-21"/>
+    <cosponsor id="400652" joined="2015-01-21"/>
+    <cosponsor id="412570" joined="2015-01-21"/>
+    <cosponsor id="409888" joined="2015-01-21"/>
+    <cosponsor id="400376" joined="2015-01-21"/>
+    <cosponsor id="412214" joined="2015-01-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-21" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="231"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congressional tributes"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Pennsylvania"/>
+    <term name="Postal service"/>
+  </subjects>
+  <amendments/>
+  <summary>1/21/2015--Introduced.
+Designates the facility of the United States Postal Service located at 523 East Railroad Street in Knox, Pennsylvania, as the "Specialist Ross A. McGinnis Memorial Post Office."</summary>
+</bill>

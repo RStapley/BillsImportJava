@@ -1,0 +1,32 @@
+<bill session="114" type="s" number="1674" updated="2015-07-04T07:00:19-04:00">
+  <state datetime="2015-06-24">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-24"/>
+  </status>
+  <introduced datetime="2015-06-24"/>
+  <titles>
+    <title type="short" as="introduced">Long Island Sound Restoration and Stewardship Act</title>
+    <title type="official" as="introduced">A bill to amend and reauthorize certain provisions relating to Long Island Sound restoration and stewardship.</title>
+  </titles>
+  <sponsor id="412223"/>
+  <cosponsors>
+    <cosponsor id="412490" joined="2015-06-24"/>
+    <cosponsor id="412194" joined="2015-06-24"/>
+    <cosponsor id="300087" joined="2015-06-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-24" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="2930"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+  </subjects>
+  <amendments/>
+</bill>

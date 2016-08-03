@@ -1,0 +1,72 @@
+<bill session="114" type="h" number="2773" updated="2015-07-23T04:48:52-04:00">
+  <state datetime="2015-06-15">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-15"/>
+  </status>
+  <introduced datetime="2015-06-15"/>
+  <titles>
+    <title type="short" as="introduced">21st Century STEM for Girls and Underrepresented Minorities Act</title>
+    <title type="official" as="introduced">To amend the Elementary and Secondary Education Act of 1965 to provide grants to local educational agencies to encourage girls and underrepresented minorities to pursue studies and careers in science, mathematics, engineering, and technology.</title>
+  </titles>
+  <sponsor id="412565"/>
+  <cosponsors>
+    <cosponsor id="400048" joined="2015-06-15"/>
+    <cosponsor id="412537" joined="2015-06-15"/>
+    <cosponsor id="400616" joined="2015-06-15"/>
+    <cosponsor id="412195" joined="2015-06-15"/>
+    <cosponsor id="412379" joined="2015-06-16"/>
+    <cosponsor id="412470" joined="2015-06-15"/>
+    <cosponsor id="412221" joined="2015-06-15"/>
+    <cosponsor id="400080" joined="2015-06-15"/>
+    <cosponsor id="412263" joined="2015-07-07"/>
+    <cosponsor id="400124" joined="2015-06-23"/>
+    <cosponsor id="412524" joined="2015-06-15"/>
+    <cosponsor id="400162" joined="2015-06-15"/>
+    <cosponsor id="400179" joined="2015-06-15"/>
+    <cosponsor id="400185" joined="2015-06-15"/>
+    <cosponsor id="400199" joined="2015-06-15"/>
+    <cosponsor id="400211" joined="2015-07-07"/>
+    <cosponsor id="412286" joined="2015-06-15"/>
+    <cosponsor id="400237" joined="2015-06-15"/>
+    <cosponsor id="412562" joined="2015-06-15"/>
+    <cosponsor id="400663" joined="2015-06-23"/>
+    <cosponsor id="400259" joined="2015-06-15"/>
+    <cosponsor id="400271" joined="2015-06-15"/>
+    <cosponsor id="400290" joined="2015-07-07"/>
+    <cosponsor id="400295" joined="2015-06-15"/>
+    <cosponsor id="412659" joined="2015-06-15"/>
+    <cosponsor id="412308" joined="2015-07-07"/>
+    <cosponsor id="400333" joined="2015-06-15"/>
+    <cosponsor id="400363" joined="2015-06-15"/>
+    <cosponsor id="400402" joined="2015-06-15"/>
+    <cosponsor id="400403" joined="2015-06-15"/>
+    <cosponsor id="412318" joined="2015-07-22"/>
+    <cosponsor id="400415" joined="2015-06-15"/>
+    <cosponsor id="412644" joined="2015-06-15"/>
+    <cosponsor id="412412" joined="2015-06-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-15">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E895"/>
+    </action>
+    <action datetime="2015-06-15" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Education programs funding"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Family relationships"/>
+    <term name="Minority education"/>
+    <term name="Science and engineering education"/>
+    <term name="Teaching, teachers, curricula"/>
+    <term name="Women's education"/>
+  </subjects>
+  <amendments/>
+</bill>

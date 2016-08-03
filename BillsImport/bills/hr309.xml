@@ -1,0 +1,109 @@
+<bill session="114" type="hr" number="309" updated="2015-07-04T06:18:12-04:00">
+  <state datetime="2015-06-11">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-11"/>
+  </status>
+  <introduced datetime="2015-06-11"/>
+  <titles>
+    <title type="official" as="introduced">Recognizing June 19, 2015, as this year's observance of the historical significance of Juneteenth Independence Day.</title>
+  </titles>
+  <sponsor id="400199"/>
+  <cosponsors>
+    <cosponsor id="412607" joined="2015-06-11"/>
+    <cosponsor id="412565" joined="2015-06-11"/>
+    <cosponsor id="400030" joined="2015-06-11"/>
+    <cosponsor id="400033" joined="2015-06-11"/>
+    <cosponsor id="400636" joined="2015-06-11"/>
+    <cosponsor id="400048" joined="2015-06-11"/>
+    <cosponsor id="412516" joined="2015-06-11"/>
+    <cosponsor id="412537" joined="2015-06-11"/>
+    <cosponsor id="400616" joined="2015-06-11"/>
+    <cosponsor id="412221" joined="2015-06-11"/>
+    <cosponsor id="412604" joined="2015-06-11"/>
+    <cosponsor id="400639" joined="2015-06-11"/>
+    <cosponsor id="400075" joined="2015-06-11"/>
+    <cosponsor id="412236" joined="2015-06-11"/>
+    <cosponsor id="400080" joined="2015-06-11"/>
+    <cosponsor id="400657" joined="2015-06-11"/>
+    <cosponsor id="400090" joined="2015-06-11"/>
+    <cosponsor id="400093" joined="2015-06-11"/>
+    <cosponsor id="400103" joined="2015-06-11"/>
+    <cosponsor id="412613" joined="2015-06-11"/>
+    <cosponsor id="412385" joined="2015-06-11"/>
+    <cosponsor id="412637" joined="2015-06-11"/>
+    <cosponsor id="400111" joined="2015-06-11"/>
+    <cosponsor id="412533" joined="2015-06-11"/>
+    <cosponsor id="412263" joined="2015-06-11"/>
+    <cosponsor id="412215" joined="2015-06-11"/>
+    <cosponsor id="412327" joined="2015-06-11"/>
+    <cosponsor id="412612" joined="2015-06-11"/>
+    <cosponsor id="400653" joined="2015-06-11"/>
+    <cosponsor id="400160" joined="2015-06-11"/>
+    <cosponsor id="400163" joined="2015-06-11"/>
+    <cosponsor id="412498" joined="2015-06-11"/>
+    <cosponsor id="400170" joined="2015-06-11"/>
+    <cosponsor id="400179" joined="2015-06-11"/>
+    <cosponsor id="400185" joined="2015-06-11"/>
+    <cosponsor id="400189" joined="2015-06-11"/>
+    <cosponsor id="400195" joined="2015-06-11"/>
+    <cosponsor id="412561" joined="2015-06-11"/>
+    <cosponsor id="412199" joined="2015-06-11"/>
+    <cosponsor id="400209" joined="2015-06-11"/>
+    <cosponsor id="400211" joined="2015-06-11"/>
+    <cosponsor id="412595" joined="2015-06-11"/>
+    <cosponsor id="412543" joined="2015-06-11"/>
+    <cosponsor id="412546" joined="2015-06-11"/>
+    <cosponsor id="412638" joined="2015-06-11"/>
+    <cosponsor id="400238" joined="2015-06-11"/>
+    <cosponsor id="400240" joined="2015-06-11"/>
+    <cosponsor id="412616" joined="2015-06-11"/>
+    <cosponsor id="400245" joined="2015-06-11"/>
+    <cosponsor id="400246" joined="2015-06-11"/>
+    <cosponsor id="400263" joined="2015-06-11"/>
+    <cosponsor id="400271" joined="2015-06-11"/>
+    <cosponsor id="400661" joined="2015-06-11"/>
+    <cosponsor id="400289" joined="2015-06-11"/>
+    <cosponsor id="400291" joined="2015-06-11"/>
+    <cosponsor id="412575" joined="2015-06-11"/>
+    <cosponsor id="400308" joined="2015-06-11"/>
+    <cosponsor id="400314" joined="2015-06-11"/>
+    <cosponsor id="412585" joined="2015-06-11"/>
+    <cosponsor id="400326" joined="2015-06-11"/>
+    <cosponsor id="412432" joined="2015-06-11"/>
+    <cosponsor id="412483" joined="2015-06-11"/>
+    <cosponsor id="400341" joined="2015-06-11"/>
+    <cosponsor id="400350" joined="2015-06-11"/>
+    <cosponsor id="400360" joined="2015-06-11"/>
+    <cosponsor id="400363" joined="2015-06-11"/>
+    <cosponsor id="400364" joined="2015-06-11"/>
+    <cosponsor id="412396" joined="2015-06-11"/>
+    <cosponsor id="400402" joined="2015-06-11"/>
+    <cosponsor id="412522" joined="2015-06-11"/>
+    <cosponsor id="412579" joined="2015-06-11"/>
+    <cosponsor id="412580" joined="2015-06-11"/>
+    <cosponsor id="412214" joined="2015-06-11"/>
+    <cosponsor id="400422" joined="2015-06-11"/>
+    <cosponsor id="412574" joined="2015-06-11"/>
+    <cosponsor id="412239" joined="2015-06-11"/>
+    <cosponsor id="412412" joined="2015-06-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-11" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="hr" number="316"/>
+  </relatedbills>
+  <subjects>
+    <term name="Civil rights and liberties, minority issues"/>
+  </subjects>
+  <amendments/>
+  <summary>6/11/2015--Introduced.
+Recognizes the historical significance to the nation, and supports the continued celebration, of Juneteenth Independence Day.
+
+Declares the sense of the House of Representatives that: (1) history should be regarded as a means for understanding the past and solving the challenges of the future, and (2) the celebration of the end of slavery is an important and enriching part of the history and heritage of the United States.</summary>
+</bill>

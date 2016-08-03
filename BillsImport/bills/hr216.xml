@@ -1,0 +1,38 @@
+<bill session="114" type="hr" number="216" updated="2015-08-22T06:17:30-04:00">
+  <state datetime="2015-04-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-21"/>
+  </status>
+  <introduced datetime="2015-04-21"/>
+  <titles>
+    <title type="official" as="introduced">Expressing support for the designation of September 2015 as "National Campus Sexual Assault Awareness Month".</title>
+  </titles>
+  <sponsor id="400295"/>
+  <cosponsors>
+    <cosponsor id="412537" joined="2015-04-30"/>
+    <cosponsor id="412327" joined="2015-04-28"/>
+    <cosponsor id="412638" joined="2015-05-14"/>
+    <cosponsor id="400333" joined="2015-04-23"/>
+    <cosponsor id="412644" joined="2015-04-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-21" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Assault and harassment offenses"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Crimes against women"/>
+    <term name="Higher education"/>
+    <term name="Sex offenses"/>
+  </subjects>
+  <amendments/>
+  <summary>4/21/2015--Introduced.
+Expresses support for the designation of National Campus Sexual Assault Awareness Month.</summary>
+</bill>

@@ -1,0 +1,78 @@
+<bill session="114" type="hr" number="32" updated="2015-07-11T04:46:31-04:00">
+  <state datetime="2015-01-14">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-14"/>
+  </status>
+  <introduced datetime="2015-01-14"/>
+  <titles>
+    <title type="official" as="introduced">Expressing the sense of the House of Representatives that the Citizens' Stamp Advisory Committee, as an entity of the United States Postal Service, should issue a commemorative stamp in honor of the holiday of Diwali.</title>
+  </titles>
+  <sponsor id="400251"/>
+  <cosponsors>
+    <cosponsor id="412565" joined="2015-07-10"/>
+    <cosponsor id="412512" joined="2015-01-14"/>
+    <cosponsor id="412652" joined="2015-01-28"/>
+    <cosponsor id="400048" joined="2015-07-10"/>
+    <cosponsor id="400062" joined="2015-02-03"/>
+    <cosponsor id="400074" joined="2015-02-03"/>
+    <cosponsor id="400639" joined="2015-07-10"/>
+    <cosponsor id="412272" joined="2015-01-28"/>
+    <cosponsor id="400087" joined="2015-01-27"/>
+    <cosponsor id="412532" joined="2015-01-14"/>
+    <cosponsor id="412382" joined="2015-01-28"/>
+    <cosponsor id="400162" joined="2015-01-27"/>
+    <cosponsor id="412584" joined="2015-07-10"/>
+    <cosponsor id="412553" joined="2015-07-10"/>
+    <cosponsor id="400185" joined="2015-01-14"/>
+    <cosponsor id="400195" joined="2015-07-10"/>
+    <cosponsor id="412595" joined="2015-01-28"/>
+    <cosponsor id="412546" joined="2015-07-10"/>
+    <cosponsor id="400249" joined="2015-01-28"/>
+    <cosponsor id="400262" joined="2015-02-03"/>
+    <cosponsor id="412189" joined="2015-01-22"/>
+    <cosponsor id="400271" joined="2015-01-22"/>
+    <cosponsor id="412560" joined="2015-01-14"/>
+    <cosponsor id="400289" joined="2015-07-10"/>
+    <cosponsor id="408211" joined="2015-01-22"/>
+    <cosponsor id="400295" joined="2015-01-28"/>
+    <cosponsor id="412659" joined="2015-02-04"/>
+    <cosponsor id="400333" joined="2015-07-10"/>
+    <cosponsor id="400350" joined="2015-01-22"/>
+    <cosponsor id="400361" joined="2015-01-22"/>
+    <cosponsor id="412396" joined="2015-02-03"/>
+    <cosponsor id="400371" joined="2015-07-10"/>
+    <cosponsor id="400378" joined="2015-07-10"/>
+    <cosponsor id="400379" joined="2015-07-10"/>
+    <cosponsor id="412259" joined="2015-07-10"/>
+    <cosponsor id="412514" joined="2015-01-22"/>
+    <cosponsor id="412520" joined="2015-01-22"/>
+    <cosponsor id="412319" joined="2015-01-22"/>
+    <cosponsor id="400415" joined="2015-07-10"/>
+    <cosponsor id="412214" joined="2015-01-27"/>
+    <cosponsor id="412644" joined="2015-01-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-14">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E68"/>
+    </action>
+    <action datetime="2015-01-14" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="sr" number="113"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Postal service"/>
+    <term name="Religion"/>
+  </subjects>
+  <amendments/>
+  <summary>1/14/2015--Introduced.
+Expresses the sense of the House of Representatives that: (1) the United States Postal Service should issue a postage stamp honoring the holiday of Diwali, and (2) the Citizens' Stamp Advisory Committee should recommend to the Postmaster General that such a stamp be issued.</summary>
+</bill>

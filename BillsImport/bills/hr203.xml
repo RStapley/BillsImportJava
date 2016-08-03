@@ -1,0 +1,57 @@
+<bill session="114" type="hr" number="203" updated="2015-08-22T06:17:24-04:00">
+  <state datetime="2015-04-15">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-15"/>
+  </status>
+  <introduced datetime="2015-04-15"/>
+  <titles>
+    <title type="official" as="introduced">Expressing support for designation of June 2015 as "National Men's Cancer Awareness Month".</title>
+  </titles>
+  <sponsor id="400170"/>
+  <cosponsors>
+    <cosponsor id="412221" joined="2015-04-15"/>
+    <cosponsor id="412236" joined="2015-06-12"/>
+    <cosponsor id="400080" joined="2015-05-12"/>
+    <cosponsor id="412595" joined="2015-04-15"/>
+    <cosponsor id="412638" joined="2015-04-15"/>
+    <cosponsor id="400237" joined="2015-04-30"/>
+    <cosponsor id="400263" joined="2015-04-15"/>
+    <cosponsor id="400661" joined="2015-04-15"/>
+    <cosponsor id="412527" joined="2015-04-15"/>
+    <cosponsor id="412506" joined="2015-04-15"/>
+    <cosponsor id="400333" joined="2015-04-15"/>
+    <cosponsor id="400350" joined="2015-05-12"/>
+    <cosponsor id="400623" joined="2015-04-15"/>
+    <cosponsor id="412644" joined="2015-04-15"/>
+    <cosponsor id="412412" joined="2015-06-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-15">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E500"/>
+    </action>
+    <action datetime="2015-04-15" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-04-17">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Cancer"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="Medical research"/>
+  </subjects>
+  <amendments/>
+  <summary>4/15/2015--Introduced.
+Expresses support for the designation of Men's Cancer Awareness Month.
+
+Urges public and private sector efforts to promote awareness, invest in research, and improve treatments for cancers disproportionately affecting men.</summary>
+</bill>

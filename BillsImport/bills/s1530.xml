@@ -1,0 +1,28 @@
+<bill session="114" type="s" number="1530" updated="2015-06-12T12:53:17-04:00">
+  <state datetime="2015-06-09">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-09"/>
+  </status>
+  <introduced datetime="2015-06-09"/>
+  <titles>
+    <title type="short" as="introduced">Keeping Moving to Work Promises Act</title>
+    <title type="official" as="introduced">A bill to renew certain Moving to Work agreements for a period of 10 years.</title>
+  </titles>
+  <sponsor id="300073"/>
+  <cosponsors>
+    <cosponsor id="400064" joined="2015-06-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-09" state="REFERRED">
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Housing and community development"/>
+  </subjects>
+  <amendments/>
+</bill>

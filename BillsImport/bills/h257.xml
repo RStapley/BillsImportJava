@@ -1,0 +1,29 @@
+<bill session="114" type="h" number="257" updated="2015-02-07T06:18:14-05:00">
+  <state datetime="2015-01-09">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-09"/>
+  </status>
+  <introduced datetime="2015-01-09"/>
+  <titles>
+    <title type="official" as="introduced">To provide for United States participation in the Inter-Parliamentary Union, and for other purposes.</title>
+  </titles>
+  <sponsor id="400237"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-01-09" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="International organizations and cooperation"/>
+    <term name="Political movements and philosophies"/>
+  </subjects>
+  <amendments/>
+  <summary>1/9/2015--Introduced.
+Authorizes the Secretary of State to facilitate the U.S. readmission and participation in the Inter-Parliamentary Union, and to pay related annual membership expenses.</summary>
+</bill>

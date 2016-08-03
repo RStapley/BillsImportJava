@@ -1,0 +1,33 @@
+<bill session="114" type="s" number="1526" updated="2015-08-22T07:04:30-04:00">
+  <state datetime="2015-06-08">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-08"/>
+  </status>
+  <introduced datetime="2015-06-08"/>
+  <titles>
+    <title type="short" as="introduced">Construction Consensus Procurement Improvement Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend title 10 and title 41, United States Code, to improve the manner in which Federal contracts for construction and design services are awarded, to prohibit the use of reverse auctions for design and construction services procurements, to amend title 31 and 41, United States Code, to improve the payment protections available to construction contractors, subcontractors, and suppliers for work performed, and for other purposes.</title>
+  </titles>
+  <sponsor id="400325"/>
+  <cosponsors>
+    <cosponsor id="412493" joined="2015-07-08"/>
+    <cosponsor id="412200" joined="2015-06-08"/>
+    <cosponsor id="412323" joined="2015-08-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-08" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="838"/>
+    <bill relation="unknown" session="114" type="h" number="1666"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+  </subjects>
+  <amendments/>
+</bill>

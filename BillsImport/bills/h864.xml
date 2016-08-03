@@ -1,0 +1,67 @@
+<bill session="114" type="h" number="864" updated="2015-07-28T05:08:29-04:00">
+  <state datetime="2015-02-11">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-11"/>
+  </status>
+  <introduced datetime="2015-02-11"/>
+  <titles>
+    <title type="short" as="introduced">Juror Non-Discrimination Act of 2015</title>
+    <title type="official" as="introduced">To amend title 28, United States Code, to prohibit the exclusion of individuals from service on a Federal jury on account of sexual orientation or gender identity.</title>
+  </titles>
+  <sponsor id="400097"/>
+  <cosponsors>
+    <cosponsor id="412657" joined="2015-05-21"/>
+    <cosponsor id="400033" joined="2015-02-12"/>
+    <cosponsor id="412516" joined="2015-02-24"/>
+    <cosponsor id="412379" joined="2015-02-12"/>
+    <cosponsor id="412544" joined="2015-02-12"/>
+    <cosponsor id="412613" joined="2015-07-27"/>
+    <cosponsor id="400162" joined="2015-02-24"/>
+    <cosponsor id="400641" joined="2015-02-24"/>
+    <cosponsor id="400185" joined="2015-05-12"/>
+    <cosponsor id="412557" joined="2015-02-24"/>
+    <cosponsor id="400237" joined="2015-02-24"/>
+    <cosponsor id="412616" joined="2015-04-13"/>
+    <cosponsor id="412521" joined="2015-02-24"/>
+    <cosponsor id="400262" joined="2015-04-29"/>
+    <cosponsor id="400295" joined="2015-02-12"/>
+    <cosponsor id="412523" joined="2015-02-12"/>
+    <cosponsor id="412585" joined="2015-02-11"/>
+    <cosponsor id="412331" joined="2015-06-02"/>
+    <cosponsor id="400333" joined="2015-02-24"/>
+    <cosponsor id="400350" joined="2015-05-05"/>
+    <cosponsor id="400360" joined="2015-02-24"/>
+    <cosponsor id="412259" joined="2015-02-12"/>
+    <cosponsor id="412514" joined="2015-02-12"/>
+    <cosponsor id="412318" joined="2015-02-25"/>
+    <cosponsor id="400415" joined="2015-02-12"/>
+    <cosponsor id="412412" joined="2015-04-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-11" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-03-16">
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU10" subcommittee="Constitution and Civil Justice" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="447"/>
+  </relatedbills>
+  <subjects>
+    <term name="Law"/>
+    <term name="Federal district courts"/>
+    <term name="Judicial procedure and administration"/>
+    <term name="Sex, gender, sexual orientation discrimination"/>
+    <term name="Specialized courts"/>
+  </subjects>
+  <amendments/>
+  <summary>2/11/2015--Introduced.
+Juror Non-Discrimination Act of 2015
+
+Amends the federal judicial code to prohibit the exclusion of citizens from service as a grand or petit juror in U.S. district courts or the Court of International Trade on account of sexual orientation or gender identity (thereby expanding the current prohibition on exclusion on account of race, color, religion, sex, national origin, or economic status).</summary>
+</bill>

@@ -1,0 +1,50 @@
+<bill session="114" type="s" number="148" updated="2015-03-28T06:34:38-04:00">
+  <state datetime="2015-01-12">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-12"/>
+  </status>
+  <introduced datetime="2015-01-12"/>
+  <titles>
+    <title type="short" as="introduced">Medicare DMEPOS Competitive Bidding Improvement Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act to require State licensure and bid surety bonds for entities submitting bids under the Medicare durable medical equipment, prosthetics, orthotics, and supplies (DMEPOS) competitive acquisition program, and for other purposes.</title>
+  </titles>
+  <sponsor id="400325"/>
+  <cosponsors>
+    <cosponsor id="412330" joined="2015-01-12"/>
+    <cosponsor id="400064" joined="2015-01-12"/>
+    <cosponsor id="412246" joined="2015-01-12"/>
+    <cosponsor id="412406" joined="2015-03-16"/>
+    <cosponsor id="300048" joined="2015-02-25"/>
+    <cosponsor id="412494" joined="2015-01-12"/>
+    <cosponsor id="412492" joined="2015-03-19"/>
+    <cosponsor id="400546" joined="2015-03-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-12" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="2"/>
+    <bill relation="identical" session="114" type="h" number="284"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Health technology, devices, supplies"/>
+    <term name="Licensing and registrations"/>
+    <term name="Medicare"/>
+    <term name="Public contracts and procurement"/>
+  </subjects>
+  <amendments/>
+  <summary>1/12/2015--Introduced.
+Medicare DMEPOS Competitive Bidding Improvement Act of 2015
+
+ Amends title XVIII (Medicare) of the Social Security Act with respect to the Medicare durable medical equipment, prosthetics, orthotics, and supplies (DMEPOS) competitive acquisition program.
+
+Prohibits the Secretary of Health and Human Services from accepting a bid from an entity for an area unless it: (1) meets state licensure requirements for the area for all items in the submitted bid for a product category, and (2) has obtained a bid surety bond of between $50,000 and $100,000 for each such area.
+
+Prescribes requirements for the treatment of losing bidders and successful bidders that do not accept a contract.</summary>
+</bill>

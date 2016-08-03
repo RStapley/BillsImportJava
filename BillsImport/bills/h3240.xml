@@ -1,0 +1,33 @@
+<bill session="114" type="h" number="3240" updated="2015-08-06T04:48:06-04:00">
+  <state datetime="2015-07-28">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-28"/>
+  </status>
+  <introduced datetime="2015-07-28"/>
+  <titles>
+    <title type="official" as="introduced">To direct the Administrator of the Federal Emergency Management Agency to carry out a plan for the purchase and installation of an earthquake early warning system for the Cascadia Subduction Zone, and for other purposes.</title>
+  </titles>
+  <sponsor id="400100"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-28">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H5538"/>
+    </action>
+    <action datetime="2015-07-28" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Emergency management"/>
+  </subjects>
+  <amendments/>
+</bill>

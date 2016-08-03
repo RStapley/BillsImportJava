@@ -1,0 +1,43 @@
+<bill session="114" type="h" number="2244" updated="2015-07-11T04:47:17-04:00">
+  <state datetime="2015-05-08">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-08"/>
+  </status>
+  <introduced datetime="2015-05-08"/>
+  <titles>
+    <title type="official" as="introduced">To establish a Strategic Transformer Reserve program, and for other purposes.</title>
+  </titles>
+  <sponsor id="412457"/>
+  <cosponsors>
+    <cosponsor id="412485" joined="2015-07-10"/>
+    <cosponsor id="412256" joined="2015-05-21"/>
+    <cosponsor id="412189" joined="2015-05-08"/>
+    <cosponsor id="412302" joined="2015-06-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-08" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-05-15">
+      <text>Referred to the Subcommittee on Energy and Power.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Congressional oversight"/>
+    <term name="Electric power generation and transmission"/>
+    <term name="Emergency planning and evacuation"/>
+    <term name="Energy storage, supplies, demand"/>
+    <term name="Natural disasters"/>
+  </subjects>
+  <amendments/>
+  <summary>5/8/2015--Introduced.
+This bill requires the Department of Energy (DOE), acting through the Office of Electricity Delivery and Energy Reliability, to submit to Congress a plan to establish a Strategic Transformer Reserve for the storage, in strategically located facilities, of spare large power transformers in sufficient numbers to temporarily replace critically damaged large power transformers.
+
+DOE may not establish a Strategic Transformer Reserve until Congress has approved the plan.</summary>
+</bill>

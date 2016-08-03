@@ -1,0 +1,107 @@
+<bill session="114" type="h" number="1470" updated="2015-04-22T09:48:38-04:00">
+  <state datetime="2015-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-19"/>
+  </status>
+  <introduced datetime="2015-03-19"/>
+  <titles>
+    <title type="short" as="introduced">SGR Repeal and Medicare Provider Payment Modernization Act of 2015</title>
+    <title type="official" as="introduced">To amend title XVIII of the Social Security Act to repeal the Medicare sustainable growth rate and improve Medicare payments for physicians and other professionals, and for other purposes.</title>
+  </titles>
+  <sponsor id="400052"/>
+  <cosponsors>
+    <cosponsor id="412630" joined="2015-03-24"/>
+    <cosponsor id="412541" joined="2015-03-23"/>
+    <cosponsor id="412436" joined="2015-03-26"/>
+    <cosponsor id="400041" joined="2015-04-13"/>
+    <cosponsor id="400636" joined="2015-03-19"/>
+    <cosponsor id="400046" joined="2015-03-19"/>
+    <cosponsor id="412427" joined="2015-03-24"/>
+    <cosponsor id="412193" joined="2015-03-25"/>
+    <cosponsor id="400160" joined="2015-03-19"/>
+    <cosponsor id="412280" joined="2015-03-23"/>
+    <cosponsor id="412446" joined="2015-03-23"/>
+    <cosponsor id="400238" joined="2015-03-19"/>
+    <cosponsor id="400262" joined="2015-03-19"/>
+    <cosponsor id="400308" joined="2015-03-19"/>
+    <cosponsor id="400320" joined="2015-03-19"/>
+    <cosponsor id="412393" joined="2015-03-23"/>
+    <cosponsor id="412310" joined="2015-03-23"/>
+    <cosponsor id="400351" joined="2015-03-19"/>
+    <cosponsor id="412315" joined="2015-03-23"/>
+    <cosponsor id="400414" joined="2015-03-19"/>
+    <cosponsor id="412618" joined="2015-03-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-19" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-03-19">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-03-19">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-03-19">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2015-03-20">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2015-03-31">
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU10" subcommittee="Constitution and Civil Justice" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="2"/>
+    <bill relation="unknown" session="114" type="h" number="804"/>
+    <bill relation="identical" session="114" type="s" number="810"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Advisory bodies"/>
+    <term name="Child health"/>
+    <term name="Congressional oversight"/>
+    <term name="Fraud offenses and financial crimes"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health care quality"/>
+    <term name="Health information and medical records"/>
+    <term name="Health personnel"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="Health technology, devices, supplies"/>
+    <term name="Medicaid"/>
+    <term name="Medical research"/>
+    <term name="Medicare"/>
+    <term name="Minority health"/>
+    <term name="Performance measurement"/>
+    <term name="Poverty and welfare assistance"/>
+    <term name="Right of privacy"/>
+    <term name="Rural conditions and development"/>
+    <term name="User charges and fees"/>
+  </subjects>
+  <amendments/>
+  <summary>3/19/2015--Introduced.
+SGR Repeal and Medicare Provider Payment Modernization Act of 2015
+
+Amends title XVIII (Medicare) of the Social Security Act (SSAct) to: (1) remove sustainable growth rate (SGR) methodology from the determination of annual conversion factors in the formula for payment for physicians' services, and (2) revise the update in rates for 2015 and subsequent years.
+
+Directs the Secretary of Health and Human Services to establish a Merit-based Incentive Payment (MIP) system under which eligible professionals (including physicians, physician assistants, nurse practitioners, clinical nurse specialists, and certified registered nurse anesthetists) shall receive annual payment increases or decreases based on their performance.
+
+Requires specified incentive payments to eligible participants in an alternative payment model.
+
+Requires the Secretary to: (1) draft a plan for development of quality measures to assess professionals, including non-patient-facing professionals; and (2) make payments for chronic care management services.
+
+Expands the kinds of uses of Medicare data available to qualified entities. Directs the Secretary to provide Medicare data to qualified clinical data registries to facilitate quality improvement or patient safety.
+
+Declares it a national objective to achieve widespread exchange of health information through interoperable certified electronic health records technology nationwide by December 31, 2018.</summary>
+</bill>

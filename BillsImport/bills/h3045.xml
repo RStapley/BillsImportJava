@@ -1,0 +1,36 @@
+<bill session="114" type="h" number="3045" updated="2015-07-18T06:44:18-04:00">
+  <state datetime="2015-07-13">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-13"/>
+  </status>
+  <introduced datetime="2015-07-13"/>
+  <titles>
+    <title type="short" as="introduced">California Water Recycling and Drought Relief Act</title>
+    <title type="official" as="introduced">To amend the Reclamation Wastewater and Groundwater Study and Facilities Act to authorize certain recycled water projects, and for other purposes.</title>
+  </titles>
+  <sponsor id="412189"/>
+  <cosponsors>
+    <cosponsor id="412613" joined="2015-07-13"/>
+    <cosponsor id="400129" joined="2015-07-13"/>
+    <cosponsor id="412382" joined="2015-07-13"/>
+    <cosponsor id="400185" joined="2015-07-13"/>
+    <cosponsor id="412511" joined="2015-07-13"/>
+    <cosponsor id="400245" joined="2015-07-13"/>
+    <cosponsor id="412259" joined="2015-07-13"/>
+    <cosponsor id="412514" joined="2015-07-13"/>
+    <cosponsor id="400403" joined="2015-07-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-13" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Water resources development"/>
+  </subjects>
+  <amendments/>
+</bill>

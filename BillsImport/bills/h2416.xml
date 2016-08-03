@@ -1,0 +1,32 @@
+<bill session="114" type="h" number="2416" updated="2015-08-01T06:39:43-04:00">
+  <state datetime="2015-05-19">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-19"/>
+  </status>
+  <introduced datetime="2015-05-19"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Federal Food, Drug, and Cosmetic Act to evaluate the potential use of evidence from clinical experience to help support the approval of new indications for approved drugs, and for other purposes.</title>
+  </titles>
+  <sponsor id="400052"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-05-19" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-05-22">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Drug safety, medical device, and laboratory regulation"/>
+    <term name="Government information and archives"/>
+    <term name="Health information and medical records"/>
+  </subjects>
+  <amendments/>
+</bill>

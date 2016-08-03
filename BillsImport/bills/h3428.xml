@@ -1,0 +1,35 @@
+<bill session="114" type="h" number="3428" updated="2015-08-22T04:47:38-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="official" as="introduced">To require assurances that certain family planning service projects and programs will provide pamphlets containing the contact information of adoption centers.</title>
+  </titles>
+  <sponsor id="412255"/>
+  <cosponsors>
+    <cosponsor id="400032" joined="2015-07-29"/>
+    <cosponsor id="412555" joined="2015-07-29"/>
+    <cosponsor id="400137" joined="2015-07-29"/>
+    <cosponsor id="412503" joined="2015-07-29"/>
+    <cosponsor id="412431" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-07-31">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Families"/>
+  </subjects>
+  <amendments/>
+</bill>

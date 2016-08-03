@@ -1,0 +1,51 @@
+<bill session="114" type="h" number="2228" updated="2015-07-11T06:37:22-04:00">
+  <state datetime="2015-05-01">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-01"/>
+  </status>
+  <introduced datetime="2015-05-01"/>
+  <titles>
+    <title type="short" as="introduced">Safe and Affordable Drugs from Canada Act of 2015</title>
+    <title type="official" as="introduced">To amend the Federal Food, Drug, and Cosmetic Act to allow for the personal importation of safe and affordable drugs from approved pharmacies in Canada.</title>
+  </titles>
+  <sponsor id="412307"/>
+  <cosponsors>
+    <cosponsor id="400245" joined="2015-06-03"/>
+    <cosponsor id="400343" joined="2015-05-01"/>
+    <cosponsor id="400378" joined="2015-06-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-01" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-05-08">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="122"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Canada"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Drug safety, medical device, and laboratory regulation"/>
+    <term name="Government information and archives"/>
+    <term name="Prescription drugs"/>
+    <term name="Trade restrictions"/>
+  </subjects>
+  <amendments/>
+  <summary>5/1/2015--Introduced.
+Safe and Affordable Drugs from Canada Act of 2015
+
+Amends the Federal Food, Drug, and Cosmetic Act (FFDCA) to require the Department of Health and Human Services (HHS) to promulgate regulations within 180 days permitting individuals to import a prescription drug purchased from an approved Canadian pharmacy that:
+
+ is dispensed by a pharmacist licensed in Canada; is purchased for personal use in quantities not greater than a 90-day supply; is filled using a valid prescription issued by a physician licensed to practice in the United States; and has the same active ingredient or ingredients, route of administration, dosage form, and strength as a prescription drug approved under the FFDCA. Sets forth exceptions, including for controlled substances and biological products.
+
+ Establishes a certification process for approving Canadian pharmacies. Requires HHS to publish a list of approved Canadian pharmacies.</summary>
+</bill>

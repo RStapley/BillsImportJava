@@ -1,0 +1,31 @@
+<bill session="114" type="h" number="1889" updated="2015-05-19T04:47:18-04:00">
+  <state datetime="2015-04-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-16"/>
+  </status>
+  <introduced datetime="2015-04-16"/>
+  <titles>
+    <title type="official" as="introduced">For the relief of Roberto Luis Dunoyer Mejia, Consuelo Cardona Molina, Camilo Dunoyer Cardona, and Pablo Dunoyer Cardona.</title>
+  </titles>
+  <sponsor id="412283"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-04-16" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-05-15">
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration and Border Security" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+  </subjects>
+  <amendments/>
+  <summary>4/16/2015--Introduced.
+Provides for the relief of Roberto Luis Dunoyer Mejia, Consuelo Cardona Molina, Camilo Dunoyer Cardona, and Pablo Dunoyer Cardona.</summary>
+</bill>

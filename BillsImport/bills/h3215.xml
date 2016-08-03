@@ -1,0 +1,41 @@
+<bill session="114" type="h" number="3215" updated="2015-08-22T04:47:14-04:00">
+  <state datetime="2015-07-27">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-27"/>
+  </status>
+  <introduced datetime="2015-07-27"/>
+  <titles>
+    <title type="short" as="introduced">End Trafficking of the Terminated Unborn Act of 2015</title>
+    <title type="official" as="introduced">To prohibit any person from soliciting or knowingly acquiring, receiving, or accepting a donation of human fetal tissue for any purpose other than disposal of the tissue if the donation affects interstate commerce and the tissue will be or is obtained pursuant to an induced abortion.</title>
+  </titles>
+  <sponsor id="412191"/>
+  <cosponsors>
+    <cosponsor id="400071" joined="2015-07-29"/>
+    <cosponsor id="412473" joined="2015-07-29"/>
+    <cosponsor id="412434" joined="2015-07-29"/>
+    <cosponsor id="400206" joined="2015-07-29"/>
+    <cosponsor id="400209" joined="2015-07-29"/>
+    <cosponsor id="412662" joined="2015-07-29"/>
+    <cosponsor id="400320" joined="2015-07-29"/>
+    <cosponsor id="412581" joined="2015-07-29"/>
+    <cosponsor id="412213" joined="2015-07-29"/>
+    <cosponsor id="412564" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-27" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-07-31">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+</bill>

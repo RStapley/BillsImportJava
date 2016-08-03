@@ -1,0 +1,32 @@
+<bill session="114" type="s" number="1832" updated="2015-07-30T04:52:40-04:00">
+  <state datetime="2015-07-22">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-22"/>
+  </status>
+  <introduced datetime="2015-07-22"/>
+  <titles>
+    <title type="short" as="introduced">Pay Workers a Living Wage Act</title>
+    <title type="official" as="introduced">A bill to provide for increases in the Federal minimum wage.</title>
+  </titles>
+  <sponsor id="400357"/>
+  <cosponsors>
+    <cosponsor id="400050" joined="2015-07-29"/>
+    <cosponsor id="412223" joined="2015-07-23"/>
+    <cosponsor id="400253" joined="2015-07-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-22" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="3164"/>
+  </relatedbills>
+  <subjects>
+    <term name="Labor and employment"/>
+  </subjects>
+  <amendments/>
+</bill>

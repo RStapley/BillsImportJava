@@ -1,0 +1,88 @@
+<bill session="114" type="sr" number="25" updated="2015-01-17T06:20:46-05:00">
+  <state datetime="2015-01-08">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-08"/>
+  </status>
+  <introduced datetime="2015-01-08"/>
+  <titles>
+    <title type="official" as="introduced">A resolution commemorating 50 years since the creation of the Medicare and Medicaid Programs.</title>
+  </titles>
+  <sponsor id="300100"/>
+  <cosponsors>
+    <cosponsor id="400013" joined="2015-01-08"/>
+    <cosponsor id="412330" joined="2015-01-08"/>
+    <cosponsor id="412490" joined="2015-01-08"/>
+    <cosponsor id="412598" joined="2015-01-08"/>
+    <cosponsor id="300011" joined="2015-01-08"/>
+    <cosponsor id="400050" joined="2015-01-08"/>
+    <cosponsor id="300018" joined="2015-01-08"/>
+    <cosponsor id="400064" joined="2015-01-08"/>
+    <cosponsor id="300019" joined="2015-01-09"/>
+    <cosponsor id="412246" joined="2015-01-08"/>
+    <cosponsor id="412390" joined="2015-01-08"/>
+    <cosponsor id="412205" joined="2015-01-08"/>
+    <cosponsor id="300038" joined="2015-01-08"/>
+    <cosponsor id="300043" joined="2015-01-08"/>
+    <cosponsor id="412378" joined="2015-01-08"/>
+    <cosponsor id="412223" joined="2015-01-08"/>
+    <cosponsor id="412281" joined="2015-01-08"/>
+    <cosponsor id="412554" joined="2015-01-08"/>
+    <cosponsor id="412200" joined="2015-01-08"/>
+    <cosponsor id="412582" joined="2015-01-08"/>
+    <cosponsor id="412545" joined="2015-01-08"/>
+    <cosponsor id="412242" joined="2015-01-08"/>
+    <cosponsor id="300065" joined="2015-01-08"/>
+    <cosponsor id="412391" joined="2015-01-08"/>
+    <cosponsor id="400253" joined="2015-01-08"/>
+    <cosponsor id="412243" joined="2015-01-08"/>
+    <cosponsor id="400272" joined="2015-01-08"/>
+    <cosponsor id="412325" joined="2015-01-08"/>
+    <cosponsor id="300073" joined="2015-01-08"/>
+    <cosponsor id="412194" joined="2015-01-08"/>
+    <cosponsor id="300076" joined="2015-01-08"/>
+    <cosponsor id="300078" joined="2015-01-08"/>
+    <cosponsor id="412305" joined="2015-01-08"/>
+    <cosponsor id="300081" joined="2015-01-08"/>
+    <cosponsor id="300082" joined="2015-01-08"/>
+    <cosponsor id="400357" joined="2015-01-08"/>
+    <cosponsor id="412507" joined="2015-01-08"/>
+    <cosponsor id="300087" joined="2015-01-08"/>
+    <cosponsor id="412323" joined="2015-01-08"/>
+    <cosponsor id="300093" joined="2015-01-08"/>
+    <cosponsor id="412244" joined="2015-01-08"/>
+    <cosponsor id="400413" joined="2015-01-08"/>
+    <cosponsor id="412321" joined="2015-01-08"/>
+    <cosponsor id="412542" joined="2015-01-08"/>
+    <cosponsor id="412247" joined="2015-01-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-08">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S109-110"/>
+    </action>
+    <action datetime="2015-01-08" state="REFERRED">
+      <text>Referred to the Committee on Finance.</text>
+      <reference ref="CR S109" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Child health"/>
+    <term name="Disability and paralysis"/>
+    <term name="Health care coverage and access"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Medicaid"/>
+    <term name="Medicare"/>
+    <term name="State and local government operations"/>
+    <term name="Women's health"/>
+  </subjects>
+  <amendments/>
+  <summary>1/8/2015--Introduced.
+This bill states that:
+
+ all efforts to improve Medicare and Medicaid under titles XVIII and XIX of the Social Security Act must support and build upon President Johnson's vision "to assure the availability of and accessibility to the best health care to all Americans, regardless of age or geography or economic status"; Medicare should not be transformed into a voucher program, leaving seniors and people with disabilities vulnerable to higher out-of-pocket costs; and Medicaid should not be dismantled by policies that slash funding, shift costs to states, reduce benefits, and erode the safety net relied on by over 68 million individuals.</summary>
+</bill>

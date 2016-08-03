@@ -1,0 +1,35 @@
+<bill session="114" type="s" number="496" updated="2015-03-14T06:41:25-04:00">
+  <state datetime="2015-02-12">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-12"/>
+  </status>
+  <introduced datetime="2015-02-12"/>
+  <titles>
+    <title type="official" as="introduced">A bill to prohibit the use of any Federal funds to finalize, implement, or enforce the proposed rule entitled "Standards for the Growing, Harvesting, Packing, and Holding of Produce for Human Consumption".</title>
+  </titles>
+  <sponsor id="300030"/>
+  <cosponsors>
+    <cosponsor id="412322" joined="2015-02-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-12" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Appropriations"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Food and Drug Administration (FDA)"/>
+    <term name="Food supply, safety, and labeling"/>
+    <term name="Fruit and vegetables"/>
+  </subjects>
+  <amendments/>
+  <summary>2/12/2015--Introduced.
+This bill prohibits the use of federal funds to finalize, implement, or enforce the proposed rule entitled "Standards for the Growing, Harvesting, Packing, and Holding of Produce for Human Consumption" published by the Department of Health and Human Services on January 16, 2013, or any successor or substantially similar rule.</summary>
+</bill>

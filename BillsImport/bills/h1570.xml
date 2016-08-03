@@ -1,0 +1,42 @@
+<bill session="114" type="h" number="1570" updated="2015-06-27T06:45:13-04:00">
+  <state datetime="2015-03-24">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-24"/>
+  </status>
+  <introduced datetime="2015-03-24"/>
+  <titles>
+    <title type="short" as="introduced">Medicaid and CHIP Territory Transparency and Information Act</title>
+    <title type="official" as="introduced">To provide for greater transparency and information with respect to Federal expenditures under the Medicaid and CHIP programs in the territories of the United States, and for other purposes.</title>
+  </titles>
+  <sponsor id="412250"/>
+  <cosponsors>
+    <cosponsor id="400041" joined="2015-03-24"/>
+    <cosponsor id="412306" joined="2015-03-24"/>
+    <cosponsor id="412659" joined="2015-03-24"/>
+    <cosponsor id="412664" joined="2015-03-24"/>
+    <cosponsor id="412312" joined="2015-03-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-24" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-03-27">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="2635"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+  <summary>3/24/2015--Introduced.
+Medicaid and CHIP Territory Transparency and Information Act
+
+This bill directs the Secretary of Health and Human Services to publish and update periodically, on the Internet site of the Centers for Medicare and Medicaid Services information on the Medicaid program and the Children's Health Insurance Program under titles XIX and XXI of the Social Security Act that are carried out in the U.S. territories.</summary>
+</bill>

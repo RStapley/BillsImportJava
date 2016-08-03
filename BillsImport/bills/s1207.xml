@@ -1,0 +1,37 @@
+<bill session="114" type="s" number="1207" updated="2015-07-07T18:46:14-04:00">
+  <state datetime="2015-05-06">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-06"/>
+  </status>
+  <introduced datetime="2015-05-06"/>
+  <titles>
+    <title type="short" as="introduced">Next Generation Electric Systems Act</title>
+    <title type="official" as="introduced">A bill to direct the Secretary of Energy to establish a grant program under which the Secretary shall make grants to eligible partnerships to provide for the transformation of the electric grid by the year 2030, and for other purposes.</title>
+  </titles>
+  <sponsor id="412200"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-05-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2015-05-14">
+      <text>Committee on Energy and Natural Resources. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+  </subjects>
+  <amendments/>
+  <summary>5/6/2015--Introduced.
+Next Generation Electric Systems Act 
+
+This bill requires the Department of Energy (DOE) to establish a grants program for eligible partnerships to develop and implement projects related to achieving the transformation of the future electric grid by the year 2030 using a comprehensive approach to electric system design and architecture.
+
+Eligible partnerships may include any institution of higher education, National Laboratory, representative of a state or local government, representative of an Indian tribe, federal power marketing administration, industry expert, or nonprofit industry trade association, but must include at least one electric utility (either investor-owned or publicly owned), technology provider, rural electric cooperative, Regional Transmission Organization, or Independent System Operator.
+
+DOE must, when selecting eligible partnerships to receive grants, give priority to those proposing projects for which a cost-share is to be provided.</summary>
+</bill>

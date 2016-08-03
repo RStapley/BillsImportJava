@@ -1,0 +1,30 @@
+<bill session="114" type="h" number="2723" updated="2015-06-20T06:41:17-04:00">
+  <state datetime="2015-06-10">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-10"/>
+  </status>
+  <introduced datetime="2015-06-10"/>
+  <titles>
+    <title type="short" as="introduced">Rabbi Arthur Schneier Congressional Gold Medal Act</title>
+    <title type="official" as="introduced">To award a Congressional Gold Medal to Rabbi Arthur Schneier in recognition of his pioneering role in promoting religious freedom and human rights throughout the world, for close to half a century.</title>
+  </titles>
+  <sponsor id="400251"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-06-10" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Civil rights and liberties, minority issues"/>
+  </subjects>
+  <amendments/>
+  <summary>6/10/2015--Introduced.
+Rabbi Arthur Schneier Congressional Gold Medal Act
+
+Directs the Speaker of the House of Representatives and the President pro tempore of the Senate to arrange for the presentation, on behalf of Congress, of a gold medal to Rabbi Arthur Schneier in recognition of his pioneering role in promoting religious freedom and human rights throughout the world for close to half a century.</summary>
+</bill>

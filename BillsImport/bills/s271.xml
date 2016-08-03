@@ -1,0 +1,60 @@
+<bill session="114" type="s" number="271" updated="2015-08-06T04:48:24-04:00">
+  <state datetime="2015-01-27">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-27"/>
+  </status>
+  <introduced datetime="2015-01-27"/>
+  <titles>
+    <title type="short" as="introduced">Retired Pay Restoration Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend title 10, United States Code, to permit certain retired members of the uniformed services who have a service-connected disability to receive both disability compensation from the Department of Veterans Affairs for their disability and either retired pay by reason of their years of military service or Combat-Related Special Compensation, and for other purposes.</title>
+  </titles>
+  <sponsor id="300082"/>
+  <cosponsors>
+    <cosponsor id="412493" joined="2015-08-05"/>
+    <cosponsor id="412330" joined="2015-07-28"/>
+    <cosponsor id="412490" joined="2015-02-03"/>
+    <cosponsor id="300011" joined="2015-02-12"/>
+    <cosponsor id="412390" joined="2015-07-22"/>
+    <cosponsor id="300038" joined="2015-02-10"/>
+    <cosponsor id="412223" joined="2015-02-26"/>
+    <cosponsor id="412281" joined="2015-07-26"/>
+    <cosponsor id="412218" joined="2015-03-10"/>
+    <cosponsor id="400272" joined="2015-02-05"/>
+    <cosponsor id="300073" joined="2015-02-26"/>
+    <cosponsor id="300075" joined="2015-07-07"/>
+    <cosponsor id="400357" joined="2015-04-20"/>
+    <cosponsor id="412507" joined="2015-07-13"/>
+    <cosponsor id="300087" joined="2015-04-29"/>
+    <cosponsor id="412323" joined="2015-02-04"/>
+    <cosponsor id="300093" joined="2015-02-04"/>
+    <cosponsor id="412244" joined="2015-02-10"/>
+    <cosponsor id="412247" joined="2015-04-20"/>
+    <cosponsor id="300100" joined="2015-01-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-27">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S545"/>
+    </action>
+    <action datetime="2015-01-27" state="REFERRED">
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+      <reference ref="CR S545-546" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Disability and paralysis"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>1/27/2015--Introduced.
+Retired Pay Restoration Act of 2015
+
+Allows the receipt of both military retired pay and veterans' disability compensation with respect to any service-connected disability (under current law, only a disability rated at 50% or more).
+
+Makes eligible for the full concurrent receipt of both veterans' disability compensation and either military retired pay or combat-related special pay those individuals who were retired or separated from military service due to a service-connected disability.</summary>
+</bill>

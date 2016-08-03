@@ -1,0 +1,80 @@
+<bill session="114" type="h" number="711" updated="2015-07-30T04:48:05-04:00">
+  <state datetime="2015-02-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-04"/>
+  </status>
+  <introduced datetime="2015-02-04"/>
+  <titles>
+    <title type="short" as="introduced">Equal Treatment of Public Servants Act of 2015</title>
+    <title type="official" as="introduced">To amend title II of the Social Security Act to repeal the windfall elimination provision and protect the retirement of public servants.</title>
+  </titles>
+  <sponsor id="400046"/>
+  <cosponsors>
+    <cosponsor id="412565" joined="2015-04-23"/>
+    <cosponsor id="400636" joined="2015-05-13"/>
+    <cosponsor id="400052" joined="2015-07-20"/>
+    <cosponsor id="400063" joined="2015-04-23"/>
+    <cosponsor id="412600" joined="2015-05-01"/>
+    <cosponsor id="400089" joined="2015-04-23"/>
+    <cosponsor id="412482" joined="2015-02-24"/>
+    <cosponsor id="412382" joined="2015-07-29"/>
+    <cosponsor id="400651" joined="2015-03-26"/>
+    <cosponsor id="400157" joined="2015-03-18"/>
+    <cosponsor id="400160" joined="2015-03-19"/>
+    <cosponsor id="412654" joined="2015-07-20"/>
+    <cosponsor id="412460" joined="2015-07-29"/>
+    <cosponsor id="400206" joined="2015-07-29"/>
+    <cosponsor id="412435" joined="2015-03-18"/>
+    <cosponsor id="412543" joined="2015-05-12"/>
+    <cosponsor id="412286" joined="2015-07-20"/>
+    <cosponsor id="412521" joined="2015-05-01"/>
+    <cosponsor id="400249" joined="2015-05-12"/>
+    <cosponsor id="400656" joined="2015-02-24"/>
+    <cosponsor id="400654" joined="2015-02-24"/>
+    <cosponsor id="400263" joined="2015-05-05"/>
+    <cosponsor id="412189" joined="2015-06-11"/>
+    <cosponsor id="412632" joined="2015-06-02"/>
+    <cosponsor id="400291" joined="2015-02-04"/>
+    <cosponsor id="400441" joined="2015-07-20"/>
+    <cosponsor id="400297" joined="2015-06-02"/>
+    <cosponsor id="412575" joined="2015-02-24"/>
+    <cosponsor id="412302" joined="2015-02-13"/>
+    <cosponsor id="400652" joined="2015-02-13"/>
+    <cosponsor id="412633" joined="2015-07-20"/>
+    <cosponsor id="412462" joined="2015-06-25"/>
+    <cosponsor id="412432" joined="2015-02-13"/>
+    <cosponsor id="400381" joined="2015-07-29"/>
+    <cosponsor id="412461" joined="2015-02-24"/>
+    <cosponsor id="400406" joined="2015-02-10"/>
+    <cosponsor id="412254" joined="2015-03-18"/>
+    <cosponsor id="412522" joined="2015-07-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-04" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Government information and archives"/>
+    <term name="Social Security Administration"/>
+    <term name="Social security and elderly assistance"/>
+  </subjects>
+  <amendments/>
+  <summary>2/4/2015--Introduced.
+Equal Treatment of Public Servants Act of 2015 
+
+ Amends title II (Old Age, Survivors and Disability Insurance) (OASDI) of the Social Security Act to replace the current windfall elimination provision (WEP) (that reduces the Social Security benefits of workers who also have pension benefits from employment not covered by Social Security) for individuals who: (1) become eligible for old-age insurance benefits after 2016 or would attain age 62 after 2016 and become eligible for disability insurance benefits after 2016, (2) subsequently become entitled to such benefits, and (3) have earnings derived from noncovered service performed after 1977.
+
+Establishes a new formula for the treatment of noncovered earnings in determining Social Security benefits.
+
+Prescribes a second formula to modify the WEP for current beneficiaries.
+
+Directs the Commissioner of Social Security to recover overpayments from certain individuals.</summary>
+</bill>

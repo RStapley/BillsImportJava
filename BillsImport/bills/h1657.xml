@@ -1,0 +1,32 @@
+<bill session="114" type="h" number="1657" updated="2015-06-13T06:32:13-04:00">
+  <state datetime="2015-03-26">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-26"/>
+  </status>
+  <introduced datetime="2015-03-26"/>
+  <titles>
+    <title type="short" as="introduced">Fairness for Americans in Internal Revenue Refunds Act</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to prevent claims of the earned income tax credit by individuals receiving work authorizations pursuant to deferred action programs, and for other purposes.</title>
+  </titles>
+  <sponsor id="400656"/>
+  <cosponsors>
+    <cosponsor id="400206" joined="2015-05-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-26" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+  <summary>3/26/2015--Introduced.
+Fairness for Americans in Internal Revenue Refunds Act
+
+This bill amends the Internal Revenue Code to prevent a taxpayer whose social security number was issued for purposes of granting a work authorization under a deferred action on removal program from claiming an earned income tax credit using such social security number. The bill directs: (1) the Department of Homeland Security to place a notation on employment authorization cards that the holder of such card has received it under a deferred action on removal program, and (2) the Social Security Administration to maintain a record of all social security account numbers issued to individuals under a deferred action on removal program.</summary>
+</bill>

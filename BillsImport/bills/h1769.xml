@@ -1,0 +1,150 @@
+<bill session="114" type="h" number="1769" updated="2015-07-24T04:48:09-04:00">
+  <state datetime="2015-04-14">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-14"/>
+  </status>
+  <introduced datetime="2015-04-14"/>
+  <titles>
+    <title type="short" as="introduced">Toxic Exposure Research Act of 2015</title>
+    <title type="official" as="introduced">To establish in the Department of Veterans Affairs a national center for research on the diagnosis and treatment of health conditions of the descendants of veterans exposed to toxic substances during service in the Armed Forces that are related to that exposure, to establish an advisory board on such health conditions, and for other purposes.</title>
+  </titles>
+  <sponsor id="412436"/>
+  <cosponsors>
+    <cosponsor id="412250" joined="2015-04-21"/>
+    <cosponsor id="400030" joined="2015-04-30"/>
+    <cosponsor id="400041" joined="2015-05-20"/>
+    <cosponsor id="412516" joined="2015-07-07"/>
+    <cosponsor id="412537" joined="2015-04-28"/>
+    <cosponsor id="412407" joined="2015-07-07"/>
+    <cosponsor id="412571" joined="2015-06-25"/>
+    <cosponsor id="412470" joined="2015-05-13"/>
+    <cosponsor id="412236" joined="2015-06-16"/>
+    <cosponsor id="412563" joined="2015-06-02"/>
+    <cosponsor id="412272" joined="2015-04-29"/>
+    <cosponsor id="400080" joined="2015-04-21"/>
+    <cosponsor id="412513" joined="2015-04-30"/>
+    <cosponsor id="412651" joined="2015-04-29"/>
+    <cosponsor id="412193" joined="2015-06-09"/>
+    <cosponsor id="400087" joined="2015-05-12"/>
+    <cosponsor id="412385" joined="2015-06-02"/>
+    <cosponsor id="412637" joined="2015-07-21"/>
+    <cosponsor id="400114" joined="2015-06-24"/>
+    <cosponsor id="412533" joined="2015-04-22"/>
+    <cosponsor id="412215" joined="2015-05-20"/>
+    <cosponsor id="412524" joined="2015-04-14"/>
+    <cosponsor id="412529" joined="2015-05-12"/>
+    <cosponsor id="412532" joined="2015-06-17"/>
+    <cosponsor id="412612" joined="2015-07-13"/>
+    <cosponsor id="400162" joined="2015-06-01"/>
+    <cosponsor id="400641" joined="2015-06-23"/>
+    <cosponsor id="400185" joined="2015-04-14"/>
+    <cosponsor id="400195" joined="2015-04-28"/>
+    <cosponsor id="412460" joined="2015-04-28"/>
+    <cosponsor id="412603" joined="2015-04-29"/>
+    <cosponsor id="412649" joined="2015-05-19"/>
+    <cosponsor id="412465" joined="2015-06-16"/>
+    <cosponsor id="412583" joined="2015-07-10"/>
+    <cosponsor id="400218" joined="2015-07-10"/>
+    <cosponsor id="400219" joined="2015-05-19"/>
+    <cosponsor id="412286" joined="2015-06-09"/>
+    <cosponsor id="412557" joined="2015-04-28"/>
+    <cosponsor id="400230" joined="2015-06-09"/>
+    <cosponsor id="400232" joined="2015-06-23"/>
+    <cosponsor id="412256" joined="2015-04-22"/>
+    <cosponsor id="400237" joined="2015-06-02"/>
+    <cosponsor id="412616" joined="2015-06-01"/>
+    <cosponsor id="400244" joined="2015-06-23"/>
+    <cosponsor id="400245" joined="2015-06-03"/>
+    <cosponsor id="400246" joined="2015-05-22"/>
+    <cosponsor id="412562" joined="2015-07-10"/>
+    <cosponsor id="400263" joined="2015-04-22"/>
+    <cosponsor id="412487" joined="2015-07-10"/>
+    <cosponsor id="400291" joined="2015-07-07"/>
+    <cosponsor id="412575" joined="2015-05-13"/>
+    <cosponsor id="412192" joined="2015-06-03"/>
+    <cosponsor id="412523" joined="2015-07-23"/>
+    <cosponsor id="400316" joined="2015-07-10"/>
+    <cosponsor id="412306" joined="2015-06-23"/>
+    <cosponsor id="412307" joined="2015-04-21"/>
+    <cosponsor id="412308" joined="2015-06-02"/>
+    <cosponsor id="412309" joined="2015-07-07"/>
+    <cosponsor id="412331" joined="2015-04-21"/>
+    <cosponsor id="400333" joined="2015-05-13"/>
+    <cosponsor id="412647" joined="2015-06-16"/>
+    <cosponsor id="412411" joined="2015-04-29"/>
+    <cosponsor id="412570" joined="2015-05-12"/>
+    <cosponsor id="412641" joined="2015-07-07"/>
+    <cosponsor id="400350" joined="2015-06-16"/>
+    <cosponsor id="412212" joined="2015-06-01"/>
+    <cosponsor id="400361" joined="2015-06-01"/>
+    <cosponsor id="412509" joined="2015-06-03"/>
+    <cosponsor id="400380" joined="2015-07-07"/>
+    <cosponsor id="412317" joined="2015-06-17"/>
+    <cosponsor id="412213" joined="2015-07-23"/>
+    <cosponsor id="412214" joined="2015-07-10"/>
+    <cosponsor id="412430" joined="2015-04-21"/>
+    <cosponsor id="412646" joined="2015-04-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-14" state="REFERRED">
+      <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-04-14">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2015-04-14">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2015-04-22">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2015-04-23">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="2015-05-15">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2015-05-15">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="901"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Advisory bodies"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Veterans Affairs"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Hazardous wastes and toxic substances"/>
+    <term name="Health facilities and institutions"/>
+    <term name="Health information and medical records"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="Intelligence activities, surveillance, classified information"/>
+    <term name="Medical research"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Transportation costs"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>4/14/2015--Introduced.
+Toxic Exposure Research Act of 2015
+
+Directs the Department of Veterans Affairs (VA) to select a VA medical center to serve as the national center for research on the diagnosis and treatment of health conditions of the biological children, grandchildren, or great-grandchildren of individuals exposed to toxic substances while serving as members of the Armed Forces that are related to such exposure.
+
+Requires: (1) the Department of Defense (DOD) or the head of a federal agency to make available to the VA for review records held by DOD, an Armed Force, or that federal agency that might assist the VA in making determinations regarding individuals and descendents afflicted with a health condition as a result of such exposure; (2) the VA and DOD or such agency head to jointly establish a mechanism for the availability and review of records by the VA; and (3) the national center to employ at least one licensed clinical social worker to coordinate access of individuals to appropriate social and health care programs and to handle case management.
+
+Establishes an Advisory Board to oversee and assess the national center and to advise the VA regarding the center's work.
+
+Directs DOD to declassify documents (other than documents that would materially and immediately threaten national security) related to any known incident in which at least 100 members of the Armed Forces were exposed to a toxic substance that resulted in at least one case of an associated disability.
+
+Directs the VA to conduct a national outreach and education campaign directed toward members of the Armed Forces, veterans, and their family members to communicate information on: (1) incidents of exposure of members of the Armed Forces to toxic substances, health conditions resulting from such exposure, and the potential long-term effects; and (2) the national center. Requires DOD and the Department of Health and Human Services to assist the VA in implementing such campaign.</summary>
+</bill>

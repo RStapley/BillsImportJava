@@ -1,0 +1,39 @@
+<bill session="114" type="hr" number="334" updated="2015-07-04T06:18:24-04:00">
+  <state datetime="2015-06-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-23"/>
+  </status>
+  <introduced datetime="2015-06-23"/>
+  <titles>
+    <title type="official" as="introduced">Designating the Ulysses S. Grant Association as the organization to implement the bicentennial celebration of the birth of Ulysses S. Grant, Civil War General and 2-term President of the United States.</title>
+  </titles>
+  <sponsor id="412280"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-06-23" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="sr" number="195"/>
+    <bill relation="identical" session="114" type="sr" number="209"/>
+  </relatedbills>
+  <subjects>
+    <term name="Social sciences and history"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Higher education"/>
+    <term name="Libraries and archives"/>
+    <term name="Military history"/>
+    <term name="Mississippi"/>
+    <term name="Presidents and presidential powers"/>
+    <term name="U.S. history"/>
+  </subjects>
+  <amendments/>
+  <summary>6/23/2015--Introduced.
+Expresses support for the bicentennial celebration of the birth of Ulysses S. Grant. &#160;
+
+Designates the Ulysses S. Grant Association, housed at the Ulysses S. Grant Presidential Library at Mississippi State University,&#160;as the designated institution for organizing and leading the celebration of the bicentennial.</summary>
+</bill>

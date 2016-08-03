@@ -1,0 +1,43 @@
+<bill session="114" type="h" number="1099" updated="2015-06-06T06:27:15-04:00">
+  <state datetime="2015-02-26">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-26"/>
+  </status>
+  <introduced datetime="2015-02-26"/>
+  <titles>
+    <title type="short" as="introduced">Hunter and Farmer Protection Act</title>
+    <title type="official" as="introduced">To amend the Migratory Bird Treaty Act to provide certain exemptions relating to the taking of migratory game birds.</title>
+  </titles>
+  <sponsor id="412400"/>
+  <cosponsors>
+    <cosponsor id="412609" joined="2015-02-26"/>
+    <cosponsor id="412610" joined="2015-02-26"/>
+    <cosponsor id="412402" joined="2015-02-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-26" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2015-03-23">
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="Federal Lands" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="2406"/>
+    <bill relation="unknown" session="114" type="s" number="405"/>
+    <bill relation="unknown" session="114" type="s" number="595"/>
+    <bill relation="unknown" session="114" type="s" number="659"/>
+  </relatedbills>
+  <subjects>
+    <term name="Animals"/>
+    <term name="Agricultural practices and innovations"/>
+    <term name="Birds"/>
+    <term name="Hunting and fishing"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+</bill>

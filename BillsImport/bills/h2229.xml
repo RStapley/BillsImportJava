@@ -1,0 +1,49 @@
+<bill session="114" type="h" number="2229" updated="2015-07-30T04:49:18-04:00">
+  <state datetime="2015-05-01">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-01"/>
+  </status>
+  <introduced datetime="2015-05-01"/>
+  <titles>
+    <title type="short" as="introduced">Municipal Bond Market Support Act of 2015</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to permanently modify the limitations on the deduction of interest by financial institutions which hold tax-exempt bonds, and for other purposes.</title>
+  </titles>
+  <sponsor id="412393"/>
+  <cosponsors>
+    <cosponsor id="400063" joined="2015-07-29"/>
+    <cosponsor id="412488" joined="2015-07-23"/>
+    <cosponsor id="412639" joined="2015-07-29"/>
+    <cosponsor id="412422" joined="2015-05-01"/>
+    <cosponsor id="400218" joined="2015-05-01"/>
+    <cosponsor id="400233" joined="2015-05-01"/>
+    <cosponsor id="412292" joined="2015-06-25"/>
+    <cosponsor id="400661" joined="2015-06-25"/>
+    <cosponsor id="400291" joined="2015-05-01"/>
+    <cosponsor id="400309" joined="2015-07-29"/>
+    <cosponsor id="412428" joined="2015-05-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-01" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Income tax deductions"/>
+    <term name="Income tax exclusion"/>
+    <term name="Inflation and prices"/>
+    <term name="Interest, dividends, interest rates"/>
+    <term name="Securities"/>
+    <term name="State and local finance"/>
+    <term name="Tax-exempt organizations"/>
+  </subjects>
+  <amendments/>
+  <summary>5/1/2015--Introduced.
+Municipal Bond Market Support Act of 2015
+
+Amends Internal Revenue Code provisions relating to the small issuer exemption from interest expense allocation rules for financial institutions to: (1) permanently increase from $10 million to $30 million the annual limit on the amount of tax-exempt obligations that a small issuer may issue, and (2) allow an inflation adjustment to such increased limit amount after 2015.</summary>
+</bill>

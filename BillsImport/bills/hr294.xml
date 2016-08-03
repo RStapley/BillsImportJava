@@ -1,0 +1,77 @@
+<bill session="114" type="hr" number="294" updated="2015-07-30T04:47:34-04:00">
+  <state datetime="2015-06-03">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-03"/>
+  </status>
+  <introduced datetime="2015-06-03"/>
+  <titles>
+    <title type="official" as="introduced">Expressing support for the continuation of the Perkins Loan Program.</title>
+  </titles>
+  <sponsor id="412540"/>
+  <cosponsors>
+    <cosponsor id="412607" joined="2015-07-28"/>
+    <cosponsor id="412469" joined="2015-06-04"/>
+    <cosponsor id="412565" joined="2015-07-28"/>
+    <cosponsor id="400048" joined="2015-07-08"/>
+    <cosponsor id="412537" joined="2015-06-24"/>
+    <cosponsor id="412258" joined="2015-07-14"/>
+    <cosponsor id="412379" joined="2015-07-27"/>
+    <cosponsor id="412600" joined="2015-07-08"/>
+    <cosponsor id="412221" joined="2015-07-08"/>
+    <cosponsor id="412651" joined="2015-06-18"/>
+    <cosponsor id="412536" joined="2015-06-10"/>
+    <cosponsor id="400100" joined="2015-06-23"/>
+    <cosponsor id="400122" joined="2015-06-23"/>
+    <cosponsor id="400185" joined="2015-06-11"/>
+    <cosponsor id="400211" joined="2015-06-10"/>
+    <cosponsor id="412649" joined="2015-07-13"/>
+    <cosponsor id="400218" joined="2015-07-29"/>
+    <cosponsor id="412510" joined="2015-06-24"/>
+    <cosponsor id="400233" joined="2015-07-28"/>
+    <cosponsor id="400238" joined="2015-06-23"/>
+    <cosponsor id="412521" joined="2015-07-15"/>
+    <cosponsor id="400663" joined="2015-07-14"/>
+    <cosponsor id="400262" joined="2015-07-28"/>
+    <cosponsor id="400263" joined="2015-06-09"/>
+    <cosponsor id="400661" joined="2015-06-10"/>
+    <cosponsor id="412475" joined="2015-07-15"/>
+    <cosponsor id="408211" joined="2015-07-22"/>
+    <cosponsor id="400295" joined="2015-06-23"/>
+    <cosponsor id="412523" joined="2015-07-15"/>
+    <cosponsor id="412585" joined="2015-06-03"/>
+    <cosponsor id="412331" joined="2015-07-08"/>
+    <cosponsor id="400333" joined="2015-06-10"/>
+    <cosponsor id="412393" joined="2015-07-21"/>
+    <cosponsor id="412489" joined="2015-07-27"/>
+    <cosponsor id="400347" joined="2015-07-09"/>
+    <cosponsor id="400355" joined="2015-06-25"/>
+    <cosponsor id="400360" joined="2015-07-08"/>
+    <cosponsor id="412186" joined="2015-07-08"/>
+    <cosponsor id="400378" joined="2015-06-23"/>
+    <cosponsor id="412581" joined="2015-06-12"/>
+    <cosponsor id="412318" joined="2015-07-22"/>
+    <cosponsor id="412319" joined="2015-06-16"/>
+    <cosponsor id="400414" joined="2015-06-24"/>
+    <cosponsor id="412522" joined="2015-07-08"/>
+    <cosponsor id="412628" joined="2015-07-22"/>
+    <cosponsor id="412640" joined="2015-06-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-03" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Education programs funding"/>
+    <term name="Higher education"/>
+    <term name="Student aid and college costs"/>
+  </subjects>
+  <amendments/>
+  <summary>6/3/2015--Introduced.
+Expresses the strong support of the House of Representatives for the continuation of the Perkins Loan Program in order to provide educational opportunities to future generations of students who need low-cost financing to make their dreams of higher education possible.</summary>
+</bill>

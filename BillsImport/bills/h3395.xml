@@ -1,0 +1,35 @@
+<bill session="114" type="h" number="3395" updated="2015-08-15T06:47:46-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">Trafficking Reduction And Criminal Enforcement (TRACE) Act</title>
+    <title type="official" as="introduced">To prevent the illegal sale of firearms, and for other purposes.</title>
+  </titles>
+  <sponsor id="412331"/>
+  <cosponsors>
+    <cosponsor id="400033" joined="2015-07-29"/>
+    <cosponsor id="412517" joined="2015-07-29"/>
+    <cosponsor id="412470" joined="2015-07-29"/>
+    <cosponsor id="400162" joined="2015-07-29"/>
+    <cosponsor id="400237" joined="2015-07-29"/>
+    <cosponsor id="400263" joined="2015-07-29"/>
+    <cosponsor id="412585" joined="2015-07-29"/>
+    <cosponsor id="400326" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+  </subjects>
+  <amendments/>
+</bill>

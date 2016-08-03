@@ -1,0 +1,40 @@
+<bill session="114" type="s" number="1559" updated="2015-07-18T07:01:13-04:00">
+  <state datetime="2015-06-11">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-11"/>
+  </status>
+  <introduced datetime="2015-06-11"/>
+  <titles>
+    <title type="short" as="introduced">Pet and Women Safety Act of 2015</title>
+    <title type="official" as="introduced">A bill to protect victims of domestic violence, sexual assault, stalking, and dating violence from emotional and psychological trauma caused by acts of violence or threats of violence against their pets.</title>
+  </titles>
+  <sponsor id="412493"/>
+  <cosponsors>
+    <cosponsor id="412305" joined="2015-06-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-11" state="REFERRED">
+      <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="1258"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+  </subjects>
+  <amendments/>
+  <summary>6/11/2015--Introduced.
+Pet and Women Safety Act of 2015
+
+ Amends the federal criminal code to prohibit threats or acts of violence against a person's pet under the offenses of stalking and interstate violation of a protection order. Defines "pet" to mean a domesticated animal that is kept for pleasure rather than for commercial purposes.
+
+Requires the "full amount of the victim's losses" for purposes of restitution in domestic violence and stalking offenses to include any costs incurred for veterinary services relating to physical care for the victim's pet.
+
+Directs the Department of Agriculture to award grants to eligible entities to carry out programs to provide specified housing assistance, support services, and training of relevant stakeholders to victims of domestic violence, dating violence, sexual assault, or stalking and their pets.
+
+Expresses the sense of Congress that states should encourage the inclusion of protections against violent or threatening acts against the pet of the person in domestic violence protection orders.</summary>
+</bill>

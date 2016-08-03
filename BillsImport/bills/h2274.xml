@@ -1,0 +1,47 @@
+<bill session="114" type="h" number="2274" updated="2015-08-01T06:38:31-04:00">
+  <state datetime="2015-05-12">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-12"/>
+  </status>
+  <introduced datetime="2015-05-12"/>
+  <titles>
+    <title type="official" as="introduced">To authorize the National Emergency Medical Services Memorial Foundation to establish a commemorative work in the District of Columbia and its environs, and for other purposes.</title>
+  </titles>
+  <sponsor id="400249"/>
+  <cosponsors>
+    <cosponsor id="412600" joined="2015-05-12"/>
+    <cosponsor id="412651" joined="2015-05-22"/>
+    <cosponsor id="400101" joined="2015-05-14"/>
+    <cosponsor id="412435" joined="2015-05-12"/>
+    <cosponsor id="412543" joined="2015-06-15"/>
+    <cosponsor id="400219" joined="2015-05-12"/>
+    <cosponsor id="400630" joined="2015-05-12"/>
+    <cosponsor id="400263" joined="2015-05-12"/>
+    <cosponsor id="400291" joined="2015-05-14"/>
+    <cosponsor id="400350" joined="2015-05-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-12" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2015-06-04">
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="Federal Lands" name="House Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="District of Columbia"/>
+    <term name="Emergency medical services and trauma care"/>
+    <term name="Monuments and memorials"/>
+  </subjects>
+  <amendments/>
+  <summary>5/12/2015--Introduced.
+Authorizes the National Emergency Medical Services Memorial Foundation to establish a commemorative work on federal land in the District of Columbia and its environs to commemorate the commitment and service represented by emergency medical services.
+
+Prohibits the use of federal funds to pay any expense of the establishment of such work. Makes the Foundation solely responsible for acceptance of contributions for, and payment of the expenses of, the establishment of such work. Provides for the deposit of excess funds received for such work into a National Park Foundation account.</summary>
+</bill>

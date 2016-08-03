@@ -1,0 +1,84 @@
+<bill session="114" type="hc" number="36" updated="2015-06-11T04:48:35-04:00">
+  <state datetime="2015-04-14">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-14"/>
+  </status>
+  <introduced datetime="2015-04-14"/>
+  <titles>
+    <title type="official" as="introduced">Expressing the sense of Congress that conversion therapy, including efforts by mental health practitioners to change an individual's sexual orientation, gender identity, or gender expression, is dangerous and harmful and should be prohibited from being practiced on minors.</title>
+  </titles>
+  <sponsor id="412259"/>
+  <cosponsors>
+    <cosponsor id="412404" joined="2015-04-14"/>
+    <cosponsor id="400033" joined="2015-04-14"/>
+    <cosponsor id="412516" joined="2015-04-14"/>
+    <cosponsor id="400097" joined="2015-04-14"/>
+    <cosponsor id="412505" joined="2015-04-14"/>
+    <cosponsor id="412385" joined="2015-04-14"/>
+    <cosponsor id="412215" joined="2015-04-14"/>
+    <cosponsor id="412524" joined="2015-04-14"/>
+    <cosponsor id="400129" joined="2015-04-14"/>
+    <cosponsor id="400162" joined="2015-04-14"/>
+    <cosponsor id="400163" joined="2015-04-14"/>
+    <cosponsor id="400641" joined="2015-04-14"/>
+    <cosponsor id="400185" joined="2015-04-14"/>
+    <cosponsor id="412511" joined="2015-05-13"/>
+    <cosponsor id="412546" joined="2015-04-14"/>
+    <cosponsor id="400237" joined="2015-04-14"/>
+    <cosponsor id="412616" joined="2015-04-14"/>
+    <cosponsor id="412521" joined="2015-04-14"/>
+    <cosponsor id="400251" joined="2015-04-14"/>
+    <cosponsor id="412562" joined="2015-04-14"/>
+    <cosponsor id="400259" joined="2015-04-14"/>
+    <cosponsor id="400262" joined="2015-04-14"/>
+    <cosponsor id="412527" joined="2015-04-14"/>
+    <cosponsor id="400289" joined="2015-05-13"/>
+    <cosponsor id="400290" joined="2015-04-14"/>
+    <cosponsor id="400295" joined="2015-05-21"/>
+    <cosponsor id="412523" joined="2015-04-14"/>
+    <cosponsor id="412585" joined="2015-04-14"/>
+    <cosponsor id="412308" joined="2015-05-21"/>
+    <cosponsor id="412331" joined="2015-06-02"/>
+    <cosponsor id="400360" joined="2015-04-14"/>
+    <cosponsor id="400361" joined="2015-04-14"/>
+    <cosponsor id="400371" joined="2015-04-14"/>
+    <cosponsor id="412186" joined="2015-04-14"/>
+    <cosponsor id="400379" joined="2015-04-14"/>
+    <cosponsor id="412520" joined="2015-04-14"/>
+    <cosponsor id="412254" joined="2015-04-14"/>
+    <cosponsor id="400416" joined="2015-04-14"/>
+    <cosponsor id="412239" joined="2015-04-14"/>
+    <cosponsor id="412412" joined="2015-06-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-14" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-04-17">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="sr" number="184"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Child care and development"/>
+    <term name="Child health"/>
+    <term name="Mental health"/>
+    <term name="Sex, gender, sexual orientation discrimination"/>
+  </subjects>
+  <amendments/>
+  <summary>4/14/2015--Introduced.
+Stop Harming Our Kids Resolution of 2015
+
+Expresses the sense of Congress that conversion therapy directed at minors is discredited and ineffective, has no legitimate therapeutic purpose, and is dangerous and harmful.
+
+Defines "conversion therapy" as any practice by a licensed mental health provider, health care provider, or counselor seeking or purporting to impose change of an individual's sexual orientation or gender identity or expression. Excludes from such definition counseling that does not seek to change sexual orientation or gender identity or expression if such counseling provides: (1) acceptance, support, and understanding of a person; (2) facilitation for coping, social support, and identity exploration and development of a person; (3) developmentally appropriate counseling for a person undergoing gender transition; or (4) sexual orientation- and gender identity-neutral interventions to prevent or address unlawful conduct or unsafe sexual practices.
+
+Encourages states to protect minors from efforts that promote or promise to change sexual orientation or gender identity or expression, based on the premise that being lesbian, gay, bisexual, transgender, or gender nonconforming is a mental illness or developmental disorder that can or should be cured.</summary>
+</bill>

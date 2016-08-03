@@ -1,0 +1,42 @@
+<bill session="114" type="s" number="477" updated="2015-06-19T04:48:24-04:00">
+  <state datetime="2015-02-12">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-12"/>
+  </status>
+  <introduced datetime="2015-02-12"/>
+  <titles>
+    <title type="short" as="introduced">Firearms Manufacturers and Dealers Protection Act of 2015</title>
+    <title type="official" as="introduced">A bill to terminate Operation Choke Point.</title>
+  </titles>
+  <sponsor id="412491"/>
+  <cosponsors>
+    <cosponsor id="412248" joined="2015-03-23"/>
+    <cosponsor id="300030" joined="2015-03-16"/>
+    <cosponsor id="300048" joined="2015-03-26"/>
+    <cosponsor id="400194" joined="2015-06-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-12" state="REFERRED">
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="1413"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Banking and financial institutions regulation"/>
+    <term name="Credit and credit markets"/>
+    <term name="Firearms and explosives"/>
+    <term name="Manufacturing"/>
+    <term name="Retail and wholesale trades"/>
+  </subjects>
+  <amendments/>
+  <summary>2/12/2015--Introduced.
+Firearms Manufacturers and Dealers Protection Act of 2015
+
+This bill declares that funds appropriated or otherwise made available, including amounts derived from any fee or other source, are denied to the Federal Deposit Insurance Corporation, the Department of Justice, or any other federal agency to carry out Operation Choke Point or any other program designed to discourage the provision or continuation of credit or the processing of payments by financial institutions for dealers and manufacturers of firearms and ammunition.</summary>
+</bill>

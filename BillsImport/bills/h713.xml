@@ -1,0 +1,30 @@
+<bill session="114" type="h" number="713" updated="2015-03-14T06:25:37-04:00">
+  <state datetime="2015-02-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-04"/>
+  </status>
+  <introduced datetime="2015-02-04"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to disallow the refundable portion of the child credit to taxpayers using individual taxpayer identification numbers issued by the Internal Revenue Service.</title>
+  </titles>
+  <sponsor id="412427"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-02-04" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Income tax credits"/>
+    <term name="Tax administration and collection, taxpayers"/>
+    <term name="Tax treatment of families"/>
+  </subjects>
+  <amendments/>
+  <summary>2/4/2015--Introduced.
+Amends the Internal Revenue Code to disallow the refundable portion of the child tax credit to taxpayers who use individual taxpayer identification numbers issued by the Internal Revenue Service instead of social security account numbers to claim such credit on their tax returns.</summary>
+</bill>

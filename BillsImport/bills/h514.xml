@@ -1,0 +1,81 @@
+<bill session="114" type="h" number="514" updated="2015-02-28T06:20:42-05:00">
+  <state datetime="2015-01-26T15:51:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2015-01-26T15:51:00-05:00"/>
+  </status>
+  <introduced datetime="2015-01-22"/>
+  <titles>
+    <title type="short" as="introduced">Human Trafficking Prioritization Act</title>
+    <title type="short" as="passed house">Human Trafficking Prioritization Act</title>
+    <title type="official" as="introduced">To prioritize the fight against human trafficking within the Department of State according to congressional intent in the Trafficking Victims Protection Act of 2000 without increasing the size of the Federal Government, and for other purposes.</title>
+  </titles>
+  <sponsor id="400380"/>
+  <cosponsors>
+    <cosponsor id="412404" joined="2015-01-22"/>
+    <cosponsor id="412658" joined="2015-01-26"/>
+    <cosponsor id="412555" joined="2015-01-26"/>
+    <cosponsor id="400646" joined="2015-01-26"/>
+    <cosponsor id="412453" joined="2015-01-26"/>
+    <cosponsor id="412486" joined="2015-01-26"/>
+    <cosponsor id="412560" joined="2015-01-26"/>
+    <cosponsor id="412551" joined="2015-01-26"/>
+    <cosponsor id="400652" joined="2015-01-22"/>
+    <cosponsor id="400348" joined="2015-01-26"/>
+    <cosponsor id="400371" joined="2015-01-26"/>
+    <cosponsor id="412509" joined="2015-01-26"/>
+    <cosponsor id="412644" joined="2015-01-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-22" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2015-01-26T15:34:00-05:00">
+      <text>Mr. Royce moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2015-01-26T15:34:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H539-542" label="consideration"/>
+    </action>
+    <action datetime="2015-01-26T15:34:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 514.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2015-01-26T15:51:00-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H539-540" label="text"/>
+    </vote>
+    <action datetime="2015-01-26T15:51:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2015-01-27">
+      <text>Received in the Senate and Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of State"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Federal officials"/>
+    <term name="Human trafficking"/>
+  </subjects>
+  <amendments/>
+  <summary>1/26/2015--Passed House without amendment.
+(This measure has not been amended since it was introduced. The summary of that version is repeated here.)
+
+Human Trafficking Prioritization Act
+
+Expresses the sense of Congress that the Office to Monitor and Combat Trafficking of the Department of State will be more effective in carrying out duties mandated by Congress in the Trafficking Victims Protection Act of 2000, and can do so without an increase in either personnel or budget, if: (1) the Office status is changed to that of a Bureau within the Department; and (2) the Office is headed by an Assistant Secretary with direct access to the Secretary of State, rather than an Ambassador-at-Large.
+
+Amends the Trafficking Victims Protection Act of 2000 to change the status of the Office to Monitor and Combat Trafficking to that of the Bureau to Combat Trafficking in Persons.
+
+Directs the Secretary to report to Congress:
+
+ detailing for each current Assistant Secretary of State position the exact title and length of designation as Assistant Secretary, and whether that designation was legislatively mandated or authorized and, if so, the relevant statutory citation; and whether the Secretary intends to designate one of the Assistant Secretary of State positions as the Assistant Secretary of State to Combat Trafficking in Persons, and the reasons for that decision. Amends the Trafficking Victims Protection Act of 2000 to prohibit subsequent inclusion for more than one consecutive year on the special watch list of countries whose compliance with minimum standards for the elimination of human trafficking is full, partial, or insignificant if the country:
+
+ was included on the list for four consecutive years after enactment of the William Wilberforce Trafficking Victims Protection Reauthorization Act of 2008, and was subsequently included on the exclusive Tier 3 list of countries not making significant efforts to bring themselves into compliance with such standards. States that no additional funds are authorized to be appropriated for diplomatic and consular programs to carry out this Act.</summary>
+</bill>

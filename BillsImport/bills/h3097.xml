@@ -1,0 +1,42 @@
+<bill session="114" type="h" number="3097" updated="2015-08-01T06:45:37-04:00">
+  <state datetime="2015-07-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-16"/>
+  </status>
+  <introduced datetime="2015-07-16"/>
+  <titles>
+    <title type="short" as="introduced">Commemorative Coins Reform Act of 2015</title>
+    <title type="official" as="introduced">To prohibit the payment of surcharges for commemorative coin programs to private organizations or entities, and for other purposes.</title>
+  </titles>
+  <sponsor id="412438"/>
+  <cosponsors>
+    <cosponsor id="412605" joined="2015-07-16"/>
+    <cosponsor id="412567" joined="2015-07-16"/>
+    <cosponsor id="412619" joined="2015-07-16"/>
+    <cosponsor id="412270" joined="2015-07-16"/>
+    <cosponsor id="412472" joined="2015-07-16"/>
+    <cosponsor id="412397" joined="2015-07-16"/>
+    <cosponsor id="412226" joined="2015-07-16"/>
+    <cosponsor id="412419" joined="2015-07-16"/>
+    <cosponsor id="412624" joined="2015-07-16"/>
+    <cosponsor id="412503" joined="2015-07-16"/>
+    <cosponsor id="412552" joined="2015-07-16"/>
+    <cosponsor id="412474" joined="2015-07-16"/>
+    <cosponsor id="412569" joined="2015-07-16"/>
+    <cosponsor id="412489" joined="2015-07-16"/>
+    <cosponsor id="400607" joined="2015-07-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-16" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+  </subjects>
+  <amendments/>
+</bill>

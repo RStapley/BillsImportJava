@@ -1,0 +1,41 @@
+<bill session="114" type="s" number="654" updated="2015-08-22T06:57:08-04:00">
+  <state datetime="2015-03-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-04"/>
+  </status>
+  <introduced datetime="2015-03-04"/>
+  <titles>
+    <title type="official" as="introduced">A bill to exempt certain class A CDL drivers from the requirement to obtain a hazardous material endorsement while operating a service vehicle with a fuel tank containing 3,785 liters (1,000 gallons) or less of diesel fuel.</title>
+  </titles>
+  <sponsor id="300083"/>
+  <cosponsors>
+    <cosponsor id="412556" joined="2015-07-07"/>
+    <cosponsor id="412554" joined="2015-03-04"/>
+    <cosponsor id="412494" joined="2015-04-29"/>
+    <cosponsor id="400284" joined="2015-03-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-04" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="1267"/>
+    <bill relation="unknown" session="114" type="s" number="1732"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="General agriculture matters"/>
+    <term name="Hazardous wastes and toxic substances"/>
+    <term name="Licensing and registrations"/>
+    <term name="Motor fuels"/>
+    <term name="Motor vehicles"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+  <summary>3/4/2015--Introduced.
+Directs the Secretary of Transportation to exempt from the requirement to obtain a hazardous material endorsement all class A commercial driver's license holders who are custom harvesters, agricultural retailers, agricultural business employees, agricultural cooperative employees, or agricultural producers who operate a service vehicle with a fuel tank containing 3,785 liters (1,000) gallons or less of diesel fuel if the tank is clearly marked with a placard reading "Diesel Fuel."</summary>
+</bill>

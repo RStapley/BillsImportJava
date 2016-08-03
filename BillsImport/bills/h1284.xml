@@ -1,0 +1,80 @@
+<bill session="114" type="h" number="1284" updated="2015-07-10T04:47:35-04:00">
+  <state datetime="2015-03-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-04"/>
+  </status>
+  <introduced datetime="2015-03-04"/>
+  <titles>
+    <title type="short" as="introduced">Saving America's Pollinators Act of 2015</title>
+    <title type="official" as="introduced">To direct the Administrator of the Environmental Protection Agency to take certain actions related to pesticides that may affect pollinators, and for other purposes.</title>
+  </titles>
+  <sponsor id="400080"/>
+  <cosponsors>
+    <cosponsor id="412565" joined="2015-06-02"/>
+    <cosponsor id="412657" joined="2015-04-13"/>
+    <cosponsor id="400030" joined="2015-03-18"/>
+    <cosponsor id="400033" joined="2015-03-04"/>
+    <cosponsor id="412379" joined="2015-03-18"/>
+    <cosponsor id="412600" joined="2015-03-16"/>
+    <cosponsor id="412236" joined="2015-04-28"/>
+    <cosponsor id="412272" joined="2015-03-16"/>
+    <cosponsor id="400090" joined="2015-05-19"/>
+    <cosponsor id="400100" joined="2015-06-02"/>
+    <cosponsor id="400103" joined="2015-03-16"/>
+    <cosponsor id="400116" joined="2015-04-22"/>
+    <cosponsor id="412215" joined="2015-05-12"/>
+    <cosponsor id="412524" joined="2015-04-28"/>
+    <cosponsor id="412532" joined="2015-04-13"/>
+    <cosponsor id="400163" joined="2015-06-02"/>
+    <cosponsor id="412282" joined="2015-04-28"/>
+    <cosponsor id="412511" joined="2015-04-13"/>
+    <cosponsor id="400195" joined="2015-05-01"/>
+    <cosponsor id="412435" joined="2015-04-28"/>
+    <cosponsor id="412557" joined="2015-07-09"/>
+    <cosponsor id="400238" joined="2015-04-28"/>
+    <cosponsor id="400245" joined="2015-05-01"/>
+    <cosponsor id="412521" joined="2015-03-16"/>
+    <cosponsor id="412558" joined="2015-04-28"/>
+    <cosponsor id="400259" joined="2015-06-15"/>
+    <cosponsor id="400262" joined="2015-05-01"/>
+    <cosponsor id="400263" joined="2015-03-16"/>
+    <cosponsor id="400289" joined="2015-03-16"/>
+    <cosponsor id="408211" joined="2015-03-18"/>
+    <cosponsor id="400295" joined="2015-03-16"/>
+    <cosponsor id="400309" joined="2015-05-12"/>
+    <cosponsor id="412585" joined="2015-03-16"/>
+    <cosponsor id="412308" joined="2015-05-01"/>
+    <cosponsor id="412331" joined="2015-03-18"/>
+    <cosponsor id="400333" joined="2015-03-16"/>
+    <cosponsor id="400350" joined="2015-04-22"/>
+    <cosponsor id="400360" joined="2015-04-28"/>
+    <cosponsor id="400361" joined="2015-03-16"/>
+    <cosponsor id="400378" joined="2015-05-21"/>
+    <cosponsor id="412259" joined="2015-03-16"/>
+    <cosponsor id="412254" joined="2015-03-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-04" state="REFERRED">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+    <action datetime="2015-03-23">
+      <text>Referred to the Subcommittee on Biotechnology, Horticulture, and Research.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee activity="Referral" code="HSAG14" subcommittee="Biotechnology, Horticulture, and Research" name="House Agriculture"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural conservation and pollution"/>
+    <term name="Animal and plant health"/>
+    <term name="Environmental assessment, monitoring, research"/>
+    <term name="Government information and archives"/>
+    <term name="Hazardous wastes and toxic substances"/>
+    <term name="Insects"/>
+    <term name="Pest management"/>
+  </subjects>
+  <amendments/>
+</bill>

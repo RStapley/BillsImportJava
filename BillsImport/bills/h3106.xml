@@ -1,0 +1,55 @@
+<bill session="114" type="h" number="3106" updated="2015-07-29T04:49:07-04:00">
+  <state datetime="2015-07-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-16"/>
+  </status>
+  <introduced datetime="2015-07-16"/>
+  <titles>
+    <title type="short" as="introduced">Construction Reform Act of 2015</title>
+    <title type="official" as="introduced">To authorize Department major medical facility construction projects for fiscal year 2015, to amend title 38, United States Code, to make certain improvements in the administration of Department medical facility construction projects, and for other purposes.</title>
+  </titles>
+  <sponsor id="400279"/>
+  <cosponsors>
+    <cosponsor id="412250" joined="2015-07-27"/>
+    <cosponsor id="412271" joined="2015-07-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-14">
+      <text>Hearings Held by the Subcommittee on Health Prior to Introduction and Referral.</text>
+    </action>
+    <action datetime="2015-07-16" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2015-07-17">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2015-07-22">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2015-07-22">
+      <text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="2365"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Building construction"/>
+    <term name="California"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Veterans Affairs"/>
+    <term name="Health facilities and institutions"/>
+    <term name="Hospital care"/>
+    <term name="Mental health"/>
+    <term name="Natural disasters"/>
+    <term name="Neurological disorders"/>
+    <term name="New York State"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+</bill>

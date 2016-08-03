@@ -1,0 +1,90 @@
+<bill session="114" type="h" number="1135" updated="2015-05-16T04:47:09-04:00">
+  <state datetime="2015-02-26">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-26"/>
+  </status>
+  <introduced datetime="2015-02-26"/>
+  <titles>
+    <title type="short" as="introduced">Defending Our Great Lakes Act of 2015</title>
+    <title type="official" as="introduced">To provide an immediate measure to control the spread of aquatic nuisance species from the Mississippi River basin to the Great Lakes basin and to inform long-term measures to prevent the Interbasin transfer of aquatic nuisance species.</title>
+  </titles>
+  <sponsor id="400276"/>
+  <cosponsors>
+    <cosponsor id="412565" joined="2015-05-15"/>
+    <cosponsor id="412436" joined="2015-02-26"/>
+    <cosponsor id="412635" joined="2015-02-26"/>
+    <cosponsor id="412563" joined="2015-03-16"/>
+    <cosponsor id="400080" joined="2015-02-26"/>
+    <cosponsor id="412637" joined="2015-02-26"/>
+    <cosponsor id="412488" joined="2015-02-26"/>
+    <cosponsor id="412327" joined="2015-05-08"/>
+    <cosponsor id="412437" joined="2015-02-26"/>
+    <cosponsor id="412566" joined="2015-02-26"/>
+    <cosponsor id="400211" joined="2015-02-26"/>
+    <cosponsor id="412649" joined="2015-03-24"/>
+    <cosponsor id="412465" joined="2015-02-26"/>
+    <cosponsor id="412546" joined="2015-02-26"/>
+    <cosponsor id="412256" joined="2015-02-26"/>
+    <cosponsor id="412638" joined="2015-02-27"/>
+    <cosponsor id="400238" joined="2015-02-26"/>
+    <cosponsor id="412634" joined="2015-02-26"/>
+    <cosponsor id="408211" joined="2015-02-26"/>
+    <cosponsor id="400352" joined="2015-04-13"/>
+    <cosponsor id="400378" joined="2015-02-26"/>
+    <cosponsor id="412636" joined="2015-02-26"/>
+    <cosponsor id="400414" joined="2015-02-26"/>
+    <cosponsor id="412213" joined="2015-02-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-26">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E260-261"/>
+    </action>
+    <action datetime="2015-02-26" state="REFERRED">
+      <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-02-26">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2015-02-26">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2015-02-27">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+    </action>
+    <action datetime="2015-03-23">
+      <text>Referred to the Subcommittee on Water, Power and Oceans.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW02" subcommittee="Water Resources and Environment" name="House Transportation and Infrastructure"/>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII13" subcommittee="Water, Power and Oceans" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="589"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Aquatic ecology"/>
+    <term name="Dams and canals"/>
+    <term name="Floods and storm protection"/>
+    <term name="Great Lakes"/>
+    <term name="Illinois"/>
+    <term name="Indiana"/>
+    <term name="Lakes and rivers"/>
+    <term name="Marine and inland water transportation"/>
+    <term name="Michigan"/>
+    <term name="Minnesota"/>
+    <term name="Mississippi River"/>
+    <term name="New York State"/>
+    <term name="Ohio"/>
+    <term name="Pennsylvania"/>
+    <term name="Water quality"/>
+    <term name="Water storage"/>
+    <term name="Watersheds"/>
+    <term name="Wisconsin"/>
+  </subjects>
+  <amendments/>
+</bill>

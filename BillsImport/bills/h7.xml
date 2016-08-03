@@ -1,0 +1,157 @@
+<bill session="114" type="h" number="7" updated="2015-06-13T06:18:19-04:00">
+  <state datetime="2015-01-22T13:16:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2015-01-22T13:16:00-05:00"/>
+  </status>
+  <introduced datetime="2015-01-21"/>
+  <titles>
+    <title type="short" as="introduced">No Taxpayer Funding for Abortion and Abortion Insurance Full Disclosure Act of 2015</title>
+    <title type="short" as="passed house">No Taxpayer Funding for Abortion and Abortion Insurance Full Disclosure Act of 2015</title>
+    <title type="official" as="introduced">To prohibit taxpayer funded abortions.</title>
+  </titles>
+  <sponsor id="400380"/>
+  <cosponsors>
+    <cosponsor id="412630" joined="2015-01-22"/>
+    <cosponsor id="412478" joined="2015-01-21"/>
+    <cosponsor id="400032" joined="2015-01-21"/>
+    <cosponsor id="400036" joined="2015-01-21"/>
+    <cosponsor id="400089" joined="2015-01-22"/>
+    <cosponsor id="412536" joined="2015-01-22"/>
+    <cosponsor id="400116" joined="2015-01-22"/>
+    <cosponsor id="412457" joined="2015-01-21"/>
+    <cosponsor id="400643" joined="2015-01-21"/>
+    <cosponsor id="400158" joined="2015-01-22"/>
+    <cosponsor id="412444" joined="2015-01-21"/>
+    <cosponsor id="412284" joined="2015-01-21"/>
+    <cosponsor id="400630" joined="2015-01-21"/>
+    <cosponsor id="412294" joined="2015-01-21"/>
+    <cosponsor id="412503" joined="2015-01-22"/>
+    <cosponsor id="412190" joined="2015-01-21"/>
+    <cosponsor id="400644" joined="2015-01-21"/>
+    <cosponsor id="400659" joined="2015-01-21"/>
+    <cosponsor id="412662" joined="2015-01-22"/>
+    <cosponsor id="400320" joined="2015-01-21"/>
+    <cosponsor id="400652" joined="2015-01-22"/>
+    <cosponsor id="412394" joined="2015-01-21"/>
+    <cosponsor id="400344" joined="2015-01-21"/>
+    <cosponsor id="412261" joined="2015-01-21"/>
+    <cosponsor id="412417" joined="2015-01-22"/>
+    <cosponsor id="400367" joined="2015-01-21"/>
+    <cosponsor id="412548" joined="2015-01-21"/>
+    <cosponsor id="412538" joined="2015-01-21"/>
+    <cosponsor id="412618" joined="2015-01-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-21" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-01-21">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-01-21">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-01-21">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2015-01-21">
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+    </action>
+    <action datetime="2015-01-21T22:01:00-05:00">
+      <text>Rules Committee Resolution H. Res. 42 Reported to House. Rule provides for consideration of H.R. 7 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments.</text>
+    </action>
+    <action datetime="2015-01-22">
+      <text>Subcommittee on the Constitution and Civil Justice Discharged.</text>
+    </action>
+    <action datetime="2015-01-22T11:05:00-05:00">
+      <text>Rule H. Res. 42 passed House.</text>
+    </action>
+    <action datetime="2015-01-22T11:09:00-05:00">
+      <text>Considered under the provisions of rule H. Res. 42.</text>
+      <reference ref="CR H494-511" label="consideration"/>
+    </action>
+    <action datetime="2015-01-22T11:09:00-05:00">
+      <text>Rule provides for consideration of H.R. 7 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments.</text>
+    </action>
+    <action datetime="2015-01-22T11:09:00-05:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.R. 7.</text>
+    </action>
+    <action datetime="2015-01-22T12:33:00-05:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+      <reference ref="CR H509" label="consideration"/>
+    </action>
+    <action datetime="2015-01-22T12:33:00-05:00">
+      <text>Ms. Moore moved to recommit with instructions to the Committee on the Judiciary.</text>
+      <reference ref="CR H509-510" label="consideration"/>
+      <reference ref="CR H509" label="text"/>
+    </action>
+    <action datetime="2015-01-22T12:34:00-05:00">
+      <text>DEBATE - The House proceeded with 10 minutes of debate on the Moore motion to recommit with instructions, pending reservation of a point order. The instructions contained in the motion seek to report the same back to the House forthwith with an amendment to clarify that no one is permitted to violate the medical privacy of any woman, including victims of rape and incest, with respect to her choice of or use of comprehensive health insurance coverage. Subsequently, the reservation of a point of order was withdrawn.</text>
+    </action>
+    <action datetime="2015-01-22T12:44:00-05:00">
+      <text>The previous question on the motion to recommit with instructions was ordered without objection.</text>
+      <reference ref="CR H510" label="consideration"/>
+    </action>
+    <action datetime="2015-01-22T13:09:00-05:00">
+      <text>On motion to recommit with instructions Failed by the Yeas and Nays: 177 - 240 (Roll no. 44).</text>
+    </action>
+    <vote how="roll" type="vote" roll="45" datetime="2015-01-22T13:16:00-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by recorded vote: 242 - 179 (Roll no. 45).</text>
+      <reference ref="CR H494-495" label="text"/>
+    </vote>
+    <action datetime="2015-01-22T13:16:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2015-01-26">
+      <text>Received in the Senate and Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral, Discharged" code="HSJU10" subcommittee="Constitution and Civil Justice" name="House Judiciary"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="rule" session="114" type="hr" number="42"/>
+    <bill relation="identical" session="114" type="s" number="582"/>
+  </relatedbills>
+  <subjects>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Abortion"/>
+    <term name="Appropriations"/>
+    <term name="Assault and harassment offenses"/>
+    <term name="Comprehensive health care"/>
+    <term name="Consumer affairs"/>
+    <term name="Crimes against women"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health facilities and institutions"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Income tax credits"/>
+    <term name="Sex offenses"/>
+    <term name="Small business"/>
+  </subjects>
+  <amendments/>
+  <summary>1/22/2015--Passed House without amendment.
+(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)
+
+No Taxpayer Funding for Abortion and Abortion Insurance Full Disclosure Act of 2015
+
+TITLE I--PROHIBITING FEDERALLY FUNDED ABORTIONS
+
+(Sec. 101) This bill prohibits federal funds, including funds in the budget of the District of Columbia, from being expended for abortion or health coverage that includes coverage of abortion. Abortions are eligible for federal funding only in cases of rape or incest, or where a physical condition endangers a woman's life unless an abortion is performed. Currently, federal funding of abortion and health coverage that includes abortion is prohibited, with the same exceptions.
+
+Health care provided in a federal health care facility or by a federal employee may not include abortions that are ineligible for federal funding.
+
+TITLE II--APPLICATION UNDER THE AFFORDABLE CARE ACT
+
+(Sec. 201) This bill amends the Internal Revenue Code to disallow premium assistance tax credits or health insurance tax credits for qualified health plans that cover abortions ineligible for federal funding.
+
+This bill amends the Patient Protection and Affordable Care Act to require the Office of Personnel Management to ensure that multi-state qualified health plans offered on health insurance exchanges do not cover abortions ineligible for federal funding.
+
+(Sec. 202) A qualified health plan's coverage of abortion must be disclosed to enrollees at the time of enrollment and must be prominently displayed in marketing materials, comparison tools, or any summary of benefits and coverage made available by the plan issuer, a health insurance exchange, or the Department of Health and Human Services. The amount of a plan's premium that is attributable to coverage of abortions ineligible for federal funding must be disclosed in material where the premium is disclosed.</summary>
+</bill>

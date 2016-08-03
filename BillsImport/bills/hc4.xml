@@ -1,0 +1,34 @@
+<bill session="114" type="hc" number="4" updated="2015-01-10T06:17:49-05:00">
+  <state datetime="2015-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-06"/>
+  </status>
+  <introduced datetime="2015-01-06"/>
+  <titles>
+    <title type="official" as="introduced">Authorizing the use of Emancipation Hall in the Capitol Visitor Center for a ceremony to present the Congressional Gold Medal to the First Special Service Force, in recognition of its superior service during World War II.</title>
+  </titles>
+  <sponsor id="400279"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-01-06" state="REFERRED">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="sc" number="2"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Conflicts and wars"/>
+    <term name="Congressional tributes"/>
+    <term name="Military history"/>
+    <term name="U.S. Capitol"/>
+    <term name="Veterans' organizations and recognition"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/2015--Introduced.
+Authorizes the use of Emancipation Hall in the Capitol Visitor Center on February 3, 2015, for a ceremony to present the Congressional Gold Medal to the First Special Service Force in recognition of its service during World War II.</summary>
+</bill>

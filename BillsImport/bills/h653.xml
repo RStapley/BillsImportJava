@@ -1,0 +1,124 @@
+<bill session="114" type="h" number="653" updated="2015-07-24T04:47:34-04:00">
+  <state datetime="2015-03-25">REPORTED</state>
+  <status>
+    <unknown datetime="2015-03-25"/>
+  </status>
+  <introduced datetime="2015-02-02"/>
+  <titles>
+    <title type="short" as="introduced">FOIA Act</title>
+    <title type="short" as="introduced">FOIA Oversight and Implementation Act of 2015</title>
+    <title type="official" as="introduced">To amend section 552 of title 5, United States Code (commonly known as the Freedom of Information Act), to provide for greater public access to information, and for other purposes.</title>
+  </titles>
+  <sponsor id="400196"/>
+  <cosponsors>
+    <cosponsor id="412625" joined="2015-03-04"/>
+    <cosponsor id="412500" joined="2015-06-09"/>
+    <cosponsor id="412642" joined="2015-03-24"/>
+    <cosponsor id="412635" joined="2015-03-24"/>
+    <cosponsor id="412516" joined="2015-03-25"/>
+    <cosponsor id="412427" joined="2015-03-04"/>
+    <cosponsor id="412601" joined="2015-03-04"/>
+    <cosponsor id="412622" joined="2015-03-04"/>
+    <cosponsor id="412571" joined="2015-04-14"/>
+    <cosponsor id="412531" joined="2015-03-13"/>
+    <cosponsor id="412272" joined="2015-02-24"/>
+    <cosponsor id="400090" joined="2015-02-02"/>
+    <cosponsor id="412613" joined="2015-06-03"/>
+    <cosponsor id="412477" joined="2015-02-27"/>
+    <cosponsor id="412533" joined="2015-06-10"/>
+    <cosponsor id="412639" joined="2015-03-24"/>
+    <cosponsor id="412482" joined="2015-02-27"/>
+    <cosponsor id="412257" joined="2015-03-24"/>
+    <cosponsor id="400141" joined="2015-03-04"/>
+    <cosponsor id="412532" joined="2015-04-14"/>
+    <cosponsor id="412397" joined="2015-03-13"/>
+    <cosponsor id="412447" joined="2015-02-27"/>
+    <cosponsor id="400175" joined="2015-03-24"/>
+    <cosponsor id="412623" joined="2015-06-03"/>
+    <cosponsor id="400185" joined="2015-03-24"/>
+    <cosponsor id="412484" joined="2015-03-13"/>
+    <cosponsor id="412199" joined="2015-03-24"/>
+    <cosponsor id="412557" joined="2015-03-24"/>
+    <cosponsor id="412638" joined="2015-03-24"/>
+    <cosponsor id="400240" joined="2015-04-23"/>
+    <cosponsor id="412616" joined="2015-06-03"/>
+    <cosponsor id="400630" joined="2015-04-14"/>
+    <cosponsor id="400654" joined="2015-03-13"/>
+    <cosponsor id="400263" joined="2015-07-23"/>
+    <cosponsor id="412540" joined="2015-07-07"/>
+    <cosponsor id="400295" joined="2015-02-24"/>
+    <cosponsor id="412302" joined="2015-06-23"/>
+    <cosponsor id="412443" joined="2015-04-28"/>
+    <cosponsor id="412506" joined="2015-04-14"/>
+    <cosponsor id="412306" joined="2015-03-24"/>
+    <cosponsor id="412308" joined="2015-06-16"/>
+    <cosponsor id="412309" joined="2015-05-12"/>
+    <cosponsor id="412331" joined="2015-02-02"/>
+    <cosponsor id="400333" joined="2015-03-24"/>
+    <cosponsor id="412489" joined="2015-07-21"/>
+    <cosponsor id="412411" joined="2015-03-13"/>
+    <cosponsor id="400367" joined="2015-03-04"/>
+    <cosponsor id="412392" joined="2015-03-24"/>
+    <cosponsor id="412405" joined="2015-03-04"/>
+    <cosponsor id="412522" joined="2015-04-23"/>
+    <cosponsor id="412213" joined="2015-03-13"/>
+    <cosponsor id="412239" joined="2015-03-24"/>
+    <cosponsor id="412525" joined="2015-07-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-02" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2015-03-25">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-03-25" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="337"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Advisory bodies"/>
+    <term name="Alternative dispute resolution, mediation, arbitration"/>
+    <term name="Congressional oversight"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Federal officials"/>
+    <term name="Freedom of information"/>
+    <term name="Government ethics and transparency, public corruption"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="National Archives and Records Administration"/>
+    <term name="Performance measurement"/>
+    <term name="User charges and fees"/>
+  </subjects>
+  <amendments/>
+  <summary>2/2/2015--Introduced.
+FOIA Oversight and Implementation Act of 2015 or the FOIA Act
+
+This bill makes changes to the Freedom of Information Act (FOIA) to provide the public with greater access to information disclosable under such Act.
+
+The bill requires agencies, in administering FOIA, to: (1) make information disclosable under such Act available to the public in an electronic, publicly accessible format; and (2) make available to the public records of general interest that inform the public of the operations and activities of the government or that have been requested three or more times.
+
+The Office of Management and Budget is directed to ensure the operation of an online request portal that allows a member of the public to submit a FOIA request for records to any agency from a single website.
+
+The bill establishes a presumption of openness by prohibiting an agency from withholding information otherwise disclosable under FOIA unless: (1) the agency reasonably foresees that disclosure would cause specific identifiable harm to an interest protected by an exemption to FOIA, or (2) disclosure is prohibited by law.
+
+The duties of the Office of Government Information Services (OGIS) are expanded to require: (1) mediation services to resolve disputes between agencies and persons making FOIA requests; (2) annual reports on the activities of OGIS that are available in an electronic, publicly accessible format; and (3) annual public meetings on the review of agencies' FOIA policies, procedures, and compliance.
+
+The bill requires annual agency FOIA reports and the annual reports on FOIA of the Attorney General and the Director of the Office of Information Policy (OIP) to be made available in an electronic, publicly accessible format.
+
+Agencies are prohibited from assessing search or duplication fees if they have failed to comply with a statutory deadline for a FOIA response and did not submit a written notice to the requestor justifying the fees requested.
+
+The role of the Chief FOIA Officer at each agency is expanded to require officers to serve as the primary agency liaison between OGIS and OIP and to complete annual compliance determinations that review agency regulations, fee assessments, use of exemptions, dispute resolution services, and the timely processing of FOIA requests.
+
+The bill establishes a Chief FOIA Officers Council for developing recommendations for increasing compliance and efficiency, disseminating information about agency experiences, identifying initiatives to increase transparency and compliance, and promoting performance measures to ensure agency compliance with FOIA requirements.
+
+The Inspector General of each agency is required to: (1) periodically review compliance with FOIA requirements, including the timely processing of requests, assessment of fees and fee waivers, and the use of FOIA exemptions, and (2) make recommendations to the agency head, including recommendations for disciplinary action.</summary>
+</bill>

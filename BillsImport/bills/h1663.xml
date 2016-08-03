@@ -1,0 +1,101 @@
+<bill session="114" type="h" number="1663" updated="2015-05-16T06:31:36-04:00">
+  <state datetime="2015-03-26">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-26"/>
+  </status>
+  <introduced datetime="2015-03-26"/>
+  <titles>
+    <title type="short" as="introduced">Infrastructure Jobs and Energy Independence Act</title>
+    <title type="official" as="introduced">To greatly enhance America's path toward energy independence and economic and national security, to rebuild our Nation's aging roads, bridges, locks, and dams, and for other purposes.</title>
+  </titles>
+  <sponsor id="400285"/>
+  <cosponsors>
+    <cosponsor id="412280" joined="2015-03-26"/>
+    <cosponsor id="412465" joined="2015-03-26"/>
+    <cosponsor id="412487" joined="2015-03-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-26" state="REFERRED">
+      <text>Referred to the Committee on Natural Resources, and in addition to the Committees on Energy and Commerce, the Judiciary, Rules, the Budget, and Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-03-26">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2015-03-26">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-03-26">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2015-03-26">
+      <text>Referred to House Rules</text>
+    </action>
+    <action datetime="2015-03-26">
+      <text>Referred to House Budget</text>
+    </action>
+    <action datetime="2015-03-26">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2015-03-27">
+      <text>Referred to the Subcommittee on Energy and Power.</text>
+    </action>
+    <action datetime="2015-03-27">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+    </action>
+    <action datetime="2015-03-27">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+    </action>
+    <action datetime="2015-03-27">
+      <text>Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.</text>
+    </action>
+    <action datetime="2015-03-27">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+    </action>
+    <action datetime="2015-04-20">
+      <text>Referred to the Subcommittee on Energy and Mineral Resources.</text>
+    </action>
+    <action datetime="2015-04-29">
+      <text>Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII06" subcommittee="Energy and Mineral Resources" name="House Natural Resources"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU05" subcommittee="Regulatory Reform, Commercial And Antitrust Law" name="House Judiciary"/>
+    <committee code="HSRU" name="House Rules" activity="Referral"/>
+    <committee code="HSBU" name="House Budget" activity="Referral"/>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+    <committee activity="Referral" code="HSPW12" subcommittee="Highways and Transit" name="House Transportation and Infrastructure"/>
+    <committee activity="Referral" code="HSPW14" subcommittee="Railroads, Pipelines, and Hazardous Materials" name="House Transportation and Infrastructure"/>
+    <committee activity="Referral" code="HSPW02" subcommittee="Water Resources and Environment" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+  </subjects>
+  <amendments/>
+  <summary>3/26/2015--Introduced.
+Infrastructure Jobs and Energy Independence Act 
+
+ Deems the Draft Proposed Outer Continental Shelf Oil and Gas Leasing Program 2017-2022 (Program) issued by the Secretary of the Interior to be approved as a final oil and gas leasing program under the Outer Continental Shelf Lands Act, including the modifications to the Program as prescribed by this Act.
+
+Includes the following additional areas within the Program: (1) the Chukchi Sea; (2) the Beaufort Sea; (3) Bristol Bay; (4) previously leased areas off the coast of Virginia; and (5) all other outer Continental Shelf planning areas estimated to contain over 5 billion barrels of oil, and more than 50 billion cubic feet of gas. Prohibits the President from excluding from oil and gas leasing any area included in the final oil and gas leasing program deemed approved under this Act. Deems the Secretary to have issued a final environmental impact statement for the Program under the National Environmental Policy Act of 1969.
+
+Directs the Secretary to: (1) conduct a lease sale in each outer Continental Shelf (OCS) planning area for which there is a commercial interest in purchasing federal oil and gas production leases, (2) prepare an inventory of U.S. offshore energy resources, and (3) promulgate regulations governing the production of oil or gas resources of the OCS.
+
+Authorizes the Secretary conduct commercial lease sales of OCS resources to produce renewable energy and cultivate marine organisms in their natural habitats.
+
+Extends from three geographical miles to nine nautical miles the allowable seaward boundary of a coastal state.
+
+Repeals the moratorium on oil and gas leasing in: (1) any area east of the Military Mission Line in the Gulf of Mexico, (2) any area in the Eastern Planning Area that is within 125 miles of the Florida coastline, and (3) specified areas within the Central Planning Area and within 100 miles of the Florida coastline.
+
+Requires&#160;the Secretary to issue a final leasing plan for the Eastern Gulf of Mexico for all areas where there exists commercial interest in purchasing federal oil and gas leases for production.
+
+Requires the Secretary of Energy to: (1) publish a plan to exchange a specified amount of light grade petroleum from the Strategic Petroleum Reserve for heavy grade petroleum plus additional cash bonus bids that reflect the difference in market value between light grade and heavy grade petroleum and the timing of deliveries of heavy grade petroleum, and (2) deposit 90% of the remaining net proceeds from the exchange into the Infrastructure Renewal Reserve.
+
+Amends the Alaska National Interest Lands Conservation Act to repeal the prohibition against leasing or other development leading to production of oil and gas from the Arctic National Wildlife Refuge.</summary>
+</bill>

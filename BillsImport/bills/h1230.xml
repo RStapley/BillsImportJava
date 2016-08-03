@@ -1,0 +1,31 @@
+<bill session="114" type="h" number="1230" updated="2015-05-16T06:28:00-04:00">
+  <state datetime="2015-03-03">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-03"/>
+  </status>
+  <introduced datetime="2015-03-03"/>
+  <titles>
+    <title type="short" as="introduced">Government Employee Pension Reform Act of 2015</title>
+    <title type="official" as="introduced">To amend title 5, United States Code, to adjust the calculation of average pay for purposes of Federal civilian annuities.</title>
+  </titles>
+  <sponsor id="412610"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-03-03" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+  </subjects>
+  <amendments/>
+  <summary>3/3/2015--Introduced.
+Government Employee Pension Reform Act of 2015 
+
+This bill revises the definition of "average pay" for purposes of federal employee pensions under the Civil Service Retirement System and the Federal Employees Retirement System to mean the largest annual rate resulting from averaging rates of base pay over any five (currently, three) consecutive years of creditable service. This change will take effect on January 1, 2017.</summary>
+</bill>

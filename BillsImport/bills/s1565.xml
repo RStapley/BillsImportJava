@@ -1,0 +1,47 @@
+<bill session="114" type="s" number="1565" updated="2015-07-11T07:00:22-04:00">
+  <state datetime="2015-06-11">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-11"/>
+  </status>
+  <introduced datetime="2015-06-11"/>
+  <titles>
+    <title type="short" as="introduced">Military Consumer Protection Act</title>
+    <title type="official" as="introduced">A bill to allow the Bureau of Consumer Financial Protection to provide greater protection to servicemembers.</title>
+  </titles>
+  <sponsor id="300081"/>
+  <cosponsors>
+    <cosponsor id="412490" joined="2015-06-11"/>
+    <cosponsor id="300038" joined="2015-06-11"/>
+    <cosponsor id="412378" joined="2015-06-11"/>
+    <cosponsor id="412200" joined="2015-06-11"/>
+    <cosponsor id="412582" joined="2015-06-11"/>
+    <cosponsor id="412242" joined="2015-06-15"/>
+    <cosponsor id="400272" joined="2015-06-11"/>
+    <cosponsor id="412325" joined="2015-06-11"/>
+    <cosponsor id="300087" joined="2015-06-11"/>
+    <cosponsor id="412321" joined="2015-06-11"/>
+    <cosponsor id="412542" joined="2015-06-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-11" state="REFERRED">
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="2979"/>
+    <bill relation="unknown" session="114" type="s" number="1491"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <summary>6/11/2015--Introduced.
+Military Consumer Protection Act
+
+This bill amends the Consumer Financial Protection Act to extend Consumer Financial Protection Bureau oversight and protection to provisions under the Servicemembers Civil Relief Act concerning:
+
+ future financial transactions, excluding insurance; default judgments, excluding child custody proceedings; interest rates on pre-service debts; evictions; purchase or lease installment contracts; mortgages and trusts; motor vehicle leases; telephone service contracts; and waiver of rights pursuant to a written agreement, excluding bailments.</summary>
+</bill>

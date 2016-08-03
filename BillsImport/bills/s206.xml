@@ -1,0 +1,39 @@
+<bill session="114" type="s" number="206" updated="2015-02-14T06:35:49-05:00">
+  <state datetime="2015-01-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-21"/>
+  </status>
+  <introduced datetime="2015-01-21"/>
+  <titles>
+    <title type="short" as="introduced">Local Transportation Infrastructure Act</title>
+    <title type="official" as="introduced">A bill to amend title 23, United States Code, to reauthorize the State infrastructure bank program.</title>
+  </titles>
+  <sponsor id="412493"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-01-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="652"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Public transit"/>
+    <term name="Railroads"/>
+    <term name="Regional and metropolitan planning"/>
+    <term name="Roads and highways"/>
+    <term name="State and local finance"/>
+    <term name="Transportation programs funding"/>
+    <term name="Urban and suburban affairs and development"/>
+  </subjects>
+  <amendments/>
+  <summary>1/21/2015--Introduced.
+Local Transportation Infrastructure Act
+
+Revises and reauthorizes the state infrastructure bank program for FY2015 and FY2016.</summary>
+</bill>

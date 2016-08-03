@@ -1,0 +1,36 @@
+<bill session="114" type="s" number="1059" updated="2015-05-16T06:49:11-04:00">
+  <state datetime="2015-04-22">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-22"/>
+  </status>
+  <introduced datetime="2015-04-22"/>
+  <titles>
+    <title type="short" as="introduced">College Options for DREAMers Act</title>
+    <title type="official" as="introduced">A bill to provide Dreamer students with access to student financial aid.</title>
+  </titles>
+  <sponsor id="412200"/>
+  <cosponsors>
+    <cosponsor id="300038" joined="2015-04-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-22" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="1959"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Border security and unlawful immigration"/>
+    <term name="Department of Education"/>
+    <term name="Higher education"/>
+    <term name="Immigration status and procedures"/>
+    <term name="Student aid and college costs"/>
+  </subjects>
+  <amendments/>
+</bill>

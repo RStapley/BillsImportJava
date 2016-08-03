@@ -1,0 +1,60 @@
+<bill session="114" type="s" number="1176" updated="2015-07-25T06:58:59-04:00">
+  <state datetime="2015-04-30">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-30"/>
+  </status>
+  <introduced datetime="2015-04-30"/>
+  <titles>
+    <title type="short" as="introduced">EMPOWER Act of 2015</title>
+    <title type="short" as="introduced">Empowering Mass Participation to Offset the Wealthy's Electoral Role Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to reform the system of public financing for Presidential elections, and for other purposes.</title>
+  </titles>
+  <sponsor id="400413"/>
+  <cosponsors>
+    <cosponsor id="412223" joined="2015-05-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-30" state="REFERRED">
+      <text>Read twice and referred to the Committee on Rules and Administration.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSRA" name="Senate Rules and Administration" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="424"/>
+    <bill relation="unknown" session="114" type="h" number="2143"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Accounting and auditing"/>
+    <term name="Elections, voting, political campaign regulation"/>
+    <term name="Government operations and politics"/>
+    <term name="Government studies and investigations"/>
+    <term name="Government trust funds"/>
+    <term name="Inflation and prices"/>
+    <term name="Presidents and presidential powers"/>
+    <term name="Tax administration and collection, taxpayers"/>
+  </subjects>
+  <amendments/>
+  <summary>4/30/2015--Introduced.
+Empowering Mass Participation to Offset the Wealthy's Electoral Role Act of 2015 or the EMPOWER Act of 2015
+
+Amends the Internal Revenue Code and the Federal Election Campaign Act of 1971 to revise the system of public financing for presidential primary and general elections occurring after January 1, 2016.
+
+Increases the amount of matching funds for presidential primaries from a one-to-one match to a six-to-one match for contributions of $250 or less from individuals, with a limit on aggregate individual contributions of $1,000. Limits the total amount of payments to a presidential primary candidate to $300 million. Provides for an inflation adjustment to matching contributions beginning after 2015.
+
+Requires presidential primary candidates who opt to participate in the public financing system to certify to the Federal Election Commission (FEC) that they have raised $25,000 (currently, $5,000) in each of 20 states, with individual contributions limited to $250. Requires such candidates to commit to accept public financing in both the primary and general elections.
+
+Prohibits presidential primary candidates or their authorized committees from accepting contributions or bundled contributions (i.e., combining small contributions into one large contribution) from lobbyists or political action committees (PACs).
+
+Eliminates expenditure limitations for presidential primary and general elections.
+
+Changes the period for payment of matching funds to presidential primary candidates from January 1 of the election year to six months prior to the date of the earliest state primary election.
+
+Revises general election payment provisions to allow a grant of $50 million to candidates and an additional $150 million in matching funds based upon a six-to-one match of contributions raised after June 1 of the general election year from individual donors giving up to $250 each.
+
+Increases to $100 million the limit on coordinated spending by a national party and its presidential candidate in a general election campaign.
+
+Establishes a uniform date for the release of payments to eligible general election candidates.</summary>
+</bill>

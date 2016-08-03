@@ -1,0 +1,37 @@
+<bill session="114" type="h" number="1857" updated="2015-06-04T04:47:57-04:00">
+  <state datetime="2015-04-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-16"/>
+  </status>
+  <introduced datetime="2015-04-16"/>
+  <titles>
+    <title type="official" as="introduced">To authorize the President to award the Medal of Honor posthumously to Major Dominic S. Gentile of the United States Army Air Forces for acts of valor during World War II.</title>
+  </titles>
+  <sponsor id="412565"/>
+  <cosponsors>
+    <cosponsor id="412226" joined="2015-06-03"/>
+    <cosponsor id="400211" joined="2015-04-23"/>
+    <cosponsor id="412461" joined="2015-04-16"/>
+    <cosponsor id="400406" joined="2015-04-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-16" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Conflicts and wars"/>
+    <term name="Congressional tributes"/>
+    <term name="Europe"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Veterans' organizations and recognition"/>
+  </subjects>
+  <amendments/>
+  <summary>4/16/2015--Introduced.
+This bill authorizes the President to award the Medal of Honor posthumously to former Major Dominic S. Gentile, U.S. Army Air Forces, for acts of valor as a pilot during World War II.</summary>
+</bill>

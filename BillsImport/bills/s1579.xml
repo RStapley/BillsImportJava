@@ -1,0 +1,37 @@
+<bill session="114" type="s" number="1579" updated="2015-07-31T04:47:50-04:00">
+  <state datetime="2015-06-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-16"/>
+  </status>
+  <introduced datetime="2015-06-16"/>
+  <titles>
+    <title type="short" as="introduced">NATIVE Act</title>
+    <title type="short" as="introduced">Native American Tourism and Improving Visitor Experience Act</title>
+    <title type="official" as="introduced">A bill to enhance and integrate Native American tourism, empower Native American communities, increase coordination and collaboration between Federal tourism assets, and expand heritage and cultural tourism opportunities in the United States.</title>
+  </titles>
+  <sponsor id="412507"/>
+  <cosponsors>
+    <cosponsor id="412378" joined="2015-06-16"/>
+    <cosponsor id="412554" joined="2015-07-30"/>
+    <cosponsor id="412218" joined="2015-06-16"/>
+    <cosponsor id="300075" joined="2015-06-16"/>
+    <cosponsor id="412669" joined="2015-06-16"/>
+    <cosponsor id="412665" joined="2015-07-13"/>
+    <cosponsor id="412244" joined="2015-06-16"/>
+    <cosponsor id="400546" joined="2015-06-16"/>
+    <cosponsor id="400413" joined="2015-06-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-16" state="REFERRED">
+      <text>Read twice and referred to the Committee on Indian Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SLIA" name="Senate Indian Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Native Americans"/>
+  </subjects>
+  <amendments/>
+</bill>

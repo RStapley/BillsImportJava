@@ -1,0 +1,34 @@
+<bill session="114" type="s" number="1697" updated="2015-07-11T07:01:28-04:00">
+  <state datetime="2015-06-25">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-25"/>
+  </status>
+  <introduced datetime="2015-06-25"/>
+  <titles>
+    <title type="short" as="introduced">Small Business Healthcare Relief Act</title>
+    <title type="official" as="introduced">A bill to provide an exception from certain group health plan requirements to allow small businesses to use pre-tax dollars to assist employees in the purchase of policies in the individual health insurance market, and for other purposes.</title>
+  </titles>
+  <sponsor id="300048"/>
+  <cosponsors>
+    <cosponsor id="412554" joined="2015-06-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-25">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S4652"/>
+    </action>
+    <action datetime="2015-06-25" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="2911"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,76 @@
+<bill session="114" type="h" number="474" updated="2015-05-20T04:47:35-04:00">
+  <state datetime="2015-05-18T16:11:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2015-05-18T16:11:00-04:00"/>
+  </status>
+  <introduced datetime="2015-01-22"/>
+  <titles>
+    <title type="short" as="introduced">Homeless Veterans' Reintegration Programs Reauthorization Act of 2015</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to provide for a five-year extension to the homeless veterans reintegration programs and to provide clarification regarding eligibility for services under such programs.</title>
+  </titles>
+  <sponsor id="412564"/>
+  <cosponsors>
+    <cosponsor id="412651" joined="2015-03-23"/>
+    <cosponsor id="412616" joined="2015-05-12"/>
+    <cosponsor id="412647" joined="2015-03-23"/>
+    <cosponsor id="412509" joined="2015-05-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-22" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2015-02-13">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+    </action>
+    <action datetime="2015-03-24">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="2015-04-16">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2015-04-16">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text>
+    </action>
+    <action datetime="2015-05-18T16:06:00-04:00">
+      <text>Mr. Wenstrup moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2015-05-18T16:06:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3258-3259" label="consideration"/>
+    </action>
+    <action datetime="2015-05-18T16:06:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 474.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2015-05-18T16:11:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H3258-3259" label="text"/>
+    </vote>
+    <action datetime="2015-05-18T16:11:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2015-05-19">
+      <text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSVR10" subcommittee="Economic Opportunity" name="House Veterans' Affairs"/>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Homelessness and emergency shelter"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+    <term name="Veterans' loans, housing, homeless programs"/>
+  </subjects>
+  <amendments/>
+  <summary>5/18/2015--Passed House without amendment.
+(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)
+
+Homeless Veterans' Reintegration Programs Reauthorization Act of 2015
+
+(Sec. 2) Extends through FY2020 the Department of Veterans Affairs (VA) homeless veterans reintegration programs. (Those programs provide job training, counseling, and placement services to homeless veterans to expedite their reintegration into the labor force.)
+
+(Sec. 3) Makes eligible for participation in those programs: (1) homeless veterans, (2) veterans who are participating in the VA supported housing program for which rental assistance is provided under the United States Housing Act of 1937, and (3) veterans who are transitioning from being incarcerated.</summary>
+</bill>

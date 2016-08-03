@@ -1,0 +1,46 @@
+<bill session="114" type="s" number="1491" updated="2015-08-05T04:47:54-04:00">
+  <state datetime="2015-06-03">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-03"/>
+  </status>
+  <introduced datetime="2015-06-03"/>
+  <titles>
+    <title type="short" as="introduced">Community Lender Regulatory Relief and Consumer Protection Act of 2015</title>
+    <title type="official" as="introduced">A bill to provide sensible relief to community financial institutions, to protect consumers, and for other purposes.</title>
+  </titles>
+  <sponsor id="400050"/>
+  <cosponsors>
+    <cosponsor id="400013" joined="2015-08-04"/>
+    <cosponsor id="412390" joined="2015-07-14"/>
+    <cosponsor id="412205" joined="2015-06-03"/>
+    <cosponsor id="412554" joined="2015-06-03"/>
+    <cosponsor id="400272" joined="2015-06-03"/>
+    <cosponsor id="412325" joined="2015-06-03"/>
+    <cosponsor id="300081" joined="2015-06-03"/>
+    <cosponsor id="300087" joined="2015-06-03"/>
+    <cosponsor id="412244" joined="2015-06-03"/>
+    <cosponsor id="412321" joined="2015-06-03"/>
+    <cosponsor id="412542" joined="2015-06-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-03" state="REFERRED">
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="299"/>
+    <bill relation="unknown" session="114" type="h" number="1334"/>
+    <bill relation="unknown" session="114" type="h" number="1354"/>
+    <bill relation="identical" session="114" type="h" number="2642"/>
+    <bill relation="unknown" session="114" type="s" number="1367"/>
+    <bill relation="unknown" session="114" type="s" number="1484"/>
+    <bill relation="unknown" session="114" type="s" number="1565"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+  </subjects>
+  <amendments/>
+</bill>

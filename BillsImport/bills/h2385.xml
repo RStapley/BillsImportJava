@@ -1,0 +1,41 @@
+<bill session="114" type="h" number="2385" updated="2015-08-01T06:39:28-04:00">
+  <state datetime="2015-05-15">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-15"/>
+  </status>
+  <introduced datetime="2015-05-15"/>
+  <titles>
+    <title type="short" as="introduced">Stop Blood Tomatoes Act</title>
+    <title type="official" as="introduced">To require certain large companies to submit to an independent annual audit of their supply chains to verify that their supply chains are free of child and forced labor.</title>
+  </titles>
+  <sponsor id="412522"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-05-15" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-05-22">
+      <text>Referred to the Subcommittee on Commerce, Manufacturing, and Trade.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF17" subcommittee="Commerce, Manufacturing, and Trade" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Accounting and auditing"/>
+    <term name="Agricultural trade"/>
+    <term name="Business ethics"/>
+    <term name="Food industry and services"/>
+    <term name="Fruit and vegetables"/>
+    <term name="Government information and archives"/>
+    <term name="Internet and video services"/>
+    <term name="Labor standards"/>
+    <term name="Manufacturing"/>
+    <term name="Migrant, seasonal, agricultural labor"/>
+    <term name="Youth employment and child labor"/>
+  </subjects>
+  <amendments/>
+</bill>

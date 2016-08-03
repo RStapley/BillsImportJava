@@ -1,0 +1,35 @@
+<bill session="114" type="h" number="3401" updated="2015-08-15T06:47:50-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">Stopping Over-Criminalization Act of 2015</title>
+    <title type="official" as="introduced">To reduce Federal overcriminalization, protect Americans from unjust punishment, and uphold the role of Congress by clarifying mens rea requirements for all Federal criminal offenses, creating an inventory of Federal offenses that carry a criminal penalty, and providing that no rule of the executive branch which may be enforced by criminal penalties can take effect unless a joint resolution of approval is enacted into law.</title>
+  </titles>
+  <sponsor id="412311"/>
+  <cosponsors>
+    <cosponsor id="412432" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Referred to House Rules</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee code="HSRU" name="House Rules" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+  </subjects>
+  <amendments/>
+</bill>

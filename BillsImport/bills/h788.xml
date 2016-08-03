@@ -1,0 +1,38 @@
+<bill session="114" type="h" number="788" updated="2015-03-28T06:23:34-04:00">
+  <state datetime="2015-02-05">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-05"/>
+  </status>
+  <introduced datetime="2015-02-05"/>
+  <titles>
+    <title type="short" as="introduced">Foreign Earnings Reinvestment Act</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to allow a temporary dividends received deduction for dividends received from a controlled foreign corporation.</title>
+  </titles>
+  <sponsor id="400141"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-02-05" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="397"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Corporate finance and management"/>
+    <term name="Foreign and international corporations"/>
+    <term name="Income tax deductions"/>
+    <term name="Interest, dividends, interest rates"/>
+    <term name="Taxation of foreign income"/>
+    <term name="Unemployment"/>
+  </subjects>
+  <amendments/>
+  <summary>2/5/2015--Introduced.
+Foreign Earnings Reinvestment Act 
+
+ Amends the Internal Revenue Code to: (1) extend the election allowed to a domestic corporation to deduct current and accumulated dividends received from a controlled foreign corporation to the corporation's last taxable year beginning before the enactment of this Act or the first taxable year which begins during the one-year period beginning on such enactment date, (2) reduce tax rates on foreign earnings of domestic corporations that reinvest such earnings in the United States and that expand their payrolls over 2014 levels, and (3) increase the taxable income of domestic corporations that fail to maintain employment levels in the 23-month period after receiving a reduction in tax rates under this Act.</summary>
+</bill>

@@ -1,0 +1,35 @@
+<bill session="114" type="sr" number="112" updated="2015-06-13T06:43:41-04:00">
+  <state datetime="2015-03-25">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-25"/>
+  </status>
+  <introduced datetime="2015-03-25"/>
+  <titles>
+    <title type="official" as="introduced">A resolution expressing the sense of the Senate that the Internal Revenue Service should provide printed copies of Internal Revenue Service Publication 17 to taxpayers in the United States free of charge.</title>
+  </titles>
+  <sponsor id="412491"/>
+  <cosponsors>
+    <cosponsor id="412493" joined="2015-03-25"/>
+    <cosponsor id="412323" joined="2015-03-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-25" state="REFERRED">
+      <text>Referred to the Committee on Finance.</text>
+      <reference ref="CR S1894" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Department of the Treasury"/>
+    <term name="Government information and archives"/>
+    <term name="Internal Revenue Service (IRS)"/>
+    <term name="Tax administration and collection, taxpayers"/>
+  </subjects>
+  <amendments/>
+  <summary>3/25/2015--Introduced.
+This resolution urges the Internal Revenue Service to resume printing copies of Internal Revenue Service Publication 17 ("Your Federal Income Tax")&#160;and provide free copies of such publication to taxpayers. Publication 17 provides&#160;instruction to individual taxpayers on the preparation of their tax returns.</summary>
+</bill>

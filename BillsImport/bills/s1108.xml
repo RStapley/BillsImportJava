@@ -1,0 +1,38 @@
+<bill session="114" type="s" number="1108" updated="2015-07-25T06:58:25-04:00">
+  <state datetime="2015-04-28">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-28"/>
+  </status>
+  <introduced datetime="2015-04-28"/>
+  <titles>
+    <title type="short" as="introduced">Stanley Cooper Death Benefits for Court Security Officers Act</title>
+    <title type="official" as="introduced">A bill to amend the Omnibus Crime Control and Safe Streets Act of 1968 to include court security officers in the public safety officers' death benefits program.</title>
+  </titles>
+  <sponsor id="300082"/>
+  <cosponsors>
+    <cosponsor id="412218" joined="2015-04-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-28" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S2476" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Judicial procedure and administration"/>
+    <term name="Law enforcement officers"/>
+  </subjects>
+  <amendments/>
+  <summary>4/28/2015--Introduced.
+Stanley Cooper Death Benefits for Court Security Officers Act
+
+Amends the Omnibus Crime Control and Safe Streets Act of 1968 to include a court security officer under contract with the U.S. Marshals Service within the definition of "public safety officer" for purposes of public safety officers' death benefits.
+
+Makes this Act applicable with respect to any injury sustained on or after January 1, 2010.</summary>
+</bill>

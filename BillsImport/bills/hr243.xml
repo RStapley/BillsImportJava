@@ -1,0 +1,35 @@
+<bill session="114" type="hr" number="243" updated="2015-06-03T04:46:36-04:00">
+  <state datetime="2015-05-01">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-01"/>
+  </status>
+  <introduced datetime="2015-05-01"/>
+  <titles>
+    <title type="official" as="introduced">Expressing the sense of the House of Representative in respect to promoting a strong national energy policy that supports the innovative and hard-working men and women in the oil and gas industry who have led the charge in a United States energy revolution.</title>
+  </titles>
+  <sponsor id="400655"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-05-01">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H2784"/>
+    </action>
+    <action datetime="2015-05-01" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-05-08">
+      <text>Referred to the Subcommittee on Energy and Power.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <summary>5/1/2015--Introduced.
+Declares that the House of Representatives supports policies that:
+
+ cut through bureaucratic red tape to encourage domestic energy resurgence; reduce harmful, job-killing regulations; and eliminate an obsolete, decades-old crude oil export ban to reduce price volatility, increase market stability, and promote economic growth.</summary>
+</bill>

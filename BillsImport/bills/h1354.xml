@@ -1,0 +1,69 @@
+<bill session="114" type="h" number="1354" updated="2015-07-29T04:47:56-04:00">
+  <state datetime="2015-03-13">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-13"/>
+  </status>
+  <introduced datetime="2015-03-13"/>
+  <titles>
+    <title type="short" as="introduced">Permanently Protecting Tenants at Foreclosure Act of 2015</title>
+    <title type="official" as="introduced">To permanently extend the Protecting Tenants at Foreclosure Act of 2009.</title>
+  </titles>
+  <sponsor id="412215"/>
+  <cosponsors>
+    <cosponsor id="400616" joined="2015-03-13"/>
+    <cosponsor id="400063" joined="2015-03-13"/>
+    <cosponsor id="412571" joined="2015-03-19"/>
+    <cosponsor id="412470" joined="2015-07-07"/>
+    <cosponsor id="412600" joined="2015-03-13"/>
+    <cosponsor id="412236" joined="2015-07-28"/>
+    <cosponsor id="400090" joined="2015-03-13"/>
+    <cosponsor id="412327" joined="2015-07-13"/>
+    <cosponsor id="400653" joined="2015-03-13"/>
+    <cosponsor id="400162" joined="2015-03-13"/>
+    <cosponsor id="400170" joined="2015-03-13"/>
+    <cosponsor id="400179" joined="2015-03-13"/>
+    <cosponsor id="412511" joined="2015-07-10"/>
+    <cosponsor id="412199" joined="2015-03-13"/>
+    <cosponsor id="400211" joined="2015-03-13"/>
+    <cosponsor id="412543" joined="2015-04-13"/>
+    <cosponsor id="400230" joined="2015-03-13"/>
+    <cosponsor id="400237" joined="2015-03-13"/>
+    <cosponsor id="400240" joined="2015-03-13"/>
+    <cosponsor id="400249" joined="2015-03-13"/>
+    <cosponsor id="400251" joined="2015-03-13"/>
+    <cosponsor id="400263" joined="2015-03-13"/>
+    <cosponsor id="400271" joined="2015-03-13"/>
+    <cosponsor id="400661" joined="2015-03-13"/>
+    <cosponsor id="400295" joined="2015-03-13"/>
+    <cosponsor id="412585" joined="2015-03-13"/>
+    <cosponsor id="400378" joined="2015-03-13"/>
+    <cosponsor id="400379" joined="2015-03-13"/>
+    <cosponsor id="412520" joined="2015-03-13"/>
+    <cosponsor id="400422" joined="2015-03-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-13" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="2642"/>
+    <bill relation="identical" session="114" type="s" number="730"/>
+    <bill relation="unknown" session="114" type="s" number="1491"/>
+  </relatedbills>
+  <subjects>
+    <term name="Housing and community development"/>
+    <term name="Housing finance and home ownership"/>
+    <term name="Low- and moderate-income housing"/>
+  </subjects>
+  <amendments/>
+  <summary>3/13/2015--Introduced.
+Permanently Protecting Tenants at Foreclosure Act of 2015
+
+This bill amends the Protecting Tenants at Foreclosure Act of 2009 to repeal its sunset date December 31, 2014 (thus making the Act permanent).
+
+This bill restores and revives such Act, the provisions of law amended or repealed by it, and any regulations promulgated pursuant to it, as were in effect on December 31, 2014, as if the sunset had not taken effect.</summary>
+</bill>

@@ -1,0 +1,34 @@
+<bill session="114" type="h" number="1518" updated="2015-06-03T04:47:33-04:00">
+  <state datetime="2015-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-19"/>
+  </status>
+  <introduced datetime="2015-03-19"/>
+  <titles>
+    <title type="short" as="introduced">Let It Go Act</title>
+    <title type="official" as="introduced">To amend the Federal Election Campaign Act of 1971 to provide for a limitation on the time for the use of contributions or donations, and for other purposes.</title>
+  </titles>
+  <sponsor id="412520"/>
+  <cosponsors>
+    <cosponsor id="412385" joined="2015-06-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-19" state="REFERRED">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+  </subjects>
+  <amendments/>
+  <summary>3/19/2015--Introduced.
+Let It Go Act
+
+Amends the Federal Election Campaign Act of 1971 to allow the use of contributions or donations only for the six years following the most recent federal election for a six-year office (i.e., election to the Senate) in which an individual was a candidate for the office if that individual is not a candidate for that office during those ensuing six years.
+
+Requires contributions or donations remaining available to to such an individual after such six-year period ends to be disposed of within 30 days, as follows: (1) to pay any debts or obligations owed in connection with the campaign for that office; (2) to return those contributions or donations to the individuals, entities, or both, who made them; (3) to make contributions to a charitable organization; and (4) to make transfers to a national, state or local committee of a political party.</summary>
+</bill>

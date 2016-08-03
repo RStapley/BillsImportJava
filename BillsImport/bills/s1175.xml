@@ -1,0 +1,50 @@
+<bill session="114" type="s" number="1175" updated="2015-06-20T06:55:15-04:00">
+  <state datetime="2015-04-30">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-30"/>
+  </status>
+  <introduced datetime="2015-04-30"/>
+  <titles>
+    <title type="short" as="introduced">Hazardous Materials Rail Transportation Safety Improvement Act of 2015</title>
+    <title type="official" as="introduced">A bill to improve the safety of hazardous materials rail transportation, and for other purposes.</title>
+  </titles>
+  <sponsor id="300100"/>
+  <cosponsors>
+    <cosponsor id="400050" joined="2015-04-30"/>
+    <cosponsor id="412246" joined="2015-04-30"/>
+    <cosponsor id="300038" joined="2015-05-14"/>
+    <cosponsor id="300043" joined="2015-04-30"/>
+    <cosponsor id="412582" joined="2015-04-30"/>
+    <cosponsor id="412325" joined="2015-04-30"/>
+    <cosponsor id="300087" joined="2015-04-30"/>
+    <cosponsor id="412321" joined="2015-04-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-30" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Accidents"/>
+    <term name="Congressional oversight"/>
+    <term name="Emergency planning and evacuation"/>
+    <term name="Fires"/>
+    <term name="First responders and emergency personnel"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Government trust funds"/>
+    <term name="Hazardous wastes and toxic substances"/>
+    <term name="Income tax credits"/>
+    <term name="Oil and gas"/>
+    <term name="Railroads"/>
+    <term name="Sales and excise taxes"/>
+    <term name="Transportation programs funding"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+</bill>

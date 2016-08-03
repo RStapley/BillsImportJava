@@ -1,0 +1,38 @@
+<bill session="114" type="h" number="2565" updated="2015-08-11T04:47:53-04:00">
+  <state datetime="2015-05-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-21"/>
+  </status>
+  <introduced datetime="2015-05-21"/>
+  <titles>
+    <title type="short" as="introduced">Prioritizing American Road and Jobs Act of 2015</title>
+    <title type="official" as="introduced">To amend title XIX of the Social Security Act to restore the regular Medicaid matching rate for newly eligible individuals under the Affordable Care Act and to apply up to $15 billion of the savings each year to the Highway Trust Fund.</title>
+  </titles>
+  <sponsor id="412610"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-05-21" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-05-22">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+  <summary>5/21/2015--Introduced.
+Prioritizing American Road and Jobs Act of 2015
+
+This bill amends title XIX (Medicaid) of the Social Security Act to make the Medicaid federal medical assistance percentage (FMAP) (matching rate) 100% for calendar quarters January 1, 2014, and January 1, 2017, for newly eligible individuals under the Patient Protection and Affordable Care Act. This eliminates the current gradual increase in the state matching rate for such individuals from 5% to 10% between 2017 and 2020.
+
+The Department of Health and Human Services (HHS) must estimate, for each calendar quarter beginning on or after January 1, 2017, the net quarterly reductions in federal expenditures resulting from this Act and adjust for a calendar quarter any initial estimate determined inaccurate. The adjusted estimate shall apply so as to adjust the amount appropriated to the Highway Ttrust Fund for the calendar quarter, subject to a specified limitation.
+
+The amount equivalent to the HHS estimate reduction in federal Medicaid expenditures for a calendar quarter, but no more than a total of $15 billion in any year, is appropriated and transferred to the Highway Trust Fund from any funds in the Treasury not otherwise appropriated for that quarter.</summary>
+</bill>

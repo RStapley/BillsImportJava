@@ -1,0 +1,42 @@
+<bill session="114" type="h" number="3256" updated="2015-08-08T06:46:32-04:00">
+  <state datetime="2015-07-28">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-28"/>
+  </status>
+  <introduced datetime="2015-07-28"/>
+  <titles>
+    <title type="short" as="introduced">One In, One Out Act</title>
+    <title type="official" as="introduced">To require each agency to repeal or revise 1 or more existing regulations before issuing a new regulation, and for other purposes.</title>
+  </titles>
+  <sponsor id="400654"/>
+  <cosponsors>
+    <cosponsor id="412625" joined="2015-07-28"/>
+    <cosponsor id="412605" joined="2015-07-28"/>
+    <cosponsor id="412513" joined="2015-07-28"/>
+    <cosponsor id="400089" joined="2015-07-28"/>
+    <cosponsor id="412649" joined="2015-07-28"/>
+    <cosponsor id="412445" joined="2015-07-28"/>
+    <cosponsor id="412608" joined="2015-07-28"/>
+    <cosponsor id="412255" joined="2015-07-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-28" state="REFERRED">
+      <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-07-28">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2015-07-28">
+      <text>Referred to House Judiciary</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+  </subjects>
+  <amendments/>
+</bill>

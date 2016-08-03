@@ -1,0 +1,75 @@
+<bill session="114" type="h" number="908" updated="2015-07-30T04:48:15-04:00">
+  <state datetime="2015-02-12">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-12"/>
+  </status>
+  <introduced datetime="2015-02-12"/>
+  <titles>
+    <title type="short" as="introduced">California Coastal National Monument Santa Cruz Redwoods Expansion Act</title>
+    <title type="official" as="introduced">To include the Santa Cruz Redwoods Public Lands in the California Coastal National Monument as a part of the National Landscape Conservation System, and for other purposes.</title>
+  </titles>
+  <sponsor id="400124"/>
+  <cosponsors>
+    <cosponsor id="412615" joined="2015-03-24"/>
+    <cosponsor id="400021" joined="2015-03-24"/>
+    <cosponsor id="412512" joined="2015-03-24"/>
+    <cosponsor id="412516" joined="2015-03-24"/>
+    <cosponsor id="400062" joined="2015-03-24"/>
+    <cosponsor id="412517" joined="2015-07-29"/>
+    <cosponsor id="412379" joined="2015-03-24"/>
+    <cosponsor id="400618" joined="2015-03-24"/>
+    <cosponsor id="400097" joined="2015-03-24"/>
+    <cosponsor id="412613" joined="2015-07-29"/>
+    <cosponsor id="400129" joined="2015-03-04"/>
+    <cosponsor id="412382" joined="2015-07-29"/>
+    <cosponsor id="412498" joined="2015-03-17"/>
+    <cosponsor id="400185" joined="2015-03-17"/>
+    <cosponsor id="412511" joined="2015-07-29"/>
+    <cosponsor id="400237" joined="2015-07-29"/>
+    <cosponsor id="400245" joined="2015-03-24"/>
+    <cosponsor id="412521" joined="2015-03-17"/>
+    <cosponsor id="400663" joined="2015-03-17"/>
+    <cosponsor id="412523" joined="2015-03-24"/>
+    <cosponsor id="400347" joined="2015-03-24"/>
+    <cosponsor id="400361" joined="2015-03-24"/>
+    <cosponsor id="400371" joined="2015-03-24"/>
+    <cosponsor id="412259" joined="2015-03-24"/>
+    <cosponsor id="400403" joined="2015-03-17"/>
+    <cosponsor id="412617" joined="2015-03-24"/>
+    <cosponsor id="412522" joined="2015-03-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-12" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2015-03-16">
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="Federal Lands" name="House Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="California"/>
+    <term name="Forests, forestry, trees"/>
+    <term name="Land transfers"/>
+    <term name="Land use and conservation"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Monuments and memorials"/>
+    <term name="Wilderness and natural areas, wildlife refuges, wild rivers, habitats"/>
+  </subjects>
+  <amendments/>
+  <summary>2/12/2015--Introduced.
+California Coastal National Monument Santa Cruz Redwoods Expansion Act 
+
+ Expands the boundary of the California Coastal National Monument, established by Presidential Proclamation 7264, to include the Santa Cruz Redwoods public lands comprising approximately 5,800 acres in Santa Cruz County, California.
+
+Requires the Department of the Interior to manage such lands: (1) in accordance with such Proclamation, (2) as part of the Monument, and (3) by allowing only such uses of the Monument as will further the purposes for which it is being established.
+
+Instructs Interior to finalize an amendment to the Monument's management plan for the long-term protection and management of the lands added to the Monument under this Act.
+
+Requires management of the Monument as part of the National Landscape Conservation System.</summary>
+</bill>

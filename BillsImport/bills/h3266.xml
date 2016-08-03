@@ -1,0 +1,39 @@
+<bill session="114" type="h" number="3266" updated="2015-08-22T04:47:22-04:00">
+  <state datetime="2015-07-28">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-28"/>
+  </status>
+  <introduced datetime="2015-07-28"/>
+  <titles>
+    <title type="short" as="introduced">Smart Manufacturing Leadership Act</title>
+    <title type="official" as="introduced">To improve the productivity and energy efficiency of the manufacturing sector by directing the Secretary of Energy, in coordination with the National Academies and other appropriate Federal agencies, to develop a national smart manufacturing plan and to provide assistance to small- and medium-sized manufacturers in implementing smart manufacturing programs, and for other purposes.</title>
+  </titles>
+  <sponsor id="412239"/>
+  <cosponsors>
+    <cosponsor id="412393" joined="2015-07-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-28" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-07-28">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-07-28">
+      <text>Referred to House Science, Space, and Technology</text>
+    </action>
+    <action datetime="2015-07-31">
+      <text>Referred to the Subcommittee on Energy and Power.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+    <committee code="HSSY" name="House Science, Space, and Technology" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+  </subjects>
+  <amendments/>
+</bill>

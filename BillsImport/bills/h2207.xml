@@ -1,0 +1,45 @@
+<bill session="114" type="h" number="2207" updated="2015-07-04T06:37:03-04:00">
+  <state datetime="2015-05-01">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-01"/>
+  </status>
+  <introduced datetime="2015-05-01"/>
+  <titles>
+    <title type="short" as="introduced">Flexible Spending Account Act</title>
+    <title type="short" as="introduced">FSA Act</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to repeal the dollar limitation on contributions to flexible spending accounts.</title>
+  </titles>
+  <sponsor id="412618"/>
+  <cosponsors>
+    <cosponsor id="412635" joined="2015-05-01"/>
+    <cosponsor id="400068" joined="2015-05-01"/>
+    <cosponsor id="412536" joined="2015-05-01"/>
+    <cosponsor id="400175" joined="2015-05-13"/>
+    <cosponsor id="412566" joined="2015-05-01"/>
+    <cosponsor id="412191" joined="2015-05-01"/>
+    <cosponsor id="412660" joined="2015-05-20"/>
+    <cosponsor id="412475" joined="2015-06-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-01" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="836"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Income tax exclusion"/>
+  </subjects>
+  <amendments/>
+  <summary>5/1/2015--Introduced.
+Flexible Spending Account Act or the FSA Act
+
+This bill amends the Internal Revenue Code to repeal after 2015 the $2,500 limitation on salary reduction contributions to a health flexible spending arrangement under a cafeteria plan.</summary>
+</bill>

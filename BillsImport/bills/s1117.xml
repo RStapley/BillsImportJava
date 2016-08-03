@@ -1,0 +1,57 @@
+<bill session="114" type="s" number="1117" updated="2015-06-25T04:48:55-04:00">
+  <state datetime="2015-04-28">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-28"/>
+  </status>
+  <introduced datetime="2015-04-28"/>
+  <titles>
+    <title type="short" as="introduced">Ensuring Veteran Safety Through Accountability Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend title 38, United States Code, to expand the authority of the Secretary of Veterans Affairs to remove senior executives of the Department of Veterans Affairs for performance or misconduct to include removal of certain other employees of the Department, and for other purposes.</title>
+  </titles>
+  <sponsor id="412496"/>
+  <cosponsors>
+    <cosponsor id="412493" joined="2015-06-04"/>
+    <cosponsor id="412269" joined="2015-04-28"/>
+    <cosponsor id="300023" joined="2015-05-06"/>
+    <cosponsor id="300025" joined="2015-04-28"/>
+    <cosponsor id="300030" joined="2015-04-28"/>
+    <cosponsor id="412573" joined="2015-04-28"/>
+    <cosponsor id="412549" joined="2015-04-28"/>
+    <cosponsor id="400134" joined="2015-04-28"/>
+    <cosponsor id="300052" joined="2015-04-30"/>
+    <cosponsor id="300055" joined="2015-04-28"/>
+    <cosponsor id="412495" joined="2015-04-28"/>
+    <cosponsor id="300071" joined="2015-04-28"/>
+    <cosponsor id="412666" joined="2015-04-28"/>
+    <cosponsor id="412322" joined="2015-04-29"/>
+    <cosponsor id="400408" joined="2015-04-28"/>
+    <cosponsor id="400418" joined="2015-04-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-28" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2015-06-24">
+      <text>Committee on Veterans' Affairs. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="2047"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Department of Veterans Affairs"/>
+    <term name="Employee performance"/>
+    <term name="Government ethics and transparency, public corruption"/>
+    <term name="Health personnel"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>4/28/2015--Introduced.
+Ensuring Veteran Safety Through Accountability Act of 2015
+
+This bill expands the authority of the Secretary of Veterans Affairs (VA) to remove senior VA executives for performance or misconduct to include removal of VA health care professionals.</summary>
+</bill>

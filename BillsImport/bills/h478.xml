@@ -1,0 +1,93 @@
+<bill session="114" type="h" number="478" updated="2015-07-29T04:47:33-04:00">
+  <state datetime="2015-01-22">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-22"/>
+  </status>
+  <introduced datetime="2015-01-22"/>
+  <titles>
+    <title type="short" as="introduced">Protecting Children from Electronic Cigarette Advertising Act of 2015</title>
+    <title type="official" as="introduced">To prohibit the marketing of electronic cigarettes to children, and for other purposes.</title>
+  </titles>
+  <sponsor id="412524"/>
+  <cosponsors>
+    <cosponsor id="412537" joined="2015-01-22"/>
+    <cosponsor id="412517" joined="2015-01-22"/>
+    <cosponsor id="412407" joined="2015-01-22"/>
+    <cosponsor id="412600" joined="2015-01-22"/>
+    <cosponsor id="412236" joined="2015-02-10"/>
+    <cosponsor id="412193" joined="2015-01-22"/>
+    <cosponsor id="400101" joined="2015-01-22"/>
+    <cosponsor id="412544" joined="2015-01-22"/>
+    <cosponsor id="400103" joined="2015-01-22"/>
+    <cosponsor id="412385" joined="2015-01-22"/>
+    <cosponsor id="412215" joined="2015-01-22"/>
+    <cosponsor id="412529" joined="2015-01-22"/>
+    <cosponsor id="412382" joined="2015-01-28"/>
+    <cosponsor id="400162" joined="2015-02-02"/>
+    <cosponsor id="400170" joined="2015-01-22"/>
+    <cosponsor id="400185" joined="2015-01-22"/>
+    <cosponsor id="412199" joined="2015-01-22"/>
+    <cosponsor id="400233" joined="2015-01-22"/>
+    <cosponsor id="400237" joined="2015-01-22"/>
+    <cosponsor id="400238" joined="2015-01-22"/>
+    <cosponsor id="412521" joined="2015-01-22"/>
+    <cosponsor id="400251" joined="2015-01-27"/>
+    <cosponsor id="400663" joined="2015-01-22"/>
+    <cosponsor id="400259" joined="2015-07-28"/>
+    <cosponsor id="400263" joined="2015-01-22"/>
+    <cosponsor id="412560" joined="2015-01-22"/>
+    <cosponsor id="400290" joined="2015-07-28"/>
+    <cosponsor id="412523" joined="2015-01-22"/>
+    <cosponsor id="400333" joined="2015-01-22"/>
+    <cosponsor id="400347" joined="2015-01-22"/>
+    <cosponsor id="412519" joined="2015-01-22"/>
+    <cosponsor id="400350" joined="2015-01-22"/>
+    <cosponsor id="400360" joined="2015-01-22"/>
+    <cosponsor id="400378" joined="2015-01-22"/>
+    <cosponsor id="412581" joined="2015-06-09"/>
+    <cosponsor id="412514" joined="2015-01-22"/>
+    <cosponsor id="412520" joined="2015-01-22"/>
+    <cosponsor id="400403" joined="2015-01-22"/>
+    <cosponsor id="400623" joined="2015-01-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-22" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-01-23">
+      <text>Referred to the Subcommittee on Commerce, Manufacturing, and Trade.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF17" subcommittee="Commerce, Manufacturing, and Trade" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="430"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Child health"/>
+    <term name="Civil actions and liability"/>
+    <term name="Drug, alcohol, tobacco use"/>
+    <term name="Federal Trade Commission (FTC)"/>
+    <term name="Federal preemption"/>
+    <term name="Marketing and advertising"/>
+    <term name="Retail and wholesale trades"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+  <summary>1/22/2015--Introduced.
+Protecting Children from Electronic Cigarette Advertising Act of 2015
+
+Prohibits electronic cigarette advertisements that appeal to children younger than 18 years of age in states in which the sale of an electronic cigarette to such children is prohibited by federal or state law. Bars electronic cigarette advertisements, promotions, or marketing in those states in a manner that is: (1) known, or should be known, to contribute toward initiating or increasing the use of electronic cigarettes by children under 18; or (2) determined by the Federal Trade Commission (FTC) to affect or appeal to such children regardless of when or where the advertising, promotion, or marketing occurs.
+
+Defines "electronic cigarette" as an electronic device that delivers nicotine, flavor, or other chemicals via a vaporized solution to a user inhaling from the device, including any component, liquid, part, or accessory. Excludes Food and Drug Administration-approved tobacco cessation or therapeutic products from such definition.
+
+Sets forth authority for: (1) the FTC to enforce violations as an unfair or deceptive act or practice, and (2) states to bring civil actions on behalf of residents threatened or adversely affected by such a violation.
+
+Establishes a civil penalty to be available in state actions that is calculated by multiplying the number of days that a person is not in compliance with such prohibition by an amount up to $16,000, adjusted annually for inflation.
+
+Allows the FTC to intervene and appeal in state actions.</summary>
+</bill>

@@ -1,0 +1,77 @@
+<bill session="114" type="s" number="1169" updated="2015-07-24T04:49:49-04:00">
+  <state datetime="2015-07-23">REPORTED</state>
+  <status>
+    <unknown datetime="2015-07-23"/>
+  </status>
+  <introduced datetime="2015-04-30"/>
+  <titles>
+    <title type="short" as="introduced">Juvenile Justice and Delinquency Prevention Reauthorization Act of 2015</title>
+    <title type="official" as="introduced">A bill to reauthorize and improve the Juvenile Justice and Delinquency Prevention Act of 1974, and for other purposes.</title>
+  </titles>
+  <sponsor id="300048"/>
+  <cosponsors>
+    <cosponsor id="412490" joined="2015-07-23"/>
+    <cosponsor id="400034" joined="2015-05-19"/>
+    <cosponsor id="412390" joined="2015-07-16"/>
+    <cosponsor id="300027" joined="2015-07-08"/>
+    <cosponsor id="300038" joined="2015-07-08"/>
+    <cosponsor id="300043" joined="2015-07-23"/>
+    <cosponsor id="300052" joined="2015-07-21"/>
+    <cosponsor id="412242" joined="2015-07-23"/>
+    <cosponsor id="300065" joined="2015-05-19"/>
+    <cosponsor id="412491" joined="2015-07-21"/>
+    <cosponsor id="412247" joined="2015-04-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-30">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S2578"/>
+    </action>
+    <action datetime="2015-04-30" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+    <calendar datetime="2015-07-23" state="REPORTED">
+      <text>Committee on the Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="2728"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Accounting and auditing"/>
+    <term name="Child care and development"/>
+    <term name="Child health"/>
+    <term name="Congressional oversight"/>
+    <term name="Correctional facilities and imprisonment"/>
+    <term name="Crime prevention"/>
+    <term name="Drug, alcohol, tobacco use"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Government studies and investigations"/>
+    <term name="Indian social and development programs"/>
+    <term name="Judicial procedure and administration"/>
+    <term name="Juvenile crime and gang violence"/>
+    <term name="Law enforcement administration and funding"/>
+    <term name="Mental health"/>
+    <term name="Performance measurement"/>
+    <term name="Racial and ethnic relations"/>
+    <term name="Student records"/>
+    <term name="Violent crime"/>
+  </subjects>
+  <amendments/>
+  <summary>4/30/2015--Introduced.
+Juvenile Justice and Delinquency Prevention Reauthorization Act of 2015
+
+ Amends the Juvenile Justice and Delinquency Prevention Act of 1974 to:
+
+ authorize appropriations for such Act for FY2016-FY2020; include as one of the purposes of such Act the support of a trauma-informed continuum of programs to address the needs of at-risk youth and youth who come into contact with the justice system; require states to implement plans to ensure fairness and reduce racial and ethnic disparities in the detention of juveniles; enhance requirements for separating juveniles from sight or sound contact with adult lock-ups; terminate, three years after the enactment of this Act, the authority of a court to issue an order detaining juveniles who have not been charged with adult criminal offenses (status offenders) in secure detention or correctional facilities; include the Administrator of the Substance Abuse and Mental Health Services Administration on the Coordinating Council on Juvenile Justice and Delinquency Prevention; require the Office of Juvenile Justice and Delinquency Prevention (OJJDP) to report annually on policies and procedures to eliminate dangerous practices and unreasonable use of restraints in the detention of juveniles and on criteria for identifying evidence-based and promising programs for delinquency prevention; provide for the allocation of grant funding to states based on the most recent census data; expand requirements for state plans for juvenile justice and delinquency prevention to include community-based alternatives to the detention of juveniles in correctional facilities, enhanced mental health and substance abuse screening, and a description of the use of funds for reentry into the community of juveniles after release; require the OJJDP to establish a uniform method of data collection and technology for evaluating data on juvenile recidivism on an annual basis; and provide training and technical assistance to states and local governments for achieving compliance with the requirements of this Act. Amends the Incentive Grants for Local Delinquency Prevention Programs Act of 2002 to include mentoring programs in delinquency prevention grant programs.
+
+Requires the Government Accountability Office to conduct and report on: (1) a comprehensive analysis and evaluation of the performance of the OJJDP; and (2) a comprehensive audit and evaluation of selected grant recipients, including a review of internal controls to prevent fraud, waste, and abuse of funds.
+
+Requires the OJJDP to conduct a biennial programmatic and financial review of all grants awarded to states and Indian tribes under this Act to prevent waste, fraud, and abuse by grantees.
+
+Requires states, as a condition of receiving juvenile accountability block grants, to provide assurances of compliance with the core requirements of the Juvenile Justice and Delinquency Prevention Act of 1974 applicable to the detention and confinement of juveniles.</summary>
+</bill>

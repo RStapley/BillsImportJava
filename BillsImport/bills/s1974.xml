@@ -1,0 +1,30 @@
+<bill session="114" type="s" number="1974" updated="2015-08-18T09:46:16-04:00">
+  <state datetime="2015-08-05">REFERRED</state>
+  <status>
+    <introduced datetime="2015-08-05"/>
+  </status>
+  <introduced datetime="2015-08-05"/>
+  <titles>
+    <title type="short" as="introduced">Relationship Lending Preservation Act of 2015</title>
+    <title type="official" as="introduced">A bill to require the Bureau of Consumer Financial Protection to amend its regulations relating to qualified mortgages, and for other purposes.</title>
+  </titles>
+  <sponsor id="412554"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-08-05">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S6388-6389"/>
+    </action>
+    <action datetime="2015-08-05" state="REFERRED">
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Housing and community development"/>
+  </subjects>
+  <amendments/>
+</bill>

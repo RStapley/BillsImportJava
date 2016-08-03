@@ -1,0 +1,30 @@
+<bill session="114" type="h" number="2865" updated="2015-07-04T06:42:33-04:00">
+  <state datetime="2015-06-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-23"/>
+  </status>
+  <introduced datetime="2015-06-23"/>
+  <titles>
+    <title type="short" as="introduced">Technical Clarification to Public Law 113-243 Act of 2015</title>
+    <title type="official" as="introduced">To amend the FAA Modernization and Reform Act of 2012 to make a technical correction relating to the amendments made by Public Law 113-243.</title>
+  </titles>
+  <sponsor id="400367"/>
+  <cosponsors>
+    <cosponsor id="400262" joined="2015-06-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-23" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="1646"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+</bill>

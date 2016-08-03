@@ -1,0 +1,59 @@
+<bill session="114" type="h" number="638" updated="2015-04-04T06:22:18-04:00">
+  <state datetime="2015-02-02">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-02"/>
+  </status>
+  <introduced datetime="2015-02-02"/>
+  <titles>
+    <title type="short" as="introduced">Disaster Assistance Fairness and Accountability Act of 2015</title>
+    <title type="official" as="introduced">To prohibit the Federal Emergency Management Agency from recouping certain assistance, and for other purposes.</title>
+  </titles>
+  <sponsor id="412643"/>
+  <cosponsors>
+    <cosponsor id="412627" joined="2015-02-24"/>
+    <cosponsor id="412619" joined="2015-02-27"/>
+    <cosponsor id="412621" joined="2015-03-16"/>
+    <cosponsor id="412544" joined="2015-02-24"/>
+    <cosponsor id="400142" joined="2015-02-24"/>
+    <cosponsor id="400209" joined="2015-02-11"/>
+    <cosponsor id="412290" joined="2015-02-11"/>
+    <cosponsor id="400244" joined="2015-02-03"/>
+    <cosponsor id="400271" joined="2015-02-11"/>
+    <cosponsor id="412308" joined="2015-02-27"/>
+    <cosponsor id="412489" joined="2015-02-24"/>
+    <cosponsor id="400380" joined="2015-02-03"/>
+    <cosponsor id="400404" joined="2015-02-05"/>
+    <cosponsor id="412610" joined="2015-02-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-02" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2015-02-03">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+    </action>
+    <action datetime="2015-02-05">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H843-844"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="634"/>
+  </relatedbills>
+  <subjects>
+    <term name="Emergency management"/>
+    <term name="Disaster relief and insurance"/>
+    <term name="Government information and archives"/>
+  </subjects>
+  <amendments/>
+  <summary>2/2/2015--Introduced.
+Disaster Assistance Fairness and Accountability Act of 2015
+
+Prohibits the Federal Emergency Management Agency (FEMA) from taking any actions to recoup from a recipient assistance provided in relation to a major disaster declared by the President on or after January 1, 2012, if: (1) the recipient's application was made in good faith and provided accurate information and the receipt of such assistance could reasonably have been expected by the recipient, or (2) the receipt of such assistance occurred more than three years before FEMA first notifies the recipient of FEMA's intent to recoup.
+
+Requires FEMA, in carrying out a recoupment of disaster assistance that is not prohibited under this Act, to provide documentation that demonstrates that the recipient did not apply in good faith with accurate information or could not reasonably have expected to receive such assistance.</summary>
+</bill>

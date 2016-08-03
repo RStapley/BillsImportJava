@@ -1,0 +1,76 @@
+<bill session="114" type="hj" number="25" updated="2015-07-14T04:48:16-04:00">
+  <state datetime="2015-01-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-21"/>
+  </status>
+  <introduced datetime="2015-01-21"/>
+  <titles>
+    <title type="official" as="introduced">Proposing an amendment to the Constitution of the United States regarding the right to vote.</title>
+  </titles>
+  <sponsor id="412585"/>
+  <cosponsors>
+    <cosponsor id="412404" joined="2015-01-21"/>
+    <cosponsor id="400033" joined="2015-05-20"/>
+    <cosponsor id="412652" joined="2015-03-04"/>
+    <cosponsor id="400048" joined="2015-01-21"/>
+    <cosponsor id="412571" joined="2015-01-21"/>
+    <cosponsor id="412379" joined="2015-01-21"/>
+    <cosponsor id="412600" joined="2015-01-21"/>
+    <cosponsor id="412236" joined="2015-01-21"/>
+    <cosponsor id="400080" joined="2015-01-21"/>
+    <cosponsor id="400090" joined="2015-01-21"/>
+    <cosponsor id="412613" joined="2015-06-02"/>
+    <cosponsor id="412263" joined="2015-01-21"/>
+    <cosponsor id="412215" joined="2015-01-21"/>
+    <cosponsor id="412382" joined="2015-03-18"/>
+    <cosponsor id="400162" joined="2015-01-21"/>
+    <cosponsor id="400170" joined="2015-01-21"/>
+    <cosponsor id="400185" joined="2015-01-21"/>
+    <cosponsor id="412561" joined="2015-02-11"/>
+    <cosponsor id="400211" joined="2015-01-21"/>
+    <cosponsor id="412638" joined="2015-06-02"/>
+    <cosponsor id="412209" joined="2015-06-02"/>
+    <cosponsor id="412521" joined="2015-01-21"/>
+    <cosponsor id="400263" joined="2015-01-21"/>
+    <cosponsor id="400661" joined="2015-01-21"/>
+    <cosponsor id="412527" joined="2015-07-13"/>
+    <cosponsor id="412606" joined="2015-02-27"/>
+    <cosponsor id="400295" joined="2015-01-21"/>
+    <cosponsor id="400333" joined="2015-01-21"/>
+    <cosponsor id="400347" joined="2015-01-21"/>
+    <cosponsor id="400352" joined="2015-05-21"/>
+    <cosponsor id="400360" joined="2015-01-21"/>
+    <cosponsor id="400366" joined="2015-01-21"/>
+    <cosponsor id="400378" joined="2015-01-21"/>
+    <cosponsor id="412520" joined="2015-01-21"/>
+    <cosponsor id="400415" joined="2015-06-23"/>
+    <cosponsor id="412579" joined="2015-01-27"/>
+    <cosponsor id="400623" joined="2015-02-27"/>
+    <cosponsor id="412644" joined="2015-02-11"/>
+    <cosponsor id="412412" joined="2015-04-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-21" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-02-02">
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU10" subcommittee="Constitution and Civil Justice" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Constitution and constitutional amendments"/>
+    <term name="Elections, voting, political campaign regulation"/>
+    <term name="Voting rights"/>
+  </subjects>
+  <amendments/>
+  <summary>1/21/2015--Introduced.
+Constitutional Amendment
+
+Grants every U.S. citizen of legal voting age the fundamental right to vote in any public election held in the jurisdiction in which the citizen resides.</summary>
+</bill>

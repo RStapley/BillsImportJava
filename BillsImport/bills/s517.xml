@@ -1,0 +1,59 @@
+<bill session="114" type="s" number="517" updated="2015-08-15T06:56:04-04:00">
+  <state datetime="2015-02-12">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-12"/>
+  </status>
+  <introduced datetime="2015-02-12"/>
+  <titles>
+    <title type="short" as="introduced">Secure Rural Schools and Payment in Lieu of Taxes Repair Act</title>
+    <title type="official" as="introduced">A bill to extend the secure rural schools and community self-determination program, to restore mandatory funding status to the payment in lieu of taxes program, and for other purposes.</title>
+  </titles>
+  <sponsor id="300100"/>
+  <cosponsors>
+    <cosponsor id="412330" joined="2015-02-12"/>
+    <cosponsor id="400061" joined="2015-02-24"/>
+    <cosponsor id="300030" joined="2015-02-12"/>
+    <cosponsor id="300043" joined="2015-02-25"/>
+    <cosponsor id="412281" joined="2015-02-26"/>
+    <cosponsor id="412391" joined="2015-04-30"/>
+    <cosponsor id="412243" joined="2015-02-12"/>
+    <cosponsor id="412325" joined="2015-02-12"/>
+    <cosponsor id="412322" joined="2015-02-12"/>
+    <cosponsor id="412244" joined="2015-02-12"/>
+    <cosponsor id="400413" joined="2015-02-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-12">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S992"/>
+    </action>
+    <action datetime="2015-02-12" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1925"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Advisory bodies"/>
+    <term name="Education programs funding"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Forests, forestry, trees"/>
+    <term name="Land use and conservation"/>
+    <term name="Rural conditions and development"/>
+    <term name="State and local finance"/>
+    <term name="State and local taxation"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+  <summary>2/12/2015--Introduced.
+Secure Rural Schools and Payment in Lieu of Taxes Repair Act 
+
+This bill extends the Secure Rural Schools and Community Self-Determination Program through FY2016 at FY2011 funding levels. This Program provides payments to state jurisdictions to compensate for the cost of providing services in tax-exempt federal lands within such jurisdictions.
+
+The bill also eliminates the fiscal year limitation on funding for the Payments in Lieu of Taxes Program. This program compensates local governments for tax revenue lost due to tax-exempt federal lands within their boundaries.</summary>
+</bill>

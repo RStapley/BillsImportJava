@@ -1,0 +1,35 @@
+<bill session="114" type="s" number="344" updated="2015-04-18T06:38:04-04:00">
+  <state datetime="2015-02-03">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-03"/>
+  </status>
+  <introduced datetime="2015-02-03"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to equalize the excise tax on liquified petroleum gas and liquified natural gas.</title>
+  </titles>
+  <sponsor id="412330"/>
+  <cosponsors>
+    <cosponsor id="400054" joined="2015-02-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-03" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="898"/>
+    <bill relation="unknown" session="114" type="h" number="1665"/>
+    <bill relation="unknown" session="114" type="s" number="917"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Oil and gas"/>
+    <term name="Sales and excise taxes"/>
+  </subjects>
+  <amendments/>
+  <summary>2/3/2015--Introduced.
+This bill equalizes the excise tax&#160;on liquefied petroleum gas and liquefied natural gas by establishing a rate of 18.3 cents per energy equivalent of a gallon of gasoline for liquefied petroleum gas and 24.3 cents per energy equivalent of a gallon of diesel for liquefied natural gas.</summary>
+</bill>

@@ -1,0 +1,78 @@
+<bill session="114" type="s" number="1740" updated="2015-07-25T07:03:46-04:00">
+  <state datetime="2015-07-09">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-09"/>
+  </status>
+  <introduced datetime="2015-07-09"/>
+  <titles>
+    <title type="short" as="introduced">Equal Dignity for Married Taxpayers Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to clarify that all provisions shall apply to legally married same-sex couples in the same manner as other married couples, and for other purposes.</title>
+  </titles>
+  <sponsor id="300100"/>
+  <cosponsors>
+    <cosponsor id="400013" joined="2015-07-09"/>
+    <cosponsor id="412330" joined="2015-07-09"/>
+    <cosponsor id="412490" joined="2015-07-09"/>
+    <cosponsor id="412598" joined="2015-07-09"/>
+    <cosponsor id="300011" joined="2015-07-09"/>
+    <cosponsor id="400050" joined="2015-07-09"/>
+    <cosponsor id="300018" joined="2015-07-09"/>
+    <cosponsor id="400064" joined="2015-07-09"/>
+    <cosponsor id="300019" joined="2015-07-09"/>
+    <cosponsor id="412246" joined="2015-07-09"/>
+    <cosponsor id="412390" joined="2015-07-09"/>
+    <cosponsor id="412205" joined="2015-07-09"/>
+    <cosponsor id="300038" joined="2015-07-09"/>
+    <cosponsor id="300043" joined="2015-07-09"/>
+    <cosponsor id="412378" joined="2015-07-09"/>
+    <cosponsor id="412223" joined="2015-07-09"/>
+    <cosponsor id="412281" joined="2015-07-09"/>
+    <cosponsor id="412554" joined="2015-07-09"/>
+    <cosponsor id="412200" joined="2015-07-09"/>
+    <cosponsor id="412582" joined="2015-07-09"/>
+    <cosponsor id="412545" joined="2015-07-09"/>
+    <cosponsor id="412242" joined="2015-07-09"/>
+    <cosponsor id="300065" joined="2015-07-09"/>
+    <cosponsor id="412391" joined="2015-07-09"/>
+    <cosponsor id="400253" joined="2015-07-09"/>
+    <cosponsor id="412243" joined="2015-07-09"/>
+    <cosponsor id="400272" joined="2015-07-09"/>
+    <cosponsor id="412325" joined="2015-07-09"/>
+    <cosponsor id="300073" joined="2015-07-09"/>
+    <cosponsor id="412194" joined="2015-07-09"/>
+    <cosponsor id="300076" joined="2015-07-09"/>
+    <cosponsor id="300078" joined="2015-07-09"/>
+    <cosponsor id="412305" joined="2015-07-09"/>
+    <cosponsor id="300081" joined="2015-07-09"/>
+    <cosponsor id="300082" joined="2015-07-09"/>
+    <cosponsor id="400357" joined="2015-07-09"/>
+    <cosponsor id="412507" joined="2015-07-09"/>
+    <cosponsor id="300087" joined="2015-07-09"/>
+    <cosponsor id="412323" joined="2015-07-09"/>
+    <cosponsor id="300093" joined="2015-07-09"/>
+    <cosponsor id="412244" joined="2015-07-09"/>
+    <cosponsor id="400413" joined="2015-07-09"/>
+    <cosponsor id="412321" joined="2015-07-09"/>
+    <cosponsor id="412542" joined="2015-07-09"/>
+    <cosponsor id="412247" joined="2015-07-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-09">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S4957"/>
+    </action>
+    <action datetime="2015-07-09" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="3105"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+</bill>

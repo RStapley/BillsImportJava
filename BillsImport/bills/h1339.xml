@@ -1,0 +1,42 @@
+<bill session="114" type="h" number="1339" updated="2015-05-02T06:29:45-04:00">
+  <state datetime="2015-03-06">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-06"/>
+  </status>
+  <introduced datetime="2015-03-06"/>
+  <titles>
+    <title type="official" as="introduced">To prohibit the use of official funds for airline accommodations for Members of Congress which are not coach-class accommodations or for long-term vehicle leases for Members of Congress, and for other purposes.</title>
+  </titles>
+  <sponsor id="412620"/>
+  <cosponsors>
+    <cosponsor id="412627" joined="2015-03-06"/>
+    <cosponsor id="412537" joined="2015-03-18"/>
+    <cosponsor id="412524" joined="2015-03-25"/>
+    <cosponsor id="412209" joined="2015-03-24"/>
+    <cosponsor id="412523" joined="2015-03-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-06" state="REFERRED">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Appropriations"/>
+    <term name="Aviation and airports"/>
+    <term name="Lease and rental services"/>
+    <term name="Members of Congress"/>
+    <term name="Motor vehicles"/>
+    <term name="Transportation costs"/>
+    <term name="Travel and tourism"/>
+  </subjects>
+  <amendments/>
+  <summary>3/6/2015--Introduced.
+Prohibits the use of funds appropriated or otherwise made available for the official travel expenses of a Member of Congress for airline accommodations which are not coach-class accommodations.
+
+ Prohibits similarly use for the long-term leasing of a vehicle of any funds appropriated or otherwise made available for the operations of a House of Congress, including the official and representational expenses of a Member or the expenses of a congressional committee or leadership office.</summary>
+</bill>

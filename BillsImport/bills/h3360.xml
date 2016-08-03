@@ -1,0 +1,31 @@
+<bill session="114" type="h" number="3360" updated="2015-08-15T06:47:29-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">Defense Against Digital Theft Act</title>
+    <title type="official" as="introduced">To provide for identity protection coverage and other services for individuals exposed to the OPM security breaches, and for other purposes.</title>
+  </titles>
+  <sponsor id="412583"/>
+  <cosponsors>
+    <cosponsor id="412483" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="3029"/>
+    <bill relation="unknown" session="114" type="s" number="1746"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+  </subjects>
+  <amendments/>
+</bill>

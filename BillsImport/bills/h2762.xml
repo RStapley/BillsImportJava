@@ -1,0 +1,45 @@
+<bill session="114" type="h" number="2762" updated="2015-07-08T04:49:03-04:00">
+  <state datetime="2015-06-12">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-12"/>
+  </status>
+  <introduced datetime="2015-06-12"/>
+  <titles>
+    <title type="short" as="introduced">Getting Involved in Researching, Learning, and Studying of Science, Technology, Engineering, and Mathematics Act</title>
+    <title type="short" as="introduced">GIRLS STEM Act</title>
+    <title type="official" as="introduced">To amend the Elementary and Secondary Education Act of 1965 to provide grants to eligible local educational agencies to encourage female students to pursue studies and careers in science, mathematics, engineering, and technology.</title>
+  </titles>
+  <sponsor id="412189"/>
+  <cosponsors>
+    <cosponsor id="412600" joined="2015-06-12"/>
+    <cosponsor id="400124" joined="2015-06-24"/>
+    <cosponsor id="400170" joined="2015-06-12"/>
+    <cosponsor id="400211" joined="2015-07-07"/>
+    <cosponsor id="400230" joined="2015-06-12"/>
+    <cosponsor id="400663" joined="2015-06-24"/>
+    <cosponsor id="408211" joined="2015-06-16"/>
+    <cosponsor id="400295" joined="2015-06-12"/>
+    <cosponsor id="412523" joined="2015-06-12"/>
+    <cosponsor id="412412" joined="2015-06-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-12" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Education programs funding"/>
+    <term name="Educational technology and distance education"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Science and engineering education"/>
+    <term name="Teaching, teachers, curricula"/>
+    <term name="Vocational and technical education"/>
+    <term name="Women's education"/>
+  </subjects>
+  <amendments/>
+</bill>

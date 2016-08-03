@@ -1,0 +1,57 @@
+<bill session="114" type="s" number="275" updated="2015-06-09T04:47:15-04:00">
+  <state datetime="2015-01-28">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-28"/>
+  </status>
+  <introduced datetime="2015-01-28"/>
+  <titles>
+    <title type="short" as="introduced">Medicare Home Infusion Site of Care Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act to provide for the coverage of home as a site of care for infusion therapy under the Medicare program.</title>
+  </titles>
+  <sponsor id="400194"/>
+  <cosponsors>
+    <cosponsor id="412493" joined="2015-04-14"/>
+    <cosponsor id="412330" joined="2015-03-03"/>
+    <cosponsor id="300011" joined="2015-05-19"/>
+    <cosponsor id="400050" joined="2015-02-05"/>
+    <cosponsor id="400054" joined="2015-06-01"/>
+    <cosponsor id="400064" joined="2015-02-03"/>
+    <cosponsor id="412223" joined="2015-01-29"/>
+    <cosponsor id="300048" joined="2015-03-03"/>
+    <cosponsor id="412242" joined="2015-06-08"/>
+    <cosponsor id="412464" joined="2015-02-25"/>
+    <cosponsor id="400284" joined="2015-02-24"/>
+    <cosponsor id="400325" joined="2015-01-30"/>
+    <cosponsor id="300083" joined="2015-02-12"/>
+    <cosponsor id="412323" joined="2015-03-17"/>
+    <cosponsor id="412321" joined="2015-01-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-28" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="605"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Congressional oversight"/>
+    <term name="Drug therapy"/>
+    <term name="Government studies and investigations"/>
+    <term name="Home and outpatient care"/>
+    <term name="Medicare"/>
+    <term name="Nursing"/>
+    <term name="Prescription drugs"/>
+  </subjects>
+  <amendments/>
+  <summary>1/28/2015--Introduced.
+Medicare Home Infusion Site of Care Act of 2015
+
+ Amends title XVIII (Medicare) of the Social Security Act to authorize Medicare coverage of home infusion therapy and home infusion drugs.
+
+Directs the Secretary of Health and Human Services to implement the Medicare home infusion therapy benefit in a manner that ensures that: (1) Medicare beneficiaries have timely and appropriate access to infusion therapy in their homes, and (2) there is rapid and seamless coordination between drug coverage under Medicare part D (Voluntary Prescription Drug Benefit Program) and home infusion therapy services coverage under Medicare part B (Supplemental Security Income) (SSI) to avoid the filing of duplicative or otherwise improper claims.</summary>
+</bill>

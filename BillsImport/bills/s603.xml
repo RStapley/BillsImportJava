@@ -1,0 +1,48 @@
+<bill session="114" type="s" number="603" updated="2015-06-04T04:48:57-04:00">
+  <state datetime="2015-02-26">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-26"/>
+  </status>
+  <introduced datetime="2015-02-26"/>
+  <titles>
+    <title type="short" as="introduced">Rural Veterans Travel Enhancement Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend title 38, United States Code, to make permanent the authority of the Secretary of Veterans Affairs to transport individuals to and from facilities of the Department of Veterans Affairs in connection with rehabilitation, counseling, examination, treatment, and care, and for other purposes.</title>
+  </titles>
+  <sponsor id="412244"/>
+  <cosponsors>
+    <cosponsor id="300076" joined="2015-02-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-26" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2015-06-03">
+      <text>Committee on Veterans' Affairs. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="2291"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Department of Veterans Affairs"/>
+    <term name="Health care coverage and access"/>
+    <term name="Mental health"/>
+    <term name="Rural conditions and development"/>
+    <term name="Transportation costs"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>2/26/2015--Introduced.
+Rural Veterans Travel Enhancement Act of 2015
+
+Makes permanent the authority of the Department of Veterans Affairs (VA) to transport individuals to and from VA facilities in connection with vocational rehabilitation, counseling, examination, treatment, or care.
+
+Treats Vet Centers (centers for readjustment counseling and related mental health services for veterans) as VA facilities for purposes of providing payment of actual expenses of travel or allowance for travel to or from a VA facility.
+
+Amends the Caregivers and Veterans Omnibus Health Services Act of 2010 to reauthorize through FY2020 a grant program to provide innovative transportation options to veterans in highly rural areas.</summary>
+</bill>

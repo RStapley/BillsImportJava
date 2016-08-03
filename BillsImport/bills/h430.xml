@@ -1,0 +1,176 @@
+<bill session="114" type="h" number="430" updated="2015-07-24T04:47:29-04:00">
+  <state datetime="2015-01-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-21"/>
+  </status>
+  <introduced datetime="2015-01-21"/>
+  <titles>
+    <title type="short" as="introduced">DISCLOSE 2015 Act</title>
+    <title type="short" as="introduced">Disclosure of Information on Spending on Campaigns Leads to Open and Secure Elections Act of 2015</title>
+    <title type="official" as="introduced">To amend the Federal Election Campaign Act of 1971 to provide for additional disclosure requirements for corporations, labor organizations, and other entities, and for other purposes.</title>
+  </titles>
+  <sponsor id="400415"/>
+  <cosponsors>
+    <cosponsor id="412615" joined="2015-07-07"/>
+    <cosponsor id="412565" joined="2015-07-21"/>
+    <cosponsor id="400021" joined="2015-01-21"/>
+    <cosponsor id="400033" joined="2015-01-21"/>
+    <cosponsor id="412501" joined="2015-01-21"/>
+    <cosponsor id="412652" joined="2015-03-23"/>
+    <cosponsor id="400047" joined="2015-01-21"/>
+    <cosponsor id="412516" joined="2015-04-22"/>
+    <cosponsor id="412537" joined="2015-04-13"/>
+    <cosponsor id="400062" joined="2015-01-21"/>
+    <cosponsor id="400063" joined="2015-01-21"/>
+    <cosponsor id="412517" joined="2015-03-19"/>
+    <cosponsor id="412407" joined="2015-01-21"/>
+    <cosponsor id="412195" joined="2015-04-22"/>
+    <cosponsor id="412470" joined="2015-04-21"/>
+    <cosponsor id="400075" joined="2015-01-21"/>
+    <cosponsor id="412236" joined="2015-01-21"/>
+    <cosponsor id="412272" joined="2015-01-21"/>
+    <cosponsor id="400080" joined="2015-01-21"/>
+    <cosponsor id="400087" joined="2015-01-21"/>
+    <cosponsor id="400090" joined="2015-01-21"/>
+    <cosponsor id="400093" joined="2015-01-21"/>
+    <cosponsor id="400097" joined="2015-01-21"/>
+    <cosponsor id="400100" joined="2015-01-21"/>
+    <cosponsor id="400101" joined="2015-06-09"/>
+    <cosponsor id="400103" joined="2015-01-21"/>
+    <cosponsor id="412505" joined="2015-01-21"/>
+    <cosponsor id="412613" joined="2015-01-21"/>
+    <cosponsor id="412385" joined="2015-01-21"/>
+    <cosponsor id="412533" joined="2015-07-23"/>
+    <cosponsor id="412263" joined="2015-01-21"/>
+    <cosponsor id="412215" joined="2015-01-21"/>
+    <cosponsor id="400122" joined="2015-01-21"/>
+    <cosponsor id="400124" joined="2015-05-22"/>
+    <cosponsor id="412524" joined="2015-01-21"/>
+    <cosponsor id="400129" joined="2015-01-21"/>
+    <cosponsor id="412327" joined="2015-01-26"/>
+    <cosponsor id="412612" joined="2015-01-28"/>
+    <cosponsor id="400653" joined="2015-01-21"/>
+    <cosponsor id="400162" joined="2015-01-21"/>
+    <cosponsor id="412584" joined="2015-01-21"/>
+    <cosponsor id="400641" joined="2015-01-21"/>
+    <cosponsor id="412282" joined="2015-01-21"/>
+    <cosponsor id="400189" joined="2015-01-26"/>
+    <cosponsor id="412511" joined="2015-03-19"/>
+    <cosponsor id="400195" joined="2015-01-21"/>
+    <cosponsor id="400211" joined="2015-01-21"/>
+    <cosponsor id="412583" joined="2015-01-21"/>
+    <cosponsor id="412557" joined="2015-01-21"/>
+    <cosponsor id="400230" joined="2015-01-21"/>
+    <cosponsor id="400232" joined="2015-01-26"/>
+    <cosponsor id="400233" joined="2015-01-21"/>
+    <cosponsor id="400238" joined="2015-01-21"/>
+    <cosponsor id="412616" joined="2015-01-26"/>
+    <cosponsor id="400630" joined="2015-01-21"/>
+    <cosponsor id="412209" joined="2015-01-21"/>
+    <cosponsor id="412521" joined="2015-01-21"/>
+    <cosponsor id="400246" joined="2015-01-21"/>
+    <cosponsor id="412558" joined="2015-01-21"/>
+    <cosponsor id="412293" joined="2015-01-21"/>
+    <cosponsor id="400249" joined="2015-01-21"/>
+    <cosponsor id="400663" joined="2015-01-21"/>
+    <cosponsor id="400259" joined="2015-01-21"/>
+    <cosponsor id="400262" joined="2015-01-21"/>
+    <cosponsor id="400263" joined="2015-01-21"/>
+    <cosponsor id="412189" joined="2015-02-04"/>
+    <cosponsor id="400661" joined="2015-01-21"/>
+    <cosponsor id="412527" joined="2015-01-21"/>
+    <cosponsor id="400289" joined="2015-01-21"/>
+    <cosponsor id="400290" joined="2015-03-17"/>
+    <cosponsor id="408211" joined="2015-01-21"/>
+    <cosponsor id="400295" joined="2015-01-21"/>
+    <cosponsor id="412575" joined="2015-01-26"/>
+    <cosponsor id="400308" joined="2015-01-21"/>
+    <cosponsor id="400309" joined="2015-01-21"/>
+    <cosponsor id="400314" joined="2015-01-21"/>
+    <cosponsor id="412192" joined="2015-02-12"/>
+    <cosponsor id="412523" joined="2015-06-24"/>
+    <cosponsor id="412307" joined="2015-01-21"/>
+    <cosponsor id="412585" joined="2015-01-26"/>
+    <cosponsor id="412308" joined="2015-01-21"/>
+    <cosponsor id="400326" joined="2015-01-21"/>
+    <cosponsor id="412331" joined="2015-01-21"/>
+    <cosponsor id="412647" joined="2015-02-04"/>
+    <cosponsor id="412432" joined="2015-02-04"/>
+    <cosponsor id="400352" joined="2015-01-21"/>
+    <cosponsor id="412212" joined="2015-01-21"/>
+    <cosponsor id="400360" joined="2015-01-21"/>
+    <cosponsor id="400361" joined="2015-01-21"/>
+    <cosponsor id="400364" joined="2015-01-21"/>
+    <cosponsor id="400366" joined="2015-01-21"/>
+    <cosponsor id="400371" joined="2015-01-21"/>
+    <cosponsor id="400378" joined="2015-01-21"/>
+    <cosponsor id="400379" joined="2015-01-21"/>
+    <cosponsor id="412514" joined="2015-01-21"/>
+    <cosponsor id="400403" joined="2015-01-21"/>
+    <cosponsor id="412319" joined="2015-01-21"/>
+    <cosponsor id="412617" joined="2015-04-29"/>
+    <cosponsor id="412254" joined="2015-01-21"/>
+    <cosponsor id="412522" joined="2015-01-21"/>
+    <cosponsor id="400417" joined="2015-01-21"/>
+    <cosponsor id="412239" joined="2015-01-21"/>
+    <cosponsor id="412412" joined="2015-01-21"/>
+    <cosponsor id="412211" joined="2015-01-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-21" state="REFERRED">
+      <text>Referred to the Committee on House Administration, and in addition to the Committees on the Judiciary, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-01-21">
+      <text>Referred to House House Administration</text>
+    </action>
+    <action datetime="2015-01-21">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2015-01-21">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-02-05">
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU10" subcommittee="Constitution and Civil Justice" name="House Judiciary"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="229"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Business records"/>
+    <term name="Congressional elections"/>
+    <term name="Corporate finance and management"/>
+    <term name="Elections, voting, political campaign regulation"/>
+    <term name="Financial services and investments"/>
+    <term name="Government information and archives"/>
+    <term name="Labor-management relations"/>
+    <term name="Political advertising"/>
+    <term name="Political parties and affiliation"/>
+    <term name="Public participation and lobbying"/>
+    <term name="Tax-exempt organizations"/>
+  </subjects>
+  <amendments/>
+  <summary>1/21/2015--Introduced.
+Disclosure of Information on Spending on Campaigns Leads to Open and Secure Elections Act of 2015 or the DISCLOSE 2015 Act 
+
+ Amends the Federal Election Campaign Act of 1971 to redefine the term "independent expenditure" as an expenditure by a person that, when taken as a whole, expressly advocates the election or defeat of a clearly identified candidate, or is the functional equivalent of express advocacy because it can be interpreted by a reasonable person only as advocating the election or defeat of a candidate, taking into account whether the communication involved mentions a candidacy, a political party, or a challenger to a candidate, or takes a position on a candidates, qualifications, or fitness for office.
+
+Expands the period during which certain communications are treated as electioneering communications.
+
+Prescribes: (1) disclosure requirements for corporations, labor organizations, and certain other entities; and (2) disclaimer requirements for campaign-related disbursements and for certain communications.
+
+Requires any communication transmitted through radio or television to include an individual or organizational disclosure statement, together with: (1) the Top Two Funders List of the persons providing the largest and second largest aggregate payments of $10,000 or more for a radio communication, and (2) the Top Five Funders List of the five persons providing the largest aggregate payments of $10,000 or more for a television communication.
+
+Repeals the prohibition against political contributions by individuals age 17 or younger.
+
+Requires a covered organization which submits regular, periodic reports to its shareholders, members, or donors on its finances or activities to include in each report, in a clear and conspicuous manner, the information included in the statements it has filed about campaign-related disbursements the organization has made during the period covered by the report.
+
+Amends the Lobbying Disclosure Act of 1995 to require semiannual reports on certain election campaign contributions filed with the Secretary of the Senate or the Clerk of the House of Representatives by registered lobbyists (or persons or organizations required to register as lobbyists) to contain: (1) the amount of any independent expenditure of $1,000 or more made by each such person or organization, along with the name of each candidate being supported or opposed and the amount spent supporting or opposing that candidate; and (2) the amount of any electioneering communication of $1,000 or more made by such person or organization, along with the name of the candidate referred to in the communication and whether the communication involved was in support of or in opposition to the candidate.</summary>
+</bill>

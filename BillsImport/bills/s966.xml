@@ -1,0 +1,56 @@
+<bill session="114" type="s" number="966" updated="2015-06-20T06:53:30-04:00">
+  <state datetime="2015-04-23">REPORTED</state>
+  <status>
+    <unknown datetime="2015-04-23"/>
+  </status>
+  <introduced datetime="2015-04-15"/>
+  <titles>
+    <title type="short" as="introduced">Commercial Real Estate and Economic Development Act of 2015</title>
+    <title type="short" as="introduced">CREED Act of 2015</title>
+    <title type="short" as="reported to senate">Commercial Real Estate and Economic Development Act of 2015</title>
+    <title type="short" as="reported to senate">CREED Act of 2015</title>
+    <title type="official" as="introduced">A bill to extend the low-interest refinancing provisions under the Local Development Business Loan Program of the Small Business Administration.</title>
+  </titles>
+  <sponsor id="412323"/>
+  <cosponsors>
+    <cosponsor id="412493" joined="2015-04-22"/>
+    <cosponsor id="300018" joined="2015-04-21"/>
+    <cosponsor id="412390" joined="2015-04-23"/>
+    <cosponsor id="412556" joined="2015-04-22"/>
+    <cosponsor id="412378" joined="2015-06-02"/>
+    <cosponsor id="412200" joined="2015-04-23"/>
+    <cosponsor id="400194" joined="2015-04-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-15" state="REFERRED">
+      <text>Read twice and referred to the Committee on Small Business and Entrepreneurship.</text>
+    </action>
+    <calendar datetime="2015-04-23" state="REPORTED">
+      <text>Committee on Small Business and Entrepreneurship. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+    <action datetime="2015-06-10">
+      <text>Committee on Small Business and Entrepreneurship. Reported by Senator Vitter with an amendment in the nature of a substitute. Without written report.</text>
+    </action>
+    <calendar datetime="2015-06-10" calendar="Senate Legislative" under="General Orders" number="107">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 107.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSSB" name="Senate Small Business and Entrepreneurship" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="2266"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Small business"/>
+  </subjects>
+  <amendments/>
+  <summary>6/10/2015--Reported to Senate amended.
+Commercial Real Estate and Economic Development Act of 2015 or the CREED Act of 2015
+
+ (Sec. 2) Reinstates the authority for Small Business Administration (SBA) low-interest refinancing of small business debt not involving business expansion under the SBA's local development business loan program, effective:
+
+ on and after enactment of this Act, and during any fiscal year in which the federal government's cost in making loan guarantees under such program is zero. Repeals a provision of the Small Business Jobs Act of 2010 that terminated such authority as of September 27, 2012.</summary>
+</bill>

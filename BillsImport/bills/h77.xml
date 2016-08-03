@@ -1,0 +1,51 @@
+<bill session="114" type="h" number="77" updated="2015-03-07T04:46:05-05:00">
+  <state datetime="2015-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-06"/>
+  </status>
+  <introduced datetime="2015-01-06"/>
+  <titles>
+    <title type="short" as="introduced">Justice for Children Now Act of 2015</title>
+    <title type="official" as="introduced">To provide for the appointment of additional immigration judges.</title>
+  </titles>
+  <sponsor id="400199"/>
+  <cosponsors>
+    <cosponsor id="400653" joined="2015-02-27"/>
+    <cosponsor id="400162" joined="2015-03-06"/>
+    <cosponsor id="400170" joined="2015-03-06"/>
+    <cosponsor id="400185" joined="2015-02-27"/>
+    <cosponsor id="412638" joined="2015-03-06"/>
+    <cosponsor id="400661" joined="2015-02-27"/>
+    <cosponsor id="400333" joined="2015-02-27"/>
+    <cosponsor id="400350" joined="2015-02-27"/>
+    <cosponsor id="412319" joined="2015-02-27"/>
+    <cosponsor id="412580" joined="2015-03-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-06" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-01-12">
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration and Border Security" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Law"/>
+    <term name="Child safety and welfare"/>
+    <term name="Department of Justice"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Immigration status and procedures"/>
+    <term name="Judges"/>
+    <term name="Refugees, asylum, displaced persons"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/2015--Introduced.
+Justice for Children Now Act of 2015
+
+Authorizes the Attorney General to appoint 70 immigration judges in addition to the those serving as of the date of enactment of this Act.</summary>
+</bill>

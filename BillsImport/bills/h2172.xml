@@ -1,0 +1,38 @@
+<bill session="114" type="h" number="2172" updated="2015-06-27T06:55:23-04:00">
+  <state datetime="2015-04-30">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-30"/>
+  </status>
+  <introduced datetime="2015-04-30"/>
+  <titles>
+    <title type="official" as="introduced">To establish a pilot toll credit market place program, and for other purposes.</title>
+  </titles>
+  <sponsor id="400630"/>
+  <cosponsors>
+    <cosponsor id="400116" joined="2015-04-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-30" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2015-05-01">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW12" subcommittee="Highways and Transit" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Congressional oversight"/>
+    <term name="Government information and archives"/>
+    <term name="Railroads"/>
+    <term name="Regional and metropolitan planning"/>
+    <term name="Roads and highways"/>
+    <term name="State and local finance"/>
+    <term name="Transportation programs funding"/>
+  </subjects>
+  <amendments/>
+</bill>

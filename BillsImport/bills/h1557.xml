@@ -1,0 +1,91 @@
+<bill session="114" type="h" number="1557" updated="2015-08-01T06:32:25-04:00">
+  <state datetime="2015-07-21T18:58:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2015-07-21T18:58:00-04:00"/>
+  </status>
+  <introduced datetime="2015-03-24"/>
+  <titles>
+    <title type="short" as="introduced">Federal Employee Antidiscrimination Act of 2015</title>
+    <title type="short" as="reported to house">Federal Employee Antidiscrimination Act of 2015</title>
+    <title type="short" as="passed house">Federal Employee Antidiscrimination Act of 2015</title>
+    <title type="official" as="introduced">To amend the Notification and Federal Employee Antidiscrimination and Retaliation Act of 2002 to strengthen Federal antidiscrimination laws enforced by the Equal Employment Opportunity Commission and expand accountability within the Federal government, and for other purposes.</title>
+  </titles>
+  <sponsor id="400090"/>
+  <cosponsors>
+    <cosponsor id="412270" joined="2015-04-23"/>
+    <cosponsor id="400199" joined="2015-04-23"/>
+    <cosponsor id="400295" joined="2015-03-24"/>
+    <cosponsor id="400365" joined="2015-04-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-24" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2015-03-25">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-03-25" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </calendar>
+    <action datetime="2015-05-15T13:37:00-04:00">
+      <text>Reported by the Committee on Oversight and Government Reform. H. Rept. 114-117.</text>
+    </action>
+    <calendar datetime="2015-05-15T13:37:00-04:00" calendar="Union" number="83">
+      <text>Placed on the Union Calendar, Calendar No. 83.</text>
+    </calendar>
+    <action datetime="2015-07-21T16:54:00-04:00">
+      <text>Mr. Chaffetz moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2015-07-21T16:54:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5308-5312" label="consideration"/>
+    </action>
+    <action datetime="2015-07-21T16:54:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1557.</text>
+    </action>
+    <action datetime="2015-07-21T17:09:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2015-07-21T18:31:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H5314-5315" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="448" datetime="2015-07-21T18:58:00-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 403 - 0 (Roll no. 448).</text>
+      <reference ref="CR H5308-5310" label="text"/>
+    </vote>
+    <action datetime="2015-07-21T18:58:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2015-07-22">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, Markup, Reporting"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+  </subjects>
+  <amendments/>
+  <summary>7/21/2015--Passed House without amendment.
+(This measure has not been amended since it was introduced. The expanded summary of the House reported version is repeated here.)
+
+Federal Employee Antidiscrimination Act of 2015
+
+(Sec. 2) This bill amends the Notification and Federal Employee Antidiscrimination and Retaliation Act of 2002 to: (1) expand disclosure and enforcement requirements relating to findings of acts of discrimination and retaliation in the federal workplace, and (2) amend the sense of Congress provisions of such Act to declare that accountability in the enforcement of federal employee rights is furthered when agencies take appropriate disciplinary action against employees who have been found to have committed discriminatory or retaliatory acts.
+
+(Sec. 3) With respect to disclosure of findings of discrimination or retaliation in an agency, the bill :requires an agency to provide notice on its website for at least one year regarding any finding by the agency or the Equal Employment Opportunity Commission (EEOC) of discrimination or retaliation in the agency. The notice shall identify the date the finding was made, the dates the discriminatory or retaliatory acts occurred, the laws violated, and shall advise employees of their rights and protections available under law.
+
+(Sec. 4) With respect to agency reporting requirements, the bill requires agencies to:
+
+ submit their annual reports to Congress, the EEOC, and Department of Justice on discrimination and retaliation in an electronic format; report to the EEOC on whether disciplinary action has been initiated against an employee who has committed an act of discrimination or retaliation; and include in the data on equal employment opportunity complaints posted on their websites whether a decision has been made to pursue disciplinary action against an employee who has committed an act of discrimination or retaliation and additional data on each class action complaint filed against the agency alleging discrimination or retaliation. (Sec. 7) The bill also requires agencies to: (1) establish a system to track each complaint of discrimination adjudicated by the EEOC from inception to resolution, including whether a decision has been made on necessary disciplinary action as a result of a finding of discrimination; and (2) make a notation in an employee's personnel record of any adverse action taken against the employee for an act of discrimination or retaliation.
+
+The bill declares that each federal agency is responsible for the fair, impartial processing and resolution of complaints of employment discrimination and retaliation and requires each agency to establish a model Equal Employment Opportunity Program that is not under the control of a Human Capital or General Counsel Office, is devoid of internal conflicts of interest, and ensures fairness, inclusiveness, and the efficient resolution of complaints alleging discrimination or retaliation.
+
+The bill directs the EEOC to refer a finding of discrimination or retaliation within a federal agency to the Office of Special Counsel. The Special Counsel shall then pursue disciplinary action against any employee who commits an act of discrimination or retaliation.
+
+(Sec. 8) This section prohibits the implementation or enforcement of nondisclosure policies, forms, or agreements that prohibit or restrict an employee from disclosing to Congress, the Office of Special Counsel, or an Office of the Inspector General any information relating to any violation of law, mismanagement, a gross waste of funds, abuse of authority, or a substantial and specific danger to public health or safety or any other whistleblower protection.</summary>
+</bill>

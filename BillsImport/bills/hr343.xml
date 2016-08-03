@@ -1,0 +1,121 @@
+<bill session="114" type="hr" number="343" updated="2015-08-05T04:46:55-04:00">
+  <state datetime="2015-06-25">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-25"/>
+  </status>
+  <introduced datetime="2015-06-25"/>
+  <titles>
+    <title type="official" as="introduced">Expressing concern regarding persistent and credible reports of systematic, state-sanctioned organ harvesting from non-consenting prisoners of conscience in the People's Republic of China, including from large numbers of Falun Gong practitioners and members of other religious and ethnic minority groups.</title>
+  </titles>
+  <sponsor id="400344"/>
+  <cosponsors>
+    <cosponsor id="412500" joined="2015-07-31"/>
+    <cosponsor id="412541" joined="2015-07-31"/>
+    <cosponsor id="412565" joined="2015-07-22"/>
+    <cosponsor id="412436" joined="2015-07-13"/>
+    <cosponsor id="412250" joined="2015-07-16"/>
+    <cosponsor id="400029" joined="2015-08-04"/>
+    <cosponsor id="412605" joined="2015-07-22"/>
+    <cosponsor id="412567" joined="2015-07-22"/>
+    <cosponsor id="412539" joined="2015-07-23"/>
+    <cosponsor id="412516" joined="2015-06-25"/>
+    <cosponsor id="400057" joined="2015-07-31"/>
+    <cosponsor id="400063" joined="2015-08-04"/>
+    <cosponsor id="412258" joined="2015-07-31"/>
+    <cosponsor id="400074" joined="2015-07-31"/>
+    <cosponsor id="412563" joined="2015-07-23"/>
+    <cosponsor id="400655" joined="2015-07-23"/>
+    <cosponsor id="412272" joined="2015-06-25"/>
+    <cosponsor id="400080" joined="2015-07-22"/>
+    <cosponsor id="412536" joined="2015-07-23"/>
+    <cosponsor id="412544" joined="2015-07-31"/>
+    <cosponsor id="400108" joined="2015-06-25"/>
+    <cosponsor id="412420" joined="2015-07-31"/>
+    <cosponsor id="412488" joined="2015-07-31"/>
+    <cosponsor id="412263" joined="2015-07-31"/>
+    <cosponsor id="412524" joined="2015-08-04"/>
+    <cosponsor id="400129" joined="2015-06-25"/>
+    <cosponsor id="412257" joined="2015-07-13"/>
+    <cosponsor id="400145" joined="2015-07-31"/>
+    <cosponsor id="412661" joined="2015-07-23"/>
+    <cosponsor id="412278" joined="2015-07-31"/>
+    <cosponsor id="412454" joined="2015-08-04"/>
+    <cosponsor id="412444" joined="2015-07-31"/>
+    <cosponsor id="412446" joined="2015-07-22"/>
+    <cosponsor id="400641" joined="2015-07-31"/>
+    <cosponsor id="412609" joined="2015-07-31"/>
+    <cosponsor id="412553" joined="2015-07-23"/>
+    <cosponsor id="412550" joined="2015-08-04"/>
+    <cosponsor id="412460" joined="2015-07-22"/>
+    <cosponsor id="400209" joined="2015-07-22"/>
+    <cosponsor id="412566" joined="2015-07-31"/>
+    <cosponsor id="412435" joined="2015-07-31"/>
+    <cosponsor id="400218" joined="2015-07-31"/>
+    <cosponsor id="400224" joined="2015-07-22"/>
+    <cosponsor id="412614" joined="2015-07-22"/>
+    <cosponsor id="400233" joined="2015-07-13"/>
+    <cosponsor id="400630" joined="2015-07-22"/>
+    <cosponsor id="412292" joined="2015-07-13"/>
+    <cosponsor id="412540" joined="2015-07-31"/>
+    <cosponsor id="400279" joined="2015-07-31"/>
+    <cosponsor id="400661" joined="2015-07-31"/>
+    <cosponsor id="412506" joined="2015-08-04"/>
+    <cosponsor id="412585" joined="2015-07-22"/>
+    <cosponsor id="400652" joined="2015-06-25"/>
+    <cosponsor id="412309" joined="2015-07-23"/>
+    <cosponsor id="412489" joined="2015-07-13"/>
+    <cosponsor id="400343" joined="2015-06-25"/>
+    <cosponsor id="412426" joined="2015-07-22"/>
+    <cosponsor id="412570" joined="2015-07-31"/>
+    <cosponsor id="412641" joined="2015-07-22"/>
+    <cosponsor id="400347" joined="2015-08-04"/>
+    <cosponsor id="400351" joined="2015-07-13"/>
+    <cosponsor id="400365" joined="2015-07-22"/>
+    <cosponsor id="400376" joined="2015-07-31"/>
+    <cosponsor id="400406" joined="2015-07-22"/>
+    <cosponsor id="412319" joined="2015-07-31"/>
+    <cosponsor id="412636" joined="2015-07-13"/>
+    <cosponsor id="412515" joined="2015-06-25"/>
+    <cosponsor id="400415" joined="2015-07-22"/>
+    <cosponsor id="412548" joined="2015-07-22"/>
+    <cosponsor id="412213" joined="2015-07-23"/>
+    <cosponsor id="412538" joined="2015-07-31"/>
+    <cosponsor id="412410" joined="2015-07-31"/>
+    <cosponsor id="412239" joined="2015-07-22"/>
+    <cosponsor id="412402" joined="2015-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-25" state="REFERRED">
+      <text>Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-06-25">
+      <text>Referred to House Foreign Affairs</text>
+    </action>
+    <action datetime="2015-06-25">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2015-07-09">
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration and Border Security" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+  </subjects>
+  <amendments/>
+  <summary>6/25/2015--Introduced.
+Condemns the practice of state-sanctioned forced organ harvesting in China.
+
+Calls on China and the Communist Party of China to end the practice of organ harvesting from prisoners of conscience.
+
+ Encourages the U.S. medical community to help raise awareness of unethical organ transplant practices in China.
+
+Demands an end to the persecution of the Falun Gong spiritual practice and the release of all Falun Gong practitioners and other prisoners of conscience.
+
+ Calls on the Department of State to: (1) conduct a more detailed analysis on state-sanctioned organ harvesting from non-consenting prisoners of conscience in the annual Human Rights Report, and (2) report annually to Congress on implementation of the immigration provision prohibiting visas to Chinese and other nationals engaged in coerced organ or bodily tissue transplantation.</summary>
+</bill>

@@ -1,0 +1,45 @@
+<bill session="114" type="h" number="86" updated="2015-07-22T04:58:17-04:00">
+  <state datetime="2015-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-06"/>
+  </status>
+  <introduced datetime="2015-01-06"/>
+  <titles>
+    <title type="short" as="introduced">Safe Students Act</title>
+    <title type="official" as="introduced">To repeal the Gun-Free School Zones Act of 1990 and amendments to that Act.</title>
+  </titles>
+  <sponsor id="412503"/>
+  <cosponsors>
+    <cosponsor id="400029" joined="2015-01-08"/>
+    <cosponsor id="412567" joined="2015-01-06"/>
+    <cosponsor id="412472" joined="2015-01-06"/>
+    <cosponsor id="400651" joined="2015-01-06"/>
+    <cosponsor id="412485" joined="2015-07-21"/>
+    <cosponsor id="412443" joined="2015-01-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-06" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-02-02">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Child safety and welfare"/>
+    <term name="Educational facilities and institutions"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Firearms and explosives"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/2015--Introduced.
+Safe Students Act
+
+Amends the federal criminal code to repeal provisions making it unlawful to possess or discharge a firearm in a school zone.</summary>
+</bill>

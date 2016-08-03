@@ -1,0 +1,54 @@
+<bill session="114" type="hr" number="74" updated="2015-02-28T06:15:57-05:00">
+  <state datetime="2015-02-02">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-02"/>
+  </status>
+  <introduced datetime="2015-02-02"/>
+  <titles>
+    <title type="official" as="introduced">Expressing support for designation of the week of February 2, 2015, through February 6, 2015, as "National School Counseling Week".</title>
+  </titles>
+  <sponsor id="400355"/>
+  <cosponsors>
+    <cosponsor id="400041" joined="2015-02-04"/>
+    <cosponsor id="412517" joined="2015-02-03"/>
+    <cosponsor id="412379" joined="2015-02-02"/>
+    <cosponsor id="412221" joined="2015-02-02"/>
+    <cosponsor id="412236" joined="2015-02-10"/>
+    <cosponsor id="400162" joined="2015-02-02"/>
+    <cosponsor id="400179" joined="2015-02-02"/>
+    <cosponsor id="400185" joined="2015-02-02"/>
+    <cosponsor id="412511" joined="2015-02-13"/>
+    <cosponsor id="400230" joined="2015-02-03"/>
+    <cosponsor id="412616" joined="2015-02-03"/>
+    <cosponsor id="412209" joined="2015-02-02"/>
+    <cosponsor id="412521" joined="2015-02-02"/>
+    <cosponsor id="400259" joined="2015-02-02"/>
+    <cosponsor id="412585" joined="2015-02-10"/>
+    <cosponsor id="400326" joined="2015-02-02"/>
+    <cosponsor id="400352" joined="2015-02-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-02" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="sr" number="64"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="Educational guidance"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Teaching, teachers, curricula"/>
+  </subjects>
+  <amendments/>
+  <summary>2/2/2015--Introduced.
+Honors the contributions of school counselors to the success of students in our elementary and secondary schools.
+
+Encourages the observation of National School Counseling Week with ceremonies and activities that promote awareness of the crucial role school counselors play in preparing students for fulfilling lives as contributing members of society.</summary>
+</bill>

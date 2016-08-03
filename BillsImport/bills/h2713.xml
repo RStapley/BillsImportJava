@@ -1,0 +1,64 @@
+<bill session="114" type="h" number="2713" updated="2015-08-11T04:48:10-04:00">
+  <state datetime="2015-06-10">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-10"/>
+  </status>
+  <introduced datetime="2015-06-10"/>
+  <titles>
+    <title type="short" as="introduced">Title VIII Nursing Workforce Reauthorization Act of 2015</title>
+    <title type="official" as="introduced">To amend title VIII of the Public Health Service Act to extend advanced education nursing grants to support clinical nurse specialist programs, and for other purposes.</title>
+  </titles>
+  <sponsor id="400062"/>
+  <cosponsors>
+    <cosponsor id="400033" joined="2015-07-21"/>
+    <cosponsor id="412501" joined="2015-07-22"/>
+    <cosponsor id="400041" joined="2015-07-09"/>
+    <cosponsor id="400048" joined="2015-07-09"/>
+    <cosponsor id="400063" joined="2015-07-08"/>
+    <cosponsor id="412379" joined="2015-07-28"/>
+    <cosponsor id="412470" joined="2015-07-29"/>
+    <cosponsor id="400074" joined="2015-06-25"/>
+    <cosponsor id="400080" joined="2015-07-08"/>
+    <cosponsor id="412193" joined="2015-07-21"/>
+    <cosponsor id="412536" joined="2015-07-10"/>
+    <cosponsor id="412637" joined="2015-07-22"/>
+    <cosponsor id="400129" joined="2015-07-09"/>
+    <cosponsor id="412529" joined="2015-07-28"/>
+    <cosponsor id="400162" joined="2015-07-08"/>
+    <cosponsor id="400641" joined="2015-07-14"/>
+    <cosponsor id="400204" joined="2015-07-22"/>
+    <cosponsor id="412566" joined="2015-06-10"/>
+    <cosponsor id="412435" joined="2015-07-21"/>
+    <cosponsor id="400240" joined="2015-07-21"/>
+    <cosponsor id="400245" joined="2015-06-25"/>
+    <cosponsor id="400663" joined="2015-07-22"/>
+    <cosponsor id="412523" joined="2015-07-28"/>
+    <cosponsor id="412307" joined="2015-07-28"/>
+    <cosponsor id="412659" joined="2015-07-14"/>
+    <cosponsor id="400333" joined="2015-07-08"/>
+    <cosponsor id="412647" joined="2015-08-04"/>
+    <cosponsor id="400347" joined="2015-07-14"/>
+    <cosponsor id="400378" joined="2015-07-21"/>
+    <cosponsor id="412626" joined="2015-07-21"/>
+    <cosponsor id="412520" joined="2015-07-10"/>
+    <cosponsor id="412617" joined="2015-07-08"/>
+    <cosponsor id="412211" joined="2015-07-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-10" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-06-12">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+</bill>

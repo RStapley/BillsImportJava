@@ -1,0 +1,46 @@
+<bill session="114" type="h" number="1936" updated="2015-06-06T06:34:21-04:00">
+  <state datetime="2015-04-22">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-22"/>
+  </status>
+  <introduced datetime="2015-04-22"/>
+  <titles>
+    <title type="short" as="introduced">Improving the Integrity of Disability Evidence Act</title>
+    <title type="official" as="introduced">To amend title II of the Social Security Act to exclude certain medical sources of evidence in making disability determinations.</title>
+  </titles>
+  <sponsor id="400206"/>
+  <cosponsors>
+    <cosponsor id="412478" joined="2015-04-22"/>
+    <cosponsor id="412465" joined="2015-04-22"/>
+    <cosponsor id="400656" joined="2015-04-22"/>
+    <cosponsor id="412393" joined="2015-04-22"/>
+    <cosponsor id="412462" joined="2015-05-13"/>
+    <cosponsor id="412310" joined="2015-04-23"/>
+    <cosponsor id="412428" joined="2015-04-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-22" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="1198"/>
+  </relatedbills>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Civil actions and liability"/>
+    <term name="Disability assistance"/>
+    <term name="Evidence and witnesses"/>
+    <term name="Fraud offenses and financial crimes"/>
+    <term name="Health information and medical records"/>
+    <term name="Medicare"/>
+  </subjects>
+  <amendments/>
+  <summary>4/22/2015--Introduced.
+Improving the Integrity of Disability Evidence Act
+
+This bill amends the Social Security Act to prohibit the Commissioner of Social Security from considering (except for good cause) any medical evidence with respect to whether an individual is under a disability which is furnished by: (1) any individual convicted of a felony relating to Medicare fraud, (2) any individual or entity excluded from participation in any federal health care program, and (3) any person with respect to whom a civil monetary penalty or assessment has been imposed for the submission of false evidence.</summary>
+</bill>

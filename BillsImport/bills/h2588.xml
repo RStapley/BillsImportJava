@@ -1,0 +1,50 @@
+<bill session="114" type="h" number="2588" updated="2015-07-30T04:49:34-04:00">
+  <state datetime="2015-06-01">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-01"/>
+  </status>
+  <introduced datetime="2015-06-01"/>
+  <titles>
+    <title type="short" as="introduced">BARN Act</title>
+    <title type="short" as="introduced">Better Agriculture Resources Now Act</title>
+    <title type="official" as="introduced">To reform the H-2A program for nonimmigrant agricultural workers, and for other purposes.</title>
+  </titles>
+  <sponsor id="412625"/>
+  <cosponsors>
+    <cosponsor id="412629" joined="2015-06-01"/>
+    <cosponsor id="412619" joined="2015-06-01"/>
+    <cosponsor id="412622" joined="2015-06-23"/>
+    <cosponsor id="412531" joined="2015-07-29"/>
+    <cosponsor id="412555" joined="2015-06-01"/>
+    <cosponsor id="412510" joined="2015-06-01"/>
+    <cosponsor id="412540" joined="2015-06-01"/>
+    <cosponsor id="412572" joined="2015-06-01"/>
+    <cosponsor id="412411" joined="2015-07-14"/>
+    <cosponsor id="412405" joined="2015-07-16"/>
+    <cosponsor id="400627" joined="2015-06-01"/>
+    <cosponsor id="400433" joined="2015-06-01"/>
+    <cosponsor id="412525" joined="2015-07-21"/>
+    <cosponsor id="400030" joined="2015-06-01" withdrawn="2015-06-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-01" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-06-16">
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration and Border Security" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Immigration"/>
+  </subjects>
+  <amendments/>
+  <summary>6/1/2015--Introduced.
+Better Agriculture Resources Now Act or the BARN Act
+
+Revises the H-2A nonimmigrant agricultural worker visa program, including with respect to: (1) agricultural labor and services, (2) application requirements, (3) wages, (4) period of authorized nonimmigrant status, (5) housing, (6) legal assistance, and (7) violations.</summary>
+</bill>

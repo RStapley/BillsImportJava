@@ -1,0 +1,79 @@
+<bill session="114" type="h" number="1568" updated="2015-07-11T04:47:02-04:00">
+  <state datetime="2015-03-24">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-24"/>
+  </status>
+  <introduced datetime="2015-03-24"/>
+  <titles>
+    <title type="short" as="introduced">Protecting Religious Minorities Persecuted by ISIS Act of 2015</title>
+    <title type="official" as="introduced">To establish processes for certain aliens located in Iraq and certain other countries who are or were nationals or residents of Iraq or Syria who have been persecuted or have a credible fear of being persecuted by the group commonly known as the Islamic State of Iraq and the Levant, or by a similar group, to apply and interview for admission to the United States as refugees, and for other purposes.</title>
+  </titles>
+  <sponsor id="412522"/>
+  <cosponsors>
+    <cosponsor id="412635" joined="2015-05-13"/>
+    <cosponsor id="412258" joined="2015-04-22"/>
+    <cosponsor id="412604" joined="2015-05-05"/>
+    <cosponsor id="412236" joined="2015-07-10"/>
+    <cosponsor id="400080" joined="2015-03-24"/>
+    <cosponsor id="400086" joined="2015-04-16"/>
+    <cosponsor id="412536" joined="2015-07-10"/>
+    <cosponsor id="412505" joined="2015-07-10"/>
+    <cosponsor id="412403" joined="2015-04-15"/>
+    <cosponsor id="412420" joined="2015-04-22"/>
+    <cosponsor id="400124" joined="2015-04-15"/>
+    <cosponsor id="412276" joined="2015-05-05"/>
+    <cosponsor id="400185" joined="2015-05-05"/>
+    <cosponsor id="412422" joined="2015-05-05"/>
+    <cosponsor id="412283" joined="2015-03-24"/>
+    <cosponsor id="400199" joined="2015-07-10"/>
+    <cosponsor id="400245" joined="2015-05-13"/>
+    <cosponsor id="400262" joined="2015-05-05"/>
+    <cosponsor id="400263" joined="2015-05-05"/>
+    <cosponsor id="412523" joined="2015-07-10"/>
+    <cosponsor id="400652" joined="2015-05-05"/>
+    <cosponsor id="412331" joined="2015-07-10"/>
+    <cosponsor id="412311" joined="2015-03-24"/>
+    <cosponsor id="400365" joined="2015-05-05"/>
+    <cosponsor id="400378" joined="2015-07-10"/>
+    <cosponsor id="412259" joined="2015-07-10"/>
+    <cosponsor id="412319" joined="2015-05-20"/>
+    <cosponsor id="412515" joined="2015-04-22"/>
+    <cosponsor id="412579" joined="2015-05-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-24" state="REFERRED">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-03-24">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2015-03-24">
+      <text>Referred to House Foreign Affairs</text>
+    </action>
+    <action datetime="2015-04-21">
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration and Border Security" name="House Judiciary"/>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+  </subjects>
+  <amendments/>
+  <summary>3/24/2015--Introduced.
+Protecting Religious Minorities Persecuted by ISIS Act of 2015
+
+This bill directs the Secretary of State to establish or use existing refugee processing mechanisms in Iraq and in other countries through which aliens from Iraq or Syria who have been persecuted, or have a credible fear of being persecuted, by the Islamic State of Iraq and the Levant (ISIS/ISIL), or a similar group, based on gender or religious or ethnic membership may apply directly to the United States Refugee Admissions Program for priority 2 refugee admission to the United States.
+
+The processing mechanisms shall ensure that background and security checks are conducted, including the use of biographic and biometric data.
+
+The Secretary of State shall: (1) report to Congress a plan to expedite the processing of refugee admissions applications for such aliens, and (2) implement the plan within 180 days of enactment of this Act.
+
+It is U.S. policy that when conflict arises the United States should:
+
+ undertake efforts with the international community to protect local populations and enable them to remain safely in their home countries or in neighboring host countries until they can be safely repatriated; and facilitate third country resettlement if necessary, including U.S. resettlement when such refugees are of special humanitarian concern to the United States.</summary>
+</bill>

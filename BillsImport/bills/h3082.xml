@@ -1,0 +1,31 @@
+<bill session="114" type="h" number="3082" updated="2015-07-18T06:44:36-04:00">
+  <state datetime="2015-07-15">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-15"/>
+  </status>
+  <introduced datetime="2015-07-15"/>
+  <titles>
+    <title type="official" as="introduced">To designate the facility of the United States Postal Service located at 5919 Chef Menteur Highway in New Orleans, Louisiana, as the "Daryle Holloway Post Office Building".</title>
+  </titles>
+  <sponsor id="412432"/>
+  <cosponsors>
+    <cosponsor id="412630" joined="2015-07-15"/>
+    <cosponsor id="400636" joined="2015-07-15"/>
+    <cosponsor id="412275" joined="2015-07-15"/>
+    <cosponsor id="412631" joined="2015-07-15"/>
+    <cosponsor id="412261" joined="2015-07-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-15" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <summary>7/15/2015--Introduced.
+Designates the facility of the United States Postal Service located at 5919 Chef Menteur Highway in New Orleans, Louisiana, as the "Daryle Holloway Post Office Building."</summary>
+</bill>

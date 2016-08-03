@@ -1,0 +1,70 @@
+<bill session="114" type="h" number="1257" updated="2015-04-29T04:47:33-04:00">
+  <state datetime="2015-03-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-04"/>
+  </status>
+  <introduced datetime="2015-03-04"/>
+  <titles>
+    <title type="short" as="introduced">Rape Survivor Child Custody Act</title>
+    <title type="official" as="introduced">To direct the Attorney General to make grants to States that have in place laws that terminate the parental rights of men who father children through rape.</title>
+  </titles>
+  <sponsor id="400623"/>
+  <cosponsors>
+    <cosponsor id="400048" joined="2015-03-17"/>
+    <cosponsor id="412258" joined="2015-03-04"/>
+    <cosponsor id="412236" joined="2015-03-04"/>
+    <cosponsor id="412505" joined="2015-03-17"/>
+    <cosponsor id="412529" joined="2015-03-04"/>
+    <cosponsor id="412327" joined="2015-03-04"/>
+    <cosponsor id="400185" joined="2015-03-04"/>
+    <cosponsor id="400195" joined="2015-03-04"/>
+    <cosponsor id="412561" joined="2015-03-17"/>
+    <cosponsor id="412566" joined="2015-03-04"/>
+    <cosponsor id="400237" joined="2015-03-17"/>
+    <cosponsor id="412616" joined="2015-04-28"/>
+    <cosponsor id="412521" joined="2015-03-04"/>
+    <cosponsor id="412468" joined="2015-03-04"/>
+    <cosponsor id="400262" joined="2015-03-04"/>
+    <cosponsor id="412466" joined="2015-03-04"/>
+    <cosponsor id="400661" joined="2015-03-04"/>
+    <cosponsor id="400290" joined="2015-03-04"/>
+    <cosponsor id="400326" joined="2015-03-04"/>
+    <cosponsor id="400333" joined="2015-03-04"/>
+    <cosponsor id="412520" joined="2015-03-04"/>
+    <cosponsor id="412318" joined="2015-03-17"/>
+    <cosponsor id="412319" joined="2015-03-04"/>
+    <cosponsor id="400440" joined="2015-03-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-04" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-03-31">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Assault and harassment offenses"/>
+    <term name="Crimes against women"/>
+    <term name="Evidence and witnesses"/>
+    <term name="Family relationships"/>
+    <term name="Law enforcement administration and funding"/>
+    <term name="Separation, divorce, custody, support"/>
+    <term name="Sex offenses"/>
+  </subjects>
+  <amendments/>
+  <summary>3/4/2015--Introduced.
+Rape Survivor Child Custody Act
+
+ Directs the Attorney General to make grants to states that have in place a law that allows the mother of any child that was conceived through rape to seek court-ordered termination of the parental rights of her rapist with regard to that child, which the court shall grant upon clear and convincing evidence of rape.
+
+Limits such a grant to: (1) an amount that is not greater than 10% of the average of the total funding of the three most recent awards a state received under the STOP Violence Against Women Formula Grant Program and the Sexual Assault Services Program; and (2) a one-year term, subject to renewal for not more than three additional years.
+
+Requires a state that receives such a grant to use: (1) 25% of grant funds for permissible uses under the STOP Violence Against Women Formula Grant Program, and (2) 75% of funds for permissible uses under the Sexual Assault Services Program.</summary>
+</bill>

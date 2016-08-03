@@ -1,0 +1,42 @@
+<bill session="114" type="s" number="530" updated="2015-08-08T06:56:06-04:00">
+  <state datetime="2015-02-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-23"/>
+  </status>
+  <introduced datetime="2015-02-23"/>
+  <titles>
+    <title type="official" as="introduced">A bill to require the president of the Federal Reserve Bank of New York to be appointed by the President, by and with the advice and consent of the Senate.</title>
+  </titles>
+  <sponsor id="300081"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-02-23">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S1032-1033"/>
+    </action>
+    <action datetime="2015-02-23" state="REFERRED">
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+    <action datetime="2015-03-03">
+      <text>Committee on Banking, Housing, and Urban Affairs. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1910"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Congressional oversight"/>
+    <term name="Federal Reserve System"/>
+    <term name="Federal officials"/>
+    <term name="New York City"/>
+  </subjects>
+  <amendments/>
+  <summary>2/23/2015--Introduced.
+Amends the Federal Reserve Act to require the president of the Federal Reserve Bank of New York to be appointed by the President, by and with the advice and consent of the Senate, for terms of five years.
+
+Requires the president of the Federal Reserve Bank of New York to testify annually to certain congressional committees.</summary>
+</bill>

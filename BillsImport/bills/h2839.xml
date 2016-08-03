@@ -1,0 +1,35 @@
+<bill session="114" type="h" number="2839" updated="2015-07-07T04:47:20-04:00">
+  <state datetime="2015-06-18">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-18"/>
+  </status>
+  <introduced datetime="2015-06-18"/>
+  <titles>
+    <title type="official" as="introduced">To reform and modernize domestic refugee resettlement programs, and for other purposes.</title>
+  </titles>
+  <sponsor id="400309"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-06-18" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-07-01">
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration and Border Security" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Immigration"/>
+  </subjects>
+  <amendments/>
+  <summary>6/18/2015--Introduced.
+Requires the Government Accountability Office to study the effectiveness of the Office of Refugee Resettlement's domestic refugee resettlement programs.
+
+Requires the Office to: (1) ensure that refugee assistance is provided to qualifying refugees who are secondary migrants; (2) report to Congress regarding states experiencing departures and arrivals due to secondary migration; and (3) expand the Office's data analysis, collection, and sharing activities to include data on mental and physical medical cases, housing needs, and refugee employment.
+
+Requires the Department of State and the Department of Health and Human Services to provide refugee resettlement guidance to appropriate national, state, and local entities.</summary>
+</bill>

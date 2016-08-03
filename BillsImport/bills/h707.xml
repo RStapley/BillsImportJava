@@ -1,0 +1,66 @@
+<bill session="114" type="h" number="707" updated="2015-07-28T05:08:21-04:00">
+  <state datetime="2015-02-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-04"/>
+  </status>
+  <introduced datetime="2015-02-04"/>
+  <titles>
+    <title type="short" as="introduced">Restoration of America's Wire Act</title>
+    <title type="official" as="introduced">To restore long-standing United States policy that the Wire Act prohibits all forms of Internet gambling, and for other purposes.</title>
+  </titles>
+  <sponsor id="412270"/>
+  <cosponsors>
+    <cosponsor id="412642" joined="2015-03-03"/>
+    <cosponsor id="400029" joined="2015-02-27"/>
+    <cosponsor id="412567" joined="2015-06-17"/>
+    <cosponsor id="400648" joined="2015-02-04"/>
+    <cosponsor id="400137" joined="2015-02-04"/>
+    <cosponsor id="400141" joined="2015-02-04"/>
+    <cosponsor id="412532" joined="2015-02-04"/>
+    <cosponsor id="400651" joined="2015-02-25"/>
+    <cosponsor id="412473" joined="2015-02-25"/>
+    <cosponsor id="412661" joined="2015-07-22"/>
+    <cosponsor id="412444" joined="2015-03-16"/>
+    <cosponsor id="412553" joined="2015-02-04"/>
+    <cosponsor id="400209" joined="2015-06-03"/>
+    <cosponsor id="400220" joined="2015-02-04"/>
+    <cosponsor id="412656" joined="2015-02-27"/>
+    <cosponsor id="412409" joined="2015-07-27"/>
+    <cosponsor id="412443" joined="2015-07-27"/>
+    <cosponsor id="412306" joined="2015-02-27"/>
+    <cosponsor id="412411" joined="2015-03-16"/>
+    <cosponsor id="400606" joined="2015-06-24"/>
+    <cosponsor id="400381" joined="2015-02-04"/>
+    <cosponsor id="412410" joined="2015-07-13"/>
+    <cosponsor id="400433" joined="2015-02-25"/>
+    <cosponsor id="412618" joined="2015-04-16" withdrawn="2015-04-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-04" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-03-16">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+    <action datetime="2015-03-25">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral, Hearings" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1668"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Gambling"/>
+    <term name="Internet and video services"/>
+  </subjects>
+  <amendments/>
+  <summary>2/4/2015--Introduced.
+Restoration of America's Wire Act
+
+Amends provisions of the federal criminal code, commonly known as the Wire Act, to provide that the prohibition against transmission of wagering information shall apply to any bet or wager, or information assisting in the placing of any bet or wager (thus making such prohibition applicable to all types of gambling activities, including internet gambling). States that nothing in this Act shall be construed to: (1) preempt any state law prohibiting gambling; or (2) alter, limit, or extend the relationship between the Interstate Horseracing Act of 1978 and other federal laws currently in effect, the ability of a state licensed lottery retailer to make in-person, computer-generated retail lottery sales, or the relationship between federal laws and state charitable gaming laws.</summary>
+</bill>

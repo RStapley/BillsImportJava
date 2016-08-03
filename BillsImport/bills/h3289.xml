@@ -1,0 +1,43 @@
+<bill session="114" type="h" number="3289" updated="2015-08-08T06:46:49-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">Natural Gas Environmental and Economic Security Act</title>
+    <title type="official" as="introduced">To prevent the waste of gas produced under oil and gas leases on Federal land and to collect royalty on all gas production.</title>
+  </titles>
+  <sponsor id="412521"/>
+  <cosponsors>
+    <cosponsor id="412657" joined="2015-07-29"/>
+    <cosponsor id="412571" joined="2015-07-29"/>
+    <cosponsor id="412195" joined="2015-07-29"/>
+    <cosponsor id="412612" joined="2015-07-29"/>
+    <cosponsor id="400162" joined="2015-07-29"/>
+    <cosponsor id="400185" joined="2015-07-29"/>
+    <cosponsor id="400259" joined="2015-07-29"/>
+    <cosponsor id="400295" joined="2015-07-29"/>
+    <cosponsor id="412585" joined="2015-07-29"/>
+    <cosponsor id="412308" joined="2015-07-29"/>
+    <cosponsor id="412319" joined="2015-07-29"/>
+    <cosponsor id="400415" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-29">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1156"/>
+    </action>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+  </subjects>
+  <amendments/>
+</bill>

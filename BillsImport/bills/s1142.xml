@@ -1,0 +1,32 @@
+<bill session="114" type="s" number="1142" updated="2015-06-06T06:53:07-04:00">
+  <state datetime="2015-04-30">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-30"/>
+  </status>
+  <introduced datetime="2015-04-30"/>
+  <titles>
+    <title type="short" as="introduced">Native Species Protection Act</title>
+    <title type="official" as="introduced">A bill to clarify that noncommercial species found entirely within the borders of a single State are not in interstate commerce or subject to regulation under the Endangered Species Act of 1973 or any other provision of law enacted as an exercise of the power of Congress to regulate interstate commerce.</title>
+  </titles>
+  <sponsor id="412495"/>
+  <cosponsors>
+    <cosponsor id="412573" joined="2015-05-06"/>
+    <cosponsor id="300052" joined="2015-04-30"/>
+    <cosponsor id="300088" joined="2015-05-18"/>
+    <cosponsor id="400418" joined="2015-04-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-30" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Endangered and threatened species"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,56 @@
+<bill session="114" type="s" number="490" updated="2015-03-14T06:41:20-04:00">
+  <state datetime="2015-02-12">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-12"/>
+  </status>
+  <introduced datetime="2015-02-12"/>
+  <titles>
+    <title type="short" as="introduced">Federal Land Freedom Act of 2015</title>
+    <title type="official" as="introduced">A bill to achieve domestic energy independence by empowering States to control the development and production of all forms of energy on all available Federal land.</title>
+  </titles>
+  <sponsor id="300055"/>
+  <cosponsors>
+    <cosponsor id="400061" joined="2015-02-12"/>
+    <cosponsor id="412508" joined="2015-02-12"/>
+    <cosponsor id="300030" joined="2015-02-12"/>
+    <cosponsor id="412573" joined="2015-02-12"/>
+    <cosponsor id="412464" joined="2015-02-12"/>
+    <cosponsor id="412495" joined="2015-02-12"/>
+    <cosponsor id="412322" joined="2015-02-24"/>
+    <cosponsor id="300088" joined="2015-02-12"/>
+    <cosponsor id="400418" joined="2015-02-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-12" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="866"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Endangered and threatened species"/>
+    <term name="Environmental assessment, monitoring, research"/>
+    <term name="Historic sites and heritage areas"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Licensing and registrations"/>
+    <term name="Oil and gas"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+  <summary>2/12/2015--Introduced.
+Federal Land Freedom Act of 2015
+
+This bill permits a state that has an established leasing, permitting, and regulatory program to: (1) declare to the Secretaries of the Interior, of Agriculture, and of Energy that it has either established or amended the program; and (2) seek to transfer to itself, and to implement, existing federal responsibilities for leasing, permitting, and regulating oil, natural gas, and other forms of energy development.
+
+Any state action to lease, permit, or regulate oil and gas exploration and development shall not be subject to, or considered, a federal action, a federal permit, or a federal license with respect to specified administrative and environmental laws and is therefore exempt from them.
+
+State-issued leases or permits must provide for: (1) the collection of royalties or other revenues in an amount equal to what would have been collected if the lease or permit had been federally issued, and (2) their deposit into the same federal account in which they would have been deposited if the lease or permit had been federally issued.
+
+A state may collect and retain lease or permit application processing fees.</summary>
+</bill>

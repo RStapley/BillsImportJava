@@ -1,0 +1,49 @@
+<bill session="114" type="s" number="613" updated="2015-08-06T04:48:28-04:00">
+  <state datetime="2015-02-27">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-27"/>
+  </status>
+  <introduced datetime="2015-02-27"/>
+  <titles>
+    <title type="short" as="introduced">Summer Meals Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend the Richard B. Russell National School Lunch Act to improve the efficiency of summer meals.</title>
+  </titles>
+  <sponsor id="412223"/>
+  <cosponsors>
+    <cosponsor id="412246" joined="2015-04-23"/>
+    <cosponsor id="300043" joined="2015-06-17"/>
+    <cosponsor id="412545" joined="2015-06-23"/>
+    <cosponsor id="300075" joined="2015-02-27"/>
+    <cosponsor id="412194" joined="2015-05-18"/>
+    <cosponsor id="300100" joined="2015-08-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-27" state="REFERRED">
+      <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="1728"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Food assistance and relief"/>
+    <term name="Poverty and welfare assistance"/>
+    <term name="Public-private cooperation"/>
+  </subjects>
+  <amendments/>
+  <summary>2/27/2015--Introduced.
+Summer Meals Act of 2015
+
+Amends the Richard B. Russell National School Lunch Act to redefine "areas in which poor economic conditions exist," where the summer food service program for children may operate, as areas in which at least 40% (currently, 50%) of the children have been determined to be eligible for free or reduced price school meals under the school lunch and breakfast programs.
+
+Reimburses service institutions (other than school food authorities) for up to one meal and one snack per child each day during after-school hours, weekends, and school holidays during the regular school calendar. (Currently, such institutions are reimbursed for meals and snacks served to children over the summer months or to children who are on vacation under a continuous school calendar.)
+
+Authorizes the Secretary of Agriculture to award competitive grants to service institutions to increase participation in the summer food service program for children at congregate feeding sites through innovative approaches to limited transportation and mobile meal trucks.
+
+Allows service institutions that are participating in the summer food service program for children to serve up to three meals, or two meals and one snack, during each day of operation. (Currently, this option is reserved for camps and service institutions that serve meals primarily to migrant children.)</summary>
+</bill>

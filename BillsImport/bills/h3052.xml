@@ -1,0 +1,42 @@
+<bill session="114" type="h" number="3052" updated="2015-08-15T06:44:55-04:00">
+  <state datetime="2015-07-14">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-14"/>
+  </status>
+  <introduced datetime="2015-07-14"/>
+  <titles>
+    <title type="official" as="introduced">To amend title 28, United States Code, to prevent the misuse of foreign law in Federal courts, and for other purposes.</title>
+  </titles>
+  <sponsor id="412478"/>
+  <cosponsors>
+    <cosponsor id="412655" joined="2015-07-23"/>
+    <cosponsor id="412395" joined="2015-07-21"/>
+    <cosponsor id="400655" joined="2015-07-28"/>
+    <cosponsor id="412472" joined="2015-07-16"/>
+    <cosponsor id="412476" joined="2015-07-21"/>
+    <cosponsor id="400175" joined="2015-07-21"/>
+    <cosponsor id="412460" joined="2015-07-23"/>
+    <cosponsor id="400206" joined="2015-07-16"/>
+    <cosponsor id="400209" joined="2015-07-16"/>
+    <cosponsor id="412302" joined="2015-07-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-14" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Law"/>
+    <term name="Federal appellate courts"/>
+    <term name="Federal district courts"/>
+    <term name="Judicial procedure and administration"/>
+    <term name="Supreme Court"/>
+  </subjects>
+  <amendments/>
+  <summary>7/14/2015--Introduced.
+This bill amends the federal judicial code to prohibit federal courts from deciding any issue on the authority of foreign law, except to the extent that the Constitution or an Act of Congress requires the consideration of that foreign law.</summary>
+</bill>

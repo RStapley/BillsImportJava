@@ -1,0 +1,41 @@
+<bill session="114" type="s" number="1933" updated="2015-08-12T09:46:09-04:00">
+  <state datetime="2015-08-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-08-04"/>
+  </status>
+  <introduced datetime="2015-08-04"/>
+  <titles>
+    <title type="short" as="introduced">Electrify Africa Act of 2015</title>
+    <title type="official" as="introduced">A bill to establish a comprehensive United States Government policy to encourage the efforts of countries in sub-Saharan Africa to develop an appropriate mix of power solutions, including renewable energy, for more broadly distributed electricity access in order to support poverty reduction, promote development outcomes, and drive economic growth, and for other purposes.</title>
+  </titles>
+  <sponsor id="412248"/>
+  <cosponsors>
+    <cosponsor id="300002" joined="2015-08-04"/>
+    <cosponsor id="400040" joined="2015-08-04"/>
+    <cosponsor id="400064" joined="2015-08-04"/>
+    <cosponsor id="300025" joined="2015-08-04"/>
+    <cosponsor id="412390" joined="2015-08-04"/>
+    <cosponsor id="300038" joined="2015-08-04"/>
+    <cosponsor id="412406" joined="2015-08-04"/>
+    <cosponsor id="300047" joined="2015-08-04"/>
+    <cosponsor id="400194" joined="2015-08-04"/>
+    <cosponsor id="400222" joined="2015-08-04"/>
+    <cosponsor id="400253" joined="2015-08-04"/>
+    <cosponsor id="400272" joined="2015-08-04"/>
+    <cosponsor id="412194" joined="2015-08-04"/>
+    <cosponsor id="300076" joined="2015-08-04"/>
+    <cosponsor id="300087" joined="2015-08-04"/>
+    <cosponsor id="412323" joined="2015-08-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-08-04" state="REFERRED">
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

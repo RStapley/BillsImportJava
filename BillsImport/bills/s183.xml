@@ -1,0 +1,74 @@
+<bill session="114" type="s" number="183" updated="2015-07-31T04:47:26-04:00">
+  <state datetime="2015-01-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-16"/>
+  </status>
+  <introduced datetime="2015-01-16"/>
+  <titles>
+    <title type="short" as="introduced">Jobs and Premium Protection Act</title>
+    <title type="official" as="introduced">A bill to repeal the annual fee on health insurance providers enacted by the Patient Protection and Affordable Care Act.</title>
+  </titles>
+  <sponsor id="412251"/>
+  <cosponsors>
+    <cosponsor id="300002" joined="2015-01-16"/>
+    <cosponsor id="412493" joined="2015-01-16"/>
+    <cosponsor id="400034" joined="2015-01-16"/>
+    <cosponsor id="400040" joined="2015-05-12"/>
+    <cosponsor id="400054" joined="2015-01-16"/>
+    <cosponsor id="400061" joined="2015-01-21"/>
+    <cosponsor id="412269" joined="2015-01-21"/>
+    <cosponsor id="402675" joined="2015-01-16"/>
+    <cosponsor id="300023" joined="2015-06-10"/>
+    <cosponsor id="300025" joined="2015-01-21"/>
+    <cosponsor id="412508" joined="2015-05-12"/>
+    <cosponsor id="300030" joined="2015-01-16"/>
+    <cosponsor id="412549" joined="2015-05-18"/>
+    <cosponsor id="412667" joined="2015-07-09"/>
+    <cosponsor id="412556" joined="2015-01-16"/>
+    <cosponsor id="400134" joined="2015-01-16"/>
+    <cosponsor id="412406" joined="2015-01-16"/>
+    <cosponsor id="300052" joined="2015-01-16"/>
+    <cosponsor id="412218" joined="2015-07-24"/>
+    <cosponsor id="412494" joined="2015-03-23"/>
+    <cosponsor id="300055" joined="2015-01-16"/>
+    <cosponsor id="400194" joined="2015-01-16"/>
+    <cosponsor id="412496" joined="2015-02-09"/>
+    <cosponsor id="400222" joined="2015-01-16"/>
+    <cosponsor id="412464" joined="2015-01-28"/>
+    <cosponsor id="300071" joined="2015-01-26"/>
+    <cosponsor id="400284" joined="2015-01-16"/>
+    <cosponsor id="300075" joined="2015-02-03"/>
+    <cosponsor id="412666" joined="2015-04-28"/>
+    <cosponsor id="412322" joined="2015-01-22"/>
+    <cosponsor id="300083" joined="2015-01-16"/>
+    <cosponsor id="412669" joined="2015-07-30"/>
+    <cosponsor id="412491" joined="2015-01-16"/>
+    <cosponsor id="412471" joined="2015-01-16"/>
+    <cosponsor id="412668" joined="2015-02-23"/>
+    <cosponsor id="400408" joined="2015-01-16"/>
+    <cosponsor id="400418" joined="2015-01-16"/>
+    <cosponsor id="400432" joined="2015-01-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-16" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="928"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Insurance industry and regulation"/>
+    <term name="User charges and fees"/>
+  </subjects>
+  <amendments/>
+  <summary>1/16/2015--Introduced.
+Jobs and Premium Protection Act
+
+This bill repeals a provision of the Patient Protection and Affordable Care Act that imposes an annual fee on a health insurance provider based on its net premium income.</summary>
+</bill>

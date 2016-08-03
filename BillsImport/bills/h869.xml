@@ -1,0 +1,42 @@
+<bill session="114" type="h" number="869" updated="2015-07-08T04:47:37-04:00">
+  <state datetime="2015-02-11">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-11"/>
+  </status>
+  <introduced datetime="2015-02-11"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to broaden the special rules for certain governmental plans under section 105(j) to include plans established by political subdivisions.</title>
+  </titles>
+  <sponsor id="400660"/>
+  <cosponsors>
+    <cosponsor id="400033" joined="2015-02-11"/>
+    <cosponsor id="412583" joined="2015-03-19"/>
+    <cosponsor id="400224" joined="2015-04-17"/>
+    <cosponsor id="400262" joined="2015-05-08"/>
+    <cosponsor id="408211" joined="2015-03-03"/>
+    <cosponsor id="412303" joined="2015-03-03"/>
+    <cosponsor id="400316" joined="2015-03-16"/>
+    <cosponsor id="400379" joined="2015-07-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-11" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Income tax exclusion"/>
+    <term name="State and local government operations"/>
+    <term name="Tax-exempt organizations"/>
+  </subjects>
+  <amendments/>
+  <summary>2/11/2015--Introduced.
+Amends the Internal Revenue Code to expand the special rule for the exclusion from gross income of amounts received by an employee from a governmental accident or health plan to include amounts paid from plans established by or on behalf of a state or political subdivision.</summary>
+</bill>

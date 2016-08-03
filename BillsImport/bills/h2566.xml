@@ -1,0 +1,51 @@
+<bill session="114" type="h" number="2566" updated="2015-08-11T04:47:54-04:00">
+  <state datetime="2015-05-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-21"/>
+  </status>
+  <introduced datetime="2015-05-21"/>
+  <titles>
+    <title type="short" as="introduced">Improving Rural Call Quality and Reliability Act of 2015</title>
+    <title type="official" as="introduced">To amend the Communications Act of 1934 to ensure the integrity of voice communications and to prevent unjust or unreasonable discrimination among areas of the United States in the delivery of such communications.</title>
+  </titles>
+  <sponsor id="412628"/>
+  <cosponsors>
+    <cosponsor id="412209" joined="2015-05-21"/>
+    <cosponsor id="408211" joined="2015-05-21"/>
+    <cosponsor id="400316" joined="2015-05-21"/>
+    <cosponsor id="412585" joined="2015-05-21"/>
+    <cosponsor id="412239" joined="2015-05-21"/>
+    <cosponsor id="412640" joined="2015-05-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-21" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-05-22">
+      <text>Referred to the Subcommittee on Communications and Technology.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF16" subcommittee="Communications and Technology" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="827"/>
+  </relatedbills>
+  <subjects>
+    <term name="Science, technology, communications"/>
+  </subjects>
+  <amendments/>
+  <summary>5/21/2015--Introduced.
+Improving Rural Call Quality and Reliability Act of 2015
+
+Amends the Communications Act of 1934 to require an intermediate provider that offers the capability to transmit certain voice communications and signaling information from one destination to another, and that charges a rate to any other entity (including an affiliated entity) for the transmission, to: (1) register with the Federal Communications Commission (FCC), and (2) comply with service quality standards to be established by the FCC.
+
+Defines "intermediate provider" as any entity that: (1) carries or processes traffic that is generated from the placement of a call from a connection using a North American Numbering Plan resource or a call placed to a connection using such a numbering resource, and (2) does not itself originate or terminate such traffic in the context of the carriage or processing.
+
+Prohibits certain long-distance voice service providers (including local exchange carriers, interexchange carriers, commercial mobile radio services, interconnected voice over Internet Protocol [VoIP] services, and certain non-interconnected VoIP services) from using an intermediate provider to transmit voice communications and signals unless the intermediate provider is so registered.
+
+Directs the FCC, in promulgating rules for such standards, to: (1) ensure the integrity of the transmission of voice communications to all customers in the United States, (2) prevent unjust or unreasonable discrimination among areas of the United States in the delivery of such voice communications, and (3) make a registry of intermediate providers publicly available on the FCC website.
+
+Prohibits this Act from being contrued to preempt the authority of a state agency or public utility commission to collect data, or enforce state law and regulations, regarding the completion of intrastate voice communications.</summary>
+</bill>

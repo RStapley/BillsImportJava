@@ -1,0 +1,112 @@
+<bill session="114" type="h" number="1086" updated="2015-07-30T04:48:22-04:00">
+  <state datetime="2015-02-25">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-25"/>
+  </status>
+  <introduced datetime="2015-02-25"/>
+  <titles>
+    <title type="short" as="introduced">General Aviation Pilot Protection Act of 2015</title>
+    <title type="official" as="introduced">To direct the Administrator of the Federal Aviation Administration to issue or revise regulations with respect to the medical certification of certain small aircraft pilots, and for other purposes.</title>
+  </titles>
+  <sponsor id="412426"/>
+  <cosponsors>
+    <cosponsor id="412630" joined="2015-02-27"/>
+    <cosponsor id="400004" joined="2015-05-12"/>
+    <cosponsor id="412655" joined="2015-07-15"/>
+    <cosponsor id="412541" joined="2015-03-16"/>
+    <cosponsor id="412436" joined="2015-03-16"/>
+    <cosponsor id="412478" joined="2015-04-28"/>
+    <cosponsor id="400032" joined="2015-07-08"/>
+    <cosponsor id="412605" joined="2015-06-24"/>
+    <cosponsor id="412395" joined="2015-03-16"/>
+    <cosponsor id="412539" joined="2015-05-13"/>
+    <cosponsor id="412427" joined="2015-04-22"/>
+    <cosponsor id="412601" joined="2015-04-22"/>
+    <cosponsor id="412571" joined="2015-07-15"/>
+    <cosponsor id="412555" joined="2015-03-18"/>
+    <cosponsor id="412400" joined="2015-04-21"/>
+    <cosponsor id="412544" joined="2015-04-13"/>
+    <cosponsor id="412477" joined="2015-04-28"/>
+    <cosponsor id="412472" joined="2015-04-13"/>
+    <cosponsor id="400116" joined="2015-02-27"/>
+    <cosponsor id="412476" joined="2015-05-12"/>
+    <cosponsor id="412480" joined="2015-02-25"/>
+    <cosponsor id="400142" joined="2015-04-15"/>
+    <cosponsor id="400154" joined="2015-07-29"/>
+    <cosponsor id="400158" joined="2015-02-25"/>
+    <cosponsor id="412661" joined="2015-07-13"/>
+    <cosponsor id="412454" joined="2015-02-25"/>
+    <cosponsor id="412444" joined="2015-05-15"/>
+    <cosponsor id="412446" joined="2015-03-02"/>
+    <cosponsor id="400175" joined="2015-04-13"/>
+    <cosponsor id="412429" joined="2015-03-16"/>
+    <cosponsor id="412437" joined="2015-07-28"/>
+    <cosponsor id="412484" joined="2015-04-21"/>
+    <cosponsor id="400196" joined="2015-07-21"/>
+    <cosponsor id="412460" joined="2015-04-29"/>
+    <cosponsor id="412421" joined="2015-03-16"/>
+    <cosponsor id="412286" joined="2015-04-13"/>
+    <cosponsor id="400224" joined="2015-07-28"/>
+    <cosponsor id="412256" joined="2015-06-24"/>
+    <cosponsor id="400630" joined="2015-02-25"/>
+    <cosponsor id="412209" joined="2015-04-28"/>
+    <cosponsor id="412292" joined="2015-06-25"/>
+    <cosponsor id="412503" joined="2015-03-16"/>
+    <cosponsor id="400279" joined="2015-06-24"/>
+    <cosponsor id="400313" joined="2015-02-25"/>
+    <cosponsor id="400316" joined="2015-02-25"/>
+    <cosponsor id="412431" joined="2015-02-25"/>
+    <cosponsor id="412489" joined="2015-03-18"/>
+    <cosponsor id="412570" joined="2015-04-21"/>
+    <cosponsor id="400352" joined="2015-04-21"/>
+    <cosponsor id="412315" joined="2015-03-24"/>
+    <cosponsor id="412417" joined="2015-04-13"/>
+    <cosponsor id="400367" joined="2015-03-02"/>
+    <cosponsor id="412217" joined="2015-03-24"/>
+    <cosponsor id="400381" joined="2015-05-12"/>
+    <cosponsor id="412317" joined="2015-05-12"/>
+    <cosponsor id="400406" joined="2015-04-13"/>
+    <cosponsor id="400414" joined="2015-04-13"/>
+    <cosponsor id="400627" joined="2015-04-15"/>
+    <cosponsor id="400440" joined="2015-02-27"/>
+    <cosponsor id="412640" joined="2015-02-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-25" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2015-02-26">
+      <text>Referred to the Subcommittee on Aviation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW05" subcommittee="Aviation" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1062"/>
+    <bill relation="unknown" session="114" type="s" number="571"/>
+    <bill relation="identical" session="114" type="s" number="573"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Administrative remedies"/>
+    <term name="Aviation and airports"/>
+    <term name="Department of Transportation"/>
+    <term name="Licensing and registrations"/>
+    <term name="Medical tests and diagnostic methods"/>
+    <term name="Transportation employees"/>
+    <term name="Transportation safety and security"/>
+    <term name="Worker safety and health"/>
+  </subjects>
+  <amendments/>
+  <summary>2/25/2015--Introduced.
+General Aviation Pilot Protection Act of 2015
+
+ Directs the Administrator of the Federal Aviation Administration (FAA) to issue or revise FAA medical certification regulations to ensure that an individual may operate as a pilot of a covered aircraft without regard to any medical certification or proof of health requirement otherwise applicable under federal law if the flight meets certain criteria and the individual: (1) possesses a valid state driver's license, (2) complies with applicable medical requirements associated with that license, (3) is transporting five or fewer passengers, and (4) is operating under visual or instrument flight rules.
+
+Defines "covered aircraft" as an aircraft that: (1) is not authorized under federal law to carry more than six occupants, and (2) has a maximum certificated takeoff weight of no more than 6,000 pounds.
+
+Prohibits the Administrator from taking enforcement action against a pilot of a covered aircraft for not holding a valid third-class medical certificate if the pilot and the flight meets such requirements, unless the Administrator has published final regulations in the Federal Register.</summary>
+</bill>

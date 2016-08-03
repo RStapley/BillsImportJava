@@ -1,0 +1,30 @@
+<bill session="114" type="h" number="2955" updated="2015-07-30T04:50:04-04:00">
+  <state datetime="2015-07-07">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-07"/>
+  </status>
+  <introduced datetime="2015-07-07"/>
+  <titles>
+    <title type="short" as="introduced">Right to Counsel and Taxpayer Protection Act</title>
+    <title type="official" as="introduced">To amend the Violent Crime Control and Law Enforcement Act of 1994 to expand the cause of action relating to the pattern or practice of conduct by a governmental authority that deprives a person of rights protected by the Constitution to such conduct relating to adults as well as juveniles.</title>
+  </titles>
+  <sponsor id="412385"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-07" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+  </subjects>
+  <amendments/>
+</bill>

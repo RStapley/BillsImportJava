@@ -1,0 +1,29 @@
+<bill session="114" type="h" number="3414" updated="2015-08-22T06:47:52-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">Veterans Access to Orthotic and Prosthetic Care Act</title>
+    <title type="official" as="introduced">To improve the certification and licensing of employees and medical laboratories of the Department of Veterans Affairs that furnish prosthetic and orthotic services, and for other purposes.</title>
+  </titles>
+  <sponsor id="412461"/>
+  <cosponsors>
+    <cosponsor id="412565" joined="2015-07-29"/>
+    <cosponsor id="412520" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+</bill>

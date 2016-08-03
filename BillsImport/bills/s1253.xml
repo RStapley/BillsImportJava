@@ -1,0 +1,48 @@
+<bill session="114" type="s" number="1253" updated="2015-08-08T07:02:13-04:00">
+  <state datetime="2015-06-24">REPORTED</state>
+  <status>
+    <unknown datetime="2015-06-24"/>
+  </status>
+  <introduced datetime="2015-05-07"/>
+  <titles>
+    <title type="short" as="introduced">Patient Access to Disposable Medical Technology Act of 2015</title>
+    <title type="short" as="reported to senate">Patient Access to Disposable Medical Technology Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act to provide coverage of certain disposable medical technologies under the Medicare program, and for other purposes.</title>
+  </titles>
+  <sponsor id="400054"/>
+  <cosponsors>
+    <cosponsor id="300002" joined="2015-05-12"/>
+    <cosponsor id="412330" joined="2015-05-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-07" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+    <calendar datetime="2015-06-24" state="REPORTED">
+      <text>Committee on Finance. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="2015-07-30">
+      <text>Committee on Finance. Reported by Senator Hatch with an amendment in the nature of a substitute and an amendment to the title. With written report No. 114-105.</text>
+    </action>
+    <calendar datetime="2015-07-30" calendar="Senate Legislative" under="General Orders" number="184">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 184.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1018"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Health technology, devices, supplies"/>
+    <term name="Medicare"/>
+    <term name="Public contracts and procurement"/>
+  </subjects>
+  <amendments/>
+  <summary>5/7/2015--Introduced.
+Patient Access to Disposable Medical Technology Act of 2015
+
+This bill amends title XVIII (Medicare) of the Social Security Act to cover substitute disposable medical technology as durable medical equipment, subject it to a special payment rule, and exempt it from competitive acquisition.</summary>
+</bill>

@@ -1,0 +1,65 @@
+<bill session="114" type="h" number="1738" updated="2015-08-01T06:34:00-04:00">
+  <state datetime="2015-05-20">REPORTED</state>
+  <status>
+    <unknown datetime="2015-05-20"/>
+  </status>
+  <introduced datetime="2015-04-13"/>
+  <titles>
+    <title type="short" as="introduced">Integrated Public Alert and Warning System Modernization Act of 2015</title>
+    <title type="official" as="introduced">To amend the Homeland Security Act of 2002 to direct the Secretary of Homeland Security to modernize and implement the national integrated public alert and warning system to disseminate homeland security information and other information, and for other purposes.</title>
+  </titles>
+  <sponsor id="412250"/>
+  <cosponsors>
+    <cosponsor id="412539" joined="2015-04-13"/>
+    <cosponsor id="400654" joined="2015-04-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-13" state="REFERRED">
+      <text>Referred to the Committee on Homeland Security, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-04-13">
+      <text>Referred to House Homeland Security</text>
+    </action>
+    <action datetime="2015-04-13">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2015-04-14">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+    </action>
+    <action datetime="2015-04-27">
+      <text>Referred to the Subcommittee on Emergency Preparedness, Response and Communications.</text>
+    </action>
+    <action datetime="2015-05-20">
+      <text>Subcommittee on Emergency Preparedness, Response and Communications Discharged.</text>
+    </action>
+    <action datetime="2015-05-20">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-05-20" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral, Markup"/>
+    <committee activity="Referral, Discharged" code="HSHM12" subcommittee="Emergency Preparedness, Response, and Communications" name="House Homeland Security"/>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1472"/>
+  </relatedbills>
+  <subjects>
+    <term name="Emergency management"/>
+  </subjects>
+  <amendments/>
+  <summary>4/13/2015--Introduced.
+Integrated Public Alert and Warning System Modernization Act of 2015
+
+ Amends the Homeland Security Act of 2002 to direct the Department of Homeland Security (DHS) to update, modernize, and implement the national integrated public alert and warning system, including by: (1) establishing or adapting common alerting and warning protocols, standards, terminology, and operating procedures; (2) including the capability to adapt the dissemination of information and the content of communications on the basis of geographic location, risks, and multiple communications systems and technologies and the capability to alert, warn, and provide the equivalent amount of information to individuals with limited English proficiency skills, disabilities (particularly sensory disabilities), or other access or functional needs; (3) ensuring training, tests, and exercises for the system and that the system is incorporated into other training and exercise programs of DHS; (4) ensuring that a comprehensive and periodic training program for receiving and disseminating public alert and warning system messages utilizing advanced technologies is provided to state, local, tribal, and other homeland security stakeholders; (5) conducting periodic nationwide tests of the system at least every five years; and (6) consulting, coordinating, and cooperating with other federal agencies and with state, local, and tribal governments, the private sector, and other key stakeholders to leverage existing alert and warning capabilities.
+
+Requires DHS to ensure that the system: (1) incorporates redundant and diverse modes to disseminate warning messages to reach the greatest number of individuals in the intended area; (2) can be adapted to incorporate emerging and future technologies, including social media; (3) is reliable, resilient, and secure and can withstand acts of terrorism, hazards, and other external attacks or dangers; (4) is hardened against cyber attacks; (5) promotes state, local, tribal, and regional partnerships to enhance coordination; and (6) is designed to provide alerts that are accessible to the largest portion of the affected population and to improve the ability of affected populations in remote areas and areas with underdeveloped telecommunications infrastructure to receive alerts.
+
+Directs DHS to: (1) produce a Privacy Impact Assessment every five years to evaluate whether the technology of the system has implications on the privacy rights of U.S. citizens; (2) establish the Integrated Public Alert and Warning System Advisory Committee, which may submit annual recommendations for the continuation and improvement of such system; and (3) make available to the public, and update at least annually, a list of mobile devices that are capable of receiving warnings and alerts disseminated through such system.
+
+Directs the Federal Emergency Management Agency (FEMA) to permit the use of homeland security grant funds to improve public alert and warning capabilities.</summary>
+</bill>

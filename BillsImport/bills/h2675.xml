@@ -1,0 +1,44 @@
+<bill session="114" type="h" number="2675" updated="2015-07-29T04:48:39-04:00">
+  <state datetime="2015-06-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-04"/>
+  </status>
+  <introduced datetime="2015-06-04"/>
+  <titles>
+    <title type="short" as="introduced">Low Volume Motor Vehicle Manufacturers Act of 2015</title>
+    <title type="official" as="introduced">To direct the National Highway Traffic Safety Administration to establish a program allowing low volume motor vehicle manufacturers to produce a limited number of vehicles annually within a regulatory system that addresses the unique safety and financial issues associated with limited production, and to direct the Environmental Protection Agency to allow low volume motor vehicle manufacturers to install engines from vehicles that have been issued certificates of conformity.</title>
+  </titles>
+  <sponsor id="412568"/>
+  <cosponsors>
+    <cosponsor id="400030" joined="2015-07-13"/>
+    <cosponsor id="412619" joined="2015-07-08"/>
+    <cosponsor id="412571" joined="2015-06-10"/>
+    <cosponsor id="412236" joined="2015-07-28"/>
+    <cosponsor id="400160" joined="2015-06-04"/>
+    <cosponsor id="412661" joined="2015-07-08"/>
+    <cosponsor id="412278" joined="2015-07-15"/>
+    <cosponsor id="412465" joined="2015-06-11"/>
+    <cosponsor id="412510" joined="2015-06-10"/>
+    <cosponsor id="412309" joined="2015-06-11"/>
+    <cosponsor id="412426" joined="2015-07-14"/>
+    <cosponsor id="400381" joined="2015-06-17"/>
+    <cosponsor id="412618" joined="2015-06-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-04" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-06-05">
+      <text>Referred to the Subcommittee on Commerce, Manufacturing, and Trade.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF17" subcommittee="Commerce, Manufacturing, and Trade" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+</bill>

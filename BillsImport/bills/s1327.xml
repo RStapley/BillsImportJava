@@ -1,0 +1,39 @@
+<bill session="114" type="s" number="1327" updated="2015-08-01T07:03:15-04:00">
+  <state datetime="2015-05-13">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-13"/>
+  </status>
+  <introduced datetime="2015-05-13"/>
+  <titles>
+    <title type="short" as="introduced">SALTS Act</title>
+    <title type="short" as="introduced">Synthetic Abuse and Labeling of Toxic Substances Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend the Controlled Substances Act relating to controlled substance analogues.</title>
+  </titles>
+  <sponsor id="412242"/>
+  <cosponsors>
+    <cosponsor id="300043" joined="2015-05-13"/>
+    <cosponsor id="300047" joined="2015-05-13"/>
+    <cosponsor id="300048" joined="2015-05-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-13" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1186"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+  </subjects>
+  <amendments/>
+  <summary>5/13/2015--Introduced.
+Synthetic Abuse and Labeling of Toxic Substances Act of 2015 or the SALTS Act
+
+Amends the Controlled Substances Act to authorize evidence related to the following factors to be considered in determining whether a controlled substance analogue was intended for human consumption:
+
+ the marketing, advertising, and labeling of the substance; the known efficacy or usefulness of the substance for the marketed, advertised, or labeled purpose; the difference between the price at which the substance is sold and the price at which the substance it is purported to be or advertised as is normally sold; the diversion of the substance from legitimate channels and the clandestine importation, manufacture, or distribution of the substance; and whether the defendant knew or should have known that the substance was intended to be consumed by injection, inhalation, ingestion, or any other immediate means. Declares that the existence of evidence that a substance was not marketed, advertised, or labeled for human consumption shall not preclude the government from establishing, based on all the evidence, that the substance was intended for human consumption.</summary>
+</bill>

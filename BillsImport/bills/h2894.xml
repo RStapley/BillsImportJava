@@ -1,0 +1,49 @@
+<bill session="114" type="h" number="2894" updated="2015-08-01T04:51:07-04:00">
+  <state datetime="2015-06-25">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-25"/>
+  </status>
+  <introduced datetime="2015-06-25"/>
+  <titles>
+    <title type="short" as="introduced">CARE for All Veterans Act</title>
+    <title type="short" as="introduced">Caregivers Access and Responsible Expansion for All Veterans Act</title>
+    <title type="official" as="introduced">To expand eligibility for the program of comprehensive assistance for family caregivers of the Department of Veterans Affairs.</title>
+  </titles>
+  <sponsor id="412524"/>
+  <cosponsors>
+    <cosponsor id="412651" joined="2015-06-25"/>
+    <cosponsor id="412621" joined="2015-07-20"/>
+    <cosponsor id="412420" joined="2015-07-31"/>
+    <cosponsor id="412595" joined="2015-07-23"/>
+    <cosponsor id="400230" joined="2015-07-31"/>
+    <cosponsor id="412523" joined="2015-07-31"/>
+    <cosponsor id="412664" joined="2015-07-07"/>
+    <cosponsor id="412648" joined="2015-07-28"/>
+    <cosponsor id="400403" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-25" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2015-07-02">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <summary>6/25/2015--Introduced.
+Caregivers Access and Responsible Expansion for All Veterans Act or the CARE for All Veterans Act
+
+Expands eligibility for the family caregiver program of the Department of Veterans Affairs to include members of the Armed Forces or veterans who are seriously injured or who became ill (or aggravated such injury or illness) on active duty before September 11, 2001, (currently, limited to service after September 11, 2001).
+
+ Establishes three monthly caregiver stipend starting dates for pre-September 11, 2001, members of the Armed Forces or veterans based upon the amount and degree of personal care services provided.
+
+ Includes among program eligibility criteria a veteran's need for regular or extensive instruction or supervision in completing two or more instrumental activities of daily living.</summary>
+</bill>

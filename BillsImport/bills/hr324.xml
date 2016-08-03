@@ -1,0 +1,55 @@
+<bill session="114" type="hr" number="324" updated="2015-07-10T04:47:03-04:00">
+  <state datetime="2015-06-17">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-17"/>
+  </status>
+  <introduced datetime="2015-06-17"/>
+  <titles>
+    <title type="official" as="introduced">Recognizing the commencement of Ramadan, the Muslim holy month of fasting and spiritual renewal, and commending Muslims in the United States and throughout the world for their faith.</title>
+  </titles>
+  <sponsor id="400204"/>
+  <cosponsors>
+    <cosponsor id="412607" joined="2015-06-24"/>
+    <cosponsor id="412404" joined="2015-06-17"/>
+    <cosponsor id="412565" joined="2015-06-17"/>
+    <cosponsor id="412258" joined="2015-06-17"/>
+    <cosponsor id="412221" joined="2015-06-17"/>
+    <cosponsor id="400074" joined="2015-06-17"/>
+    <cosponsor id="400639" joined="2015-06-17"/>
+    <cosponsor id="400093" joined="2015-06-17"/>
+    <cosponsor id="412263" joined="2015-06-17"/>
+    <cosponsor id="412215" joined="2015-06-17"/>
+    <cosponsor id="400170" joined="2015-06-17"/>
+    <cosponsor id="400179" joined="2015-06-17"/>
+    <cosponsor id="400185" joined="2015-06-24"/>
+    <cosponsor id="400199" joined="2015-06-17"/>
+    <cosponsor id="412546" joined="2015-06-17"/>
+    <cosponsor id="400237" joined="2015-06-24"/>
+    <cosponsor id="400240" joined="2015-06-17"/>
+    <cosponsor id="400271" joined="2015-06-17"/>
+    <cosponsor id="412659" joined="2015-06-17"/>
+    <cosponsor id="400350" joined="2015-06-17"/>
+    <cosponsor id="400364" joined="2015-06-17"/>
+    <cosponsor id="412396" joined="2015-06-17"/>
+    <cosponsor id="400371" joined="2015-07-09"/>
+    <cosponsor id="412579" joined="2015-06-17"/>
+    <cosponsor id="412412" joined="2015-06-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-17" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+  </subjects>
+  <amendments/>
+  <summary>6/17/2015--Introduced.
+Recognizes the Islamic faith as one of the great world religions.
+
+Acknowledges the onset of Ramadan and expresses deepest respect to Muslims in the United States and throughout the world on this significant occasion.</summary>
+</bill>

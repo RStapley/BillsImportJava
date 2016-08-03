@@ -1,0 +1,41 @@
+<bill session="114" type="h" number="2801" updated="2015-07-11T06:42:09-04:00">
+  <state datetime="2015-06-17">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-17"/>
+  </status>
+  <introduced datetime="2015-06-17"/>
+  <titles>
+    <title type="short" as="introduced">No Office Space for Executive Amnesty Act of 2015</title>
+    <title type="official" as="introduced">To prohibit the Administrator of General Services from leasing space for certain purposes.</title>
+  </titles>
+  <sponsor id="412655"/>
+  <cosponsors>
+    <cosponsor id="412469" joined="2015-06-17"/>
+    <cosponsor id="412653" joined="2015-06-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-17" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2015-06-18">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="191"/>
+    <bill relation="unknown" session="114" type="h" number="240"/>
+    <bill relation="unknown" session="114" type="h" number="1148"/>
+    <bill relation="unknown" session="114" type="h" number="1715"/>
+    <bill relation="unknown" session="114" type="s" number="129"/>
+    <bill relation="unknown" session="114" type="s" number="534"/>
+    <bill relation="unknown" session="114" type="s" number="1640"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+  </subjects>
+  <amendments/>
+</bill>

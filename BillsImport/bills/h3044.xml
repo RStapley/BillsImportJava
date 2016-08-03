@@ -1,0 +1,35 @@
+<bill session="114" type="h" number="3044" updated="2015-07-30T04:50:20-04:00">
+  <state datetime="2015-07-13">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-13"/>
+  </status>
+  <introduced datetime="2015-07-13"/>
+  <titles>
+    <title type="short" as="introduced">Research of Alcohol Detection Systems for Stopping Alcohol-Related Fatalities Everywhere Act of 2015</title>
+    <title type="short" as="introduced">ROADS SAFE Act of 2015</title>
+    <title type="official" as="introduced">To direct the Administrator of the National Highway Traffic Safety Administration to carry out a collaborative research effort to prevent drunk driving injuries and fatalities, and for other purposes.</title>
+  </titles>
+  <sponsor id="400246"/>
+  <cosponsors>
+    <cosponsor id="412647" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-13" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2015-07-14">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW12" subcommittee="Highways and Transit" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="1703"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+</bill>

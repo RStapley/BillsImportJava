@@ -1,0 +1,45 @@
+<bill session="114" type="h" number="2391" updated="2015-07-24T04:48:29-04:00">
+  <state datetime="2015-05-18">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-18"/>
+  </status>
+  <introduced datetime="2015-05-18"/>
+  <titles>
+    <title type="short" as="introduced">Medicaid Generic Drug Price Fairness Act of 2015</title>
+    <title type="official" as="introduced">To amend title XIX of the Social Security Act to require the payment of an additional rebate to the State Medicaid plan in the case of increase in the price of a generic drug at a rate that is greater than the rate of inflation.</title>
+  </titles>
+  <sponsor id="400090"/>
+  <cosponsors>
+    <cosponsor id="400048" joined="2015-07-22"/>
+    <cosponsor id="412613" joined="2015-07-23"/>
+    <cosponsor id="412263" joined="2015-07-22"/>
+    <cosponsor id="400238" joined="2015-05-21"/>
+    <cosponsor id="400295" joined="2015-05-18"/>
+    <cosponsor id="412212" joined="2015-07-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-18" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-05-22">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="1364"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Medicaid"/>
+    <term name="Prescription drugs"/>
+  </subjects>
+  <amendments/>
+  <summary>5/18/2015--Introduced.
+Medicaid Generic Drug Price Fairness Act of 2015
+
+This bill amends title XIX (Medicaid) of the Social Security Act to increase the amount of rebate with respect to each generic drug in the manner that the rebate for a dosage form and strength of a single source drug or an innovator multiple source drug is increased, except as provided in special application rules, including a special rule for certain noninnovator multiple source drugs.</summary>
+</bill>

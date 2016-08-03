@@ -1,0 +1,55 @@
+<bill session="114" type="hr" number="262" updated="2015-08-01T06:17:56-04:00">
+  <state datetime="2015-05-14">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-14"/>
+  </status>
+  <introduced datetime="2015-05-14"/>
+  <titles>
+    <title type="official" as="introduced">Supporting the practice of community-oriented policing and encouraging diversity hiring and retention in law enforcement.</title>
+  </titles>
+  <sponsor id="400237"/>
+  <cosponsors>
+    <cosponsor id="412404" joined="2015-06-02"/>
+    <cosponsor id="400041" joined="2015-06-16"/>
+    <cosponsor id="412379" joined="2015-06-02"/>
+    <cosponsor id="400074" joined="2015-05-14"/>
+    <cosponsor id="412637" joined="2015-06-16"/>
+    <cosponsor id="412263" joined="2015-05-14"/>
+    <cosponsor id="400162" joined="2015-05-14"/>
+    <cosponsor id="400170" joined="2015-06-16"/>
+    <cosponsor id="400211" joined="2015-05-21"/>
+    <cosponsor id="412638" joined="2015-06-02"/>
+    <cosponsor id="412189" joined="2015-06-04"/>
+    <cosponsor id="400661" joined="2015-06-02"/>
+    <cosponsor id="400295" joined="2015-06-12"/>
+    <cosponsor id="412585" joined="2015-06-12"/>
+    <cosponsor id="412319" joined="2015-05-21"/>
+    <cosponsor id="412617" joined="2015-06-04"/>
+    <cosponsor id="400415" joined="2015-06-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-14" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-06-01">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+  </subjects>
+  <amendments/>
+  <summary>5/14/2015--Introduced.
+Finds that the lack of minority representation in law enforcement across the country needs to be addressed.
+
+Calls on law enforcement departments to have a formal plan of community-oriented policing. Commits to ensuring that the Community Oriented Policing Services (COPS) Hiring Program has the resources it needs to increase the hiring and retention of diverse law enforcement officers.
+
+Encourages the Department of Justice (DOJ), in collaboration with the COPS office, to issue further guidance and best practices on diversity hiring and retention of law enforcement personnel, use of excessive and deadly force, and community-oriented policing strategies.
+
+Urges the Bureau of Justice Statistics to report annually on DOJ's efforts to increase community-oriented policing and diversity hiring and retention within law enforcement departments nationwide.</summary>
+</bill>

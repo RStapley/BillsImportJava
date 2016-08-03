@@ -1,0 +1,41 @@
+<bill session="114" type="s" number="387" updated="2015-03-07T06:32:32-05:00">
+  <state datetime="2015-02-05">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-05"/>
+  </status>
+  <introduced datetime="2015-02-05"/>
+  <titles>
+    <title type="short" as="introduced">Safe Skies for Unmanned Aircraft Act of 2015</title>
+    <title type="official" as="introduced">A bill to require the Administrator of the Federal Aviation Administration to use the definitions in section 40125 of title 49, United States Code, in determining whether an unmanned aircraft conducting aeronautical research flights qualifies for public aircraft status under that section, and for other purposes.</title>
+  </titles>
+  <sponsor id="300075"/>
+  <cosponsors>
+    <cosponsor id="412554" joined="2015-02-05"/>
+    <cosponsor id="300100" joined="2015-02-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-05" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="819"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Astronomy"/>
+    <term name="Atmospheric science and weather"/>
+    <term name="Aviation and airports"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+  <summary>2/5/2015--Introduced.
+Safe Skies for Unmanned Aircraft Act of 2015
+
+This bill requires the Administrator of the Federal Aviation Administration, for purposes of determining whether an unmanned aircraft (drone) used for aeronautical research qualifies as a public aircraft, to use definitions under federal aviation safety law for determining whether the aircraft is used for:
+
+ a commercial purpose, and aeronautical research and platform-based research. The Administrator must also develop procedures for the safe, beyond-line-of-sight operation of aeronautical research drones in the national airspace system.</summary>
+</bill>

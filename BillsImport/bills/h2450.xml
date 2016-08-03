@@ -1,0 +1,84 @@
+<bill session="114" type="h" number="2450" updated="2015-07-29T04:48:31-04:00">
+  <state datetime="2015-05-19">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-19"/>
+  </status>
+  <introduced datetime="2015-05-19"/>
+  <titles>
+    <title type="short" as="introduced">Therapeutic Fraud Prevention Act</title>
+    <title type="official" as="introduced">To prohibit, as an unfair and deceptive act or practice, commercial sexual orientation conversion therapy, and for other purposes.</title>
+  </titles>
+  <sponsor id="412616"/>
+  <cosponsors>
+    <cosponsor id="412565" joined="2015-05-19"/>
+    <cosponsor id="400033" joined="2015-05-19"/>
+    <cosponsor id="412517" joined="2015-05-19"/>
+    <cosponsor id="412470" joined="2015-06-09"/>
+    <cosponsor id="412600" joined="2015-05-19"/>
+    <cosponsor id="412221" joined="2015-05-19"/>
+    <cosponsor id="412236" joined="2015-06-11"/>
+    <cosponsor id="400097" joined="2015-05-19"/>
+    <cosponsor id="412505" joined="2015-05-19"/>
+    <cosponsor id="412613" joined="2015-07-28"/>
+    <cosponsor id="412215" joined="2015-05-19"/>
+    <cosponsor id="400122" joined="2015-05-19"/>
+    <cosponsor id="400124" joined="2015-06-17"/>
+    <cosponsor id="400129" joined="2015-05-19"/>
+    <cosponsor id="400162" joined="2015-05-19"/>
+    <cosponsor id="400163" joined="2015-05-19"/>
+    <cosponsor id="412498" joined="2015-05-19"/>
+    <cosponsor id="400641" joined="2015-05-19"/>
+    <cosponsor id="412282" joined="2015-05-20"/>
+    <cosponsor id="400185" joined="2015-05-19"/>
+    <cosponsor id="400195" joined="2015-06-01"/>
+    <cosponsor id="412546" joined="2015-05-19"/>
+    <cosponsor id="400237" joined="2015-05-19"/>
+    <cosponsor id="400240" joined="2015-05-19"/>
+    <cosponsor id="400251" joined="2015-05-20"/>
+    <cosponsor id="412562" joined="2015-05-19"/>
+    <cosponsor id="400262" joined="2015-05-19"/>
+    <cosponsor id="400271" joined="2015-05-19"/>
+    <cosponsor id="412527" joined="2015-07-08"/>
+    <cosponsor id="400295" joined="2015-05-19"/>
+    <cosponsor id="400314" joined="2015-05-19"/>
+    <cosponsor id="412523" joined="2015-05-19"/>
+    <cosponsor id="412585" joined="2015-05-19"/>
+    <cosponsor id="412331" joined="2015-05-19"/>
+    <cosponsor id="412519" joined="2015-05-19"/>
+    <cosponsor id="400350" joined="2015-05-19"/>
+    <cosponsor id="400360" joined="2015-05-19"/>
+    <cosponsor id="400361" joined="2015-05-19"/>
+    <cosponsor id="412509" joined="2015-06-01"/>
+    <cosponsor id="400379" joined="2015-06-01"/>
+    <cosponsor id="412259" joined="2015-05-19"/>
+    <cosponsor id="412520" joined="2015-05-19"/>
+    <cosponsor id="400415" joined="2015-05-19"/>
+    <cosponsor id="412644" joined="2015-05-19"/>
+    <cosponsor id="412239" joined="2015-05-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-19" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-05-22">
+      <text>Referred to the Subcommittee on Commerce, Manufacturing, and Trade.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF17" subcommittee="Commerce, Manufacturing, and Trade" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+  </subjects>
+  <amendments/>
+  <summary>5/19/2015--Introduced.
+Therapeutic Fraud Prevention Act
+
+Prohibits sexual orientation or gender identity conversion therapy from being provided in exchange for monetary compensation. Bars advertisements for such therapy that claim to: (1) change an individual's sexual orientation or gender identity, (2) eliminate or reduce sexual or romantic attractions or feelings toward individuals of the same gender, or (3) be harmless or without risk.
+
+Makes this Act inapplicable to practices that do not seek to change sexual orientation or gender identity if the therapy provides: (1) assistance to an individual undergoing a gender transition; or (2) acceptance, support, and understanding of clients or facilitation of clients' coping, social support, and identity exploration and development, including sexual orientation-neutral interventions to prevent or address unlawful conduct or unsafe sexual practices.
+
+Provides authority to Federal Trade Commission to enforce this Act and treats violations as unfair or deceptive acts or practices under the Federal Trade Commission Act.</summary>
+</bill>

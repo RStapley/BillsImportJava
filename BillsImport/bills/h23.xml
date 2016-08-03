@@ -1,0 +1,125 @@
+<bill session="114" type="h" number="23" updated="2015-08-22T06:19:21-04:00">
+  <state datetime="2015-07-23">PASS_BACK:SENATE</state>
+  <status>
+    <unknown datetime="2015-07-23"/>
+  </status>
+  <introduced datetime="2015-01-06"/>
+  <titles>
+    <title type="short" as="introduced">National Windstorm Impact Reduction Act Reauthorization of 2015</title>
+    <title type="short" as="passed house">National Windstorm Impact Reduction Act Reauthorization of 2015</title>
+    <title type="short" as="reported to senate">National Windstorm Impact Reduction Act Reauthorization of 2015</title>
+    <title type="short" as="passed senate">National Windstorm Impact Reduction Act Reauthorization of 2015</title>
+    <title type="official" as="introduced">To reauthorize the National Windstorm Impact Reduction Program, and for other purposes.</title>
+  </titles>
+  <sponsor id="400441"/>
+  <cosponsors>
+    <cosponsor id="412427" joined="2015-01-06"/>
+    <cosponsor id="412524" joined="2015-01-06"/>
+    <cosponsor id="412422" joined="2015-01-06"/>
+    <cosponsor id="400204" joined="2015-01-06"/>
+    <cosponsor id="400630" joined="2015-01-06"/>
+    <cosponsor id="400381" joined="2015-01-06"/>
+    <cosponsor id="412412" joined="2015-01-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-06" state="REFERRED">
+      <text>Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-01-06">
+      <text>Referred to House Science, Space, and Technology</text>
+    </action>
+    <action datetime="2015-01-06">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2015-01-07">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+    </action>
+    <action datetime="2015-01-07T14:05:00-05:00">
+      <text>Mr. Smith (TX) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2015-01-07T14:05:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H83-87" label="consideration"/>
+    </action>
+    <action datetime="2015-01-07T14:05:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 23.</text>
+    </action>
+    <action datetime="2015-01-07T14:20:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2015-01-07T15:25:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H94" label="consideration"/>
+    </action>
+    <action datetime="2015-01-07T15:34:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote how="roll" type="vote" roll="10" datetime="2015-01-07T15:34:00-05:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 381 - 39 (Roll no. 10).</text>
+      <reference ref="CR H84-85" label="text"/>
+    </vote>
+    <action datetime="2015-01-08">
+      <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+    <calendar datetime="2015-02-26">
+      <text>Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+    <action datetime="2015-06-11">
+      <text>Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 114-62.</text>
+    </action>
+    <calendar datetime="2015-06-11" calendar="Senate Legislative" under="General Orders" number="114">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 114.</text>
+    </calendar>
+    <vote how="by Unanimous Consent" type="vote2" datetime="2015-07-23" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+      <reference ref="CR S5557-5558" label="consideration"/>
+      <reference ref="CR S5557-5558" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2015-07-24">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science, Space, and Technology" activity="Referral"/>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Emergency management"/>
+    <term name="Advisory bodies"/>
+    <term name="Atmospheric science and weather"/>
+    <term name="Building construction"/>
+    <term name="Department of Commerce"/>
+    <term name="Department of Homeland Security"/>
+    <term name="Emergency planning and evacuation"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Federal Emergency Management Agency (FEMA)"/>
+    <term name="National Science Foundation"/>
+    <term name="Natural disasters"/>
+    <term name="Research administration and funding"/>
+    <term name="Research and development"/>
+  </subjects>
+  <amendments/>
+  <summary>6/11/2015--Reported to Senate amended.
+National Windstorm Impact Reduction Act Reauthorization of 2015
+
+(Sec. 2) Amends the National Windstorm Impact Reduction Act of 2004 to revise provisions governing the National Windstorm Impact Reduction Program and to reauthorize the Program through FY2017.
+
+Defines the "Director" of the Program to mean the Director of the National Institute of Standards and Technology (NIST) (currently, the Director of the Office of Science and Technology Policy). Revises the definition of "windstorm" to explicitly include a northeaster.
+
+(Sec. 3) Designates NIST as the entity with primary responsibility for Program planning and coordination and expands the responsibilities of the other Program agencies, which include the National Science Foundation (NSF), the Federal Emergency Management Agency (FEMA), and the National Oceanic and Atmospheric Administration.
+
+Requires NIST to: (1) ensure that the Program includes the necessary components to promote implementation of windstorm risk reduction measures, (2) support the development of performance-based engineering tools, (3) request the assistance of federal agencies other than the Program agencies as necessary, (4) coordinate all federal post-windstorm investigations to the extent practicable, and (5) issue recommendations to assist in informing the development of model codes.
+
+Requires NSF to support research in economic and social factors influencing windstorm risk reduction measures.
+
+Requires FEMA to: (1) promote the adoption of windstorm preparedness and mitigation measures, including for households, businesses, and communities; and (2) work closely with national standards and model building code organizations to promote the implementation of research results and promote better building practices within the building design and construction industry.
+
+Requires the Directors of the Program agencies to each include in their agency's annual budget request a description of their agency's projected activities under the Program and an assessment of what they plan to spend on those activities.
+
+Replaces provisions establishing an Interagency Working Group with provisions establishing the Interagency Coordinating Committee on Windstorm Impact Reduction, which shall be composed of the heads or designees of the Program agencies and the Office of Management and Budget. Directs the Committee to oversee Program planning and coordination and to develop and submit to Congress a strategic plan, progress report, and coordinated budget for the Program.
+
+(Sec. 4) Revises provisions providing for the establishment of an Advisory Committee on Windstorm Impact Reduction (currently, the National Advisory Committee on Windstorm Impact Reduction), which shall: (1) be composed of at least seven non-federal members; (2) provide recommendations to be considered by federal agencies in implementing the Program; and (3) offer assessments and recommendations on the priorities of the Program's strategic plan, coordination of the Program, effectiveness of the Program in meeting its purposes, and Program revisions. Terminates the Committee on September 30, 2017.</summary>
+</bill>

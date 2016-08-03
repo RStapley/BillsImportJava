@@ -1,0 +1,36 @@
+<bill session="114" type="s" number="353" updated="2015-02-14T06:37:37-05:00">
+  <state datetime="2015-02-03">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-03"/>
+  </status>
+  <introduced datetime="2015-02-03"/>
+  <titles>
+    <title type="short" as="introduced">Justice Safety Valve Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend title 18, United States Code, to prevent unjust and irrational criminal punishments.</title>
+  </titles>
+  <sponsor id="412492"/>
+  <cosponsors>
+    <cosponsor id="300065" joined="2015-02-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-03" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="706"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Criminal procedure and sentencing"/>
+    <term name="Judicial procedure and administration"/>
+  </subjects>
+  <amendments/>
+  <summary>2/3/2015--Introduced.
+Justice Safety Valve Act of 2015 
+
+This bill authorizes a federal court to impose a sentence in a criminal proceeding that is below the minimum sentence&#160;required by statute if the court finds that a lower sentence is necessary to avoid violating statutory factors that the court must consider in imposing a sentence. The court must give parties to the proceeding notice of its intent to impose a lower sentence and state in writing the factors requiring&#160;such a sentence. This bill does not limit any right to appeal that would otherwise exist.</summary>
+</bill>

@@ -1,0 +1,40 @@
+<bill session="114" type="s" number="577" updated="2015-03-28T06:38:15-04:00">
+  <state datetime="2015-02-26">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-26"/>
+  </status>
+  <introduced datetime="2015-02-26"/>
+  <titles>
+    <title type="short" as="introduced">Corn Ethanol Mandate Elimination Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend the Clean Air Act to eliminate the corn ethanol mandate for renewable fuel.</title>
+  </titles>
+  <sponsor id="400408"/>
+  <cosponsors>
+    <cosponsor id="300025" joined="2015-03-17"/>
+    <cosponsor id="300043" joined="2015-02-26"/>
+    <cosponsor id="400134" joined="2015-02-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-26" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Air quality"/>
+    <term name="Alternative and renewable resources"/>
+    <term name="Environmental regulatory procedures"/>
+    <term name="Motor fuels"/>
+  </subjects>
+  <amendments/>
+  <summary>2/26/2015--Introduced.
+Corn Ethanol Mandate Elimination Act of 2015
+
+This bill amends the Clean Air Act to revise the renewable fuel program by eliminating the annual renewable fuel standard that requires 36 billion gallons of renewable fuel to be blended into transportation fuel by 2022.
+
+The bill would not affect the separate requirements for the following renewable fuels that are not corn starch ethanol: advanced biofuel, cellulosic biofuel, or biomass-based diesel.</summary>
+</bill>

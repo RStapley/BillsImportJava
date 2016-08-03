@@ -1,0 +1,41 @@
+<bill session="114" type="h" number="2539" updated="2015-07-21T04:47:56-04:00">
+  <state datetime="2015-05-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-21"/>
+  </status>
+  <introduced datetime="2015-05-21"/>
+  <titles>
+    <title type="short" as="introduced">Surviving Spouses' Benefit Improvement Act of 2015</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to provide for an increase in the amount of monthly dependency and indemnity compensation payable to surviving spouses by the Secretary of Veterans Affairs.</title>
+  </titles>
+  <sponsor id="412543"/>
+  <cosponsors>
+    <cosponsor id="400062" joined="2015-06-23"/>
+    <cosponsor id="412612" joined="2015-07-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-21" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2015-06-05">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR09" subcommittee="Disability Assistance and Memorial Affairs" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <summary>5/21/2015--Introduced.
+Surviving Spouses' Benefit Improvement Act of 2015 
+
+ Monthly rates are increased for veterans' dependency and indemnity compensation payable to surviving spouses through the Department of Veterans Affairs (VA).
+
+Benefits under any other law (other than duplication of benefits) shall not be reduced or offset because the surviving spouse is eligible for dependency and indemnity compensation.
+
+ Six months after enactment of this Act, VA shall pay to an individual who is eligible for dependency and indemnity compensation predicated on the death of a veteran before January 1, 1993, monthly dependency and indemnity compensation that is the greater of the amount in effect either before or after enactment of this Act.</summary>
+</bill>

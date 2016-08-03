@@ -1,0 +1,53 @@
+<bill session="114" type="s" number="556" updated="2015-08-01T06:56:41-04:00">
+  <state datetime="2015-02-25">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-25"/>
+  </status>
+  <introduced datetime="2015-02-25"/>
+  <titles>
+    <title type="short" as="introduced">Bipartisan Sportsmen's Act of 2015</title>
+    <title type="official" as="introduced">A bill to protect and enhance opportunities for recreational hunting, fishing, and shooting, and for other purposes.</title>
+  </titles>
+  <sponsor id="300075"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-02-25" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2015-03-12">
+      <text>Committee on Energy and Natural Resources. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="384"/>
+    <bill relation="unknown" session="114" type="h" number="1669"/>
+    <bill relation="unknown" session="114" type="h" number="2401"/>
+    <bill relation="unknown" session="114" type="s" number="350"/>
+    <bill relation="unknown" session="114" type="s" number="405"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of the Interior"/>
+    <term name="Forests, forestry, trees"/>
+    <term name="Government liability"/>
+    <term name="Hunting and fishing"/>
+    <term name="Land transfers"/>
+    <term name="Land use and conservation"/>
+    <term name="Legal fees and court costs"/>
+    <term name="Licensing and registrations"/>
+    <term name="Motor vehicles"/>
+    <term name="Outdoor recreation"/>
+    <term name="Parks, recreation areas, trails"/>
+    <term name="Television and film"/>
+    <term name="User charges and fees"/>
+    <term name="Water use and supply"/>
+    <term name="Wilderness and natural areas, wildlife refuges, wild rivers, habitats"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,66 @@
+<bill session="114" type="h" number="38" updated="2015-07-16T04:47:05-04:00">
+  <state datetime="2015-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-06"/>
+  </status>
+  <introduced datetime="2015-01-06"/>
+  <titles>
+    <title type="short" as="introduced">Preventing Executive Overreach on Immigration Act of 2015</title>
+    <title type="official" as="introduced">To prohibit the executive branch from exempting from removal categories of aliens considered under the immigration laws to be unlawfully present in the United States, and for other purposes.</title>
+  </titles>
+  <sponsor id="412525"/>
+  <cosponsors>
+    <cosponsor id="412469" joined="2015-01-06"/>
+    <cosponsor id="412250" joined="2015-03-24"/>
+    <cosponsor id="412601" joined="2015-01-30"/>
+    <cosponsor id="412513" joined="2015-01-06"/>
+    <cosponsor id="400116" joined="2015-01-06"/>
+    <cosponsor id="400137" joined="2015-01-06"/>
+    <cosponsor id="412434" joined="2015-01-06"/>
+    <cosponsor id="412284" joined="2015-01-06"/>
+    <cosponsor id="412603" joined="2015-01-06"/>
+    <cosponsor id="412566" joined="2015-07-15"/>
+    <cosponsor id="400654" joined="2015-01-06"/>
+    <cosponsor id="412295" joined="2015-01-06"/>
+    <cosponsor id="400441" joined="2015-02-11"/>
+    <cosponsor id="412409" joined="2015-01-06"/>
+    <cosponsor id="412302" joined="2015-01-06"/>
+    <cosponsor id="412443" joined="2015-01-06"/>
+    <cosponsor id="412551" joined="2015-01-06"/>
+    <cosponsor id="412310" joined="2015-01-06"/>
+    <cosponsor id="400343" joined="2015-01-06"/>
+    <cosponsor id="412574" joined="2015-01-21"/>
+    <cosponsor id="412430" joined="2015-01-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-06" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-01-22">
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration and Border Security" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Border security and unlawful immigration"/>
+    <term name="Congressional-executive branch relations"/>
+    <term name="Immigration status and procedures"/>
+    <term name="Presidents and presidential powers"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/2015--Introduced.
+Preventing Executive Overreach on Immigration Act of 2015
+
+ Prohibits the executive branch of the government from:
+
+ exempting or deferring from removal, by executive order, regulation, or any other means, categories of aliens considered under the immigration laws to be unlawfully present in the United States; treating such aliens as if they were lawfully present or had a lawful immigration status; or treating them other than as unauthorized aliens. States that such prohibition shall not apply:
+
+ to the extent prohibited by the Constitution; upon the request of federal, state, or local law enforcement agencies for purposes of maintaining aliens in the United States to be tried for crimes or to be trial witnesses; or for humanitarian purposes where the aliens are at imminent risk of serious bodily harm or death. Declares that any executive branch action intending to circumvent the objectives of this Act shall be null and void and without legal effect.
+
+States that this Act shall take effect as if enacted on November 20, 2014, and shall apply to requests submitted on or after that date for: (1) work authorization; or (2) exemption from, or deferral of, removal.</summary>
+</bill>

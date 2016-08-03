@@ -1,0 +1,50 @@
+<bill session="114" type="h" number="1927" updated="2015-06-25T04:47:46-04:00">
+  <state datetime="2015-06-24">REPORTED</state>
+  <status>
+    <unknown datetime="2015-06-24"/>
+  </status>
+  <introduced datetime="2015-04-22"/>
+  <titles>
+    <title type="short" as="introduced">Fairness in Class Action Litigation Act of 2015</title>
+    <title type="official" as="introduced">To amend title 28, United States Code, to improve fairness in class action litigation.</title>
+  </titles>
+  <sponsor id="400154"/>
+  <cosponsors>
+    <cosponsor id="400141" joined="2015-04-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-22" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-04-23">
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+    </action>
+    <action datetime="2015-04-29">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="2015-06-24">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-06-24" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 15 - 10.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup"/>
+    <committee activity="Referral, Hearings" code="HSJU10" subcommittee="Constitution and Civil Justice" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Law"/>
+    <term name="Civil actions and liability"/>
+    <term name="Evidence and witnesses"/>
+    <term name="Judicial procedure and administration"/>
+  </subjects>
+  <amendments/>
+  <summary>4/22/2015--Introduced.
+Fairness in Class Action Litigation Act of 2015
+
+Amends the federal judicial code to prohibit federal courts from certifying any proposed class unless the party seeking to maintain a class action affirmatively demonstrates through admissible evidentiary proof that each proposed class member suffered an injury of the same type and extent as the injury of the named class representatives.
+
+Defines "injury" as the alleged impact of the defendant's actions on the plaintiff's body or property.</summary>
+</bill>

@@ -1,0 +1,47 @@
+<bill session="114" type="s" number="1542" updated="2015-08-22T07:04:39-04:00">
+  <state datetime="2015-06-10">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-10"/>
+  </status>
+  <introduced datetime="2015-06-10"/>
+  <titles>
+    <title type="short" as="introduced">Manufacturing Skills Act of 2015</title>
+    <title type="official" as="introduced">A bill to establish a program that promotes reforms in workforce education and skill training for manufacturing in States and metropolitan areas, and for other purposes.</title>
+  </titles>
+  <sponsor id="412390"/>
+  <cosponsors>
+    <cosponsor id="412493" joined="2015-06-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-10" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Accounting and auditing"/>
+    <term name="Appropriations"/>
+    <term name="Department of Labor"/>
+    <term name="Employment and training programs"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Government studies and investigations"/>
+    <term name="Manufacturing"/>
+    <term name="Minority employment"/>
+    <term name="Science and engineering education"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+    <term name="Vocational and technical education"/>
+  </subjects>
+  <amendments/>
+  <summary>6/10/2015--Introduced.
+Manufacturing Skills Act of 2015
+
+ Directs the Department of Commerce, Department of Labor, Department of Education, Department of Defense and the Director of the National Science Foundation to jointly establish a Manufacturing Skills Partnership to administer and carry out a program to award competitive, three-year grants to enable up to five states and five metropolitan areas to carry out proposals to promote reforms in workforce education and skill training for manufacturing.
+
+Requires the Director of the National Institute of Standards and Technology:
+
+ acting through the Advanced Manufacturing National Program Office, to conduct an audit of all federal education and skills training programs related to manufacturing to ensure that states and metropolitan areas are able to align federal resources with the labor demands of their primary manufacturing industries; and to work with states and metropolitan areas to determine how federal funds can be more tailored to meet their different needs.</summary>
+</bill>

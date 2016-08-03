@@ -1,0 +1,41 @@
+<bill session="114" type="s" number="1072" updated="2015-05-30T06:51:30-04:00">
+  <state datetime="2015-04-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-23"/>
+  </status>
+  <introduced datetime="2015-04-23"/>
+  <titles>
+    <title type="short" as="introduced">Supreme Court Ethics Act of 2015</title>
+    <title type="official" as="introduced">A bill to require the Supreme Court of the United States to promulgate a code of ethics.</title>
+  </titles>
+  <sponsor id="412194"/>
+  <cosponsors>
+    <cosponsor id="412490" joined="2015-04-23"/>
+    <cosponsor id="412390" joined="2015-04-23"/>
+    <cosponsor id="300038" joined="2015-04-23"/>
+    <cosponsor id="400253" joined="2015-04-23"/>
+    <cosponsor id="412247" joined="2015-04-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-23" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="1943"/>
+  </relatedbills>
+  <subjects>
+    <term name="Law"/>
+    <term name="Government ethics and transparency, public corruption"/>
+    <term name="Judges"/>
+    <term name="Supreme Court"/>
+  </subjects>
+  <amendments/>
+  <summary>4/23/2015--Introduced.
+Supreme Court Ethics Act of 2015
+
+Requires the Supreme Court to promulgate a code of ethics for the Justices of the Supreme Court that shall include the five canons of the Code of Conduct for United States Judges adopted by the Judicial Conference of the United States, with any amendments or modifications that the Supreme Court determines appropriate.</summary>
+</bill>

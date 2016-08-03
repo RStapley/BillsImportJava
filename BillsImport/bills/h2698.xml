@@ -1,0 +1,77 @@
+<bill session="114" type="h" number="2698" updated="2015-08-22T06:41:52-04:00">
+  <state datetime="2015-06-09">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-09"/>
+  </status>
+  <introduced datetime="2015-06-09"/>
+  <titles>
+    <title type="short" as="introduced">Tanning Tax Repeal Act of 2015</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to repeal the excise tax on indoor tanning services.</title>
+  </titles>
+  <sponsor id="412553"/>
+  <cosponsors>
+    <cosponsor id="400004" joined="2015-06-15"/>
+    <cosponsor id="412625" joined="2015-06-10"/>
+    <cosponsor id="412642" joined="2015-06-09"/>
+    <cosponsor id="412436" joined="2015-06-09"/>
+    <cosponsor id="400032" joined="2015-06-09"/>
+    <cosponsor id="412567" joined="2015-07-21"/>
+    <cosponsor id="400057" joined="2015-07-22"/>
+    <cosponsor id="412531" joined="2015-07-28"/>
+    <cosponsor id="412513" joined="2015-07-23"/>
+    <cosponsor id="412621" joined="2015-08-04"/>
+    <cosponsor id="400116" joined="2015-06-25"/>
+    <cosponsor id="412639" joined="2015-06-11"/>
+    <cosponsor id="412482" joined="2015-07-21"/>
+    <cosponsor id="412479" joined="2015-06-12"/>
+    <cosponsor id="400640" joined="2015-06-25"/>
+    <cosponsor id="400158" joined="2015-06-10"/>
+    <cosponsor id="412447" joined="2015-06-17"/>
+    <cosponsor id="412278" joined="2015-06-23"/>
+    <cosponsor id="412603" joined="2015-06-25"/>
+    <cosponsor id="400209" joined="2015-07-21"/>
+    <cosponsor id="412649" joined="2015-07-21"/>
+    <cosponsor id="400220" joined="2015-07-08"/>
+    <cosponsor id="412614" joined="2015-06-09"/>
+    <cosponsor id="412510" joined="2015-07-22"/>
+    <cosponsor id="412445" joined="2015-06-09"/>
+    <cosponsor id="412624" joined="2015-06-09"/>
+    <cosponsor id="412643" joined="2015-07-23"/>
+    <cosponsor id="400656" joined="2015-07-29"/>
+    <cosponsor id="412634" joined="2015-06-25"/>
+    <cosponsor id="412474" joined="2015-07-28"/>
+    <cosponsor id="400441" joined="2015-07-21"/>
+    <cosponsor id="400297" joined="2015-06-09"/>
+    <cosponsor id="400316" joined="2015-06-09"/>
+    <cosponsor id="412393" joined="2015-07-13"/>
+    <cosponsor id="412489" joined="2015-07-07"/>
+    <cosponsor id="412394" joined="2015-07-22"/>
+    <cosponsor id="400348" joined="2015-06-09"/>
+    <cosponsor id="400373" joined="2015-07-08"/>
+    <cosponsor id="400406" joined="2015-06-09"/>
+    <cosponsor id="412515" joined="2015-07-29"/>
+    <cosponsor id="412213" joined="2015-06-09"/>
+    <cosponsor id="400627" joined="2015-06-09"/>
+    <cosponsor id="400431" joined="2015-06-09"/>
+    <cosponsor id="412578" joined="2015-07-09"/>
+    <cosponsor id="412430" joined="2015-06-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-09" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Sales and excise taxes"/>
+  </subjects>
+  <amendments/>
+  <summary>6/9/2015--Introduced.
+Tanning Tax Repeal Act of 2015
+
+ Amends the Internal Revenue Code to repeal the 10% excise tax on indoor tanning services.</summary>
+</bill>

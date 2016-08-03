@@ -1,0 +1,45 @@
+<bill session="114" type="hj" number="49" updated="2015-08-15T06:48:34-04:00">
+  <state datetime="2015-05-05">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-05"/>
+  </status>
+  <introduced datetime="2015-05-05"/>
+  <titles>
+    <title type="official" as="introduced">Proposing an amendment to the Constitution of the United States to limit the number of terms that a Member of Congress may serve.</title>
+  </titles>
+  <sponsor id="412526"/>
+  <cosponsors>
+    <cosponsor id="412627" joined="2015-05-05"/>
+    <cosponsor id="412552" joined="2015-06-15"/>
+    <cosponsor id="412489" joined="2015-05-05"/>
+    <cosponsor id="400606" joined="2015-05-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-05" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-05-15">
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU10" subcommittee="Constitution and Civil Justice" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="hj" number="14"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional elections"/>
+    <term name="Constitution and constitutional amendments"/>
+    <term name="House of Representatives"/>
+    <term name="Members of Congress"/>
+    <term name="Senate"/>
+  </subjects>
+  <amendments/>
+  <summary>5/5/2015--Introduced.
+Constitutional Amendment
+
+ Members of the House of Representatives shall be limited to three terms and Members of the Senate to two terms.</summary>
+</bill>

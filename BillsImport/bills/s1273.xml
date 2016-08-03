@@ -1,0 +1,26 @@
+<bill session="114" type="s" number="1273" updated="2015-06-27T07:29:27-04:00">
+  <state datetime="2015-05-11">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-11"/>
+  </status>
+  <introduced datetime="2015-05-11"/>
+  <titles>
+    <title type="short" as="introduced">Strengthening America's Bridges Act</title>
+    <title type="official" as="introduced">A bill to establish the Strengthening America's Bridges Fund, and for other purposes.</title>
+  </titles>
+  <sponsor id="412493"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-05-11" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+</bill>

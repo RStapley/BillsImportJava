@@ -1,0 +1,28 @@
+<bill session="114" type="h" number="3248" updated="2015-07-31T09:48:46-04:00">
+  <state datetime="2015-07-28">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-28"/>
+  </status>
+  <introduced datetime="2015-07-28"/>
+  <titles>
+    <title type="short" as="introduced">VET Act of 2015</title>
+    <title type="short" as="introduced">Veterans Entrepreneurial Transition Act of 2015</title>
+    <title type="official" as="introduced">To amend the Small Business Act to require the Administrator of the Small Business Administration to carry out a pilot program on issuing grants to eligible veterans to start or acquire qualifying businesses, and for other purposes.</title>
+  </titles>
+  <sponsor id="400640"/>
+  <cosponsors>
+    <cosponsor id="412536" joined="2015-07-29"/>
+    <cosponsor id="412382" joined="2015-07-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-28" state="REFERRED">
+      <text>Referred to the House Committee on Small Business.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSM" name="House Small Business" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

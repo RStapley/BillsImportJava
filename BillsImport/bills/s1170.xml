@@ -1,0 +1,65 @@
+<bill session="114" type="s" number="1170" updated="2015-07-30T04:52:31-04:00">
+  <state datetime="2015-07-29">REPORTED</state>
+  <status>
+    <unknown datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-04-30"/>
+  <titles>
+    <title type="short" as="introduced">Breast Cancer Research Stamp Reauthorization Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend title 39, United States Code, to extend the authority of the United States Postal Service to issue a semipostal to raise funds for breast cancer research, and for other purposes.</title>
+  </titles>
+  <sponsor id="300043"/>
+  <cosponsors>
+    <cosponsor id="412493" joined="2015-05-06"/>
+    <cosponsor id="400013" joined="2015-06-03"/>
+    <cosponsor id="412251" joined="2015-06-02"/>
+    <cosponsor id="400034" joined="2015-07-14"/>
+    <cosponsor id="300011" joined="2015-06-24"/>
+    <cosponsor id="400050" joined="2015-06-04"/>
+    <cosponsor id="412246" joined="2015-07-21"/>
+    <cosponsor id="300023" joined="2015-06-10"/>
+    <cosponsor id="412390" joined="2015-05-05"/>
+    <cosponsor id="300038" joined="2015-05-04"/>
+    <cosponsor id="300041" joined="2015-04-30"/>
+    <cosponsor id="300047" joined="2015-07-22"/>
+    <cosponsor id="300048" joined="2015-07-14"/>
+    <cosponsor id="300052" joined="2015-06-03"/>
+    <cosponsor id="412200" joined="2015-07-23"/>
+    <cosponsor id="412242" joined="2015-06-02"/>
+    <cosponsor id="400272" joined="2015-06-08"/>
+    <cosponsor id="300082" joined="2015-06-09"/>
+    <cosponsor id="412507" joined="2015-06-11"/>
+    <cosponsor id="300087" joined="2015-06-02"/>
+    <cosponsor id="412323" joined="2015-06-11"/>
+    <cosponsor id="300093" joined="2015-05-14"/>
+    <cosponsor id="412244" joined="2015-05-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-30">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S2578"/>
+    </action>
+    <action datetime="2015-04-30" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <calendar datetime="2015-07-29" state="REPORTED">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="2191"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Cancer"/>
+    <term name="Health"/>
+    <term name="Medical research"/>
+    <term name="Postal service"/>
+    <term name="Research administration and funding"/>
+    <term name="Women's health"/>
+  </subjects>
+  <amendments/>
+</bill>

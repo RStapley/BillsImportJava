@@ -1,0 +1,38 @@
+<bill session="114" type="h" number="3246" updated="2015-08-06T04:48:06-04:00">
+  <state datetime="2015-07-28">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-28"/>
+  </status>
+  <introduced datetime="2015-07-28"/>
+  <titles>
+    <title type="official" as="introduced">To provide for the temporary use of Veterans Choice Funds for certain programs, and for other purposes.</title>
+  </titles>
+  <sponsor id="400048"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-28">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H5573"/>
+    </action>
+    <action datetime="2015-07-28" state="REFERRED">
+      <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-07-28">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2015-07-28">
+      <text>Referred to House Budget</text>
+    </action>
+    <action datetime="2015-08-05">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+    <committee code="HSBU" name="House Budget" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

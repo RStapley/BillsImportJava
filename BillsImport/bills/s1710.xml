@@ -1,0 +1,29 @@
+<bill session="114" type="s" number="1710" updated="2015-07-15T12:47:00-04:00">
+  <state datetime="2015-07-07">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-07"/>
+  </status>
+  <introduced datetime="2015-07-07"/>
+  <titles>
+    <title type="short" as="introduced">AmeriCorps School Turnaround Act of 2015</title>
+    <title type="official" as="introduced">A bill to authorize a grant-matching program that strengthens and accelerates interventions in the lowest-performing elementary schools and secondary schools.</title>
+  </titles>
+  <sponsor id="400050"/>
+  <cosponsors>
+    <cosponsor id="412246" joined="2015-07-07"/>
+    <cosponsor id="412390" joined="2015-07-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-07" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+  </subjects>
+  <amendments/>
+</bill>

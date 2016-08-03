@@ -1,0 +1,72 @@
+<bill session="114" type="h" number="3128" updated="2015-07-25T06:45:08-04:00">
+  <state datetime="2015-07-21T19:33:00-04:00">REPORTED</state>
+  <status>
+    <unknown datetime="2015-07-21T19:33:00-04:00"/>
+  </status>
+  <introduced datetime="2015-07-21"/>
+  <titles>
+    <title type="short" as="introduced">Department of Homeland Security Appropriations Act, 2016</title>
+    <title type="short" as="reported to house">Department of Homeland Security Appropriations Act, 2016</title>
+    <title type="official" as="introduced">Making appropriations for the Department of Homeland Security for the fiscal year ending September 30, 2016, and for other purposes.</title>
+  </titles>
+  <sponsor id="400068"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-21T19:32:00-04:00">
+      <text>The House Committee on Appropriations reported an original measure, H. Rept. 114-215, by Mr. Carter (TX).</text>
+    </action>
+    <calendar datetime="2015-07-21T19:33:00-04:00" state="REPORTED" calendar="Union" number="162">
+      <text>Placed on the Union Calendar, Calendar No. 162.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSAP" name="House Appropriations" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1619"/>
+    <bill relation="unknown" session="114" type="s" number="1619"/>
+  </relatedbills>
+  <subjects>
+    <term name="Emergency management"/>
+    <term name="Appropriations"/>
+    <term name="Border security and unlawful immigration"/>
+    <term name="Caribbean area"/>
+    <term name="Coast guard"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Cuba"/>
+    <term name="Customs enforcement"/>
+    <term name="Department of Homeland Security"/>
+    <term name="Detention of persons"/>
+    <term name="Disaster relief and insurance"/>
+    <term name="Emergency planning and evacuation"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Federal Emergency Management Agency (FEMA)"/>
+    <term name="Fires"/>
+    <term name="Foreign property"/>
+    <term name="Immigration status and procedures"/>
+    <term name="Latin America"/>
+    <term name="Law enforcement administration and funding"/>
+    <term name="Law enforcement officers"/>
+    <term name="Nuclear weapons"/>
+    <term name="Research administration and funding"/>
+    <term name="Research and development"/>
+    <term name="State and local finance"/>
+    <term name="State and local government operations"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+  <summary>7/21/2015--Introduced.
+Department of Homeland Security Appropriations Act, 2016
+
+Provides FY2016 appropriations to the Department of Homeland Security (DHS).
+
+Provides appropriations for Departmental Management and Operations for the Office of the Secretary and Executive Management, the Office of the Under Secretary for Management, the Office of the Chief Financial Officer, the Office of the Chief Information Officer, Analysis and Operations, and the Office of Inspector General.
+
+Provides appropriations for Security, Enforcement, and Investigations for the U.S. Customs and Border Protection, the U.S. Immigration and Customs Enforcement, the Transportation Security Administration, the U.S. Coast Guard, and the U.S. Secret Service.
+
+Provides appropriations for Protection, Preparedness, Response, and Recovery for the National Protection and Programs Directorate, the Office of Health Affairs, and the Federal Emergency Management Agency (FEMA).
+
+Provides appropriations for Research, Development, Training, and Services for the U.S. Citizen and Immigration Services, the Federal Law Enforcement Training Center, Science and Technology, and the Domestic Nuclear Detection Office.
+
+Sets forth permissible, restricted, and prohibited uses for funds provided by this and other appropriations Acts. Rescinds specified amounts previously appropriated to DHS.</summary>
+</bill>

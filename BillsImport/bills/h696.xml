@@ -1,0 +1,55 @@
+<bill session="114" type="h" number="696" updated="2015-04-14T04:46:56-04:00">
+  <state datetime="2015-02-03">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-03"/>
+  </status>
+  <introduced datetime="2015-02-03"/>
+  <titles>
+    <title type="official" as="introduced">To amend part B of title XVIII of the Social Security Act to exclude customary prompt pay discounts from manufacturers to wholesalers from the average sales price for drugs and biologicals under Medicare, and for other purposes.</title>
+  </titles>
+  <sponsor id="400431"/>
+  <cosponsors>
+    <cosponsor id="412196" joined="2015-03-23"/>
+    <cosponsor id="412622" joined="2015-04-13"/>
+    <cosponsor id="412571" joined="2015-03-19"/>
+    <cosponsor id="400101" joined="2015-02-03"/>
+    <cosponsor id="400160" joined="2015-02-03"/>
+    <cosponsor id="412278" joined="2015-04-13"/>
+    <cosponsor id="400195" joined="2015-02-27"/>
+    <cosponsor id="400218" joined="2015-02-04"/>
+    <cosponsor id="400219" joined="2015-03-26"/>
+    <cosponsor id="400297" joined="2015-02-03"/>
+    <cosponsor id="400373" joined="2015-02-03"/>
+    <cosponsor id="400406" joined="2015-02-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-03" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-02-03">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-02-03">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-02-06">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="506"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Medicare"/>
+    <term name="Prescription drugs"/>
+  </subjects>
+  <amendments/>
+  <summary>2/3/2015--Introduced.
+Amends part B (Supplementary Medical Insurance) of title XVIII (Medicare) of the Social Security Act to exclude from the average sales price in calculating Medicare payments for drugs and biologicals any customary prompt pay discounts from manufacturers to wholesalers.</summary>
+</bill>

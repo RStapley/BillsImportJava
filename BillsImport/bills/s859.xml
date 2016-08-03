@@ -1,0 +1,52 @@
+<bill session="114" type="s" number="859" updated="2015-04-29T04:49:13-04:00">
+  <state datetime="2015-03-25">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-25"/>
+  </status>
+  <introduced datetime="2015-03-25"/>
+  <titles>
+    <title type="short" as="introduced">Crude-By-Rail Safety Act</title>
+    <title type="official" as="introduced">A bill to protect the public, communities across America, and the environment by increasing the safety of crude oil transportation by railroad, and for other purposes.</title>
+  </titles>
+  <sponsor id="300018"/>
+  <cosponsors>
+    <cosponsor id="400013" joined="2015-03-25"/>
+    <cosponsor id="300043" joined="2015-03-25"/>
+    <cosponsor id="412325" joined="2015-04-28"/>
+    <cosponsor id="300076" joined="2015-03-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-25" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="1804"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Accidents"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Civil actions and liability"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Transportation"/>
+    <term name="Emergency communications systems"/>
+    <term name="Emergency planning and evacuation"/>
+    <term name="Fires"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Hazardous wastes and toxic substances"/>
+    <term name="Life, casualty, property insurance"/>
+    <term name="Marine and inland water transportation"/>
+    <term name="Oil and gas"/>
+    <term name="Pipelines"/>
+    <term name="Railroads"/>
+    <term name="Roads and highways"/>
+    <term name="Transportation programs funding"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,59 @@
+<bill session="114" type="h" number="1964" updated="2015-07-08T04:48:27-04:00">
+  <state datetime="2015-04-22">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-22"/>
+  </status>
+  <introduced datetime="2015-04-22"/>
+  <titles>
+    <title type="short" as="introduced">Air Traffic Controllers Hiring Act of 2015</title>
+    <title type="official" as="introduced">To direct the Administrator of the Federal Aviation Administration to revise hiring practices for air traffic controller positions, and for other purposes.</title>
+  </titles>
+  <sponsor id="412422"/>
+  <cosponsors>
+    <cosponsor id="412537" joined="2015-04-22"/>
+    <cosponsor id="412555" joined="2015-04-27"/>
+    <cosponsor id="412505" joined="2015-05-20"/>
+    <cosponsor id="412524" joined="2015-04-22"/>
+    <cosponsor id="412482" joined="2015-05-18"/>
+    <cosponsor id="412444" joined="2015-04-22"/>
+    <cosponsor id="412460" joined="2015-05-21"/>
+    <cosponsor id="412566" joined="2015-05-18"/>
+    <cosponsor id="412286" joined="2015-06-03"/>
+    <cosponsor id="400630" joined="2015-04-22"/>
+    <cosponsor id="400244" joined="2015-05-22"/>
+    <cosponsor id="412527" joined="2015-06-03"/>
+    <cosponsor id="412489" joined="2015-05-21"/>
+    <cosponsor id="412411" joined="2015-07-07"/>
+    <cosponsor id="412570" joined="2015-04-22"/>
+    <cosponsor id="400352" joined="2015-04-22"/>
+    <cosponsor id="400606" joined="2015-04-22"/>
+    <cosponsor id="412417" joined="2015-05-18"/>
+    <cosponsor id="412410" joined="2015-06-17"/>
+    <cosponsor id="412412" joined="2015-06-01"/>
+    <cosponsor id="400440" joined="2015-04-27"/>
+    <cosponsor id="412646" joined="2015-05-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-22" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2015-04-23">
+      <text>Referred to the Subcommittee on Aviation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW05" subcommittee="Aviation" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Aviation and airports"/>
+    <term name="Department of Transportation"/>
+    <term name="Employee hiring"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Higher education"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+  </subjects>
+  <amendments/>
+</bill>

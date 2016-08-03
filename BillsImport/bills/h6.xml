@@ -1,0 +1,671 @@
+<bill session="114" type="h" number="6" updated="2015-08-15T06:19:09-04:00">
+  <state datetime="2015-07-10T11:27:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2015-07-10T11:27:00-04:00"/>
+  </status>
+  <introduced datetime="2015-05-19"/>
+  <titles>
+    <title type="short" as="introduced">21st Century Cures Act</title>
+    <title type="short" as="reported to house">21st Century Cures Act</title>
+    <title type="short" as="passed house">21st Century Cures Act</title>
+    <title type="official" as="introduced">To accelerate the discovery, development, and delivery of 21st century cures, and for other purposes.</title>
+  </titles>
+  <sponsor id="400414"/>
+  <cosponsors>
+    <cosponsor id="412625" joined="2015-06-02"/>
+    <cosponsor id="412642" joined="2015-06-17"/>
+    <cosponsor id="412469" joined="2015-06-15"/>
+    <cosponsor id="400018" joined="2015-05-22"/>
+    <cosponsor id="412436" joined="2015-06-04"/>
+    <cosponsor id="412512" joined="2015-06-15"/>
+    <cosponsor id="412250" joined="2015-05-22"/>
+    <cosponsor id="412635" joined="2015-06-09"/>
+    <cosponsor id="400032" joined="2015-05-22"/>
+    <cosponsor id="412501" joined="2015-06-24"/>
+    <cosponsor id="400041" joined="2015-06-18"/>
+    <cosponsor id="412629" joined="2015-06-16"/>
+    <cosponsor id="412652" joined="2015-06-23"/>
+    <cosponsor id="400047" joined="2015-06-25"/>
+    <cosponsor id="412539" joined="2015-05-22"/>
+    <cosponsor id="400048" joined="2015-06-25"/>
+    <cosponsor id="412516" joined="2015-06-01"/>
+    <cosponsor id="412427" joined="2015-05-22"/>
+    <cosponsor id="400052" joined="2015-05-22"/>
+    <cosponsor id="412537" joined="2015-06-01"/>
+    <cosponsor id="400616" joined="2015-05-22"/>
+    <cosponsor id="400057" joined="2015-06-25"/>
+    <cosponsor id="400062" joined="2015-06-09"/>
+    <cosponsor id="400063" joined="2015-06-23"/>
+    <cosponsor id="412517" joined="2015-06-09"/>
+    <cosponsor id="412571" joined="2015-06-17"/>
+    <cosponsor id="412195" joined="2015-05-22"/>
+    <cosponsor id="412576" joined="2015-06-01"/>
+    <cosponsor id="400071" joined="2015-06-24"/>
+    <cosponsor id="412379" joined="2015-06-25"/>
+    <cosponsor id="412470" joined="2015-06-24"/>
+    <cosponsor id="412600" joined="2015-06-16"/>
+    <cosponsor id="412221" joined="2015-05-22"/>
+    <cosponsor id="400639" joined="2015-06-24"/>
+    <cosponsor id="412271" joined="2015-06-11"/>
+    <cosponsor id="412236" joined="2015-05-22"/>
+    <cosponsor id="412563" joined="2015-06-02"/>
+    <cosponsor id="412531" joined="2015-06-24"/>
+    <cosponsor id="412658" joined="2015-05-22"/>
+    <cosponsor id="400655" joined="2015-06-23"/>
+    <cosponsor id="412513" joined="2015-06-24"/>
+    <cosponsor id="400618" joined="2015-06-01"/>
+    <cosponsor id="412651" joined="2015-06-11"/>
+    <cosponsor id="412193" joined="2015-05-22"/>
+    <cosponsor id="412555" joined="2015-05-22"/>
+    <cosponsor id="400086" joined="2015-06-18"/>
+    <cosponsor id="412621" joined="2015-06-09"/>
+    <cosponsor id="412536" joined="2015-06-01"/>
+    <cosponsor id="400097" joined="2015-06-25"/>
+    <cosponsor id="400101" joined="2015-05-19"/>
+    <cosponsor id="412544" joined="2015-06-25"/>
+    <cosponsor id="412505" joined="2015-06-24"/>
+    <cosponsor id="412403" joined="2015-06-15"/>
+    <cosponsor id="400648" joined="2015-06-09"/>
+    <cosponsor id="412613" joined="2015-05-22"/>
+    <cosponsor id="412477" joined="2015-06-23"/>
+    <cosponsor id="400108" joined="2015-06-23"/>
+    <cosponsor id="412637" joined="2015-05-22"/>
+    <cosponsor id="412420" joined="2015-06-11"/>
+    <cosponsor id="412672" joined="2015-06-18"/>
+    <cosponsor id="400114" joined="2015-05-22"/>
+    <cosponsor id="412533" joined="2015-06-25"/>
+    <cosponsor id="412263" joined="2015-06-17"/>
+    <cosponsor id="412215" joined="2015-06-18"/>
+    <cosponsor id="412457" joined="2015-05-22"/>
+    <cosponsor id="400122" joined="2015-05-22"/>
+    <cosponsor id="400124" joined="2015-05-22"/>
+    <cosponsor id="400129" joined="2015-06-25"/>
+    <cosponsor id="400130" joined="2015-05-22"/>
+    <cosponsor id="412480" joined="2015-06-01"/>
+    <cosponsor id="400640" joined="2015-06-17"/>
+    <cosponsor id="412529" joined="2015-06-01"/>
+    <cosponsor id="412327" joined="2015-06-18"/>
+    <cosponsor id="412382" joined="2015-06-15"/>
+    <cosponsor id="412463" joined="2015-06-23"/>
+    <cosponsor id="412453" joined="2015-06-01"/>
+    <cosponsor id="400160" joined="2015-05-19"/>
+    <cosponsor id="412485" joined="2015-05-22"/>
+    <cosponsor id="412447" joined="2015-06-23"/>
+    <cosponsor id="412278" joined="2015-05-22"/>
+    <cosponsor id="400163" joined="2015-06-11"/>
+    <cosponsor id="412498" joined="2015-06-24"/>
+    <cosponsor id="412454" joined="2015-05-22"/>
+    <cosponsor id="412645" joined="2015-06-15"/>
+    <cosponsor id="412280" joined="2015-06-02"/>
+    <cosponsor id="412434" joined="2015-05-22"/>
+    <cosponsor id="400170" joined="2015-06-18"/>
+    <cosponsor id="412584" joined="2015-06-15"/>
+    <cosponsor id="412446" joined="2015-06-03"/>
+    <cosponsor id="412486" joined="2015-06-23"/>
+    <cosponsor id="400641" joined="2015-06-03"/>
+    <cosponsor id="400179" joined="2015-06-17"/>
+    <cosponsor id="400189" joined="2015-06-25"/>
+    <cosponsor id="412550" joined="2015-06-09"/>
+    <cosponsor id="412511" joined="2015-06-03"/>
+    <cosponsor id="412437" joined="2015-06-18"/>
+    <cosponsor id="412422" joined="2015-06-09"/>
+    <cosponsor id="412283" joined="2015-06-24"/>
+    <cosponsor id="400195" joined="2015-06-09"/>
+    <cosponsor id="400199" joined="2015-06-23"/>
+    <cosponsor id="412663" joined="2015-06-11"/>
+    <cosponsor id="412460" joined="2015-06-01"/>
+    <cosponsor id="400204" joined="2015-06-25"/>
+    <cosponsor id="412199" joined="2015-06-25"/>
+    <cosponsor id="412566" joined="2015-06-17"/>
+    <cosponsor id="400211" joined="2015-06-18"/>
+    <cosponsor id="412649" joined="2015-06-17"/>
+    <cosponsor id="412435" joined="2015-06-25"/>
+    <cosponsor id="412595" joined="2015-06-18"/>
+    <cosponsor id="412543" joined="2015-06-01"/>
+    <cosponsor id="412546" joined="2015-06-03"/>
+    <cosponsor id="412583" joined="2015-06-25"/>
+    <cosponsor id="400218" joined="2015-06-25"/>
+    <cosponsor id="412421" joined="2015-06-02"/>
+    <cosponsor id="412286" joined="2015-06-09"/>
+    <cosponsor id="412614" joined="2015-06-23"/>
+    <cosponsor id="412557" joined="2015-06-09"/>
+    <cosponsor id="412510" joined="2015-06-18"/>
+    <cosponsor id="412290" joined="2015-05-22"/>
+    <cosponsor id="400230" joined="2015-06-24"/>
+    <cosponsor id="400233" joined="2015-06-25"/>
+    <cosponsor id="412256" joined="2015-06-02"/>
+    <cosponsor id="412638" joined="2015-06-16"/>
+    <cosponsor id="400237" joined="2015-06-02"/>
+    <cosponsor id="400240" joined="2015-06-25"/>
+    <cosponsor id="412616" joined="2015-06-25"/>
+    <cosponsor id="400630" joined="2015-06-24"/>
+    <cosponsor id="400244" joined="2015-06-24"/>
+    <cosponsor id="412209" joined="2015-05-22"/>
+    <cosponsor id="400245" joined="2015-06-15"/>
+    <cosponsor id="412445" joined="2015-05-22"/>
+    <cosponsor id="412521" joined="2015-06-25"/>
+    <cosponsor id="412292" joined="2015-06-16"/>
+    <cosponsor id="412293" joined="2015-06-01"/>
+    <cosponsor id="400251" joined="2015-06-18"/>
+    <cosponsor id="400656" joined="2015-05-22"/>
+    <cosponsor id="412468" joined="2015-06-25"/>
+    <cosponsor id="400663" joined="2015-05-22"/>
+    <cosponsor id="400654" joined="2015-05-22"/>
+    <cosponsor id="400259" joined="2015-06-18"/>
+    <cosponsor id="400263" joined="2015-06-18"/>
+    <cosponsor id="400644" joined="2015-06-17"/>
+    <cosponsor id="412487" joined="2015-05-22"/>
+    <cosponsor id="400659" joined="2015-05-22"/>
+    <cosponsor id="412189" joined="2015-05-22"/>
+    <cosponsor id="412552" joined="2015-06-11"/>
+    <cosponsor id="412560" joined="2015-06-15"/>
+    <cosponsor id="412540" joined="2015-06-11"/>
+    <cosponsor id="400276" joined="2015-06-03"/>
+    <cosponsor id="412634" joined="2015-06-18"/>
+    <cosponsor id="400661" joined="2015-05-22"/>
+    <cosponsor id="412632" joined="2015-06-17"/>
+    <cosponsor id="412568" joined="2015-05-22"/>
+    <cosponsor id="400285" joined="2015-05-22"/>
+    <cosponsor id="400289" joined="2015-06-18"/>
+    <cosponsor id="408211" joined="2015-05-22"/>
+    <cosponsor id="400295" joined="2015-06-11"/>
+    <cosponsor id="412575" joined="2015-06-09"/>
+    <cosponsor id="412302" joined="2015-06-02"/>
+    <cosponsor id="400308" joined="2015-05-19"/>
+    <cosponsor id="412303" joined="2015-06-24"/>
+    <cosponsor id="412506" joined="2015-06-09"/>
+    <cosponsor id="412192" joined="2015-05-22"/>
+    <cosponsor id="412569" joined="2015-06-25"/>
+    <cosponsor id="412523" joined="2015-06-11"/>
+    <cosponsor id="412306" joined="2015-06-03"/>
+    <cosponsor id="412551" joined="2015-06-15"/>
+    <cosponsor id="400320" joined="2015-05-19"/>
+    <cosponsor id="412585" joined="2015-06-11"/>
+    <cosponsor id="412308" joined="2015-06-09"/>
+    <cosponsor id="412431" joined="2015-06-02"/>
+    <cosponsor id="412331" joined="2015-06-03"/>
+    <cosponsor id="400333" joined="2015-06-18"/>
+    <cosponsor id="412393" joined="2015-06-18"/>
+    <cosponsor id="412647" joined="2015-06-24"/>
+    <cosponsor id="412483" joined="2015-06-24"/>
+    <cosponsor id="412310" joined="2015-06-09"/>
+    <cosponsor id="400341" joined="2015-06-16"/>
+    <cosponsor id="400344" joined="2015-06-23"/>
+    <cosponsor id="412202" joined="2015-05-22"/>
+    <cosponsor id="412411" joined="2015-06-09"/>
+    <cosponsor id="400347" joined="2015-06-25"/>
+    <cosponsor id="400348" joined="2015-06-23"/>
+    <cosponsor id="400349" joined="2015-06-15"/>
+    <cosponsor id="400350" joined="2015-05-22"/>
+    <cosponsor id="400352" joined="2015-06-25"/>
+    <cosponsor id="400606" joined="2015-06-11"/>
+    <cosponsor id="412212" joined="2015-06-02"/>
+    <cosponsor id="412261" joined="2015-06-02"/>
+    <cosponsor id="400360" joined="2015-05-22"/>
+    <cosponsor id="412315" joined="2015-05-22"/>
+    <cosponsor id="400363" joined="2015-05-22"/>
+    <cosponsor id="400373" joined="2015-05-22"/>
+    <cosponsor id="400376" joined="2015-06-23"/>
+    <cosponsor id="412509" joined="2015-06-18"/>
+    <cosponsor id="412186" joined="2015-06-11"/>
+    <cosponsor id="412259" joined="2015-06-24"/>
+    <cosponsor id="412648" joined="2015-06-23"/>
+    <cosponsor id="412461" joined="2015-06-24"/>
+    <cosponsor id="412626" joined="2015-06-03"/>
+    <cosponsor id="412520" joined="2015-06-15"/>
+    <cosponsor id="400406" joined="2015-06-23"/>
+    <cosponsor id="412319" joined="2015-05-22"/>
+    <cosponsor id="412617" joined="2015-06-15"/>
+    <cosponsor id="412636" joined="2015-06-18"/>
+    <cosponsor id="400411" joined="2015-06-11"/>
+    <cosponsor id="412515" joined="2015-06-17"/>
+    <cosponsor id="400415" joined="2015-06-23"/>
+    <cosponsor id="412522" joined="2015-06-15"/>
+    <cosponsor id="412579" joined="2015-05-22"/>
+    <cosponsor id="400416" joined="2015-06-16"/>
+    <cosponsor id="412548" joined="2015-06-01"/>
+    <cosponsor id="412213" joined="2015-06-11"/>
+    <cosponsor id="400419" joined="2015-05-22"/>
+    <cosponsor id="412538" joined="2015-06-09"/>
+    <cosponsor id="412618" joined="2015-06-02"/>
+    <cosponsor id="412214" joined="2015-06-01"/>
+    <cosponsor id="400623" joined="2015-06-18"/>
+    <cosponsor id="400422" joined="2015-06-25"/>
+    <cosponsor id="412410" joined="2015-06-18"/>
+    <cosponsor id="412239" joined="2015-05-22"/>
+    <cosponsor id="412564" joined="2015-06-18"/>
+    <cosponsor id="400431" joined="2015-05-22"/>
+    <cosponsor id="412412" joined="2015-06-25"/>
+    <cosponsor id="412402" joined="2015-06-23"/>
+    <cosponsor id="412211" joined="2015-05-22"/>
+    <cosponsor id="412430" joined="2015-06-09"/>
+    <cosponsor id="412628" joined="2015-06-17"/>
+    <cosponsor id="412646" joined="2015-06-16"/>
+    <cosponsor id="412640" joined="2015-06-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-19" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-05-19">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-05-19">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2015-05-19">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-05-21">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-05-21" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 51 - 0.</text>
+    </calendar>
+    <action datetime="2015-07-07T14:37:00-04:00">
+      <text>Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 114-190, Part I.</text>
+    </action>
+    <action datetime="2015-07-07T14:37:00-04:00">
+      <text>Committee on Ways and Means discharged.</text>
+    </action>
+    <calendar datetime="2015-07-07T14:37:00-04:00" calendar="Union" number="142">
+      <text>Placed on the Union Calendar, Calendar No. 142.</text>
+    </calendar>
+    <action datetime="2015-07-08T20:18:00-04:00">
+      <text>Rules Committee Resolution H. Res. 350 Reported to House. Rule provides for consideration of H.R. 6 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order.</text>
+    </action>
+    <action datetime="2015-07-09T18:02:00-04:00">
+      <text>Rule H. Res. 350 passed House.</text>
+    </action>
+    <action datetime="2015-07-09T18:03:00-04:00">
+      <text>Considered under the provisions of rule H. Res. 350.</text>
+      <reference ref="CR H5008-5016" label="consideration"/>
+    </action>
+    <action datetime="2015-07-09T18:03:00-04:00">
+      <text>Rule provides for consideration of H.R. 6 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order.</text>
+    </action>
+    <action datetime="2015-07-09T18:04:00-04:00">
+      <text>House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 350 and Rule XVIII.</text>
+    </action>
+    <action datetime="2015-07-09T18:04:00-04:00">
+      <text>The Speaker designated the Honorable Cresent Hardy to act as Chairman of the Committee.</text>
+    </action>
+    <action datetime="2015-07-09T18:04:00-04:00">
+      <text>GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 6.</text>
+    </action>
+    <action datetime="2015-07-09T19:08:00-04:00">
+      <text>Mr. Upton moved that the Committee now rise.</text>
+    </action>
+    <action datetime="2015-07-09T19:09:00-04:00">
+      <text>On motion that the Committee now rise. Agreed to by voice vote.</text>
+    </action>
+    <action datetime="2015-07-09T19:09:00-04:00">
+      <text>Committee of the Whole House on the state of the Union rises leaving H.R. 6 as unfinished business.</text>
+    </action>
+    <action datetime="2015-07-10T09:16:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H5035-5082" label="consideration"/>
+    </action>
+    <action datetime="2015-07-10T09:16:00-04:00">
+      <text>The House resolved into Committee of the Whole House on the state of the Union for further consideration.</text>
+    </action>
+    <action datetime="2015-07-10T09:18:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 350, the Committee of the Whole proceeded with 10 minutes of debate on the Brat amendment No. 1.</text>
+    </action>
+    <action datetime="2015-07-10T09:32:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Brat amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Brat demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2015-07-10T09:33:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 350, the Committee of the Whole proceeded with 10 minutes of debate on the Young (IN) amendment No. 2.</text>
+    </action>
+    <action datetime="2015-07-10T09:40:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 350, the Committee of the Whole proceeded with 10 minutes of debate on the Lee amendment No. 3.</text>
+    </action>
+    <action datetime="2015-07-10T09:53:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Lee amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Ms. Lee demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2015-07-10T09:54:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 350, the Committee of the Whole proceeded with 10 minutes of debate on the Castro (TX) amendment No. 4.</text>
+    </action>
+    <action datetime="2015-07-10T09:58:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 350, the Committee of the Whole proceeded with 10 minutes of debate on the Slaughter amendment No. 5.</text>
+    </action>
+    <action datetime="2015-07-10T10:11:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 350, the Committee of the Whole proceeded with 10 minutes of debate on the Fitzpatrick amendment No. 6.</text>
+    </action>
+    <action datetime="2015-07-10T10:18:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 350, the Committee of the Whole proceeded with 10 minutes of debate on the Polis amendment No. 7.</text>
+    </action>
+    <action datetime="2015-07-10T10:27:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 350, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson Lee amendment No. 8.</text>
+    </action>
+    <action datetime="2015-07-10T10:36:00-04:00">
+      <text>UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.</text>
+    </action>
+    <action datetime="2015-07-10T11:16:00-04:00">
+      <text>The House rose from the Committee of the Whole House on the state of the Union to report H.R. 6.</text>
+    </action>
+    <action datetime="2015-07-10T11:17:00-04:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+      <reference ref="CR H5082" label="consideration"/>
+    </action>
+    <action datetime="2015-07-10T11:17:00-04:00">
+      <text>The House adopted the amendments en gross as agreed to by the Committee of the Whole House on the state of the Union.</text>
+      <reference ref="CR H5035-5069" label="text of bill as amended"/>
+    </action>
+    <vote how="roll" type="vote" roll="433" datetime="2015-07-10T11:27:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by recorded vote: 344 - 77 (Roll no. 433).</text>
+    </vote>
+    <action datetime="2015-07-10T11:27:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2015-07-13">
+      <text>Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, Discharged"/>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="hc" number="46"/>
+    <bill relation="rule" session="114" type="hr" number="350"/>
+    <bill relation="unknown" session="114" type="h" number="292"/>
+    <bill relation="unknown" session="114" type="h" number="789"/>
+    <bill relation="unknown" session="114" type="h" number="2298"/>
+    <bill relation="unknown" session="114" type="h" number="2299"/>
+    <bill relation="unknown" session="114" type="h" number="2337"/>
+    <bill relation="unknown" session="114" type="h" number="2338"/>
+    <bill relation="unknown" session="114" type="h" number="2340"/>
+    <bill relation="unknown" session="114" type="h" number="2396"/>
+    <bill relation="unknown" session="114" type="h" number="2414"/>
+    <bill relation="unknown" session="114" type="h" number="2415"/>
+    <bill relation="unknown" session="114" type="h" number="2419"/>
+    <bill relation="unknown" session="114" type="h" number="2420"/>
+    <bill relation="unknown" session="114" type="h" number="2421"/>
+    <bill relation="unknown" session="114" type="h" number="2422"/>
+    <bill relation="unknown" session="114" type="h" number="2423"/>
+    <bill relation="unknown" session="114" type="h" number="2424"/>
+    <bill relation="unknown" session="114" type="h" number="2425"/>
+    <bill relation="unknown" session="114" type="h" number="2426"/>
+    <bill relation="unknown" session="114" type="h" number="2427"/>
+    <bill relation="unknown" session="114" type="h" number="2428"/>
+    <bill relation="unknown" session="114" type="h" number="2433"/>
+    <bill relation="unknown" session="114" type="h" number="2435"/>
+    <bill relation="unknown" session="114" type="h" number="2436"/>
+    <bill relation="unknown" session="114" type="h" number="2438"/>
+    <bill relation="unknown" session="114" type="h" number="2439"/>
+    <bill relation="unknown" session="114" type="h" number="2440"/>
+    <bill relation="unknown" session="114" type="h" number="2443"/>
+    <bill relation="unknown" session="114" type="h" number="2445"/>
+    <bill relation="unknown" session="114" type="h" number="2448"/>
+    <bill relation="unknown" session="114" type="h" number="2452"/>
+    <bill relation="unknown" session="114" type="h" number="2455"/>
+    <bill relation="unknown" session="114" type="h" number="2456"/>
+    <bill relation="unknown" session="114" type="h" number="2547"/>
+    <bill relation="unknown" session="114" type="h" number="2548"/>
+    <bill relation="unknown" session="114" type="h" number="2549"/>
+    <bill relation="unknown" session="114" type="h" number="2629"/>
+    <bill relation="unknown" session="114" type="s" number="849"/>
+    <bill relation="unknown" session="114" type="s" number="1421"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Advisory bodies"/>
+    <term name="Budget deficits and national debt"/>
+    <term name="Child health"/>
+    <term name="Computers and information technology"/>
+    <term name="Congressional oversight"/>
+    <term name="Consumer affairs"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Drug safety, medical device, and laboratory regulation"/>
+    <term name="Drug therapy"/>
+    <term name="Drug trafficking and controlled substances"/>
+    <term name="Drug, alcohol, tobacco use"/>
+    <term name="Energy storage, supplies, demand"/>
+    <term name="Europe"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Food and Drug Administration (FDA)"/>
+    <term name="Fraud offenses and financial crimes"/>
+    <term name="Government studies and investigations"/>
+    <term name="Health care quality"/>
+    <term name="Health information and medical records"/>
+    <term name="Health personnel"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="Health technology, devices, supplies"/>
+    <term name="Home and outpatient care"/>
+    <term name="Hospital care"/>
+    <term name="Immunology and vaccination"/>
+    <term name="Infectious and parasitic diseases"/>
+    <term name="International organizations and cooperation"/>
+    <term name="Manufacturing"/>
+    <term name="Medicaid"/>
+    <term name="Medical education"/>
+    <term name="Medical research"/>
+    <term name="Medicare"/>
+    <term name="National Institutes of Health (NIH)"/>
+    <term name="Neurological disorders"/>
+    <term name="Oil and gas"/>
+    <term name="Prescription drugs"/>
+    <term name="Product safety and quality"/>
+    <term name="Public-private cooperation"/>
+    <term name="Research administration and funding"/>
+    <term name="Right of privacy"/>
+    <term name="Strategic materials and reserves"/>
+    <term name="Surgery and anesthesia"/>
+    <term name="User charges and fees"/>
+  </subjects>
+  <amendments>
+    <amendment number="h656"/>
+    <amendment number="h657"/>
+    <amendment number="h658"/>
+    <amendment number="h659"/>
+    <amendment number="h660"/>
+    <amendment number="h661"/>
+    <amendment number="h662"/>
+    <amendment number="h663"/>
+  </amendments>
+  <summary>7/7/2015--Reported to House amended, Part I.
+21st Century Cures Act
+
+TITLE I--DISCOVERY
+
+Subtitle A--National Institutes of Health Funding
+
+(Sec. 1001) This bill amends the Public Health Service Act (PHSA) to reauthorize the National Institutes of Health (NIH) through FY2018.
+
+(Sec. 1002) The NIH Innovation Fund is established to fund the development and implementation of a strategic plan, early stage investigators, and high-risk, high-reward research.
+
+Subtitle B--National Institutes of Health Planning and Administration
+
+(Sec. 1022) Directors of national research institutes and national centers have five-year terms in office.
+
+(Sec. 1023) The NIH must reduce the administrative burdens of researchers funded by the NIH.
+
+(Sec. 1027) The support the National Center for Advancing Translational Sciences may provide to clinical trials is extended through a later clinical trial phase.
+
+(Sec. 1028) Each national research institute must conduct or support high-risk, high-reward research.
+
+Subtitle C--Supporting Young Emerging Scientists
+
+(Sec. 1041) A loan repayment program is established for health professionals engaging in research. The maximum awards of other loan repayment programs are increased.
+
+Subtitle D--Capstone Grant Program
+
+(Sec. 1061) Capstone Awards are established to support outstanding scientists in concluding research programs. Recipients cannot be principal investigators on subsequent NIH awards.
+
+Subtitle E--Promoting Pediatric Research through the National Institutes of Health
+
+(Sec. 1081) The Pediatric Research Initiative is revised to require establishment of a National Pediatric Research Network comprised of pediatric research consortia.
+
+(Sec. 1083) The NIH must convene a workshop on appropriate age groupings and age exclusions in human research and must publish the number of children included in NIH research.
+
+Subtitle F--Advancement of the National Institutes of Health Research and Data Access
+
+(Sec. 1101) The NIH may require scientific data to be shared if the research is fully funded by the NIH.
+
+Subtitle G--Facilitating Collaborative Research
+
+(Sec. 1121) The NIH and the Food and Drug Administration (FDA) must implement a system that allows further research on clinical trial data.
+
+(Sec. 1122) The Centers for Disease Control and Prevention (CDC) must expand surveillance of neurological diseases.
+
+(Sec. 1124) The Department of Health and Human Services (HHS) must revise health information privacy rules to allow: (1) use of protected information for research purposes to be treated as use for health care operations, (2) remote access to information by researchers, and (3) individuals to authorize future use of their information for research.
+
+Subtitle H--Council for 21st Century Cures
+
+(Sec. 1141) The Council for 21st Century Cures, a nonprofit corporation, is established to accelerate the discovery, development, and delivery of innovative cures, treatments, and preventive measures.
+
+TITLE II--DEVELOPMENT
+
+Subtitle A--Patient-Focused Drug Development
+
+(Sec. 2001) This bill amends the Federal Food, Drug, and Cosmetic Act (FFDCA) to require the FDA to establish processes under which patient experience data may be considered in the risk-benefit assessment of a new drug.
+
+Subtitle B--Qualification and Use of Drug Development Tools
+
+(Sec. 2021) The FDA must establish a process to qualify drug development tools (methods, materials, or measures that aid drug development and regulatory review) as reliable for use in supporting approval or investigational use of a drug.
+
+(Sec. 2022) The sponsor of a drug for a serious condition may request that the FDA agree to an accelerated approval development plan. The plan must include the design of the drug study.
+
+Subtitle C--FDA Advancement of Precision Medicine
+
+(Sec. 2041) The FDA must define &#8220;precision&#8221; drugs and the evidence needed to support their use in a subset of patients. To expedite clinical development of precision drugs for the treatment of serious or rare conditions, the FDA may rely upon data previously submitted for a different approved drug or indication.
+
+Subtitle D--Modern Trial Design and Evidence Development
+
+(Sec. 2061) The FDA must issue guidance that addresses using alternative statistical methods in clinical trials and in the development and review of drugs.
+
+(Sec. 2062) To support approval of a drug for a new indication, the FDA must evaluate the use of evidence from clinical experience and establish a streamlined data review program.
+
+Subtitle E--Expediting Patient Access
+
+(Sec. 2082) Manufacturers and distributors of investigational drugs for serious conditions must publish their policies on expanded access (also known as &#8220;compassionate use&#8221;).
+
+Subtitle F--Facilitating Responsible Manufacturer Communications
+
+(Sec. 2101) The definition of, and requirements for, health care economic information that is provided to entities selecting drugs for coverage or reimbursement are revised.
+
+Subtitle G--Antibiotic Drug Development
+
+(Sec. 2121) At the request of the sponsor of an antibacterial or antifungal drug for treatment of a serious infection, the FDA may agree on a process for developing data to support approval of the drug for use in a limited population of patients.
+
+The PHSA is amended to require HHS to monitor the use of antibacterial and antifungal drugs and resistance to these drugs.
+
+(Sec. 2122) The FFDCA is amended to require the FDA to identify and publish susceptibility test interpretive criteria for antimicrobial drugs. (These criteria characterize the drug resistance of microbes.) The FDA may allow marketing of devices that use these criteria without premarket approval.
+
+(Sec. 2123) This bill amends title XVIII (Medicare) of the Social Security Act (SSAct) to require the Centers for Medicare &amp; Medicaid Services (CMS) to provide an additional payment to certain hospitals for providing certain new antimicrobial drugs to inpatients.
+
+Subtitle H--Vaccine Access, Certainty, and Innovation
+
+(Sec. 2141) The PHSA is amended to require: (1) the Advisory Committee on Immunization Practices to expedite review of certain vaccines; and (2) the CDC to provide a vaccine developer, upon request, with information on public health needs and priorities and certain epidemiological analyses or data.
+
+Subtitle I--Orphan Product Extensions Now; Incentives for Certain Products for Limited Populations
+
+(Sec. 2151) The FFDCA is amended to extend by six months the marketing exclusivity period of a drug approved for a new indication that is a rare disease or condition.
+
+(Sec. 2152) The priority review voucher program for rare pediatric diseases is extended through 2018 and revised to apply only to serious diseases.
+
+Subtitle J--Domestic Manufacturing and Export Efficiencies
+
+(2162) This bill amends the Controlled Substances Import and Export Act to allow exported controlled substances to be re-exported within the European Economic Area.
+
+ Subtitle K--Enhancing Combination Products Review
+
+(Sec. 2181) The FFDCA is amended to require the FDA to describe the responsibilities of each agency center charged with reviewing drugs, medical devices, or biological products when reviewing a product that is a combination of drug, medical device, or biological product.
+
+Subtitle L--Priority Review for Breakthrough Devices
+
+(Sec. 2201) The FDA must establish a program for priority review of breakthrough medical devices.
+
+Subtitle M--Medical Device Regulatory Process Improvements
+
+(Sec. 2221) The FDA must accredit third parties to certify device manufactures&#8217; quality systems as meeting FDA criteria. The FDA must rely on this certification when determining the safety and effectiveness of certain changes to medical devices.
+
+(Sec. 2222) &#8220;Valid scientific evidence&#8221; is defined for purposes of the FDA determining the effectiveness of a medical device without clinical investigations.
+
+(Sec. 2223) FDA employees that review premarket submissions of medical devices must receive training regarding the &#8220;least burdensome appropriate means&#8221; concept.
+
+(Sec. 2225) The FDA must identify types of medical devices that do not require submission of a report prior to commercial marketing.
+
+(Sec. 2227) The FDA may exempt from effectiveness requirements certain medical devices intended to benefit fewer than 8,000 individuals.
+
+Subtitle N--Sensible Oversight for Technology Which Advances Regulatory Efficiency
+
+(Sec. 2241) &#8220;Health software&#8221; is defined and, with specified exceptions, exempted from FDA regulation.
+
+Subtitle O--Streamlining Clinical Trials
+
+(Sec. 2262) Institutional Review Boards responsible for reviewing plans for clinical testing of a medical device no longer need to be local.
+
+(Sec. 2263) Clinical testing of medical devices or drugs no longer requires the informed consent of the subjects if the testing poses no more than minimal risk and includes safeguards.
+
+Subtitle P--Improving Scientific Expertise and Outreach at FDA
+
+(Sec. 2281) The PHSA is amended to remove the limit on the number of members of the Silvio O. Conte Senior Biomedical Research Service and make other changes to the Service.
+
+(Sec. 2283) The FFDCA is amended to revise Board of Directors membership, Executive Director compensation, and accounting for the Reagan-Udall Foundation for the Food and Drug Administration.
+
+(Sec. 2285) The FDA is granted additional hiring authority for scientific, technical, or professional positions within certain centers.
+
+Subtitle Q--Exempting from Sequestration Certain User Fees
+
+(Sec. 2301) This bill amends the Balanced Budget and Emergency Deficit Control Act of 1985 to exempt from sequestration FDA administrative expenses funded through certain user fees.
+
+TITLE III--DELIVERY
+
+Subtitle A--Interoperability
+
+(Sec. 3001) The PHSA is amended to establish requirements for interoperability and certification of health information technology. Practices that discourage the exchange of electronic health information are prohibited.
+
+Subtitle B--Telehealth
+
+(Sec. 3021) The CMS and Medicare Payment Advisory Commission must provide information to Congress regarding telehealth.
+
+Subtitle C--Encouraging Continuing Medical Education for Physicians
+
+(Sec. 3041) Part A (General Provisions) of title XI of the SSAct is amended to remove the requirement that manufacturers of medical products report payments to physicians for certain educational activities.
+
+Subtitle D--Disposable Medical Technologies
+
+SSAct title XVIII (Medicare) is amended to require the CMS to pay home health agencies for certain disposable medical devices furnished to individuals receiving home health services.
+
+Subtitle E--Local Coverage Decision Reforms
+
+(Sec. 3081) Medicare administrative contractors must publish local coverage determinations.
+
+Subtitle F--Medicare Pharmaceutical and Technology Ombudsman
+
+(Sec. 3101) A pharmaceutical and technology ombudsman within the CMS must receive and respond to complaints from manufacturers of medical products regarding Medicare coverage of their products.
+
+Subtitle G--Medicare Site-of-Service Price Transparency
+
+(Sec. 3121) The CMS must publish estimated Medicare beneficiary prices for items and services provided by hospital outpatient departments or ambulatory surgical centers.
+
+Subtitle H--Medicare Part D Patient Safety and Drug Abuse Prevention
+
+(Sec. 3141) Medicare prescription drug plan sponsors may limit the access of certain beneficiaries to frequently abused drugs.
+
+TITLE IV--MEDICAID, MEDICARE, AND OTHER REFORMS
+
+Subtitle A--Medicaid and Medicare Reforms
+
+(Sec. 4001) SSAct title XIX (Medicaid) is amended to limit aggregate payments to states for durable medical equipment to the amount that would be paid under Medicare, effective January 1, 2020.
+
+(Sec. 4002) SSAct title XVIII (Medicare) is amended to reduce Medicare payments for x-ray imaging that uses film or an imaging plate (instead of a digital sensor). A multiple procedure payment reduction policy cannot be applied to a physician&#8217;s imaging services until the CMS publishes an analysis of any efficiencies that may exist when more than one study is performed on the same patient on the same day.
+
+Subtitle B--Cures Innovation Fund
+
+(Sec. 4041) The Cures Innovation Fund is established and funding is appropriated to carry out specified provisions of this Act.
+
+Subtitle C--Other Reforms
+
+(Sec. 4061) The Department of Energy must sell crude oil from the Strategic Petroleum Reserve.
+
+Subtitle D--Miscellaneous
+
+(Sec. 4081) The PHSA is amended to require HHS to: (1) conduct or support research on Lyme disease and other tick-borne diseases, (2) establish the Interagency Lyme and Tick-Borne Disease Working Group, and (3) submit a strategic plan for tick-borne disease research.</summary>
+</bill>

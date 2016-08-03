@@ -1,0 +1,37 @@
+<bill session="114" type="h" number="2288" updated="2015-06-27T06:57:32-04:00">
+  <state datetime="2015-05-13">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-13"/>
+  </status>
+  <introduced datetime="2015-05-13"/>
+  <titles>
+    <title type="official" as="introduced">To remove the use restrictions on certain land transferred to Rockingham County, Virginia, and for other purposes.</title>
+  </titles>
+  <sponsor id="400154"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-05-13">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E691"/>
+    </action>
+    <action datetime="2015-05-13" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2015-06-04">
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="Federal Lands" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="1329"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+  <summary>5/13/2015--Introduced.
+Amends federal law authorizing Rockingham County, Virginia, to use specified land transferred by the United States for a child care center to remove that use restriction.</summary>
+</bill>

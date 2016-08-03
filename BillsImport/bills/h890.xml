@@ -1,0 +1,35 @@
+<bill session="114" type="h" number="890" updated="2015-07-24T04:47:41-04:00">
+  <state datetime="2015-02-11">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-11"/>
+  </status>
+  <introduced datetime="2015-02-11"/>
+  <titles>
+    <title type="official" as="introduced">To correct the boundaries of the John H. Chafee Coastal Barrier Resources System Unit P16.</title>
+  </titles>
+  <sponsor id="412604"/>
+  <cosponsors>
+    <cosponsor id="412657" joined="2015-07-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-11" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2015-03-16">
+      <text>Referred to the Subcommittee on Water, Power and Oceans.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII13" subcommittee="Water, Power and Oceans" name="House Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Florida"/>
+    <term name="Marine and coastal resources, fisheries"/>
+  </subjects>
+  <amendments/>
+  <summary>2/11/2015--Introduced.
+This bill revises the boundaries of the John H. Chafee Coastal Barrier Resources System Unit P16 in Florida.</summary>
+</bill>

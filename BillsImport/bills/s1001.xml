@@ -1,0 +1,51 @@
+<bill session="114" type="s" number="1001" updated="2015-06-20T06:53:47-04:00">
+  <state datetime="2015-04-23">REPORTED</state>
+  <status>
+    <unknown datetime="2015-04-23"/>
+  </status>
+  <introduced datetime="2015-04-16"/>
+  <titles>
+    <title type="short" as="introduced">Small Business Lending Reauthorization Act of 2015</title>
+    <title type="short" as="reported to senate">Small Business Lending Reauthorization Act of 2015</title>
+    <title type="official" as="introduced">A bill to establish authorization levels for general business loans for fiscal years 2015 and 2016.</title>
+  </titles>
+  <sponsor id="412322"/>
+  <cosponsors>
+    <cosponsor id="412493" joined="2015-04-22"/>
+    <cosponsor id="412390" joined="2015-04-23"/>
+    <cosponsor id="412406" joined="2015-04-16"/>
+    <cosponsor id="412200" joined="2015-04-23"/>
+    <cosponsor id="412305" joined="2015-04-16"/>
+    <cosponsor id="412323" joined="2015-04-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-16" state="REFERRED">
+      <text>Read twice and referred to the Committee on Small Business and Entrepreneurship.</text>
+    </action>
+    <calendar datetime="2015-04-23" state="REPORTED">
+      <text>Committee on Small Business and Entrepreneurship. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="2015-06-10">
+      <text>Committee on Small Business and Entrepreneurship. Reported by Senator Vitter without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="2015-06-10" calendar="Senate Legislative" under="General Orders" number="111">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 111.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSSB" name="Senate Small Business and Entrepreneurship" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Small business"/>
+  </subjects>
+  <amendments/>
+  <summary>6/10/2015--Reported to Senate without amendment.
+(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)
+
+Small Business Lending Reauthorization Act of 2015
+
+(Sec. 2) This bill authorizes the Small Business Administration to make general business loans in the amount of $20.5 billion for FY2015, and $23.5 billion for FY2016.</summary>
+</bill>

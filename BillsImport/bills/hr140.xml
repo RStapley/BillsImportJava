@@ -1,0 +1,71 @@
+<bill session="114" type="hr" number="140" updated="2015-07-24T04:47:14-04:00">
+  <state datetime="2015-03-03">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-03"/>
+  </status>
+  <introduced datetime="2015-03-03"/>
+  <titles>
+    <title type="official" as="introduced">Expressing support for designation of August 2015 as "Blue Star Mothers of America Month".</title>
+  </titles>
+  <sponsor id="412510"/>
+  <cosponsors>
+    <cosponsor id="412655" joined="2015-05-01"/>
+    <cosponsor id="412565" joined="2015-05-01"/>
+    <cosponsor id="412436" joined="2015-05-01"/>
+    <cosponsor id="400030" joined="2015-03-16"/>
+    <cosponsor id="400041" joined="2015-03-16"/>
+    <cosponsor id="412571" joined="2015-03-16"/>
+    <cosponsor id="412604" joined="2015-05-01"/>
+    <cosponsor id="400077" joined="2015-03-16"/>
+    <cosponsor id="412513" joined="2015-03-16"/>
+    <cosponsor id="412555" joined="2015-03-16"/>
+    <cosponsor id="412403" joined="2015-03-16"/>
+    <cosponsor id="412526" joined="2015-03-16"/>
+    <cosponsor id="412637" joined="2015-07-23"/>
+    <cosponsor id="412532" joined="2015-03-16"/>
+    <cosponsor id="412382" joined="2015-05-01"/>
+    <cosponsor id="412388" joined="2015-04-16"/>
+    <cosponsor id="400162" joined="2015-03-16"/>
+    <cosponsor id="400170" joined="2015-05-01"/>
+    <cosponsor id="400179" joined="2015-05-01"/>
+    <cosponsor id="400209" joined="2015-03-16"/>
+    <cosponsor id="412295" joined="2015-03-16"/>
+    <cosponsor id="400263" joined="2015-05-01"/>
+    <cosponsor id="400279" joined="2015-05-01"/>
+    <cosponsor id="412409" joined="2015-04-16"/>
+    <cosponsor id="400297" joined="2015-03-16"/>
+    <cosponsor id="412302" joined="2015-05-01"/>
+    <cosponsor id="400316" joined="2015-05-01"/>
+    <cosponsor id="400333" joined="2015-05-01"/>
+    <cosponsor id="412394" joined="2015-03-03"/>
+    <cosponsor id="400350" joined="2015-06-25"/>
+    <cosponsor id="400606" joined="2015-03-16"/>
+    <cosponsor id="400363" joined="2015-03-16"/>
+    <cosponsor id="412509" joined="2015-03-03"/>
+    <cosponsor id="412514" joined="2015-03-03"/>
+    <cosponsor id="412626" joined="2015-06-25"/>
+    <cosponsor id="412548" joined="2015-05-01"/>
+    <cosponsor id="412410" joined="2015-04-16"/>
+    <cosponsor id="412239" joined="2015-03-16"/>
+    <cosponsor id="412255" joined="2015-04-16"/>
+    <cosponsor id="412525" joined="2015-07-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-03" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Family relationships"/>
+    <term name="Military personnel and dependents"/>
+  </subjects>
+  <amendments/>
+  <summary>3/3/2015--Introduced.
+Expresses support for the designation of Blue Star Mothers of America Month.</summary>
+</bill>

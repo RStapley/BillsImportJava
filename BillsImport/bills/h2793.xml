@@ -1,0 +1,53 @@
+<bill session="114" type="h" number="2793" updated="2015-08-22T06:42:40-04:00">
+  <state datetime="2015-06-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-16"/>
+  </status>
+  <introduced datetime="2015-06-16"/>
+  <titles>
+    <title type="short" as="introduced">TRAC Act of 2015</title>
+    <title type="short" as="introduced">Tracking Reoffending Alien Criminals Act of 2015</title>
+    <title type="official" as="introduced">To amend the Sex Offender Registration and Notification Act to require the Secretary of Homeland Security to take appropriate actions to ensure that an alien who is unlawfully present in the United States, is in removal proceedings or has been ordered removed, and is required to register under the Act, is so registered, and for other purposes.</title>
+  </titles>
+  <sponsor id="412623"/>
+  <cosponsors>
+    <cosponsor id="412625" joined="2015-07-10"/>
+    <cosponsor id="412655" joined="2015-07-10"/>
+    <cosponsor id="412619" joined="2015-07-10"/>
+    <cosponsor id="412622" joined="2015-07-22"/>
+    <cosponsor id="412631" joined="2015-07-27"/>
+    <cosponsor id="412661" joined="2015-07-14"/>
+    <cosponsor id="412444" joined="2015-07-22"/>
+    <cosponsor id="412673" joined="2015-07-14"/>
+    <cosponsor id="412624" joined="2015-07-14"/>
+    <cosponsor id="412294" joined="2015-07-10"/>
+    <cosponsor id="412540" joined="2015-07-10"/>
+    <cosponsor id="412302" joined="2015-07-16"/>
+    <cosponsor id="412633" joined="2015-07-16"/>
+    <cosponsor id="412417" joined="2015-07-14"/>
+    <cosponsor id="412548" joined="2015-07-10"/>
+    <cosponsor id="412538" joined="2015-07-22"/>
+    <cosponsor id="400627" joined="2015-07-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-16" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-07-01">
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration and Border Security" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+  </subjects>
+  <amendments/>
+  <summary>6/16/2015--Introduced.
+Tracking Reoffending Alien Criminals Act of 2015 or the TRAC Act of 2015
+
+This bill amends the Sex Offender Registration and Notification Act to require the Department of Homeland Security to ensure that unlawfully present alien sex offenders in removal proceedings or with final orders for removal register as sex offenders as required under the Act.</summary>
+</bill>

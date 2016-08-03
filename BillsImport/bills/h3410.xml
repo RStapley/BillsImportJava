@@ -1,0 +1,45 @@
+<bill session="114" type="h" number="3410" updated="2015-08-18T04:47:02-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">Rural Economic Vitalization Act</title>
+    <title type="official" as="introduced">To authorize voluntary grazing permit retirement on Federal lands managed by the Department of Agriculture or the Department of the Interior where livestock grazing is impractical, and for other purposes.</title>
+  </titles>
+  <sponsor id="400379"/>
+  <cosponsors>
+    <cosponsor id="412505" joined="2015-07-29"/>
+    <cosponsor id="400162" joined="2015-07-29"/>
+    <cosponsor id="412584" joined="2015-07-29"/>
+    <cosponsor id="412583" joined="2015-08-04"/>
+    <cosponsor id="400232" joined="2015-07-29"/>
+    <cosponsor id="400237" joined="2015-07-29"/>
+    <cosponsor id="400262" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2015-08-17">
+      <text>Referred to the Subcommittee on Conservation and Forestry.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee activity="Referral" code="HSAG15" subcommittee="Conservation and Forestry" name="House Agriculture"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+</bill>

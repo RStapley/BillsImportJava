@@ -1,0 +1,68 @@
+<bill session="114" type="h" number="2268" updated="2015-07-18T06:37:47-04:00">
+  <state datetime="2015-05-12">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-12"/>
+  </status>
+  <introduced datetime="2015-05-12"/>
+  <titles>
+    <title type="short" as="introduced">Ending Corporal Punishment in Schools Act of 2015</title>
+    <title type="official" as="introduced">To end the use of corporal punishment in schools, and for other purposes.</title>
+  </titles>
+  <sponsor id="400170"/>
+  <cosponsors>
+    <cosponsor id="412517" joined="2015-05-12"/>
+    <cosponsor id="400162" joined="2015-05-12"/>
+    <cosponsor id="400238" joined="2015-05-19"/>
+    <cosponsor id="412209" joined="2015-05-12"/>
+    <cosponsor id="400259" joined="2015-05-12"/>
+    <cosponsor id="412189" joined="2015-05-12"/>
+    <cosponsor id="400295" joined="2015-05-12"/>
+    <cosponsor id="400309" joined="2015-05-12"/>
+    <cosponsor id="412307" joined="2015-05-12"/>
+    <cosponsor id="412308" joined="2015-05-12"/>
+    <cosponsor id="400333" joined="2015-05-12"/>
+    <cosponsor id="400364" joined="2015-05-12"/>
+    <cosponsor id="400378" joined="2015-05-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-12">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E673"/>
+    </action>
+    <action datetime="2015-05-12" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="927"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Child safety and welfare"/>
+    <term name="Education programs funding"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Government studies and investigations"/>
+    <term name="School administration"/>
+    <term name="Teaching, teachers, curricula"/>
+  </subjects>
+  <amendments/>
+  <summary>5/12/2015--Introduced.
+Ending Corporal Punishment in Schools Act of 2015
+
+Amends the General Education Provisions Act to prohibit the Department of Education (ED) from providing education funding to any educational agency or institution that allows school personnel to inflict corporal punishment upon a student as a form of punishment or to modify undesirable behavior.
+
+Requires each state to submit a plan to ED, within 18 months of this Act's enactment and every third year thereafter, that describes how the state eliminates the use of corporal punishment in schools and makes school personnel and parents aware of its policies and procedures for doing so.
+
+Authorizes ED to award three-year grants to states and, through them, competitive subgrants to local educational agencies (LEAs) to assist them in improving school climate and culture by implementing school-wide positive behavior supports.
+
+Requires grant and subgrant funds to be used for professional training, technical assistance, research, and outreach regarding positive behavior supports. Requires LEAs to ensure that private school personnel can participate, on an equitable basis, in activities supported by such funds.
+
+Authorizes ED to allocate funds to the Department of the Interior to carry out such activities with regard to schools operated or funded by such Department.
+
+Directs&#160;ED to conduct a national assessment to determine compliance with this Act's requirements and identify best practices regarding positive behavior support professional training programs.
+
+Gives Protection and Advocacy Systems the authority provided under the Developmental Disabilities Assistance and Bill of Rights Act of 2000 to investigate, monitor, and enforce this Act's protections for students.</summary>
+</bill>

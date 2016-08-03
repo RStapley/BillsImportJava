@@ -1,0 +1,76 @@
+<bill session="114" type="h" number="1344" updated="2015-07-30T04:48:35-04:00">
+  <state datetime="2015-07-29">REPORTED</state>
+  <status>
+    <unknown datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-03-10"/>
+  <titles>
+    <title type="short" as="introduced">Early Hearing Detection and Intervention Act of 2015</title>
+    <title type="official" as="introduced">To amend the Public Health Service Act to reauthorize a program for early detection, diagnosis, and treatment regarding deaf and hard-of-hearing newborns, infants, and young children.</title>
+  </titles>
+  <sponsor id="412278"/>
+  <cosponsors>
+    <cosponsor id="412565" joined="2015-06-03"/>
+    <cosponsor id="412250" joined="2015-06-25"/>
+    <cosponsor id="400032" joined="2015-05-13"/>
+    <cosponsor id="400052" joined="2015-07-07"/>
+    <cosponsor id="400062" joined="2015-03-10"/>
+    <cosponsor id="400090" joined="2015-05-13"/>
+    <cosponsor id="412457" joined="2015-07-20"/>
+    <cosponsor id="412434" joined="2015-05-13"/>
+    <cosponsor id="412460" joined="2015-06-01"/>
+    <cosponsor id="412209" joined="2015-05-13"/>
+    <cosponsor id="412293" joined="2015-07-22"/>
+    <cosponsor id="412487" joined="2015-04-29"/>
+    <cosponsor id="400290" joined="2015-07-20"/>
+    <cosponsor id="412302" joined="2015-07-16"/>
+    <cosponsor id="400309" joined="2015-07-16"/>
+    <cosponsor id="412306" joined="2015-03-26"/>
+    <cosponsor id="412483" joined="2015-05-20"/>
+    <cosponsor id="412310" joined="2015-05-13"/>
+    <cosponsor id="400350" joined="2015-06-11"/>
+    <cosponsor id="400352" joined="2015-07-14"/>
+    <cosponsor id="400360" joined="2015-06-15"/>
+    <cosponsor id="400363" joined="2015-06-11"/>
+    <cosponsor id="400379" joined="2015-07-23"/>
+    <cosponsor id="412217" joined="2015-07-22"/>
+    <cosponsor id="412461" joined="2015-06-01"/>
+    <cosponsor id="400403" joined="2015-06-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-10" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-03-13">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2015-07-23">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2015-07-23">
+      <text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-07-29" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup"/>
+    <committee activity="Referral, Markup, Reporting" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Child health"/>
+    <term name="Health information and medical records"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Hearing, speech, and vision care"/>
+    <term name="Medical research"/>
+    <term name="Medical tests and diagnostic methods"/>
+    <term name="Surgery and anesthesia"/>
+  </subjects>
+  <amendments/>
+</bill>

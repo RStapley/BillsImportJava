@@ -1,0 +1,34 @@
+<bill session="114" type="s" number="1478" updated="2015-07-11T06:59:39-04:00">
+  <state datetime="2015-06-02">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-02"/>
+  </status>
+  <introduced datetime="2015-06-02"/>
+  <titles>
+    <title type="short" as="introduced">Department of Defense Cyber Support to Civil Authorities Act of 2015</title>
+    <title type="official" as="introduced">A bill to require the Secretary of Defense to develop a comprehensive plan to support civil authorities in response to cyber attacks by foreign powers, and for other purposes.</title>
+  </titles>
+  <sponsor id="412669"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-06-02" state="REFERRED">
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Science, technology, communications"/>
+  </subjects>
+  <amendments/>
+  <summary>6/2/2015--Introduced.
+Department of Defense Cyber Support to Civil Authorities Act of 2015
+
+Directs the Department of Defense (DOD) to develop a comprehensive plan for the U.S. Cyber Command to support civil authorities in responding to cyber attacks by foreign powers against the United States or a U.S. person.
+
+Requires the plan to include: (1) a plan for internal DOD collective training activities to be integrated with exercises conducted with other federal agencies and state and local governments; (2) any historical frameworks used in the formulation of the plan; (3) descriptions of the roles, responsibilities, and expectations of federal, state, and local authorities, as well as the active and reserve components of the Armed Forces; and (4) any legislative and administrative actions necessary to carry out the plan.
+
+Directs the Government Accountability Office to review such plan.</summary>
+</bill>

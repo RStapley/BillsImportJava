@@ -1,0 +1,62 @@
+<bill session="114" type="hc" number="62" updated="2015-08-15T06:49:13-04:00">
+  <state datetime="2015-07-14">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-14"/>
+  </status>
+  <introduced datetime="2015-07-14"/>
+  <titles>
+    <title type="official" as="introduced">Expressing the sense of Congress that Jerusalem is the capital of Israel and therefore, consistent with the location of other United States embassies, the United States embassy in Israel should be located in Jerusalem.</title>
+  </titles>
+  <sponsor id="400032"/>
+  <cosponsors>
+    <cosponsor id="412655" joined="2015-07-14"/>
+    <cosponsor id="400018" joined="2015-07-14"/>
+    <cosponsor id="412635" joined="2015-07-14"/>
+    <cosponsor id="400046" joined="2015-07-14"/>
+    <cosponsor id="412270" joined="2015-07-14"/>
+    <cosponsor id="412526" joined="2015-07-16"/>
+    <cosponsor id="400122" joined="2015-07-14"/>
+    <cosponsor id="412275" joined="2015-07-16"/>
+    <cosponsor id="412480" joined="2015-07-14"/>
+    <cosponsor id="400141" joined="2015-07-14"/>
+    <cosponsor id="400154" joined="2015-07-29"/>
+    <cosponsor id="400158" joined="2015-07-16"/>
+    <cosponsor id="400160" joined="2015-07-14"/>
+    <cosponsor id="412661" joined="2015-07-16"/>
+    <cosponsor id="412645" joined="2015-07-14"/>
+    <cosponsor id="412444" joined="2015-07-23"/>
+    <cosponsor id="400195" joined="2015-07-23"/>
+    <cosponsor id="412460" joined="2015-07-16"/>
+    <cosponsor id="412191" joined="2015-07-14"/>
+    <cosponsor id="412295" joined="2015-07-14"/>
+    <cosponsor id="412487" joined="2015-07-23"/>
+    <cosponsor id="400279" joined="2015-07-31"/>
+    <cosponsor id="400626" joined="2015-07-14"/>
+    <cosponsor id="412310" joined="2015-07-14"/>
+    <cosponsor id="412641" joined="2015-07-14"/>
+    <cosponsor id="400606" joined="2015-07-14"/>
+    <cosponsor id="400371" joined="2015-07-14"/>
+    <cosponsor id="412574" joined="2015-07-16"/>
+    <cosponsor id="412578" joined="2015-07-14"/>
+    <cosponsor id="400433" joined="2015-07-29"/>
+    <cosponsor id="412416" joined="2015-07-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-14" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="Israel"/>
+    <term name="Middle East"/>
+  </subjects>
+  <amendments/>
+  <summary>7/14/2015--Introduced.
+It is the sense of Congress that: (1) the U.S. government should officially recognize Jerusalem as the capital of Israel, and (2) the U.S. embassy in Israel should be located in Jerusalem.</summary>
+</bill>

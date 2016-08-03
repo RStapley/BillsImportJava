@@ -1,0 +1,120 @@
+<bill session="114" type="h" number="997" updated="2015-07-29T04:47:46-04:00">
+  <state datetime="2015-02-13">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-13"/>
+  </status>
+  <introduced datetime="2015-02-13"/>
+  <titles>
+    <title type="short" as="introduced">English Language Unity Act of 2015</title>
+    <title type="official" as="introduced">To declare English as the official language of the United States, to establish a uniform English language rule for naturalization, and to avoid misconstructions of the English language texts of the laws of the United States, pursuant to Congress' powers to provide for the general welfare of the United States and to establish a uniform rule of naturalization under article I, section 8, of the Constitution.</title>
+  </titles>
+  <sponsor id="400220"/>
+  <cosponsors>
+    <cosponsor id="412625" joined="2015-04-13"/>
+    <cosponsor id="412655" joined="2015-04-21"/>
+    <cosponsor id="412469" joined="2015-03-10"/>
+    <cosponsor id="412436" joined="2015-03-16"/>
+    <cosponsor id="412250" joined="2015-07-08"/>
+    <cosponsor id="400029" joined="2015-06-01"/>
+    <cosponsor id="412478" joined="2015-03-23"/>
+    <cosponsor id="400032" joined="2015-05-13"/>
+    <cosponsor id="412395" joined="2015-02-24"/>
+    <cosponsor id="400052" joined="2015-07-21"/>
+    <cosponsor id="400057" joined="2015-06-04"/>
+    <cosponsor id="412531" joined="2015-05-13"/>
+    <cosponsor id="412472" joined="2015-02-24"/>
+    <cosponsor id="400116" joined="2015-06-01"/>
+    <cosponsor id="412479" joined="2015-04-21"/>
+    <cosponsor id="412476" joined="2015-02-27"/>
+    <cosponsor id="412275" joined="2015-07-07"/>
+    <cosponsor id="400137" joined="2015-03-17"/>
+    <cosponsor id="400643" joined="2015-05-22"/>
+    <cosponsor id="400141" joined="2015-02-24"/>
+    <cosponsor id="412463" joined="2015-03-16"/>
+    <cosponsor id="400651" joined="2015-03-13"/>
+    <cosponsor id="400158" joined="2015-04-21"/>
+    <cosponsor id="412444" joined="2015-05-15"/>
+    <cosponsor id="412429" joined="2015-03-04"/>
+    <cosponsor id="412284" joined="2015-03-23"/>
+    <cosponsor id="400206" joined="2015-03-23"/>
+    <cosponsor id="400209" joined="2015-02-26"/>
+    <cosponsor id="412566" joined="2015-02-24"/>
+    <cosponsor id="412191" joined="2015-02-24"/>
+    <cosponsor id="412256" joined="2015-04-13"/>
+    <cosponsor id="412292" joined="2015-04-21"/>
+    <cosponsor id="400656" joined="2015-03-04"/>
+    <cosponsor id="412503" joined="2015-02-24"/>
+    <cosponsor id="412295" joined="2015-02-24"/>
+    <cosponsor id="412552" joined="2015-03-04"/>
+    <cosponsor id="400276" joined="2015-04-22"/>
+    <cosponsor id="400279" joined="2015-02-26"/>
+    <cosponsor id="412662" joined="2015-07-10"/>
+    <cosponsor id="412409" joined="2015-05-13"/>
+    <cosponsor id="412443" joined="2015-02-24"/>
+    <cosponsor id="412569" joined="2015-07-28"/>
+    <cosponsor id="412309" joined="2015-03-23"/>
+    <cosponsor id="400626" joined="2015-05-13"/>
+    <cosponsor id="412310" joined="2015-02-27"/>
+    <cosponsor id="400340" joined="2015-04-23"/>
+    <cosponsor id="400341" joined="2015-02-24"/>
+    <cosponsor id="400343" joined="2015-02-24"/>
+    <cosponsor id="412570" joined="2015-05-01"/>
+    <cosponsor id="400606" joined="2015-02-24"/>
+    <cosponsor id="412581" joined="2015-02-26"/>
+    <cosponsor id="400411" joined="2015-03-10"/>
+    <cosponsor id="400627" joined="2015-04-22"/>
+    <cosponsor id="400431" joined="2015-03-04"/>
+    <cosponsor id="400433" joined="2015-05-22"/>
+    <cosponsor id="412255" joined="2015-02-26"/>
+    <cosponsor id="412640" joined="2015-04-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-13" state="REFERRED">
+      <text>Referred to the Committee on Education and the Workforce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-02-13">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+    <action datetime="2015-02-13">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2015-03-16">
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration and Border Security" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="678"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Academic performance and assessments"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Citizenship and naturalization"/>
+    <term name="Civil actions and liability"/>
+    <term name="Constitution and constitutional amendments"/>
+    <term name="Department of Homeland Security"/>
+    <term name="Foreign language and bilingual programs"/>
+    <term name="Government information and archives"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+  <summary>2/13/2015--Introduced.
+English Language Unity Act of 2015
+
+Establishes English as the official language of the United States.
+
+Requires&#160;naturalization ceremonies and official functions of the U.S. government, subject to exceptions, to&#160;be conducted in English.
+
+Declares that all citizens should be able to read and understand generally the English language text of U.S. laws.
+
+Allows a person injured by a violation of this Act to obtain relief, including a declaratory judgment, in a civil action.
+
+Declares that English language requirements and workplace policies, whether in the public or private sector,&#160;shall be presumptively consistent with U.S. laws. Requires any ambiguity in&#160;U.S. laws&#160;to be resolved in accordance with the rights retained by the people and the powers reserved to states under the Bill of Rights.
+
+Directs the Department of Homeland Security to issue a proposed rule for uniform testing of the English language ability of candidates for naturalization based upon the principles that: (1) all citizens should be able to read and understand generally the English language text of the Declaration of Independence, the Constitution, and the laws of the United States; and (2) any exceptions to this standard should be limited to extraordinary circumstances, such as asylum.</summary>
+</bill>

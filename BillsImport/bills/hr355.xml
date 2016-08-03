@@ -1,0 +1,49 @@
+<bill session="114" type="hr" number="355" updated="2015-07-25T06:18:39-04:00">
+  <state datetime="2015-07-09">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-09"/>
+  </status>
+  <introduced datetime="2015-07-09"/>
+  <titles>
+    <title type="official" as="introduced">Raising a question of the privileges of the House.</title>
+  </titles>
+  <sponsor id="400314"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-09" state="REFERRED">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+    <action datetime="2015-07-09T13:21:00-04:00">
+      <text>Considered as privileged matter.</text>
+      <reference ref="CR H4974-4976" label="consideration"/>
+      <reference ref="CR H4975" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2015-07-09T13:21:00-04:00">
+      <text>Mr. McCarthy moved to refer to House Administration.</text>
+      <reference ref="CR H4975" label="consideration"/>
+    </action>
+    <action datetime="2015-07-09T13:21:00-04:00">
+      <text>DEBATE - The House proceeded with one hour of debate on the McCarthy motion to refer H.Res. 355 to the Committee on House Administration.</text>
+    </action>
+    <action datetime="2015-07-09T13:57:00-04:00">
+      <text>The previous question on the motion to refer was Agreed to Agreed to by recorded vote: 238 - 185 (Roll no. 425).</text>
+      <reference ref="CR H4975" label="consideration"/>
+    </action>
+    <action datetime="2015-07-09T14:04:00-04:00">
+      <text>On motion to refer Agreed to by recorded vote: 238 - 176 (Roll no. 426).</text>
+    </action>
+    <action datetime="2015-07-09T14:05:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="hr" number="341"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+  </subjects>
+  <amendments/>
+</bill>

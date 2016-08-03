@@ -1,0 +1,41 @@
+<bill session="114" type="h" number="3121" updated="2015-08-05T04:47:32-04:00">
+  <state datetime="2015-07-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-21"/>
+  </status>
+  <introduced datetime="2015-07-21"/>
+  <titles>
+    <title type="short" as="introduced">Federal Land Asset Inventory Reform Act of 2015</title>
+    <title type="official" as="introduced">To improve Federal land management, resource conservation, environmental protection, and use of Federal real property, by requiring the Secretary of the Interior to develop a multipurpose cadastre of Federal real property and identifying inaccurate, duplicate, and out-of-date Federal land inventories, and for other purposes.</title>
+  </titles>
+  <sponsor id="400218"/>
+  <cosponsors>
+    <cosponsor id="412500" joined="2015-07-21"/>
+    <cosponsor id="412555" joined="2015-07-21"/>
+    <cosponsor id="412276" joined="2015-07-21"/>
+    <cosponsor id="400326" joined="2015-07-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-21" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2015-08-04">
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+    </action>
+    <action datetime="2015-08-04">
+      <text>Referred to the Subcommittee on Energy and Mineral Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="Federal Lands" name="House Natural Resources"/>
+    <committee activity="Referral" code="HSII06" subcommittee="Energy and Mineral Resources" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1225"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+</bill>

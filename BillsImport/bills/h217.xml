@@ -1,0 +1,210 @@
+<bill session="114" type="h" number="217" updated="2015-08-08T06:20:59-04:00">
+  <state datetime="2015-01-08">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-08"/>
+  </status>
+  <introduced datetime="2015-01-08"/>
+  <titles>
+    <title type="short" as="introduced">Title X Abortion Provider Prohibition Act</title>
+    <title type="official" as="introduced">To amend title X of the Public Health Service Act to prohibit family planning grants from being awarded to any entity that performs abortions, and for other purposes.</title>
+  </titles>
+  <sponsor id="412478"/>
+  <cosponsors>
+    <cosponsor id="412630" joined="2015-07-20"/>
+    <cosponsor id="400004" joined="2015-02-03"/>
+    <cosponsor id="412625" joined="2015-07-22"/>
+    <cosponsor id="412438" joined="2015-01-12"/>
+    <cosponsor id="412655" joined="2015-01-08"/>
+    <cosponsor id="412469" joined="2015-01-08"/>
+    <cosponsor id="412541" joined="2015-01-08"/>
+    <cosponsor id="412436" joined="2015-01-08"/>
+    <cosponsor id="412250" joined="2015-01-27"/>
+    <cosponsor id="412635" joined="2015-07-31"/>
+    <cosponsor id="400029" joined="2015-01-14"/>
+    <cosponsor id="400032" joined="2015-01-08"/>
+    <cosponsor id="400636" joined="2015-01-08"/>
+    <cosponsor id="400046" joined="2015-01-08"/>
+    <cosponsor id="412605" joined="2015-07-20"/>
+    <cosponsor id="412567" joined="2015-02-25"/>
+    <cosponsor id="412395" joined="2015-01-08"/>
+    <cosponsor id="412196" joined="2015-07-20"/>
+    <cosponsor id="412427" joined="2015-01-08"/>
+    <cosponsor id="412601" joined="2015-01-22"/>
+    <cosponsor id="412622" joined="2015-07-21"/>
+    <cosponsor id="400068" joined="2015-06-10"/>
+    <cosponsor id="400071" joined="2015-01-08"/>
+    <cosponsor id="412604" joined="2015-01-08"/>
+    <cosponsor id="400077" joined="2015-01-08"/>
+    <cosponsor id="412531" joined="2015-01-08"/>
+    <cosponsor id="400655" joined="2015-01-21"/>
+    <cosponsor id="412555" joined="2015-01-09"/>
+    <cosponsor id="412400" joined="2015-01-08"/>
+    <cosponsor id="400086" joined="2015-02-25"/>
+    <cosponsor id="400089" joined="2015-01-14"/>
+    <cosponsor id="412536" joined="2015-01-08"/>
+    <cosponsor id="412477" joined="2015-01-14"/>
+    <cosponsor id="412488" joined="2015-01-08"/>
+    <cosponsor id="412472" joined="2015-01-08"/>
+    <cosponsor id="400116" joined="2015-01-08"/>
+    <cosponsor id="412457" joined="2015-01-08"/>
+    <cosponsor id="412639" joined="2015-01-09"/>
+    <cosponsor id="412482" joined="2015-01-08"/>
+    <cosponsor id="412479" joined="2015-01-08"/>
+    <cosponsor id="400646" joined="2015-01-21"/>
+    <cosponsor id="412476" joined="2015-01-08"/>
+    <cosponsor id="412275" joined="2015-01-08"/>
+    <cosponsor id="412480" joined="2015-01-08"/>
+    <cosponsor id="400137" joined="2015-01-21"/>
+    <cosponsor id="400640" joined="2015-01-08"/>
+    <cosponsor id="400643" joined="2015-01-08"/>
+    <cosponsor id="400141" joined="2015-01-08"/>
+    <cosponsor id="400145" joined="2015-01-08"/>
+    <cosponsor id="412463" joined="2015-01-08"/>
+    <cosponsor id="412397" joined="2015-01-08"/>
+    <cosponsor id="412473" joined="2015-01-21"/>
+    <cosponsor id="400158" joined="2015-01-08"/>
+    <cosponsor id="412388" joined="2015-01-09"/>
+    <cosponsor id="412661" joined="2015-01-08"/>
+    <cosponsor id="412278" joined="2015-01-21"/>
+    <cosponsor id="412280" joined="2015-01-08"/>
+    <cosponsor id="412434" joined="2015-01-08"/>
+    <cosponsor id="412444" joined="2015-01-08"/>
+    <cosponsor id="400175" joined="2015-03-25"/>
+    <cosponsor id="412623" joined="2015-01-27"/>
+    <cosponsor id="412609" joined="2015-01-14"/>
+    <cosponsor id="412553" joined="2015-01-21"/>
+    <cosponsor id="412550" joined="2015-01-21"/>
+    <cosponsor id="412429" joined="2015-01-08"/>
+    <cosponsor id="412437" joined="2015-01-08"/>
+    <cosponsor id="412422" joined="2015-01-08"/>
+    <cosponsor id="412283" joined="2015-07-22"/>
+    <cosponsor id="412284" joined="2015-03-25"/>
+    <cosponsor id="412460" joined="2015-01-08"/>
+    <cosponsor id="400206" joined="2015-01-08"/>
+    <cosponsor id="412603" joined="2015-01-08"/>
+    <cosponsor id="400209" joined="2015-01-08"/>
+    <cosponsor id="412226" joined="2015-01-08"/>
+    <cosponsor id="412465" joined="2015-01-08"/>
+    <cosponsor id="412673" joined="2015-07-20"/>
+    <cosponsor id="400220" joined="2015-01-08"/>
+    <cosponsor id="400224" joined="2015-01-14"/>
+    <cosponsor id="412614" joined="2015-07-29"/>
+    <cosponsor id="412510" joined="2015-07-20"/>
+    <cosponsor id="412191" joined="2015-01-08"/>
+    <cosponsor id="412256" joined="2015-01-14"/>
+    <cosponsor id="400630" joined="2015-01-14"/>
+    <cosponsor id="412445" joined="2015-01-21"/>
+    <cosponsor id="400247" joined="2015-03-17"/>
+    <cosponsor id="412292" joined="2015-01-21"/>
+    <cosponsor id="400656" joined="2015-01-08"/>
+    <cosponsor id="412468" joined="2015-01-12"/>
+    <cosponsor id="412503" joined="2015-01-08"/>
+    <cosponsor id="400654" joined="2015-01-12"/>
+    <cosponsor id="412295" joined="2015-01-08"/>
+    <cosponsor id="400644" joined="2015-01-14"/>
+    <cosponsor id="412487" joined="2015-01-08"/>
+    <cosponsor id="400659" joined="2015-01-08"/>
+    <cosponsor id="412552" joined="2015-07-21"/>
+    <cosponsor id="412540" joined="2015-01-14"/>
+    <cosponsor id="400273" joined="2015-01-08"/>
+    <cosponsor id="400276" joined="2015-01-14"/>
+    <cosponsor id="400279" joined="2015-01-27"/>
+    <cosponsor id="412634" joined="2015-01-21"/>
+    <cosponsor id="412662" joined="2015-02-03"/>
+    <cosponsor id="412568" joined="2015-01-14"/>
+    <cosponsor id="412474" joined="2015-03-17"/>
+    <cosponsor id="400285" joined="2015-01-08"/>
+    <cosponsor id="400441" joined="2015-01-08"/>
+    <cosponsor id="412660" joined="2015-07-23"/>
+    <cosponsor id="412475" joined="2015-01-08"/>
+    <cosponsor id="412442" joined="2015-01-14"/>
+    <cosponsor id="412302" joined="2015-01-08"/>
+    <cosponsor id="412443" joined="2015-01-14"/>
+    <cosponsor id="412608" joined="2015-07-15"/>
+    <cosponsor id="400313" joined="2015-01-08"/>
+    <cosponsor id="412569" joined="2015-03-17"/>
+    <cosponsor id="412551" joined="2015-01-08"/>
+    <cosponsor id="400320" joined="2015-01-08"/>
+    <cosponsor id="400652" joined="2015-01-08"/>
+    <cosponsor id="412431" joined="2015-02-09"/>
+    <cosponsor id="400626" joined="2015-01-08"/>
+    <cosponsor id="412653" joined="2015-01-27"/>
+    <cosponsor id="412489" joined="2015-01-08"/>
+    <cosponsor id="412572" joined="2015-07-21"/>
+    <cosponsor id="412394" joined="2015-01-08"/>
+    <cosponsor id="412310" joined="2015-01-08"/>
+    <cosponsor id="400340" joined="2015-01-14"/>
+    <cosponsor id="400341" joined="2015-01-12"/>
+    <cosponsor id="412426" joined="2015-01-27"/>
+    <cosponsor id="412202" joined="2015-01-08"/>
+    <cosponsor id="412570" joined="2015-01-14"/>
+    <cosponsor id="412641" joined="2015-01-09"/>
+    <cosponsor id="412650" joined="2015-03-17"/>
+    <cosponsor id="400351" joined="2015-02-09"/>
+    <cosponsor id="412261" joined="2015-01-08"/>
+    <cosponsor id="412314" joined="2015-01-08"/>
+    <cosponsor id="412399" joined="2015-01-08"/>
+    <cosponsor id="412417" joined="2015-01-27"/>
+    <cosponsor id="400365" joined="2015-01-21"/>
+    <cosponsor id="400367" joined="2015-06-10"/>
+    <cosponsor id="400373" joined="2015-01-22"/>
+    <cosponsor id="409888" joined="2015-01-21"/>
+    <cosponsor id="400376" joined="2015-01-08"/>
+    <cosponsor id="412217" joined="2015-01-12"/>
+    <cosponsor id="400380" joined="2015-01-08"/>
+    <cosponsor id="412596" joined="2015-01-12"/>
+    <cosponsor id="412581" joined="2015-07-21"/>
+    <cosponsor id="412461" joined="2015-07-22"/>
+    <cosponsor id="412392" joined="2015-07-21"/>
+    <cosponsor id="412317" joined="2015-01-08"/>
+    <cosponsor id="400406" joined="2015-01-08"/>
+    <cosponsor id="400411" joined="2015-01-21"/>
+    <cosponsor id="412548" joined="2015-01-08"/>
+    <cosponsor id="412213" joined="2015-01-14"/>
+    <cosponsor id="412670" joined="2015-01-08"/>
+    <cosponsor id="412538" joined="2015-01-08"/>
+    <cosponsor id="412564" joined="2015-01-08"/>
+    <cosponsor id="412610" joined="2015-01-08"/>
+    <cosponsor id="400627" joined="2015-01-21"/>
+    <cosponsor id="400431" joined="2015-01-08"/>
+    <cosponsor id="412578" joined="2015-01-21"/>
+    <cosponsor id="400433" joined="2015-01-12"/>
+    <cosponsor id="412255" joined="2015-03-17"/>
+    <cosponsor id="412402" joined="2015-01-27"/>
+    <cosponsor id="412430" joined="2015-01-08"/>
+    <cosponsor id="412525" joined="2015-01-08"/>
+    <cosponsor id="412628" joined="2015-07-29"/>
+    <cosponsor id="412428" joined="2015-01-08"/>
+    <cosponsor id="400379" joined="2015-01-09" withdrawn="2015-01-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-08" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-01-09">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="51"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Abortion"/>
+    <term name="Congressional oversight"/>
+    <term name="Family planning and birth control"/>
+    <term name="Health facilities and institutions"/>
+    <term name="Health programs administration and funding"/>
+  </subjects>
+  <amendments/>
+  <summary>1/8/2015--Introduced.
+Title X Abortion Provider Prohibition Act
+
+Amends the Public Health Service Act to prohibit the Department of Health and Human Service (HHS) from providing federal family planning assistance to an entity unless the entity certifies that, during the period of assistance, the entity will not perform, and will not provide funds to any other entity that performs, an abortion. Excludes an abortion where: (1) the pregnancy is the result of rape or incest; or (2) a physician certifies that the woman suffered from a physical disorder, injury, or illness that would place the woman in danger of death unless an abortion is performed, including a condition caused by or arising from the pregnancy. Excludes hospitals that do not provide funds to non-hospital entities that perform abortions.
+
+Requires HHS to provide Congress annually: (1) information on grantees who performed abortions under the exceptions, and (2) a list of entities to which grant funds are made available.</summary>
+</bill>

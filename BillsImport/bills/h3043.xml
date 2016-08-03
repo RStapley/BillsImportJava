@@ -1,0 +1,32 @@
+<bill session="114" type="h" number="3043" updated="2015-08-22T06:44:46-04:00">
+  <state datetime="2015-07-13">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-13"/>
+  </status>
+  <introduced datetime="2015-07-13"/>
+  <titles>
+    <title type="short" as="introduced">Tribal Tax Incentive for Renewable Energy Act of 2015</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to allow allocation of certain renewable energy tax credits to Indian tribes, and for other purposes.</title>
+  </titles>
+  <sponsor id="400162"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-13" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="1749"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+  <summary>7/13/2015--Introduced.
+Tribal Tax Incentive for Renewable Energy Act of 2015
+
+This bill amends the Internal Revenue Code to&#160;allow Indian tribes an election to transfer a portion of the energy tax credit to another taxpayer.</summary>
+</bill>

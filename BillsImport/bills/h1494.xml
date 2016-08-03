@@ -1,0 +1,30 @@
+<bill session="114" type="h" number="1494" updated="2015-05-16T06:30:12-04:00">
+  <state datetime="2015-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-19"/>
+  </status>
+  <introduced datetime="2015-03-19"/>
+  <titles>
+    <title type="short" as="introduced">Retirement Health Savings Act of 2015</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to permit rollovers from retirement plans to health savings accounts.</title>
+  </titles>
+  <sponsor id="400640"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-03-19" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+  <summary>3/19/2015--Introduced.
+Retirement Health Savings Act of 2015
+
+This bill amends the Internal Revenue Code to exclude from gross income, for income tax purposes, distributions from certain tax-exempt retirement plans to a heath savings account in which an individual who is covered by a high deductible health care plan is participating (qualified HSA funding distribution). The bill also exempts such&#160;distributions from the 10% penalty for&#160;premature retirement plan distributions.</summary>
+</bill>

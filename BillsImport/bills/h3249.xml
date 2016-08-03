@@ -1,0 +1,33 @@
+<bill session="114" type="h" number="3249" updated="2015-08-18T04:46:56-04:00">
+  <state datetime="2015-07-28">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-28"/>
+  </status>
+  <introduced datetime="2015-07-28"/>
+  <titles>
+    <title type="short" as="introduced">Mid-Mississippi Conservation, Recreation, and Development Act of 2015</title>
+    <title type="official" as="introduced">To direct the Secretary of Agriculture to convey to the Pat Harrison Waterway District approximately 8,307 acres of National Forest System land within the Bienville National Forests in Mississippi, and for other purposes.</title>
+  </titles>
+  <sponsor id="412280"/>
+  <cosponsors>
+    <cosponsor id="412673" joined="2015-07-28"/>
+    <cosponsor id="412443" joined="2015-07-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-28" state="REFERRED">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+    <action datetime="2015-08-17">
+      <text>Referred to the Subcommittee on Conservation and Forestry.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee activity="Referral" code="HSAG15" subcommittee="Conservation and Forestry" name="House Agriculture"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+</bill>

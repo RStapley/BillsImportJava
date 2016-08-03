@@ -1,0 +1,35 @@
+<bill session="114" type="s" number="1965" updated="2015-08-22T07:08:12-04:00">
+  <state datetime="2015-08-05">REFERRED</state>
+  <status>
+    <introduced datetime="2015-08-05"/>
+  </status>
+  <introduced datetime="2015-08-05"/>
+  <titles>
+    <title type="short" as="introduced">Maintaining dignity and Eliminating unnecessary Restrictive Confinement of Youths Act of 2015</title>
+    <title type="short" as="introduced">MERCY Act</title>
+    <title type="official" as="introduced">A bill to place restrictions on the use of solitary confinement for juveniles in Federal custody.</title>
+  </titles>
+  <sponsor id="412598"/>
+  <cosponsors>
+    <cosponsor id="300038" joined="2015-08-05"/>
+    <cosponsor id="412495" joined="2015-08-05"/>
+    <cosponsor id="412492" joined="2015-08-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-08-05">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S6387-6388"/>
+    </action>
+    <action datetime="2015-08-05" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+  </subjects>
+  <amendments/>
+</bill>

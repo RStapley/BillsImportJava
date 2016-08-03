@@ -1,0 +1,223 @@
+<bill session="114" type="h" number="2647" updated="2015-08-08T06:41:27-04:00">
+  <state datetime="2015-07-09T17:46:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2015-07-09T17:46:00-04:00"/>
+  </status>
+  <introduced datetime="2015-06-04"/>
+  <titles>
+    <title type="short" as="introduced">Resilient Federal Forests Act of 2015</title>
+    <title type="short" as="reported to house">Resilient Federal Forests Act of 2015</title>
+    <title type="short" as="passed house">Resilient Federal Forests Act of 2015</title>
+    <title type="official" as="introduced">To expedite under the National Environmental Policy Act and improve forest management activities in units of the National Forest System derived from the public domain, on public lands under the jurisdiction of the Bureau of Land Management, and on tribal lands to return resilience to overgrown, fire-prone forested lands, and for other purposes.</title>
+    <title type="official" as="amended by house">To expedite under the National Environmental Policy Act of 1969 and improve forest management activities on National Forest System lands, on public lands under the jurisdiction of the Bureau of Land Management, and on tribal lands to return resilience to overgrown, fire-prone forested lands, and for other purposes.</title>
+  </titles>
+  <sponsor id="412610"/>
+  <cosponsors>
+    <cosponsor id="412630" joined="2015-06-11"/>
+    <cosponsor id="412436" joined="2015-06-25"/>
+    <cosponsor id="412397" joined="2015-06-09"/>
+    <cosponsor id="412286" joined="2015-06-04"/>
+    <cosponsor id="412510" joined="2015-06-11"/>
+    <cosponsor id="412295" joined="2015-06-16"/>
+    <cosponsor id="400659" joined="2015-06-18"/>
+    <cosponsor id="412608" joined="2015-06-25"/>
+    <cosponsor id="412489" joined="2015-06-12"/>
+    <cosponsor id="400376" joined="2015-06-25"/>
+    <cosponsor id="412317" joined="2015-06-04"/>
+    <cosponsor id="412405" joined="2015-06-16"/>
+    <cosponsor id="412640" joined="2015-06-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-04" state="REFERRED">
+      <text>Referred to the Committee on Agriculture, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-06-04">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2015-06-04">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2015-06-09">
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+    </action>
+    <action datetime="2015-06-09">
+      <text>Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.</text>
+    </action>
+    <action datetime="2015-06-10">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2015-06-11">
+      <text>Subcommittee on Federal Lands Discharged.</text>
+    </action>
+    <action datetime="2015-06-11">
+      <text>Subcommittee on Indian, Insular and Alaska Native Affairs Discharged.</text>
+    </action>
+    <action datetime="2015-06-11">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-06-11" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 22 - 15.</text>
+    </calendar>
+    <action datetime="2015-06-17">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-06-17">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+    <action datetime="2015-06-25T15:42:00-04:00">
+      <text>Reported (Amended) by the Committee on Agriculture. H. Rept. 114-185, Part I.</text>
+    </action>
+    <action datetime="2015-06-25T15:46:00-04:00">
+      <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-185, Part II.</text>
+    </action>
+    <calendar datetime="2015-06-25T15:47:00-04:00" calendar="Union" number="137">
+      <text>Placed on the Union Calendar, Calendar No. 137.</text>
+    </calendar>
+    <action datetime="2015-07-07T19:31:00-04:00">
+      <text>Rules Committee Resolution H. Res. 347 Reported to House. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Providing for consideration of H.R. 5 and H.R. 2647.</text>
+    </action>
+    <action datetime="2015-07-08T14:19:00-04:00">
+      <text>Rule H. Res. 347 passed House.</text>
+    </action>
+    <action datetime="2015-07-09T15:23:00-04:00">
+      <text>Considered under the provisions of rule H. Res. 347.</text>
+      <reference ref="CR H4985-4986" label="consideration"/>
+    </action>
+    <action datetime="2015-07-09T15:23:00-04:00">
+      <text>Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Providing for consideration of H.R. 5 and H.R. 2647.</text>
+    </action>
+    <action datetime="2015-07-09T15:23:00-04:00">
+      <text>House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 347 and Rule XVIII.</text>
+    </action>
+    <action datetime="2015-07-09T15:23:00-04:00">
+      <text>The Speaker designated the Honorable George Holding to act as Chairman of the Committee.</text>
+    </action>
+    <action datetime="2015-07-09T15:24:00-04:00">
+      <text>GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 2647.</text>
+    </action>
+    <action datetime="2015-07-09T16:20:00-04:00">
+      <text>Mr. Bishop (UT) moved that the Committee now rise.</text>
+    </action>
+    <action datetime="2015-07-09T16:20:00-04:00">
+      <text>On motion that the Committee now rise Agreed to by voice vote.</text>
+    </action>
+    <action datetime="2015-07-09T16:21:00-04:00">
+      <text>Committee of the Whole House on the state of the Union rises leaving H.R. 2647 as unfinished business.</text>
+    </action>
+    <action datetime="2015-07-09T16:22:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H4987-4993, H4993-5007" label="consideration"/>
+    </action>
+    <action datetime="2015-07-09T16:22:00-04:00">
+      <text>The House resolved into Committee of the Whole House on the state of the Union for further consideration.</text>
+    </action>
+    <action datetime="2015-07-09T16:22:00-04:00">
+      <text>GENERAL DEBATE - The Committee of the Whole continued with the remaining 12 1/2 minutes of general debate on H.R. 2647.</text>
+    </action>
+    <action datetime="2015-07-09T16:37:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 347, the Committee of the Whole proceeded with 10 minutes of debate on the part C Polis amendment No. 1.</text>
+    </action>
+    <action datetime="2015-07-09T16:48:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Polis amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Polis demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2015-07-09T16:50:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 347, the Committee of the Whole proceeded with 10 minutes of debate on the part C Tipton amendment No.2.</text>
+    </action>
+    <action datetime="2015-07-09T16:53:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 347, the Committee of the Whole proceeded with 10 minutes of debate on the part C Lujan Grisham amendment No. 3.</text>
+    </action>
+    <action datetime="2015-07-09T17:00:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 347, the Committee of the Whole proceed with 10 minutes of debate on the part C Kilmer amendment No. 4.</text>
+    </action>
+    <action datetime="2015-07-09T17:07:00-04:00">
+      <text>UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of an amendment which had been debated earlier and which further proceedings had been postponed.</text>
+    </action>
+    <action datetime="2015-07-09T17:37:00-04:00">
+      <text>The House rose from the Committee of the Whole House on the state of the Union to report H.R. 2647.</text>
+    </action>
+    <action datetime="2015-07-09T17:38:00-04:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+      <reference ref="CR H5006" label="consideration"/>
+    </action>
+    <action datetime="2015-07-09T17:38:00-04:00">
+      <text>The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union.</text>
+      <reference ref="CR H4995-5002" label="text of amendment in the nature of a substitute"/>
+    </action>
+    <vote how="roll" type="vote" roll="428" datetime="2015-07-09T17:46:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by recorded vote: 262 - 167 (Roll no. 428).</text>
+    </vote>
+    <action datetime="2015-07-09T17:46:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2015-07-09T17:47:00-04:00">
+      <text>The title of the measure was amended. Agreed to without objection.</text>
+    </action>
+    <action datetime="2015-07-13">
+      <text>Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, Markup, Reporting"/>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSII10" subcommittee="Federal Lands" name="House Natural Resources"/>
+    <committee activity="Referral, Discharged" code="HSII24" subcommittee="Indian, Insular and Alaska Native Affairs" name="House Natural Resources"/>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="hr" number="347"/>
+    <bill relation="rule" session="114" type="hr" number="347"/>
+    <bill relation="unknown" session="114" type="h" number="2644"/>
+    <bill relation="unknown" session="114" type="h" number="2996"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments>
+    <amendment number="h652"/>
+    <amendment number="h653"/>
+    <amendment number="h654"/>
+    <amendment number="h655"/>
+  </amendments>
+  <summary>6/4/2015--Introduced.
+Resilient Federal Forests Act of 2015
+
+This bill shall apply whenever the Department concerned, either the Department of Agriculture (USDA) with respect to National Forest System land or the Department of the Interior with respect to public lands, prepares an environmental assessment or an environmental impact statement pursuant to the National Environmental Policy Act of 1969 for a forest management activity that:
+
+ is developed through a collaborative process; is proposed by a resource advisory committee; or is covered by a community wildfire protection plan. In such an environmental assessment or environmental impact statement, the Department concerned shall study, develop, and describe only these two alternatives:
+
+ the forest management activity proposed, and the alternative of no action. In the case of the alternative of no action, the Department concerned shall evaluate:
+
+ the effect of no action on forest health, habitat diversity, wildfire potential, and insect and disease potential; and the implications of a resulting decline in forest health, loss of habitat diversity, wildfire, or insect or disease infestation on domestic water costs, wildlife habitat loss, and other economic and social factors. A categorical exclusion is made available to the Department concerned to: (1) expedite specified critical response actions, (2) expedite salvage operations in response to catastrophic events, and (3) meet forest plan goals for early successional forests.
+
+(A "categorical exclusion" under NEPA is a category of actions which do not individually or cumulatively have a significant effect on the human environment and which have been found to have no such effect in procedures adopted by a federal agency in implementing environmental regulations and for which, therefore, neither an Environmental Assessment nor an Environmental Impact Statement is required.)
+
+Any environmental assessment for a salvage operation or reforestation activity proposed to be conducted on National Forest System lands or public lands impacted by a large-scale catastrophic event shall be completed within three months after that event.
+
+Any plaintiffs challenging a forest management activity developed through a collaborative process or proposed by a resource advisory committee shall be required to post a bond or other security. Repeals the Merchantable Timber Contracting Pilot Program under the Secure Rural Schools and Community Self-Determination Act of 2000.
+
+The Department concerned shall ensure that at least 50% of the project funds reserved by a participating county for carrying out a special project on federal land or certain nonfederal land under the same Act shall be made available only for projects that:
+
+ include the sale of timber or other forest products; and implement stewardship objectives that enhance forest ecosystems or restore and improve land health and water quality. The membership of a new resource advisory committee may lower from 15 to a minimum of six during a specified period ending September 30, 2020.
+
+The Forest Service shall conduct a self-sustaining resource advisory committee (RAC) program under which 10 RACs will propose projects intended to:
+
+ accomplish forest management objectives or support community development, and generate receipts. A participating county shall be allowed to use certain funds to: (1) reimburse the county for law enforcement patrols performed on federal land, and (2) cover training costs and equipment purchases directly related to emergency services.
+
+The Forest Service and the Bureau of Land Management under the Healthy Forests Restoration Act of 2003 may obligate funds to cover potential cancellation or termination costs for an agreement or contract for stewardship end result contracting projects.
+
+Monies from an agreement or contract for a stewardship contracting project shall be available for expenditure without further appropriation to cover up to 25% of the cost of planning additional such projects.
+
+The Collaborative Forest Landscape Restoration Fund shall be used to pay up to 50% of the costs of planning ecological restoration treatments on National Forest System land for each proposal selected under the Collaborative Forest Landscape Restoration Program.
+
+The State-Supported Forest Management Fund is established in the Treasury to cover the costs of the Department concerned to plan, carry out, and monitor a forest management activity on National Forest System or public land which is developed through a collaborative process, proposed by a resource advisory committee, or covered by a community wildfire protection plan.
+
+ The Department of the Interior shall take specified administrative action under the Tribal Forest Protection Act of 2004 within 120 days of receiving a request from an Indian Tribe to enter into an agreement or contract to carry out a project to protect Indian forest land or rangeland (including bordering or adjacent federal land).
+
+The Secretary concerned may treat federal forest land as Indian forest land for purposes of planning and conducting forest land management activities under the National Indian Forest Resources Management Act if the federal forest land is located within a specified area.
+
+Courts reviewing an agency action shall balance short- and long-term effects of forest management activities in considering injunctive relief. The Forest Supervisor of a National Forest System unit must perform certain tasks when considering whether to decommission a defined maintenance level one or two system road within a designated high fire-prone area. USDA may not apply to National Forest System lands any of the amendments to forest plans adopted in the Eastside Screens requirements.
+
+USDA shall require, under the Knutson-Vanderburg Act, each purchaser of national-forest timber to make certain deposits of money in addition to the payments for the timber to cover the cost to the federal government of certain forest land management activities.
+
+National Wilderness Preservation System lands meeting certain criteria are exempt from this Act.</summary>
+</bill>

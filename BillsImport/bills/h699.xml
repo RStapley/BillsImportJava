@@ -1,0 +1,350 @@
+<bill session="114" type="h" number="699" updated="2015-07-30T04:48:04-04:00">
+  <state datetime="2015-02-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-04"/>
+  </status>
+  <introduced datetime="2015-02-04"/>
+  <titles>
+    <title type="short" as="introduced">Email Privacy Act</title>
+    <title type="official" as="introduced">To amend title 18, United States Code, to update the privacy protections for electronic communications information that is stored by third-party service providers in order to protect consumer privacy interests while meeting law enforcement needs, and for other purposes.</title>
+  </titles>
+  <sponsor id="412430"/>
+  <cosponsors>
+    <cosponsor id="400004" joined="2015-02-04"/>
+    <cosponsor id="412625" joined="2015-02-04"/>
+    <cosponsor id="412438" joined="2015-02-04"/>
+    <cosponsor id="412500" joined="2015-02-04"/>
+    <cosponsor id="412655" joined="2015-02-04"/>
+    <cosponsor id="412469" joined="2015-02-04"/>
+    <cosponsor id="412541" joined="2015-02-04"/>
+    <cosponsor id="400018" joined="2015-02-04"/>
+    <cosponsor id="412404" joined="2015-07-28"/>
+    <cosponsor id="412436" joined="2015-02-04"/>
+    <cosponsor id="412657" joined="2015-02-04"/>
+    <cosponsor id="412250" joined="2015-02-04"/>
+    <cosponsor id="412635" joined="2015-06-25"/>
+    <cosponsor id="400029" joined="2015-02-04"/>
+    <cosponsor id="400030" joined="2015-02-09"/>
+    <cosponsor id="412478" joined="2015-02-04"/>
+    <cosponsor id="400032" joined="2015-02-04"/>
+    <cosponsor id="412627" joined="2015-02-04"/>
+    <cosponsor id="400033" joined="2015-05-14"/>
+    <cosponsor id="412501" joined="2015-02-04"/>
+    <cosponsor id="412629" joined="2015-05-12"/>
+    <cosponsor id="400636" joined="2015-02-04"/>
+    <cosponsor id="400046" joined="2015-02-04"/>
+    <cosponsor id="412605" joined="2015-03-04"/>
+    <cosponsor id="412567" joined="2015-07-27"/>
+    <cosponsor id="412395" joined="2015-02-04"/>
+    <cosponsor id="400048" joined="2015-02-04"/>
+    <cosponsor id="412516" joined="2015-02-04"/>
+    <cosponsor id="412196" joined="2015-02-04"/>
+    <cosponsor id="412427" joined="2015-02-04"/>
+    <cosponsor id="400052" joined="2015-02-04"/>
+    <cosponsor id="400616" joined="2015-02-09"/>
+    <cosponsor id="412601" joined="2015-02-04"/>
+    <cosponsor id="400057" joined="2015-02-04"/>
+    <cosponsor id="400062" joined="2015-02-04"/>
+    <cosponsor id="400063" joined="2015-02-04"/>
+    <cosponsor id="412517" joined="2015-02-04"/>
+    <cosponsor id="412258" joined="2015-06-16"/>
+    <cosponsor id="412622" joined="2015-02-04"/>
+    <cosponsor id="412571" joined="2015-02-04"/>
+    <cosponsor id="400071" joined="2015-02-04"/>
+    <cosponsor id="412270" joined="2015-02-04"/>
+    <cosponsor id="412379" joined="2015-02-04"/>
+    <cosponsor id="412470" joined="2015-02-04"/>
+    <cosponsor id="412600" joined="2015-02-04"/>
+    <cosponsor id="412221" joined="2015-02-04"/>
+    <cosponsor id="412604" joined="2015-02-04"/>
+    <cosponsor id="400639" joined="2015-02-04"/>
+    <cosponsor id="412236" joined="2015-02-04"/>
+    <cosponsor id="400077" joined="2015-02-04"/>
+    <cosponsor id="412563" joined="2015-02-04"/>
+    <cosponsor id="412531" joined="2015-03-13"/>
+    <cosponsor id="412658" joined="2015-04-13"/>
+    <cosponsor id="400655" joined="2015-05-20"/>
+    <cosponsor id="412272" joined="2015-02-04"/>
+    <cosponsor id="400080" joined="2015-02-04"/>
+    <cosponsor id="412651" joined="2015-02-05"/>
+    <cosponsor id="412555" joined="2015-02-04"/>
+    <cosponsor id="400086" joined="2015-02-04"/>
+    <cosponsor id="400089" joined="2015-02-04"/>
+    <cosponsor id="400090" joined="2015-02-04"/>
+    <cosponsor id="412621" joined="2015-02-04"/>
+    <cosponsor id="400093" joined="2015-02-04"/>
+    <cosponsor id="412536" joined="2015-02-04"/>
+    <cosponsor id="400100" joined="2015-02-04"/>
+    <cosponsor id="400101" joined="2015-02-04"/>
+    <cosponsor id="412505" joined="2015-02-04"/>
+    <cosponsor id="412403" joined="2015-02-04"/>
+    <cosponsor id="400648" joined="2015-02-04"/>
+    <cosponsor id="412613" joined="2015-02-04"/>
+    <cosponsor id="412477" joined="2015-02-04"/>
+    <cosponsor id="412385" joined="2015-02-04"/>
+    <cosponsor id="400108" joined="2015-02-04"/>
+    <cosponsor id="412637" joined="2015-07-29"/>
+    <cosponsor id="400111" joined="2015-02-24"/>
+    <cosponsor id="412420" joined="2015-02-04"/>
+    <cosponsor id="400114" joined="2015-02-04"/>
+    <cosponsor id="412533" joined="2015-02-04"/>
+    <cosponsor id="412488" joined="2015-02-04"/>
+    <cosponsor id="412472" joined="2015-02-04"/>
+    <cosponsor id="400116" joined="2015-02-04"/>
+    <cosponsor id="412263" joined="2015-02-04"/>
+    <cosponsor id="412215" joined="2015-02-04"/>
+    <cosponsor id="412457" joined="2015-02-04"/>
+    <cosponsor id="412639" joined="2015-02-04"/>
+    <cosponsor id="400122" joined="2015-06-01"/>
+    <cosponsor id="400124" joined="2015-02-04"/>
+    <cosponsor id="412524" joined="2015-02-04"/>
+    <cosponsor id="412482" joined="2015-02-04"/>
+    <cosponsor id="400129" joined="2015-02-04"/>
+    <cosponsor id="400130" joined="2015-02-12"/>
+    <cosponsor id="412479" joined="2015-06-23"/>
+    <cosponsor id="400646" joined="2015-02-04"/>
+    <cosponsor id="412476" joined="2015-02-04"/>
+    <cosponsor id="412275" joined="2015-05-20"/>
+    <cosponsor id="412480" joined="2015-02-04"/>
+    <cosponsor id="400640" joined="2015-02-04"/>
+    <cosponsor id="412257" joined="2015-05-13"/>
+    <cosponsor id="400141" joined="2015-02-04"/>
+    <cosponsor id="400142" joined="2015-02-04"/>
+    <cosponsor id="412327" joined="2015-02-04"/>
+    <cosponsor id="412532" joined="2015-02-04"/>
+    <cosponsor id="412382" joined="2015-02-04"/>
+    <cosponsor id="400145" joined="2015-02-04"/>
+    <cosponsor id="412463" joined="2015-02-04"/>
+    <cosponsor id="412453" joined="2015-02-04"/>
+    <cosponsor id="412397" joined="2015-02-04"/>
+    <cosponsor id="412473" joined="2015-02-04"/>
+    <cosponsor id="400157" joined="2015-02-04"/>
+    <cosponsor id="412388" joined="2015-02-04"/>
+    <cosponsor id="400653" joined="2015-07-08"/>
+    <cosponsor id="400160" joined="2015-02-24"/>
+    <cosponsor id="412485" joined="2015-07-09"/>
+    <cosponsor id="400162" joined="2015-02-04"/>
+    <cosponsor id="412661" joined="2015-02-04"/>
+    <cosponsor id="412447" joined="2015-02-04"/>
+    <cosponsor id="412278" joined="2015-02-04"/>
+    <cosponsor id="412454" joined="2015-02-04"/>
+    <cosponsor id="412434" joined="2015-02-04"/>
+    <cosponsor id="412444" joined="2015-02-04"/>
+    <cosponsor id="400170" joined="2015-02-04"/>
+    <cosponsor id="400175" joined="2015-02-05"/>
+    <cosponsor id="412486" joined="2015-02-04"/>
+    <cosponsor id="412609" joined="2015-02-04"/>
+    <cosponsor id="412282" joined="2015-02-04"/>
+    <cosponsor id="400185" joined="2015-02-04"/>
+    <cosponsor id="412550" joined="2015-02-04"/>
+    <cosponsor id="412429" joined="2015-02-04"/>
+    <cosponsor id="412437" joined="2015-02-04"/>
+    <cosponsor id="412422" joined="2015-02-04"/>
+    <cosponsor id="412283" joined="2015-02-04"/>
+    <cosponsor id="412654" joined="2015-02-04"/>
+    <cosponsor id="400195" joined="2015-02-04"/>
+    <cosponsor id="400199" joined="2015-02-04"/>
+    <cosponsor id="412561" joined="2015-07-20"/>
+    <cosponsor id="412284" joined="2015-02-04"/>
+    <cosponsor id="412460" joined="2015-02-26"/>
+    <cosponsor id="400204" joined="2015-02-17"/>
+    <cosponsor id="412199" joined="2015-02-04"/>
+    <cosponsor id="412603" joined="2015-02-04"/>
+    <cosponsor id="400209" joined="2015-02-04"/>
+    <cosponsor id="412226" joined="2015-02-04"/>
+    <cosponsor id="412566" joined="2015-02-04"/>
+    <cosponsor id="400211" joined="2015-02-04"/>
+    <cosponsor id="412649" joined="2015-04-13"/>
+    <cosponsor id="412465" joined="2015-05-20"/>
+    <cosponsor id="412583" joined="2015-02-04"/>
+    <cosponsor id="412421" joined="2015-02-04"/>
+    <cosponsor id="412557" joined="2015-02-04"/>
+    <cosponsor id="412419" joined="2015-02-04"/>
+    <cosponsor id="412510" joined="2015-02-04"/>
+    <cosponsor id="412290" joined="2015-02-04"/>
+    <cosponsor id="412256" joined="2015-02-04"/>
+    <cosponsor id="412638" joined="2015-04-13"/>
+    <cosponsor id="400237" joined="2015-02-04"/>
+    <cosponsor id="400238" joined="2015-02-04"/>
+    <cosponsor id="400240" joined="2015-02-04"/>
+    <cosponsor id="412616" joined="2015-02-10"/>
+    <cosponsor id="400630" joined="2015-02-04"/>
+    <cosponsor id="400244" joined="2015-02-04"/>
+    <cosponsor id="412445" joined="2015-02-04"/>
+    <cosponsor id="412624" joined="2015-02-04"/>
+    <cosponsor id="412656" joined="2015-02-04"/>
+    <cosponsor id="412521" joined="2015-02-04"/>
+    <cosponsor id="400247" joined="2015-06-18"/>
+    <cosponsor id="412292" joined="2015-02-04"/>
+    <cosponsor id="412558" joined="2015-02-04"/>
+    <cosponsor id="412293" joined="2015-02-04"/>
+    <cosponsor id="412294" joined="2015-02-04"/>
+    <cosponsor id="412643" joined="2015-05-20"/>
+    <cosponsor id="412562" joined="2015-03-13"/>
+    <cosponsor id="400656" joined="2015-02-04"/>
+    <cosponsor id="412468" joined="2015-02-04"/>
+    <cosponsor id="412503" joined="2015-02-04"/>
+    <cosponsor id="412295" joined="2015-02-04"/>
+    <cosponsor id="400259" joined="2015-02-04"/>
+    <cosponsor id="400262" joined="2015-02-04"/>
+    <cosponsor id="400263" joined="2015-02-04"/>
+    <cosponsor id="400644" joined="2015-02-04"/>
+    <cosponsor id="412487" joined="2015-02-04"/>
+    <cosponsor id="400659" joined="2015-03-13"/>
+    <cosponsor id="412189" joined="2015-02-04"/>
+    <cosponsor id="412611" joined="2015-04-13"/>
+    <cosponsor id="412552" joined="2015-02-04"/>
+    <cosponsor id="412466" joined="2015-02-04"/>
+    <cosponsor id="400271" joined="2015-02-04"/>
+    <cosponsor id="412540" joined="2015-02-04"/>
+    <cosponsor id="400279" joined="2015-05-20"/>
+    <cosponsor id="412634" joined="2015-02-04"/>
+    <cosponsor id="412662" joined="2015-04-14"/>
+    <cosponsor id="400661" joined="2015-05-12"/>
+    <cosponsor id="412568" joined="2015-02-04"/>
+    <cosponsor id="412474" joined="2015-02-04"/>
+    <cosponsor id="400289" joined="2015-02-04"/>
+    <cosponsor id="400291" joined="2015-04-14"/>
+    <cosponsor id="412660" joined="2015-02-04"/>
+    <cosponsor id="412475" joined="2015-02-04"/>
+    <cosponsor id="408211" joined="2015-02-04"/>
+    <cosponsor id="412606" joined="2015-02-25"/>
+    <cosponsor id="400295" joined="2015-02-04"/>
+    <cosponsor id="412409" joined="2015-02-04"/>
+    <cosponsor id="400297" joined="2015-02-04"/>
+    <cosponsor id="412575" joined="2015-02-04"/>
+    <cosponsor id="412302" joined="2015-02-04"/>
+    <cosponsor id="412443" joined="2015-02-04"/>
+    <cosponsor id="412303" joined="2015-02-04"/>
+    <cosponsor id="400313" joined="2015-02-04"/>
+    <cosponsor id="412192" joined="2015-03-03"/>
+    <cosponsor id="412569" joined="2015-06-16"/>
+    <cosponsor id="412307" joined="2015-02-04"/>
+    <cosponsor id="412585" joined="2015-02-04"/>
+    <cosponsor id="400652" joined="2015-02-04"/>
+    <cosponsor id="412633" joined="2015-02-04"/>
+    <cosponsor id="412308" joined="2015-02-04"/>
+    <cosponsor id="412431" joined="2015-02-04"/>
+    <cosponsor id="412309" joined="2015-02-04"/>
+    <cosponsor id="400626" joined="2015-04-13"/>
+    <cosponsor id="412331" joined="2015-02-04"/>
+    <cosponsor id="400333" joined="2015-02-04"/>
+    <cosponsor id="412393" joined="2015-02-04"/>
+    <cosponsor id="412462" joined="2015-05-20"/>
+    <cosponsor id="412489" joined="2015-02-04"/>
+    <cosponsor id="412647" joined="2015-02-04"/>
+    <cosponsor id="412572" joined="2015-02-04"/>
+    <cosponsor id="412432" joined="2015-02-04"/>
+    <cosponsor id="412394" joined="2015-02-04"/>
+    <cosponsor id="412310" joined="2015-02-04"/>
+    <cosponsor id="400343" joined="2015-06-25"/>
+    <cosponsor id="412426" joined="2015-02-04"/>
+    <cosponsor id="412311" joined="2015-02-04"/>
+    <cosponsor id="412202" joined="2015-07-28"/>
+    <cosponsor id="412641" joined="2015-02-04"/>
+    <cosponsor id="400347" joined="2015-04-13"/>
+    <cosponsor id="412519" joined="2015-02-04"/>
+    <cosponsor id="400350" joined="2015-02-04"/>
+    <cosponsor id="400352" joined="2015-02-04"/>
+    <cosponsor id="412312" joined="2015-02-04"/>
+    <cosponsor id="400606" joined="2015-02-04"/>
+    <cosponsor id="400607" joined="2015-02-04"/>
+    <cosponsor id="412261" joined="2015-02-04"/>
+    <cosponsor id="400360" joined="2015-06-25"/>
+    <cosponsor id="412314" joined="2015-02-04"/>
+    <cosponsor id="412315" joined="2015-02-04"/>
+    <cosponsor id="412399" joined="2015-02-04"/>
+    <cosponsor id="412417" joined="2015-02-04"/>
+    <cosponsor id="400364" joined="2015-02-04"/>
+    <cosponsor id="400365" joined="2015-02-04"/>
+    <cosponsor id="400366" joined="2015-02-04"/>
+    <cosponsor id="400367" joined="2015-02-04"/>
+    <cosponsor id="400371" joined="2015-02-04"/>
+    <cosponsor id="409888" joined="2015-02-04"/>
+    <cosponsor id="400376" joined="2015-02-04"/>
+    <cosponsor id="412509" joined="2015-04-29"/>
+    <cosponsor id="400378" joined="2015-02-04"/>
+    <cosponsor id="400379" joined="2015-06-08"/>
+    <cosponsor id="412596" joined="2015-02-04"/>
+    <cosponsor id="400381" joined="2015-02-04"/>
+    <cosponsor id="412259" joined="2015-02-04"/>
+    <cosponsor id="412648" joined="2015-02-17"/>
+    <cosponsor id="412581" joined="2015-07-15"/>
+    <cosponsor id="412461" joined="2015-02-04"/>
+    <cosponsor id="412392" joined="2015-02-04"/>
+    <cosponsor id="412514" joined="2015-02-04"/>
+    <cosponsor id="412520" joined="2015-02-04"/>
+    <cosponsor id="412317" joined="2015-02-04"/>
+    <cosponsor id="400406" joined="2015-02-04"/>
+    <cosponsor id="412405" joined="2015-02-04"/>
+    <cosponsor id="412319" joined="2015-02-04"/>
+    <cosponsor id="412617" joined="2015-04-14"/>
+    <cosponsor id="412254" joined="2015-02-04"/>
+    <cosponsor id="400411" joined="2015-02-04"/>
+    <cosponsor id="412515" joined="2015-02-04"/>
+    <cosponsor id="412522" joined="2015-06-09"/>
+    <cosponsor id="412548" joined="2015-02-04"/>
+    <cosponsor id="412670" joined="2015-02-04"/>
+    <cosponsor id="412618" joined="2015-06-10"/>
+    <cosponsor id="412574" joined="2015-02-04"/>
+    <cosponsor id="412410" joined="2015-02-04"/>
+    <cosponsor id="412239" joined="2015-02-04"/>
+    <cosponsor id="412564" joined="2015-02-04"/>
+    <cosponsor id="412610" joined="2015-02-04"/>
+    <cosponsor id="400627" joined="2015-04-14"/>
+    <cosponsor id="400431" joined="2015-02-04"/>
+    <cosponsor id="412578" joined="2015-02-04"/>
+    <cosponsor id="400433" joined="2015-02-04"/>
+    <cosponsor id="412402" joined="2015-02-04"/>
+    <cosponsor id="412416" joined="2015-06-17"/>
+    <cosponsor id="412211" joined="2015-02-04"/>
+    <cosponsor id="412525" joined="2015-02-04"/>
+    <cosponsor id="412628" joined="2015-02-04"/>
+    <cosponsor id="400440" joined="2015-02-10"/>
+    <cosponsor id="412428" joined="2015-02-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-04" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-03-17">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="283"/>
+    <bill relation="unknown" session="114" type="s" number="356"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Business records"/>
+    <term name="Congressional oversight"/>
+    <term name="Consumer affairs"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Criminal procedure and sentencing"/>
+    <term name="Internet and video services"/>
+    <term name="Right of privacy"/>
+    <term name="Telephone and wireless communication"/>
+  </subjects>
+  <amendments/>
+  <summary>2/4/2015--Introduced.
+Email Privacy Act
+
+Amends the Electronic Communications Privacy Act of 1986 to prohibit a provider of remote computing service or electronic communication service to the public from knowingly divulging to a governmental entity the contents of any communication that is in electronic storage or otherwise maintained by the provider, subject to exceptions.
+
+Revises provisions under which the government may require a provider to disclose the contents of such communications. Eliminates the different requirements applicable under current law depending on whether such communications were: (1) stored for fewer than, or more than, 180 days by an electronic communication service; or (2) held by an electronic communication service as opposed to a remote computing service.
+
+Requires the government to obtain a warrant from a court before requiring providers to disclose the content of such communications regardless of how long the communication has been held in electronic storage by an electronic communication service or whether the information is sought from an electronic communication service or a remote computing service
+
+Requires a law enforcement agency, within 10 days after receiving the contents of a customer's communication, or a governmental entity, within 3 days, to provide a customer whose communications were disclosed by the provider a copy of the warrant and a notice that such information was requested by, and supplied to, the government entity. Allows the government to request delays of such notifications.
+
+Prohibits disclosure requirements that apply to providers from being construed to limit the government's authority to use an administrative or civil discovery subpoena to require: (1) an originator or recipient of an electronic communication to disclose the contents of such communication, or (2) an entity that provides electronic communication services to its employees or agents to disclose the contents of an electronic communication to or from such employee or agent if the communication is on an electronic communications system owned or operated by the entity.
+
+Allows the government to apply for an order directing a provider, for a specified period, to refrain from notifying any other person that the provider has been required to disclose communications or records.
+
+Directs the Comptroller General to report to Congress regarding disclosures of customer communications and records under provisions: (1) as in effect before the enactment of this Act, and (2) as amended by this Act.</summary>
+</bill>

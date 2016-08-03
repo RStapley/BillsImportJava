@@ -1,0 +1,33 @@
+<bill session="114" type="s" number="1726" updated="2015-07-18T07:02:36-04:00">
+  <state datetime="2015-07-09">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-09"/>
+  </status>
+  <introduced datetime="2015-07-09"/>
+  <titles>
+    <title type="short" as="introduced">Marijuana Businesses Access to Banking Act of 2015</title>
+    <title type="official" as="introduced">A bill to create protections for depository institutions that provide financial services to marijuana-related businesses, and for other purposes.</title>
+  </titles>
+  <sponsor id="412325"/>
+  <cosponsors>
+    <cosponsor id="412330" joined="2015-07-09"/>
+    <cosponsor id="412406" joined="2015-07-09"/>
+    <cosponsor id="300076" joined="2015-07-09"/>
+    <cosponsor id="412492" joined="2015-07-09"/>
+    <cosponsor id="412542" joined="2015-07-13"/>
+    <cosponsor id="300100" joined="2015-07-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-09" state="REFERRED">
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,38 @@
+<bill session="114" type="h" number="3127" updated="2015-08-07T04:47:29-04:00">
+  <state datetime="2015-07-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-21"/>
+  </status>
+  <introduced datetime="2015-07-21"/>
+  <titles>
+    <title type="short" as="introduced">Kisatchie National Forest Land Conveyance Act</title>
+    <title type="official" as="introduced">To provide for the conveyance of certain National Forest System land within Kisatchie National Forest in the State of Louisiana.</title>
+  </titles>
+  <sponsor id="412630"/>
+  <cosponsors>
+    <cosponsor id="400636" joined="2015-07-21"/>
+    <cosponsor id="412275" joined="2015-07-21"/>
+    <cosponsor id="412631" joined="2015-07-21"/>
+    <cosponsor id="412432" joined="2015-07-21"/>
+    <cosponsor id="412261" joined="2015-07-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-21" state="REFERRED">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+    <action datetime="2015-08-06">
+      <text>Referred to the Subcommittee on Conservation and Forestry.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee activity="Referral" code="HSAG15" subcommittee="Conservation and Forestry" name="House Agriculture"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="61"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+</bill>

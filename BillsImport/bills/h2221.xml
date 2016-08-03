@@ -1,0 +1,49 @@
+<bill session="114" type="h" number="2221" updated="2015-07-16T04:48:00-04:00">
+  <state datetime="2015-05-01">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-01"/>
+  </status>
+  <introduced datetime="2015-05-01"/>
+  <titles>
+    <title type="short" as="introduced">Veterans Small Business Enhancement Act of 2015</title>
+    <title type="official" as="introduced">To amend the Small Business Act to direct the task force of the Office of Veterans Business Development to provide access to and manage the distribution of excess or surplus property to veteran-owned small businesses.</title>
+  </titles>
+  <sponsor id="412533"/>
+  <cosponsors>
+    <cosponsor id="412607" joined="2015-06-04"/>
+    <cosponsor id="400048" joined="2015-05-21"/>
+    <cosponsor id="412379" joined="2015-06-04"/>
+    <cosponsor id="412513" joined="2015-05-01"/>
+    <cosponsor id="412524" joined="2015-05-21"/>
+    <cosponsor id="412422" joined="2015-07-08"/>
+    <cosponsor id="400199" joined="2015-05-21"/>
+    <cosponsor id="400209" joined="2015-07-15"/>
+    <cosponsor id="412614" joined="2015-06-04"/>
+    <cosponsor id="412331" joined="2015-05-21"/>
+    <cosponsor id="412581" joined="2015-06-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-01" state="REFERRED">
+      <text>Referred to the House Committee on Small Business.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSM" name="House Small Business" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1400"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Small business"/>
+    <term name="State and local government operations"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+  </subjects>
+  <amendments/>
+  <summary>5/1/2015--Introduced.
+Veterans Small Business Enhancement Act of 2015
+
+Amends the Small Business Act to require the interagency task force that is responsible for coordinating federal efforts to improve the business development and federal contracting opportunities available to small business concerns owned and controlled by veterans to coordinate administrative and regulatory activities and develop proposals to provide access to, and manage the distribution of, excess or surplus U.S. property to small business concerns owned and controlled by veterans, pursuant to a memorandum of understanding with the appropriate state agency for surplus property.</summary>
+</bill>

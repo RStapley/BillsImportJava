@@ -1,0 +1,90 @@
+<bill session="114" type="h" number="1211" updated="2015-07-30T04:48:27-04:00">
+  <state datetime="2015-03-03">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-03"/>
+  </status>
+  <introduced datetime="2015-03-03"/>
+  <titles>
+    <title type="short" as="introduced">Mental Health in Schools Act of 2015</title>
+    <title type="official" as="introduced">To amend the Public Health Service Act to revise and extend projects relating to children and violence to provide access to school-based comprehensive mental health programs.</title>
+  </titles>
+  <sponsor id="400290"/>
+  <cosponsors>
+    <cosponsor id="400033" joined="2015-04-28"/>
+    <cosponsor id="400041" joined="2015-06-15"/>
+    <cosponsor id="412517" joined="2015-04-22"/>
+    <cosponsor id="412571" joined="2015-07-22"/>
+    <cosponsor id="412221" joined="2015-07-22"/>
+    <cosponsor id="412505" joined="2015-04-16"/>
+    <cosponsor id="412613" joined="2015-04-28"/>
+    <cosponsor id="412637" joined="2015-07-15"/>
+    <cosponsor id="400124" joined="2015-07-29"/>
+    <cosponsor id="400129" joined="2015-05-13"/>
+    <cosponsor id="412453" joined="2015-03-03"/>
+    <cosponsor id="400162" joined="2015-04-21"/>
+    <cosponsor id="400163" joined="2015-06-09"/>
+    <cosponsor id="400170" joined="2015-04-14"/>
+    <cosponsor id="412649" joined="2015-04-28"/>
+    <cosponsor id="412583" joined="2015-06-17"/>
+    <cosponsor id="412286" joined="2015-07-27"/>
+    <cosponsor id="400233" joined="2015-06-16"/>
+    <cosponsor id="412638" joined="2015-04-22"/>
+    <cosponsor id="400237" joined="2015-07-22"/>
+    <cosponsor id="400238" joined="2015-05-21"/>
+    <cosponsor id="400240" joined="2015-06-09"/>
+    <cosponsor id="412616" joined="2015-07-29"/>
+    <cosponsor id="412209" joined="2015-06-03"/>
+    <cosponsor id="412521" joined="2015-05-15"/>
+    <cosponsor id="412558" joined="2015-07-07"/>
+    <cosponsor id="412293" joined="2015-07-29"/>
+    <cosponsor id="400663" joined="2015-04-21"/>
+    <cosponsor id="400262" joined="2015-05-21"/>
+    <cosponsor id="400661" joined="2015-06-08"/>
+    <cosponsor id="408211" joined="2015-07-22"/>
+    <cosponsor id="400295" joined="2015-07-22"/>
+    <cosponsor id="412307" joined="2015-07-27"/>
+    <cosponsor id="412585" joined="2015-07-23"/>
+    <cosponsor id="400333" joined="2015-04-21"/>
+    <cosponsor id="412432" joined="2015-07-14"/>
+    <cosponsor id="400352" joined="2015-07-22"/>
+    <cosponsor id="400361" joined="2015-04-28"/>
+    <cosponsor id="400378" joined="2015-04-14"/>
+    <cosponsor id="412520" joined="2015-05-13"/>
+    <cosponsor id="400402" joined="2015-07-07"/>
+    <cosponsor id="400403" joined="2015-04-28"/>
+    <cosponsor id="412319" joined="2015-03-03"/>
+    <cosponsor id="400415" joined="2015-05-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-03" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-03-06">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1588"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Child health"/>
+    <term name="Education programs funding"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Mental health"/>
+    <term name="Teaching, teachers, curricula"/>
+    <term name="Violent crime"/>
+  </subjects>
+  <amendments/>
+  <summary>3/3/2015--Introduced.
+Mental Health in Schools Act of 2015
+
+Amends the Public Health Service Act to revise a community children and violence program to assist local communities and schools in applying a public health approach to mental health services, including by: (1) revising eligibility requirements for a grant, contract, or cooperative agreement; and (2) providing for comprehensive school mental health programs that are culturally and linguistically appropriate, trauma-informed, and age appropriate. Requires a comprehensive school mental health program funded under this Act to assist children in dealing with trauma and violence. Makes only a partnership between a local educational agency and at least one community program or agency that is involved in mental health eligible for funding.
+
+ Requires the Substance Abuse and Mental Health Services Administration to develop a fiscally appropriate process for evaluating grant program activities, including the development of: (1) guidelines for the submission of program data by recipients; and (2) outcome measures to be applied by recipients in evaluating programs, including student and family measures and local educational measures.</summary>
+</bill>

@@ -1,0 +1,59 @@
+<bill session="114" type="h" number="2266" updated="2015-07-24T04:48:23-04:00">
+  <state datetime="2015-05-12">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-12"/>
+  </status>
+  <introduced datetime="2015-05-12"/>
+  <titles>
+    <title type="short" as="introduced">Commercial Real Estate and Economic Development Act of 2015</title>
+    <title type="short" as="introduced">CREED Act of 2015</title>
+    <title type="official" as="introduced">To extend the low-interest refinancing provisions under the Local Development Business Loan Program of the Small Business Administration, and for other purposes.</title>
+  </titles>
+  <sponsor id="412379"/>
+  <cosponsors>
+    <cosponsor id="412607" joined="2015-05-12"/>
+    <cosponsor id="412512" joined="2015-05-12"/>
+    <cosponsor id="412195" joined="2015-07-23"/>
+    <cosponsor id="412221" joined="2015-05-12"/>
+    <cosponsor id="412215" joined="2015-07-23"/>
+    <cosponsor id="400129" joined="2015-06-15"/>
+    <cosponsor id="400163" joined="2015-07-23"/>
+    <cosponsor id="412498" joined="2015-05-12"/>
+    <cosponsor id="400185" joined="2015-06-15"/>
+    <cosponsor id="412511" joined="2015-06-15"/>
+    <cosponsor id="412638" joined="2015-05-12"/>
+    <cosponsor id="412560" joined="2015-05-12"/>
+    <cosponsor id="412632" joined="2015-05-12"/>
+    <cosponsor id="412506" joined="2015-05-12"/>
+    <cosponsor id="400361" joined="2015-07-23"/>
+    <cosponsor id="412509" joined="2015-07-23"/>
+    <cosponsor id="412514" joined="2015-07-23"/>
+    <cosponsor id="412626" joined="2015-05-12"/>
+    <cosponsor id="412520" joined="2015-07-23"/>
+    <cosponsor id="412617" joined="2015-06-15"/>
+    <cosponsor id="412254" joined="2015-05-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-12" state="REFERRED">
+      <text>Referred to the House Committee on Small Business.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSM" name="House Small Business" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="966"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Small business"/>
+  </subjects>
+  <amendments/>
+  <summary>5/12/2015--Introduced.
+Commercial Real Estate and Economic Development Act of 2015 or the CREED Act of 2015
+
+ Reinstates for a five-year period beginning after enactment of this Act the authority for Small Business Administration (SBA) low-interest refinancing of small business debt not involving business expansion under the SBA's local development business loan program.
+
+Repeals a provision of the Small Business Jobs Act of 2010 that terminated such authority as of September 26, 2012. Restores and revives any provision of law struck by the provision, and any regulations promulgated pursuant to it as they were in effect on that date.</summary>
+</bill>

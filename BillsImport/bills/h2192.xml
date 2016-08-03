@@ -1,0 +1,51 @@
+<bill session="114" type="h" number="2192" updated="2015-07-11T04:47:15-04:00">
+  <state datetime="2015-04-30">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-30"/>
+  </status>
+  <introduced datetime="2015-04-30"/>
+  <titles>
+    <title type="short" as="introduced">PRO Students Act</title>
+    <title type="short" as="introduced">Protections and Regulation for Our Students Act</title>
+    <title type="official" as="introduced">To improve the Higher Education Act of 1965, and for other purposes.</title>
+  </titles>
+  <sponsor id="412520"/>
+  <cosponsors>
+    <cosponsor id="412615" joined="2015-07-10"/>
+    <cosponsor id="400033" joined="2015-04-30"/>
+    <cosponsor id="412236" joined="2015-04-30"/>
+    <cosponsor id="400097" joined="2015-04-30"/>
+    <cosponsor id="400129" joined="2015-05-12"/>
+    <cosponsor id="400162" joined="2015-05-01"/>
+    <cosponsor id="400185" joined="2015-05-14"/>
+    <cosponsor id="412523" joined="2015-05-12"/>
+    <cosponsor id="412259" joined="2015-04-30"/>
+    <cosponsor id="412514" joined="2015-05-18"/>
+    <cosponsor id="412626" joined="2015-06-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-30" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Civil actions and liability"/>
+    <term name="Consumer affairs"/>
+    <term name="Debt collection"/>
+    <term name="Education programs funding"/>
+    <term name="Employment discrimination and employee rights"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Higher education"/>
+    <term name="Licensing and registrations"/>
+    <term name="Marketing and advertising"/>
+    <term name="Student aid and college costs"/>
+    <term name="Wages and earnings"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,39 @@
+<bill session="114" type="s" number="241" updated="2015-05-22T04:50:58-04:00">
+  <state datetime="2015-01-22">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-22"/>
+  </status>
+  <introduced datetime="2015-01-22"/>
+  <titles>
+    <title type="short" as="introduced">Military Family Relief Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend title 38, United States Code, to provide for the payment of temporary compensation to a surviving spouse of a veteran upon the death of the veteran, and for other purposes.</title>
+  </titles>
+  <sponsor id="412244"/>
+  <cosponsors>
+    <cosponsor id="412218" joined="2015-05-21"/>
+    <cosponsor id="400284" joined="2015-01-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-22" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Disability and paralysis"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>1/22/2015--Introduced.
+Military Family Relief Act of 2015
+
+Authorizes the Secretary of Veterans Affairs (VA) to pay temporary (not to exceed six months) dependency and indemnity compensation (DIC) to the surviving spouse of a veteran if, at the time of death, the veteran was in receipt of or entitled to receive compensation for a service-connected disability rated as total for at least one year preceding the veteran's death.
+
+Authorizes the payment to such survivor, for the same period, of any veteran's pension that the deceased was receiving at the time of death, without regard to the annual income and net worth of the surviving spouse.
+
+Allows a surviving spouse who is entitled to a pension or DIC under any other VA provision to be paid the amount by which such pension or DIC exceeds the amount of pension paid under this Act.</summary>
+</bill>

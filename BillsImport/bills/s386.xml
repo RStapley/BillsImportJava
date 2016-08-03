@@ -1,0 +1,48 @@
+<bill session="114" type="s" number="386" updated="2015-05-23T06:45:35-04:00">
+  <state datetime="2015-02-05">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-05"/>
+  </status>
+  <introduced datetime="2015-02-05"/>
+  <titles>
+    <title type="short" as="introduced">Mobile Workforce State Income Tax Simplification Act of 2015</title>
+    <title type="official" as="introduced">A bill to limit the authority of States to tax certain income of employees for employment duties performed in other States.</title>
+  </titles>
+  <sponsor id="400546"/>
+  <cosponsors>
+    <cosponsor id="400034" joined="2015-02-05"/>
+    <cosponsor id="400050" joined="2015-02-05"/>
+    <cosponsor id="300025" joined="2015-02-09"/>
+    <cosponsor id="412549" joined="2015-05-18"/>
+    <cosponsor id="412242" joined="2015-02-23"/>
+    <cosponsor id="400272" joined="2015-05-06"/>
+    <cosponsor id="412305" joined="2015-04-30"/>
+    <cosponsor id="400325" joined="2015-02-05"/>
+    <cosponsor id="412507" joined="2015-02-23"/>
+    <cosponsor id="300093" joined="2015-02-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-05" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="2315"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Employment taxes"/>
+    <term name="Intergovernmental relations"/>
+    <term name="State and local taxation"/>
+  </subjects>
+  <amendments/>
+  <summary>2/5/2015--Introduced.
+Mobile Workforce State Income Tax Simplification Act of 2015
+
+Prohibits the wages or other remuneration earned by an employee who performs employment duties in more than one state from being subject to income tax in any state other than: (1) the state of the employee's residence, and (2) the state within which the employee is present and performing employment duties for more than 30 days during the calendar year. Exempts employers from withholding of tax and information reporting requirements for employees not subject to income tax under this Act. Allows an employer, for purposes of determining penalties related to employer withholding or reporting requirements, to rely on an employee's annual determination of the time such employee will spend working in a state in the absence of fraud or collusion by such employee.
+
+Exempts from the definition of "employee" for purposes of this Act professional athletes, professional entertainers, and public figures who are persons of prominence who perform services for wages or other remuneration on a per-event basis.</summary>
+</bill>

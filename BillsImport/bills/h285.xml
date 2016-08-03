@@ -1,0 +1,140 @@
+<bill session="114" type="h" number="285" updated="2015-03-14T06:20:38-04:00">
+  <state datetime="2015-01-27T13:51:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2015-01-27T13:51:00-05:00"/>
+  </status>
+  <introduced datetime="2015-01-12"/>
+  <titles>
+    <title type="short" as="introduced">SAVE Act of 2015</title>
+    <title type="short" as="introduced">Stop Advertising Victims of Exploitation Act of 2015</title>
+    <title type="short" as="reported to house">SAVE Act of 2015</title>
+    <title type="short" as="reported to house">Stop Advertising Victims of Exploitation Act of 2015</title>
+    <title type="short" as="passed house">SAVE Act of 2015</title>
+    <title type="short" as="passed house">Stop Advertising Victims of Exploitation Act of 2015</title>
+    <title type="official" as="introduced">To amend title 18, United States Code, to provide a penalty for knowingly selling advertising that offers certain commercial sex acts.</title>
+  </titles>
+  <sponsor id="412548"/>
+  <cosponsors>
+    <cosponsor id="412469" joined="2015-01-26"/>
+    <cosponsor id="412541" joined="2015-01-12"/>
+    <cosponsor id="412404" joined="2015-01-12"/>
+    <cosponsor id="412565" joined="2015-01-12"/>
+    <cosponsor id="412635" joined="2015-01-26"/>
+    <cosponsor id="412478" joined="2015-01-12"/>
+    <cosponsor id="412539" joined="2015-01-26"/>
+    <cosponsor id="412516" joined="2015-01-12"/>
+    <cosponsor id="412537" joined="2015-01-12"/>
+    <cosponsor id="412195" joined="2015-01-12"/>
+    <cosponsor id="412600" joined="2015-01-12"/>
+    <cosponsor id="400074" joined="2015-01-12"/>
+    <cosponsor id="412658" joined="2015-01-26"/>
+    <cosponsor id="412513" joined="2015-01-12"/>
+    <cosponsor id="412555" joined="2015-01-12"/>
+    <cosponsor id="412536" joined="2015-01-26"/>
+    <cosponsor id="412524" joined="2015-01-12"/>
+    <cosponsor id="412482" joined="2015-01-22"/>
+    <cosponsor id="412529" joined="2015-01-12"/>
+    <cosponsor id="400141" joined="2015-01-12"/>
+    <cosponsor id="400142" joined="2015-01-12"/>
+    <cosponsor id="412453" joined="2015-01-12"/>
+    <cosponsor id="412397" joined="2015-01-12"/>
+    <cosponsor id="412444" joined="2015-01-26"/>
+    <cosponsor id="412486" joined="2015-01-21"/>
+    <cosponsor id="412422" joined="2015-01-12"/>
+    <cosponsor id="412284" joined="2015-01-12"/>
+    <cosponsor id="412603" joined="2015-01-12"/>
+    <cosponsor id="412566" joined="2015-01-12"/>
+    <cosponsor id="412595" joined="2015-01-12"/>
+    <cosponsor id="400224" joined="2015-01-12"/>
+    <cosponsor id="412557" joined="2015-01-13"/>
+    <cosponsor id="412290" joined="2015-01-12"/>
+    <cosponsor id="400244" joined="2015-01-12"/>
+    <cosponsor id="400654" joined="2015-01-12"/>
+    <cosponsor id="412611" joined="2015-01-27"/>
+    <cosponsor id="412560" joined="2015-01-12"/>
+    <cosponsor id="412475" joined="2015-01-12"/>
+    <cosponsor id="412303" joined="2015-01-12"/>
+    <cosponsor id="400313" joined="2015-01-12"/>
+    <cosponsor id="412551" joined="2015-01-26"/>
+    <cosponsor id="400652" joined="2015-01-22"/>
+    <cosponsor id="412202" joined="2015-01-21"/>
+    <cosponsor id="412570" joined="2015-01-12"/>
+    <cosponsor id="400348" joined="2015-01-13"/>
+    <cosponsor id="412650" joined="2015-01-27"/>
+    <cosponsor id="412314" joined="2015-01-12"/>
+    <cosponsor id="412509" joined="2015-01-27"/>
+    <cosponsor id="412596" joined="2015-01-26"/>
+    <cosponsor id="412213" joined="2015-01-12"/>
+    <cosponsor id="412538" joined="2015-01-12"/>
+    <cosponsor id="412525" joined="2015-01-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-12" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-01-13">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+    <action datetime="2015-01-20">
+      <text>Subcommittee on Crime, Terrorism, Homeland Security, and Investigations Discharged.</text>
+    </action>
+    <action datetime="2015-01-21">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-01-21" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </calendar>
+    <action datetime="2015-01-27T12:35:00-05:00">
+      <text>Reported by the Committee on Judiciary. H. Rept. 114-8.</text>
+    </action>
+    <calendar datetime="2015-01-27T12:35:00-05:00" calendar="Union" number="4">
+      <text>Placed on the Union Calendar, Calendar No. 4.</text>
+    </calendar>
+    <action datetime="2015-01-27T13:14:00-05:00">
+      <text>Mr. Sensenbrenner moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2015-01-27T13:15:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H596-600" label="consideration"/>
+    </action>
+    <action datetime="2015-01-27T13:15:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 285.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2015-01-27T13:51:00-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H596" label="text"/>
+    </vote>
+    <action datetime="2015-01-27T13:51:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2015-01-28">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="2015-02-04">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="572"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Crimes against children"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Human trafficking"/>
+    <term name="Marketing and advertising"/>
+    <term name="Sex offenses"/>
+  </subjects>
+  <amendments/>
+  <summary>1/27/2015--Passed House without amendment.
+(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)
+
+Stop Advertising Victims of Exploitation Act of 2015 or the SAVE Act of 2015
+
+ (Sec. 2) Amends the federal criminal code to prohibit knowingly: (1) advertising commercial sex acts involving a minor or an individual engaged in such an act through force, fraud, or coercion; or (2) benefitting financially or otherwise from such advertising knowing that the individual involved was a minor or victim of force, fraud, or coercion.</summary>
+</bill>

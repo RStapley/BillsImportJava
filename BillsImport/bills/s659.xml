@@ -1,0 +1,74 @@
+<bill session="114" type="s" number="659" updated="2015-06-06T06:49:05-04:00">
+  <state datetime="2015-03-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-04"/>
+  </status>
+  <introduced datetime="2015-03-04"/>
+  <titles>
+    <title type="short" as="introduced">Bipartisan Sportsmen's Act of 2015</title>
+    <title type="official" as="introduced">A bill to protect and enhance opportunities for recreational hunting, fishing, and shooting, and for other purposes.</title>
+  </titles>
+  <sponsor id="412665"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-03-04" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+    <action datetime="2015-03-17">
+      <text>Committee on Environment and Public Works Subcommittee on Fisheries, Water, and Wildlife. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral"/>
+    <committee activity="Hearings" code="SSEV15" subcommittee="Fisheries, Water, and Wildlife" name="Senate Environment and Public Works"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="327"/>
+    <bill relation="unknown" session="114" type="h" number="335"/>
+    <bill relation="unknown" session="114" type="h" number="1099"/>
+    <bill relation="unknown" session="114" type="h" number="2406"/>
+    <bill relation="unknown" session="114" type="s" number="225"/>
+    <bill relation="unknown" session="114" type="s" number="263"/>
+    <bill relation="unknown" session="114" type="s" number="405"/>
+    <bill relation="unknown" session="114" type="s" number="561"/>
+    <bill relation="unknown" session="114" type="s" number="595"/>
+    <bill relation="unknown" session="114" type="s" number="721"/>
+    <bill relation="unknown" session="114" type="s" number="722"/>
+    <bill relation="unknown" session="114" type="s" number="992"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Africa"/>
+    <term name="Agricultural practices and innovations"/>
+    <term name="American Samoa"/>
+    <term name="Animal protection and human-animal relationships"/>
+    <term name="Army Corps of Engineers"/>
+    <term name="Asia"/>
+    <term name="Birds"/>
+    <term name="Canada"/>
+    <term name="Caribbean area"/>
+    <term name="Department of Defense"/>
+    <term name="Department of the Interior"/>
+    <term name="Endangered and threatened species"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Firearms and explosives"/>
+    <term name="Government trust funds"/>
+    <term name="Guam"/>
+    <term name="Hazardous wastes and toxic substances"/>
+    <term name="Hunting and fishing"/>
+    <term name="Interest, dividends, interest rates"/>
+    <term name="International organizations and cooperation"/>
+    <term name="Licensing and registrations"/>
+    <term name="Mammals"/>
+    <term name="Northern Mariana Islands"/>
+    <term name="Outdoor recreation"/>
+    <term name="Puerto Rico"/>
+    <term name="Reptiles"/>
+    <term name="Trade restrictions"/>
+    <term name="Virgin Islands"/>
+    <term name="Wetlands"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+</bill>

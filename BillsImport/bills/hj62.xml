@@ -1,0 +1,36 @@
+<bill session="114" type="hj" number="62" updated="2015-08-15T06:48:41-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="official" as="introduced">To authorize the use of the Armed Forces of the United States against Iran if Iran commits a serious violation of its commitments or obligations under the Joint Comprehensive Plan of Action, and for other purposes.</title>
+  </titles>
+  <sponsor id="400233"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Arms control and nonproliferation"/>
+    <term name="Congressional oversight"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="International law and treaties"/>
+    <term name="Iran"/>
+    <term name="Middle East"/>
+    <term name="Military operations and strategy"/>
+    <term name="Nuclear weapons"/>
+    <term name="Sanctions"/>
+    <term name="United Nations"/>
+    <term name="War and emergency powers"/>
+  </subjects>
+  <amendments/>
+</bill>

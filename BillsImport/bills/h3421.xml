@@ -1,0 +1,77 @@
+<bill session="114" type="h" number="3421" updated="2015-08-11T09:51:56-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">A PLUS Act</title>
+    <title type="short" as="introduced">Academic Partnerships Lead Us to Success</title>
+    <title type="official" as="introduced">To allow a State to submit a declaration of intent to the Secretary of Education to combine certain funds to improve the academic achievement of students.</title>
+  </titles>
+  <sponsor id="412670"/>
+  <cosponsors>
+    <cosponsor id="412655" joined="2015-07-29"/>
+    <cosponsor id="400032" joined="2015-07-31"/>
+    <cosponsor id="412627" joined="2015-07-29"/>
+    <cosponsor id="400046" joined="2015-07-29"/>
+    <cosponsor id="412605" joined="2015-07-29"/>
+    <cosponsor id="412619" joined="2015-07-29"/>
+    <cosponsor id="400052" joined="2015-07-29"/>
+    <cosponsor id="412270" joined="2015-07-29"/>
+    <cosponsor id="412271" joined="2015-07-29"/>
+    <cosponsor id="400655" joined="2015-07-29"/>
+    <cosponsor id="412513" joined="2015-07-29"/>
+    <cosponsor id="412526" joined="2015-07-29"/>
+    <cosponsor id="412472" joined="2015-07-29"/>
+    <cosponsor id="400116" joined="2015-07-29"/>
+    <cosponsor id="412480" joined="2015-07-31"/>
+    <cosponsor id="400141" joined="2015-07-29"/>
+    <cosponsor id="400651" joined="2015-07-29"/>
+    <cosponsor id="412397" joined="2015-07-29"/>
+    <cosponsor id="400175" joined="2015-07-29"/>
+    <cosponsor id="412623" joined="2015-07-29"/>
+    <cosponsor id="412550" joined="2015-07-29"/>
+    <cosponsor id="412429" joined="2015-07-29"/>
+    <cosponsor id="412422" joined="2015-07-29"/>
+    <cosponsor id="400206" joined="2015-07-29"/>
+    <cosponsor id="412603" joined="2015-07-31"/>
+    <cosponsor id="412226" joined="2015-07-29"/>
+    <cosponsor id="412419" joined="2015-07-29"/>
+    <cosponsor id="412191" joined="2015-07-29"/>
+    <cosponsor id="412624" joined="2015-07-29"/>
+    <cosponsor id="412656" joined="2015-07-29"/>
+    <cosponsor id="400654" joined="2015-07-29"/>
+    <cosponsor id="412295" joined="2015-07-29"/>
+    <cosponsor id="412552" joined="2015-07-29"/>
+    <cosponsor id="412540" joined="2015-07-29"/>
+    <cosponsor id="400279" joined="2015-07-31"/>
+    <cosponsor id="412474" joined="2015-07-29"/>
+    <cosponsor id="412302" joined="2015-07-29"/>
+    <cosponsor id="412443" joined="2015-07-29"/>
+    <cosponsor id="412608" joined="2015-07-29"/>
+    <cosponsor id="412551" joined="2015-07-31"/>
+    <cosponsor id="412653" joined="2015-07-29"/>
+    <cosponsor id="412489" joined="2015-07-29"/>
+    <cosponsor id="400341" joined="2015-07-29"/>
+    <cosponsor id="412641" joined="2015-07-29"/>
+    <cosponsor id="400606" joined="2015-07-29"/>
+    <cosponsor id="412417" joined="2015-07-29"/>
+    <cosponsor id="400367" joined="2015-07-29"/>
+    <cosponsor id="412581" joined="2015-07-29"/>
+    <cosponsor id="412410" joined="2015-07-29"/>
+    <cosponsor id="412416" joined="2015-07-29"/>
+    <cosponsor id="412525" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

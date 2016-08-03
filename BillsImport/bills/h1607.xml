@@ -1,0 +1,127 @@
+<bill session="114" type="h" number="1607" updated="2015-08-22T06:32:39-04:00">
+  <state datetime="2015-07-27T19:51:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2015-07-27T19:51:00-04:00"/>
+  </status>
+  <introduced datetime="2015-03-25"/>
+  <titles>
+    <title type="short" as="introduced">Ruth Moore Act of 2015</title>
+    <title type="short" as="reported to house">Ruth Moore Act of 2015</title>
+    <title type="short" as="passed house">Ruth Moore Act of 2015</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to improve the disability compensation evaluation procedure of the Secretary of Veterans Affairs for veterans with mental health conditions related to military sexual trauma, and for other purposes.</title>
+  </titles>
+  <sponsor id="412307"/>
+  <cosponsors>
+    <cosponsor id="412516" joined="2015-04-21"/>
+    <cosponsor id="412236" joined="2015-04-29"/>
+    <cosponsor id="400100" joined="2015-04-21"/>
+    <cosponsor id="400103" joined="2015-03-25"/>
+    <cosponsor id="412505" joined="2015-04-23"/>
+    <cosponsor id="412613" joined="2015-04-14"/>
+    <cosponsor id="412420" joined="2015-03-25"/>
+    <cosponsor id="412215" joined="2015-04-21"/>
+    <cosponsor id="412524" joined="2015-04-29"/>
+    <cosponsor id="400162" joined="2015-03-25"/>
+    <cosponsor id="412447" joined="2015-03-25"/>
+    <cosponsor id="400185" joined="2015-04-14"/>
+    <cosponsor id="412511" joined="2015-04-23"/>
+    <cosponsor id="400209" joined="2015-04-21"/>
+    <cosponsor id="412583" joined="2015-06-16"/>
+    <cosponsor id="412557" joined="2015-03-25"/>
+    <cosponsor id="400232" joined="2015-07-14"/>
+    <cosponsor id="400240" joined="2015-03-25"/>
+    <cosponsor id="400245" joined="2015-07-14"/>
+    <cosponsor id="400259" joined="2015-04-21"/>
+    <cosponsor id="400262" joined="2015-04-29"/>
+    <cosponsor id="400263" joined="2015-04-23"/>
+    <cosponsor id="412585" joined="2015-03-25"/>
+    <cosponsor id="412633" joined="2015-03-25"/>
+    <cosponsor id="412308" joined="2015-04-29"/>
+    <cosponsor id="412647" joined="2015-04-21"/>
+    <cosponsor id="400350" joined="2015-03-25"/>
+    <cosponsor id="412186" joined="2015-04-23"/>
+    <cosponsor id="400378" joined="2015-04-21"/>
+    <cosponsor id="412520" joined="2015-04-21"/>
+    <cosponsor id="412254" joined="2015-03-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-25" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2015-04-07">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2015-04-08">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+    </action>
+    <action datetime="2015-04-14">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="2015-05-14">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2015-05-14">
+      <text>Forwarded by Subcommittee to Full Committee in the Nature of a Substitute (Amended) by Voice Vote .</text>
+    </action>
+    <action datetime="2015-05-21">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-05-21" state="REPORTED">
+      <text>Ordered to be Reported in the Nature of a Substitute (Amended) by Voice Vote.</text>
+    </calendar>
+    <action datetime="2015-07-16T12:57:00-04:00">
+      <text>Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 114-207.</text>
+    </action>
+    <calendar datetime="2015-07-16T12:57:00-04:00" calendar="Union" number="156">
+      <text>Placed on the Union Calendar, Calendar No. 156.</text>
+    </calendar>
+    <action datetime="2015-07-27T19:38:00-04:00">
+      <text>Mr. Miller (FL) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2015-07-27T19:38:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5517-5519" label="consideration"/>
+    </action>
+    <action datetime="2015-07-27T19:38:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1607.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2015-07-27T19:51:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H5517-5518" label="text"/>
+    </vote>
+    <action datetime="2015-07-27T19:51:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2015-07-28">
+      <text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSVR09" subcommittee="Disability Assistance and Memorial Affairs" name="House Veterans' Affairs"/>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="865"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Congressional oversight"/>
+    <term name="Crimes against women"/>
+    <term name="Disability assistance"/>
+    <term name="Evidence and witnesses"/>
+    <term name="Mental health"/>
+    <term name="Sex offenses"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>3/25/2015--Introduced.
+Ruth Moore Act of 2015
+
+Directs the Secretary of Veterans Affairs, in any case in which a veteran claims that a covered mental health condition was incurred in or aggravated by military sexual trauma during active duty, to: (1) accept as sufficient proof of service-connection a diagnosis by a mental health professional together with satisfactory lay or other evidence of such trauma and an opinion by the mental health professional that such condition is related to such trauma if consistent with the circumstances, conditions, or hardships of such service, notwithstanding the fact that there is no official record of such incurrence or aggravation in such service; and (2) resolve every reasonable doubt in favor of the veteran. Allows such service-connection to be rebutted by clear and convincing evidence to the contrary.
+
+Includes as a "covered mental health condition" post-traumatic stress disorder, anxiety, depression, or any other mental health diagnosis that the Secretary determines to be related to military sexual trauma.
+
+Requires the Secretary to report annually to Congress in each of 2016 through 2020 on covered claims submitted.</summary>
+</bill>

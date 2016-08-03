@@ -1,0 +1,66 @@
+<bill session="114" type="h" number="1644" updated="2015-07-21T04:47:48-04:00">
+  <state datetime="2015-03-26">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-26"/>
+  </status>
+  <introduced datetime="2015-03-26"/>
+  <titles>
+    <title type="short" as="introduced">STREAM Act</title>
+    <title type="short" as="introduced">Supporting Transparent Regulatory and Environmental Actions in Mining Act</title>
+    <title type="official" as="introduced">To amend the Surface Mining Control and Reclamation Act of 1977 to ensure transparency in the development of environmental regulations, and for other purposes.</title>
+  </titles>
+  <sponsor id="412662"/>
+  <cosponsors>
+    <cosponsor id="412541" joined="2015-05-12"/>
+    <cosponsor id="412513" joined="2015-05-18"/>
+    <cosponsor id="412555" joined="2015-05-13"/>
+    <cosponsor id="412397" joined="2015-05-12"/>
+    <cosponsor id="412663" joined="2015-05-12"/>
+    <cosponsor id="412460" joined="2015-03-26"/>
+    <cosponsor id="412191" joined="2015-03-26"/>
+    <cosponsor id="412294" joined="2015-05-13"/>
+    <cosponsor id="412295" joined="2015-06-23"/>
+    <cosponsor id="412487" joined="2015-05-13"/>
+    <cosponsor id="412540" joined="2015-05-19"/>
+    <cosponsor id="412660" joined="2015-07-20"/>
+    <cosponsor id="400340" joined="2015-05-21"/>
+    <cosponsor id="412317" joined="2015-07-13"/>
+    <cosponsor id="412610" joined="2015-07-15"/>
+    <cosponsor id="400440" joined="2015-05-18"/>
+    <cosponsor id="412640" joined="2015-06-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-26" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2015-04-08">
+      <text>Referred to the Subcommittee on Energy and Mineral Resources.</text>
+    </action>
+    <action datetime="2015-05-14">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral, Hearings" code="HSII06" subcommittee="Energy and Mineral Resources" name="House Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+  </subjects>
+  <amendments/>
+  <summary>3/26/2015--Introduced.
+Supporting Transparent Regulatory and Environmental Actions in Mining Act or the STREAM Act
+
+This bill amends the Surface Mining Control and Reclamation Act of 1977 to direct the Secretary of the Interior to make publicly available, 90 days before publication any draft, supplemental, final, or emergency rule, or any environmental analysis or economic assessment, each scientific product upon which the Secretary has relied in developing the rule, the analysis, or the assessment.
+
+ For scientific products receiving federal funds the Secretary must also make publicly available: (1) the raw data used for them, and (2) the background information of the authors of the scientific study.
+
+If the Secretary withholds any scientific product for more than six months, the Secretary must withdraw the rule, environmental analysis, or economic assessment.
+
+The Secretary shall contract with the National Academy of Sciences for its Board on Earth Sciences and Resources to conduct a detailed, comprehensive study of the effectiveness of the "Surface Coal Mining and Reclamation Operations Permanent Regulatory Program; Stream Buffer Zones and Fish, Wildlife, and Related Environmental Values" Final Rule in protecting perennial and intermittent streams through the use of stream buffer zones.
+
+ Until one year after publication of the Board's report to Congress, the Secretary may not issue any proposed or final regulations under the Act that relate either to stream buffer zones or to stream protection.
+
+The Surface Mining Control and Reclamation Act of 1977 is further amended to declare that nothing in it authorizes the Secretary to take any action that duplicates, enforces, or determines compliance with specified mining, environmental, or fish and wildlife law.</summary>
+</bill>

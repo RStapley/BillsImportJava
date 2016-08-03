@@ -1,0 +1,226 @@
+<bill session="114" type="h" number="2262" updated="2015-07-18T06:37:44-04:00">
+  <state datetime="2015-05-21T12:44:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2015-05-21T12:44:00-04:00"/>
+  </status>
+  <introduced datetime="2015-05-12"/>
+  <titles>
+    <title type="short" as="introduced">SPACE Act of 2015</title>
+    <title type="short" as="introduced">Spurring Private Aerospace Competitiveness and Entrepreneurship Act of 2015</title>
+    <title type="short" as="reported to house">SPACE Act of 2015</title>
+    <title type="short" as="reported to house">Spurring Private Aerospace Competitiveness and Entrepreneurship Act of 2015</title>
+    <title type="short" as="passed house">SPACE Act of 2015</title>
+    <title type="short" as="passed house">Spurring Private Aerospace Competitiveness and Entrepreneurship Act of 2015</title>
+    <title type="short" as="passed house" partial="1">Space Resource Exploration and Utilization Act of 2015</title>
+    <title type="official" as="introduced">To facilitate a pro-growth environment for the developing commercial space industry by encouraging private sector investment and creating more stable and predictable regulatory conditions, and for other purposes.</title>
+  </titles>
+  <sponsor id="412190"/>
+  <cosponsors>
+    <cosponsor id="412655" joined="2015-05-12"/>
+    <cosponsor id="412567" joined="2015-05-12"/>
+    <cosponsor id="412422" joined="2015-05-12"/>
+    <cosponsor id="412614" joined="2015-05-12"/>
+    <cosponsor id="400247" joined="2015-05-12"/>
+    <cosponsor id="400654" joined="2015-05-12"/>
+    <cosponsor id="412634" joined="2015-05-12"/>
+    <cosponsor id="412443" joined="2015-05-12"/>
+    <cosponsor id="412309" joined="2015-05-12"/>
+    <cosponsor id="400343" joined="2015-05-12"/>
+    <cosponsor id="400381" joined="2015-05-12"/>
+    <cosponsor id="412574" joined="2015-05-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-12" state="REFERRED">
+      <text>Referred to the House Committee on Science, Space, and Technology.</text>
+    </action>
+    <action datetime="2015-05-13">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-05-13" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 18 - 13.</text>
+    </calendar>
+    <action datetime="2015-05-18T19:25:00-04:00">
+      <text>Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 114-119.</text>
+    </action>
+    <calendar datetime="2015-05-18T19:25:00-04:00" calendar="Union" number="85">
+      <text>Placed on the Union Calendar, Calendar No. 85.</text>
+    </calendar>
+    <action datetime="2015-05-19T19:01:00-04:00">
+      <text>Rules Committee Resolution H. Res. 273 Reported to House. The resolution provides for consideration of H.R. 2262 and H.R. 880. In addition, the resolution provides for consideration of motions to suspend the rules; and provides for proceedings during the period from May 22, 2015, through May 29, 2015.</text>
+    </action>
+    <action datetime="2015-05-21T10:17:00-04:00">
+      <text>Considered under the provisions of rule H. Res. 273.</text>
+      <reference ref="CR H3511-3534" label="consideration"/>
+      <reference ref="CR H3521-3524" label="text of amendment in the nature of a substitute"/>
+    </action>
+    <action datetime="2015-05-21T10:17:00-04:00">
+      <text>The resolution provides for consideration of H.R. 2262 and H.R. 880. In addition, the resolution provides for consideration of motions to suspend the rules; and provides for proceedings during the period from May 22, 2015, through May 29, 2015.</text>
+    </action>
+    <action datetime="2015-05-21T10:18:00-04:00">
+      <text>House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 273 and Rule XVIII.</text>
+    </action>
+    <action datetime="2015-05-21T10:18:00-04:00">
+      <text>The Speaker designated the Honorable Garret Graves to act as Chairman of the Committee.</text>
+    </action>
+    <action datetime="2015-05-21T10:18:00-04:00">
+      <text>GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 2262.</text>
+    </action>
+    <action datetime="2015-05-21T11:26:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 273, the Committee of the Whole proceeded with 10 minutes of debate on the Smith (TX) Part A amendment No. 1.</text>
+    </action>
+    <action datetime="2015-05-21T11:29:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 273, the Committee of the Whole proceeded with 10 minutes of debate on the Grijalva Part A amendment No. 2.</text>
+    </action>
+    <action datetime="2015-05-21T11:32:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 273, the Committee of the Whole proceeded with 10 minutes of debate on the Rohrabacher Part A amendment No. 3.</text>
+    </action>
+    <action datetime="2015-05-21T11:37:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 273, the Committee of the Whole proceeded with 10 minutes of debate on the Castro (TX) Part A amendment No. 4.</text>
+    </action>
+    <action datetime="2015-05-21T11:40:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 273, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson Lee Part A amendment No. 5.</text>
+    </action>
+    <action datetime="2015-05-21T11:45:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 273, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson Lee Part A amendment No. 6.</text>
+    </action>
+    <action datetime="2015-05-21T11:48:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 273, the Committee of the Whole proceeded with 20 minutes of debate on the Edwards Part A amendment No. 7.</text>
+    </action>
+    <action datetime="2015-05-21T12:34:00-04:00">
+      <text>The House rose from the Committee of the Whole House on the state of the Union to report H.R. 2262.</text>
+    </action>
+    <action datetime="2015-05-21T12:35:00-04:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+      <reference ref="CR H3534" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="262" datetime="2015-05-21T12:44:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by the Yeas and Nays: 284 - 133 (Roll no. 262).</text>
+    </vote>
+    <action datetime="2015-05-21T12:44:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2015-05-22">
+      <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science, Space, and Technology" activity="Referral, Markup, Reporting"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="hr" number="273"/>
+    <bill relation="rule" session="114" type="hr" number="273"/>
+    <bill relation="unknown" session="114" type="h" number="2261"/>
+    <bill relation="unknown" session="114" type="h" number="2263"/>
+  </relatedbills>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Commerce"/>
+    <term name="Department of Transportation"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Government liability"/>
+    <term name="Government studies and investigations"/>
+    <term name="Licensing and registrations"/>
+    <term name="Life, casualty, property insurance"/>
+    <term name="National Aeronautics and Space Administration"/>
+    <term name="Public-private cooperation"/>
+    <term name="Research and development"/>
+    <term name="Space flight and exploration"/>
+    <term name="Spacecraft and satellites"/>
+    <term name="Technology transfer and commercialization"/>
+    <term name="Trade agreements and negotiations"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments>
+    <amendment number="h255"/>
+    <amendment number="h256"/>
+    <amendment number="h257"/>
+    <amendment number="h258"/>
+    <amendment number="h259"/>
+    <amendment number="h260"/>
+    <amendment number="h261"/>
+  </amendments>
+  <summary>5/21/2015--Passed House amended.
+Spurring Private Aerospace Competitiveness and Entrepreneurship Act of 2015 or the SPACE Act of 2015 
+
+TITLE I--COMMERCIAL SPACE LAUNCH
+
+ (Sec. 101) This bill directs the Department of Transportation (DOT) to report periodically to specified congressional committees on the progress of the commercial space transportation industry in developing voluntary consensus standards or any other construction that promotes best practices.
+
+DOT shall also report to Congress on the status of the knowledge and operational experience acquired by the commercial space transportation industry while providing flight services for compensation or hire to support the development of a safety framework.
+
+An independent, private systems engineering and technical assistance organization or standards development organization contracted by DOT shall assess the readiness of the industry and the federal government to transition to a safety framework that may include regulations.
+
+The contracted organization, as part of such review, must evaluate: (1) the progress of the commercial space industry in adopting industry voluntary standards or any other construction as reported by DOT in the interim assessments in the knowledge and operational report; and (2) the knowledge and operational experience obtained by the commercial space industry while providing services for compensation or hire.
+
+Beginning on December 31, 2025, DOT may propose new regulations pursuant to this section.
+
+ (Sec. 102) DOT shall provide the committees a plan to update the methodology used to calculate maximum probable loss from claims with respect to commercially licensed space launch liability insurance and financial responsibility requirements through the use of a validated risk profile approach. The Government Accountability Office (GAO) shall assess the plan.
+
+The liability coverage of licensees subject to third-party claims exceeding the amount of insurance or demonstration of financial responsibility is extended through December 31, 2025.
+
+ (Sec. 103) Certain time constraints of requirements for commercial space launch and reentry experimental permits are repealed. Rockets, reusable launch vehicles that will be launched into a suborbital trajectory, and designs for such vehicles as well as rocket designs are covered. DOT may issue an experimental launch or reentry permit notwithstanding the issuance of any launch or reentry license. Neither shall the issuance of such a license invalidate an experimental permit.
+
+DOT may issue an experimental permit for reusable suborbital rockets or reusable launch vehicles that will be launched into a suborbital trajectory or reentered solely for crew training regardless of whether the crew trains before or after obtaining a license. Experimental permits may also authorize an unlimited number of launches and reentries for a particular suborbital rocket or reusable launch vehicle or reusable launch vehicle design (currently, only for a suborbital rocket design). Prohibits any person from operating a reusable launch vehicle (as well as, currently, a reusable suborbital rocket) under an experimental permit for carrying any property or human being for compensation or hire. (Sec. 104) Commercial space launch requirements will apply to government astronauts, who are any National Aeronautics and Space Administration (NASA) designees who are employees of the U.S. or any foreign government meeting certain criteria who are carried within a launch or reentry vehicle in the course of their employment.
+
+ (Sec. 105) Liability insurance and financial responsibility shall cover space flight participants.
+
+(Sec. 106) The GAO shall study the issues associated with space flight participants and potential third party claims that could arise from a potential accident of a commercial licensed launch vehicle or reentry vehicle carrying those participants.
+
+ (Sec. 107) Federal courts shall have sole jurisdiction of any action or tort arising from a licensed launch or reentry.
+
+ (Sec. 108) Financial responsibility and reciprocal waiver of claims requirements now apply to space flight participants.
+
+ (Sec. 109) The bill expresses the sense of Congress concerning orbital traffic management.
+
+NASA shall arrange with an independent, nonprofit, private systems engineering and technical assistance organization to study frameworks for the management of space traffic and orbital activities.
+
+Congress recognizes the vital and unique role played by the Department of Defense (DOD) in the protection of national security assets in space.
+
+ (Sec. 110) The sense of Congress is expressed concerning state commercial launch facilities. States and state launch facilities should seek to take proper measures to secure their investments and the safety of third parties from potential damages that could be suffered from commercial launch activities.
+
+The GAO shall report to Congress on the potential inclusion of all government property, including state and municipal property, in the existing indemnification regime.
+
+ (Sec. 111) The GAO shall report to Congress on the use of space support vehicle services in the commercial space industry.
+
+ (Sec. 112) The sense of Congress is expressed concerning the elimination of duplicative requirements and approvals for commercial launch and reentry operations.
+
+This bill reaffirms that DOT, in overseeing and coordinating commercial launch and reentry operations, should:
+
+ promote commercial space launches and reentries by the private sector; facilitate government, state, and private sector involvement in enhancing U.S. launch sites and facilities; protect public health and safety, safety of property, national security interests, and foreign policy interests of the United States; and consult with another executive agency, including DOD or NASA, as necessary to provide consistent application of commercial space launch licensing requirements. DOT must consult with DOD, NASA, and other executive agencies to identify and evaluate all requirements imposed to protect health and safety, safety of property, national security interests, and foreign policy interests of the United States relevant to any commercial launch of a launch vehicle or commercial reentry of a reentry vehicle, and:
+
+ determine whether the satisfaction of a requirement of one agency could result in the satisfaction of a requirement of another agency, and resolve any inconsistencies and remove any outmoded or duplicative federal requirements or approvals. DOT shall report annually to Congress on these efforts until no outmoded or duplicative federal requirements or approvals exist.
+
+ (Sec. 113) References to the space shuttle in certain current federal law with respect to commercial space flight are changed to Space Launch System.
+
+TITLE II--SPACE RESOURCE EXPLORATION AND UTILIZATION
+
+Space Resource Exploration and Utilization Act of 2015
+
+(Sec. 202) This bill directs the President, acting through appropriate federal agencies, to:
+
+ facilitate the commercial exploration and utilization of space resources to meet national needs; discourage government barriers to the development of economically viable, safe, and stable industries for the exploration and utilization of space resources in manners consistent with the existing international obligations of the United States; and promote the right of U.S. commercial entities to explore outer space and utilize space resources, in accordance with such obligations, free from harmful interference, and to transfer or sell such resources. The President shall make recommendations to Congress for: (1) the allocation of responsibilities relating to the exploration and utilization of space resources among federal agencies, and (2) any authorities necessary to meet U.S. international obligations with respect to such exploration and resource utilization.
+
+Any asteroid resources obtained in outer space are the property of the entity that obtained them, which shall be entitled to all property rights to them, consistent with applicable federal law and existing international obligations.
+
+A U.S. commercial space resource utilization entity:
+
+ shall avoid causing harmful interference in outer space, and may bring a civil action in a U.S. district court for any action by another entity subject to U.S. jurisdiction causing harmful interference to its operations with respect to an asteroid resource utilization activity in outer space. TITLE III--COMMERCIAL REMOTE SENSING
+
+(Sec. 301) The Department of Commerce shall report annually to Congress on the implementation of its authority to license private sector parties to operate private remote sensing space systems.
+
+Such reports may include classified annexes necessary to protect the disclosure of sensitive or classified information.
+
+(Sec. 302) Commerce shall report to Congress on the statutory updates necessary to protect national security, protect privacy, protect the U.S. industrial base, and reflect state of the art remote sensing systems, instruments, or technologies.
+
+TITLE IV--OFFICE OF SPACE COMMERCE
+
+(Sec. 401) This bill renames the Office of Space Commercialization as the Office of Space Commerce.
+
+The Office of Space Commerce shall:
+
+ foster the conditions for the economic growth and technological advancement of the U.S. space commerce industry; coordinate space commerce policy issues and actions within Commerce; represent Commerce in the development of U.S. policies and in negotiations with foreign countries to promote U.S. space commerce; promote the advancement of U.S. geospatial technologies related to space commerce in cooperation with relevant interagency working groups; and support federal government organizations working on Space-Based Positioning, Navigation, and Timing policy.</summary>
+</bill>

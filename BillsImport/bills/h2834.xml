@@ -1,0 +1,33 @@
+<bill session="114" type="h" number="2834" updated="2015-07-04T06:42:17-04:00">
+  <state datetime="2015-06-18">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-18"/>
+  </status>
+  <introduced datetime="2015-06-18"/>
+  <titles>
+    <title type="official" as="introduced">To enact certain laws relating to the environment as title 55, United States Code, "Environment".</title>
+  </titles>
+  <sponsor id="412468"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-06-18">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E931"/>
+    </action>
+    <action datetime="2015-06-18" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+  </subjects>
+  <amendments/>
+  <summary>6/18/2015--Introduced.
+This bill replaces certain environmental laws in the United States Code with provisions in the new Title 55, Environment, as part of an effort to consolidate environmental acts found in several sections of the code into one title. Subtitle I of Title 55 contains provisions that establish the Environmental Protection Agency, national environmental policy, the National Environmental Policy Act of 1969, and the Council on Environmental Quality. Subtitle II contains provisions about air quality and air pollution control, including provisions from the Clean Air Act and related laws.
+
+A change in wording made in the restatement of existing law enacted by this bill is meant to elucidate the existing law, but not to change the meaning or effect of the existing law.</summary>
+</bill>

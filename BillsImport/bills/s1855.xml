@@ -1,0 +1,29 @@
+<bill session="114" type="s" number="1855" updated="2015-08-22T07:07:16-04:00">
+  <state datetime="2015-07-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-23"/>
+  </status>
+  <introduced datetime="2015-07-23"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide special foreign military sales status to the Philippines.</title>
+  </titles>
+  <sponsor id="412200"/>
+  <cosponsors>
+    <cosponsor id="412496" joined="2015-07-23"/>
+    <cosponsor id="400272" joined="2015-07-23"/>
+    <cosponsor id="412491" joined="2015-07-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-23" state="REFERRED">
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+  </subjects>
+  <amendments/>
+</bill>

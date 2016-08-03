@@ -1,0 +1,70 @@
+<bill session="114" type="h" number="282" updated="2015-07-21T04:47:34-04:00">
+  <state datetime="2015-01-12">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-12"/>
+  </status>
+  <introduced datetime="2015-01-12"/>
+  <titles>
+    <title type="short" as="introduced">Long-Term Studies of Comprehensive Outcomes and Returns for the Economy Act (Long-Term SCORE Act)</title>
+    <title type="official" as="introduced">To amend the Congressional Budget Act of 1974 to require that the Congressional Budget Office prepare long-term scoring estimates for reported bills and joint resolutions that could have significant economic and fiscal effects outside of the normal scoring periods.</title>
+  </titles>
+  <sponsor id="412489"/>
+  <cosponsors>
+    <cosponsor id="400033" joined="2015-03-18"/>
+    <cosponsor id="412563" joined="2015-04-13"/>
+    <cosponsor id="412613" joined="2015-07-20"/>
+    <cosponsor id="412524" joined="2015-06-18"/>
+    <cosponsor id="412280" joined="2015-07-07"/>
+    <cosponsor id="400170" joined="2015-06-12"/>
+    <cosponsor id="400641" joined="2015-06-12"/>
+    <cosponsor id="412511" joined="2015-04-14"/>
+    <cosponsor id="412422" joined="2015-06-03"/>
+    <cosponsor id="412284" joined="2015-01-12"/>
+    <cosponsor id="412649" joined="2015-07-13"/>
+    <cosponsor id="412290" joined="2015-04-23"/>
+    <cosponsor id="412638" joined="2015-04-16"/>
+    <cosponsor id="412558" joined="2015-04-13"/>
+    <cosponsor id="412487" joined="2015-01-12"/>
+    <cosponsor id="412632" joined="2015-07-07"/>
+    <cosponsor id="412303" joined="2015-05-15"/>
+    <cosponsor id="412523" joined="2015-06-24"/>
+    <cosponsor id="412585" joined="2015-01-12"/>
+    <cosponsor id="412483" joined="2015-06-02"/>
+    <cosponsor id="400360" joined="2015-06-15"/>
+    <cosponsor id="412417" joined="2015-04-22"/>
+    <cosponsor id="400365" joined="2015-03-23"/>
+    <cosponsor id="412520" joined="2015-01-12"/>
+    <cosponsor id="412410" joined="2015-06-02"/>
+    <cosponsor id="412255" joined="2015-06-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-12" state="REFERRED">
+      <text>Referred to the Committee on the Budget, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-01-12">
+      <text>Referred to House Budget</text>
+    </action>
+    <action datetime="2015-01-12">
+      <text>Referred to House Rules</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBU" name="House Budget" activity="Referral"/>
+    <committee code="HSRU" name="House Rules" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Budget deficits and national debt"/>
+    <term name="Congressional Budget Office (CBO)"/>
+    <term name="Congressional agencies"/>
+    <term name="Congressional operations and organization"/>
+    <term name="Economic performance and conditions"/>
+    <term name="Government studies and investigations"/>
+  </subjects>
+  <amendments/>
+  <summary>1/12/2015--Introduced.
+Long-Term Studies of Comprehensive Outcomes and Returns for the Economy Act (Long-Term SCORE Act) 
+
+This bill amends the Congressional Budget Act of 1974 to require the Congressional Budget Office (CBO) to prepare long-term cost estimates for legislation reported by congressional committees. It also establishes a long-term budget scoring division within CBO. The bill requires the long-term estimates to cover at least each of the next four ten-year periods. CBO currently provides cost estimates over a 5- or10-year period.</summary>
+</bill>

@@ -1,0 +1,84 @@
+<bill session="114" type="h" number="2750" updated="2015-08-08T06:42:18-04:00">
+  <state datetime="2015-07-27T16:35:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2015-07-27T16:35:00-04:00"/>
+  </status>
+  <introduced datetime="2015-06-12"/>
+  <titles>
+    <title type="short" as="introduced">Improved Security Vetting for Aviation Workers Act of 2015</title>
+    <title type="short" as="passed house">Improved Security Vetting for Aviation Workers Act of 2015</title>
+    <title type="official" as="introduced">To reform programs of the Transportation Security Administration, streamline transportation security regulations, and for other purposes.</title>
+  </titles>
+  <sponsor id="412649"/>
+  <cosponsors>
+    <cosponsor id="412435" joined="2015-06-18"/>
+    <cosponsor id="400654" joined="2015-06-12"/>
+    <cosponsor id="412611" joined="2015-06-17"/>
+    <cosponsor id="412506" joined="2015-06-12"/>
+    <cosponsor id="412647" joined="2015-06-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-12" state="REFERRED">
+      <text>Referred to the House Committee on Homeland Security.</text>
+    </action>
+    <action datetime="2015-06-15">
+      <text>Referred to the Subcommittee on Transportation Security.</text>
+    </action>
+    <action datetime="2015-06-16">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2015-06-16">
+      <text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .</text>
+    </action>
+    <action datetime="2015-06-25">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-06-25" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+    <action datetime="2015-07-27T12:25:00-04:00">
+      <text>Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-227.</text>
+    </action>
+    <calendar datetime="2015-07-27T12:25:00-04:00" calendar="Union" number="172">
+      <text>Placed on the Union Calendar, Calendar No. 172.</text>
+    </calendar>
+    <action datetime="2015-07-27T16:27:00-04:00">
+      <text>Mr. Katko moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2015-07-27T16:27:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5497-5499" label="consideration"/>
+    </action>
+    <action datetime="2015-07-27T16:27:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2750.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2015-07-27T16:35:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H5497-5498" label="text"/>
+    </vote>
+    <action datetime="2015-07-27T16:35:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2015-07-28">
+      <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSHM07" subcommittee="Transportation Security" name="House Homeland Security"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+  <summary>6/12/2015--Introduced.
+Improved Security Vetting for Aviation Workers Act of 2015
+
+This bill amends the Homeland Security Act of 2002 to	direct the Transportation Security Administration (TSA) of the Department of Homeland Security (DHS) to coordinate with DHS and the Interagency Policy Committee of the Office of the President to determine whether TSA should receive additional Terrorist Identities Datamart Environment data or other terrorism related category codes to assist in its credential vetting program for individuals with access to sensitive areas of airports.
+
+The TSA shall:
+
+ issue guidance for Transportation Security Inspectors to review annually airport badging office procedures for applicants seeking access to sensitive airport areas, including a comprehensive review of applicants' Criminal History Records Check and work authorization documentation during the course of an inspection; coordinate with DHS to conduct a Rap Back Service pilot program to determine the feasibility of its implementation across eligible TSA-regulated populations; issue guidance to airports requiring that all federalized airport badging authorities place an expiration date on airport credentials commensurate to the time which an individual is lawfully authorized to work in the United States; and review the denial of credentials due to an applicants's lawful status in order to identify airports with specific weaknesses and coordinate with them to address such weaknesses.</summary>
+</bill>

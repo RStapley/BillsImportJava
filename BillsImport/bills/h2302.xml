@@ -1,0 +1,79 @@
+<bill session="114" type="h" number="2302" updated="2015-08-01T06:38:45-04:00">
+  <state datetime="2015-05-13">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-13"/>
+  </status>
+  <introduced datetime="2015-05-13"/>
+  <titles>
+    <title type="short" as="introduced">Police Training and Independent Review Act of 2015</title>
+    <title type="official" as="introduced">To require that States receiving Byrne JAG funds to require sensitivity training for law enforcement officers of that State and to incentivize States to enact laws requiring the independent investigation and prosecution of the use of deadly force by law enforcement officers, and for other purposes.</title>
+  </titles>
+  <sponsor id="412236"/>
+  <cosponsors>
+    <cosponsor id="400047" joined="2015-05-14"/>
+    <cosponsor id="400048" joined="2015-05-19"/>
+    <cosponsor id="400616" joined="2015-06-16"/>
+    <cosponsor id="412258" joined="2015-06-09"/>
+    <cosponsor id="412379" joined="2015-06-23"/>
+    <cosponsor id="412470" joined="2015-05-21"/>
+    <cosponsor id="400074" joined="2015-05-13"/>
+    <cosponsor id="400090" joined="2015-05-14"/>
+    <cosponsor id="412327" joined="2015-06-01"/>
+    <cosponsor id="400653" joined="2015-07-08"/>
+    <cosponsor id="400162" joined="2015-05-18"/>
+    <cosponsor id="400163" joined="2015-05-18"/>
+    <cosponsor id="400170" joined="2015-05-14"/>
+    <cosponsor id="400185" joined="2015-06-15"/>
+    <cosponsor id="412561" joined="2015-05-21"/>
+    <cosponsor id="412199" joined="2015-05-19"/>
+    <cosponsor id="412638" joined="2015-06-09"/>
+    <cosponsor id="400237" joined="2015-06-18"/>
+    <cosponsor id="412616" joined="2015-07-07"/>
+    <cosponsor id="412558" joined="2015-07-10"/>
+    <cosponsor id="412189" joined="2015-06-03"/>
+    <cosponsor id="400271" joined="2015-05-18"/>
+    <cosponsor id="400661" joined="2015-05-14"/>
+    <cosponsor id="400295" joined="2015-05-18"/>
+    <cosponsor id="412659" joined="2015-06-09"/>
+    <cosponsor id="412585" joined="2015-05-18"/>
+    <cosponsor id="400333" joined="2015-05-14"/>
+    <cosponsor id="400350" joined="2015-05-15"/>
+    <cosponsor id="400366" joined="2015-05-21"/>
+    <cosponsor id="400378" joined="2015-06-09"/>
+    <cosponsor id="412520" joined="2015-06-03"/>
+    <cosponsor id="400402" joined="2015-05-15"/>
+    <cosponsor id="412319" joined="2015-06-02"/>
+    <cosponsor id="400415" joined="2015-05-21"/>
+    <cosponsor id="412579" joined="2015-06-25"/>
+    <cosponsor id="400422" joined="2015-05-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-13">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E698-699"/>
+    </action>
+    <action datetime="2015-05-13" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-06-01">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1065"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+  </subjects>
+  <amendments/>
+  <summary>5/13/2015--Introduced.
+Police Training and Independent Review Act of 2015
+
+ Requires states receiving funds under the Edward Byrne Memorial State and Local Law Enforcement Assistance Program, the Local Government Law Enforcement Block Grants Program, or the Edward Byrne Memorial Justice Assistance Grant Program to: (1) require all individuals enrolled in an academy of a law enforcement agency and all law enforcement officers of the state to fulfill a training session on sensitivity each fiscal year, including training on ethnic and racial bias, cultural diversity, and police interaction with the disabled, mentally ill, and new immigrants; and (2) certify to the Attorney General that such training sessions have been completed. Subjects a state that fails to comply to a reduction of up to 20% of such funds that would otherwise be allocated to the state. Authorizes the Attorney General to waive such requirements if compliance would violate a state's Constitution.
+
+Directs the Attorney General to reduce by 20% the amount that would otherwise be awarded to a state or local government under such grant programs for a fiscal year if it fails to enact or have in effect by the end of the previous fiscal year a statute requiring the appointment of an independent prosecutor to conduct any criminal investigation and prosecution in which: (1) one or more of the possible defendants is a law enforcement officer, (2) one or more of the alleged offenses involves the law enforcement officer's use of deadly force in the course of carrying out that officer's duty, and (3) the law enforcement officer's use of deadly force resulted in a death or injury.</summary>
+</bill>

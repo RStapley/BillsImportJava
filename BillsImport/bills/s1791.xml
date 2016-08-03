@@ -1,0 +1,29 @@
+<bill session="114" type="s" number="1791" updated="2015-08-22T07:06:43-04:00">
+  <state datetime="2015-07-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-16"/>
+  </status>
+  <introduced datetime="2015-07-16"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Delta Development Act to include Vernon and Sabine parishes in the definition of the term "Lower Mississippi".</title>
+  </titles>
+  <sponsor id="400418"/>
+  <cosponsors>
+    <cosponsor id="412269" joined="2015-07-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-16" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+  <summary>7/16/2015--Introduced.
+Amends the Delta Development Act to include Vernon and Sabine Parishes of Louisiana within the Lower Mississippi Delta region of the Delta Regional Authority.</summary>
+</bill>

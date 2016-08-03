@@ -1,0 +1,50 @@
+<bill session="114" type="s" number="1377" updated="2015-07-25T07:00:43-04:00">
+  <state datetime="2015-05-19">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-19"/>
+  </status>
+  <introduced datetime="2015-05-19"/>
+  <titles>
+    <title type="short" as="introduced">CEJA</title>
+    <title type="short" as="introduced">Civilian Extraterritorial Jurisdiction Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend title 18, United States Code, to clarify and expand Federal criminal jurisdiction over Federal contractors and employees outside the United States, and for other purposes.</title>
+  </titles>
+  <sponsor id="300065"/>
+  <cosponsors>
+    <cosponsor id="412281" joined="2015-05-20"/>
+    <cosponsor id="412243" joined="2015-05-19"/>
+    <cosponsor id="400357" joined="2015-05-19"/>
+    <cosponsor id="300087" joined="2015-05-19"/>
+    <cosponsor id="412323" joined="2015-05-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-19">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S3067-3068"/>
+    </action>
+    <action datetime="2015-05-19" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S3068-3070" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+  </subjects>
+  <amendments/>
+  <summary>5/19/2015--Introduced.
+Civilian Extraterritorial Jurisdiction Act of 2015 or the CEJA
+
+ Amends the federal criminal code to grant jurisdiction over and impose penalties on federal contractors and employees who commit certain crimes outside of the United States while employed by or accompanying any agency of the United States other than the Department of Defense or while so employed and stationed or deployed in a country outside of the United States pursuant to a treaty or executive agreement in furtherance of a border security initiative with that country. Sets forth the crimes under federal law that are covered by this Act.
+
+Provides for an optional venue for offenses under this Act involving federal employees and contractors overseas in the district in which is headquartered the U.S. agency that: (1) employs the offender, or any one or two or more joint offenders; or (2) the offender is accompanying, or that any one or two or more joint offenders is accompanying.
+
+Requires the statute of limitations for an offense under this Act to be suspended for the period during which the alleged offender is outside the United States or is a fugitive from justice.
+
+Directs the Attorney General to: (1) assign personnel and resources through task forces to investigate allegations of criminal offenses by federal contractors and employees overseas, and (2) report to Congress annually on the number of prosecutions and actions taken. Grants the Attorney General principal authority for the enforcement of this Act.
+
+Makes this Act inapplicable to the authorized intelligence activities of the U.S. government.</summary>
+</bill>

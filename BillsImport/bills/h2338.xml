@@ -1,0 +1,37 @@
+<bill session="114" type="h" number="2338" updated="2015-07-25T06:38:31-04:00">
+  <state datetime="2015-05-14">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-14"/>
+  </status>
+  <introduced datetime="2015-05-14"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Federal Food, Drug, and Cosmetic Act to provide for the development and use of patient experience data to enhance the structured risk-benefit assessment framework, and for other purposes.</title>
+  </titles>
+  <sponsor id="400320"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-05-14" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-05-15">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="6"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Drug safety, medical device, and laboratory regulation"/>
+    <term name="Health information and medical records"/>
+    <term name="Medical research"/>
+    <term name="Research administration and funding"/>
+  </subjects>
+  <amendments/>
+</bill>

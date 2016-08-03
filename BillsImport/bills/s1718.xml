@@ -1,0 +1,28 @@
+<bill session="114" type="s" number="1718" updated="2015-07-18T07:02:32-04:00">
+  <state datetime="2015-07-08">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-08"/>
+  </status>
+  <introduced datetime="2015-07-08"/>
+  <titles>
+    <title type="short" as="introduced">Four Rationers Repeal Act of 2015</title>
+    <title type="official" as="introduced">A bill to provide for the repeal of certain provisions of the Patient Protection and Affordable Care Act that have the effect of rationing health care.</title>
+  </titles>
+  <sponsor id="300083"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-08" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="484"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+</bill>

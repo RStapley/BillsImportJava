@@ -1,0 +1,39 @@
+<bill session="114" type="hr" number="384" updated="2015-08-22T06:18:54-04:00">
+  <state datetime="2015-07-27">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-27"/>
+  </status>
+  <introduced datetime="2015-07-27"/>
+  <titles>
+    <title type="official" as="introduced">Calling for a formal end of the Korean War.</title>
+  </titles>
+  <sponsor id="400333"/>
+  <cosponsors>
+    <cosponsor id="400080" joined="2015-07-27"/>
+    <cosponsor id="400206" joined="2015-07-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-27" state="REFERRED">
+      <text>Referred to the Committee on Foreign Affairs, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-07-27">
+      <text>Referred to House Foreign Affairs</text>
+    </action>
+    <action datetime="2015-07-27">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2015-08-05">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR09" subcommittee="Disability Assistance and Memorial Affairs" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+  </subjects>
+  <amendments/>
+</bill>

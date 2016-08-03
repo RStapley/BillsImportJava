@@ -1,0 +1,60 @@
+<bill session="114" type="h" number="2744" updated="2015-07-30T04:49:45-04:00">
+  <state datetime="2015-06-11">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-11"/>
+  </status>
+  <introduced datetime="2015-06-11"/>
+  <titles>
+    <title type="short" as="introduced">Integrated Coastal and Ocean Observation System Act Amendments of 2015</title>
+    <title type="official" as="introduced">To reauthorize the Integrated Coastal and Ocean Observation System Act of 2009, and for other purposes.</title>
+  </titles>
+  <sponsor id="400440"/>
+  <cosponsors>
+    <cosponsor id="400041" joined="2015-07-21"/>
+    <cosponsor id="412604" joined="2015-07-14"/>
+    <cosponsor id="400086" joined="2015-06-25"/>
+    <cosponsor id="400097" joined="2015-07-29"/>
+    <cosponsor id="412447" joined="2015-06-11"/>
+    <cosponsor id="412486" joined="2015-07-29"/>
+    <cosponsor id="400185" joined="2015-07-23"/>
+    <cosponsor id="412511" joined="2015-07-21"/>
+    <cosponsor id="412603" joined="2015-07-21"/>
+    <cosponsor id="400209" joined="2015-07-14"/>
+    <cosponsor id="412583" joined="2015-07-14"/>
+    <cosponsor id="400232" joined="2015-07-14"/>
+    <cosponsor id="412521" joined="2015-07-14"/>
+    <cosponsor id="412523" joined="2015-07-14"/>
+    <cosponsor id="412306" joined="2015-07-14"/>
+    <cosponsor id="412664" joined="2015-07-14"/>
+    <cosponsor id="400343" joined="2015-07-23"/>
+    <cosponsor id="412311" joined="2015-07-14"/>
+    <cosponsor id="412641" joined="2015-07-14"/>
+    <cosponsor id="412312" joined="2015-06-11"/>
+    <cosponsor id="412626" joined="2015-07-21"/>
+    <cosponsor id="400403" joined="2015-07-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-11" state="REFERRED">
+      <text>Referred to the Committee on Natural Resources, and in addition to the Committee on Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-06-11">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2015-06-11">
+      <text>Referred to House Science, Space, and Technology</text>
+    </action>
+    <action datetime="2015-07-01">
+      <text>Referred to the Subcommittee on Water, Power and Oceans.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII13" subcommittee="Water, Power and Oceans" name="House Natural Resources"/>
+    <committee code="HSSY" name="House Science, Space, and Technology" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+</bill>

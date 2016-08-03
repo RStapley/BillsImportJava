@@ -1,0 +1,31 @@
+<bill session="114" type="s" number="1703" updated="2015-07-28T05:10:42-04:00">
+  <state datetime="2015-06-25">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-25"/>
+  </status>
+  <introduced datetime="2015-06-25"/>
+  <titles>
+    <title type="short" as="introduced">Research of Alcohol Detection Systems for Stopping Alcohol-Related Fatalities Everywhere Act of 2015</title>
+    <title type="short" as="introduced">ROADS SAFE Act of 2015</title>
+    <title type="official" as="introduced">A bill to direct the Administrator of the National Highway Traffic Safety Administration to carry out a collaborative research effort to prevent drunk driving injuries and fatalities, and for other purposes.</title>
+  </titles>
+  <sponsor id="400413"/>
+  <cosponsors>
+    <cosponsor id="300087" joined="2015-07-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-25" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="3044"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+</bill>

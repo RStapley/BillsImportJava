@@ -1,0 +1,50 @@
+<bill session="114" type="h" number="189" updated="2015-06-06T06:19:40-04:00">
+  <state datetime="2015-02-12">REPORTED</state>
+  <status>
+    <unknown datetime="2015-02-12"/>
+  </status>
+  <introduced datetime="2015-01-07"/>
+  <titles>
+    <title type="short" as="introduced">Servicemember Foreclosure Protections Extension Act of 2015</title>
+    <title type="official" as="introduced">To extend foreclosure and eviction protections for servicemembers, and for other purposes.</title>
+  </titles>
+  <sponsor id="412276"/>
+  <cosponsors>
+    <cosponsor id="400048" joined="2015-01-08"/>
+    <cosponsor id="412557" joined="2015-02-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-07" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2015-01-27">
+      <text>Committee Hearings Held.</text>
+    </action>
+    <action datetime="2015-02-12">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-02-12" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, Hearings, Markup"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="190"/>
+    <bill relation="unknown" session="114" type="h" number="2475"/>
+    <bill relation="unknown" session="114" type="s" number="1152"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Housing finance and home ownership"/>
+    <term name="Veterans' loans, housing, homeless programs"/>
+  </subjects>
+  <amendments/>
+  <summary>1/7/2015--Introduced.
+Servicemember Foreclosure Protections Extension Act of 2015
+
+Amends the Honoring America's Veterans and Caring for Camp Lejeune Families Act of 2012 to extend through calendar year 2016 the one-year period after a service member's military service during which: (1) a court may stay proceedings to enforce an obligation on real or personal property owned by the service member before such military service; and (2) any sale, foreclosure, or seizure of such property shall be invalid without a court order or waiver agreement signed by the service member. (Currently, the extended one-year period is scheduled to expire on December 31, 2015, and return to a nine-month period under the Servicemembers Civil Relief Act.)
+
+Revives, effective January 1, 2017 (currently, January 1, 2016), the old nine-month period in place of the one-year period granted by such Act.</summary>
+</bill>

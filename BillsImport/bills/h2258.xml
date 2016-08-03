@@ -1,0 +1,49 @@
+<bill session="114" type="h" number="2258" updated="2015-07-29T04:48:25-04:00">
+  <state datetime="2015-05-12">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-12"/>
+  </status>
+  <introduced datetime="2015-05-12"/>
+  <titles>
+    <title type="official" as="introduced">To amend section 320301 of title 54, United States Code, to modify the authority of the President of the United States to declare national monuments, and for other purposes.</title>
+  </titles>
+  <sponsor id="412619"/>
+  <cosponsors>
+    <cosponsor id="412630" joined="2015-07-28"/>
+    <cosponsor id="412605" joined="2015-06-02"/>
+    <cosponsor id="412622" joined="2015-06-02"/>
+    <cosponsor id="412513" joined="2015-05-12"/>
+    <cosponsor id="412472" joined="2015-06-02"/>
+    <cosponsor id="412397" joined="2015-05-12"/>
+    <cosponsor id="412631" joined="2015-07-16"/>
+    <cosponsor id="412645" joined="2015-06-02"/>
+    <cosponsor id="400175" joined="2015-05-12"/>
+    <cosponsor id="412623" joined="2015-06-02"/>
+    <cosponsor id="412226" joined="2015-06-02"/>
+    <cosponsor id="412419" joined="2015-06-02"/>
+    <cosponsor id="412294" joined="2015-05-12"/>
+    <cosponsor id="412643" joined="2015-07-28"/>
+    <cosponsor id="412474" joined="2015-06-02"/>
+    <cosponsor id="412608" joined="2015-05-20"/>
+    <cosponsor id="400313" joined="2015-05-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-12" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2015-06-04">
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="Federal Lands" name="House Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+  <summary>5/12/2015--Introduced.
+This bill declares that any proclamation of a national monument or reservation of a parcel of land as part of a national monument shall expire three years after the proclamation or reservation unless specifically approved by: (1) a federal law enacted after the date of the proclamation or reservation; and (2) a state law, for each state where the land involved is located, that is enacted after such date.</summary>
+</bill>

@@ -1,0 +1,66 @@
+<bill session="114" type="h" number="2660" updated="2015-07-25T06:41:13-04:00">
+  <state datetime="2015-06-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-04"/>
+  </status>
+  <introduced datetime="2015-06-04"/>
+  <titles>
+    <title type="short" as="introduced">WIC Act</title>
+    <title type="short" as="introduced">Wise Investment in our Children Act</title>
+    <title type="official" as="introduced">To amend the Child Nutrition Act of 1966 to increase the age of eligibility for children to receive benefits under the special supplemental nutrition program for women, infants, and children, and for other purposes.</title>
+  </titles>
+  <sponsor id="400103"/>
+  <cosponsors>
+    <cosponsor id="412565" joined="2015-06-25"/>
+    <cosponsor id="412501" joined="2015-07-21"/>
+    <cosponsor id="412652" joined="2015-06-09"/>
+    <cosponsor id="400063" joined="2015-07-10"/>
+    <cosponsor id="412517" joined="2015-06-17"/>
+    <cosponsor id="412470" joined="2015-06-04"/>
+    <cosponsor id="412600" joined="2015-06-04"/>
+    <cosponsor id="400080" joined="2015-06-04"/>
+    <cosponsor id="412613" joined="2015-06-24"/>
+    <cosponsor id="412637" joined="2015-06-04"/>
+    <cosponsor id="400129" joined="2015-06-04"/>
+    <cosponsor id="412327" joined="2015-06-04"/>
+    <cosponsor id="400163" joined="2015-06-04"/>
+    <cosponsor id="412498" joined="2015-06-04"/>
+    <cosponsor id="400211" joined="2015-06-09"/>
+    <cosponsor id="400237" joined="2015-06-04"/>
+    <cosponsor id="400240" joined="2015-06-04"/>
+    <cosponsor id="412521" joined="2015-06-09"/>
+    <cosponsor id="400263" joined="2015-06-04"/>
+    <cosponsor id="400661" joined="2015-06-04"/>
+    <cosponsor id="400290" joined="2015-06-04"/>
+    <cosponsor id="412506" joined="2015-06-04"/>
+    <cosponsor id="412307" joined="2015-06-04"/>
+    <cosponsor id="412659" joined="2015-06-09"/>
+    <cosponsor id="412585" joined="2015-06-04"/>
+    <cosponsor id="400333" joined="2015-06-04"/>
+    <cosponsor id="400347" joined="2015-06-09"/>
+    <cosponsor id="400355" joined="2015-06-04"/>
+    <cosponsor id="400360" joined="2015-06-04"/>
+    <cosponsor id="400361" joined="2015-06-04"/>
+    <cosponsor id="400366" joined="2015-06-04"/>
+    <cosponsor id="412520" joined="2015-06-23"/>
+    <cosponsor id="412319" joined="2015-06-09"/>
+    <cosponsor id="412617" joined="2015-06-04"/>
+    <cosponsor id="412239" joined="2015-06-15"/>
+    <cosponsor id="412412" joined="2015-06-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-04" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1796"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+  </subjects>
+  <amendments/>
+</bill>

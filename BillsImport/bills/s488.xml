@@ -1,0 +1,48 @@
+<bill session="114" type="s" number="488" updated="2015-06-19T04:48:25-04:00">
+  <state datetime="2015-02-12">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-12"/>
+  </status>
+  <introduced datetime="2015-02-12"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act to allow physician assistants, nurse practitioners, and clinical nurse specialists to supervise cardiac, intensive cardiac, and pulmonary rehabilitation programs.</title>
+  </titles>
+  <sponsor id="300087"/>
+  <cosponsors>
+    <cosponsor id="400013" joined="2015-03-23"/>
+    <cosponsor id="300011" joined="2015-04-28"/>
+    <cosponsor id="400050" joined="2015-06-18"/>
+    <cosponsor id="400054" joined="2015-03-11"/>
+    <cosponsor id="400064" joined="2015-06-17"/>
+    <cosponsor id="300019" joined="2015-04-28"/>
+    <cosponsor id="412246" joined="2015-03-09"/>
+    <cosponsor id="300030" joined="2015-02-12"/>
+    <cosponsor id="300038" joined="2015-06-18"/>
+    <cosponsor id="412667" joined="2015-05-04"/>
+    <cosponsor id="300048" joined="2015-03-25"/>
+    <cosponsor id="412554" joined="2015-06-11"/>
+    <cosponsor id="400253" joined="2015-03-25"/>
+    <cosponsor id="412322" joined="2015-03-26"/>
+    <cosponsor id="300093" joined="2015-05-12"/>
+    <cosponsor id="412542" joined="2015-03-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-12" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Cardiovascular and respiratory health"/>
+    <term name="Health personnel"/>
+    <term name="Medicare"/>
+    <term name="Nursing"/>
+  </subjects>
+  <amendments/>
+  <summary>2/12/2015--Introduced.
+Amends title XVIII (Medicare) of the Social Security Act to allow physician assistants, nurse practitioners, and clinical nurse specialists to supervise cardiac, intensive cardiac, and pulmonary rehabilitation programs.</summary>
+</bill>

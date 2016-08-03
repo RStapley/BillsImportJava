@@ -1,0 +1,46 @@
+<bill session="114" type="s" number="1458" updated="2015-07-22T05:01:26-04:00">
+  <state datetime="2015-05-22">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-22"/>
+  </status>
+  <introduced datetime="2015-05-22"/>
+  <titles>
+    <title type="short" as="introduced">STREAM Act of 2015</title>
+    <title type="short" as="introduced">Supporting Transparent Regulatory and Environmental Actions in Mining Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend the Surface Mining Control and Reclamation Act of 1977 to ensure scientific transparency in the development of environmental regulations and for other purposes.</title>
+  </titles>
+  <sponsor id="402675"/>
+  <cosponsors>
+    <cosponsor id="412251" joined="2015-07-09"/>
+    <cosponsor id="400034" joined="2015-07-09"/>
+    <cosponsor id="400040" joined="2015-07-15"/>
+    <cosponsor id="400061" joined="2015-05-22"/>
+    <cosponsor id="412508" joined="2015-07-08"/>
+    <cosponsor id="300030" joined="2015-06-15"/>
+    <cosponsor id="412549" joined="2015-07-21"/>
+    <cosponsor id="300052" joined="2015-06-24"/>
+    <cosponsor id="412218" joined="2015-07-08"/>
+    <cosponsor id="412494" joined="2015-06-10"/>
+    <cosponsor id="412391" joined="2015-05-22"/>
+    <cosponsor id="400284" joined="2015-07-08"/>
+    <cosponsor id="412322" joined="2015-06-15"/>
+    <cosponsor id="300083" joined="2015-06-16"/>
+    <cosponsor id="412665" joined="2015-07-08"/>
+    <cosponsor id="400408" joined="2015-06-10"/>
+    <cosponsor id="400418" joined="2015-06-15"/>
+    <cosponsor id="400432" joined="2015-07-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-22" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+  </subjects>
+  <amendments/>
+</bill>

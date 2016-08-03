@@ -1,0 +1,33 @@
+<bill session="114" type="h" number="3315" updated="2015-08-06T04:48:09-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">Waterway Safety Improvement Act of 2015</title>
+    <title type="official" as="introduced">To amend the Water Resources Development Act of 1986 with respect to the maximum cost of projects, and for other purposes.</title>
+  </titles>
+  <sponsor id="412655"/>
+  <cosponsors>
+    <cosponsor id="400160" joined="2015-07-29"/>
+    <cosponsor id="400652" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2015-07-30">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW02" subcommittee="Water Resources and Environment" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Water resources development"/>
+  </subjects>
+  <amendments/>
+</bill>

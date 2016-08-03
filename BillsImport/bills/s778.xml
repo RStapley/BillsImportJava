@@ -1,0 +1,45 @@
+<bill session="114" type="s" number="778" updated="2015-04-11T06:40:11-04:00">
+  <state datetime="2015-03-18">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-18"/>
+  </status>
+  <introduced datetime="2015-03-18"/>
+  <titles>
+    <title type="short" as="introduced">Guantanamo Bay Recidivism Prevention Act of 2015</title>
+    <title type="official" as="introduced">A bill to prohibit the provision of certain foreign assistance to countries receiving certain detainees transferred from United States Naval Station, Guantanamo Bay, Cuba.</title>
+  </titles>
+  <sponsor id="412508"/>
+  <cosponsors>
+    <cosponsor id="412667" joined="2015-03-18"/>
+    <cosponsor id="412464" joined="2015-03-18"/>
+    <cosponsor id="412668" joined="2015-03-18"/>
+    <cosponsor id="400418" joined="2015-03-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-18" state="REFERRED">
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1689"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Caribbean area"/>
+    <term name="Cuba"/>
+    <term name="Detention of persons"/>
+    <term name="Foreign aid and international relief"/>
+    <term name="Latin America"/>
+    <term name="Military assistance, sales, and agreements"/>
+    <term name="Military facilities and property"/>
+    <term name="Terrorism"/>
+  </subjects>
+  <amendments/>
+  <summary>3/18/2015--Introduced.
+Guantanamo Bay Recidivism Prevention Act of 2015
+
+This bill prohibits assistance under the Foreign Assistance Act of 1961 and the Arms Export Control Act for five years to a foreign country if: (1) the country received an individual who was released or transferred from United States Naval Station, Guantanamo Bay, Cuba, on or after February 1, 2015; and (2) after the date of such release or transfer, the individual is included in a report of individuals confirmed or suspected of returning to terrorist activities.</summary>
+</bill>

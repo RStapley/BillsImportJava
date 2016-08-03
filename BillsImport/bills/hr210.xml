@@ -1,0 +1,65 @@
+<bill session="114" type="hr" number="210" updated="2015-08-22T06:17:27-04:00">
+  <state datetime="2015-04-17">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-17"/>
+  </status>
+  <introduced datetime="2015-04-17"/>
+  <titles>
+    <title type="official" as="introduced">Affirming and recognizing the Khmer, Laotian, Hmong, and Montagnard Freedom Fighters and the people of Cambodia and Laos for their support and defense of the United States Armed Forces and freedom in Southeast Asia.</title>
+  </titles>
+  <sponsor id="412488"/>
+  <cosponsors>
+    <cosponsor id="400047" joined="2015-04-17"/>
+    <cosponsor id="400057" joined="2015-05-29"/>
+    <cosponsor id="400071" joined="2015-04-21"/>
+    <cosponsor id="412513" joined="2015-04-20"/>
+    <cosponsor id="412403" joined="2015-06-19"/>
+    <cosponsor id="412477" joined="2015-07-22"/>
+    <cosponsor id="412639" joined="2015-06-11"/>
+    <cosponsor id="412524" joined="2015-07-29"/>
+    <cosponsor id="412661" joined="2015-04-17"/>
+    <cosponsor id="412584" joined="2015-06-16"/>
+    <cosponsor id="412282" joined="2015-07-07"/>
+    <cosponsor id="412583" joined="2015-06-08"/>
+    <cosponsor id="400224" joined="2015-05-13"/>
+    <cosponsor id="400232" joined="2015-06-23"/>
+    <cosponsor id="400245" joined="2015-06-11"/>
+    <cosponsor id="412521" joined="2015-05-18"/>
+    <cosponsor id="412468" joined="2015-06-19"/>
+    <cosponsor id="400259" joined="2015-07-29"/>
+    <cosponsor id="400262" joined="2015-07-21"/>
+    <cosponsor id="400661" joined="2015-06-23"/>
+    <cosponsor id="412632" joined="2015-07-29"/>
+    <cosponsor id="412192" joined="2015-04-17"/>
+    <cosponsor id="412585" joined="2015-07-07"/>
+    <cosponsor id="412489" joined="2015-06-02"/>
+    <cosponsor id="400343" joined="2015-04-20"/>
+    <cosponsor id="400365" joined="2015-05-29"/>
+    <cosponsor id="412628" joined="2015-07-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-17" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2015-05-20">
+      <text>Referred to the Subcommittee on Asia and the Pacific.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSFA05" subcommittee="Asia and the Pacific" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Asia"/>
+    <term name="Cambodia"/>
+    <term name="Conflicts and wars"/>
+    <term name="Congressional tributes"/>
+    <term name="Laos"/>
+    <term name="Military history"/>
+  </subjects>
+  <amendments/>
+  <summary>4/17/2015--Introduced.
+Recognizes the Khmer, Laotian, Hmong, and Montagnard Freedom Fighters and the people of Cambodia and Laos for their support and defense of the U.S. Armed Forces and freedom in Southeast Asia.</summary>
+</bill>

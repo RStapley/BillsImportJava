@@ -1,0 +1,26 @@
+<bill session="114" type="s" number="1924" updated="2015-08-13T09:46:09-04:00">
+  <state datetime="2015-08-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-08-04"/>
+  </status>
+  <introduced datetime="2015-08-04"/>
+  <titles>
+    <title type="short" as="introduced">Black Hills National Cemetery Boundary Expansion Act</title>
+    <title type="official" as="introduced">A bill to transfer administrative jurisdiction over certain Bureau of Land Management land from the Secretary of the Interior to the Secretary of Veterans Affairs for inclusion in the Black Hills National Cemetery, and for other purposes.</title>
+  </titles>
+  <sponsor id="400546"/>
+  <cosponsors>
+    <cosponsor id="412669" joined="2015-08-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-08-04" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,39 @@
+<bill session="114" type="h" number="2421" updated="2015-08-01T06:39:46-04:00">
+  <state datetime="2015-05-19">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-19"/>
+  </status>
+  <introduced datetime="2015-05-19"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Public Health Service Act to increase accountability at the National Institutes of Health.</title>
+  </titles>
+  <sponsor id="400018"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-05-19" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-05-22">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="6"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Federal officials"/>
+    <term name="Government studies and investigations"/>
+    <term name="Medical research"/>
+    <term name="National Institutes of Health (NIH)"/>
+    <term name="Research administration and funding"/>
+  </subjects>
+  <amendments/>
+</bill>

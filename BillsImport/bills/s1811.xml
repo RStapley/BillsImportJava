@@ -1,0 +1,33 @@
+<bill session="114" type="s" number="1811" updated="2015-08-01T07:07:23-04:00">
+  <state datetime="2015-07-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-21"/>
+  </status>
+  <introduced datetime="2015-07-21"/>
+  <titles>
+    <title type="short" as="introduced">Superstorm Sandy Relief and Disaster Loan Program Improvement Act of 2015</title>
+    <title type="official" as="introduced">A bill to require the Administrator of the Small Business Administration to establish a program to make loans to certain businesses, homeowners, and renters affected by Superstorm Sandy.</title>
+  </titles>
+  <sponsor id="400272"/>
+  <cosponsors>
+    <cosponsor id="412598" joined="2015-07-21"/>
+    <cosponsor id="412223" joined="2015-07-21"/>
+    <cosponsor id="300087" joined="2015-07-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on Small Business and Entrepreneurship.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSSB" name="Senate Small Business and Entrepreneurship" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="208"/>
+    <bill relation="unknown" session="114" type="h" number="2397"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commerce"/>
+  </subjects>
+  <amendments/>
+</bill>

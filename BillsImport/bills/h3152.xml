@@ -1,0 +1,47 @@
+<bill session="114" type="h" number="3152" updated="2015-08-22T06:45:40-04:00">
+  <state datetime="2015-07-22">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-22"/>
+  </status>
+  <introduced datetime="2015-07-22"/>
+  <titles>
+    <title type="short" as="introduced">Rural Broadband Initiative Act</title>
+    <title type="official" as="introduced">To amend the Rural Electrification Act of 1936 to establish an Office of Rural Broadband Initiatives in the Department of Agriculture, and for other purposes.</title>
+  </titles>
+  <sponsor id="408211"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-22" state="REFERRED">
+      <text>Referred to the Committee on Agriculture, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-07-22">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2015-07-22">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-08-06">
+      <text>Referred to the Subcommittee on Commodity Exchanges, Energy, and Credit.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee activity="Referral" code="HSAG22" subcommittee="Commodity Exchanges, Energy, and Credit" name="House Agriculture"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+  </subjects>
+  <amendments/>
+  <summary>7/22/2015--Introduced.
+Rural Broadband Initiative Act 
+
+This bill amends the Rural Electrification Act of 1936 to establish an Office of Rural Broadband Initiatives at the Department of Agriculture (USDA) and and an Under Secretary for Rural Broadband Initiatives appointed by the President to head the Office.
+
+The Under Secretary is responsible for administering all rural broadband-related grant and loan programs previously administered by the Administrator of the Rural Utilities Service and must:
+
+ conduct nationwide outreach to rural areas; foster the development of a comprehensive rural broadband strategic vision; plan coordination of federal resources for state, regional, and local governments to assist rural areas; assess all relevant technologies; serve as a single information source for and coordinate all federal rural broadband programs and services; and provide technical assistance to state, regional, and local governments. The Under Secretary must also:
+
+ submit to the President and Congress a comprehensive rural broadband strategy; submit to Congress a plan to establish a Rural Broadband Advisory Panel; establish a web-based clearinghouse that describes options, opportunities, resources, successful public-private partnerships, funding sources, and technology tutorials; and revise the rules and qualification criteria for the loan and loan guarantee programs. USDA must report to Congress on the resources and staff necessary to carry out this bill, and the Government Accountability Office must review the report.</summary>
+</bill>

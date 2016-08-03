@@ -1,0 +1,37 @@
+<bill session="114" type="s" number="506" updated="2015-03-14T06:41:32-04:00">
+  <state datetime="2015-02-12">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-12"/>
+  </status>
+  <introduced datetime="2015-02-12"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend part B of title XVIII of the Social Security Act to exclude customary prompt pay discounts from manufacturers to wholesalers from the average sales price for drugs and biologicals under Medicare, and for other purposes.</title>
+  </titles>
+  <sponsor id="300083"/>
+  <cosponsors>
+    <cosponsor id="400050" joined="2015-02-12"/>
+    <cosponsor id="412246" joined="2015-02-12"/>
+    <cosponsor id="412269" joined="2015-02-12"/>
+    <cosponsor id="412406" joined="2015-02-12"/>
+    <cosponsor id="300093" joined="2015-02-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-12" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="696"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Medicare"/>
+    <term name="Prescription drugs"/>
+  </subjects>
+  <amendments/>
+  <summary>2/12/2015--Introduced.
+Amends part B (Supplementary Medical Insurance) of title XVIII (Medicare) of the Social Security Act to exclude from the average sales price in calculating Medicare payments for drugs and biologicals any customary prompt pay discounts from manufacturers to wholesalers.</summary>
+</bill>

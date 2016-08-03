@@ -1,0 +1,33 @@
+<bill session="114" type="s" number="1552" updated="2015-06-19T04:48:40-04:00">
+  <state datetime="2015-06-11">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-11"/>
+  </status>
+  <introduced datetime="2015-06-11"/>
+  <titles>
+    <title type="short" as="introduced">Clean Water for Rural Communities Act</title>
+    <title type="official" as="introduced">A bill to authorize the Dry-Redwater Regional Water Authority System and the Musselshell-Judith Rural Water System in the State of Montana, and for other purposes.</title>
+  </titles>
+  <sponsor id="412549"/>
+  <cosponsors>
+    <cosponsor id="412244" joined="2015-06-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-11" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+      <reference ref="CR S4105-4106" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2015-06-18">
+      <text>Committee on Energy and Natural Resources Subcommittee on Water and Power. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+    <committee activity="Hearings" code="SSEG07" subcommittee="Water and Power" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Water resources development"/>
+  </subjects>
+  <amendments/>
+</bill>

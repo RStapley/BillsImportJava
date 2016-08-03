@@ -1,0 +1,69 @@
+<bill session="114" type="h" number="613" updated="2015-05-14T04:46:45-04:00">
+  <state datetime="2015-01-28">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-28"/>
+  </status>
+  <introduced datetime="2015-01-28"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Omnibus Crime Control and Safe Streets Act of 1968 to authorize veterans' treatment courts and encourage services for veterans.</title>
+  </titles>
+  <sponsor id="412466"/>
+  <cosponsors>
+    <cosponsor id="412500" joined="2015-02-27"/>
+    <cosponsor id="412539" joined="2015-03-17"/>
+    <cosponsor id="412427" joined="2015-01-28"/>
+    <cosponsor id="412407" joined="2015-01-28"/>
+    <cosponsor id="412571" joined="2015-02-27"/>
+    <cosponsor id="412658" joined="2015-01-28"/>
+    <cosponsor id="412651" joined="2015-01-28"/>
+    <cosponsor id="412544" joined="2015-02-12"/>
+    <cosponsor id="400130" joined="2015-01-28"/>
+    <cosponsor id="400646" joined="2015-01-28"/>
+    <cosponsor id="400170" joined="2015-04-13"/>
+    <cosponsor id="412566" joined="2015-03-17"/>
+    <cosponsor id="412583" joined="2015-02-12"/>
+    <cosponsor id="400230" joined="2015-02-24"/>
+    <cosponsor id="400263" joined="2015-02-26"/>
+    <cosponsor id="412632" joined="2015-04-13"/>
+    <cosponsor id="400290" joined="2015-01-28"/>
+    <cosponsor id="412647" joined="2015-05-13"/>
+    <cosponsor id="400403" joined="2015-04-13"/>
+    <cosponsor id="412319" joined="2015-01-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-28" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-03-17">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Congressional oversight"/>
+    <term name="Criminal procedure and sentencing"/>
+    <term name="Drug, alcohol, tobacco use"/>
+    <term name="Government studies and investigations"/>
+    <term name="Mental health"/>
+    <term name="Specialized courts"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+    <term name="Veterans' loans, housing, homeless programs"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>1/28/2015--Introduced.
+Servicemember Assistance for Lawful Understanding, Treatment, and Education Act or the SALUTE Act
+
+Amends the Omnibus Crime Control and Safe Streets Act of 1968 to authorize the Attorney General to award grants for developing, implementing, or enhancing veterans' treatment courts or expanding operational mental health or drug courts to serve veterans to ensure that such courts effectively integrate substance abuse treatment, mental health treatment, sanctions and incentives, and transitional services, in a judicially supervised court setting with jurisdiction over offenders who are veterans.
+
+Authorizes the Attorney General to award such grants to states, state courts, local courts, local governments, and Indian tribal governments for court programs that involve
+
+ continuing judicial supervision over offenders who are veterans with substance abuse or mental health problems; coordination with appropriate federal, state, or local prosecutors; coordination with the Veterans Health Administration; and the integrated administration of other sanctions and services, including substance abuse and mental health treatment, supervised release involving the possibility of prosecution, confinement, or incarceration based on non-compliance with program requirements or failure to show satisfactory progress, and offender management. Prohibits the use of grant funds to provide judicial supervision over, treatment of, or other services to violent offenders.
+
+Directs the Comptroller General to conduct a study to assess the effectiveness and impact of such grant program.</summary>
+</bill>

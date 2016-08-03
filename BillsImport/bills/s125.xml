@@ -1,0 +1,108 @@
+<bill session="114" type="s" number="125" updated="2015-06-27T07:18:59-04:00">
+  <state datetime="2015-05-06">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2015-05-06"/>
+  </status>
+  <introduced datetime="2015-01-08"/>
+  <titles>
+    <title type="short" as="introduced">Bulletproof Vest Partnership Grant Program Reauthorization Act of 2015</title>
+    <title type="short" as="reported to senate">Bulletproof Vest Partnership Grant Program Reauthorization Act of 2015</title>
+    <title type="short" as="passed senate">Bulletproof Vest Partnership Grant Program Reauthorization Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend title I of the Omnibus Crime Control and Safe Streets Act of 1968 to extend the authorization of the Bulletproof Vest Partnership Grant Program through fiscal year 2020, and for other purposes.</title>
+  </titles>
+  <sponsor id="300065"/>
+  <cosponsors>
+    <cosponsor id="412493" joined="2015-02-11"/>
+    <cosponsor id="400013" joined="2015-04-15"/>
+    <cosponsor id="412490" joined="2015-02-23"/>
+    <cosponsor id="400034" joined="2015-01-08"/>
+    <cosponsor id="400050" joined="2015-02-11"/>
+    <cosponsor id="400064" joined="2015-02-11"/>
+    <cosponsor id="300025" joined="2015-05-04"/>
+    <cosponsor id="412390" joined="2015-01-08"/>
+    <cosponsor id="300027" joined="2015-01-08"/>
+    <cosponsor id="412205" joined="2015-04-13"/>
+    <cosponsor id="300038" joined="2015-03-04"/>
+    <cosponsor id="300043" joined="2015-03-25"/>
+    <cosponsor id="412378" joined="2015-01-16"/>
+    <cosponsor id="300047" joined="2015-01-08"/>
+    <cosponsor id="300052" joined="2015-01-12"/>
+    <cosponsor id="412554" joined="2015-04-15"/>
+    <cosponsor id="412242" joined="2015-03-25"/>
+    <cosponsor id="412325" joined="2015-05-06"/>
+    <cosponsor id="412305" joined="2015-02-27"/>
+    <cosponsor id="300081" joined="2015-03-23"/>
+    <cosponsor id="300087" joined="2015-01-08"/>
+    <cosponsor id="400408" joined="2015-05-04"/>
+    <cosponsor id="400413" joined="2015-03-23"/>
+    <cosponsor id="412247" joined="2015-01-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-08">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S101"/>
+    </action>
+    <action datetime="2015-01-08" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+    <calendar datetime="2015-03-26" state="REPORTED">
+      <text>Committee on the Judiciary. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="2015-03-26">
+      <text>Committee on the Judiciary. Reported by Senator Grassley without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="2015-03-26" calendar="Senate Legislative" under="General Orders" number="32">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 32.</text>
+    </calendar>
+    <action datetime="2015-05-06">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S2670-2672" label="consideration"/>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="2015-05-06" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Voice Vote.</text>
+      <reference ref="CR S2671-2672" label="text"/>
+    </vote>
+    <action datetime="2015-05-07">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2015-05-08T11:08:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2015-05-08">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-05-15">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Appropriations"/>
+    <term name="Law enforcement administration and funding"/>
+    <term name="Law enforcement officers"/>
+    <term name="Worker safety and health"/>
+  </subjects>
+  <amendments>
+    <amendment number="s1214"/>
+  </amendments>
+  <summary>5/6/2015--Passed Senate amended.
+Bulletproof Vest Partnership Grant Program Reauthorization Act of 2015
+
+(Sec. 2) Amends the Omnibus Crime Control and Safe Streets Act of 1968 to extend through FY2020 the authorization of appropriations for the Bulletproof Vest Partnership Grant Program.
+
+(Sec. 3) Requires the transfer to the Treasury, no later than January 31, 2023, of all funds appropriated for such Program for FY2016-FY2020 that are not obligated on or before December 31, 2022.
+
+(Sec. 4) Expresses the sense of Congress that amounts made available to carry out such Program should be made available through the end of the fiscal year following the one for which the amounts are appropriated and should not be made available until expended.
+
+(Sec. 5) Prohibits a state, local government, or Indian tribe from using any funding under another grant program to pay or defer the cost of the matching fund requirement for such Program.
+
+(Sec. 6) Requires a grantee under such Act that uses funds to purchase an armor vest or body armor to comply with any requirements for the use of Program grants, to have a written policy requiring uniformed patrol officers to wear an armor vest or body armor, and to use the funds to purchase vests or body armor that meet performance standards established by the Bureau of Justice Assistance.
+
+(Sec. 7) Allows preferential consideration in Program grant awards to jurisdictions that provide armor vests to law enforcement officers that are uniquely fitted for such officers, including individual female officers.</summary>
+</bill>

@@ -1,0 +1,29 @@
+<bill session="114" type="s" number="1432" updated="2015-06-10T04:49:14-04:00">
+  <state datetime="2015-05-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-21"/>
+  </status>
+  <introduced datetime="2015-05-21"/>
+  <titles>
+    <title type="short" as="introduced">Carbon Fiber Recycling Act of 2015</title>
+    <title type="official" as="introduced">A bill to require the Secretary of Energy to conduct a study on the technology, potential lifecycle energy savings, and economic impact of recycled carbon fiber, and for other purposes.</title>
+  </titles>
+  <sponsor id="300018"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-05-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2015-06-09">
+      <text>Committee on Energy and Natural Resources. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+  </subjects>
+  <amendments/>
+</bill>

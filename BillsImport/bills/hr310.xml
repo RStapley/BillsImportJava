@@ -1,0 +1,148 @@
+<bill session="114" type="hr" number="310" updated="2015-07-11T06:18:12-04:00">
+  <state datetime="2015-07-08T16:23:00-04:00">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2015-07-08T16:23:00-04:00"/>
+  </status>
+  <introduced datetime="2015-06-12"/>
+  <titles>
+    <title type="official" as="introduced">Expressing the sense of the House of Representatives regarding Srebrenica.</title>
+  </titles>
+  <sponsor id="400380"/>
+  <cosponsors>
+    <cosponsor id="412657" joined="2015-07-07"/>
+    <cosponsor id="400030" joined="2015-06-23"/>
+    <cosponsor id="400033" joined="2015-06-16"/>
+    <cosponsor id="400063" joined="2015-06-17"/>
+    <cosponsor id="412258" joined="2015-06-24"/>
+    <cosponsor id="412379" joined="2015-07-07"/>
+    <cosponsor id="412470" joined="2015-06-12"/>
+    <cosponsor id="400074" joined="2015-06-12"/>
+    <cosponsor id="412236" joined="2015-06-16"/>
+    <cosponsor id="412272" joined="2015-06-12"/>
+    <cosponsor id="400080" joined="2015-06-17"/>
+    <cosponsor id="412513" joined="2015-06-12"/>
+    <cosponsor id="400086" joined="2015-06-12"/>
+    <cosponsor id="412621" joined="2015-07-07"/>
+    <cosponsor id="400093" joined="2015-07-07"/>
+    <cosponsor id="412477" joined="2015-07-07"/>
+    <cosponsor id="412385" joined="2015-06-23"/>
+    <cosponsor id="412672" joined="2015-06-16"/>
+    <cosponsor id="412263" joined="2015-06-23"/>
+    <cosponsor id="412639" joined="2015-06-12"/>
+    <cosponsor id="400122" joined="2015-06-12"/>
+    <cosponsor id="400124" joined="2015-07-07"/>
+    <cosponsor id="412524" joined="2015-07-07"/>
+    <cosponsor id="400640" joined="2015-06-12"/>
+    <cosponsor id="400141" joined="2015-06-23"/>
+    <cosponsor id="400653" joined="2015-07-07"/>
+    <cosponsor id="400160" joined="2015-07-07"/>
+    <cosponsor id="412454" joined="2015-07-07"/>
+    <cosponsor id="400641" joined="2015-06-23"/>
+    <cosponsor id="400185" joined="2015-06-25"/>
+    <cosponsor id="412422" joined="2015-06-12"/>
+    <cosponsor id="400199" joined="2015-06-23"/>
+    <cosponsor id="412284" joined="2015-06-24"/>
+    <cosponsor id="400204" joined="2015-06-12"/>
+    <cosponsor id="412435" joined="2015-06-12"/>
+    <cosponsor id="412595" joined="2015-06-25"/>
+    <cosponsor id="400219" joined="2015-06-12"/>
+    <cosponsor id="412421" joined="2015-06-12"/>
+    <cosponsor id="400233" joined="2015-06-12"/>
+    <cosponsor id="412616" joined="2015-07-08"/>
+    <cosponsor id="400245" joined="2015-06-12"/>
+    <cosponsor id="412521" joined="2015-06-25"/>
+    <cosponsor id="400246" joined="2015-07-07"/>
+    <cosponsor id="412562" joined="2015-06-12"/>
+    <cosponsor id="412468" joined="2015-06-12"/>
+    <cosponsor id="400259" joined="2015-06-23"/>
+    <cosponsor id="400262" joined="2015-06-12"/>
+    <cosponsor id="400263" joined="2015-06-12"/>
+    <cosponsor id="412552" joined="2015-06-17"/>
+    <cosponsor id="412560" joined="2015-06-12"/>
+    <cosponsor id="400276" joined="2015-06-24"/>
+    <cosponsor id="412569" joined="2015-06-12"/>
+    <cosponsor id="412308" joined="2015-07-07"/>
+    <cosponsor id="412331" joined="2015-06-12"/>
+    <cosponsor id="400344" joined="2015-07-08"/>
+    <cosponsor id="412570" joined="2015-06-12"/>
+    <cosponsor id="400350" joined="2015-06-12"/>
+    <cosponsor id="400361" joined="2015-06-23"/>
+    <cosponsor id="400365" joined="2015-06-12"/>
+    <cosponsor id="412186" joined="2015-06-17"/>
+    <cosponsor id="400378" joined="2015-06-23"/>
+    <cosponsor id="412319" joined="2015-07-07"/>
+    <cosponsor id="400411" joined="2015-06-12"/>
+    <cosponsor id="400415" joined="2015-07-07"/>
+    <cosponsor id="412548" joined="2015-06-25"/>
+    <cosponsor id="412574" joined="2015-06-12"/>
+    <cosponsor id="412640" joined="2015-06-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-12" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2015-07-08T15:57:00-04:00">
+      <text>Mr. Smith (NJ) moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2015-07-08T15:57:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4904-4908" label="consideration"/>
+    </action>
+    <action datetime="2015-07-08T15:57:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 310.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2015-07-08T16:23:00-04:00" where="h" result="pass" state="PASSED:SIMPLERES">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H4904-4905" label="text"/>
+    </vote>
+    <action datetime="2015-07-08T16:23:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="sr" number="211"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Africa"/>
+    <term name="Bosnia and Herzegovina"/>
+    <term name="Burundi"/>
+    <term name="Central African Republic"/>
+    <term name="Conflicts and wars"/>
+    <term name="Congressional tributes"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="Europe"/>
+    <term name="Human rights"/>
+    <term name="International law and treaties"/>
+    <term name="Middle East"/>
+    <term name="Natural disasters"/>
+    <term name="Racial and ethnic relations"/>
+    <term name="Religion"/>
+    <term name="Rule of law and government transparency"/>
+    <term name="Serbia"/>
+    <term name="Sovereignty, recognition, national governance and status"/>
+    <term name="Syria"/>
+    <term name="War crimes, genocide, crimes against humanity"/>
+  </subjects>
+  <amendments/>
+  <summary>7/8/2015--Passed House without amendment.
+(This measure has not been amended since it was introduced. The summary of that version is repeated here.)
+
+Affirms that the policies of aggression and ethnic cleansing implemented by Serb forces in Bosnia and Herzegovina from 1992 to 1995 meet the terms of genocide.
+
+Urges the Atrocities Prevention Board, a U.S. interagency committee established by the Administration in 2012, to study the lessons of Srebrenica and issue guidance on how to prevent similar incidents from recurring in the future.
+
+Encourages the United States to reaffirm its policy of supporting the independence and territorial integrity of Bosnia and Herzegovina, peace and stability in southeastern Europe, and the right of all people living in the region to return to their homes and enjoy the benefits of democratic institutions, as well as to know the fate of missing relatives and friends.
+
+Recognizes the achievement of the International Commission for Missing Persons in accounting for those missing in conflicts or natural disasters around the world.
+
+Welcomes the arrest and transfer to the International Criminal Tribunal for the former Yugoslavia of all persons indicted for war crimes, crimes against humanity, genocide and grave breaches of the 1949 Geneva Conventions, particularly those of Radovan Karadzic and Ratko Mladic.
+
+Asserts that it is in the U.S. national interest that those individuals who are responsible for these crimes should continue to be held accountable for their actions.
+
+Honors the thousands of innocent people killed or executed at Srebrenica in Bosnia and Herzegovina in July 1995, along with all individuals who were victimized during the conflict and genocide in Bosnia and Herzegovina from 1992 to 1995, as well as the foreign nationals who risked and in some cases lost their lives during their defense of human rights and fundamental freedoms.</summary>
+</bill>

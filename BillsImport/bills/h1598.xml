@@ -1,0 +1,91 @@
+<bill session="114" type="h" number="1598" updated="2015-07-21T04:47:47-04:00">
+  <state datetime="2015-03-25">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-25"/>
+  </status>
+  <introduced datetime="2015-03-25"/>
+  <titles>
+    <title type="short" as="introduced">Veteran Spouses Equal Treatment Act</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to amend the definition of the term "spouse" to recognize new State definitions of such term for the purpose of the laws administered by the Secretary of Veterans Affairs.</title>
+  </titles>
+  <sponsor id="412318"/>
+  <cosponsors>
+    <cosponsor id="412657" joined="2015-04-14"/>
+    <cosponsor id="400033" joined="2015-04-14"/>
+    <cosponsor id="412516" joined="2015-03-25"/>
+    <cosponsor id="412571" joined="2015-04-28"/>
+    <cosponsor id="412600" joined="2015-03-25"/>
+    <cosponsor id="412271" joined="2015-03-25"/>
+    <cosponsor id="412272" joined="2015-03-25"/>
+    <cosponsor id="400080" joined="2015-03-25"/>
+    <cosponsor id="412621" joined="2015-03-25"/>
+    <cosponsor id="412505" joined="2015-04-16"/>
+    <cosponsor id="412613" joined="2015-06-10"/>
+    <cosponsor id="412385" joined="2015-03-25"/>
+    <cosponsor id="412420" joined="2015-04-23"/>
+    <cosponsor id="412524" joined="2015-04-14"/>
+    <cosponsor id="412529" joined="2015-03-25"/>
+    <cosponsor id="400162" joined="2015-03-25"/>
+    <cosponsor id="412454" joined="2015-03-25"/>
+    <cosponsor id="412446" joined="2015-06-18"/>
+    <cosponsor id="400641" joined="2015-05-19"/>
+    <cosponsor id="400185" joined="2015-07-14"/>
+    <cosponsor id="400195" joined="2015-04-14"/>
+    <cosponsor id="412603" joined="2015-03-25"/>
+    <cosponsor id="412595" joined="2015-05-19"/>
+    <cosponsor id="412286" joined="2015-04-14"/>
+    <cosponsor id="400237" joined="2015-07-07"/>
+    <cosponsor id="412616" joined="2015-04-30"/>
+    <cosponsor id="412521" joined="2015-03-25"/>
+    <cosponsor id="400246" joined="2015-07-20"/>
+    <cosponsor id="412562" joined="2015-06-24"/>
+    <cosponsor id="400259" joined="2015-06-03"/>
+    <cosponsor id="400262" joined="2015-04-28"/>
+    <cosponsor id="400263" joined="2015-04-14"/>
+    <cosponsor id="412527" joined="2015-04-14"/>
+    <cosponsor id="400295" joined="2015-05-21"/>
+    <cosponsor id="412575" joined="2015-03-25"/>
+    <cosponsor id="412192" joined="2015-06-10"/>
+    <cosponsor id="412523" joined="2015-04-14"/>
+    <cosponsor id="412307" joined="2015-03-25"/>
+    <cosponsor id="412308" joined="2015-04-14"/>
+    <cosponsor id="412331" joined="2015-04-14"/>
+    <cosponsor id="412647" joined="2015-04-14"/>
+    <cosponsor id="400344" joined="2015-03-25"/>
+    <cosponsor id="412519" joined="2015-04-23"/>
+    <cosponsor id="400350" joined="2015-03-25"/>
+    <cosponsor id="412186" joined="2015-05-19"/>
+    <cosponsor id="400379" joined="2015-03-25"/>
+    <cosponsor id="412514" joined="2015-05-19"/>
+    <cosponsor id="412520" joined="2015-03-25"/>
+    <cosponsor id="412579" joined="2015-04-14"/>
+    <cosponsor id="412214" joined="2015-03-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-24">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H1858"/>
+    </action>
+    <action datetime="2015-03-25" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2015-04-07">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR09" subcommittee="Disability Assistance and Memorial Affairs" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <summary>3/25/2015--Introduced.
+Veteran Spouses Equal Treatment Act
+
+This bill amends the definition of "spouse" for purposes of veterans' benefits to require the Department of Veterans Affairs (VA) to recognize a marriage based on the law of the state where the marriage occurred.
+
+When a marriage occurs outside a state, the VA shall recognize it if the marriage is lawful in the place where it occurs and could have been entered into under the laws of any state.</summary>
+</bill>

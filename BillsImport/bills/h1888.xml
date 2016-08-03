@@ -1,0 +1,38 @@
+<bill session="114" type="h" number="1888" updated="2015-05-23T06:33:43-04:00">
+  <state datetime="2015-04-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-16"/>
+  </status>
+  <introduced datetime="2015-04-16"/>
+  <titles>
+    <title type="short" as="introduced">Fluke Fairness Act</title>
+    <title type="official" as="introduced">To provide for an equitable management of summer flounder based on geographic, scientific, and economic data and for other purposes.</title>
+  </titles>
+  <sponsor id="412646"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-04-16" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2015-05-07">
+      <text>Referred to the Subcommittee on Water, Power and Oceans.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII13" subcommittee="Water, Power and Oceans" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1107"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Atlantic Ocean"/>
+    <term name="Congressional oversight"/>
+    <term name="Fishes"/>
+    <term name="Government studies and investigations"/>
+    <term name="Hunting and fishing"/>
+    <term name="Marine and coastal resources, fisheries"/>
+  </subjects>
+  <amendments/>
+</bill>

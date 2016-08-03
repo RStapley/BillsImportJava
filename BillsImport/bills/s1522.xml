@@ -1,0 +1,33 @@
+<bill session="114" type="s" number="1522" updated="2015-07-18T07:00:54-04:00">
+  <state datetime="2015-06-08">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-08"/>
+  </status>
+  <introduced datetime="2015-06-08"/>
+  <titles>
+    <title type="short" as="introduced">Land Management Workforce Flexibility Act</title>
+    <title type="official" as="introduced">A bill to amend title 5, United States Code, to provide a pathway for temporary seasonal employees in Federal land management agencies to compete for vacant permanent positions under internal merit promotion procedures, and for other purposes.</title>
+  </titles>
+  <sponsor id="412496"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-06-08" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1531"/>
+    <bill relation="unknown" session="114" type="s" number="1591"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+  </subjects>
+  <amendments/>
+  <summary>6/8/2015--Introduced.
+Land Management Workforce Flexibility Act
+
+Makes an employee of a land management agency serving under a time-limited appointment in the competitive service eligible to compete for a permanent appointment in the agency or any other agency if: (1) the original appointment was competitive, (2) the employee has served under one or more time-limited appointments totaling more than 24 months without a break of two or more years, and (3) the employee's performance has been at an acceptable level.</summary>
+</bill>

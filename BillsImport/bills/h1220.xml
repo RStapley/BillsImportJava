@@ -1,0 +1,180 @@
+<bill session="114" type="h" number="1220" updated="2015-07-30T04:48:28-04:00">
+  <state datetime="2015-03-03">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-03"/>
+  </status>
+  <introduced datetime="2015-03-03"/>
+  <titles>
+    <title type="short" as="introduced">Removing Barriers to Colorectal Cancer Screening Act of 2015</title>
+    <title type="official" as="introduced">To amend title XVIII of the Social Security Act to waive coinsurance under Medicare for colorectal cancer screening tests, regardless of whether therapeutic intervention is required during the screening.</title>
+  </titles>
+  <sponsor id="400648"/>
+  <cosponsors>
+    <cosponsor id="412630" joined="2015-07-09"/>
+    <cosponsor id="412500" joined="2015-06-02"/>
+    <cosponsor id="412655" joined="2015-05-14"/>
+    <cosponsor id="412469" joined="2015-07-22"/>
+    <cosponsor id="412565" joined="2015-05-14"/>
+    <cosponsor id="412512" joined="2015-06-18"/>
+    <cosponsor id="412657" joined="2015-07-09"/>
+    <cosponsor id="400030" joined="2015-04-16"/>
+    <cosponsor id="400032" joined="2015-07-09"/>
+    <cosponsor id="400033" joined="2015-04-14"/>
+    <cosponsor id="400636" joined="2015-05-14"/>
+    <cosponsor id="412652" joined="2015-05-14"/>
+    <cosponsor id="400047" joined="2015-04-14"/>
+    <cosponsor id="412539" joined="2015-04-30"/>
+    <cosponsor id="400048" joined="2015-04-16"/>
+    <cosponsor id="412516" joined="2015-05-14"/>
+    <cosponsor id="412427" joined="2015-07-09"/>
+    <cosponsor id="400052" joined="2015-05-14"/>
+    <cosponsor id="400616" joined="2015-04-22"/>
+    <cosponsor id="412407" joined="2015-04-16"/>
+    <cosponsor id="412571" joined="2015-05-14"/>
+    <cosponsor id="400071" joined="2015-05-14"/>
+    <cosponsor id="412470" joined="2015-03-19"/>
+    <cosponsor id="412600" joined="2015-07-28"/>
+    <cosponsor id="412236" joined="2015-06-18"/>
+    <cosponsor id="412563" joined="2015-06-18"/>
+    <cosponsor id="412272" joined="2015-06-18"/>
+    <cosponsor id="412513" joined="2015-07-14"/>
+    <cosponsor id="412651" joined="2015-07-09"/>
+    <cosponsor id="412193" joined="2015-03-03"/>
+    <cosponsor id="400089" joined="2015-06-18"/>
+    <cosponsor id="400090" joined="2015-04-22"/>
+    <cosponsor id="412536" joined="2015-04-14"/>
+    <cosponsor id="400100" joined="2015-05-14"/>
+    <cosponsor id="412505" joined="2015-04-16"/>
+    <cosponsor id="412613" joined="2015-06-02"/>
+    <cosponsor id="412215" joined="2015-04-30"/>
+    <cosponsor id="400122" joined="2015-04-22"/>
+    <cosponsor id="400646" joined="2015-03-03"/>
+    <cosponsor id="400640" joined="2015-05-14"/>
+    <cosponsor id="400142" joined="2015-04-16"/>
+    <cosponsor id="412382" joined="2015-06-18"/>
+    <cosponsor id="412620" joined="2015-06-18"/>
+    <cosponsor id="400158" joined="2015-04-14"/>
+    <cosponsor id="412276" joined="2015-06-02"/>
+    <cosponsor id="400160" joined="2015-04-22"/>
+    <cosponsor id="400162" joined="2015-04-16"/>
+    <cosponsor id="412454" joined="2015-06-02"/>
+    <cosponsor id="412645" joined="2015-04-30"/>
+    <cosponsor id="412280" joined="2015-04-16"/>
+    <cosponsor id="400170" joined="2015-06-02"/>
+    <cosponsor id="412584" joined="2015-06-02"/>
+    <cosponsor id="400641" joined="2015-04-14"/>
+    <cosponsor id="400179" joined="2015-03-19"/>
+    <cosponsor id="400185" joined="2015-06-02"/>
+    <cosponsor id="412511" joined="2015-04-16"/>
+    <cosponsor id="400195" joined="2015-04-30"/>
+    <cosponsor id="412561" joined="2015-05-14"/>
+    <cosponsor id="412284" joined="2015-07-29"/>
+    <cosponsor id="412460" joined="2015-07-29"/>
+    <cosponsor id="412199" joined="2015-04-14"/>
+    <cosponsor id="412603" joined="2015-05-14"/>
+    <cosponsor id="412566" joined="2015-06-18"/>
+    <cosponsor id="412595" joined="2015-07-09"/>
+    <cosponsor id="412583" joined="2015-06-02"/>
+    <cosponsor id="400218" joined="2015-07-09"/>
+    <cosponsor id="412191" joined="2015-04-30"/>
+    <cosponsor id="412290" joined="2015-03-19"/>
+    <cosponsor id="400232" joined="2015-04-22"/>
+    <cosponsor id="400237" joined="2015-04-22"/>
+    <cosponsor id="412616" joined="2015-04-22"/>
+    <cosponsor id="400630" joined="2015-04-22"/>
+    <cosponsor id="412209" joined="2015-04-22"/>
+    <cosponsor id="400245" joined="2015-05-14"/>
+    <cosponsor id="412558" joined="2015-05-14"/>
+    <cosponsor id="412293" joined="2015-06-02"/>
+    <cosponsor id="400251" joined="2015-04-16"/>
+    <cosponsor id="412562" joined="2015-04-30"/>
+    <cosponsor id="400656" joined="2015-06-18"/>
+    <cosponsor id="400663" joined="2015-03-19"/>
+    <cosponsor id="400654" joined="2015-07-09"/>
+    <cosponsor id="400259" joined="2015-03-19"/>
+    <cosponsor id="400262" joined="2015-05-14"/>
+    <cosponsor id="400263" joined="2015-04-14"/>
+    <cosponsor id="412487" joined="2015-04-16"/>
+    <cosponsor id="412466" joined="2015-04-14"/>
+    <cosponsor id="408211" joined="2015-06-02"/>
+    <cosponsor id="400295" joined="2015-04-22"/>
+    <cosponsor id="412409" joined="2015-06-18"/>
+    <cosponsor id="412575" joined="2015-07-09"/>
+    <cosponsor id="412443" joined="2015-06-02"/>
+    <cosponsor id="400309" joined="2015-04-16"/>
+    <cosponsor id="412506" joined="2015-03-03"/>
+    <cosponsor id="412192" joined="2015-05-14"/>
+    <cosponsor id="412523" joined="2015-04-14"/>
+    <cosponsor id="400316" joined="2015-06-02"/>
+    <cosponsor id="412307" joined="2015-04-14"/>
+    <cosponsor id="412585" joined="2015-04-16"/>
+    <cosponsor id="400652" joined="2015-06-02"/>
+    <cosponsor id="400333" joined="2015-04-22"/>
+    <cosponsor id="412489" joined="2015-06-02"/>
+    <cosponsor id="400340" joined="2015-07-28"/>
+    <cosponsor id="412311" joined="2015-04-14"/>
+    <cosponsor id="400344" joined="2015-06-02"/>
+    <cosponsor id="412519" joined="2015-06-02"/>
+    <cosponsor id="400350" joined="2015-04-16"/>
+    <cosponsor id="412650" joined="2015-06-02"/>
+    <cosponsor id="400352" joined="2015-04-22"/>
+    <cosponsor id="400355" joined="2015-06-02"/>
+    <cosponsor id="400360" joined="2015-04-14"/>
+    <cosponsor id="400361" joined="2015-04-16"/>
+    <cosponsor id="412315" joined="2015-04-14"/>
+    <cosponsor id="412417" joined="2015-06-18"/>
+    <cosponsor id="400363" joined="2015-04-16"/>
+    <cosponsor id="400365" joined="2015-06-02"/>
+    <cosponsor id="412186" joined="2015-04-16"/>
+    <cosponsor id="400379" joined="2015-04-16"/>
+    <cosponsor id="400380" joined="2015-04-14"/>
+    <cosponsor id="412259" joined="2015-04-16"/>
+    <cosponsor id="412514" joined="2015-05-14"/>
+    <cosponsor id="412520" joined="2015-05-14"/>
+    <cosponsor id="400403" joined="2015-04-22"/>
+    <cosponsor id="412405" joined="2015-06-02"/>
+    <cosponsor id="412319" joined="2015-06-02"/>
+    <cosponsor id="412254" joined="2015-04-16"/>
+    <cosponsor id="400415" joined="2015-06-02"/>
+    <cosponsor id="412522" joined="2015-03-19"/>
+    <cosponsor id="400419" joined="2015-06-18"/>
+    <cosponsor id="412214" joined="2015-07-14"/>
+    <cosponsor id="400623" joined="2015-06-18"/>
+    <cosponsor id="412644" joined="2015-06-18"/>
+    <cosponsor id="412574" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-03" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-03-03">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-03-03">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-03-06">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="624"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Cancer"/>
+    <term name="Digestive and metabolic diseases"/>
+    <term name="Medical tests and diagnostic methods"/>
+    <term name="Medicare"/>
+  </subjects>
+  <amendments/>
+  <summary>3/3/2015--Introduced.
+Removing Barriers to Colorectal Cancer Screening Act of 2015 
+
+ This bill amends title XVIII (Medicare) of the Social Security Act to waive coinsurance for colorectal cancer screening tests (in order to cover 100% of their cost under Medicare part B [Supplementary Medical Insurance Benefits for the Aged and Disabled]), regardless of the code billed for a diagnosis as a result of a test, or for the removal of tissue or other procedure furnished in connection with, as a result of, and in the same clinical encounter as the screening test.</summary>
+</bill>

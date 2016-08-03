@@ -1,0 +1,57 @@
+<bill session="114" type="h" number="538" updated="2015-04-16T04:46:55-04:00">
+  <state datetime="2015-01-26">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-26"/>
+  </status>
+  <introduced datetime="2015-01-26"/>
+  <titles>
+    <title type="short" as="introduced">Native American Energy Act</title>
+    <title type="official" as="introduced">To facilitate the development of energy on Indian lands by reducing Federal regulations that impede tribal development of Indian lands, and for other purposes.</title>
+  </titles>
+  <sponsor id="400440"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-01-26" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2015-03-02">
+      <text>Referred to the Subcommittee on Energy and Mineral Resources.</text>
+    </action>
+    <action datetime="2015-03-02">
+      <text>Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII06" subcommittee="Energy and Mineral Resources" name="House Natural Resources"/>
+    <committee activity="Referral" code="HSII24" subcommittee="Indian, Insular and Alaska Native Affairs" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1487"/>
+    <bill relation="unknown" session="114" type="s" number="791"/>
+  </relatedbills>
+  <subjects>
+    <term name="Native Americans"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Administrative remedies"/>
+    <term name="Alternative and renewable resources"/>
+    <term name="Civil actions and liability"/>
+    <term name="Coal"/>
+    <term name="Contracts and agency"/>
+    <term name="Department of the Interior"/>
+    <term name="Electric power generation and transmission"/>
+    <term name="Environmental assessment, monitoring, research"/>
+    <term name="Environmental regulatory procedures"/>
+    <term name="Federal-Indian relations"/>
+    <term name="Forests, forestry, trees"/>
+    <term name="Indian lands and resources rights"/>
+    <term name="Indian social and development programs"/>
+    <term name="Judicial review and appeals"/>
+    <term name="Land transfers"/>
+    <term name="Land use and conservation"/>
+    <term name="Legal fees and court costs"/>
+    <term name="Licensing and registrations"/>
+    <term name="Oil and gas"/>
+  </subjects>
+  <amendments/>
+</bill>

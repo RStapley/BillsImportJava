@@ -1,0 +1,39 @@
+<bill session="114" type="s" number="1143" updated="2015-08-04T04:47:28-04:00">
+  <state datetime="2015-04-30">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-30"/>
+  </status>
+  <introduced datetime="2015-04-30"/>
+  <titles>
+    <title type="short" as="introduced">West Coast Dungeness Crab Management Act</title>
+    <title type="official" as="introduced">A bill to make the authority of States of Washington, Oregon, and California to manage Dungeness crab fishery permanent and for other purposes.</title>
+  </titles>
+  <sponsor id="300018"/>
+  <cosponsors>
+    <cosponsor id="300011" joined="2015-08-03"/>
+    <cosponsor id="300043" joined="2015-08-03"/>
+    <cosponsor id="412325" joined="2015-07-23"/>
+    <cosponsor id="300076" joined="2015-06-23"/>
+    <cosponsor id="300100" joined="2015-05-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-30" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="2168"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="California"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Oregon"/>
+    <term name="State and local government operations"/>
+    <term name="Washington State"/>
+  </subjects>
+  <amendments/>
+</bill>

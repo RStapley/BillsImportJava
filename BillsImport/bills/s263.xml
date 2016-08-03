@@ -1,0 +1,39 @@
+<bill session="114" type="s" number="263" updated="2015-06-06T06:45:47-04:00">
+  <state datetime="2015-01-27">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-27"/>
+  </status>
+  <introduced datetime="2015-01-27"/>
+  <titles>
+    <title type="official" as="introduced">A bill to protect the right of individuals to bear arms at water resources development projects.</title>
+  </titles>
+  <sponsor id="300030"/>
+  <cosponsors>
+    <cosponsor id="400040" joined="2015-02-24"/>
+    <cosponsor id="412322" joined="2015-01-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-27" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="578"/>
+    <bill relation="unknown" session="114" type="h" number="2406"/>
+    <bill relation="unknown" session="114" type="s" number="405"/>
+    <bill relation="unknown" session="114" type="s" number="659"/>
+  </relatedbills>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Army Corps of Engineers"/>
+    <term name="Department of Defense"/>
+    <term name="Firearms and explosives"/>
+  </subjects>
+  <amendments/>
+  <summary>1/27/2015--Introduced.
+Prohibits the Department of the Army from promulgating or enforcing any regulation that prohibits an individual from possessing a firearm in any area open to the public (other than a federal facility) at a water resources development project administered by the Chief of Engineers if: (1) the individual is not otherwise prohibited by law from possessing the firearm, and (2) the possession of the firearm is in compliance with the law of the state in which the project is located.</summary>
+</bill>

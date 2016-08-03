@@ -1,0 +1,30 @@
+<bill session="114" type="h" number="2952" updated="2015-07-25T06:43:40-04:00">
+  <state datetime="2015-07-07">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-07"/>
+  </status>
+  <introduced datetime="2015-07-07"/>
+  <titles>
+    <title type="short" as="introduced">Improving Employment Outcomes of TANF Recipients Act</title>
+    <title type="official" as="introduced">To provide payments to States for increasing the employment, job retention, and earnings of former TANF recipients.</title>
+  </titles>
+  <sponsor id="400636"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-07" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+  </subjects>
+  <amendments/>
+  <summary>7/7/2015--Introduced.
+Improving Employment Outcomes of TANF Recipients
+
+This bill amends part A (Temporary Assistance for Needy Families) (TANF) of title IV of the Social Security Act to replace the current program of bonus grants for high performing states with a program requiring the Department of Health and Human Services (HHS) to make a grant to a state for each fiscal year that it achieves a requisite level of performance, under an agreement with HHS, indicated by the percentage of former TANF recipients who are in unsubsidized employment after exiting the TANF program.</summary>
+</bill>

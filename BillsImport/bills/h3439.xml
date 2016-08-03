@@ -1,0 +1,25 @@
+<bill session="114" type="h" number="3439" updated="2015-08-05T04:47:40-04:00">
+  <state datetime="2015-08-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-08-04"/>
+  </status>
+  <introduced datetime="2015-08-04"/>
+  <titles>
+    <title type="official" as="introduced">To direct the Secretary of Defense to provide for the inclusion of the names of certain members of the Armed Forces on the Vietnam Veterans Memorial.</title>
+  </titles>
+  <sponsor id="400343"/>
+  <cosponsors>
+    <cosponsor id="412618" joined="2015-08-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-08-04" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

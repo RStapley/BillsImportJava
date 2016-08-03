@@ -1,0 +1,76 @@
+<bill session="114" type="h" number="388" updated="2015-03-04T04:46:41-05:00">
+  <state datetime="2015-01-14">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-14"/>
+  </status>
+  <introduced datetime="2015-01-14"/>
+  <titles>
+    <title type="short" as="introduced">Wounded Veterans Recreation Act</title>
+    <title type="official" as="introduced">To provide for a lifetime National Recreational Pass for any veteran with a service-connected disability, and for other purposes.</title>
+  </titles>
+  <sponsor id="412519"/>
+  <cosponsors>
+    <cosponsor id="412436" joined="2015-01-14"/>
+    <cosponsor id="400041" joined="2015-01-14"/>
+    <cosponsor id="412516" joined="2015-01-14"/>
+    <cosponsor id="412379" joined="2015-01-14"/>
+    <cosponsor id="412236" joined="2015-01-14"/>
+    <cosponsor id="400080" joined="2015-01-14"/>
+    <cosponsor id="400618" joined="2015-01-14"/>
+    <cosponsor id="412382" joined="2015-01-21"/>
+    <cosponsor id="400185" joined="2015-01-14"/>
+    <cosponsor id="400195" joined="2015-01-14"/>
+    <cosponsor id="412199" joined="2015-01-14"/>
+    <cosponsor id="412603" joined="2015-01-14"/>
+    <cosponsor id="400209" joined="2015-01-14"/>
+    <cosponsor id="412557" joined="2015-01-14"/>
+    <cosponsor id="400230" joined="2015-01-14"/>
+    <cosponsor id="400263" joined="2015-01-21"/>
+    <cosponsor id="412585" joined="2015-02-03"/>
+    <cosponsor id="400326" joined="2015-01-14"/>
+    <cosponsor id="400352" joined="2015-01-14"/>
+    <cosponsor id="412581" joined="2015-01-14"/>
+    <cosponsor id="412520" joined="2015-01-14"/>
+    <cosponsor id="412254" joined="2015-01-14"/>
+    <cosponsor id="412214" joined="2015-01-14"/>
+    <cosponsor id="400440" joined="2015-01-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-14" state="REFERRED">
+      <text>Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-01-14">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2015-01-14">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2015-01-26">
+      <text>Referred to the Subcommittee on Conservation and Forestry.</text>
+    </action>
+    <action datetime="2015-03-02">
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="Federal Lands" name="House Natural Resources"/>
+    <committee code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee activity="Referral" code="HSAG15" subcommittee="Conservation and Forestry" name="House Agriculture"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Disability and paralysis"/>
+    <term name="Disability assistance"/>
+    <term name="Outdoor recreation"/>
+    <term name="Parks, recreation areas, trails"/>
+    <term name="User charges and fees"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>1/14/2015--Introduced.
+Wounded Veterans Recreation Act
+
+Amends the Federal Lands Recreation Enhancement Act to require the National Parks and Federal Recreational Lands Pass, which is made available for the lifetime of the passholder without charge to any U.S. citizen or person domiciled in the United States who has been medically determined to be permanently disabled, to be made available to any veteran with a service-connected disability.</summary>
+</bill>

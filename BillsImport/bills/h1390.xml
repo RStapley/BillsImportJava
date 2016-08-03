@@ -1,0 +1,38 @@
+<bill session="114" type="h" number="1390" updated="2015-06-27T06:42:28-04:00">
+  <state datetime="2015-03-17">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-17"/>
+  </status>
+  <introduced datetime="2015-03-17"/>
+  <titles>
+    <title type="short" as="introduced">Small Business Joint Venturing Act of 2015</title>
+    <title type="official" as="introduced">To amend the Small Business Act to modify the requirements for joint venture offers for bundled or consolidated contracts, and for other purposes.</title>
+  </titles>
+  <sponsor id="412614"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-03-17" state="REFERRED">
+      <text>Referred to the House Committee on Small Business.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSM" name="House Small Business" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1481"/>
+    <bill relation="unknown" session="114" type="h" number="1735"/>
+    <bill relation="unknown" session="114" type="s" number="958"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Performance measurement"/>
+    <term name="Public contracts and procurement"/>
+  </subjects>
+  <amendments/>
+  <summary>3/17/2015--Introduced.
+Small Business Joint Venturing Act of 2015
+
+This bill amends the Small Business Act to revise requirements with respect to solicitation of offers for bundled contracts issued by the head of a federal agency that allows a small business to submit an offer (bid) that provides for the use of a particular team of subcontractors for the performance of the contract.
+
+The small business is also permitted to bid on a bundled or consolidated contract that provides for the use of a joint venture of small businesses.</summary>
+</bill>

@@ -1,0 +1,78 @@
+<bill session="114" type="s" number="141" updated="2015-07-30T04:52:20-04:00">
+  <state datetime="2015-01-08">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-08"/>
+  </status>
+  <introduced datetime="2015-01-08"/>
+  <titles>
+    <title type="short" as="introduced">Protecting Seniors' Access to Medicare Act of 2015</title>
+    <title type="official" as="introduced">A bill to repeal the provisions of the Patient Protection and Affordable Care Act providing for the Independent Payment Advisory Board.</title>
+  </titles>
+  <sponsor id="300027"/>
+  <cosponsors>
+    <cosponsor id="412493" joined="2015-01-08"/>
+    <cosponsor id="412251" joined="2015-01-08"/>
+    <cosponsor id="400034" joined="2015-01-08"/>
+    <cosponsor id="400040" joined="2015-01-08"/>
+    <cosponsor id="400054" joined="2015-01-08"/>
+    <cosponsor id="400061" joined="2015-02-26"/>
+    <cosponsor id="412269" joined="2015-01-08"/>
+    <cosponsor id="402675" joined="2015-01-08"/>
+    <cosponsor id="300023" joined="2015-01-08"/>
+    <cosponsor id="300025" joined="2015-01-08"/>
+    <cosponsor id="412508" joined="2015-05-11"/>
+    <cosponsor id="300030" joined="2015-01-08"/>
+    <cosponsor id="412549" joined="2015-01-08"/>
+    <cosponsor id="412667" joined="2015-02-09"/>
+    <cosponsor id="412556" joined="2015-01-08"/>
+    <cosponsor id="400134" joined="2015-01-08"/>
+    <cosponsor id="412406" joined="2015-01-13"/>
+    <cosponsor id="300047" joined="2015-01-08"/>
+    <cosponsor id="300048" joined="2015-01-08"/>
+    <cosponsor id="412218" joined="2015-01-08"/>
+    <cosponsor id="412494" joined="2015-01-08"/>
+    <cosponsor id="300055" joined="2015-01-08"/>
+    <cosponsor id="400194" joined="2015-01-08"/>
+    <cosponsor id="412496" joined="2015-01-08"/>
+    <cosponsor id="400222" joined="2015-01-08"/>
+    <cosponsor id="412464" joined="2015-01-12"/>
+    <cosponsor id="300071" joined="2015-07-29"/>
+    <cosponsor id="400284" joined="2015-01-08"/>
+    <cosponsor id="412492" joined="2015-01-08"/>
+    <cosponsor id="412666" joined="2015-05-19"/>
+    <cosponsor id="400325" joined="2015-01-08"/>
+    <cosponsor id="300083" joined="2015-01-08"/>
+    <cosponsor id="412669" joined="2015-05-04"/>
+    <cosponsor id="412491" joined="2015-01-08"/>
+    <cosponsor id="412471" joined="2015-01-08"/>
+    <cosponsor id="300089" joined="2015-01-12"/>
+    <cosponsor id="400546" joined="2015-01-08"/>
+    <cosponsor id="412668" joined="2015-01-08"/>
+    <cosponsor id="400408" joined="2015-01-08"/>
+    <cosponsor id="400418" joined="2015-01-12"/>
+    <cosponsor id="400432" joined="2015-01-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-08" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <reference ref="CR S107" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="1190"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Advisory bodies"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Medicare"/>
+  </subjects>
+  <amendments/>
+  <summary>1/8/2015--Introduced.
+Protecting Seniors' Access to Medicare Act of 2015
+
+Repeals sections of the Patient Protection and Affordable Care Act (and restores provisions of law amended by those sections) related to the establishment of an Independent Payment Advisory Board to develop proposals to reduce the per capita rate of growth in spending under title XVIII (Medicare) of the Social Security Act.</summary>
+</bill>

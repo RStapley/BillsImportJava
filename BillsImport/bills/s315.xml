@@ -1,0 +1,40 @@
+<bill session="114" type="s" number="315" updated="2015-06-09T04:47:16-04:00">
+  <state datetime="2015-01-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-29"/>
+  </status>
+  <introduced datetime="2015-01-29"/>
+  <titles>
+    <title type="short" as="introduced">Hearing Aid Assistance Tax Credit Act</title>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to allow a credit against income tax for the purchase of hearing aids.</title>
+  </titles>
+  <sponsor id="412218"/>
+  <cosponsors>
+    <cosponsor id="412242" joined="2015-01-29"/>
+    <cosponsor id="300065" joined="2015-06-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-29" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1882"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Aging"/>
+    <term name="Health technology, devices, supplies"/>
+    <term name="Hearing, speech, and vision care"/>
+    <term name="Income tax credits"/>
+    <term name="Tax treatment of families"/>
+  </subjects>
+  <amendments/>
+  <summary>1/29/2015--Introduced.
+Hearing Aid Assistance Tax Credit Act
+
+Amends the Internal Revenue Code to allow a tax credit of up to $500 in a taxable year for the purchase of a hearing aid that is authorized under the Federal Food, Drug, and Cosmetic Act for commercial distribution and is intended for use by the taxpayer or a dependent of the taxpayer.</summary>
+</bill>

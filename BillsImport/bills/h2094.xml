@@ -1,0 +1,54 @@
+<bill session="114" type="h" number="2094" updated="2015-07-25T06:36:29-04:00">
+  <state datetime="2015-04-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-29"/>
+  </status>
+  <introduced datetime="2015-04-29"/>
+  <titles>
+    <title type="official" as="introduced">To repeal titles I and II of the Dodd-Frank Wall Street Reform and Consumer Protection Act.</title>
+  </titles>
+  <sponsor id="400627"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-04-29" state="REFERRED">
+      <text>Referred to the Committee on Financial Services, and in addition to the Committees on Agriculture, the Judiciary, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-04-29">
+      <text>Referred to House Financial Services</text>
+    </action>
+    <action datetime="2015-04-29">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2015-04-29">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2015-04-29">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-05-27">
+      <text>Referred to the Subcommittee on Commodity Exchanges, Energy, and Credit.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+    <committee code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee activity="Referral" code="HSAG22" subcommittee="Commodity Exchanges, Energy, and Credit" name="House Agriculture"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="171"/>
+    <bill relation="unknown" session="114" type="s" number="89"/>
+    <bill relation="unknown" session="114" type="s" number="1804"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Banking and financial institutions regulation"/>
+    <term name="Financial services and investments"/>
+  </subjects>
+  <amendments/>
+  <summary>4/29/2015--Introduced.
+This bill amends the Dodd-Frank Wall Street Reform and Consumer Protection Act to repeal Title I (Financial Stability) and Title II (Orderly Liquidation Authority).
+
+The bill revives or restores the provisions of law amended or repealed by such titles as if the titles had not been enacted.</summary>
+</bill>

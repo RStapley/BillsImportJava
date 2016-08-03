@@ -1,0 +1,76 @@
+<bill session="114" type="h" number="1818" updated="2015-07-30T04:49:00-04:00">
+  <state datetime="2015-04-15">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-15"/>
+  </status>
+  <introduced datetime="2015-04-15"/>
+  <titles>
+    <title type="short" as="introduced">Veteran Emergency Medical Technician Support Act of 2015</title>
+    <title type="official" as="introduced">To amend the Public Health Service Act to provide grants to States to streamline State requirements and procedures for veterans with military emergency medical training to become civilian emergency medical technicians.</title>
+  </titles>
+  <sponsor id="412421"/>
+  <cosponsors>
+    <cosponsor id="400032" joined="2015-04-30"/>
+    <cosponsor id="400033" joined="2015-06-24"/>
+    <cosponsor id="400052" joined="2015-04-30"/>
+    <cosponsor id="400616" joined="2015-05-08"/>
+    <cosponsor id="400062" joined="2015-04-15"/>
+    <cosponsor id="400068" joined="2015-05-14"/>
+    <cosponsor id="412379" joined="2015-06-02"/>
+    <cosponsor id="412600" joined="2015-06-04"/>
+    <cosponsor id="412236" joined="2015-04-30"/>
+    <cosponsor id="412651" joined="2015-04-30"/>
+    <cosponsor id="412536" joined="2015-05-08"/>
+    <cosponsor id="412524" joined="2015-05-12"/>
+    <cosponsor id="412482" joined="2015-05-08"/>
+    <cosponsor id="412453" joined="2015-05-12"/>
+    <cosponsor id="412454" joined="2015-05-08"/>
+    <cosponsor id="412422" joined="2015-05-08"/>
+    <cosponsor id="412460" joined="2015-07-10"/>
+    <cosponsor id="412256" joined="2015-06-02"/>
+    <cosponsor id="412468" joined="2015-04-30"/>
+    <cosponsor id="400263" joined="2015-06-23"/>
+    <cosponsor id="412662" joined="2015-05-15"/>
+    <cosponsor id="400285" joined="2015-05-08"/>
+    <cosponsor id="400295" joined="2015-06-01"/>
+    <cosponsor id="412409" joined="2015-07-29"/>
+    <cosponsor id="412585" joined="2015-05-12"/>
+    <cosponsor id="412331" joined="2015-05-13"/>
+    <cosponsor id="400333" joined="2015-05-08"/>
+    <cosponsor id="400360" joined="2015-05-08"/>
+    <cosponsor id="400378" joined="2015-05-08"/>
+    <cosponsor id="412648" joined="2015-07-29"/>
+    <cosponsor id="412318" joined="2015-04-30"/>
+    <cosponsor id="412214" joined="2015-06-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-15" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-04-17">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="453"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Emergency medical services and trauma care"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health personnel"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Licensing and registrations"/>
+    <term name="Medical education"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+  </subjects>
+  <amendments/>
+  <summary>4/15/2015--Introduced.
+Veteran Emergency Medical Technician Support Act of 2015
+
+Amends the Public Health Service Act to direct the Department of Health and Human Services to establish a demonstration program for states with a shortage of emergency medical technicians (EMTs) to streamline state requirements and procedures to assist veterans who completed military EMT training to meet state EMT certification, licensure, and other requirements.</summary>
+</bill>

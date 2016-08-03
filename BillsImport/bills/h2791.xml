@@ -1,0 +1,84 @@
+<bill session="114" type="h" number="2791" updated="2015-07-10T04:48:30-04:00">
+  <state datetime="2015-07-09">REPORTED</state>
+  <status>
+    <unknown datetime="2015-07-09"/>
+  </status>
+  <introduced datetime="2015-06-16"/>
+  <titles>
+    <title type="short" as="introduced">Western Oregon Tribal Fairness Act</title>
+    <title type="short" as="introduced" partial="1">Coquille Forest Fairness Act</title>
+    <title type="short" as="introduced" partial="1">Cow Creek Umpqua Land Conveyance Act</title>
+    <title type="short" as="introduced" partial="1">Oregon Coastal Lands Act</title>
+    <title type="official" as="introduced">To require that certain Federal lands be held in trust by the United States for the benefit of certain Indian tribes in Oregon, and for other purposes.</title>
+  </titles>
+  <sponsor id="400100"/>
+  <cosponsors>
+    <cosponsor id="400419" joined="2015-06-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-16" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2015-07-01">
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+    </action>
+    <action datetime="2015-07-01">
+      <text>Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.</text>
+    </action>
+    <action datetime="2015-07-08">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2015-07-09">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-07-09" state="REPORTED">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+    </calendar>
+    <action datetime="2015-07-09">
+      <text>Subcommittee on Federal Lands Discharged.</text>
+    </action>
+    <action datetime="2015-07-09">
+      <text>Subcommittee on Indian, Insular and Alaska Native Affairs Discharged.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup"/>
+    <committee activity="Referral, Discharged" code="HSII10" subcommittee="Federal Lands" name="House Natural Resources"/>
+    <committee activity="Referral, Discharged" code="HSII24" subcommittee="Indian, Insular and Alaska Native Affairs" name="House Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Native Americans"/>
+  </subjects>
+  <amendments/>
+  <summary>6/16/2015--Introduced.
+Western Oregon Tribal Fairness Act
+
+
+
+Cow Creek Umpqua Land Conveyance Act
+
+This bill requires 17,519 acres of land to be held in trust for, and to be part of the reservation of, the Cow Creek Band of Umpqua Tribe of Indians.
+
+Federal law applies to the export of unprocessed logs harvested from this land and to forest management on this land. Gaming on this land is prohibited.
+
+The Department of the Interior must reclassify public domain land as Oregon and California Railroad grant land in equal acreage as grant land held in trust as part of this land.
+
+
+
+
+
+Coquille Forest Fairness Act
+
+This bill amends the Coquille Restoration Act to remove the requirement that Interior manage the Coquille Forest in accordance with state and federal forestry and environmental protection laws.
+
+This bill strikes a provision giving the U.S. District Court for the District of Oregon jurisdiction over certain actions concerning the Coquille Forest and limiting remedies to equitable relief.
+
+Oregon Coastal Lands Act
+
+This bill requires 14,408 acres of land to be held in trust for, and to be part of the reservation of, the Confederated Tribes of Coos, Lower Umpqua, and Siuslaw Indians.
+
+Federal law applies to the export of unprocessed logs harvested from this land and to forest management on this land. Gaming on this land is prohibited.
+
+Interior must reclassify public domain land as Oregon and California Railroad grant land in equal acreage as grant land held in trust as part of this land.</summary>
+</bill>

@@ -1,0 +1,53 @@
+<bill session="114" type="h" number="2847" updated="2015-08-01T04:51:05-04:00">
+  <state datetime="2015-06-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-23"/>
+  </status>
+  <introduced datetime="2015-06-23"/>
+  <titles>
+    <title type="short" as="introduced">Electrify Africa Act of 2015</title>
+    <title type="official" as="introduced">To encourage African countries provide first-time access to electricity and power services for at least 50,000,000 people in sub-Saharan Africa by 2020.</title>
+  </titles>
+  <sponsor id="400348"/>
+  <cosponsors>
+    <cosponsor id="412404" joined="2015-06-23"/>
+    <cosponsor id="400074" joined="2015-07-21"/>
+    <cosponsor id="400086" joined="2015-07-21"/>
+    <cosponsor id="412420" joined="2015-07-07"/>
+    <cosponsor id="412639" joined="2015-07-21"/>
+    <cosponsor id="400122" joined="2015-06-23"/>
+    <cosponsor id="400195" joined="2015-07-23"/>
+    <cosponsor id="412421" joined="2015-07-31"/>
+    <cosponsor id="400237" joined="2015-07-21"/>
+    <cosponsor id="400240" joined="2015-07-27"/>
+    <cosponsor id="400660" joined="2015-07-21"/>
+    <cosponsor id="400380" joined="2015-06-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-23" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+  </subjects>
+  <amendments/>
+  <summary>6/23/2015--Introduced.
+Electrify Africa Act of 2015 
+
+This bill directs the President to establish a multiyear strategy to assist countries in sub-Saharan Africa implement national power strategies and develop an appropriate mix of power solutions, including renewable energy, to provide access to reliable, affordable, and sustainable power in order to reduce poverty and drive economic growth.
+
+ The President is urged to: (1) establish an interagency working group to coordinate the activities of U.S. government departments and agencies involved in carrying out the strategy, and (2) use U.S. influence to leverage international support to promote the strategy.
+
+ The U.S. Agency for International Development, the Trade and Development Agency, the Overseas Private Investment Corporation (OPIC), and the Millennium Challenge Corporation are urged to prioritize efforts and assistance for power projects and markets in sub-Saharan Africa.
+
+The Foreign Assistance Act of 1961 is amended to extend OPIC's issuing authority through September 30, 2018.
+
+OPIC is temporarily authorized to issue local currency guarantees to African subsidiaries of foreign financial institutions to facilitate eligible investor lending for power projects in sub-Saharan Africa.
+
+The President shall appoint and maintain an Inspector General in OPIC.</summary>
+</bill>

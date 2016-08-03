@@ -1,0 +1,74 @@
+<bill session="114" type="s" number="1016" updated="2015-06-26T04:49:39-04:00">
+  <state datetime="2015-04-20">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-20"/>
+  </status>
+  <introduced datetime="2015-04-20"/>
+  <titles>
+    <title type="short" as="introduced">Preserving Freedom and Choice in Health Care Act</title>
+    <title type="official" as="introduced">A bill to preserve freedom and choice in health care.</title>
+  </titles>
+  <sponsor id="412496"/>
+  <cosponsors>
+    <cosponsor id="412251" joined="2015-04-20"/>
+    <cosponsor id="400034" joined="2015-04-20"/>
+    <cosponsor id="402675" joined="2015-04-20"/>
+    <cosponsor id="300023" joined="2015-04-20"/>
+    <cosponsor id="300027" joined="2015-04-20"/>
+    <cosponsor id="300030" joined="2015-04-20"/>
+    <cosponsor id="412549" joined="2015-04-20"/>
+    <cosponsor id="300041" joined="2015-04-20"/>
+    <cosponsor id="412667" joined="2015-04-20"/>
+    <cosponsor id="412556" joined="2015-04-20"/>
+    <cosponsor id="412406" joined="2015-04-20"/>
+    <cosponsor id="300047" joined="2015-04-20"/>
+    <cosponsor id="300048" joined="2015-04-20"/>
+    <cosponsor id="300052" joined="2015-04-20"/>
+    <cosponsor id="412218" joined="2015-04-20"/>
+    <cosponsor id="300055" joined="2015-04-20"/>
+    <cosponsor id="400194" joined="2015-04-20"/>
+    <cosponsor id="400222" joined="2015-04-23"/>
+    <cosponsor id="300071" joined="2015-04-20"/>
+    <cosponsor id="300072" joined="2015-04-20"/>
+    <cosponsor id="412666" joined="2015-04-20"/>
+    <cosponsor id="412322" joined="2015-04-20"/>
+    <cosponsor id="300083" joined="2015-04-20"/>
+    <cosponsor id="412669" joined="2015-04-20"/>
+    <cosponsor id="300088" joined="2015-04-20"/>
+    <cosponsor id="300089" joined="2015-04-20"/>
+    <cosponsor id="412665" joined="2015-04-22"/>
+    <cosponsor id="400546" joined="2015-04-20"/>
+    <cosponsor id="412668" joined="2015-04-20"/>
+    <cosponsor id="400432" joined="2015-04-20"/>
+    <cosponsor id="412471" joined="2015-04-20" withdrawn="2015-06-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-20" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Income tax credits"/>
+    <term name="Intergovernmental relations"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+  <summary>4/20/2015--Introduced.
+Preserving Freedom and Choice in Health Care Act
+
+This bill amends the Patient Protection and Affordable Care Act (PPACA) and the Internal Revenue Code to repeal the requirements for individuals to maintain minimum essential coverage and for large employers to pay penalties if a full-time employee: (1) must wait longer than 60 days to enroll in an employer-sponsored health plan, or (2) receives a premium assistance tax credit or reduced cost-sharing. Coverage reporting requirements for providers and large employers are also repealed.
+
+Individuals enrolled in a health plan purchased through the federal health insurance exchange at the time of enactment of this Act who are ineligible for a premium assistance tax credit solely as a result of a determination by the Supreme Court in King v. Burwell are eligible for the tax credit. This applies to coverage months beginning after December 2013 and before September 2017.
+
+Group health coverage in which an individual was enrolled during any part of the period beginning on the date of enactment of PPACA (March 23, 2010) and ending on December 31, 2017, is a grandfathered health plan under PPACA and is exempt from some coverage requirements.
+
+Essential health benefits are defined by states. This amendment takes effect as if included in PPACA.</summary>
+</bill>

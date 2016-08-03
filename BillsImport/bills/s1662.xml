@@ -1,0 +1,30 @@
+<bill session="114" type="s" number="1662" updated="2015-07-04T07:00:13-04:00">
+  <state datetime="2015-06-24">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-24"/>
+  </status>
+  <introduced datetime="2015-06-24"/>
+  <titles>
+    <title type="short" as="introduced">Abraham Lincoln National Heritage Area Amendment Act</title>
+    <title type="official" as="introduced">A bill to include Livingston County, the city of Jonesboro in Union County, and the city of Freeport in Stephenson County, Illinois, to the Lincoln National Heritage Area, and for other purposes.</title>
+  </titles>
+  <sponsor id="400222"/>
+  <cosponsors>
+    <cosponsor id="300038" joined="2015-06-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-24" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="2879"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+</bill>

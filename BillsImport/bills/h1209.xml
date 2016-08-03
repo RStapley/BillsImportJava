@@ -1,0 +1,121 @@
+<bill session="114" type="h" number="1209" updated="2015-08-05T04:47:10-04:00">
+  <state datetime="2015-03-03">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-03"/>
+  </status>
+  <introduced datetime="2015-03-03"/>
+  <titles>
+    <title type="short" as="introduced">Improving Access to Maternity Care Act</title>
+    <title type="official" as="introduced">To amend the Public Health Service Act to provide for the designation of maternity care health professional shortage areas.</title>
+  </titles>
+  <sponsor id="400052"/>
+  <cosponsors>
+    <cosponsor id="412500" joined="2015-04-14"/>
+    <cosponsor id="412436" joined="2015-08-04"/>
+    <cosponsor id="400032" joined="2015-07-10"/>
+    <cosponsor id="400033" joined="2015-03-17"/>
+    <cosponsor id="412652" joined="2015-07-22"/>
+    <cosponsor id="412539" joined="2015-07-07"/>
+    <cosponsor id="412516" joined="2015-07-23"/>
+    <cosponsor id="400062" joined="2015-03-03"/>
+    <cosponsor id="412379" joined="2015-07-22"/>
+    <cosponsor id="412600" joined="2015-05-01"/>
+    <cosponsor id="412531" joined="2015-07-29"/>
+    <cosponsor id="412658" joined="2015-05-12"/>
+    <cosponsor id="400080" joined="2015-03-17"/>
+    <cosponsor id="412651" joined="2015-05-12"/>
+    <cosponsor id="400100" joined="2015-04-14"/>
+    <cosponsor id="400103" joined="2015-08-04"/>
+    <cosponsor id="412505" joined="2015-04-14"/>
+    <cosponsor id="400648" joined="2015-07-22"/>
+    <cosponsor id="412477" joined="2015-07-07"/>
+    <cosponsor id="412637" joined="2015-06-11"/>
+    <cosponsor id="412533" joined="2015-03-03"/>
+    <cosponsor id="400124" joined="2015-03-17"/>
+    <cosponsor id="400129" joined="2015-06-11"/>
+    <cosponsor id="400130" joined="2015-07-07"/>
+    <cosponsor id="412382" joined="2015-07-14"/>
+    <cosponsor id="400162" joined="2015-04-14"/>
+    <cosponsor id="412454" joined="2015-04-14"/>
+    <cosponsor id="412280" joined="2015-03-17"/>
+    <cosponsor id="400170" joined="2015-04-14"/>
+    <cosponsor id="412584" joined="2015-06-01"/>
+    <cosponsor id="412446" joined="2015-04-14"/>
+    <cosponsor id="412486" joined="2015-03-17"/>
+    <cosponsor id="412282" joined="2015-06-11"/>
+    <cosponsor id="412511" joined="2015-06-11"/>
+    <cosponsor id="412663" joined="2015-07-23"/>
+    <cosponsor id="412460" joined="2015-04-14"/>
+    <cosponsor id="412566" joined="2015-07-14"/>
+    <cosponsor id="412649" joined="2015-07-14"/>
+    <cosponsor id="412583" joined="2015-07-07"/>
+    <cosponsor id="400218" joined="2015-07-14"/>
+    <cosponsor id="412286" joined="2015-07-16"/>
+    <cosponsor id="400233" joined="2015-04-14"/>
+    <cosponsor id="400237" joined="2015-04-14"/>
+    <cosponsor id="412209" joined="2015-05-12"/>
+    <cosponsor id="412293" joined="2015-05-01"/>
+    <cosponsor id="400259" joined="2015-06-25"/>
+    <cosponsor id="400263" joined="2015-03-17"/>
+    <cosponsor id="412611" joined="2015-07-14"/>
+    <cosponsor id="412466" joined="2015-03-17"/>
+    <cosponsor id="400276" joined="2015-07-22"/>
+    <cosponsor id="400661" joined="2015-07-10"/>
+    <cosponsor id="412660" joined="2015-07-22"/>
+    <cosponsor id="400295" joined="2015-03-17"/>
+    <cosponsor id="412523" joined="2015-07-29"/>
+    <cosponsor id="412585" joined="2015-05-01"/>
+    <cosponsor id="412308" joined="2015-04-14"/>
+    <cosponsor id="400333" joined="2015-03-17"/>
+    <cosponsor id="412489" joined="2015-04-14"/>
+    <cosponsor id="412647" joined="2015-08-04"/>
+    <cosponsor id="412310" joined="2015-03-17"/>
+    <cosponsor id="412509" joined="2015-05-01"/>
+    <cosponsor id="412461" joined="2015-04-14"/>
+    <cosponsor id="412626" joined="2015-03-17"/>
+    <cosponsor id="412520" joined="2015-06-11"/>
+    <cosponsor id="412617" joined="2015-07-10"/>
+    <cosponsor id="412213" joined="2015-07-10"/>
+    <cosponsor id="412618" joined="2015-06-01"/>
+    <cosponsor id="412214" joined="2015-07-14"/>
+    <cosponsor id="412239" joined="2015-07-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-03" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-03-06">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="628"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Child health"/>
+    <term name="Government information and archives"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health personnel"/>
+    <term name="Medical education"/>
+    <term name="Sex and reproductive health"/>
+    <term name="Student aid and college costs"/>
+    <term name="Women's health"/>
+  </subjects>
+  <amendments/>
+  <summary>3/3/2015--Introduced.
+Improving Access to Maternity Care Act
+
+This bill amends the Public Health Service Act to require the Health Resources and Services Administration to designate maternity care health professional shortage areas and review these designations at least annually.
+
+The Department of Health and Human Services must collect and publish data on health professional shortage areas so availability of maternal health professionals can be compared by professional category and geographic region.
+
+A maternity care health professional shortage area is: (1) an area determined to have a shortage of providers of full scope maternity care health services or of hospital or birth center labor and delivery units, or (2) a population group determined to have a shortage of such providers or facilities.
+
+Full scope maternity care health services include care during labor, birthing, prenatal care, and postpartum care.</summary>
+</bill>

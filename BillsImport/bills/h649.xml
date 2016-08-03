@@ -1,0 +1,78 @@
+<bill session="114" type="h" number="649" updated="2015-07-14T04:46:47-04:00">
+  <state datetime="2015-02-02">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-02"/>
+  </status>
+  <introduced datetime="2015-02-02"/>
+  <titles>
+    <title type="short" as="introduced">Student Loan Refinancing Act</title>
+    <title type="official" as="introduced">To authorize borrowers of loans under the William D. Ford Federal Direct Loan Program to modify the interest rate of such loans to be equal to the interest rate for such loans at the time of modification.</title>
+  </titles>
+  <sponsor id="412585"/>
+  <cosponsors>
+    <cosponsor id="412565" joined="2015-05-20"/>
+    <cosponsor id="412657" joined="2015-05-13"/>
+    <cosponsor id="412516" joined="2015-02-02"/>
+    <cosponsor id="412571" joined="2015-02-02"/>
+    <cosponsor id="412379" joined="2015-02-02"/>
+    <cosponsor id="412236" joined="2015-02-02"/>
+    <cosponsor id="400080" joined="2015-04-14"/>
+    <cosponsor id="412613" joined="2015-03-19"/>
+    <cosponsor id="400111" joined="2015-05-13"/>
+    <cosponsor id="400114" joined="2015-05-13"/>
+    <cosponsor id="412215" joined="2015-02-02"/>
+    <cosponsor id="412327" joined="2015-05-13"/>
+    <cosponsor id="400162" joined="2015-05-13"/>
+    <cosponsor id="400641" joined="2015-04-21"/>
+    <cosponsor id="412583" joined="2015-05-13"/>
+    <cosponsor id="400218" joined="2015-02-02"/>
+    <cosponsor id="412616" joined="2015-06-02"/>
+    <cosponsor id="412209" joined="2015-05-14"/>
+    <cosponsor id="400245" joined="2015-05-13"/>
+    <cosponsor id="412521" joined="2015-02-02"/>
+    <cosponsor id="400663" joined="2015-04-21"/>
+    <cosponsor id="400263" joined="2015-02-13"/>
+    <cosponsor id="400271" joined="2015-04-15"/>
+    <cosponsor id="400661" joined="2015-07-07"/>
+    <cosponsor id="400290" joined="2015-07-13"/>
+    <cosponsor id="408211" joined="2015-05-18"/>
+    <cosponsor id="412192" joined="2015-07-07"/>
+    <cosponsor id="412523" joined="2015-05-13"/>
+    <cosponsor id="400333" joined="2015-04-28"/>
+    <cosponsor id="400360" joined="2015-02-02"/>
+    <cosponsor id="412315" joined="2015-02-02"/>
+    <cosponsor id="400378" joined="2015-06-18"/>
+    <cosponsor id="412514" joined="2015-04-21"/>
+    <cosponsor id="400402" joined="2015-04-30"/>
+    <cosponsor id="412522" joined="2015-04-21"/>
+    <cosponsor id="412239" joined="2015-05-20"/>
+    <cosponsor id="412412" joined="2015-02-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-02" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+    <action datetime="2015-04-29">
+      <text>Referred to the Subcommittee on Higher Education and Workforce Training.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee activity="Referral" code="HSED13" subcommittee="Higher Education and Workforce Training" name="House Education and the Workforce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Higher education"/>
+    <term name="Interest, dividends, interest rates"/>
+    <term name="Student aid and college costs"/>
+  </subjects>
+  <amendments/>
+  <summary>2/2/2015--Introduced.
+Student Loan Refinancing Act
+
+Amends title IV (Student Assistance) of the Higher Education Act of 1965 to allow a borrower of a loan under the William D. Ford Federal Direct Loan program to modify the interest rate on such a loan so that its interest rate is equal to the interest rate it would bear if first disbursed at the time of modification.
+
+Fixes that interest rate for the life of the loan, unless the borrower elects to modify it again.</summary>
+</bill>

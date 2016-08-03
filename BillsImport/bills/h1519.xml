@@ -1,0 +1,72 @@
+<bill session="114" type="h" number="1519" updated="2015-06-17T04:49:38-04:00">
+  <state datetime="2015-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-19"/>
+  </status>
+  <introduced datetime="2015-03-19"/>
+  <titles>
+    <title type="short" as="introduced">Recognizing Achievement in Classified School Employees Act</title>
+    <title type="official" as="introduced">To direct the Secretary of Education to establish an award program recognizing excellence exhibited by public school system employees providing services to students in prekindergarten through higher education.</title>
+  </titles>
+  <sponsor id="412318"/>
+  <cosponsors>
+    <cosponsor id="412516" joined="2015-05-19"/>
+    <cosponsor id="400062" joined="2015-04-23"/>
+    <cosponsor id="412379" joined="2015-03-23"/>
+    <cosponsor id="412236" joined="2015-04-28"/>
+    <cosponsor id="412272" joined="2015-03-19"/>
+    <cosponsor id="412505" joined="2015-04-14"/>
+    <cosponsor id="400124" joined="2015-06-16"/>
+    <cosponsor id="412486" joined="2015-04-30"/>
+    <cosponsor id="400185" joined="2015-05-13"/>
+    <cosponsor id="412511" joined="2015-06-01"/>
+    <cosponsor id="412435" joined="2015-03-19"/>
+    <cosponsor id="412583" joined="2015-05-13"/>
+    <cosponsor id="400232" joined="2015-04-30"/>
+    <cosponsor id="412616" joined="2015-06-01"/>
+    <cosponsor id="412209" joined="2015-03-23"/>
+    <cosponsor id="400245" joined="2015-04-28"/>
+    <cosponsor id="412521" joined="2015-03-19"/>
+    <cosponsor id="400663" joined="2015-06-01"/>
+    <cosponsor id="400259" joined="2015-05-13"/>
+    <cosponsor id="400262" joined="2015-03-19"/>
+    <cosponsor id="400263" joined="2015-04-14"/>
+    <cosponsor id="412189" joined="2015-04-16"/>
+    <cosponsor id="408211" joined="2015-05-19"/>
+    <cosponsor id="400295" joined="2015-03-19"/>
+    <cosponsor id="412523" joined="2015-06-01"/>
+    <cosponsor id="412585" joined="2015-03-19"/>
+    <cosponsor id="400660" joined="2015-05-01"/>
+    <cosponsor id="400361" joined="2015-04-28"/>
+    <cosponsor id="412514" joined="2015-04-30"/>
+    <cosponsor id="412520" joined="2015-03-19"/>
+    <cosponsor id="412412" joined="2015-03-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-19" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Child safety and welfare"/>
+    <term name="Educational facilities and institutions"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Higher education"/>
+    <term name="Preschool education"/>
+    <term name="School administration"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+  <summary>3/19/2015--Introduced.
+Recognizing Achievement in Classified School Employees Act
+
+Directs the Secretary of Education to award National Classified School Employee of the Year Awards to classified public school employees within certain occupational specialties who provide exemplary service to students in prekindergarten through higher education.
+
+Requires the Secretary to choose an awardee each year, out of nominations received from each state, from one of the following occupational specialties: (1) paraprofessional services, (2) clerical and administrative services, (3) transportation services, (4) food and nutrition services, (5) custodial and maintenance services, (6) security services, (7) health and student services, (8) technical services, and (9) skilled trades.</summary>
+</bill>

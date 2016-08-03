@@ -1,0 +1,39 @@
+<bill session="114" type="h" number="3033" updated="2015-07-30T04:50:18-04:00">
+  <state datetime="2015-07-13">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-13"/>
+  </status>
+  <introduced datetime="2015-07-13"/>
+  <titles>
+    <title type="short" as="introduced">READ Act</title>
+    <title type="short" as="introduced">Research Excellence and Advancements for Dyslexia Act</title>
+    <title type="official" as="introduced">To require the President's annual budget request to Congress each year to include a line item for the Research in Disabilities Education program of the National Science Foundation and to require the National Science Foundation to conduct research on dyslexia.</title>
+  </titles>
+  <sponsor id="400381"/>
+  <cosponsors>
+    <cosponsor id="412657" joined="2015-07-13"/>
+    <cosponsor id="412516" joined="2015-07-13"/>
+    <cosponsor id="412427" joined="2015-07-23"/>
+    <cosponsor id="412658" joined="2015-07-29"/>
+    <cosponsor id="412263" joined="2015-07-29"/>
+    <cosponsor id="412460" joined="2015-07-13"/>
+    <cosponsor id="412610" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-13" state="REFERRED">
+      <text>Referred to the House Committee on Science, Space, and Technology.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science, Space, and Technology" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+  </subjects>
+  <amendments/>
+  <summary>7/13/2015--Introduced.
+Research Excellence and Advancements for Dyslexia Act or the READ Act
+
+This bill requires the National Science Foundation (NSF) to devote specified funding to support dyslexia research with the goal of practical application. The NSF must include in its annual congressional budget justification the amount requested for its Research in Disabilities Education program, which advances the goal of broadening the participation and achievement of learners with disabilities in science, technology, engineering, and mathematics.</summary>
+</bill>

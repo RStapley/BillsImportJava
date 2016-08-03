@@ -1,0 +1,42 @@
+<bill session="114" type="h" number="3065" updated="2015-07-30T04:50:22-04:00">
+  <state datetime="2015-07-15">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-15"/>
+  </status>
+  <introduced datetime="2015-07-15"/>
+  <titles>
+    <title type="short" as="introduced">Financial Services Conflict of Interest Act</title>
+    <title type="official" as="introduced">To prevent conflicts of interest that stem from executive Government employees receiving bonuses or other compensation arrangements from nongovernment sources, from the revolving door that raises concerns about the independence of financial services regulators, and from the revolving door that casts aspersions over the awarding of Government contracts and other financial benefits.</title>
+  </titles>
+  <sponsor id="400090"/>
+  <cosponsors>
+    <cosponsor id="400295" joined="2015-07-29"/>
+    <cosponsor id="400415" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-15" state="REFERRED">
+      <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committees on the Judiciary, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-07-15">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2015-07-15">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2015-07-15">
+      <text>Referred to House Financial Services</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

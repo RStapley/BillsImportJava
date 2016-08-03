@@ -1,0 +1,34 @@
+<bill session="114" type="s" number="1914" updated="2015-08-15T07:07:50-04:00">
+  <state datetime="2015-07-30">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-30"/>
+  </status>
+  <introduced datetime="2015-07-30"/>
+  <titles>
+    <title type="short" as="introduced">Commonsense Permitting for Job Creation Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend the Federal Water Pollution Control Act with respect to the guidelines for specification of certain disposal sites for dredged or fill material.</title>
+  </titles>
+  <sponsor id="412582"/>
+  <cosponsors>
+    <cosponsor id="412321" joined="2015-07-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-30">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S6191"/>
+    </action>
+    <action datetime="2015-07-30" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="3434"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+  </subjects>
+  <amendments/>
+</bill>

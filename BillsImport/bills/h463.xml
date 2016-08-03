@@ -1,0 +1,75 @@
+<bill session="114" type="h" number="463" updated="2015-07-22T04:58:26-04:00">
+  <state datetime="2015-01-22">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-22"/>
+  </status>
+  <introduced datetime="2015-01-22"/>
+  <titles>
+    <title type="short" as="introduced">PRO-LIFE Act</title>
+    <title type="short" as="introduced">Protecting Life in Funding Education Act</title>
+    <title type="official" as="introduced">To amend the General Education Provisions Act to prohibit Federal education funding for elementary schools and secondary schools that provide on-campus access to abortion providers.</title>
+  </titles>
+  <sponsor id="400441"/>
+  <cosponsors>
+    <cosponsor id="412655" joined="2015-02-27"/>
+    <cosponsor id="400636" joined="2015-01-22"/>
+    <cosponsor id="400046" joined="2015-03-26"/>
+    <cosponsor id="412571" joined="2015-01-22"/>
+    <cosponsor id="412482" joined="2015-01-22"/>
+    <cosponsor id="412479" joined="2015-03-26"/>
+    <cosponsor id="400141" joined="2015-03-26"/>
+    <cosponsor id="412280" joined="2015-01-22"/>
+    <cosponsor id="400175" joined="2015-03-26"/>
+    <cosponsor id="412429" joined="2015-04-16"/>
+    <cosponsor id="412437" joined="2015-01-22"/>
+    <cosponsor id="400209" joined="2015-01-22"/>
+    <cosponsor id="412673" joined="2015-07-21"/>
+    <cosponsor id="412256" joined="2015-04-16"/>
+    <cosponsor id="400630" joined="2015-01-22"/>
+    <cosponsor id="412445" joined="2015-01-22"/>
+    <cosponsor id="412292" joined="2015-06-02"/>
+    <cosponsor id="412503" joined="2015-01-22"/>
+    <cosponsor id="412552" joined="2015-06-02"/>
+    <cosponsor id="412540" joined="2015-01-22"/>
+    <cosponsor id="400273" joined="2015-06-02"/>
+    <cosponsor id="400279" joined="2015-01-22"/>
+    <cosponsor id="412409" joined="2015-01-22"/>
+    <cosponsor id="412442" joined="2015-01-22"/>
+    <cosponsor id="412302" joined="2015-02-27"/>
+    <cosponsor id="412443" joined="2015-04-16"/>
+    <cosponsor id="400313" joined="2015-01-22"/>
+    <cosponsor id="400652" joined="2015-06-02"/>
+    <cosponsor id="412431" joined="2015-01-22"/>
+    <cosponsor id="412570" joined="2015-01-22"/>
+    <cosponsor id="412564" joined="2015-06-02"/>
+    <cosponsor id="412255" joined="2015-06-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-22" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+    <action datetime="2015-04-29">
+      <text>Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee activity="Referral" code="HSED14" subcommittee="Early Childhood, Elementary, and Secondary Education" name="House Education and the Workforce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Abortion"/>
+    <term name="Child health"/>
+    <term name="Education programs funding"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Health facilities and institutions"/>
+    <term name="Public contracts and procurement"/>
+    <term name="School administration"/>
+  </subjects>
+  <amendments/>
+  <summary>1/22/2015--Introduced.
+Protecting Life in Funding Education Act or the PRO-LIFE Act
+
+Amends the General Education Provisions Act to prohibit the provision of federal education funding to state or local educational agencies that make health services available to students through school-based health centers, unless those centers certify that they will not provide students with abortions, abortion-related materials or referrals, or directions to abortion services.</summary>
+</bill>

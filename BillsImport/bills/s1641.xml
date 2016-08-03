@@ -1,0 +1,58 @@
+<bill session="114" type="s" number="1641" updated="2015-07-24T04:49:53-04:00">
+  <state datetime="2015-06-22">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-22"/>
+  </status>
+  <introduced datetime="2015-06-22"/>
+  <titles>
+    <title type="short" as="introduced">Jason Simcakoski Memorial Opioid Safety Act</title>
+    <title type="official" as="introduced">A bill to improve the use by the Department of Veterans Affairs of opioids in treating veterans, to improve patient advocacy by the Department, and to expand availability of complementary and integrative health, and for other purposes.</title>
+  </titles>
+  <sponsor id="400013"/>
+  <cosponsors>
+    <cosponsor id="412490" joined="2015-06-22"/>
+    <cosponsor id="400050" joined="2015-06-22"/>
+    <cosponsor id="400061" joined="2015-06-22"/>
+    <cosponsor id="300038" joined="2015-06-25"/>
+    <cosponsor id="412378" joined="2015-07-23"/>
+    <cosponsor id="412200" joined="2015-06-22"/>
+    <cosponsor id="412496" joined="2015-06-22"/>
+    <cosponsor id="412582" joined="2015-06-22"/>
+    <cosponsor id="412242" joined="2015-07-13"/>
+    <cosponsor id="412391" joined="2015-06-22"/>
+    <cosponsor id="400253" joined="2015-06-22"/>
+    <cosponsor id="400284" joined="2015-06-22"/>
+    <cosponsor id="300076" joined="2015-06-22"/>
+    <cosponsor id="400357" joined="2015-06-22"/>
+    <cosponsor id="412244" joined="2015-06-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-22" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2015-06-23">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S4539"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <summary>6/22/2015--Introduced.
+Jason Simcakoski Memorial Opioid Safety Act
+
+This bill directs the Department of Veterans Affairs (VA) and the Department of Defense (DOD) to jointly update the VA/DOD Clinical Practice Guideline for Management of Opioid Therapy for Chronic Pain, including guidelines regarding:
+
+ prescribing opioids for outpatient treatment of chronic, non-cancer pain; contraindications for opioid therapy; treatment of patients with post-traumatic stress disorder, psychiatric disorders, or a history of substance abuse or addiction; case management for patients transitioning between inpatient and outpatient health care; routine and random urine drug tests to help prevent substance abuse; and options to augment opioid therapy with other clinical and complementary and integrative health services to minimize opioid dependence. VA shall:
+
+ expand the Opioid Safety Initiative to include all VA medical facilities, including providing employees with pain management training, and establishment of pain management teams; track and monitor opioid use, including through the use of state program information; increase the availability of Food and Drug Administration-approved opioid receptor antagonists; modify the Computerized Patient Record System to ensure that any health care provider that accesses a veteran's record will be immediately notified whether the veteran is receiving opioid therapy and has a history of substance use disorder or opioid abuse; establish a Pain Management Board in each Veterans Integrated Service Network; conduct a feasibility study for a program under which veterans at risk for prescription drug abuse receive prescription drugs only from certain VA pharmacies; establish the Office of Patient Advocacy; expand research and education on, and delivery and integration of, complementary and integrative health services into veterans' health care services, including services provided to veterans with mental health or chronic conditions; assess the feasibility of using wellness programs to complement pain management and related health care services to veterans and their families; carry out a program of internal audits to improve health care services to veterans and their families; and provide to the medical board of each state in which a VA health care provider is licensed information about such provider's medical license violations. A working group on pain management and opioid therapy for individuals receiving VA or DOD health care is established within the Health Executive Committee of the VA-DOD Joint Executive Committee.
+
+The Government Accountability Office shall report to Congress on the VA's: (1) Opioid Safety Initiative and the opioid prescribing practices of VA health care providers, and (2) the Patient Advocacy Program.
+
+VA shall request from the medical board of each state in which a prospective health care provider has a medical license: (1) information on medical license violations during the past 20 years, and (2) information on whether the health care provider has entered into any settlement agreement for a medical-related disciplinary charge.</summary>
+</bill>

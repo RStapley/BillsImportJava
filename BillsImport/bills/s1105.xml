@@ -1,0 +1,33 @@
+<bill session="114" type="s" number="1105" updated="2015-07-18T06:57:21-04:00">
+  <state datetime="2015-04-28">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-28"/>
+  </status>
+  <introduced datetime="2015-04-28"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 38, United States Code, to authorize per diem payments under comprehensive service programs for homeless veterans to furnish care to dependents of homeless veterans, and for other purposes.</title>
+  </titles>
+  <sponsor id="412218"/>
+  <cosponsors>
+    <cosponsor id="300076" joined="2015-04-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-28" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="684"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+    <term name="Veterans' loans, housing, homeless programs"/>
+  </subjects>
+  <amendments/>
+  <summary>4/28/2015--Introduced.
+Allows services for which a homeless veteran receives a grant under the Department of Veterans Affairs comprehensive service programs for homeless veterans to include furnishing care for a dependent.</summary>
+</bill>

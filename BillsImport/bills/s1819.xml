@@ -1,0 +1,32 @@
+<bill session="114" type="s" number="1819" updated="2015-08-22T07:06:57-04:00">
+  <state datetime="2015-07-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-21"/>
+  </status>
+  <introduced datetime="2015-07-21"/>
+  <titles>
+    <title type="short" as="introduced">Securing Military Personnel Response Firearm Initiative Act</title>
+    <title type="short" as="introduced">SEMPER FI Act</title>
+    <title type="official" as="introduced">A bill to improve security at Armed Forces recruitment centers.</title>
+  </titles>
+  <sponsor id="412549"/>
+  <cosponsors>
+    <cosponsor id="300030" joined="2015-08-05"/>
+    <cosponsor id="412406" joined="2015-08-05"/>
+    <cosponsor id="300048" joined="2015-08-06"/>
+    <cosponsor id="300088" joined="2015-08-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+</bill>

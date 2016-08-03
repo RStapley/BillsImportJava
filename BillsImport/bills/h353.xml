@@ -1,0 +1,81 @@
+<bill session="114" type="h" number="353" updated="2015-07-22T04:58:24-04:00">
+  <state datetime="2015-01-14">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-14"/>
+  </status>
+  <introduced datetime="2015-01-14"/>
+  <titles>
+    <title type="short" as="introduced">Veterans' Access to Hearing Health Act of 2015</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to include licensed hearing aid specialists as eligible for appointment in the Veterans Health Administration of the Department of Veterans Affairs, and for other purposes.</title>
+  </titles>
+  <sponsor id="412488"/>
+  <cosponsors>
+    <cosponsor id="412630" joined="2015-05-19"/>
+    <cosponsor id="412635" joined="2015-05-13"/>
+    <cosponsor id="412537" joined="2015-03-10"/>
+    <cosponsor id="412571" joined="2015-01-20"/>
+    <cosponsor id="412271" joined="2015-03-19"/>
+    <cosponsor id="400077" joined="2015-04-13"/>
+    <cosponsor id="400080" joined="2015-04-22"/>
+    <cosponsor id="412555" joined="2015-01-21"/>
+    <cosponsor id="400108" joined="2015-04-16"/>
+    <cosponsor id="412453" joined="2015-02-25"/>
+    <cosponsor id="412661" joined="2015-03-02"/>
+    <cosponsor id="412654" joined="2015-06-15"/>
+    <cosponsor id="400209" joined="2015-01-26"/>
+    <cosponsor id="400218" joined="2015-07-08"/>
+    <cosponsor id="400224" joined="2015-07-13"/>
+    <cosponsor id="412290" joined="2015-07-07"/>
+    <cosponsor id="412256" joined="2015-01-21"/>
+    <cosponsor id="412521" joined="2015-05-12"/>
+    <cosponsor id="400259" joined="2015-01-21"/>
+    <cosponsor id="412487" joined="2015-07-21"/>
+    <cosponsor id="412660" joined="2015-02-25"/>
+    <cosponsor id="412409" joined="2015-01-21"/>
+    <cosponsor id="412569" joined="2015-07-08"/>
+    <cosponsor id="412585" joined="2015-01-26"/>
+    <cosponsor id="412489" joined="2015-02-11"/>
+    <cosponsor id="412641" joined="2015-03-16"/>
+    <cosponsor id="412519" joined="2015-01-14"/>
+    <cosponsor id="400365" joined="2015-03-02"/>
+    <cosponsor id="412317" joined="2015-01-20"/>
+    <cosponsor id="412515" joined="2015-01-28"/>
+    <cosponsor id="412214" joined="2015-01-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-14" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2015-02-06">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2015-07-14">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral, Hearings" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="564"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Veterans Affairs"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Government information and archives"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health personnel"/>
+    <term name="Hearing, speech, and vision care"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>1/14/2015--Introduced.
+Veterans' Access to Hearing Health Act of 2015
+
+Authorizes the Secretary of Veterans Affairs (VA) to appoint licensed hearing aid specialists in the Veterans Health Administration.
+
+Requires the Secretary to submit an annual report on: (1) the timely access of veterans to VA hearing health services, and (2) VA contracting policies regarding the provision of hearing health services to veterans in non-VA facilities.</summary>
+</bill>

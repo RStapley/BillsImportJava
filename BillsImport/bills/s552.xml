@@ -1,0 +1,55 @@
+<bill session="114" type="s" number="552" updated="2015-06-27T07:22:54-04:00">
+  <state datetime="2015-04-23">REPORTED</state>
+  <status>
+    <unknown datetime="2015-04-23"/>
+  </status>
+  <introduced datetime="2015-02-24"/>
+  <titles>
+    <title type="short" as="introduced">Small Business Investment Capital Company Act of 2015</title>
+    <title type="short" as="reported to senate">Small Business Investment Capital Company Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend the Small Business Investment Act of 1958 to provide for increased limitations on leverage for multiple licenses under common control.</title>
+  </titles>
+  <sponsor id="412322"/>
+  <cosponsors>
+    <cosponsor id="412493" joined="2015-02-24"/>
+    <cosponsor id="400064" joined="2015-02-24"/>
+    <cosponsor id="412323" joined="2015-02-24"/>
+    <cosponsor id="400418" joined="2015-03-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-24">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S1078"/>
+    </action>
+    <action datetime="2015-02-24" state="REFERRED">
+      <text>Read twice and referred to the Committee on Small Business and Entrepreneurship.</text>
+    </action>
+    <calendar datetime="2015-04-23" state="REPORTED">
+      <text>Committee on Small Business and Entrepreneurship. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="2015-06-10">
+      <text>Committee on Small Business and Entrepreneurship. Reported by Senator Vitter with an amendment. Without written report.</text>
+    </action>
+    <calendar datetime="2015-06-10" calendar="Senate Legislative" under="General Orders" number="104">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 104.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSSB" name="Senate Small Business and Entrepreneurship" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="1023"/>
+    <bill relation="unknown" session="114" type="h" number="1023"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Business investment and capital"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Small business"/>
+  </subjects>
+  <amendments/>
+  <summary>6/10/2015--Reported to Senate amended.
+Small Business Investment Company Capital Act of 2015
+
+ (Sec. 2) Amends the Small Business Investment Act of 1958 to increase from $225 million to $350 million the maximum amount of outstanding leverage to be made available by the Small Business Administration to two or more commonly controlled small business investment companies not under capital impairment.</summary>
+</bill>

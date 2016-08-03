@@ -1,0 +1,48 @@
+<bill session="114" type="h" number="2194" updated="2015-07-04T06:36:56-04:00">
+  <state datetime="2015-04-30">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-30"/>
+  </status>
+  <introduced datetime="2015-04-30"/>
+  <titles>
+    <title type="short" as="introduced">Energy Assistance for American Families Act</title>
+    <title type="official" as="introduced">To reauthorize the Low-Income Home Energy Assistance Program for fiscal years 2016 through 2020, and for other purposes.</title>
+  </titles>
+  <sponsor id="412239"/>
+  <cosponsors>
+    <cosponsor id="412469" joined="2015-04-30"/>
+    <cosponsor id="400219" joined="2015-04-30"/>
+    <cosponsor id="400263" joined="2015-04-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-30" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-04-30">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-04-30">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+    <action datetime="2015-05-01">
+      <text>Referred to the Subcommittee on Energy and Power.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Energy assistance for the poor and aged"/>
+  </subjects>
+  <amendments/>
+  <summary>4/30/2015--Introduced.
+Energy Assistance for American Families Act
+
+This bill amends the Low-Income Home Energy Assistance Act of 1981 to reauthorize the Low-Income Home Energy Assistance Program for FY2016-FY2020.
+
+A state may use any allotment from funds appropriated for FY2016-FY2020 to assist households whose income does not exceed 75% of the state median income.</summary>
+</bill>

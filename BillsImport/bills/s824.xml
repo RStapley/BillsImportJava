@@ -1,0 +1,68 @@
+<bill session="114" type="s" number="824" updated="2015-05-13T04:49:06-04:00">
+  <state datetime="2015-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-19"/>
+  </status>
+  <introduced datetime="2015-03-19"/>
+  <titles>
+    <title type="short" as="introduced">Promoting U.S. Jobs Through Exports Act of 2015</title>
+    <title type="official" as="introduced">A bill to reauthorize the Export-Import Bank of the United States, and for other purposes.</title>
+  </titles>
+  <sponsor id="412323"/>
+  <cosponsors>
+    <cosponsor id="400013" joined="2015-05-12"/>
+    <cosponsor id="412490" joined="2015-03-19"/>
+    <cosponsor id="412598" joined="2015-04-13"/>
+    <cosponsor id="300011" joined="2015-04-13"/>
+    <cosponsor id="300038" joined="2015-04-20"/>
+    <cosponsor id="300043" joined="2015-03-19"/>
+    <cosponsor id="412378" joined="2015-03-19"/>
+    <cosponsor id="400253" joined="2015-03-23"/>
+    <cosponsor id="412325" joined="2015-04-29"/>
+    <cosponsor id="412247" joined="2015-04-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-19" state="REFERRED">
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1031"/>
+  </relatedbills>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Accounting and auditing"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Advisory bodies"/>
+    <term name="Africa"/>
+    <term name="Alternative and renewable resources"/>
+    <term name="Arms control and nonproliferation"/>
+    <term name="Banking and financial institutions regulation"/>
+    <term name="Competitiveness, trade promotion, trade deficits"/>
+    <term name="Computers and information technology"/>
+    <term name="Congressional oversight"/>
+    <term name="Credit and credit markets"/>
+    <term name="Energy efficiency and conservation"/>
+    <term name="Environmental assessment, monitoring, research"/>
+    <term name="Environmental technology"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Export-Import Bank of the United States"/>
+    <term name="Federal officials"/>
+    <term name="Fraud offenses and financial crimes"/>
+    <term name="Government corporations and government-sponsored enterprises"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Government ethics and transparency, public corruption"/>
+    <term name="Government information and archives"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Government studies and investigations"/>
+    <term name="Military assistance, sales, and agreements"/>
+    <term name="Small business"/>
+    <term name="Technology assessment"/>
+    <term name="Trade agreements and negotiations"/>
+    <term name="User charges and fees"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,90 @@
+<bill session="114" type="s" number="1172" updated="2015-08-28T04:46:51-04:00">
+  <state datetime="2015-07-30">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2015-07-30"/>
+  </status>
+  <introduced datetime="2015-04-30"/>
+  <titles>
+    <title type="short" as="introduced">Presidential Transitions Improvements Act of 2015</title>
+    <title type="short" as="reported to senate">Edward "Ted" Kaufman and Michael Leavitt Presidential Transitions Improvements Act of 2015</title>
+    <title type="short" as="passed senate">Edward "Ted" Kaufman and Michael Leavitt Presidential Transitions Improvements Act of 2015</title>
+    <title type="official" as="introduced">A bill to improve the process of presidential transition.</title>
+  </titles>
+  <sponsor id="300019"/>
+  <cosponsors>
+    <cosponsor id="412496" joined="2015-04-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-30" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <calendar datetime="2015-05-06" state="REPORTED">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported with amendments favorably.</text>
+    </calendar>
+    <action datetime="2015-07-27">
+      <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 114-94.</text>
+    </action>
+    <calendar datetime="2015-07-27" calendar="Senate Legislative" under="General Orders" number="166">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 166.</text>
+    </calendar>
+    <action datetime="2015-07-30">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S6205-6209" label="consideration"/>
+    </action>
+    <action datetime="2015-07-30">
+      <text>The committee amendments agreed to by Unanimous Consent.</text>
+      <reference ref="CR S6207" label="consideration"/>
+      <reference ref="CR S6207" label="text of measure as reported in Senate"/>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2015-07-30" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with amendments by Unanimous Consent.</text>
+      <reference ref="CR S6207-6209" label="text"/>
+    </vote>
+    <action datetime="2015-07-31">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2015-07-31T13:02:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2015-07-31">
+      <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-07-31">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2015-07-31">
+      <text>Referred to House Homeland Security</text>
+    </action>
+    <action datetime="2015-08-08">
+      <text>Referred to the Subcommittee on Oversight and Management Efficiency.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup, Reporting"/>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral"/>
+    <committee activity="Referral" code="HSHM09" subcommittee="Oversight and Management Efficiency" name="House Homeland Security"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congressional oversight"/>
+    <term name="Executive Office of the President"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Federal officials"/>
+    <term name="General Services Administration"/>
+    <term name="Government information and archives"/>
+    <term name="Presidents and presidential powers"/>
+  </subjects>
+  <amendments>
+    <amendment number="s2543"/>
+  </amendments>
+  <summary>4/30/2015--Introduced.
+Presidential Transitions Improvements Act of 2015
+
+Amends the Presidential Transition Act of 1963 to direct the President to plan and coordinate activities to facilitate an efficient transfer of power to a successor President, including by: (1) not later than six months before a presidential election, establishing and operating a White House transition coordinating council; and (2) establishing and operating an agency transition directors council.
+
+Directs the General Services Administration (GSA) to designate a senior career appointee to: (1) carry out the duties and authorities of GSA relating to presidential transitions, (2) serve as the Federal Transition Coordinator to coordinate transition planning across agencies; (3) ensure that agencies comply with all statutory requirements relating to transition planning and reporting, and (4) act as a liaison to eligible candidates.
+
+Includes in the President's annual budget request to Congress funding for the management and custody of presidential records by the National Archives.</summary>
+</bill>

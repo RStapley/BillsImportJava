@@ -1,0 +1,32 @@
+<bill session="114" type="h" number="3108" updated="2015-07-28T05:09:56-04:00">
+  <state datetime="2015-07-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-16"/>
+  </status>
+  <introduced datetime="2015-07-16"/>
+  <titles>
+    <title type="short" as="introduced">Department of Defense Energy Security Act of 2015</title>
+    <title type="official" as="introduced">To improve energy savings by the Department of Defense, and for other purposes.</title>
+  </titles>
+  <sponsor id="412523"/>
+  <cosponsors>
+    <cosponsor id="412612" joined="2015-07-16"/>
+    <cosponsor id="400185" joined="2015-07-16"/>
+    <cosponsor id="412585" joined="2015-07-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-16" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1528"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+  </subjects>
+  <amendments/>
+</bill>

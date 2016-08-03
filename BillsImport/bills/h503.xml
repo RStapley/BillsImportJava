@@ -1,0 +1,61 @@
+<bill session="114" type="h" number="503" updated="2015-07-16T04:47:15-04:00">
+  <state datetime="2015-01-22">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-22"/>
+  </status>
+  <introduced datetime="2015-01-22"/>
+  <titles>
+    <title type="short" as="introduced">Expatriate Terrorist Act</title>
+    <title type="official" as="introduced">To amend section 349 of the Immigration and Nationality Act to deem specified activities in support of terrorism as renunciation of United States nationality, and for other purposes.</title>
+  </titles>
+  <sponsor id="400220"/>
+  <cosponsors>
+    <cosponsor id="412655" joined="2015-06-15"/>
+    <cosponsor id="400116" joined="2015-06-01"/>
+    <cosponsor id="412302" joined="2015-07-15"/>
+    <cosponsor id="412431" joined="2015-01-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-22" state="REFERRED">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-01-22">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2015-01-22">
+      <text>Referred to House Foreign Affairs</text>
+    </action>
+    <action datetime="2015-02-11">
+      <text>Referred to the Subcommittee on Terrorism, Nonproliferation, and Trade.</text>
+    </action>
+    <action datetime="2015-02-19">
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration and Border Security" name="House Judiciary"/>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSFA18" subcommittee="Terrorism, Nonproliferation, and Trade" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="247"/>
+  </relatedbills>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Administrative remedies"/>
+    <term name="Citizenship and naturalization"/>
+    <term name="Due process and equal protection"/>
+    <term name="Terrorism"/>
+    <term name="Visas and passports"/>
+  </subjects>
+  <amendments/>
+  <summary>1/22/2015--Introduced.
+Expatriate Terrorist Act
+
+This bill amends the Immigration and Nationality Act to include among the grounds for loss of U.S. nationality by a native-born or naturalized citizen:
+
+ taking an oath or making a declaration of allegiance to a foreign terrorist organization after attaining the age of 18; entering, or serving in, a foreign terrorist organization; becoming a member of or providing training or material assistance to a foreign terrorist organization; and accepting, serving in, or performing the duties of any office, post, or employment under the government of a foreign state, a political subdivision, or a foreign terrorist organization if the person knowingly has or acquires the nationality of that foreign state, or an oath, affirmation, or declaration of allegiance to the foreign state, political subdivision, or designated foreign terrorist organization is required for the office, post, or employment. The Passport Act of 1926 is amended to:
+
+ prohibit the Secretary of State from issuing a passport or passport card to an individual who is a member, or attempting to become a member, of a foreign terrorist organization; and direct the Secretary to revoke a passport or passport card previously issued to any such individual. A person who is denied issuance of a passport or passport card or whose passport or passport card is revoked or otherwise restricted may request a due process hearing not later than 60 days after receiving notice of the nonissuance, revocation, or restriction.</summary>
+</bill>

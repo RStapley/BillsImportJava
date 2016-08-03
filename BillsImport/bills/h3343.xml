@@ -1,0 +1,26 @@
+<bill session="114" type="h" number="3343" updated="2015-08-06T12:47:28-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">Immigrant Detainee Legal Rights Act</title>
+    <title type="official" as="introduced">To provide for improvements in the treatment of detainees, and for other purposes.</title>
+  </titles>
+  <sponsor id="412257"/>
+  <cosponsors>
+    <cosponsor id="412385" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,27 @@
+<bill session="114" type="h" number="3335" updated="2015-08-06T09:47:53-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">Access to Veterans Benefits Improvement Act</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to provide certain employees of Members of Congress and certain employees of State or local governmental agencies with access to case-tracking information of the Department of Veterans Affairs.</title>
+  </titles>
+  <sponsor id="412536"/>
+  <cosponsors>
+    <cosponsor id="412629" joined="2015-07-29"/>
+    <cosponsor id="412214" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

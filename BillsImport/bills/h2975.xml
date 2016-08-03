@@ -1,0 +1,36 @@
+<bill session="114" type="h" number="2975" updated="2015-07-18T04:47:01-04:00">
+  <state datetime="2015-07-08">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-08"/>
+  </status>
+  <introduced datetime="2015-07-08"/>
+  <titles>
+    <title type="short" as="introduced">Protect Veterans from Financial Fraud Act</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to ensure that the Secretary of Veterans Affairs repays the misused benefits of veterans with fiduciaries.</title>
+  </titles>
+  <sponsor id="412516"/>
+  <cosponsors>
+    <cosponsor id="412613" joined="2015-07-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-08" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2015-07-17">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR09" subcommittee="Disability Assistance and Memorial Affairs" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <summary>7/8/2015--Introduced.
+Protect Veterans from Financial Fraud Act
+
+This bill states that, in any case not involving negligent failure by the Department of Veterans Affairs (VA) to investigate or monitor a fiduciary that results in fiduciary misuse of benefits, but in which any fiduciary misuses all or part of an individual's benefit paid to the fiduciary, VA shall pay to the beneficiary or the beneficiary's successor fiduciary an amount equal to the amount of the misused benefit.</summary>
+</bill>

@@ -1,0 +1,61 @@
+<bill session="114" type="hc" number="18" updated="2015-06-17T04:50:55-04:00">
+  <state datetime="2015-02-24">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-24"/>
+  </status>
+  <introduced datetime="2015-02-24"/>
+  <titles>
+    <title type="official" as="introduced">Expressing the sense of Congress that the United States Postal Service should issue a commemorative postage stamp honoring civil rights workers Andrew Goodman, James Chaney, and Michael Schwerner, and the "Freedom Summer" of 1964, and that the Citizens' Stamp Advisory Committee should recommend to the Postmaster General that such a stamp be issued.</title>
+  </titles>
+  <sponsor id="400363"/>
+  <cosponsors>
+    <cosponsor id="412607" joined="2015-02-24"/>
+    <cosponsor id="400030" joined="2015-02-24"/>
+    <cosponsor id="400048" joined="2015-02-24"/>
+    <cosponsor id="412258" joined="2015-02-24"/>
+    <cosponsor id="412379" joined="2015-02-24"/>
+    <cosponsor id="412221" joined="2015-02-24"/>
+    <cosponsor id="412193" joined="2015-02-24"/>
+    <cosponsor id="412215" joined="2015-02-24"/>
+    <cosponsor id="412524" joined="2015-02-24"/>
+    <cosponsor id="400130" joined="2015-02-24"/>
+    <cosponsor id="400162" joined="2015-02-24"/>
+    <cosponsor id="400170" joined="2015-02-24"/>
+    <cosponsor id="412561" joined="2015-02-24"/>
+    <cosponsor id="412546" joined="2015-06-16"/>
+    <cosponsor id="400237" joined="2015-02-24"/>
+    <cosponsor id="412521" joined="2015-05-15"/>
+    <cosponsor id="412562" joined="2015-02-24"/>
+    <cosponsor id="400263" joined="2015-02-24"/>
+    <cosponsor id="400271" joined="2015-02-24"/>
+    <cosponsor id="412560" joined="2015-02-24"/>
+    <cosponsor id="400661" joined="2015-02-24"/>
+    <cosponsor id="400295" joined="2015-02-24"/>
+    <cosponsor id="412575" joined="2015-06-04"/>
+    <cosponsor id="412659" joined="2015-02-24"/>
+    <cosponsor id="412664" joined="2015-05-12"/>
+    <cosponsor id="400333" joined="2015-02-24"/>
+    <cosponsor id="400350" joined="2015-02-24"/>
+    <cosponsor id="400366" joined="2015-04-29"/>
+    <cosponsor id="412579" joined="2015-04-29"/>
+    <cosponsor id="412412" joined="2015-02-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-24" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Postal service"/>
+    <term name="Racial and ethnic relations"/>
+  </subjects>
+  <amendments/>
+  <summary>2/24/2015--Introduced.
+Calls for the Citizens' Stamp Advisory Committee to recommend and the U.S. Postal Service to issue a commemorative postage stamp to honor: (1) civil rights workers Andrew Goodman, James Chaney, and Michael Schwerner; and (2) the 50th anniversary of the campaign in Mississippi to register African-American voters during the summer of 1964, which is commonly referred to as the Freedom Summer of 1964. Calls for such stamp to be based upon a Congress of Racial Equality poster from 1964 created by civil rights movement photographer Danny Lyon.</summary>
+</bill>

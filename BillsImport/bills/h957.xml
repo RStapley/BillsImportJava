@@ -1,0 +1,58 @@
+<bill session="114" type="h" number="957" updated="2015-07-10T04:47:26-04:00">
+  <state datetime="2015-02-12">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-12"/>
+  </status>
+  <introduced datetime="2015-02-12"/>
+  <titles>
+    <title type="short" as="introduced">Bureau of Consumer Financial Protection-Inspector General Reform Act of 2015</title>
+    <title type="short" as="introduced">CFPB-IG Act of 2015</title>
+    <title type="official" as="introduced">To require Senate confirmation of Inspector General of the Bureau of Consumer Financial Protection, and for other purposes.</title>
+  </titles>
+  <sponsor id="412461"/>
+  <cosponsors>
+    <cosponsor id="412609" joined="2015-02-26"/>
+    <cosponsor id="412292" joined="2015-02-12"/>
+    <cosponsor id="412570" joined="2015-07-09"/>
+    <cosponsor id="400348" joined="2015-02-12"/>
+    <cosponsor id="412636" joined="2015-04-15"/>
+    <cosponsor id="412548" joined="2015-03-17"/>
+    <cosponsor id="412214" joined="2015-02-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-12" state="REFERRED">
+      <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-02-12">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2015-02-12">
+      <text>Referred to House Financial Services</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="510"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Congressional oversight"/>
+    <term name="Consumer Financial Protection Bureau"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Federal officials"/>
+    <term name="Government ethics and transparency, public corruption"/>
+    <term name="Government studies and investigations"/>
+  </subjects>
+  <amendments/>
+  <summary>2/12/2015--Introduced.
+Bureau of Consumer Financial Protection-Inspector General Reform Act of 2015 or the CFPB-IG Act of 2015
+
+ Amends the Inspector General Act of 1978 to repeal the authority of the Chairman of the Board of Governors of the Federal Reserve System to appoint the Inspector General of the Consumer Financial Protection Bureau (CFPB).
+
+Amends the Dodd-Frank Wall Street Reform and Consumer Protection Act to create an Inspector General for the CFPB.
+
+Requires the President, within 60 days after enactment of this Act, to appoint a CFPB Inspector General.</summary>
+</bill>

@@ -1,0 +1,91 @@
+<bill session="114" type="h" number="2205" updated="2015-07-30T04:49:17-04:00">
+  <state datetime="2015-05-01">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-01"/>
+  </status>
+  <introduced datetime="2015-05-01"/>
+  <titles>
+    <title type="short" as="introduced">Data Security Act of 2015</title>
+    <title type="official" as="introduced">To protect financial information relating to consumers, to require notice of security breaches, and for other purposes.</title>
+  </titles>
+  <sponsor id="400441"/>
+  <cosponsors>
+    <cosponsor id="412541" joined="2015-07-10"/>
+    <cosponsor id="412635" joined="2015-07-15"/>
+    <cosponsor id="412407" joined="2015-05-01"/>
+    <cosponsor id="400179" joined="2015-06-02"/>
+    <cosponsor id="400219" joined="2015-05-21"/>
+    <cosponsor id="412294" joined="2015-07-29"/>
+    <cosponsor id="400251" joined="2015-05-14"/>
+    <cosponsor id="400656" joined="2015-07-15"/>
+    <cosponsor id="400271" joined="2015-06-01"/>
+    <cosponsor id="412540" joined="2015-06-02"/>
+    <cosponsor id="412527" joined="2015-07-27"/>
+    <cosponsor id="412551" joined="2015-05-14"/>
+    <cosponsor id="400652" joined="2015-07-10"/>
+    <cosponsor id="400348" joined="2015-05-19"/>
+    <cosponsor id="400363" joined="2015-06-02"/>
+    <cosponsor id="412214" joined="2015-07-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-01" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-05-01">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-05-01">
+      <text>Referred to House Financial Services</text>
+    </action>
+    <action datetime="2015-05-08">
+      <text>Referred to the Subcommittee on Commerce, Manufacturing, and Trade.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF17" subcommittee="Commerce, Manufacturing, and Trade" name="House Energy and Commerce"/>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="961"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Bank accounts, deposits, capital"/>
+    <term name="Banking and financial institutions regulation"/>
+    <term name="Commodity Futures Trading Commission"/>
+    <term name="Computer security and identity theft"/>
+    <term name="Consumer credit"/>
+    <term name="Department of the Treasury"/>
+    <term name="Federal Deposit Insurance Corporation (FDIC)"/>
+    <term name="Federal Reserve System"/>
+    <term name="Federal Trade Commission (FTC)"/>
+    <term name="Federal preemption"/>
+    <term name="Government information and archives"/>
+    <term name="Health information and medical records"/>
+    <term name="Insurance industry and regulation"/>
+    <term name="National Credit Union Administration"/>
+    <term name="Right of privacy"/>
+    <term name="Securities and Exchange Commission (SEC)"/>
+  </subjects>
+  <amendments/>
+  <summary>5/1/2015--Introduced.
+Data Security Act of 2015
+
+Requires individuals, corporations, or other non-government entities that access, maintain, communicate, or handle sensitive financial account information or nonpublic personal information to implement an information security program and to notify consumers, federal law enforcement, appropriate administrative agencies, payment card networks, and consumer reporting agencies of certain data breaches of unencrypted sensitive information likely to cause identity theft or fraudulent transactions on consumer financial accounts.
+
+Directs entities to require their third-party service providers by contract to implement appropriate safeguards for sensitive information.
+
+Allows an entity to delay notifications upon the request of a law enforcement agency.
+
+Provides special notification procedures for: (1) third-party service providers that maintain data in electronic form on behalf of another entity, and (2) certain electronic data carriers.
+
+Allows financial institutions to communicate with account holders regarding breaches at third-party entities with access to their account information.
+
+Sets forth alternative compliance procedures for: (1) financial institutions and affiliates under the Gramm-Leach-Bliley Act, and (2) entities complying with certain health record privacy laws.
+
+Requires this Act to be enforced by the Federal Trade Commission, the Comptroller of the Currency, the Federal Reserve System, the Federal Deposit Insurance Corporation, the National Credit Union Administration Board, the Securities and Exchange Commission, the Commodity Futures Trading Commission, the Office of Federal Housing Enterprise Oversight, or a state insurance authority depending on the type of entity handling the sensitive information.
+
+Prohibits certain state laws from being imposed for information security and breach notification purposes. Sets forth requirements concerning the application of this Act to entities regulated by the Federal Communications Commission.</summary>
+</bill>

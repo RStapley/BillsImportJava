@@ -1,0 +1,70 @@
+<bill session="114" type="h" number="2948" updated="2015-08-11T04:48:25-04:00">
+  <state datetime="2015-07-07">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-07"/>
+  </status>
+  <introduced datetime="2015-07-07"/>
+  <titles>
+    <title type="short" as="introduced">Medicare Telehealth Parity Act of 2015</title>
+    <title type="official" as="introduced">To amend title XVIII of the Social Security Act to provide for an incremental expansion of telehealth coverage under the Medicare program.</title>
+  </titles>
+  <sponsor id="400403"/>
+  <cosponsors>
+    <cosponsor id="412478" joined="2015-07-07"/>
+    <cosponsor id="412613" joined="2015-07-23"/>
+    <cosponsor id="400124" joined="2015-07-15"/>
+    <cosponsor id="412524" joined="2015-07-14"/>
+    <cosponsor id="412280" joined="2015-07-07"/>
+    <cosponsor id="412603" joined="2015-07-15"/>
+    <cosponsor id="412286" joined="2015-07-29"/>
+    <cosponsor id="400245" joined="2015-07-23"/>
+    <cosponsor id="412443" joined="2015-07-29"/>
+    <cosponsor id="412308" joined="2015-07-28"/>
+    <cosponsor id="412239" joined="2015-07-07"/>
+    <cosponsor id="412640" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-07" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-07-07">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-07-07">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-07-10">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+  <summary>7/7/2015--Introduced.
+Medicare Telehealth Parity Act of 2015
+
+Amends title XVIII (Medicare) of the Social Security Act to expand telehealth coverage in three phases.
+
+Extends the term "originating site," for telehealth service payment purposes, to additional sites, including any federally qualified health center and any rural health clinic, at which the eligible telehealth individual is located at the time the service is furnished via a telecommunications system.
+
+Prohibits application of the originating site facility fee to the additional sites.
+
+Authorizes additional telehealth providers, including a certified diabetes educator or licensed respiratory therapist, audiologist, occupational therapist, physical therapist, or speech language pathologist.
+
+Authorizes the Department of Health and Human Services (HHS) to develop payment methods to apply in the case of anyone who would be an eligible telehealth individual except that the telehealth services are furnished at a site other than an originating site.
+
+Extends Medicare coverage to remote patient management services for certain chronic health conditions.
+
+Authorizes home telehealth sites as additional originating sites.
+
+ The monthly fee or other basis of payment for physicians' services to individuals with end stage renal disease (ESRD) must now allow for a patient-specific waiver process to permit a physician, clinical nurse specialist, nurse practitioner, or physician's assistant to request a waiver of face-to-face visit requirements for home dialysis of ESRD patients. All ESRD patients receiving home dialysis shall receive a face-to-face examination at least once every three consecutive months and, in the intervening months, shall receive a monthly clinical assessment which may be furnished, if the patient so chooses, via remote monitoring by a physician, clinical nurse specialist, nurse practitioner, or physician's assistant.
+
+In determining the component of a physician's fee corresponding to practice expense relative value units for diagnostic tests provided remotely, HHS shall include in direct costs of supplies and equipment the costs of the diagnostic device, clinical systems (including hardware and software), information transmission, and device delivery and installation. Directs the Government Accountability Office to study the effectiveness of using specified telehealth services between therapy providers and patients, any associated savings, and the potential for greater use of telehealth services for other forms of therapy.</summary>
+</bill>

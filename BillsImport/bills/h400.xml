@@ -1,0 +1,74 @@
+<bill session="114" type="h" number="400" updated="2015-04-14T04:46:36-04:00">
+  <state datetime="2015-02-27">REPORTED</state>
+  <status>
+    <unknown datetime="2015-02-27"/>
+  </status>
+  <introduced datetime="2015-01-16"/>
+  <titles>
+    <title type="short" as="introduced">Trafficking Prevention in Foreign Affairs Contracting Act</title>
+    <title type="official" as="introduced">To require the Secretary of State and the Administrator of the United States Agency for International Development to submit reports on definitions of placement and recruitment fees for purposes of enabling compliance with the Trafficking Victims Protection Act of 2000, and for other purposes.</title>
+  </titles>
+  <sponsor id="400348"/>
+  <cosponsors>
+    <cosponsor id="412512" joined="2015-02-03"/>
+    <cosponsor id="400071" joined="2015-01-30"/>
+    <cosponsor id="412470" joined="2015-02-10"/>
+    <cosponsor id="412658" joined="2015-03-18"/>
+    <cosponsor id="412272" joined="2015-02-10"/>
+    <cosponsor id="412472" joined="2015-02-05"/>
+    <cosponsor id="412639" joined="2015-01-28"/>
+    <cosponsor id="400122" joined="2015-01-16"/>
+    <cosponsor id="412529" joined="2015-01-28"/>
+    <cosponsor id="412532" joined="2015-02-10"/>
+    <cosponsor id="412276" joined="2015-01-27"/>
+    <cosponsor id="400196" joined="2015-02-10"/>
+    <cosponsor id="400199" joined="2015-01-27"/>
+    <cosponsor id="412435" joined="2015-01-27"/>
+    <cosponsor id="412521" joined="2015-02-10"/>
+    <cosponsor id="400654" joined="2015-02-10"/>
+    <cosponsor id="400271" joined="2015-02-05"/>
+    <cosponsor id="400652" joined="2015-02-05"/>
+    <cosponsor id="412489" joined="2015-01-30"/>
+    <cosponsor id="400344" joined="2015-01-30"/>
+    <cosponsor id="400366" joined="2015-01-28"/>
+    <cosponsor id="400371" joined="2015-02-05"/>
+    <cosponsor id="412186" joined="2015-02-05"/>
+    <cosponsor id="400380" joined="2015-01-27"/>
+    <cosponsor id="412636" joined="2015-02-03"/>
+    <cosponsor id="412574" joined="2015-01-27"/>
+    <cosponsor id="412412" joined="2015-04-13"/>
+    <cosponsor id="412646" joined="2015-02-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-16" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2015-02-27">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-02-27" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Crime prevention"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="Employee hiring"/>
+    <term name="Foreign labor"/>
+    <term name="Human trafficking"/>
+    <term name="Public contracts and procurement"/>
+    <term name="User charges and fees"/>
+  </subjects>
+  <amendments/>
+  <summary>1/16/2015--Introduced.
+Trafficking Prevention in Foreign Affairs Contracting Act
+
+This bill directs the Secretary of State and the Administrator of the U.S. Agency for International Development to report to Congress regarding:
+
+ a definition of "placement and recruitment fees" for purposes of complying with the Trafficking Victims Protection Act of 2000, and how such definition will be incorporated into grants, contracts, cooperative agreements, and contracting practices; and a description of actions taken to ensure that officials include the prevention of trafficking in persons in monitoring grants, contracts, and cooperative agreements and contracting practices.</summary>
+</bill>

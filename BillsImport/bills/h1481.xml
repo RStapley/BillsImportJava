@@ -1,0 +1,51 @@
+<bill session="114" type="h" number="1481" updated="2015-06-06T06:30:30-04:00">
+  <state datetime="2015-03-25">REPORTED</state>
+  <status>
+    <unknown datetime="2015-03-25"/>
+  </status>
+  <introduced datetime="2015-03-19"/>
+  <titles>
+    <title type="short" as="introduced">Small Contractors Improve Competition Act of 2015</title>
+    <title type="official" as="introduced">To amend the Small Business Act to strengthen the small business industrial base, and for other purposes.</title>
+  </titles>
+  <sponsor id="400071"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-03-19" state="REFERRED">
+      <text>Referred to the House Committee on Small Business.</text>
+      <reference ref="CR S3458-3459" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2015-03-25">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-03-25" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSSM" name="House Small Business" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1386"/>
+    <bill relation="unknown" session="114" type="h" number="1390"/>
+    <bill relation="unknown" session="114" type="h" number="1410"/>
+    <bill relation="unknown" session="114" type="h" number="1429"/>
+    <bill relation="unknown" session="114" type="h" number="1444"/>
+    <bill relation="unknown" session="114" type="h" number="1583"/>
+    <bill relation="unknown" session="114" type="s" number="958"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commerce"/>
+  </subjects>
+  <amendments/>
+  <summary>3/19/2015--Introduced.
+Small Contractors Improve Competition Act of 2015
+
+This bill amends the Small Business Act to require the government to ensure small business participation in procurement contracts from a wide variety of industries and from a broad spectrum of small businesses within each industry.
+
+The National Defense Authorization Act for Fiscal Year 2013 is amended with respect to the requirement that federal agency heads ensure that senior executive personnel responsible for acquisition assume responsibility for that agency's success in achieving small business contracting goals and percentages. Such personnel are also made responsible for the agency's success in achieving small business prime contracting and subcontracting goals and percentages.
+
+The Administrator of the Small Business Administration (SBA) must develop a methodology for calculating a score card to be used to: (1) evaluate the compliance of each federal agency with meeting SBA goals, and (2) develop a scorecard based on it. By assigning a score to each federal agency, the Administrator shall establish a program to use the developed scorecard to evaluate whether each entity is creating the maximum practicable opportunities for the award of prime contracts and subcontracts to: (1) small businesses in general, (2) those small businesses owned and controlled by service-disabled veterans, (3) qualified HUBZone small businesses, (4) those owned and controlled by socially and economically disadvantaged individuals, and (5) those owned and controlled by women. The Administrator may not award limited SBA guarantee loans for any fiscal year after FY2017 as part of certain SBA-administered pilot programs until this program is established. Revisions are made to the Administrator's plan to improve the quality of data reported on bundled and consolidated contracts in the federal procurement data system. The Administrator may not award limited SBA guaranteed loans after FY2017 until the plan is implemented. A small business is permitted to bid on a bundled or consolidated contract that provides for the use of a joint venture of small businesses. Use of the methods of a reverse auction (an auction between a group of offerors who compete against each other by submitting offers for a contract or task or delivery order with the ability to submit revised offers with lower prices throughout the course of the auction) is prohibited for certain SBA federal procurement contracts for: design and construction services; goods purchased to protect federal employees, members of the Armed Forces, or civilians from bodily harm; or goods or services other than these: (1) to be awarded based on factors other than price and technical responsibility, or (2) if awarding the contract requires the contracting officer to conduct discussions with the offerors about their offer. The permission to submit an offer for a procurement contract, even though the offeror is not the actual manufacturer or processor of the product in question, is extended to additional kinds of small businesses, including:
+
+ women-owned small businesses; HUBZone small businesses, and small businesses owned and controlled by service-disabled veterans. The SBA Office of Hearing and Appeals is established. Exceptions to certification training requirements are revised for SBA procurement center representatives and SBA Business Opportunity Specialists serving on, before, or after January 3, 2013. Persons may file with the Office of Hearings and Appeals petitions or reconsiderations of a size standard revised, modified, or established by the Administrator.</summary>
+</bill>

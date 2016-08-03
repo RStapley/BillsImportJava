@@ -1,0 +1,33 @@
+<bill session="114" type="h" number="3140" updated="2015-08-05T04:47:34-04:00">
+  <state datetime="2015-07-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-21"/>
+  </status>
+  <introduced datetime="2015-07-21"/>
+  <titles>
+    <title type="short" as="introduced">Accounting for Methane in Production through Loophole Elimination with Oil and Gas Royalties</title>
+    <title type="short" as="introduced">AMPLE Oil and Gas Royalties Act</title>
+    <title type="official" as="introduced">To require Federal oil and gas leases to report and pay royalties on oil and gas production based on the actual volume of oil and gas withdrawn under a lease, and for other purposes.</title>
+  </titles>
+  <sponsor id="400630"/>
+  <cosponsors>
+    <cosponsor id="412585" joined="2015-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-21" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2015-08-04">
+      <text>Referred to the Subcommittee on Energy and Mineral Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII06" subcommittee="Energy and Mineral Resources" name="House Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+  </subjects>
+  <amendments/>
+</bill>

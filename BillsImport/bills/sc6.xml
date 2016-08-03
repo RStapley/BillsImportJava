@@ -1,0 +1,40 @@
+<bill session="114" type="sc" number="6" updated="2015-03-14T06:35:15-04:00">
+  <state datetime="2015-02-26">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-26"/>
+  </status>
+  <introduced datetime="2015-02-26"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution expressing the sense of Congress that John Arthur "Jack" Johnson should receive a posthumous pardon for the racially motivated conviction in 1913 that diminished the athletic, cultural, and historic significance of Jack Johnson and unduly tarnished his reputation.</title>
+  </titles>
+  <sponsor id="300071"/>
+  <cosponsors>
+    <cosponsor id="300082" joined="2015-02-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-26" state="REFERRED">
+      <text>Referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S1172" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="hc" number="14"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Athletes"/>
+    <term name="Congressional tributes"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Criminal procedure and sentencing"/>
+    <term name="Presidents and presidential powers"/>
+    <term name="Professional sports"/>
+    <term name="Racial and ethnic relations"/>
+    <term name="U.S. history"/>
+  </subjects>
+  <amendments/>
+  <summary>2/26/2015--Introduced.
+Expresses the sense of Congress that Jack Johnson (the first African-American professional boxer to hold the title of Heavyweight Champion of the World) should receive a posthumous pardon to expunge from the annals of American criminal justice a racially motivated abuse of the federal government's prosecutorial authority and to recognize his athletic and cultural contributions to society.</summary>
+</bill>

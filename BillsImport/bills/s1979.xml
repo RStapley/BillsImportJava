@@ -1,0 +1,26 @@
+<bill session="114" type="s" number="1979" updated="2015-08-22T07:08:19-04:00">
+  <state datetime="2015-08-05">REFERRED</state>
+  <status>
+    <introduced datetime="2015-08-05"/>
+  </status>
+  <introduced datetime="2015-08-05"/>
+  <titles>
+    <title type="short" as="introduced">Bring the Ancient One Home Act of 2015</title>
+    <title type="official" as="introduced">A bill to direct the Chief of Engineers to transfer an archaeological collection, commonly referred to as the Kennewick Man or the Ancient One, to the Washington State Department of Archeology and Historic Preservation.</title>
+  </titles>
+  <sponsor id="300076"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-08-05" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Native Americans"/>
+  </subjects>
+  <amendments/>
+</bill>

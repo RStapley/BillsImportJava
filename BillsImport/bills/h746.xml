@@ -1,0 +1,116 @@
+<bill session="114" type="h" number="746" updated="2015-08-01T06:25:33-04:00">
+  <state datetime="2015-02-05">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-05"/>
+  </status>
+  <introduced datetime="2015-02-05"/>
+  <titles>
+    <title type="short" as="introduced">Animal Welfare in Agricultural Research Endeavors Act</title>
+    <title type="short" as="introduced">AWARE Act</title>
+    <title type="official" as="introduced">To amend the Animal Welfare Act to require humane treatment of animals by Federal Government facilities.</title>
+  </titles>
+  <sponsor id="400033"/>
+  <cosponsors>
+    <cosponsor id="412657" joined="2015-04-14"/>
+    <cosponsor id="412652" joined="2015-06-17"/>
+    <cosponsor id="400047" joined="2015-05-14"/>
+    <cosponsor id="412196" joined="2015-02-05"/>
+    <cosponsor id="400063" joined="2015-05-14"/>
+    <cosponsor id="412517" joined="2015-02-24"/>
+    <cosponsor id="412571" joined="2015-06-12"/>
+    <cosponsor id="412379" joined="2015-03-24"/>
+    <cosponsor id="412600" joined="2015-03-04"/>
+    <cosponsor id="412236" joined="2015-02-11"/>
+    <cosponsor id="412272" joined="2015-02-20"/>
+    <cosponsor id="400097" joined="2015-06-10"/>
+    <cosponsor id="400100" joined="2015-02-11"/>
+    <cosponsor id="400103" joined="2015-02-11"/>
+    <cosponsor id="412385" joined="2015-03-17"/>
+    <cosponsor id="400111" joined="2015-05-14"/>
+    <cosponsor id="412215" joined="2015-03-17"/>
+    <cosponsor id="412524" joined="2015-05-14"/>
+    <cosponsor id="400129" joined="2015-02-11"/>
+    <cosponsor id="400646" joined="2015-02-05"/>
+    <cosponsor id="412529" joined="2015-02-24"/>
+    <cosponsor id="412532" joined="2015-02-24"/>
+    <cosponsor id="400162" joined="2015-02-24"/>
+    <cosponsor id="400170" joined="2015-06-10"/>
+    <cosponsor id="412282" joined="2015-02-20"/>
+    <cosponsor id="400185" joined="2015-02-24"/>
+    <cosponsor id="412561" joined="2015-05-14"/>
+    <cosponsor id="412435" joined="2015-05-14"/>
+    <cosponsor id="412543" joined="2015-04-14"/>
+    <cosponsor id="412583" joined="2015-06-17"/>
+    <cosponsor id="412557" joined="2015-02-11"/>
+    <cosponsor id="412638" joined="2015-03-17"/>
+    <cosponsor id="400237" joined="2015-03-17"/>
+    <cosponsor id="400238" joined="2015-02-20"/>
+    <cosponsor id="400244" joined="2015-03-24"/>
+    <cosponsor id="400245" joined="2015-03-17"/>
+    <cosponsor id="400246" joined="2015-03-17"/>
+    <cosponsor id="412643" joined="2015-03-24"/>
+    <cosponsor id="412562" joined="2015-05-14"/>
+    <cosponsor id="400263" joined="2015-03-17"/>
+    <cosponsor id="412189" joined="2015-03-04"/>
+    <cosponsor id="400661" joined="2015-05-14"/>
+    <cosponsor id="400290" joined="2015-04-14"/>
+    <cosponsor id="412575" joined="2015-03-04"/>
+    <cosponsor id="400308" joined="2015-04-14"/>
+    <cosponsor id="412523" joined="2015-02-17"/>
+    <cosponsor id="412308" joined="2015-06-17"/>
+    <cosponsor id="400326" joined="2015-03-04"/>
+    <cosponsor id="412331" joined="2015-03-04"/>
+    <cosponsor id="400333" joined="2015-03-04"/>
+    <cosponsor id="412212" joined="2015-07-21"/>
+    <cosponsor id="400360" joined="2015-05-14"/>
+    <cosponsor id="400361" joined="2015-02-20"/>
+    <cosponsor id="412186" joined="2015-02-20"/>
+    <cosponsor id="400378" joined="2015-02-05"/>
+    <cosponsor id="400379" joined="2015-06-10"/>
+    <cosponsor id="400380" joined="2015-03-04"/>
+    <cosponsor id="412259" joined="2015-03-17"/>
+    <cosponsor id="412520" joined="2015-07-07"/>
+    <cosponsor id="412318" joined="2015-03-04"/>
+    <cosponsor id="412254" joined="2015-04-14"/>
+    <cosponsor id="400415" joined="2015-06-10"/>
+    <cosponsor id="400416" joined="2015-07-07"/>
+    <cosponsor id="412644" joined="2015-07-07"/>
+    <cosponsor id="412239" joined="2015-03-04"/>
+    <cosponsor id="412412" joined="2015-06-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-04">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H759-760"/>
+    </action>
+    <action datetime="2015-02-05">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E170"/>
+    </action>
+    <action datetime="2015-02-05" state="REFERRED">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+    <action datetime="2015-02-27">
+      <text>Referred to the Subcommittee on Livestock and Foreign Agriculture.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee activity="Referral" code="HSAG29" subcommittee="Livestock and Foreign Agriculture" name="House Agriculture"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="388"/>
+  </relatedbills>
+  <subjects>
+    <term name="Animals"/>
+    <term name="Agricultural research"/>
+    <term name="Animal protection and human-animal relationships"/>
+    <term name="Livestock"/>
+    <term name="Museums, exhibitions, cultural centers"/>
+  </subjects>
+  <amendments/>
+  <summary>2/5/2015--Introduced.
+Animal Welfare in Agricultural Research Endeavors Act or the AWARE Act
+
+This bill amends the Animal Welfare Act to apply standards for humane treatment to farm animals at federal research or laboratory animal facilities.</summary>
+</bill>

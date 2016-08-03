@@ -1,0 +1,54 @@
+<bill session="114" type="h" number="1473" updated="2015-05-23T06:30:15-04:00">
+  <state datetime="2015-04-15">REPORTED</state>
+  <status>
+    <unknown datetime="2015-04-15"/>
+  </status>
+  <introduced datetime="2015-03-19"/>
+  <titles>
+    <title type="short" as="introduced">John F. Kennedy Center Reauthorization Act of 2015</title>
+    <title type="short" as="reported to house">John F. Kennedy Center Reauthorization Act of 2015</title>
+    <title type="official" as="introduced">To amend the John F. Kennedy Center Act to authorize appropriations for the John F. Kennedy Center for the Performing Arts.</title>
+  </titles>
+  <sponsor id="412469"/>
+  <cosponsors>
+    <cosponsor id="412258" joined="2015-03-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-19" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2015-03-20">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+    </action>
+    <action datetime="2015-04-15">
+      <text>Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.</text>
+    </action>
+    <action datetime="2015-04-15">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-04-15" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </calendar>
+    <action datetime="2015-05-08T11:45:00-04:00">
+      <text>Reported by the Committee on Transportation and Infrastructure. H. Rept. 114-105.</text>
+    </action>
+    <calendar datetime="2015-05-08T11:46:00-04:00" calendar="Union" number="74">
+      <text>Placed on the Union Calendar, Calendar No. 74.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Arts, culture, religion"/>
+  </subjects>
+  <amendments/>
+  <summary>5/8/2015--Reported to House without amendment.
+(This measure has not been amended since it was introduced. The summary of that version is repeated here.)
+
+John F. Kennedy Center Reauthorization Act of 2015
+
+ Amends the John F. Kennedy Center Act to reauthorize appropriations for FY2016-FY2020 for maintenance, repair, and security, and capital projects for the John F. Kennedy Center for the Performing Arts.</summary>
+</bill>

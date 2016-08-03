@@ -1,0 +1,41 @@
+<bill session="114" type="s" number="723" updated="2015-05-01T04:49:50-04:00">
+  <state datetime="2015-03-12">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-12"/>
+  </status>
+  <introduced datetime="2015-03-12"/>
+  <titles>
+    <title type="short" as="introduced">Utility Energy Service Contracts Improvement Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend the National Energy Conservation Policy Act to provide guidance on utility energy service contracts used by Federal agencies, and for other purposes.</title>
+  </titles>
+  <sponsor id="412507"/>
+  <cosponsors>
+    <cosponsor id="300002" joined="2015-03-12"/>
+    <cosponsor id="402675" joined="2015-03-12"/>
+    <cosponsor id="412390" joined="2015-03-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-12" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2015-04-30">
+      <text>Committee on Energy and Natural Resources. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="1630"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Energy efficiency and conservation"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Performance measurement"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Public utilities and utility rates"/>
+    <term name="Service industries"/>
+  </subjects>
+  <amendments/>
+</bill>

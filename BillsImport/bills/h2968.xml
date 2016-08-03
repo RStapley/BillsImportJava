@@ -1,0 +1,30 @@
+<bill session="114" type="h" number="2968" updated="2015-07-25T06:43:48-04:00">
+  <state datetime="2015-07-08">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-08"/>
+  </status>
+  <introduced datetime="2015-07-08"/>
+  <titles>
+    <title type="short" as="introduced">Coordinating Assistance for TANF Recipients Act</title>
+    <title type="official" as="introduced">To provide for the conduct of demonstration projects to provide coordinated case management services for TANF recipients.</title>
+  </titles>
+  <sponsor id="412428"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-08" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+  </subjects>
+  <amendments/>
+  <summary>7/8/2015--Introduced.
+Coordinating Assistance for TANF Recipients Act
+
+This bill amends part A (Temporary Assistance for Needy Families) (TANF) of the Social Security Act to direct the Department of Health and Human Services to make grants to states to conduct demonstration projects designed to implement and evaluate strategies to provide coordinated case management to help individuals receiving TANF assistance to increase their employment and self-sufficiency.</summary>
+</bill>

@@ -1,0 +1,52 @@
+<bill session="114" type="s" number="815" updated="2015-05-22T04:51:09-04:00">
+  <state datetime="2015-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-19"/>
+  </status>
+  <introduced datetime="2015-03-19"/>
+  <titles>
+    <title type="short" as="introduced">Cow Creek Umpqua Land Conveyance Act</title>
+    <title type="official" as="introduced">A bill to provide for the conveyance of certain Federal land in the State of Oregon to the Cow Creek Band of Umpqua Tribe of Indians.</title>
+  </titles>
+  <sponsor id="300100"/>
+  <cosponsors>
+    <cosponsor id="412325" joined="2015-03-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-19">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S1664"/>
+    </action>
+    <action datetime="2015-03-19" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+      <reference ref="CR S1665" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2015-05-21">
+      <text>Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+    <committee activity="Hearings" code="SSEG03" subcommittee="Public Lands, Forests, and Mining" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="1436"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Federal-Indian relations"/>
+    <term name="Gambling"/>
+    <term name="Indian lands and resources rights"/>
+    <term name="Land transfers"/>
+    <term name="Oregon"/>
+  </subjects>
+  <amendments/>
+  <summary>3/19/2015--Introduced.
+Cow Creek Umpqua Land Conveyance Act 
+
+ Requires all interest of the United States in approximately 17,519 acres of land (Council Creek land) to be held in trust for, and to be part of the reservation of, the Cow Creek Band of Umpqua Tribe of Indians.
+
+Applies federal law relating to the export of unprocessed logs harvested from federal land to any unprocessed logs that are harvested from such land. Prohibits gaming on such land. Requires any forestry activity on such land to be managed in accordance with applicable federal laws.
+
+Directs the Department of Agriculture and the Department of the Interior to identify any land conveyed under this Act that is Oregon and California Railroad grant land. Directs Interior to: (1) identify public domain land in Oregon that is approximately equal in acreage and condition to such Oregon and California Railroad grant land, and (2) reclassify the public domain land as Oregon and California Railroad grant land.</summary>
+</bill>

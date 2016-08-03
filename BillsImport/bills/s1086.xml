@@ -1,0 +1,50 @@
+<bill session="114" type="s" number="1086" updated="2015-08-08T07:00:45-04:00">
+  <state datetime="2015-04-27">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-27"/>
+  </status>
+  <introduced datetime="2015-04-27"/>
+  <titles>
+    <title type="short" as="introduced">International Insurance Capital Standards Accountability Act of 2015</title>
+    <title type="official" as="introduced">A bill to establish an insurance policy advisory committee on international capital standards, and for other purposes.</title>
+  </titles>
+  <sponsor id="412218"/>
+  <cosponsors>
+    <cosponsor id="400325" joined="2015-07-28"/>
+    <cosponsor id="412244" joined="2015-04-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-27" state="REFERRED">
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+    <action datetime="2015-04-28">
+      <text>Committee on Banking, Housing, and Urban Affairs. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1910"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Advisory bodies"/>
+    <term name="Congressional oversight"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Federal Reserve System"/>
+    <term name="Insurance industry and regulation"/>
+    <term name="International organizations and cooperation"/>
+  </subjects>
+  <amendments/>
+  <summary>4/27/2015--Introduced.
+International Insurance Capital Standards Accountability Act of 2015
+
+This bill establishes at the Board of Governors of the Federal Reserve System the Insurance Policy Advisory Committee on International Capital Standards and Other Insurance Issues, a 21-member committee representing diverse expert perspectives from the U.S. insurance industry (including life insurance, property and casualty insurance and reinsurance, agents and brokers, academics, consumer advocates, or experts on issues facing underserved insurance communities and consumers).
+
+The Secretary of the Treasury and the Board Chairman shall report annually to certain congressional committees on their efforts with the National Association of Insurance Commissioners regarding global insurance regulatory or supervisory forums.
+
+The Secretary, the Board Chairman, and the Director of the Federal Insurance Office, before supporting or consenting to the adoption of any key element in any international insurance proposal or international insurance capital standard, must study its impact upon U.S. markets and consumers.
+
+The Secretary and the Board Chairman must also report, as well as testify to Congress on their efforts to increase transparency at meetings of the International Association of Insurance Supervisors.</summary>
+</bill>

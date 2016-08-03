@@ -1,0 +1,28 @@
+<bill session="114" type="s" number="1963" updated="2015-08-15T07:08:14-04:00">
+  <state datetime="2015-08-05">REFERRED</state>
+  <status>
+    <introduced datetime="2015-08-05"/>
+  </status>
+  <introduced datetime="2015-08-05"/>
+  <titles>
+    <title type="short" as="introduced">Bureau of Consumer Financial Protection Advisory Board Enhancement Act</title>
+    <title type="official" as="introduced">A bill to amend the Consumer Financial Protection Act of 2010 to establish advisory boards, and for other purposes.</title>
+  </titles>
+  <sponsor id="412669"/>
+  <cosponsors>
+    <cosponsor id="412545" joined="2015-08-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-08-05" state="REFERRED">
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+  </subjects>
+  <amendments/>
+</bill>

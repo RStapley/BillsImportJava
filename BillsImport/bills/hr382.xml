@@ -1,0 +1,32 @@
+<bill session="114" type="hr" number="382" updated="2015-08-01T06:18:57-04:00">
+  <state datetime="2015-07-27">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-27"/>
+  </status>
+  <introduced datetime="2015-07-27"/>
+  <titles>
+    <title type="official" as="introduced">Expressing the need to eliminate life without parole for children.</title>
+  </titles>
+  <sponsor id="412517"/>
+  <cosponsors>
+    <cosponsor id="412236" joined="2015-07-29"/>
+    <cosponsor id="412529" joined="2015-07-29"/>
+    <cosponsor id="400199" joined="2015-07-29"/>
+    <cosponsor id="400271" joined="2015-07-29"/>
+    <cosponsor id="412432" joined="2015-07-29"/>
+    <cosponsor id="412522" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-27" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+  </subjects>
+  <amendments/>
+</bill>

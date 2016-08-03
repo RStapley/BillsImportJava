@@ -1,0 +1,64 @@
+<bill session="114" type="h" number="2977" updated="2015-08-15T06:44:17-04:00">
+  <state datetime="2015-07-08">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-08"/>
+  </status>
+  <introduced datetime="2015-07-08"/>
+  <titles>
+    <title type="short" as="introduced">Consumer Privacy Protection Act of 2015</title>
+    <title type="official" as="introduced">To ensure the privacy and security of sensitive personal information, to prevent and mitigate identity theft, to provide notice of security breaches involving sensitive personal information, and to enhance law enforcement assistance and other protections against security breaches, fraudulent access, and misuse of personal information.</title>
+  </titles>
+  <sponsor id="412470"/>
+  <cosponsors>
+    <cosponsor id="400063" joined="2015-07-08"/>
+    <cosponsor id="412258" joined="2015-07-08"/>
+    <cosponsor id="412379" joined="2015-07-08"/>
+    <cosponsor id="412236" joined="2015-07-10"/>
+    <cosponsor id="400080" joined="2015-07-08"/>
+    <cosponsor id="412613" joined="2015-07-08"/>
+    <cosponsor id="412382" joined="2015-07-08"/>
+    <cosponsor id="412276" joined="2015-07-08"/>
+    <cosponsor id="400199" joined="2015-07-08"/>
+    <cosponsor id="412199" joined="2015-07-08"/>
+    <cosponsor id="400289" joined="2015-07-08"/>
+    <cosponsor id="412520" joined="2015-07-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-08" state="REFERRED">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committees on Energy and Commerce, Financial Services, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-07-08">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2015-07-08">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-07-08">
+      <text>Referred to House Financial Services</text>
+    </action>
+    <action datetime="2015-07-08">
+      <text>Referred to House Budget</text>
+    </action>
+    <action datetime="2015-07-10">
+      <text>Referred to the Subcommittee on Commerce, Manufacturing, and Trade.</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF17" subcommittee="Commerce, Manufacturing, and Trade" name="House Energy and Commerce"/>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+    <committee code="HSBU" name="House Budget" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="1158"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+  </subjects>
+  <amendments/>
+</bill>

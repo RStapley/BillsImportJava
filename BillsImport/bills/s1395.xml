@@ -1,0 +1,29 @@
+<bill session="114" type="s" number="1395" updated="2015-06-13T06:56:25-04:00">
+  <state datetime="2015-05-20">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-20"/>
+  </status>
+  <introduced datetime="2015-05-20"/>
+  <titles>
+    <title type="official" as="introduced">A bill to reinstate certain mining claims in the State of Alaska.</title>
+  </titles>
+  <sponsor id="300075"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-05-20">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S3185-3186"/>
+    </action>
+    <action datetime="2015-05-20" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+  </subjects>
+  <amendments/>
+</bill>

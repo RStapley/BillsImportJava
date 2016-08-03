@@ -1,0 +1,77 @@
+<bill session="114" type="h" number="2861" updated="2015-08-22T06:43:15-04:00">
+  <state datetime="2015-06-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-23"/>
+  </status>
+  <introduced datetime="2015-06-23"/>
+  <titles>
+    <title type="short" as="introduced">Veteran Employment Transition Act</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to extend the work opportunity credit to certain recently discharged veterans, to improve the coordination of veteran job training services between the Department of Labor, the Department of Veteran Affairs, and the Department of Defense, to require transparency for Executive departments in meeting the Government-wide goals for contracting with small business concerns owned and controlled by service-disabled veterans, and for other purposes.</title>
+  </titles>
+  <sponsor id="412523"/>
+  <cosponsors>
+    <cosponsor id="412642" joined="2015-06-23"/>
+    <cosponsor id="412404" joined="2015-06-23"/>
+    <cosponsor id="412529" joined="2015-06-23"/>
+    <cosponsor id="412498" joined="2015-06-23"/>
+    <cosponsor id="400170" joined="2015-06-23"/>
+    <cosponsor id="412584" joined="2015-06-23"/>
+    <cosponsor id="400209" joined="2015-06-23"/>
+    <cosponsor id="412583" joined="2015-06-23"/>
+    <cosponsor id="400246" joined="2015-07-10"/>
+    <cosponsor id="400259" joined="2015-06-23"/>
+    <cosponsor id="400295" joined="2015-06-23"/>
+    <cosponsor id="400350" joined="2015-06-23"/>
+    <cosponsor id="412520" joined="2015-06-23"/>
+    <cosponsor id="412254" joined="2015-07-10"/>
+    <cosponsor id="400415" joined="2015-06-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-23" state="REFERRED">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committees on Armed Services, Small Business, Education and the Workforce, and Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-06-23">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-06-23">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2015-06-23">
+      <text>Referred to House Small Business</text>
+    </action>
+    <action datetime="2015-06-23">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+    <action datetime="2015-06-23">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2015-07-02">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+    <committee code="HSSM" name="House Small Business" activity="Referral"/>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR10" subcommittee="Economic Opportunity" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+  <summary>6/23/2015--Introduced.
+Veteran Employment Transition Act 
+
+Amends the Internal Revenue Code to: (1) revise the definition of "qualified veteran" for purposes of the work opportunity tax credit to include recently discharged veterans, and (2) make permanent the work opportunity tax credit for qualified veterans.
+
+Requires the Department of Defense (DOD) and the National Guard to inform military personnel who are discharged or released from active duty of the work opportunity tax credit and provide them with documentation relating to eligibility for and use of such credit.
+
+Requires DOD and the Departments of Labor and Veterans Affairs to enter into an agreement to govern the coordination of veteran job training services. Requires the Departments of Labor and Veterans Affairs to prepare reports on the veteran job training programs of their respective departments.
+
+Amends the DOD pilot program for assessing the feasibility and advisability of permitting enlisted personnel to obtain civilian credentialing or licensing for skills required for military occupational specialties to require the designation as military occupational specialties of the MOS 31B Military Police, MOS 15Q AC-Air Traffic Controller, and the MOS 12M Fire Protection, in addition to not fewer than three and not more than five additional military occupational specialties.
+
+Amends the Small Business Act to direct the head of each executive department to submit an annual report to the Small Business Administration containing the percentage of the total value of all prime contracts awarded by the executive department during the preceding one-year period to small business concerns owned and controlled by service-disabled veterans.</summary>
+</bill>

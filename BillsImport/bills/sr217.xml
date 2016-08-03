@@ -1,0 +1,30 @@
+<bill session="114" type="sr" number="217" updated="2015-07-11T06:47:03-04:00">
+  <state datetime="2015-07-08">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-08"/>
+  </status>
+  <introduced datetime="2015-07-08"/>
+  <titles>
+    <title type="official" as="introduced">A resolution designating October 8, 2015, as "National Hydrogen and Fuel Cell Day".</title>
+  </titles>
+  <sponsor id="412490"/>
+  <cosponsors>
+    <cosponsor id="300047" joined="2015-07-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-08" state="REFERRED">
+      <text>Referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S4844" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+  </subjects>
+  <amendments/>
+  <summary>7/8/2015--Introduced.
+This bill designates October 8, 2015, as National Hydrogen and Fuel Cell Day.</summary>
+</bill>

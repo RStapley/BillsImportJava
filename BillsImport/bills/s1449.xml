@@ -1,0 +1,31 @@
+<bill session="114" type="s" number="1449" updated="2015-08-15T07:03:56-04:00">
+  <state datetime="2015-05-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-21"/>
+  </status>
+  <introduced datetime="2015-05-21"/>
+  <titles>
+    <title type="short" as="introduced">Building Better Trucks Act</title>
+    <title type="official" as="introduced">A bill to amend the Energy Independence and Security Act of 2007 to add certain medium-duty and heavy-duty vehicles to the advanced technology vehicles manufacturing incentive program.</title>
+  </titles>
+  <sponsor id="300093"/>
+  <cosponsors>
+    <cosponsor id="412305" joined="2015-05-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2015-06-09">
+      <text>Committee on Energy and Natural Resources. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+  </subjects>
+  <amendments/>
+</bill>

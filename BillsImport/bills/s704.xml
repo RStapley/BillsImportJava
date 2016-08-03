@@ -1,0 +1,56 @@
+<bill session="114" type="s" number="704" updated="2015-08-08T06:57:33-04:00">
+  <state datetime="2015-06-24">REPORTED</state>
+  <status>
+    <unknown datetime="2015-06-24"/>
+  </status>
+  <introduced datetime="2015-03-11"/>
+  <titles>
+    <title type="short" as="introduced">Community Based Independence for Seniors Act</title>
+    <title type="short" as="reported to senate">Community Based Independence for Seniors Act</title>
+    <title type="official" as="introduced">A bill to establish a Community-Based Institutional Special Needs Plan demonstration program to target home and community-based care to eligible Medicare beneficiaries.</title>
+  </titles>
+  <sponsor id="300048"/>
+  <cosponsors>
+    <cosponsor id="400064" joined="2015-03-11"/>
+    <cosponsor id="412378" joined="2015-06-23"/>
+    <cosponsor id="412223" joined="2015-07-14"/>
+    <cosponsor id="412218" joined="2015-06-23"/>
+    <cosponsor id="300087" joined="2015-05-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-11" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+    <calendar datetime="2015-06-24" state="REPORTED">
+      <text>Committee on Finance. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="2015-07-30">
+      <text>Committee on Finance. Reported by Senator Hatch with an amendment in the nature of a substitute. With written report No. 114-103.</text>
+    </action>
+    <calendar datetime="2015-07-30" calendar="Senate Legislative" under="General Orders" number="182">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 182.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="2704"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Adult day care"/>
+    <term name="Aging"/>
+    <term name="Home and outpatient care"/>
+    <term name="Hospital care"/>
+    <term name="Long-term, rehabilitative, and terminal care"/>
+    <term name="Medicaid"/>
+    <term name="Medicare"/>
+    <term name="Nursing"/>
+  </subjects>
+  <amendments/>
+  <summary>3/11/2015--Introduced.
+Community Based Independence for Seniors Act 
+
+The Secretary of Health and Human Services shall establish a Community-Based Institutional Special Needs Plan demonstration program to target home and community-based care to eligible Medicare beneficiaries age 65 or older.</summary>
+</bill>

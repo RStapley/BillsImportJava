@@ -1,0 +1,24 @@
+<bill session="114" type="h" number="3367" updated="2015-08-06T12:47:31-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">Stephanie Tubbs Jones Assets for Independence Reauthorization Act of 2015</title>
+    <title type="official" as="introduced">To reauthorize the Assets for Independence Act, to provide for the approval of applications to operate new demonstration programs and to renew existing programs, to enhance program flexibility, and for other purposes.</title>
+  </titles>
+  <sponsor id="400240"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

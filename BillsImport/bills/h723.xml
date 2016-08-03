@@ -1,0 +1,76 @@
+<bill session="114" type="h" number="723" updated="2015-06-27T06:31:56-04:00">
+  <state datetime="2015-05-12T20:00:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2015-05-12T20:00:00-04:00"/>
+  </status>
+  <introduced datetime="2015-02-04"/>
+  <titles>
+    <title type="short" as="introduced">Fallen Heroes Flag Act of 2015</title>
+    <title type="short" as="passed house">Fallen Heroes Flag Act of 2015</title>
+    <title type="official" as="introduced">To provide Capitol-flown flags to the immediate family of fire fighters, law enforcement officers, members of rescue squads or ambulance crews, and public safety officers who are killed in the line of duty.</title>
+  </titles>
+  <sponsor id="400219"/>
+  <cosponsors>
+    <cosponsor id="400041" joined="2015-02-04"/>
+    <cosponsor id="412258" joined="2015-05-12"/>
+    <cosponsor id="412571" joined="2015-02-04"/>
+    <cosponsor id="412563" joined="2015-02-04"/>
+    <cosponsor id="412272" joined="2015-03-17"/>
+    <cosponsor id="412524" joined="2015-02-13"/>
+    <cosponsor id="412460" joined="2015-02-04"/>
+    <cosponsor id="400233" joined="2015-02-04"/>
+    <cosponsor id="412643" joined="2015-03-26"/>
+    <cosponsor id="400309" joined="2015-02-04"/>
+    <cosponsor id="400660" joined="2015-02-26"/>
+    <cosponsor id="400403" joined="2015-02-04"/>
+    <cosponsor id="412617" joined="2015-02-04"/>
+    <cosponsor id="400440" joined="2015-02-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-04" state="REFERRED">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+    <action datetime="2015-05-12T19:47:00-04:00">
+      <text>Mr. Nugent moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2015-05-12T19:47:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2856-2857" label="consideration"/>
+    </action>
+    <action datetime="2015-05-12T19:47:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 723.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2015-05-12T20:00:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H2856" label="text"/>
+    </vote>
+    <action datetime="2015-05-12T20:01:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2015-05-13">
+      <text>Received in the Senate and Read twice and referred to the Committee on Rules and Administration.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral"/>
+    <committee code="SSRA" name="Senate Rules and Administration" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="First responders and emergency personnel"/>
+    <term name="Law enforcement officers"/>
+    <term name="National symbols"/>
+    <term name="U.S. Capitol"/>
+  </subjects>
+  <amendments/>
+  <summary>5/12/2015--Passed House without amendment.
+(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)
+
+Fallen Heroes Flag Act of 2015
+
+ (Sec. 2) Allows the Representative of the immediate family of a deceased fire fighter, law enforcement officer, member of a rescue squad or ambulance crew, or public safety officer who died in the line of duty to provide the family, at their request, with a Capitol-flown flag, together with a certificate, signed by the Speaker of the House of Representatives and the Representative providing the flag, which contains an expression of sympathy for the family.
+
+(Sec. 4) Authorizes appropriations for FY2015-FY2020 to carry out this Act, to be derived from amounts appropriated for the operation of the Capitol Visitors Center, subject to a cap.</summary>
+</bill>

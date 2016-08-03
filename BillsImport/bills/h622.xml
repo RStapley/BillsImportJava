@@ -1,0 +1,137 @@
+<bill session="114" type="h" number="622" updated="2015-04-25T06:22:29-04:00">
+  <state datetime="2015-04-16T11:55:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2015-04-16T11:55:00-04:00"/>
+  </status>
+  <introduced datetime="2015-01-30"/>
+  <titles>
+    <title type="short" as="reported to house">State and Local Sales Tax Deduction Fairness Act of 2015</title>
+    <title type="short" as="passed house">State and Local Sales Tax Deduction Fairness Act of 2015</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to make permanent the deduction of State and local general sales taxes.</title>
+  </titles>
+  <sponsor id="400046"/>
+  <cosponsors>
+    <cosponsor id="412655" joined="2015-02-10"/>
+    <cosponsor id="400018" joined="2015-02-11"/>
+    <cosponsor id="412250" joined="2015-01-30"/>
+    <cosponsor id="412478" joined="2015-02-04"/>
+    <cosponsor id="400032" joined="2015-01-30"/>
+    <cosponsor id="400068" joined="2015-01-30"/>
+    <cosponsor id="412604" joined="2015-01-30"/>
+    <cosponsor id="412236" joined="2015-02-10"/>
+    <cosponsor id="400655" joined="2015-01-30"/>
+    <cosponsor id="400086" joined="2015-01-30"/>
+    <cosponsor id="400089" joined="2015-01-30"/>
+    <cosponsor id="400108" joined="2015-01-30"/>
+    <cosponsor id="400116" joined="2015-01-30"/>
+    <cosponsor id="412639" joined="2015-02-24"/>
+    <cosponsor id="412482" joined="2015-01-30"/>
+    <cosponsor id="412480" joined="2015-01-30"/>
+    <cosponsor id="400651" joined="2015-01-30"/>
+    <cosponsor id="400157" joined="2015-01-30"/>
+    <cosponsor id="400160" joined="2015-01-30"/>
+    <cosponsor id="412584" joined="2015-01-30"/>
+    <cosponsor id="412446" joined="2015-01-30"/>
+    <cosponsor id="400175" joined="2015-02-11"/>
+    <cosponsor id="400206" joined="2015-01-30"/>
+    <cosponsor id="412603" joined="2015-01-30"/>
+    <cosponsor id="412583" joined="2015-01-30"/>
+    <cosponsor id="412294" joined="2015-01-30"/>
+    <cosponsor id="400656" joined="2015-01-30"/>
+    <cosponsor id="400654" joined="2015-01-30"/>
+    <cosponsor id="400262" joined="2015-01-30"/>
+    <cosponsor id="400659" joined="2015-01-30"/>
+    <cosponsor id="400279" joined="2015-01-30"/>
+    <cosponsor id="412527" joined="2015-01-30"/>
+    <cosponsor id="400441" joined="2015-01-30"/>
+    <cosponsor id="412475" joined="2015-01-30"/>
+    <cosponsor id="412409" joined="2015-01-30"/>
+    <cosponsor id="412302" joined="2015-01-30"/>
+    <cosponsor id="400652" joined="2015-02-02"/>
+    <cosponsor id="400660" joined="2015-01-30"/>
+    <cosponsor id="412310" joined="2015-01-30"/>
+    <cosponsor id="400367" joined="2015-01-30"/>
+    <cosponsor id="400381" joined="2015-01-30"/>
+    <cosponsor id="412410" joined="2015-02-13"/>
+    <cosponsor id="412578" joined="2015-01-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-30" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="2015-02-12">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-02-12" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 22 - 14.</text>
+    </calendar>
+    <action datetime="2015-04-06T14:05:00-04:00">
+      <text>Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-51.</text>
+    </action>
+    <calendar datetime="2015-04-06T14:05:00-04:00" calendar="Union" number="32">
+      <text>Placed on the Union Calendar, Calendar No. 32.</text>
+    </calendar>
+    <action datetime="2015-04-16T10:44:00-04:00">
+      <text>Considered under the provisions of rule H. Res. 200.</text>
+      <reference ref="CR H2286-2290" label="consideration"/>
+    </action>
+    <action datetime="2015-04-16T10:44:00-04:00">
+      <text>This resolution provides for consideration of H.R. 622, H.R. 1105, and H.R. 1195.</text>
+    </action>
+    <action datetime="2015-04-16T10:45:00-04:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.R. 622.</text>
+    </action>
+    <action datetime="2015-04-16T11:05:00-04:00">
+      <text>DEBATE - The House continued with debate on H.R. 622.</text>
+    </action>
+    <action datetime="2015-04-16T11:07:00-04:00">
+      <text>Mr. Neal moved to recommit with instructions to the Committee on Ways and Means.</text>
+      <reference ref="CR H2288-2290" label="consideration"/>
+      <reference ref="CR H2288" label="text"/>
+    </action>
+    <action datetime="2015-04-16T11:08:00-04:00">
+      <text>DEBATE - The House proceeded with 10 minutes of debate on the motion to recommit with instructions, pending a reservation of a point of order. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to strike section 2 of the bill and replace it with a new section prohibiting an increase in the deficit or a delay or weakening of efforts to adopt a permanent extension of the election to deduct State and local sales taxes so long as such an extension is accomplished in a fiscally responsible manner. The amendment also adds a section to extend the deduction of state and local general sales tax for one year. Subsequently, the point of order was withdrawn.</text>
+    </action>
+    <action datetime="2015-04-16T11:15:00-04:00">
+      <text>The previous question on the motion to recommit with instructions was ordered without objection.</text>
+      <reference ref="CR H2289" label="consideration"/>
+    </action>
+    <action datetime="2015-04-16T11:46:00-04:00">
+      <text>On motion to recommit with instructions Failed by the Yeas and Nays: 179 - 243 (Roll no. 158).</text>
+      <reference ref="CR H2289-2290" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="159" datetime="2015-04-16T11:55:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by the Yeas and Nays: 272 - 152 (Roll no. 159).</text>
+      <reference ref="CR H2286" label="text"/>
+    </vote>
+    <action datetime="2015-04-16T11:55:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2015-04-20">
+      <text>Received in the Senate.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="hr" number="200"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Income tax deductions"/>
+    <term name="Sales and excise taxes"/>
+    <term name="State and local taxation"/>
+  </subjects>
+  <amendments>
+    <amendment number="h89"/>
+  </amendments>
+  <summary>4/16/2015--Passed House amended.
+(This measure has not been amended since it was reported to the House on April 6, 2015. The summary of that version is repeated here.)
+
+State and Local Sales Tax Deduction Fairness Act of 2015
+
+(Sec. 2) Amends the Internal Revenue Code to make permanent the taxpayer election to deduct state and local general sales taxes in lieu of state and local income taxes.
+
+(Sec. 3) Prohibits the budgetary effects of this Act from being entered on either PAYGO scorecard maintained under the Statutory Pay-As-You-Go Act of 2010.</summary>
+</bill>

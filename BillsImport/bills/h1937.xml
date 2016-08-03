@@ -1,0 +1,150 @@
+<bill session="114" type="h" number="1937" updated="2015-07-28T05:09:04-04:00">
+  <state datetime="2015-07-09">REPORTED</state>
+  <status>
+    <unknown datetime="2015-07-09"/>
+  </status>
+  <introduced datetime="2015-04-22"/>
+  <titles>
+    <title type="short" as="introduced">National Strategic and Critical Minerals Production Act of 2015</title>
+    <title type="official" as="introduced">To require the Secretary of the Interior and the Secretary of Agriculture to more efficiently develop domestic sources of the minerals and mineral materials of strategic and critical importance to United States economic and national security and manufacturing competitiveness.</title>
+  </titles>
+  <sponsor id="412500"/>
+  <cosponsors>
+    <cosponsor id="412541" joined="2015-04-22"/>
+    <cosponsor id="412436" joined="2015-04-22"/>
+    <cosponsor id="412270" joined="2015-04-22"/>
+    <cosponsor id="400077" joined="2015-04-22"/>
+    <cosponsor id="400655" joined="2015-04-22"/>
+    <cosponsor id="412513" joined="2015-04-22"/>
+    <cosponsor id="412555" joined="2015-04-22"/>
+    <cosponsor id="400089" joined="2015-04-22"/>
+    <cosponsor id="400108" joined="2015-04-22"/>
+    <cosponsor id="412472" joined="2015-04-22"/>
+    <cosponsor id="412476" joined="2015-04-22"/>
+    <cosponsor id="412480" joined="2015-04-22"/>
+    <cosponsor id="400651" joined="2015-04-22"/>
+    <cosponsor id="412397" joined="2015-04-22"/>
+    <cosponsor id="400158" joined="2015-04-22"/>
+    <cosponsor id="412388" joined="2015-04-22"/>
+    <cosponsor id="412645" joined="2015-04-22"/>
+    <cosponsor id="412444" joined="2015-07-27"/>
+    <cosponsor id="412446" joined="2015-04-22"/>
+    <cosponsor id="412460" joined="2015-04-23"/>
+    <cosponsor id="412465" joined="2015-04-22"/>
+    <cosponsor id="412419" joined="2015-04-22"/>
+    <cosponsor id="412510" joined="2015-04-22"/>
+    <cosponsor id="412191" joined="2015-04-27"/>
+    <cosponsor id="412256" joined="2015-04-22"/>
+    <cosponsor id="412292" joined="2015-04-22"/>
+    <cosponsor id="412294" joined="2015-04-22"/>
+    <cosponsor id="400656" joined="2015-04-23"/>
+    <cosponsor id="412295" joined="2015-04-22"/>
+    <cosponsor id="400659" joined="2015-04-22"/>
+    <cosponsor id="412662" joined="2015-04-22"/>
+    <cosponsor id="412660" joined="2015-04-22"/>
+    <cosponsor id="412302" joined="2015-04-30"/>
+    <cosponsor id="412462" joined="2015-06-24"/>
+    <cosponsor id="400340" joined="2015-04-30"/>
+    <cosponsor id="412570" joined="2015-06-25"/>
+    <cosponsor id="412641" joined="2015-04-23"/>
+    <cosponsor id="400606" joined="2015-04-22"/>
+    <cosponsor id="400365" joined="2015-04-22"/>
+    <cosponsor id="400367" joined="2015-06-23"/>
+    <cosponsor id="400376" joined="2015-04-22"/>
+    <cosponsor id="412581" joined="2015-04-22"/>
+    <cosponsor id="412461" joined="2015-04-22"/>
+    <cosponsor id="412317" joined="2015-04-22"/>
+    <cosponsor id="412405" joined="2015-04-22"/>
+    <cosponsor id="400419" joined="2015-04-23"/>
+    <cosponsor id="400440" joined="2015-04-22"/>
+    <cosponsor id="412640" joined="2015-04-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-22" state="REFERRED">
+      <text>Referred to the Committee on Natural Resources, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-04-22">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2015-04-22">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2015-05-15">
+      <text>Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.</text>
+    </action>
+    <action datetime="2015-05-19">
+      <text>Referred to the Subcommittee on Energy and Mineral Resources.</text>
+    </action>
+    <action datetime="2015-06-25">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="2015-07-08">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2015-07-09">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-07-09" state="REPORTED">
+      <text>Ordered to be Reported by the Yeas and Nays: 23 - 14.</text>
+    </calendar>
+    <action datetime="2015-07-09">
+      <text>Subcommittee on Energy and Mineral Resources Discharged.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII06" subcommittee="Energy and Mineral Resources" name="House Natural Resources"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU05" subcommittee="Regulatory Reform, Commercial And Antitrust Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Administrative remedies"/>
+    <term name="Civil actions and liability"/>
+    <term name="Environmental assessment, monitoring, research"/>
+    <term name="Forests, forestry, trees"/>
+    <term name="Government information and archives"/>
+    <term name="Judicial review and appeals"/>
+    <term name="Land use and conservation"/>
+    <term name="Legal fees and court costs"/>
+    <term name="Licensing and registrations"/>
+    <term name="Metals"/>
+    <term name="Mining"/>
+    <term name="Strategic materials and reserves"/>
+  </subjects>
+  <amendments/>
+  <summary>4/22/2015--Introduced.
+National Strategic and Critical Minerals Production Act of 2015
+
+Deems a domestic mine that will provide strategic and critical minerals to be an "infrastructure project" as described in Presidential Order "Improving Performance of Federal Permitting and Review of Infrastructure Projects" dated March 22, 2012.
+
+ Sets forth the responsibilities of the lead agency (federal, state, local, tribal, or Alaska Native Corporation) with responsibility for issuing a mineral exploration or mine permit with respect to project coordination, agency consultation, project proponents, and contractors.
+
+Deems the requirements of National Environmental Policy Act of 1969 (NEPA) to have been satisfied if the lead agency determines that any state or federal agency acting pursuant to state or federal statutory or procedural authorities, has or will address specified factors.
+
+Requires the lead agency, if it cannot make such a determination, and at a project proponent's request, together with cooperating and other agencies involved in the permitting process to enter into an agreement with the project proponent that sets time limits for each part of the permitting process.
+
+Applies this Act to any mineral exploration or mine permit for which an application was submitted before enactment of this Act if the applicant so requests in writing. Requires the lead agency to begin implementing this Act with respect to such application within 30 days after receiving such a request.
+
+Requires the lead agency, with respect to strategic and critical minerals within a federally administered unit of the National Forest System, to: (1) exempt from federal regulations governing Special Areas all areas of identified mineral resources in Land Use Designations (other than Non-Development Land Use Designations); (2) apply such exemption to all additional routes and areas that the agency finds necessary to facilitate the construction, operation, maintenance, and restoration of the areas of the identified mineral resources; and (3) continue to apply such exemptions after approval of the Minerals Plan of Operations for the unit.
+
+ Declares the priority of the lead agency is to maximize mineral resource development while mitigating environmental impacts, so that more of the mineral resource can be brought to the market place.
+
+Prescribes the Federal Register notice process for mineral exploration and mining projects.
+
+Authorizes the holder of a mineral exploration or mine permit to intervene as of right in any covered civil action by a person affecting rights or obligations of the permit holder under the permit.
+
+ Bars a civil action claiming legal wrong caused by an agency action unless it is filed by the end of the 60-day period beginning on the date of the final federal agency action to which it relates.
+
+ Requires the court to hear and determine any covered civil action as expeditiously as possible.
+
+ Prohibits the court, in a covered civil action, from granting or approving prospective relief unless it finds that such relief is narrowly drawn, extends no further than necessary to correct the violation of a legal requirement, and is the least intrusive means necessary to correct such violation.
+
+Declares inapplicable to such a civil action specified requirements of the Equal Access to Justice Act relating to award of costs and fees to a prevailing plaintiff.
+
+Prohibits payment from the federal government for court costs of a party in such a civil action, including attorneys' fees and expenses.
+
+Prohibits construction of this Act as affecting any aspect of Secretarial Order 3324 with respect to potash and oil and gas operators.</summary>
+</bill>

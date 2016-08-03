@@ -1,0 +1,49 @@
+<bill session="114" type="s" number="1312" updated="2015-07-30T04:52:32-04:00">
+  <state datetime="2015-05-12">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-12"/>
+  </status>
+  <introduced datetime="2015-05-12"/>
+  <titles>
+    <title type="short" as="introduced">Energy Supply and Distribution Act of 2015</title>
+    <title type="official" as="introduced">A bill to modernize Federal policies regarding the supply and distribution of energy in the United States, and for other purposes.</title>
+  </titles>
+  <sponsor id="300075"/>
+  <cosponsors>
+    <cosponsor id="300002" joined="2015-05-12"/>
+    <cosponsor id="412251" joined="2015-05-12"/>
+    <cosponsor id="400061" joined="2015-05-12"/>
+    <cosponsor id="412248" joined="2015-05-12"/>
+    <cosponsor id="412508" joined="2015-07-29"/>
+    <cosponsor id="412549" joined="2015-06-10"/>
+    <cosponsor id="400134" joined="2015-05-12"/>
+    <cosponsor id="412554" joined="2015-05-12"/>
+    <cosponsor id="412494" joined="2015-05-12"/>
+    <cosponsor id="300055" joined="2015-05-12"/>
+    <cosponsor id="412464" joined="2015-05-12"/>
+    <cosponsor id="300071" joined="2015-05-12"/>
+    <cosponsor id="412322" joined="2015-05-12"/>
+    <cosponsor id="412491" joined="2015-05-12"/>
+    <cosponsor id="412471" joined="2015-05-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-12" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2015-06-09">
+      <text>Committee on Energy and Natural Resources. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="2369"/>
+    <bill relation="unknown" session="114" type="s" number="1220"/>
+    <bill relation="unknown" session="114" type="s" number="1224"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+  </subjects>
+  <amendments/>
+</bill>

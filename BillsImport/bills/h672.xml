@@ -1,0 +1,51 @@
+<bill session="114" type="h" number="672" updated="2015-07-08T04:47:26-04:00">
+  <state datetime="2015-02-03">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-03"/>
+  </status>
+  <introduced datetime="2015-02-03"/>
+  <titles>
+    <title type="short" as="introduced">Rural Community Hospital Demonstration Extension Act of 2015</title>
+    <title type="official" as="introduced">To amend title XVIII of the Social Security Act to provide for a five-year extension of the rural community hospital demonstration program, and for other purposes.</title>
+  </titles>
+  <sponsor id="400440"/>
+  <cosponsors>
+    <cosponsor id="412500" joined="2015-02-03"/>
+    <cosponsor id="412627" joined="2015-05-19"/>
+    <cosponsor id="400077" joined="2015-04-30"/>
+    <cosponsor id="400640" joined="2015-03-17"/>
+    <cosponsor id="412280" joined="2015-06-23"/>
+    <cosponsor id="400220" joined="2015-02-03"/>
+    <cosponsor id="412209" joined="2015-02-03"/>
+    <cosponsor id="412475" joined="2015-04-22"/>
+    <cosponsor id="408211" joined="2015-05-19"/>
+    <cosponsor id="412443" joined="2015-07-07"/>
+    <cosponsor id="412581" joined="2015-04-13"/>
+    <cosponsor id="400402" joined="2015-04-28"/>
+    <cosponsor id="412628" joined="2015-03-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-03" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="607"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Congressional oversight"/>
+    <term name="Health care coverage and access"/>
+    <term name="Hospital care"/>
+    <term name="Medicare"/>
+    <term name="Rural conditions and development"/>
+  </subjects>
+  <amendments/>
+  <summary>2/3/2015--Introduced.
+Rural Community Hospital Demonstration Extension Act of 2015
+
+Amends the Medicare Prescription Drug, Improvement, and Modernization Act of 2003, as amended by the Patient Protection and Affordable Care Act, to extend the period of the rural community hospital demonstration program from 5 to 10 years.</summary>
+</bill>

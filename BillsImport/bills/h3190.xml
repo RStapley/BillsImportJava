@@ -1,0 +1,59 @@
+<bill session="114" type="h" number="3190" updated="2015-08-01T04:51:17-04:00">
+  <state datetime="2015-07-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-23"/>
+  </status>
+  <introduced datetime="2015-07-23"/>
+  <titles>
+    <title type="short" as="introduced">PREPARE Act of 2015</title>
+    <title type="short" as="introduced">Preparedness and Risk Management for Extreme Weather Patterns Assuring Resilience and Effectiveness Act of 2015</title>
+    <title type="official" as="introduced">To amend title 31, United States Code, to enhance the Federal Government's planning and preparation for extreme weather, and the Federal Government's dissemination of best practices to respond to extreme weather, thereby increasing resilience, improving regional coordination, and mitigating the financial risk to the Federal Government from such extreme weather.</title>
+  </titles>
+  <sponsor id="412571"/>
+  <cosponsors>
+    <cosponsor id="400033" joined="2015-07-23"/>
+    <cosponsor id="400063" joined="2015-07-23"/>
+    <cosponsor id="412272" joined="2015-07-23"/>
+    <cosponsor id="412482" joined="2015-07-23"/>
+    <cosponsor id="400646" joined="2015-07-23"/>
+    <cosponsor id="412382" joined="2015-07-23"/>
+    <cosponsor id="400170" joined="2015-07-23"/>
+    <cosponsor id="400185" joined="2015-07-23"/>
+    <cosponsor id="412511" joined="2015-07-23"/>
+    <cosponsor id="400218" joined="2015-07-23"/>
+    <cosponsor id="412290" joined="2015-07-23"/>
+    <cosponsor id="412209" joined="2015-07-31"/>
+    <cosponsor id="412521" joined="2015-07-23"/>
+    <cosponsor id="400295" joined="2015-07-23"/>
+    <cosponsor id="412523" joined="2015-07-23"/>
+    <cosponsor id="412307" joined="2015-07-23"/>
+    <cosponsor id="412308" joined="2015-07-23"/>
+    <cosponsor id="412331" joined="2015-07-23"/>
+    <cosponsor id="400361" joined="2015-07-28"/>
+    <cosponsor id="400415" joined="2015-07-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-23" state="REFERRED">
+      <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-07-23">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2015-07-23">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2015-07-24">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+  </subjects>
+  <amendments/>
+</bill>

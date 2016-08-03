@@ -1,0 +1,38 @@
+<bill session="114" type="s" number="1503" updated="2015-06-13T06:57:20-04:00">
+  <state datetime="2015-06-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-04"/>
+  </status>
+  <introduced datetime="2015-06-04"/>
+  <titles>
+    <title type="short" as="introduced">Lyme and Tick-Borne Disease Prevention, Education, and Research Act of 2015</title>
+    <title type="official" as="introduced">A bill to provide for enhanced Federal efforts concerning the prevention, education, treatment, and research activities related to Lyme disease and other tick-borne diseases, including the establishment of a Tick-Borne Diseases Advisory Committee.</title>
+  </titles>
+  <sponsor id="412490"/>
+  <cosponsors>
+    <cosponsor id="412493" joined="2015-06-04"/>
+    <cosponsor id="412246" joined="2015-06-04"/>
+    <cosponsor id="412390" joined="2015-06-04"/>
+    <cosponsor id="412223" joined="2015-06-04"/>
+    <cosponsor id="412545" joined="2015-06-10"/>
+    <cosponsor id="412242" joined="2015-06-04"/>
+    <cosponsor id="300081" joined="2015-06-04"/>
+    <cosponsor id="300087" joined="2015-06-04"/>
+    <cosponsor id="412247" joined="2015-06-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-04" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="665"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+</bill>

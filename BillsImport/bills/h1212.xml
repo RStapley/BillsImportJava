@@ -1,0 +1,99 @@
+<bill session="114" type="h" number="1212" updated="2015-07-14T04:47:05-04:00">
+  <state datetime="2015-03-03">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-03"/>
+  </status>
+  <introduced datetime="2015-03-03"/>
+  <titles>
+    <title type="short" as="introduced">Internet Freedom Act</title>
+    <title type="official" as="introduced">To prohibit the Federal Communications Commission from reclassifying broadband Internet access service as a telecommunications service and from imposing certain regulations on providers of such service.</title>
+  </titles>
+  <sponsor id="400032"/>
+  <cosponsors>
+    <cosponsor id="400018" joined="2015-03-03"/>
+    <cosponsor id="412250" joined="2015-03-13"/>
+    <cosponsor id="412478" joined="2015-03-04"/>
+    <cosponsor id="412627" joined="2015-03-13"/>
+    <cosponsor id="400046" joined="2015-03-13"/>
+    <cosponsor id="412539" joined="2015-03-03"/>
+    <cosponsor id="412196" joined="2015-04-28"/>
+    <cosponsor id="412619" joined="2015-03-13"/>
+    <cosponsor id="400052" joined="2015-03-03"/>
+    <cosponsor id="412563" joined="2015-03-03"/>
+    <cosponsor id="412658" joined="2015-03-13"/>
+    <cosponsor id="412555" joined="2015-03-03"/>
+    <cosponsor id="400648" joined="2015-03-25"/>
+    <cosponsor id="400116" joined="2015-03-04"/>
+    <cosponsor id="412457" joined="2015-03-03"/>
+    <cosponsor id="412480" joined="2015-03-03"/>
+    <cosponsor id="400141" joined="2015-03-04"/>
+    <cosponsor id="412463" joined="2015-03-04"/>
+    <cosponsor id="400651" joined="2015-03-13"/>
+    <cosponsor id="412397" joined="2015-03-13"/>
+    <cosponsor id="412661" joined="2015-03-25"/>
+    <cosponsor id="412278" joined="2015-03-03"/>
+    <cosponsor id="412280" joined="2015-03-03"/>
+    <cosponsor id="400175" joined="2015-03-13"/>
+    <cosponsor id="412550" joined="2015-03-03"/>
+    <cosponsor id="412460" joined="2015-03-03"/>
+    <cosponsor id="412603" joined="2015-07-13"/>
+    <cosponsor id="400209" joined="2015-03-04"/>
+    <cosponsor id="412465" joined="2015-03-13"/>
+    <cosponsor id="412290" joined="2015-03-03"/>
+    <cosponsor id="412256" joined="2015-03-03"/>
+    <cosponsor id="412445" joined="2015-03-13"/>
+    <cosponsor id="412503" joined="2015-04-16"/>
+    <cosponsor id="412487" joined="2015-03-03"/>
+    <cosponsor id="412611" joined="2015-04-16"/>
+    <cosponsor id="412568" joined="2015-03-03"/>
+    <cosponsor id="400441" joined="2015-03-04"/>
+    <cosponsor id="412302" joined="2015-03-03"/>
+    <cosponsor id="412608" joined="2015-04-16"/>
+    <cosponsor id="412569" joined="2015-07-13"/>
+    <cosponsor id="400320" joined="2015-03-03"/>
+    <cosponsor id="412431" joined="2015-03-03"/>
+    <cosponsor id="412309" joined="2015-03-04"/>
+    <cosponsor id="412310" joined="2015-03-13"/>
+    <cosponsor id="412311" joined="2015-03-04"/>
+    <cosponsor id="412641" joined="2015-03-04"/>
+    <cosponsor id="412399" joined="2015-03-04"/>
+    <cosponsor id="400367" joined="2015-04-16"/>
+    <cosponsor id="400373" joined="2015-03-03"/>
+    <cosponsor id="412538" joined="2015-03-13"/>
+    <cosponsor id="412574" joined="2015-03-04"/>
+    <cosponsor id="400433" joined="2015-03-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-03" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-03-06">
+      <text>Referred to the Subcommittee on Communications and Technology.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF16" subcommittee="Communications and Technology" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="hj" number="42"/>
+  </relatedbills>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Competition and antitrust"/>
+    <term name="Consumer affairs"/>
+    <term name="Federal Communications Commission (FCC)"/>
+    <term name="Internet and video services"/>
+    <term name="Telephone and wireless communication"/>
+  </subjects>
+  <amendments/>
+  <summary>3/3/2015--Introduced.
+Internet Freedom Act
+
+ Nullifies the rule adopted by the Federal Communications Commission (FCC) on February 26, 2015, relating to the reclassification of broadband Internet access service as a telecommunications service.
+
+Prohibits the FCC from reissuing such rule in substantially the same form, or from issuing a new rule that is substantially the same, unless the rule is specifically authorized by a law enacted after enactment of this Act.
+
+Exempts any rule that the FCC determines is necessary for national security, public safety, or assistance to law enforcement.</summary>
+</bill>

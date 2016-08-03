@@ -1,0 +1,27 @@
+<bill session="114" type="s" number="680" updated="2015-03-28T06:39:07-04:00">
+  <state datetime="2015-03-09">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-09"/>
+  </status>
+  <introduced datetime="2015-03-09"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of Maha Dakar.</title>
+  </titles>
+  <sponsor id="400050"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-03-09" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+  </subjects>
+  <amendments/>
+  <summary>3/9/2015--Introduced.
+Provides for the relief of Maha Dakar.</summary>
+</bill>

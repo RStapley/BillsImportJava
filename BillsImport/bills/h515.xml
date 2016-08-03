@@ -1,0 +1,117 @@
+<bill session="114" type="h" number="515" updated="2015-02-28T06:20:43-05:00">
+  <state datetime="2015-01-26T16:08:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2015-01-26T16:08:00-05:00"/>
+  </status>
+  <introduced datetime="2015-01-22"/>
+  <titles>
+    <title type="short" as="introduced">International Megan's Law to Prevent Demand for Child Sex Trafficking</title>
+    <title type="official" as="introduced">To protect children from exploitation, especially sex trafficking in tourism, by providing advance notice of intended travel by registered child-sex offenders outside the United States to the government of the country of destination, requesting foreign governments to notify the United States when a known child-sex offender is seeking to enter the United States, and for other purposes.</title>
+  </titles>
+  <sponsor id="400380"/>
+  <cosponsors>
+    <cosponsor id="412658" joined="2015-01-26"/>
+    <cosponsor id="412555" joined="2015-01-26"/>
+    <cosponsor id="400646" joined="2015-01-26"/>
+    <cosponsor id="412453" joined="2015-01-26"/>
+    <cosponsor id="412444" joined="2015-01-22"/>
+    <cosponsor id="412486" joined="2015-01-26"/>
+    <cosponsor id="400251" joined="2015-01-22"/>
+    <cosponsor id="400259" joined="2015-01-22"/>
+    <cosponsor id="412551" joined="2015-01-22"/>
+    <cosponsor id="400652" joined="2015-01-22"/>
+    <cosponsor id="400348" joined="2015-01-26"/>
+    <cosponsor id="412186" joined="2015-01-22"/>
+    <cosponsor id="412548" joined="2015-01-22"/>
+    <cosponsor id="412644" joined="2015-01-26"/>
+    <cosponsor id="412525" joined="2015-01-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-22" state="REFERRED">
+      <text>Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-01-22">
+      <text>Referred to House Foreign Affairs</text>
+    </action>
+    <action datetime="2015-01-22">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2015-01-23">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+    <action datetime="2015-01-25">
+      <text>Subcommittee on Crime, Terrorism, Homeland Security, and Investigations Discharged.</text>
+    </action>
+    <action datetime="2015-01-26T15:51:00-05:00">
+      <text>Mr. Royce moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2015-01-26T15:51:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H542-546" label="consideration"/>
+    </action>
+    <action datetime="2015-01-26T15:51:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 515.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2015-01-26T16:08:00-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H542-544" label="text"/>
+    </vote>
+    <action datetime="2015-01-26T16:08:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2015-01-27T16:25:00-05:00">
+      <text>ENGROSSMENT CORRECTION - Unanimous consent was granted for the Clerk to make a correction in the engrossment to H.R. 515 in a form placed at the desk.</text>
+    </action>
+    <action datetime="2015-01-28">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="2015-02-04">
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral, Discharged" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Administrative remedies"/>
+    <term name="Crime prevention"/>
+    <term name="Crime victims"/>
+    <term name="Crimes against children"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Criminal justice information and records"/>
+    <term name="Department of Homeland Security"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Foreign aid and international relief"/>
+    <term name="Government information and archives"/>
+    <term name="Human trafficking"/>
+    <term name="International law and treaties"/>
+    <term name="International organizations and cooperation"/>
+    <term name="Internet and video services"/>
+    <term name="Pornography"/>
+    <term name="Sex offenses"/>
+    <term name="Travel and tourism"/>
+    <term name="Visas and passports"/>
+  </subjects>
+  <amendments/>
+  <summary>1/26/2015--Passed House without amendment.
+(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)
+
+International Megan's Law to Prevent Demand for Child Sex Trafficking
+
+(Sec. 4) Directs the Secretary of Homeland Security to establish within the Child Exploitation Investigations Unit of U.S. Immigration and Customs Enforcement the Angel Watch Center, which shall:
+
+ receive information on travel by child-sex offenders; establish a system to maintain and archive all relevant information, including decisions not to transmit notification abroad and responses of destination countries to notifications; establish an annual review process to ensure that the Center is consistent in procedures regarding providing notification to destination countries; and establish a mechanism to receive complaints from child-sex offenders affected by notifications of destination countries. Authorizes the Center to notify a destination country (including its visa-issuing agents in the United States) of impending or current international travel of a child-sex offender to that country. Prescribes requirements for reasonable efforts to provide constructive notice through electronic or telephonic communication to the child-sex offender before his or her arrival in the destination country, except in specified circumstances
+
+Requires the Center to engage in ongoing consultations with:
+
+ nongovernmental organizations that have experience in identifying and preventing child sex tourism and rescuing and rehabilitating minor victims of international sexual exploitation and trafficking, the governments of countries interested in cooperating in the creation of an international sex offender travel notification system or that are primary destination or source countries for international sex tourism, and Internet service and software providers regarding technology to facilitate the implementation of an international sex offender travel notification system in the United States and in other countries. (Sec. 5) Expresses the sense of Congress that the President should: (1) negotiate bilateral agreements with foreign governments to further the purposes of this Act; and (2) formally request foreign governments to notify the United States when a U.S. citizen has been arrested, convicted, or sentenced or has completed a prison sentence for a child-sex offense in the foreign country.
+
+(Sec. 6) Amends the Trafficking Victims Protection Act of 2000 to include, as indicia of serious and sustained efforts to eliminate severe forms of trafficking in persons, a country's cooperation with other governments in the investigation and prosecution of such trafficking, including trafficking related to sex tourism.
+
+(Sec. 7) Encourages the President to use authorities under the Foreign Assistance Act of 1961 to assist foreign countries in identifying sex offenders and providing and receiving notification of child sex offender international travel.</summary>
+</bill>

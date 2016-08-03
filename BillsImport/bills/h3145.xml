@@ -1,0 +1,26 @@
+<bill session="114" type="h" number="3145" updated="2015-07-23T15:47:04-04:00">
+  <state datetime="2015-07-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-21"/>
+  </status>
+  <introduced datetime="2015-07-21"/>
+  <titles>
+    <title type="short" as="introduced">Protect Local Independence in Housing Act of 2015</title>
+    <title type="official" as="introduced">To amend the Fair Housing Act to clarify congressional intent that the prohibitions of that Act do not extend to conduct that results in a disparate impact on a protected class unless the person engaging in that conduct intends that impact.</title>
+  </titles>
+  <sponsor id="412569"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-21" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Housing and community development"/>
+  </subjects>
+  <amendments/>
+</bill>

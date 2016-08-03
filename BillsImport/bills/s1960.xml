@@ -1,0 +1,31 @@
+<bill session="114" type="s" number="1960" updated="2015-08-15T07:08:13-04:00">
+  <state datetime="2015-08-05">REFERRED</state>
+  <status>
+    <introduced datetime="2015-08-05"/>
+  </status>
+  <introduced datetime="2015-08-05"/>
+  <titles>
+    <title type="official" as="introduced">A bill to establish a statute of limitations for certain actions of the Securities and Exchange Commission, and for other purposes.</title>
+  </titles>
+  <sponsor id="300081"/>
+  <cosponsors>
+    <cosponsor id="412323" joined="2015-08-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-08-05">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S6386"/>
+    </action>
+    <action datetime="2015-08-05" state="REFERRED">
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+  </subjects>
+  <amendments/>
+</bill>

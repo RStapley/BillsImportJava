@@ -1,0 +1,41 @@
+<bill session="114" type="s" number="1265" updated="2015-07-18T06:58:45-04:00">
+  <state datetime="2015-05-11">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-11"/>
+  </status>
+  <introduced datetime="2015-05-11"/>
+  <titles>
+    <title type="short" as="introduced">Long Range Bomber Sustainment Act of 2015</title>
+    <title type="official" as="introduced">A bill to require the Secretary of Defense to make certain certifications to Congress before retiring B-1, B-2, or B-52 bomber aircraft.</title>
+  </titles>
+  <sponsor id="412669"/>
+  <cosponsors>
+    <cosponsor id="412269" joined="2015-05-11"/>
+    <cosponsor id="300027" joined="2015-05-11"/>
+    <cosponsor id="412573" joined="2015-05-11"/>
+    <cosponsor id="412554" joined="2015-05-11"/>
+    <cosponsor id="412494" joined="2015-05-11"/>
+    <cosponsor id="400418" joined="2015-05-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-11" state="REFERRED">
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Military operations and strategy"/>
+    <term name="Military procurement, research, weapons development"/>
+  </subjects>
+  <amendments/>
+  <summary>5/11/2015--Introduced.
+Long Range Bomber Sustainment Act of 2015 
+
+This bill prohibits a B-1, B-2, or B-52 bomber aircraft from being retired during a fiscal year unless the Secretary of Defense certifies that:
+
+ the retirement of the aircraft will not detrimentally affect the U.S. Armed Forces' capacity to carry out the full range of long range bomber aircraft missions anticipated in operational plans of the Armed Forces in effect as of the date of the submission of that certification; the Secretary has completed assessments of planning scenarios that span the range of plausible future challenges for such aircraft, and the severity, likelihood, and imminence of risk associated with each such planning scenario; the Secretary has concluded, based on such assessments, that retirements of B-1, B-2, and B-52 bomber aircraft in the near term will not detrimentally affect operational capability; and the Secretary has developed a plan to replace any operational capability lost as a result of the retirement of such bomber aircraft.</summary>
+</bill>

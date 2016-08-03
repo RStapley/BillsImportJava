@@ -1,0 +1,48 @@
+<bill session="114" type="hj" number="45" updated="2015-07-30T04:52:08-04:00">
+  <state datetime="2015-04-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-16"/>
+  </status>
+  <introduced datetime="2015-04-16"/>
+  <titles>
+    <title type="official" as="introduced">Proposing an amendment to the Constitution of the United States to protect the rights of crime victims.</title>
+  </titles>
+  <sponsor id="400141"/>
+  <cosponsors>
+    <cosponsor id="412397" joined="2015-04-16"/>
+    <cosponsor id="400220" joined="2015-07-29"/>
+    <cosponsor id="412611" joined="2015-06-16"/>
+    <cosponsor id="400348" joined="2015-04-28"/>
+    <cosponsor id="400606" joined="2015-04-16"/>
+    <cosponsor id="412399" joined="2015-04-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-16" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-05-15">
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU10" subcommittee="Constitution and Civil Justice" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Constitution and constitutional amendments"/>
+    <term name="Crime victims"/>
+    <term name="Criminal procedure and sentencing"/>
+    <term name="Judicial procedure and administration"/>
+  </subjects>
+  <amendments/>
+  <summary>4/16/2015--Introduced.
+Constitutional Amendment
+
+ Prohibits denial or abridgement of a crime victim's rights to: (1) reasonable notice of, and inclusion in, public proceedings relating to the offense; (2) be heard at any release, plea, sentencing, or other proceeding involving any right established under this amendment; (3) proceedings free from unreasonable delay; (4) reasonable notice of the release or escape of the accused; (5) due consideration of the crime victim's safety, dignity, and privacy; and (6) restitution.
+
+Grants the crime victim, or the victim's lawful representative, standing to assert and enforce such rights.
+
+Subjects review of the denial of any right established by this amendment, which may include interlocutory relief, to the standards of ordinary appellate review.</summary>
+</bill>

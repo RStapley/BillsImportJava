@@ -1,0 +1,81 @@
+<bill session="114" type="h" number="605" updated="2015-07-16T04:47:17-04:00">
+  <state datetime="2015-01-28">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-28"/>
+  </status>
+  <introduced datetime="2015-01-28"/>
+  <titles>
+    <title type="short" as="introduced">Medicare Home Infusion Site of Care Act of 2015</title>
+    <title type="official" as="introduced">To amend title XVIII of the Social Security Act to provide for the coverage of home as a site of care for infusion therapy under the Medicare program, and for other purposes.</title>
+  </titles>
+  <sponsor id="400122"/>
+  <cosponsors>
+    <cosponsor id="412571" joined="2015-07-15"/>
+    <cosponsor id="412505" joined="2015-05-22"/>
+    <cosponsor id="400646" joined="2015-05-18"/>
+    <cosponsor id="412485" joined="2015-02-26"/>
+    <cosponsor id="412280" joined="2015-01-28"/>
+    <cosponsor id="400170" joined="2015-02-12"/>
+    <cosponsor id="412284" joined="2015-07-07"/>
+    <cosponsor id="412460" joined="2015-05-26"/>
+    <cosponsor id="412465" joined="2015-03-04"/>
+    <cosponsor id="412546" joined="2015-06-17"/>
+    <cosponsor id="400233" joined="2015-01-28"/>
+    <cosponsor id="412209" joined="2015-05-13"/>
+    <cosponsor id="400663" joined="2015-04-28"/>
+    <cosponsor id="400259" joined="2015-06-23"/>
+    <cosponsor id="400263" joined="2015-04-22"/>
+    <cosponsor id="412466" joined="2015-04-16"/>
+    <cosponsor id="412568" joined="2015-03-19"/>
+    <cosponsor id="412409" joined="2015-03-17"/>
+    <cosponsor id="400316" joined="2015-01-28"/>
+    <cosponsor id="412307" joined="2015-01-28"/>
+    <cosponsor id="400326" joined="2015-04-15"/>
+    <cosponsor id="400360" joined="2015-04-15"/>
+    <cosponsor id="412596" joined="2015-06-03"/>
+    <cosponsor id="400403" joined="2015-06-03"/>
+    <cosponsor id="400406" joined="2015-01-28"/>
+    <cosponsor id="412214" joined="2015-05-20"/>
+    <cosponsor id="412430" joined="2015-02-12"/>
+    <cosponsor id="412628" joined="2015-03-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-28" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-01-28">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-01-28">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-01-30">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="275"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Congressional oversight"/>
+    <term name="Drug therapy"/>
+    <term name="Government studies and investigations"/>
+    <term name="Home and outpatient care"/>
+    <term name="Medicare"/>
+    <term name="Nursing"/>
+    <term name="Prescription drugs"/>
+  </subjects>
+  <amendments/>
+  <summary>1/28/2015--Introduced.
+Medicare Home Infusion Site of Care Act of 2015 
+
+ Amends title XVIII (Medicare) of the Social Security Act to authorize Medicare coverage of home infusion therapy and home infusion drugs.
+
+Directs the Secretary of Health and Human Services to implement the Medicare home infusion therapy benefit in a manner that ensures that: (1) Medicare beneficiaries have timely and appropriate access to infusion therapy in their homes, and (2) there is rapid and seamless coordination between drug coverage under Medicare part D (Voluntary Prescription Drug Benefit Program) and home infusion therapy services coverage under Medicare part B (Supplemental Security Income) (SSI) to avoid the filing of duplicative or otherwise improper claims.</summary>
+</bill>

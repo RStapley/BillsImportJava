@@ -1,0 +1,45 @@
+<bill session="114" type="s" number="1711" updated="2015-08-06T04:48:47-04:00">
+  <state datetime="2015-07-07">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-07"/>
+  </status>
+  <introduced datetime="2015-07-07"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide for a temporary safe harbor from the enforcement of integrated disclosure requirements for mortgage loan transactions under the Real Estate Settlement Procedures Act of 1974 and the Truth in Lending Act, and for other purposes.</title>
+  </titles>
+  <sponsor id="412471"/>
+  <cosponsors>
+    <cosponsor id="412493" joined="2015-07-07"/>
+    <cosponsor id="300030" joined="2015-07-07"/>
+    <cosponsor id="412549" joined="2015-07-07"/>
+    <cosponsor id="412205" joined="2015-07-07"/>
+    <cosponsor id="412406" joined="2015-08-05"/>
+    <cosponsor id="412218" joined="2015-07-07"/>
+    <cosponsor id="400194" joined="2015-07-07"/>
+    <cosponsor id="412545" joined="2015-07-07"/>
+    <cosponsor id="300071" joined="2015-08-05"/>
+    <cosponsor id="300083" joined="2015-07-07"/>
+    <cosponsor id="412669" joined="2015-07-07"/>
+    <cosponsor id="412323" joined="2015-07-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-07" state="REFERRED">
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="2213"/>
+    <bill relation="unknown" session="114" type="h" number="3192"/>
+  </relatedbills>
+  <subjects>
+    <term name="Housing and community development"/>
+  </subjects>
+  <amendments/>
+  <summary>7/7/2015--Introduced.
+This bill prohibits until January 1, 2016, enforcement against any person of integrated disclosure requirements for mortgage loan transactions under the Real Estate Settlement Procedures Act of 1974, the Truth in Lending Act, and regulations issued under such Acts.
+
+No suit may be filed against any person for a violation of such requirements occurring before that date, as long as the person has made a good faith effort to comply with them.</summary>
+</bill>

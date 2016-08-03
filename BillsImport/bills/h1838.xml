@@ -1,0 +1,38 @@
+<bill session="114" type="h" number="1838" updated="2015-05-30T06:33:19-04:00">
+  <state datetime="2015-04-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-16"/>
+  </status>
+  <introduced datetime="2015-04-16"/>
+  <titles>
+    <title type="short" as="introduced">Clear Creek National Recreation Area and Conservation Act</title>
+    <title type="official" as="introduced">To establish the Clear Creek National Recreation Area in San Benito and Fresno Counties, California, to designate the Joaquin Rocks Wilderness in such counties, to designate additional components of the National Wild and Scenic Rivers System, and for other purposes.</title>
+  </titles>
+  <sponsor id="400129"/>
+  <cosponsors>
+    <cosponsor id="412403" joined="2015-04-16"/>
+    <cosponsor id="412515" joined="2015-04-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-16" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2015-05-07">
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="Federal Lands" name="House Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="California"/>
+    <term name="Lakes and rivers"/>
+    <term name="Land transfers"/>
+    <term name="Parks, recreation areas, trails"/>
+    <term name="Wilderness and natural areas, wildlife refuges, wild rivers, habitats"/>
+  </subjects>
+  <amendments/>
+</bill>

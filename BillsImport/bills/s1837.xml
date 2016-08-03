@@ -1,0 +1,42 @@
+<bill session="114" type="s" number="1837" updated="2015-08-15T07:07:11-04:00">
+  <state datetime="2015-07-22">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-22"/>
+  </status>
+  <introduced datetime="2015-07-22"/>
+  <titles>
+    <title type="short" as="introduced">Drought Recovery and Resilience Act of 2015</title>
+    <title type="short" as="introduced" partial="1">Five Demonstrations of Advancing Yields by Fixing Operations of Reservoirs to Encompass Climatic and Atmospheric Science Trends Act</title>
+    <title type="short" as="introduced" partial="1">Innovative Stormwater Infrastructure Act of 2015</title>
+    <title type="short" as="introduced" partial="1">National Water Recycling and Reclamation Act of 2015</title>
+    <title type="short" as="introduced" partial="1">Reclamation Infrastructure Finance and Innovation Act</title>
+    <title type="short" as="introduced" partial="1">Reclamation Title Transfer Act of 2015</title>
+    <title type="short" as="introduced" partial="1">Restoring America's Watersheds Act of 2015</title>
+    <title type="short" as="introduced" partial="1">RIFIA</title>
+    <title type="short" as="introduced" partial="1">Water Innovation and Prize Competition Act of 2015</title>
+    <title type="official" as="introduced">A bill to provide drought assistance and improved water supply reliability to the State of California, other western States, and the Nation.</title>
+  </titles>
+  <sponsor id="300011"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-22" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1775"/>
+    <bill relation="unknown" session="114" type="h" number="2749"/>
+    <bill relation="unknown" session="114" type="h" number="2983"/>
+    <bill relation="unknown" session="114" type="s" number="896"/>
+    <bill relation="unknown" session="114" type="s" number="1657"/>
+    <bill relation="unknown" session="114" type="s" number="1780"/>
+    <bill relation="unknown" session="114" type="s" number="1837"/>
+  </relatedbills>
+  <subjects>
+    <term name="Water resources development"/>
+  </subjects>
+  <amendments/>
+</bill>

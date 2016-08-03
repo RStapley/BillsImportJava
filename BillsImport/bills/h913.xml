@@ -1,0 +1,105 @@
+<bill session="114" type="h" number="913" updated="2015-07-14T04:46:57-04:00">
+  <state datetime="2015-02-12">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-12"/>
+  </status>
+  <introduced datetime="2015-02-12"/>
+  <titles>
+    <title type="short" as="introduced">Genetically Engineered Food Right-to-Know Act</title>
+    <title type="official" as="introduced">To amend the Federal Food, Drug, and Cosmetic Act to require that genetically engineered food and foods that contain genetically engineered ingredients be labeled accordingly.</title>
+  </titles>
+  <sponsor id="400100"/>
+  <cosponsors>
+    <cosponsor id="400033" joined="2015-02-12"/>
+    <cosponsor id="400041" joined="2015-02-24"/>
+    <cosponsor id="412571" joined="2015-03-02"/>
+    <cosponsor id="412379" joined="2015-05-19"/>
+    <cosponsor id="412470" joined="2015-02-12"/>
+    <cosponsor id="412221" joined="2015-07-13"/>
+    <cosponsor id="412272" joined="2015-02-12"/>
+    <cosponsor id="400080" joined="2015-02-12"/>
+    <cosponsor id="400103" joined="2015-03-19"/>
+    <cosponsor id="412613" joined="2015-06-02"/>
+    <cosponsor id="412263" joined="2015-07-09"/>
+    <cosponsor id="400130" joined="2015-04-29"/>
+    <cosponsor id="412532" joined="2015-02-12"/>
+    <cosponsor id="412276" joined="2015-02-12"/>
+    <cosponsor id="400162" joined="2015-06-18"/>
+    <cosponsor id="400185" joined="2015-02-12"/>
+    <cosponsor id="412511" joined="2015-02-24"/>
+    <cosponsor id="400211" joined="2015-02-12"/>
+    <cosponsor id="412435" joined="2015-05-19"/>
+    <cosponsor id="412557" joined="2015-02-12"/>
+    <cosponsor id="400230" joined="2015-02-12"/>
+    <cosponsor id="400237" joined="2015-02-24"/>
+    <cosponsor id="400245" joined="2015-03-06"/>
+    <cosponsor id="412521" joined="2015-02-12"/>
+    <cosponsor id="400246" joined="2015-02-12"/>
+    <cosponsor id="400251" joined="2015-02-12"/>
+    <cosponsor id="400262" joined="2015-02-12"/>
+    <cosponsor id="400263" joined="2015-04-13"/>
+    <cosponsor id="400289" joined="2015-02-12"/>
+    <cosponsor id="400290" joined="2015-02-12"/>
+    <cosponsor id="400295" joined="2015-02-12"/>
+    <cosponsor id="412575" joined="2015-02-24"/>
+    <cosponsor id="412307" joined="2015-02-12"/>
+    <cosponsor id="412308" joined="2015-02-12"/>
+    <cosponsor id="400333" joined="2015-03-02"/>
+    <cosponsor id="400347" joined="2015-04-28"/>
+    <cosponsor id="400350" joined="2015-02-24"/>
+    <cosponsor id="400361" joined="2015-02-12"/>
+    <cosponsor id="400371" joined="2015-02-12"/>
+    <cosponsor id="400378" joined="2015-03-02"/>
+    <cosponsor id="400379" joined="2015-06-04"/>
+    <cosponsor id="412259" joined="2015-02-12"/>
+    <cosponsor id="412626" joined="2015-05-21"/>
+    <cosponsor id="412520" joined="2015-02-24"/>
+    <cosponsor id="400403" joined="2015-07-13"/>
+    <cosponsor id="412318" joined="2015-02-12"/>
+    <cosponsor id="400417" joined="2015-03-06"/>
+    <cosponsor id="400422" joined="2015-06-02"/>
+    <cosponsor id="412239" joined="2015-02-12"/>
+    <cosponsor id="400440" joined="2015-02-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-12" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-02-13">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="511"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Agricultural practices and innovations"/>
+    <term name="Civil actions and liability"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Food supply, safety, and labeling"/>
+    <term name="Fraud offenses and financial crimes"/>
+    <term name="Genetics"/>
+    <term name="Immunology and vaccination"/>
+  </subjects>
+  <amendments/>
+  <summary>2/12/2015--Introduced.
+Genetically Engineered Food Right-to-Know Act
+
+This bill amends the Federal Food, Drug, and Cosmetic Act to prohibit the sale of food that has been genetically engineered or contains genetically engineered ingredients, unless that information is clearly disclosed.
+
+This prohibition does not apply to: (1) food served in restaurants, (2) medical food, (3) packaged food that is less than 0.9% genetically engineered material, and (4) food that qualifies as genetically engineered solely because it is produced using a genetically engineered vaccine or because it includes the use of a genetically engineered processing aid (including yeast) or enzyme.
+
+Labeling or advertising foods containing genetically engineered material as &#8220;natural,&#8221; or using similar words, is prohibited.
+
+A food recipient is not subject to penalties for misbranding of genetically engineered food or ingredients if the recipient has a guaranty that is signed by the person from whom they received the food (including seeds) and the guaranty states that the food is not genetically engineered or does not contain a genetically engineered ingredient.
+
+Food is deemed to have been produced without the knowing or intentional use of genetic engineering if: (1) the food is certified as organic; or (2) an independent organization determines the food has not been knowingly or intentionally genetically engineered or commingled with genetically engineered food, with that determination being based on testing that is consistent with international standards and not reliant on processed foods with no detectable DNA.
+
+An agricultural producer is not subject to penalties for misbranding of genetically engineered food or ingredients if a violation occurs because food unintentionally becomes contaminated with genetically engineered material and the contamination is not due to the producer&#8217;s negligence.</summary>
+</bill>

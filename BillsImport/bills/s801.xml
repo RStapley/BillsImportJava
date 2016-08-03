@@ -1,0 +1,51 @@
+<bill session="114" type="s" number="801" updated="2015-04-30T04:48:12-04:00">
+  <state datetime="2015-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-19"/>
+  </status>
+  <introduced datetime="2015-03-19"/>
+  <titles>
+    <title type="short" as="introduced">Representation Fairness Restoration Act</title>
+    <title type="official" as="introduced">A bill to amend the National Labor Relations Act to provide for appropriate designation of collective bargaining units.</title>
+  </titles>
+  <sponsor id="400194"/>
+  <cosponsors>
+    <cosponsor id="300002" joined="2015-03-19"/>
+    <cosponsor id="412493" joined="2015-03-19"/>
+    <cosponsor id="400040" joined="2015-03-19"/>
+    <cosponsor id="402675" joined="2015-03-19"/>
+    <cosponsor id="412248" joined="2015-03-19"/>
+    <cosponsor id="300027" joined="2015-03-19"/>
+    <cosponsor id="300047" joined="2015-04-29"/>
+    <cosponsor id="300052" joined="2015-03-19"/>
+    <cosponsor id="300072" joined="2015-03-19"/>
+    <cosponsor id="412666" joined="2015-03-19"/>
+    <cosponsor id="412322" joined="2015-04-14"/>
+    <cosponsor id="300083" joined="2015-03-19"/>
+    <cosponsor id="412471" joined="2015-03-19"/>
+    <cosponsor id="300088" joined="2015-03-19"/>
+    <cosponsor id="400546" joined="2015-03-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-19" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Labor-management relations"/>
+  </subjects>
+  <amendments/>
+  <summary>3/19/2015--Introduced.
+Representation Fairness Restoration Act
+
+ Amends the National Labor Relations Act to revise requirements for determination by the National Labor Relation Board (NLRB) of an appropriate bargaining unit before an election of collective bargaining representation. (In effect reverses the NLRB's August 26, 2011, decision in Specialty Healthcare and Rehabilitation of Mobile and its June 22, 2011, rulemaking regarding proposed changes to procedures involving the election of collective bargaining representation.)
+
+Replaces the current restriction in the meaning of collective bargaining unit to employer unit, craft unit, plant unit, or subdivision. Requires the NLRB, instead, to determine a unit as appropriate for collective bargaining if it consists of employees that share a sufficient community of interest. Specifies factors the NLRB must consider when making such determinations.
+
+Prohibits exclusion of employees from the unit unless the group's interests are sufficiently distinct from those of other employees to warrant the establishment of a separate unit.</summary>
+</bill>

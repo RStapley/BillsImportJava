@@ -1,0 +1,93 @@
+<bill session="114" type="h" number="223" updated="2015-07-29T04:47:26-04:00">
+  <state datetime="2015-01-08">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-08"/>
+  </status>
+  <introduced datetime="2015-01-08"/>
+  <titles>
+    <title type="short" as="introduced">Great Lakes Restoration Initiative Act of 2015</title>
+    <title type="official" as="introduced">To authorize the Great Lakes Restoration Initiative, and for other purposes.</title>
+  </titles>
+  <sponsor id="412566"/>
+  <cosponsors>
+    <cosponsor id="412500" joined="2015-06-03"/>
+    <cosponsor id="412565" joined="2015-06-02"/>
+    <cosponsor id="412436" joined="2015-01-08"/>
+    <cosponsor id="412635" joined="2015-04-14"/>
+    <cosponsor id="412427" joined="2015-01-16"/>
+    <cosponsor id="412571" joined="2015-01-13"/>
+    <cosponsor id="412563" joined="2015-01-08"/>
+    <cosponsor id="412420" joined="2015-01-22"/>
+    <cosponsor id="412533" joined="2015-02-10"/>
+    <cosponsor id="412488" joined="2015-01-16"/>
+    <cosponsor id="412215" joined="2015-07-28"/>
+    <cosponsor id="412327" joined="2015-01-22"/>
+    <cosponsor id="412453" joined="2015-04-13"/>
+    <cosponsor id="412454" joined="2015-04-13"/>
+    <cosponsor id="400641" joined="2015-01-08"/>
+    <cosponsor id="412437" joined="2015-01-21"/>
+    <cosponsor id="400195" joined="2015-07-09"/>
+    <cosponsor id="412460" joined="2015-06-09"/>
+    <cosponsor id="400211" joined="2015-01-08"/>
+    <cosponsor id="412649" joined="2015-02-17"/>
+    <cosponsor id="412465" joined="2015-01-08"/>
+    <cosponsor id="412546" joined="2015-02-04"/>
+    <cosponsor id="400238" joined="2015-01-08"/>
+    <cosponsor id="400630" joined="2015-01-08"/>
+    <cosponsor id="400259" joined="2015-01-08"/>
+    <cosponsor id="400276" joined="2015-01-08"/>
+    <cosponsor id="400661" joined="2015-01-08"/>
+    <cosponsor id="408211" joined="2015-01-08"/>
+    <cosponsor id="412331" joined="2015-03-03"/>
+    <cosponsor id="412393" joined="2015-01-08"/>
+    <cosponsor id="412462" joined="2015-01-08"/>
+    <cosponsor id="412489" joined="2015-01-12"/>
+    <cosponsor id="400352" joined="2015-01-08"/>
+    <cosponsor id="400378" joined="2015-01-08"/>
+    <cosponsor id="412648" joined="2015-03-18"/>
+    <cosponsor id="412317" joined="2015-01-08"/>
+    <cosponsor id="412319" joined="2015-07-10"/>
+    <cosponsor id="412636" joined="2015-06-24"/>
+    <cosponsor id="400417" joined="2015-01-22"/>
+    <cosponsor id="412538" joined="2015-01-08"/>
+    <cosponsor id="412214" joined="2015-03-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-08" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2015-01-09">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW02" subcommittee="Water Resources and Environment" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="504"/>
+    <bill relation="identical" session="114" type="s" number="1024"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Environmental assessment, monitoring, research"/>
+    <term name="Great Lakes"/>
+    <term name="Hazardous wastes and toxic substances"/>
+    <term name="Lakes and rivers"/>
+    <term name="Pest management"/>
+    <term name="Water quality"/>
+    <term name="Wetlands"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+  <summary>1/8/2015--Introduced.
+Great Lakes Restoration Initiative Act of 2015
+
+This bill amends the Federal Water Pollution Control Act (commonly known as the Clean Water Act) to authorize the Environmental Protection Agency's Great Lakes Restoration Initiative for FY2016-FY2020.
+
+The Initiative must prioritize and carry out programs and projects for Great Lakes protection and restoration, including: (1) the remediation of toxic substances and areas of concern; (2) the prevention and control of invasive species and their impacts; (3) the protection and restoration of near-shore health and the prevention and mitigation of nonpoint source pollution (water pollution that comes from many diffuse sources, such as pollution on the ground picked up by rain or snow); and (4) habitat and wildlife protection and restoration.
+
+Funding made available to implement the Initiative may not be used for any water infrastructure activity (other than a green infrastructure project that improves habitat and other ecosystem functions in the Great Lakes) for which funding is made available under the clean water or drinking water state revolving fund program.
+
+Federal agencies must maintain the base level of funding for their Great Lakes activities without regard to funding under the Initiative and identify new activities to support the environmental goals of the Initiative.</summary>
+</bill>

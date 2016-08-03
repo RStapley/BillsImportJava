@@ -1,0 +1,95 @@
+<bill session="114" type="h" number="1714" updated="2015-08-15T06:33:36-04:00">
+  <state datetime="2015-03-26">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-26"/>
+  </status>
+  <introduced datetime="2015-03-26"/>
+  <titles>
+    <title type="short" as="introduced">Sugar Reform Act of 2015</title>
+    <title type="official" as="introduced">To reform the Federal sugar program, and for other purposes.</title>
+  </titles>
+  <sponsor id="400320"/>
+  <cosponsors>
+    <cosponsor id="412500" joined="2015-04-15"/>
+    <cosponsor id="412469" joined="2015-03-26"/>
+    <cosponsor id="412565" joined="2015-07-07"/>
+    <cosponsor id="412478" joined="2015-03-26"/>
+    <cosponsor id="400071" joined="2015-03-26"/>
+    <cosponsor id="412651" joined="2015-04-13"/>
+    <cosponsor id="400093" joined="2015-03-26"/>
+    <cosponsor id="400648" joined="2015-03-26"/>
+    <cosponsor id="412477" joined="2015-03-26"/>
+    <cosponsor id="412420" joined="2015-03-26"/>
+    <cosponsor id="400646" joined="2015-03-26"/>
+    <cosponsor id="412476" joined="2015-03-26"/>
+    <cosponsor id="400643" joined="2015-03-26"/>
+    <cosponsor id="400142" joined="2015-04-15"/>
+    <cosponsor id="400145" joined="2015-04-15"/>
+    <cosponsor id="400154" joined="2015-03-26"/>
+    <cosponsor id="412661" joined="2015-04-21"/>
+    <cosponsor id="412454" joined="2015-03-26"/>
+    <cosponsor id="400175" joined="2015-03-26"/>
+    <cosponsor id="412460" joined="2015-04-13"/>
+    <cosponsor id="412566" joined="2015-05-14"/>
+    <cosponsor id="412465" joined="2015-03-26"/>
+    <cosponsor id="400218" joined="2015-07-10"/>
+    <cosponsor id="412557" joined="2015-03-26"/>
+    <cosponsor id="412290" joined="2015-07-09"/>
+    <cosponsor id="412256" joined="2015-03-26"/>
+    <cosponsor id="400244" joined="2015-04-14"/>
+    <cosponsor id="412468" joined="2015-04-13"/>
+    <cosponsor id="412503" joined="2015-03-26"/>
+    <cosponsor id="412552" joined="2015-03-26"/>
+    <cosponsor id="412466" joined="2015-04-13"/>
+    <cosponsor id="412474" joined="2015-04-13"/>
+    <cosponsor id="400295" joined="2015-04-13"/>
+    <cosponsor id="412569" joined="2015-04-13"/>
+    <cosponsor id="412489" joined="2015-04-30"/>
+    <cosponsor id="412310" joined="2015-03-26"/>
+    <cosponsor id="412570" joined="2015-04-16"/>
+    <cosponsor id="400350" joined="2015-03-26"/>
+    <cosponsor id="400365" joined="2015-03-26"/>
+    <cosponsor id="412259" joined="2015-03-26"/>
+    <cosponsor id="412581" joined="2015-03-26"/>
+    <cosponsor id="412514" joined="2015-04-13"/>
+    <cosponsor id="412317" joined="2015-04-13"/>
+    <cosponsor id="412402" joined="2015-03-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-26" state="REFERRED">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+    <action datetime="2015-04-20">
+      <text>Referred to the Subcommittee on General Farm Commodities and Risk Management.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee activity="Referral" code="HSAG16" subcommittee="General Farm Commodities and Risk Management" name="House Agriculture"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="475"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural marketing and promotion"/>
+    <term name="Agricultural prices, subsidies, credit"/>
+    <term name="Agricultural trade"/>
+    <term name="Alternative and renewable resources"/>
+    <term name="Motor fuels"/>
+    <term name="Tariffs"/>
+  </subjects>
+  <amendments/>
+  <summary>3/26/2015--Introduced.
+Sugar Reform Act of 2015 
+
+This bill revises the Department of Agriculture (USDA) sugar program to decrease price support levels and make other modifications.
+
+The bill amends the Federal Agriculture Improvement and Reform Act of 1996 to decrease the rate for price support loans to processors of domestically grown sugarcane and sugar beets. The loan rate is the price level at which processors can take out loans.
+
+The bill amends the Agricultural Adjustment Act of 1938 to require USDA to set the marketing allotments at a level appropriate to maintain adequate domestic supplies at reasonable prices. The allotments limit the amount of sugar that each processor may sell. The allotments may be suspended or modified based on: (1) the interests of consumers, workers, businesses, and agricultural producers; and (2) the relative competitiveness of domestically produced and imported foods containing sugar.
+
+In setting import quotas necessary to comply with trade agreements, USDA must:
+
+ set the quotas at no less than the minimum level necessary for compliance, adjust the quotas to provide adequate domestic supplies at reasonable prices, establish and adjust quotas so that the ratio of sugar stocks to total sugar use at the end of the year will be approximately 15.5% or the target necessary to prevent unreasonably high prices or forfeitures, and permit the temporary transfer of quotas between countries. The bill amends the Farm Security and Rural Investment Act of 2002 to repeal the Feedstock Flexibility Program for Bioenergy Producers, which requires USDA to purchase sugar from domestic processors and sell it to bioenergy producers for biofuel production.</summary>
+</bill>

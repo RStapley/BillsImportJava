@@ -1,0 +1,46 @@
+<bill session="114" type="h" number="1585" updated="2015-05-19T04:47:02-04:00">
+  <state datetime="2015-03-24">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-24"/>
+  </status>
+  <introduced datetime="2015-03-24"/>
+  <titles>
+    <title type="official" as="introduced">To eliminate automatic pay adjustments for Members of Congress, and for other purposes.</title>
+  </titles>
+  <sponsor id="412256"/>
+  <cosponsors>
+    <cosponsor id="412478" joined="2015-03-24"/>
+    <cosponsor id="400643" joined="2015-03-24"/>
+    <cosponsor id="400154" joined="2015-03-24"/>
+    <cosponsor id="412487" joined="2015-03-24"/>
+    <cosponsor id="400279" joined="2015-05-18"/>
+    <cosponsor id="412302" joined="2015-03-24"/>
+    <cosponsor id="412310" joined="2015-03-26"/>
+    <cosponsor id="412255" joined="2015-04-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-24" state="REFERRED">
+      <text>Referred to the Committee on House Administration, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-03-24">
+      <text>Referred to House House Administration</text>
+    </action>
+    <action datetime="2015-03-24">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral"/>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="513"/>
+    <bill relation="unknown" session="114" type="s" number="17"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+  </subjects>
+  <amendments/>
+  <summary>3/24/2015--Introduced.
+Amends the Legislative Reorganization Act of 1946 to eliminate automatic pay adjustments for Members of Congress.</summary>
+</bill>

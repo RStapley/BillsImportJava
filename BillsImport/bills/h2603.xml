@@ -1,0 +1,55 @@
+<bill session="114" type="h" number="2603" updated="2015-08-15T06:41:08-04:00">
+  <state datetime="2015-06-02">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-02"/>
+  </status>
+  <introduced datetime="2015-06-02"/>
+  <titles>
+    <title type="short" as="introduced">Saving Lives, Saving Costs Act</title>
+    <title type="official" as="introduced">To provide for the creation of a safe harbor for defendants in medical malpractice actions who demonstrate adherence to clinical practice guidelines.</title>
+  </titles>
+  <sponsor id="412541"/>
+  <cosponsors>
+    <cosponsor id="412625" joined="2015-06-10"/>
+    <cosponsor id="412275" joined="2015-06-10"/>
+    <cosponsor id="412434" joined="2015-06-10"/>
+    <cosponsor id="412662" joined="2015-06-10"/>
+    <cosponsor id="412443" joined="2015-06-10"/>
+    <cosponsor id="412608" joined="2015-06-10"/>
+    <cosponsor id="400626" joined="2015-06-10"/>
+    <cosponsor id="412310" joined="2015-06-02"/>
+    <cosponsor id="412426" joined="2015-06-10"/>
+    <cosponsor id="412564" joined="2015-06-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-02" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-06-02">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-06-02">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2015-06-05">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2015-06-16">
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU10" subcommittee="Constitution and Civil Justice" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="2653"/>
+    <bill relation="identical" session="114" type="s" number="1475"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,36 @@
+<bill session="114" type="s" number="1318" updated="2015-06-13T06:55:44-04:00">
+  <state datetime="2015-05-13">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-13"/>
+  </status>
+  <introduced datetime="2015-05-13"/>
+  <titles>
+    <title type="short" as="introduced">Nuclear Terrorism Conventions Implementation and Safety of Maritime Navigation Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend title 18, United States Code, to provide for protection of maritime navigation and prevention of nuclear terrorism, and for other purposes.</title>
+  </titles>
+  <sponsor id="300048"/>
+  <cosponsors>
+    <cosponsor id="412247" joined="2015-05-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-13" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-05-22">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S3302-3303"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1056"/>
+    <bill relation="unknown" session="114" type="h" number="2048"/>
+    <bill relation="unknown" session="114" type="s" number="1123"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,42 @@
+<bill session="114" type="s" number="468" updated="2015-05-07T04:48:08-04:00">
+  <state datetime="2015-02-11">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-11"/>
+  </status>
+  <introduced datetime="2015-02-11"/>
+  <titles>
+    <title type="short" as="introduced">Sage-Grouse and Mule Deer Habitat Conservation and Restoration Act of 2015</title>
+    <title type="official" as="introduced">A bill to provide a categorical exclusion under the National Environmental Policy Act of 1969 to allow the Director of the Bureau of Land Management and the Chief of the Forest Service to remove Pinyon-Juniper trees to conserve and restore the habitat of the greater sage-grouse and the mule deer.</title>
+  </titles>
+  <sponsor id="300052"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-02-11" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+    <action datetime="2015-05-06">
+      <text>Committee on Environment and Public Works. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="1793"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Birds"/>
+    <term name="Environmental assessment, monitoring, research"/>
+    <term name="Forests, forestry, trees"/>
+    <term name="Mammals"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+  <summary>2/11/2015--Introduced.
+Sage-Grouse and Mule Deer Habitat Conservation and Restoration Act of 2015
+
+This bill provides a categorical exclusion under the National Environmental Policy Act of 1969 (NEPA) for a vegetation management project by the Bureau of Land Management or the Forest Service involving removal or treatment of any Pinyon or Juniper tree to conserve or restore the habitat of the greater sage-grouse or mule deer.
+
+Under NEPA a categorical exclusion is a category of actions which do not individually or cumulatively have a significant effect on the human environment and which have been found to have no such effect in procedures adopted by a federal agency in implementing environmental regulations. Therefore, neither an Environmental Assessment nor an Environmental Impact Statement is required.</summary>
+</bill>

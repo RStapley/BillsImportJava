@@ -1,0 +1,44 @@
+<bill session="114" type="h" number="1525" updated="2015-05-22T04:48:52-04:00">
+  <state datetime="2015-05-20">REPORTED</state>
+  <status>
+    <unknown datetime="2015-05-20"/>
+  </status>
+  <introduced datetime="2015-03-23"/>
+  <titles>
+    <title type="short" as="introduced">Disclosure Modernization and Simplification Act of 2015</title>
+    <title type="official" as="introduced">To require the Securities and Exchange Commission to make certain improvements to form 10-K and regulation S-K, and for other purposes.</title>
+  </titles>
+  <sponsor id="400145"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-03-23" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2015-05-20">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-05-20" state="REPORTED">
+      <text>Ordered to be Reported by the Yeas and Nays: 60 - 0.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="37"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+  </subjects>
+  <amendments/>
+  <summary>3/23/2015--Introduced.
+Disclosure Modernization and Simplification Act of 2015
+
+ Directs the Securities and Exchange Commission (SEC) to issue regulations permitting issuers to submit a summary page on annual and transition report form 10-K if each item on that page cross-references electronically or otherwise the material contained in form 10-K to which the item relates.
+
+Requires the SEC to revise regulation S-K (Standard Instructions for Filing Forms under the Securities Act of 1933, the Securities Exchange Act of 1934 and the Energy Policy and Conservation Act of 1975) in order to:
+
+ reduce the burden on smaller issuers, including emerging growth companies, accelerated filers, and smaller reporting companies (while still providing all material information to investors); eliminate duplicative, overlapping, outdated, or unnecessary provisions; and for which the SEC determines no further study under this Act is necessary to determine the efficacy of such revisions. Directs the SEC to study ways to: (1) modernize and simplify requirements in regulation S-K, and (2) evaluate information delivery and presentation methods as well as explore methods to discourage repetition and disclosure of immaterial information.
+
+Requires the SEC to issue a proposed rule to implement any recommendations it makes to Congress based upon the study.</summary>
+</bill>

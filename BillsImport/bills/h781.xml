@@ -1,0 +1,60 @@
+<bill session="114" type="h" number="781" updated="2015-06-10T04:47:06-04:00">
+  <state datetime="2015-02-05">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-05"/>
+  </status>
+  <introduced datetime="2015-02-05"/>
+  <titles>
+    <title type="short" as="introduced">Complete America's Great Trails Act</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to allow a credit against income tax for qualified conservation contributions which include National Scenic Trails.</title>
+  </titles>
+  <sponsor id="412272"/>
+  <cosponsors>
+    <cosponsor id="412657" joined="2015-02-05"/>
+    <cosponsor id="400033" joined="2015-02-05"/>
+    <cosponsor id="412571" joined="2015-02-05"/>
+    <cosponsor id="412215" joined="2015-02-05"/>
+    <cosponsor id="400162" joined="2015-02-05"/>
+    <cosponsor id="412511" joined="2015-04-14"/>
+    <cosponsor id="400262" joined="2015-06-09"/>
+    <cosponsor id="408211" joined="2015-02-05"/>
+    <cosponsor id="412523" joined="2015-02-05"/>
+    <cosponsor id="412308" joined="2015-02-05"/>
+    <cosponsor id="400326" joined="2015-02-05"/>
+    <cosponsor id="400364" joined="2015-02-05"/>
+    <cosponsor id="412319" joined="2015-02-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-05" state="REFERRED">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-02-05">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-02-05">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2015-03-16">
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="Federal Lands" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1069"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Government studies and investigations"/>
+    <term name="Income tax credits"/>
+    <term name="Parks, recreation areas, trails"/>
+  </subjects>
+  <amendments/>
+  <summary>2/5/2015--Introduced.
+Complete America's Great Trails Act
+
+Amends the Internal Revenue Code to allow a tax credit for the fair market value of any National Scenic Trail conservation contribution. Requires the Department of the Interior to study and report on&#160;the efficacy of such tax credit in completing, extending, and increasing the number of National Scenic Trails and the feasibility and cost of making such credit refundable and transferable.</summary>
+</bill>

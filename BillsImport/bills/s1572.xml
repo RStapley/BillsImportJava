@@ -1,0 +1,26 @@
+<bill session="114" type="s" number="1572" updated="2015-06-23T12:46:43-04:00">
+  <state datetime="2015-06-15">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-15"/>
+  </status>
+  <introduced datetime="2015-06-15"/>
+  <titles>
+    <title type="short" as="introduced">One Subject at a Time Act</title>
+    <title type="official" as="introduced">A bill to end the practice of including more than one subject in a single bill by requiring that each bill enacted by Congress be limited to only one subject, and for other purposes.</title>
+  </titles>
+  <sponsor id="412492"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-06-15" state="REFERRED">
+      <text>Read twice and referred to the Committee on Rules and Administration.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSRA" name="Senate Rules and Administration" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+  </subjects>
+  <amendments/>
+</bill>

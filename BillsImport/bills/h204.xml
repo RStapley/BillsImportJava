@@ -1,0 +1,95 @@
+<bill session="114" type="h" number="204" updated="2015-07-23T04:47:44-04:00">
+  <state datetime="2015-01-08">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-08"/>
+  </status>
+  <introduced datetime="2015-01-08"/>
+  <titles>
+    <title type="short" as="introduced">North Korea Sanctions and Diplomatic Nonrecognition Act of 2015</title>
+    <title type="official" as="introduced">To continue restrictions against and prohibit diplomatic recognition of the Government of North Korea, and for other purposes.</title>
+  </titles>
+  <sponsor id="400344"/>
+  <cosponsors>
+    <cosponsor id="412250" joined="2015-01-14"/>
+    <cosponsor id="400052" joined="2015-01-13"/>
+    <cosponsor id="400071" joined="2015-01-08"/>
+    <cosponsor id="412604" joined="2015-01-21"/>
+    <cosponsor id="412272" joined="2015-01-08"/>
+    <cosponsor id="412621" joined="2015-01-12"/>
+    <cosponsor id="412477" joined="2015-05-22"/>
+    <cosponsor id="400137" joined="2015-02-24"/>
+    <cosponsor id="400196" joined="2015-02-11"/>
+    <cosponsor id="412460" joined="2015-07-13"/>
+    <cosponsor id="400224" joined="2015-01-28"/>
+    <cosponsor id="412643" joined="2015-07-22"/>
+    <cosponsor id="412302" joined="2015-01-13"/>
+    <cosponsor id="400652" joined="2015-01-08"/>
+    <cosponsor id="412489" joined="2015-01-21"/>
+    <cosponsor id="400606" joined="2015-01-08"/>
+    <cosponsor id="412417" joined="2015-04-14"/>
+    <cosponsor id="412574" joined="2015-01-09"/>
+    <cosponsor id="400433" joined="2015-02-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-08" state="REFERRED">
+      <text>Referred to the Committee on Foreign Affairs, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-01-08">
+      <text>Referred to House Foreign Affairs</text>
+    </action>
+    <action datetime="2015-01-08">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-02-11">
+      <text>Referred to the Subcommittee on Asia and the Pacific.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSFA05" subcommittee="Asia and the Pacific" name="House Foreign Affairs"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Arms control and nonproliferation"/>
+    <term name="Asia"/>
+    <term name="Burma"/>
+    <term name="Computer security and identity theft"/>
+    <term name="Conflicts and wars"/>
+    <term name="Congressional oversight"/>
+    <term name="Currency"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="Drug trafficking and controlled substances"/>
+    <term name="Foreign aid and international relief"/>
+    <term name="Human rights"/>
+    <term name="International law and treaties"/>
+    <term name="Iran"/>
+    <term name="Japan"/>
+    <term name="Middle East"/>
+    <term name="News media and reporting"/>
+    <term name="North Korea"/>
+    <term name="Nuclear weapons"/>
+    <term name="Refugees, asylum, displaced persons"/>
+    <term name="Sanctions"/>
+    <term name="South Korea"/>
+    <term name="Sovereignty, recognition, national governance and status"/>
+    <term name="Syria"/>
+    <term name="Terrorism"/>
+    <term name="Trade restrictions"/>
+    <term name="United Nations"/>
+  </subjects>
+  <amendments/>
+  <summary>1/8/2015--Introduced.
+North Korea Sanctions and Diplomatic Nonrecognition Act of 2015
+
+Continues diplomatic, economic, and military sanctions against the government of North Korea as a supporter of international terrorism until the President certifies to Congress that North Korea:
+
+ is no longer engaged in the illegal transfer of missile or nuclear technology, particularly to Iran, Syria, or Burma; is not assisting foreign terrorist organizations, engaged in counterfeiting U.S. currency, or engaged in illicit narcotics traffic; has returned the last remains of Reverend Kim Dong-shik to the United States; has released abducted Japanese nationals and surviving Korean War prisoners of war; has undertaken specified actions regarding family reunification, penal reforms, refugee access, and religious organization communications; and is no longer engaged in cyber-attacks against the United States, its government, infrastructure, entities, or citizens, or those of its allies. Expresses the sense of Congress that the Secretary of State should redesignate North Korea as a state sponsor of terrorism.
+
+Finds that the United States did not grant diplomatic recognition to North Korea upon its establishment as a client regime of the former Soviet Union in 1948.
+
+Continues diplomatic nonrecognition of North Korea until such benchmarks have been met.
+
+Directs the President, given North Korea's third nuclear weapons test on February 12, 2013, in violation of U.N. Security Council Resolutions 1695, 1718, 1874, and 2087 to instruct the U.S. Permanent Representative to the United Nations to use U.S. influence to secure adoption of a Security Council resolution condemning North Korea's action as a violation of such Resolutions and requiring implementation of comprehensive sanctions and an inspection regime against North Korea.</summary>
+</bill>

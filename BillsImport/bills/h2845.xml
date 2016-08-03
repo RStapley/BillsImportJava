@@ -1,0 +1,40 @@
+<bill session="114" type="h" number="2845" updated="2015-06-27T07:09:04-04:00">
+  <state datetime="2015-06-19">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-19"/>
+  </status>
+  <introduced datetime="2015-06-19"/>
+  <titles>
+    <title type="short" as="introduced">AGOA Enhancement Act of 2015</title>
+    <title type="official" as="introduced">To promote access to benefits under the African Growth and Opportunity Act, and for other purposes.</title>
+  </titles>
+  <sponsor id="400348"/>
+  <cosponsors>
+    <cosponsor id="412404" joined="2015-06-19"/>
+    <cosponsor id="400122" joined="2015-06-19"/>
+    <cosponsor id="400380" joined="2015-06-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-19" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+  </subjects>
+  <amendments/>
+  <summary>6/19/2015--Introduced.
+AGOA Enhancement Act of 2015
+
+This bill directs the President establish the AGOA website for the collection and dissemination of information regarding the African Growth and Opportunity Act (AGOA) which shall include:
+
+ information and technical assistance provided at U.S. Agency for International Development regional trade hubs, and a link to U.S. embassy websites located in eligible sub-Saharan African countries. The President should:
+
+ implement policies to facilitate trans-boundary trade among eligible sub-Saharan African countries; provide training for business in such countries and government trade officials on accessing the benefits of AGOA and other trade preference programs; and provide capacity building for African entrepreneurs and trade associations, promoting product diversification and value-added processing, and helping businesses and institutions comply with U.S. counter-terrorism initiatives and policies. An eligible country that has entered into and has in effect a Millennium Challenge Compact under the Millennium Challenge Act of 2003 may also enter into and have in effect at the same time not more than one additional Compact if:
+
+ one or both of the Compacts are or will be for purposes of regional economic integration, increased regional trade, or cross-border collaborations; and the country is making considerable and demonstrable progress in implementing the terms of the existing Compact.</summary>
+</bill>

@@ -1,0 +1,59 @@
+<bill session="114" type="hr" number="111" updated="2015-07-23T04:47:35-04:00">
+  <state datetime="2015-02-13">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-13"/>
+  </status>
+  <introduced datetime="2015-02-13"/>
+  <titles>
+    <title type="official" as="introduced">Calling on the Government of Iran to immediately release Saeed Abedini and all other individuals detained on account of their religious beliefs.</title>
+  </titles>
+  <sponsor id="412551"/>
+  <cosponsors>
+    <cosponsor id="412576" joined="2015-03-16"/>
+    <cosponsor id="400116" joined="2015-03-16"/>
+    <cosponsor id="400646" joined="2015-03-16"/>
+    <cosponsor id="412529" joined="2015-02-13"/>
+    <cosponsor id="412444" joined="2015-07-22"/>
+    <cosponsor id="400175" joined="2015-04-21"/>
+    <cosponsor id="412623" joined="2015-03-16"/>
+    <cosponsor id="412460" joined="2015-04-21"/>
+    <cosponsor id="400224" joined="2015-07-22"/>
+    <cosponsor id="400263" joined="2015-03-16"/>
+    <cosponsor id="412570" joined="2015-04-21"/>
+    <cosponsor id="400376" joined="2015-03-16"/>
+    <cosponsor id="412522" joined="2015-02-13"/>
+    <cosponsor id="412670" joined="2015-02-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-13" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2015-03-20">
+      <text>Referred to the Subcommittee on Africa, Global Health, Global Human Rights and International Organizations.</text>
+    </action>
+    <action datetime="2015-03-20">
+      <text>Referred to the Subcommittee on Middle East and North Africa.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSFA16" subcommittee="Africa, Global Health, Global Human Rights and International Organizations" name="House Foreign Affairs"/>
+    <committee activity="Referral" code="HSFA13" subcommittee="Middle East and North Africa" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Detention of persons"/>
+    <term name="Human rights"/>
+    <term name="Iran"/>
+    <term name="Middle East"/>
+    <term name="Religion"/>
+  </subjects>
+  <amendments/>
+  <summary>2/13/2015--Introduced.
+Recognizes that freedom of religious belief and practice is a universal human right and a fundamental freedom of every individual, regardless of race, sex, country, creed, or nationality, and should never be arbitrarily abridged by any government.
+
+Recognizes that governments have a responsibility to protect the fundamental rights of their citizens.
+
+Calls on Iran to immediately release Saeed Abedini and all other individuals detained on account of their religious beliefs.</summary>
+</bill>

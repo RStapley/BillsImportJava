@@ -1,0 +1,26 @@
+<bill session="114" type="h" number="3415" updated="2015-08-11T09:51:53-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">Aviation Screening Contractor Reform and Accountability Act</title>
+    <title type="official" as="introduced">To prohibit subsidiaries of foreign-owned corporations from obtaining contracts for the performance of passenger and baggage security screening at domestic commercial airports, and for other purposes.</title>
+  </titles>
+  <sponsor id="400402"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the House Committee on Homeland Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,29 @@
+<bill session="114" type="hr" number="65" updated="2015-02-28T06:15:52-05:00">
+  <state datetime="2015-01-30">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-30"/>
+  </status>
+  <introduced datetime="2015-01-30"/>
+  <titles>
+    <title type="official" as="introduced">Providing amounts for the expenses of the Committee on Natural Resources in the One Hundred Fourteenth Congress.</title>
+  </titles>
+  <sponsor id="400029"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-01-30" state="REFERRED">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional committees"/>
+    <term name="House Committee on Natural Resources"/>
+  </subjects>
+  <amendments/>
+  <summary>1/30/2015--Introduced.
+Provides amounts for expenses of the House Committee on Natural Resources for the 114th Congress.</summary>
+</bill>

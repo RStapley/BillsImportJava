@@ -1,0 +1,43 @@
+<bill session="114" type="h" number="1928" updated="2015-06-20T06:34:35-04:00">
+  <state datetime="2015-04-22">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-22"/>
+  </status>
+  <introduced datetime="2015-04-22"/>
+  <titles>
+    <title type="short" as="introduced">Empowering Parents to Invest in Choice Act of 2015</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to expand the coverage of qualified tuition programs and increase the limitation on contributions to Coverdell education savings accounts.</title>
+  </titles>
+  <sponsor id="400644"/>
+  <cosponsors>
+    <cosponsor id="412550" joined="2015-04-22"/>
+    <cosponsor id="412552" joined="2015-04-22"/>
+    <cosponsor id="412551" joined="2015-04-22"/>
+    <cosponsor id="412641" joined="2015-04-22"/>
+    <cosponsor id="412670" joined="2015-04-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-22" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Higher education"/>
+    <term name="Income tax exclusion"/>
+    <term name="Inflation and prices"/>
+    <term name="Student aid and college costs"/>
+  </subjects>
+  <amendments/>
+  <summary>4/22/2015--Introduced.
+Empowering Parents to Invest in Choice Act of 2015
+
+This bill amends the Internal Revenue Code to allow the payment of qualified elementary and secondary education expenses from a tax-exempt qualified tuition program (known as a 529 plan). (Currently, such plans only pay qualified higher education expenses.) Included as qualified elementary and secondary education expenses are expenses for tuition, fees, academic tutoring, special needs services, books, supplies, and computer technology or equipment.
+
+The bill also increases from $2,000 to $15, 000 the limit on the amount that may be contributed to a tax-exempt Coverdell education savings account. The new contribution limit is adjusted for inflation in each taxable year beginning after 2015.</summary>
+</bill>

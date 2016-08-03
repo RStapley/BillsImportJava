@@ -1,0 +1,95 @@
+<bill session="114" type="hr" number="213" updated="2015-08-22T06:17:29-04:00">
+  <state datetime="2015-05-21">REPORTED</state>
+  <status>
+    <unknown datetime="2015-05-21"/>
+  </status>
+  <introduced datetime="2015-04-21"/>
+  <titles>
+    <title type="official" as="introduced">Condemning the April 2015 terrorist attack at the Garissa University College in Garissa, Kenya, and reaffirming the United States support for the people and Government of Kenya, and for other purposes.</title>
+  </titles>
+  <sponsor id="412404"/>
+  <cosponsors>
+    <cosponsor id="412652" joined="2015-04-21"/>
+    <cosponsor id="400048" joined="2015-04-21"/>
+    <cosponsor id="400616" joined="2015-04-21"/>
+    <cosponsor id="412470" joined="2015-04-21"/>
+    <cosponsor id="412604" joined="2015-04-21"/>
+    <cosponsor id="400074" joined="2015-04-21"/>
+    <cosponsor id="400639" joined="2015-04-21"/>
+    <cosponsor id="412385" joined="2015-04-21"/>
+    <cosponsor id="412263" joined="2015-04-21"/>
+    <cosponsor id="400122" joined="2015-04-21"/>
+    <cosponsor id="412529" joined="2015-04-21"/>
+    <cosponsor id="412276" joined="2015-04-21"/>
+    <cosponsor id="400162" joined="2015-04-21"/>
+    <cosponsor id="400170" joined="2015-04-21"/>
+    <cosponsor id="400237" joined="2015-04-21"/>
+    <cosponsor id="412521" joined="2015-04-21"/>
+    <cosponsor id="412468" joined="2015-04-21"/>
+    <cosponsor id="400271" joined="2015-04-21"/>
+    <cosponsor id="400661" joined="2015-04-21"/>
+    <cosponsor id="400295" joined="2015-04-21"/>
+    <cosponsor id="412506" joined="2015-04-21"/>
+    <cosponsor id="412307" joined="2015-04-21"/>
+    <cosponsor id="400333" joined="2015-04-21"/>
+    <cosponsor id="400350" joined="2015-04-21"/>
+    <cosponsor id="400380" joined="2015-04-21"/>
+    <cosponsor id="412579" joined="2015-04-21"/>
+    <cosponsor id="400422" joined="2015-04-21"/>
+    <cosponsor id="412412" joined="2015-04-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-21" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2015-05-07">
+      <text>Referred to the Subcommittee on Africa, Global Health, Global Human Rights and International Organizations.</text>
+    </action>
+    <action datetime="2015-05-14">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2015-05-14">
+      <text>Forwarded by Subcommittee to Full Committee by Unanimous Consent .</text>
+    </action>
+    <action datetime="2015-05-21">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-05-21" state="REPORTED">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, Markup"/>
+    <committee activity="Referral, Markup, Reporting" code="HSFA16" subcommittee="Africa, Global Health, Global Human Rights and International Organizations" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Africa"/>
+    <term name="Alliances"/>
+    <term name="Congressional tributes"/>
+    <term name="Crime victims"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="First responders and emergency personnel"/>
+    <term name="Higher education"/>
+    <term name="International organizations and cooperation"/>
+    <term name="Kenya"/>
+    <term name="Refugees, asylum, displaced persons"/>
+    <term name="Religion"/>
+    <term name="Somalia"/>
+    <term name="Terrorism"/>
+  </subjects>
+  <amendments/>
+  <summary>4/21/2015--Introduced.
+Condemns the atrocities and terrorist attack that occurred at Garissa University College in Garissa, Kenya, on April 2, 2015. Recognizes the heroic and selfless acts by Kenyan citizens, first responders, and the Kenya Red Cross to rescue those caught in such attack.
+
+Condemns al Shabaab's apparent effort to foment divisions among the Kenyan people along religious lines.
+
+Reaffirms U.S. support for the efforts of the government and people of Kenya to combat terrorism, counter extremism, promote tolerance, and bring all the perpetrators of such attack to justice.
+
+Commends the Kenyan government's continued participation in the African Union Mission in Somalia.
+
+Urges Kenya to maintain its commitment to protecting Somali refugees who are fleeing from al Shabaab.
+
+Recognizes Kenya as an important regional ally and partner of the United States.</summary>
+</bill>

@@ -1,0 +1,106 @@
+<bill session="114" type="s" number="1881" updated="2015-08-08T07:07:29-04:00">
+  <state datetime="2015-08-03">PROV_KILL:CLOTUREFAILED</state>
+  <status>
+    <unknown datetime="2015-08-03"/>
+  </status>
+  <introduced datetime="2015-07-28"/>
+  <titles>
+    <title type="official" as="introduced">A bill to prohibit Federal funding of Planned Parenthood Federation of America.</title>
+  </titles>
+  <sponsor id="412667"/>
+  <cosponsors>
+    <cosponsor id="412251" joined="2015-07-28"/>
+    <cosponsor id="400034" joined="2015-07-28"/>
+    <cosponsor id="400040" joined="2015-07-28"/>
+    <cosponsor id="400054" joined="2015-07-29"/>
+    <cosponsor id="412269" joined="2015-07-29"/>
+    <cosponsor id="402675" joined="2015-07-28"/>
+    <cosponsor id="300023" joined="2015-07-30"/>
+    <cosponsor id="412248" joined="2015-07-30"/>
+    <cosponsor id="300027" joined="2015-07-28"/>
+    <cosponsor id="412508" joined="2015-07-29"/>
+    <cosponsor id="300030" joined="2015-07-29"/>
+    <cosponsor id="412573" joined="2015-07-28"/>
+    <cosponsor id="412549" joined="2015-07-28"/>
+    <cosponsor id="300041" joined="2015-07-28"/>
+    <cosponsor id="412556" joined="2015-07-28"/>
+    <cosponsor id="400134" joined="2015-08-03"/>
+    <cosponsor id="412406" joined="2015-07-30"/>
+    <cosponsor id="300047" joined="2015-07-30"/>
+    <cosponsor id="300052" joined="2015-07-30"/>
+    <cosponsor id="412494" joined="2015-07-30"/>
+    <cosponsor id="300055" joined="2015-07-28"/>
+    <cosponsor id="400194" joined="2015-07-28"/>
+    <cosponsor id="412496" joined="2015-07-28"/>
+    <cosponsor id="412464" joined="2015-07-28"/>
+    <cosponsor id="412495" joined="2015-07-29"/>
+    <cosponsor id="300071" joined="2015-07-29"/>
+    <cosponsor id="300072" joined="2015-07-28"/>
+    <cosponsor id="400284" joined="2015-07-30"/>
+    <cosponsor id="412492" joined="2015-07-28"/>
+    <cosponsor id="412666" joined="2015-07-29"/>
+    <cosponsor id="400325" joined="2015-07-29"/>
+    <cosponsor id="412322" joined="2015-07-30"/>
+    <cosponsor id="300083" joined="2015-07-28"/>
+    <cosponsor id="412669" joined="2015-07-29"/>
+    <cosponsor id="412491" joined="2015-07-29"/>
+    <cosponsor id="412671" joined="2015-07-28"/>
+    <cosponsor id="412471" joined="2015-07-28"/>
+    <cosponsor id="300088" joined="2015-07-30"/>
+    <cosponsor id="300089" joined="2015-07-30"/>
+    <cosponsor id="412665" joined="2015-07-30"/>
+    <cosponsor id="400546" joined="2015-07-28"/>
+    <cosponsor id="412668" joined="2015-07-29"/>
+    <cosponsor id="400408" joined="2015-07-30"/>
+    <cosponsor id="400418" joined="2015-07-29"/>
+    <cosponsor id="400432" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-28">
+      <text>Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text>
+    </action>
+    <calendar datetime="2015-07-29" state="REPORTED" calendar="Senate Legislative" under="General Orders" number="169">
+      <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 169.</text>
+    </calendar>
+    <action datetime="2015-07-30">
+      <text>Motion to proceed to consideration of measure made in Senate.</text>
+      <reference ref="consideration CR S6161-6164, S6166-6180"/>
+    </action>
+    <action datetime="2015-07-30">
+      <text>Cloture motion on the motion to proceed to the measure presented in Senate.</text>
+      <reference ref="consideration CR S6161"/>
+      <reference ref="CR S6161" label="text"/>
+    </action>
+    <action datetime="2015-08-03">
+      <text>Motion to proceed to measure considered in Senate.</text>
+      <reference ref="CR S6215-6228" label="consideration"/>
+    </action>
+    <vote-aux how="roll" type="cloture" roll="262" datetime="2015-08-03" where="s" result="fail" state="PROV_KILL:CLOTUREFAILED">
+      <text>Cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 53 - 46. Record Vote Number: 262.</text>
+      <reference ref="CR S6227-6228" label="consideration"/>
+      <reference ref="CR S6227" label="text"/>
+    </vote-aux>
+    <action datetime="2015-08-03">
+      <text>Motion by Senator McConnell to reconsider the vote by which cloture on the motion to proceed to the measure was not invoked (Record Vote No. 262) entered in Senate.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="3301"/>
+    <bill relation="unknown" session="114" type="s" number="1861"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Abortion"/>
+    <term name="Family planning and birth control"/>
+    <term name="Health facilities and institutions"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Sex and reproductive health"/>
+    <term name="Women's health"/>
+  </subjects>
+  <amendments>
+    <amendment number="s2545"/>
+  </amendments>
+  <summary>7/28/2015--Introduced.
+This bill prohibits federal funding of Planned Parenthood Federation of America or its affiliates, subsidiaries, successors, or clinics.</summary>
+</bill>

@@ -1,0 +1,41 @@
+<bill session="114" type="h" number="3418" updated="2015-08-15T06:47:58-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">Federal Protective Service Improvement and Accountability Act of 2015</title>
+    <title type="official" as="introduced">To enhance homeland security, including domestic preparedness and the collective response to terrorism, by improving the Federal Protective Service, and for other purposes.</title>
+  </titles>
+  <sponsor id="400402"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-29">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1163"/>
+    </action>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Referred to House Homeland Security</text>
+    </action>
+    <action datetime="2015-07-30">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Emergency management"/>
+  </subjects>
+  <amendments/>
+</bill>

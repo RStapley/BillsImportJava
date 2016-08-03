@@ -1,0 +1,48 @@
+<bill session="114" type="s" number="1183" updated="2015-06-20T06:55:19-04:00">
+  <state datetime="2015-05-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-04"/>
+  </status>
+  <introduced datetime="2015-05-04"/>
+  <titles>
+    <title type="short" as="introduced">STEM Gateways Act</title>
+    <title type="official" as="introduced">A bill to increase the participation of women, girls, and underrepresented minorities in STEM fields, to encourage and support students from all economic backgrounds to pursue STEM career opportunities, and for other purposes.</title>
+  </titles>
+  <sponsor id="412223"/>
+  <cosponsors>
+    <cosponsor id="300018" joined="2015-05-21"/>
+    <cosponsor id="412281" joined="2015-05-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-04" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="840"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Education of the disadvantaged"/>
+    <term name="Education programs funding"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Higher education"/>
+    <term name="Minority education"/>
+    <term name="Minority employment"/>
+    <term name="Public-private cooperation"/>
+    <term name="Science and engineering education"/>
+    <term name="Teaching, teachers, curricula"/>
+    <term name="Women's education"/>
+    <term name="Women's employment"/>
+  </subjects>
+  <amendments/>
+  <summary>5/4/2015--Introduced.
+STEM Gateways Act
+
+This bill directs the Department of Education to award competitive grants for science, technology, engineering, and mathematics (STEM) elementary and secondary school programs that:
+
+ encourage interest in the STEM fields; motivate engagement in the STEM fields by providing relevant hands-on learning opportunities; support classroom success in the STEM disciplines; support STEM workforce training and career preparation for secondary school students; or improve the access of secondary school students to STEM career and continuing education opportunities.</summary>
+</bill>

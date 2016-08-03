@@ -1,0 +1,71 @@
+<bill session="114" type="h" number="1271" updated="2015-06-11T04:47:18-04:00">
+  <state datetime="2015-03-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-04"/>
+  </status>
+  <introduced datetime="2015-03-04"/>
+  <titles>
+    <title type="short" as="introduced">Concussion Awareness and Education Act of 2015</title>
+    <title type="official" as="introduced">To provide for systemic research, treatment, prevention, awareness, and dissemination of information with respect to sports-related and other concussions.</title>
+  </titles>
+  <sponsor id="412565"/>
+  <cosponsors>
+    <cosponsor id="400030" joined="2015-03-04"/>
+    <cosponsor id="400048" joined="2015-03-04"/>
+    <cosponsor id="412517" joined="2015-03-04"/>
+    <cosponsor id="412272" joined="2015-03-25"/>
+    <cosponsor id="400130" joined="2015-03-04"/>
+    <cosponsor id="400170" joined="2015-03-17"/>
+    <cosponsor id="400185" joined="2015-06-10"/>
+    <cosponsor id="400199" joined="2015-03-23"/>
+    <cosponsor id="400237" joined="2015-03-23"/>
+    <cosponsor id="400263" joined="2015-04-22"/>
+    <cosponsor id="400295" joined="2015-03-04"/>
+    <cosponsor id="400333" joined="2015-04-14"/>
+    <cosponsor id="400352" joined="2015-03-17"/>
+    <cosponsor id="412514" joined="2015-04-14"/>
+    <cosponsor id="412548" joined="2015-03-04"/>
+    <cosponsor id="412214" joined="2015-05-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-04" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-03-06">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Advisory bodies"/>
+    <term name="Athletes"/>
+    <term name="Child health"/>
+    <term name="Congressional oversight"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Health information and medical records"/>
+    <term name="Health personnel"/>
+    <term name="Medical research"/>
+    <term name="Medical tests and diagnostic methods"/>
+    <term name="Neurological disorders"/>
+    <term name="School athletics"/>
+  </subjects>
+  <amendments/>
+  <summary>3/4/2015--Introduced.
+Concussion Awareness and Education Act of 2015
+
+ Amends the Public Health Service Act to require the Centers for Disease Control and Prevention (CDC) to: (1) establish and oversee a national system to accurately determine the incidence of sports-related concussions among youth, and (2) begin implementation of such system within one year of this Act's enactment.
+
+Requires the data collected to include:
+
+ the incidence of sports related concussions in individuals 5 through 21 years of age; demographic information of the injured individuals; pre-existing conditions of the injured individuals; the concussion history of the injured individuals; the use of protective equipment and impact monitoring devices; the qualifications of personnel diagnosing the concussions; and the cause, nature, and extent of the concussive injury. Requires the National Institutes of Health to conduct or support:
+
+ research designed to inform the creation of guidelines for the management of short- and long-term sequelae of concussion in youth; research on the effects of concussions and repetitive head impacts on quality of life and the activities of daily living; research to identify predictors, and modifiers of outcomes, of concussions in youth; and research on age- and sex-related biomechanical determinants of injury risk for concussion in youth. Requires CDC to develop and disseminate to the public information regarding concussions.
+
+Establishes a Concussion Research Commission, which shall study the programs and activities conducted pursuant to this Act and formulate systemic recommendations to increase knowledge about, and change the culture surrounding, concussions.</summary>
+</bill>

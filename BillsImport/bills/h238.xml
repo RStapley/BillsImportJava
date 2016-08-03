@@ -1,0 +1,75 @@
+<bill session="114" type="h" number="238" updated="2015-07-22T04:58:21-04:00">
+  <state datetime="2015-01-09">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-09"/>
+  </status>
+  <introduced datetime="2015-01-09"/>
+  <titles>
+    <title type="short" as="introduced">Copyright and Marriage Equality Act</title>
+    <title type="official" as="introduced">To amend title 17, United States Code, with respect to the definition of "widow" and "widower", and for other purposes.</title>
+  </titles>
+  <sponsor id="412583"/>
+  <cosponsors>
+    <cosponsor id="400033" joined="2015-01-22"/>
+    <cosponsor id="412516" joined="2015-01-09"/>
+    <cosponsor id="412379" joined="2015-01-12"/>
+    <cosponsor id="412470" joined="2015-01-09"/>
+    <cosponsor id="412272" joined="2015-01-09"/>
+    <cosponsor id="400097" joined="2015-02-12"/>
+    <cosponsor id="412505" joined="2015-01-09"/>
+    <cosponsor id="412385" joined="2015-02-27"/>
+    <cosponsor id="400162" joined="2015-01-26"/>
+    <cosponsor id="400163" joined="2015-01-22"/>
+    <cosponsor id="412454" joined="2015-01-09"/>
+    <cosponsor id="412584" joined="2015-07-21"/>
+    <cosponsor id="412282" joined="2015-01-09"/>
+    <cosponsor id="400237" joined="2015-01-26"/>
+    <cosponsor id="412616" joined="2015-07-21"/>
+    <cosponsor id="412521" joined="2015-01-09"/>
+    <cosponsor id="400259" joined="2015-02-12"/>
+    <cosponsor id="400262" joined="2015-01-09"/>
+    <cosponsor id="412560" joined="2015-01-09"/>
+    <cosponsor id="412527" joined="2015-01-09"/>
+    <cosponsor id="412606" joined="2015-02-27"/>
+    <cosponsor id="400295" joined="2015-07-21"/>
+    <cosponsor id="412523" joined="2015-04-23"/>
+    <cosponsor id="412585" joined="2015-01-22"/>
+    <cosponsor id="412308" joined="2015-01-09"/>
+    <cosponsor id="400344" joined="2015-01-09"/>
+    <cosponsor id="400360" joined="2015-01-12"/>
+    <cosponsor id="400378" joined="2015-01-22"/>
+    <cosponsor id="412514" joined="2015-01-09"/>
+    <cosponsor id="412318" joined="2015-01-09"/>
+    <cosponsor id="412522" joined="2015-01-09"/>
+    <cosponsor id="412412" joined="2015-01-09"/>
+    <cosponsor id="412211" joined="2015-01-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-09" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-02-02">
+      <text>Referred to the Subcommittee on Courts, Intellectual Property, and the Internet.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU03" subcommittee="Courts, Intellectual Property, and the Internet" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="23"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Art, artists, authorship"/>
+    <term name="Intellectual property"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Marriage and family status"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+  <summary>1/9/2015--Introduced.
+Copyright and Marriage Equality Act 
+
+Amends federal copyright law to revise the definition of "widow" or "widower" for purposes of provisions concerning the transfer of a copyright to an author's spouse or other next of kin following the author's death. Declares that an individual is the widow or widower of an author if the courts of the state in which the individual and the author were married (or, if the individual and the author were not married in any state but were validly married in another jurisdiction, the courts of any state) would find that the individual and the author were validly married at the time of the author's death. (Currently, only the author's surviving spouse under the law of the author's domicile at the time of death is considered a widow.)</summary>
+</bill>

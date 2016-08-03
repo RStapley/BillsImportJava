@@ -1,0 +1,28 @@
+<bill session="114" type="h" number="3195" updated="2015-07-28T15:58:42-04:00">
+  <state datetime="2015-07-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-23"/>
+  </status>
+  <introduced datetime="2015-07-23"/>
+  <titles>
+    <title type="short" as="introduced">Small Business Administration Franchise Loan Transparency Act of 2015</title>
+    <title type="official" as="introduced">To establish minimum standards of disclosure by franchises whose franchisees use loans guaranteed by the Small Business Administration.</title>
+  </titles>
+  <sponsor id="412215"/>
+  <cosponsors>
+    <cosponsor id="400080" joined="2015-07-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-23" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+  </subjects>
+  <amendments/>
+</bill>

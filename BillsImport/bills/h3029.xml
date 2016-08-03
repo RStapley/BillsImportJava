@@ -1,0 +1,61 @@
+<bill session="114" type="h" number="3029" updated="2015-08-15T06:44:43-04:00">
+  <state datetime="2015-07-10">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-10"/>
+  </status>
+  <introduced datetime="2015-07-10"/>
+  <titles>
+    <title type="short" as="introduced">RECOVER Act</title>
+    <title type="short" as="introduced">Reducing the Effects of the Cyberattack on OPM Victims Emergency Response Act of 2015</title>
+    <title type="official" as="introduced">To require the Office of Personnel Management to provide complimentary, comprehensive identity protection coverage to all individuals whose personally identifiable information was compromised during recent data breaches at Federal agencies.</title>
+  </titles>
+  <sponsor id="400295"/>
+  <cosponsors>
+    <cosponsor id="412657" joined="2015-07-10"/>
+    <cosponsor id="412652" joined="2015-07-21"/>
+    <cosponsor id="412571" joined="2015-07-21"/>
+    <cosponsor id="412236" joined="2015-07-29"/>
+    <cosponsor id="412272" joined="2015-07-10"/>
+    <cosponsor id="400090" joined="2015-07-10"/>
+    <cosponsor id="412544" joined="2015-07-13"/>
+    <cosponsor id="412263" joined="2015-07-10"/>
+    <cosponsor id="400160" joined="2015-07-28"/>
+    <cosponsor id="400209" joined="2015-07-21"/>
+    <cosponsor id="400249" joined="2015-07-21"/>
+    <cosponsor id="412585" joined="2015-07-29"/>
+    <cosponsor id="412647" joined="2015-07-29"/>
+    <cosponsor id="400349" joined="2015-07-10"/>
+    <cosponsor id="400352" joined="2015-07-27"/>
+    <cosponsor id="412212" joined="2015-07-13"/>
+    <cosponsor id="400415" joined="2015-07-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-10">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1040"/>
+    </action>
+    <action datetime="2015-07-10" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2015-07-13">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1047"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="3360"/>
+    <bill relation="identical" session="114" type="s" number="1746"/>
+    <bill relation="unknown" session="114" type="s" number="1910"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+  </subjects>
+  <amendments/>
+  <summary>7/10/2015--Introduced.
+Reducing the Effects of the Cyberattack on OPM Victims Emergency Response Act of 2015 or the RECOVER Act
+
+Requires the Office of Personnel Management (OPM)&#160;to provide each individual whose personally identifiable information was compromised during data breaches of personnel records of federal employees in a network maintained by the Department of the Interior or in OPM systems containing federal employee background investigations with comprehensive identity protection coverage that is effective for the life of the individual and that includes not less than $5 million in identity theft insurance.</summary>
+</bill>

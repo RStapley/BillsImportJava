@@ -1,0 +1,45 @@
+<bill session="114" type="h" number="1932" updated="2015-06-10T04:47:55-04:00">
+  <state datetime="2015-04-22">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-22"/>
+  </status>
+  <introduced datetime="2015-04-22"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Occupational Safety and Health Act of 1970 to allow employers a grace period to abate certain occupational health and safety violations before being subject to a penalty under such Act.</title>
+  </titles>
+  <sponsor id="412444"/>
+  <cosponsors>
+    <cosponsor id="412625" joined="2015-05-14"/>
+    <cosponsor id="412635" joined="2015-05-20"/>
+    <cosponsor id="400032" joined="2015-05-14"/>
+    <cosponsor id="400046" joined="2015-05-14"/>
+    <cosponsor id="400071" joined="2015-05-20"/>
+    <cosponsor id="412480" joined="2015-05-14"/>
+    <cosponsor id="412463" joined="2015-05-20"/>
+    <cosponsor id="400158" joined="2015-05-12"/>
+    <cosponsor id="412623" joined="2015-06-09"/>
+    <cosponsor id="400196" joined="2015-05-20"/>
+    <cosponsor id="400220" joined="2015-05-20"/>
+    <cosponsor id="412510" joined="2015-05-14"/>
+    <cosponsor id="412445" joined="2015-05-20"/>
+    <cosponsor id="400320" joined="2015-05-14"/>
+    <cosponsor id="412310" joined="2015-05-20"/>
+    <cosponsor id="412548" joined="2015-05-12"/>
+    <cosponsor id="412538" joined="2015-05-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-22" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Civil actions and liability"/>
+    <term name="Worker safety and health"/>
+  </subjects>
+  <amendments/>
+</bill>

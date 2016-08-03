@@ -1,0 +1,730 @@
+<bill session="114" type="h" number="2822" updated="2015-07-11T06:42:20-04:00">
+  <state datetime="2015-06-18T15:26:00-04:00">REPORTED</state>
+  <status>
+    <unknown datetime="2015-06-18T15:26:00-04:00"/>
+  </status>
+  <introduced datetime="2015-06-18"/>
+  <titles>
+    <title type="short" as="introduced">Department of the Interior, Environment, and Related Agencies Appropriations Act, 2016</title>
+    <title type="short" as="reported to house">Department of the Interior, Environment, and Related Agencies Appropriations Act, 2016</title>
+    <title type="official" as="introduced">Making appropriations for the Department of the Interior, environment, and related agencies for the fiscal year ending September 30, 2016, and for other purposes.</title>
+  </titles>
+  <sponsor id="400057"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-06-18T15:26:00-04:00">
+      <text>The House Committee on Appropriations reported an original measure, H. Rept. 114-170, by Mr. Calvert.</text>
+    </action>
+    <calendar datetime="2015-06-18T15:26:00-04:00" state="REPORTED" calendar="Union" number="125">
+      <text>Placed on the Union Calendar, Calendar No. 125.</text>
+    </calendar>
+    <action datetime="2015-06-23T19:27:00-04:00">
+      <text>Rules Committee Resolution H. Res. 333 Reported to House. Resolution provides for a modified open rule for H.R. 2822; a structured rule for H.R. 2042; and provides for proceedings of the House during the period from June 26, 2015, through July 6, 2015.</text>
+    </action>
+    <action datetime="2015-06-25T12:54:00-04:00">
+      <text>Considered under the provisions of rule H. Res. 333.</text>
+      <reference ref="CR H4699-4761" label="consideration"/>
+      <reference ref="CR H4730, H4733-4734, H4735, H4736, H4739, H4740, H4741-4742, H4742-4743, H4743, H4744-4745, H4747, H4748, H4750-4752, H4753" label="text of Title I as reported in House"/>
+      <reference ref="CR H4753, H4754, H4756-4757, H4759, H4760" label="text of Title II as reported in House"/>
+      <reference ref="CR H4760, CR 7/07/2015 H4784, H4784-4785, H4785-4789" label="text of Title III as reported in House"/>
+    </action>
+    <action datetime="2015-06-25T12:54:00-04:00">
+      <text>Resolution provides for a modified open rule for H.R. 2822; a structured rule for H.R. 2042; and provides for proceedings of the House during the period from June 26, 2015, through July 6, 2015.</text>
+    </action>
+    <action datetime="2015-06-25T12:55:00-04:00">
+      <text>House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 333 and Rule XVIII.</text>
+    </action>
+    <action datetime="2015-06-25T12:55:00-04:00">
+      <text>The Speaker designated the Honorable Garret Graves to act as Chairman of the Committee.</text>
+    </action>
+    <action datetime="2015-06-25T12:55:00-04:00">
+      <text>GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 2822.</text>
+    </action>
+    <action datetime="2015-06-25T13:51:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Poe (TX) amendment.</text>
+    </action>
+    <action datetime="2015-06-25T13:55:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Flores amendment.</text>
+    </action>
+    <action datetime="2015-06-25T14:01:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Garamendi amendment.</text>
+    </action>
+    <action datetime="2015-06-25T14:06:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Yoho Amendment.</text>
+    </action>
+    <action datetime="2015-06-25T14:12:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Garamendi amendment.</text>
+    </action>
+    <action datetime="2015-06-25T14:19:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Garamendi amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Garamendi demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2015-06-25T14:20:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Guinta amendment.</text>
+    </action>
+    <action datetime="2015-06-25T14:25:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Garamendi amendment.</text>
+    </action>
+    <action datetime="2015-06-25T14:30:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Clawson(FL) amendment.</text>
+    </action>
+    <action datetime="2015-06-25T14:35:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Clawson(FL) amendment.</text>
+    </action>
+    <action datetime="2015-06-25T14:38:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Sewell amendment.</text>
+    </action>
+    <action datetime="2015-06-25T14:44:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Gallego amendment.</text>
+    </action>
+    <action datetime="2015-06-25T14:47:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Beyer amendment.</text>
+    </action>
+    <action datetime="2015-06-25T14:53:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Tsongas amendment.</text>
+    </action>
+    <action datetime="2015-06-25T15:01:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Capps amendment.</text>
+    </action>
+    <action datetime="2015-06-25T15:08:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Capps amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mrs. Capps demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2015-06-25T15:09:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Johnson(OH) amendment.</text>
+    </action>
+    <action datetime="2015-06-25T15:17:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Griffith amendment.</text>
+    </action>
+    <action datetime="2015-06-25T15:22:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Gosar amendment.</text>
+    </action>
+    <action datetime="2015-06-25T15:28:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Sablan amendment.</text>
+    </action>
+    <action datetime="2015-06-25T15:34:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Sablan amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Sablan demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2015-06-25T15:39:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Castor amendment pending a reservation of a point of order. Subsequently, the reservation removed.</text>
+    </action>
+    <action datetime="2015-06-25T15:45:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Castor(FL) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Castor(FL) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2015-06-25T15:46:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Plaskett amendment.</text>
+    </action>
+    <action datetime="2015-06-25T15:53:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson Lee amendment.</text>
+    </action>
+    <action datetime="2015-06-25T16:06:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Grijalva amendment.</text>
+    </action>
+    <action datetime="2015-06-25T16:12:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Langevin amendment.</text>
+    </action>
+    <action datetime="2015-06-25T16:19:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Grayson amendment.</text>
+    </action>
+    <action datetime="2015-06-25T16:23:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Mooney (WV) amendment.</text>
+    </action>
+    <action datetime="2015-06-25T16:27:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Mooney (WV) amendment.</text>
+    </action>
+    <action datetime="2015-06-25T16:32:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Tipton amendment.</text>
+    </action>
+    <action datetime="2015-06-25T16:43:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the McNerney amendment.</text>
+    </action>
+    <action datetime="2015-06-25T16:46:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Kildee amendment pending a reservation of a point of order.</text>
+    </action>
+    <action datetime="2015-06-25T16:54:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Beyer amendment.</text>
+    </action>
+    <action datetime="2015-06-25T16:58:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Benishek amendment.</text>
+    </action>
+    <action datetime="2015-06-25T17:02:00-04:00">
+      <text>Mr. Calvert moved that the committee rise.</text>
+    </action>
+    <action datetime="2015-06-25T17:03:00-04:00">
+      <text>On motion that the committee rise Agreed to by voice vote.</text>
+    </action>
+    <action datetime="2015-06-25T17:03:00-04:00">
+      <text>Committee of the Whole House on the state of the Union rises leaving H.R. 2822 as unfinished business.</text>
+    </action>
+    <action datetime="2015-07-07T14:45:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H4783-4814" label="consideration"/>
+      <reference ref="CR H4789-4790, H4790-4791, H4792, H4793, H4794-4795, H4795, H4796-4797, H4798, H4801, H4803" label="text of Title IV as reported in House"/>
+    </action>
+    <action datetime="2015-07-07T14:46:00-04:00">
+      <text>The House resolved into Committee of the Whole House on the state of the Union for further consideration.</text>
+    </action>
+    <action datetime="2015-07-07T14:48:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Poe (TX) amendment.</text>
+    </action>
+    <action datetime="2015-07-07T14:53:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Polis amendment, pending the reservation of a point of order. Subsequently, the reservation was withdrawn.</text>
+    </action>
+    <action datetime="2015-07-07T15:07:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Grijalva amendment.</text>
+    </action>
+    <action datetime="2015-07-07T15:13:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Lawrence amendment.</text>
+    </action>
+    <action datetime="2015-07-07T15:22:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Grijalva amendment.</text>
+    </action>
+    <action datetime="2015-07-07T15:27:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Grijalva amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Grijalva demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2015-07-07T15:29:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Tsongas amendment.</text>
+    </action>
+    <action datetime="2015-07-07T15:39:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Tsongas amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Tsongas demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2015-07-07T15:40:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Beyer amendment.</text>
+    </action>
+    <action datetime="2015-07-07T15:45:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Grijalva amendment.</text>
+    </action>
+    <action datetime="2015-07-07T15:54:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Grijalva amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Grijalva demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2015-07-07T15:56:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Polis amendment.</text>
+    </action>
+    <action datetime="2015-07-07T16:01:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Polis amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Polis demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2015-07-07T16:03:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Yoho amendment.</text>
+    </action>
+    <action datetime="2015-07-07T16:11:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Yoho amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Yoho demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2015-07-07T16:13:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Edwards amendment.</text>
+    </action>
+    <action datetime="2015-07-07T16:23:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Edwards amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Edwards demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2015-07-07T16:25:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Lowenthal amendment.</text>
+    </action>
+    <action datetime="2015-07-07T16:32:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Cartwright amendment.</text>
+    </action>
+    <action datetime="2015-07-07T16:38:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Lawrence amendment No. 13.</text>
+    </action>
+    <action datetime="2015-07-07T16:48:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Lawrence amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Ms. Lawrence demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2015-07-07T16:48:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Young (AK) amendment.</text>
+    </action>
+    <action datetime="2015-07-07T16:56:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Grijalva amendment.</text>
+    </action>
+    <action datetime="2015-07-07T16:59:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Poliquin amendment No. 4.</text>
+    </action>
+    <action datetime="2015-07-07T17:09:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Polis amendment.</text>
+    </action>
+    <action datetime="2015-07-07T17:15:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Polis amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Polis demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2015-07-07T17:16:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Gosar amendment.</text>
+    </action>
+    <action datetime="2015-07-07T17:23:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Tsongas amendment.</text>
+    </action>
+    <action datetime="2015-07-07T17:34:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Tsongas amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Tsongas demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2015-07-07T17:35:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Gosar amendment.</text>
+    </action>
+    <action datetime="2015-07-07T17:42:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Grijalva amendment.</text>
+    </action>
+    <action datetime="2015-07-07T17:50:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Grijalva amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Grijalva demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2015-07-07T17:51:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Smith (TX) amendment</text>
+    </action>
+    <action datetime="2015-07-07T17:59:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Huffman amendment.</text>
+    </action>
+    <action datetime="2015-07-07T18:06:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Collins (GA) amendment.</text>
+    </action>
+    <action datetime="2015-07-07T18:09:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Beyer amendment.</text>
+    </action>
+    <action datetime="2015-07-07T18:16:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Beyer amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Beyer demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2015-07-07T18:16:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Blackburn amendment No. 6.</text>
+    </action>
+    <action datetime="2015-07-07T18:25:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Blackburn amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mrs. Blackburn demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2015-07-07T18:26:00-04:00">
+      <text>Mr. Calvert moved that the Committee now rise.</text>
+    </action>
+    <action datetime="2015-07-07T18:26:00-04:00">
+      <text>On motion that the Committee now rise Agreed to by voice vote.</text>
+    </action>
+    <action datetime="2015-07-07T18:26:00-04:00">
+      <text>Committee of the Whole House on the state of the Union rises leaving H.R. 2822 as unfinished business.</text>
+    </action>
+    <action datetime="2015-07-07T19:09:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H4816-4856" label="consideration"/>
+    </action>
+    <action datetime="2015-07-07T19:09:00-04:00">
+      <text>The House resolved into Committee of the Whole House on the state of the Union for further consideration.</text>
+    </action>
+    <action datetime="2015-07-07T19:12:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Gallego amendment.</text>
+    </action>
+    <action datetime="2015-07-07T19:16:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Pearce amendment.</text>
+    </action>
+    <action datetime="2015-07-07T19:28:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Pearce amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Ms. Shea-Porter demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2015-07-07T19:30:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Huffman amendment.</text>
+    </action>
+    <action datetime="2015-07-07T19:32:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Walberg amendment No. 9.</text>
+    </action>
+    <action datetime="2015-07-07T19:39:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Peters amendment.</text>
+    </action>
+    <action datetime="2015-07-07T19:45:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Walden amendment No. 30.</text>
+    </action>
+    <action datetime="2015-07-07T19:53:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Lowenthal amendment, pending the reservation of a point of order.</text>
+    </action>
+    <action datetime="2015-07-07T19:59:00-04:00">
+      <text>ORDER OF PROCEDURE - Mr. Yoho asked unanimous consent that the request for a recorded vote on the Yoho amendment previously debated be withdrawn, to the end that the amendment stand disposed of by the voice vote thereon. Agreed to without objection.</text>
+      <reference ref="CR H4821" label="consideration"/>
+    </action>
+    <action datetime="2015-07-07T20:01:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Hardy amendment.</text>
+    </action>
+    <action datetime="2015-07-07T20:12:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Hardy amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Ms. McCollum demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2015-07-07T20:13:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Engel amendment.</text>
+    </action>
+    <action datetime="2015-07-07T20:17:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Byrne amendment.</text>
+    </action>
+    <action datetime="2015-07-07T20:22:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Grayson amendment.</text>
+    </action>
+    <action datetime="2015-07-07T20:24:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Zinke amendment No. 39.</text>
+    </action>
+    <action datetime="2015-07-07T20:32:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Zinke amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Ms. McCollum demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2015-07-07T20:33:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Norcross amendment, pending reservation of a point of order.</text>
+    </action>
+    <action datetime="2015-07-07T20:37:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Jolly amendment.</text>
+    </action>
+    <action datetime="2015-07-07T20:44:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Garamendi amendment.</text>
+    </action>
+    <action datetime="2015-07-07T20:52:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Garamendi amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Garamendi demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2015-07-07T20:54:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Crawford amendment.</text>
+    </action>
+    <action datetime="2015-07-07T20:59:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Jeffries amendment.</text>
+    </action>
+    <action datetime="2015-07-07T21:04:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Smith (TX) amendment.</text>
+    </action>
+    <action datetime="2015-07-07T21:14:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Speier amendment, pending reservation of a point of order.</text>
+    </action>
+    <action datetime="2015-07-07T21:19:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Rice (SC) amendment, pending reservation of a point of order.</text>
+    </action>
+    <action datetime="2015-07-07T21:22:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Garamendi amendment No. 23.</text>
+    </action>
+    <action datetime="2015-07-07T21:33:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the first Newhouse amendment.</text>
+    </action>
+    <action datetime="2015-07-07T21:43:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Newhouse amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Ms. McCollum demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2015-07-07T21:44:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Garamendi amendment, pending reservation of a point of order.</text>
+    </action>
+    <action datetime="2015-07-07T21:50:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the second Newhouse amendment.</text>
+    </action>
+    <action datetime="2015-07-07T21:59:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson Lee amendment.</text>
+    </action>
+    <action datetime="2015-07-07T22:05:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Yoder amendment.</text>
+    </action>
+    <action datetime="2015-07-07T22:16:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson Lee amendment.</text>
+    </action>
+    <action datetime="2015-07-07T22:22:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Rothfus amendment.</text>
+    </action>
+    <action datetime="2015-07-07T22:33:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson Lee amendment.</text>
+    </action>
+    <action datetime="2015-07-07T22:40:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Weber amendment No. 7.</text>
+    </action>
+    <action datetime="2015-07-07T22:44:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Murphy (FL) amendment.</text>
+    </action>
+    <action datetime="2015-07-07T22:48:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Noem amendment.</text>
+    </action>
+    <action datetime="2015-07-07T22:51:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Rouzer amendment.</text>
+    </action>
+    <action datetime="2015-07-07T22:57:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Rouzer amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Massie demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2015-07-07T22:58:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Hudson amendment.</text>
+    </action>
+    <action datetime="2015-07-07T23:07:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Hudson amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Ms. Pingree demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2015-07-07T23:08:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Hudson amendment.</text>
+    </action>
+    <action datetime="2015-07-07T23:14:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Fitzpatrick amendment.</text>
+    </action>
+    <action datetime="2015-07-07T23:19:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Thompson (PA) amendment.</text>
+    </action>
+    <action datetime="2015-07-07T23:27:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Lamborn amendment.</text>
+    </action>
+    <action datetime="2015-07-07T23:35:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Lamborn amendment.</text>
+    </action>
+    <action datetime="2015-07-07T23:46:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Goodlatte amendment.</text>
+    </action>
+    <action datetime="2015-07-07T23:57:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Goodlatte amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Ms. Edwards demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2015-07-07T23:58:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Black amendment.</text>
+    </action>
+    <action datetime="2015-07-08T00:07:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Mica amendment.</text>
+    </action>
+    <action datetime="2015-07-08T00:12:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Burgess amendment.</text>
+    </action>
+    <action datetime="2015-07-08T00:19:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Westmoreland amendment.</text>
+    </action>
+    <action datetime="2015-07-08T00:30:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Westmoreland amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Ms. McCollum demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2015-07-08T00:31:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Rokita amendment.</text>
+    </action>
+    <action datetime="2015-07-08T00:41:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the LaMalfa amendment.</text>
+    </action>
+    <action datetime="2015-07-08T00:48:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the LaMalfa amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Ms. McCollum demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2015-07-08T00:48:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Graves (LA) amendment.</text>
+    </action>
+    <action datetime="2015-07-08T00:52:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Perry amendment.</text>
+    </action>
+    <action datetime="2015-07-08T01:00:00-04:00">
+      <text>Mr. Calvert moved that the Committee rise.</text>
+    </action>
+    <action datetime="2015-07-08T01:00:00-04:00">
+      <text>On motion that the Committee rise Agreed to by voice vote.</text>
+    </action>
+    <action datetime="2015-07-08T01:00:00-04:00">
+      <text>Committee of the Whole House on the state of the Union rises leaving H.R. 2822 as unfinished business.</text>
+    </action>
+    <action datetime="2015-07-08T14:25:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H4888-4900" label="consideration"/>
+    </action>
+    <action datetime="2015-07-08T14:26:00-04:00">
+      <text>The House resolved into Committee of the Whole House on the state of the Union for further consideration.</text>
+    </action>
+    <action datetime="2015-07-08T15:23:00-04:00">
+      <text>Mr. Calvert moved that the Committee rise.</text>
+    </action>
+    <action datetime="2015-07-08T15:23:00-04:00">
+      <text>On motion that the committee rise Agreed to by voice vote.</text>
+    </action>
+    <action datetime="2015-07-08T15:23:00-04:00">
+      <text>Committee of the Whole House on the state of the Union rises leaving H.R. 2822 as unfinished business.</text>
+    </action>
+    <action datetime="2015-07-08T18:55:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H4935-4943, H4943-4946" label="consideration"/>
+    </action>
+    <action datetime="2015-07-08T18:55:00-04:00">
+      <text>The House resolved into Committee of the Whole House on the state of the Union for further consideration.</text>
+    </action>
+    <action datetime="2015-07-08T18:56:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Ellison amendment.</text>
+    </action>
+    <action datetime="2015-07-08T19:03:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Ellison amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Ellison demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2015-07-08T19:04:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Buck amendment, pending the reservation of a point of order.</text>
+    </action>
+    <action datetime="2015-07-08T19:08:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Buck amendment.</text>
+    </action>
+    <action datetime="2015-07-08T19:14:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Buck amendment.</text>
+    </action>
+    <action datetime="2015-07-08T19:19:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Buck amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Ms. McCollum demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2015-07-08T19:27:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Grothman amendment.</text>
+    </action>
+    <action datetime="2015-07-08T19:34:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Grothman amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Grothman demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2015-07-08T19:34:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Sanford amendment.</text>
+    </action>
+    <action datetime="2015-07-08T19:42:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Sanford amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Sanford demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2015-07-08T19:46:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Palmer amendment.</text>
+    </action>
+    <action datetime="2015-07-08T19:57:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Palmer amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Palmer demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2015-07-08T19:57:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Palmer amendment.</text>
+    </action>
+    <action datetime="2015-07-08T20:06:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Palmer amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Palmer demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2015-07-08T20:07:00-04:00">
+      <text>Mr. Calvert moved that the Committee rise.</text>
+    </action>
+    <action datetime="2015-07-08T20:07:00-04:00">
+      <text>On motion that the Committee rise Agreed to by voice vote.</text>
+    </action>
+    <action datetime="2015-07-08T20:08:00-04:00">
+      <text>Committee of the Whole House on the state of the Union rises leaving H.R. 2822 as unfinished business.</text>
+    </action>
+    <action datetime="2015-07-08T20:08:00-04:00">
+      <text>Considered as unfinished business.</text>
+    </action>
+    <action datetime="2015-07-08T20:09:00-04:00">
+      <text>The House resolved into Committee of the Whole House on the state of the Union for further consideration.</text>
+    </action>
+    <action datetime="2015-07-08T20:29:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Calvert amendment.</text>
+    </action>
+    <action datetime="2015-07-08T20:34:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Calvert amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Ms. McCollum demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2015-07-08T20:36:00-04:00">
+      <text>Mr. Calvert moved that the Committee rise.</text>
+    </action>
+    <action datetime="2015-07-08T20:36:00-04:00">
+      <text>On motion that the Committee rise Agreed to by voice vote.</text>
+    </action>
+    <action datetime="2015-07-08T20:37:00-04:00">
+      <text>Committee of the Whole House on the state of the Union rises leaving H.R. 2822 as unfinished business.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAP" name="House Appropriations" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="hr" number="333"/>
+    <bill relation="rule" session="114" type="hr" number="333"/>
+    <bill relation="unknown" session="114" type="s" number="1645"/>
+  </relatedbills>
+  <subjects>
+    <term name="Economics and public finance"/>
+  </subjects>
+  <amendments>
+    <amendment number="h531"/>
+    <amendment number="h532"/>
+    <amendment number="h533"/>
+    <amendment number="h534"/>
+    <amendment number="h535"/>
+    <amendment number="h536"/>
+    <amendment number="h537"/>
+    <amendment number="h538"/>
+    <amendment number="h539"/>
+    <amendment number="h540"/>
+    <amendment number="h541"/>
+    <amendment number="h542"/>
+    <amendment number="h543"/>
+    <amendment number="h544"/>
+    <amendment number="h545"/>
+    <amendment number="h546"/>
+    <amendment number="h547"/>
+    <amendment number="h548"/>
+    <amendment number="h549"/>
+    <amendment number="h550"/>
+    <amendment number="h551"/>
+    <amendment number="h552"/>
+    <amendment number="h553"/>
+    <amendment number="h554"/>
+    <amendment number="h555"/>
+    <amendment number="h556"/>
+    <amendment number="h557"/>
+    <amendment number="h558"/>
+    <amendment number="h559"/>
+    <amendment number="h560"/>
+    <amendment number="h561"/>
+    <amendment number="h562"/>
+    <amendment number="h563"/>
+    <amendment number="h564"/>
+    <amendment number="h565"/>
+    <amendment number="h566"/>
+    <amendment number="h567"/>
+    <amendment number="h568"/>
+    <amendment number="h569"/>
+    <amendment number="h570"/>
+    <amendment number="h571"/>
+    <amendment number="h572"/>
+    <amendment number="h573"/>
+    <amendment number="h574"/>
+    <amendment number="h575"/>
+    <amendment number="h576"/>
+    <amendment number="h577"/>
+    <amendment number="h578"/>
+    <amendment number="h579"/>
+    <amendment number="h580"/>
+    <amendment number="h581"/>
+    <amendment number="h582"/>
+    <amendment number="h583"/>
+    <amendment number="h584"/>
+    <amendment number="h585"/>
+    <amendment number="h586"/>
+    <amendment number="h587"/>
+    <amendment number="h588"/>
+    <amendment number="h589"/>
+    <amendment number="h590"/>
+    <amendment number="h591"/>
+    <amendment number="h592"/>
+    <amendment number="h593"/>
+    <amendment number="h594"/>
+    <amendment number="h595"/>
+    <amendment number="h596"/>
+    <amendment number="h597"/>
+    <amendment number="h598"/>
+    <amendment number="h599"/>
+    <amendment number="h600"/>
+    <amendment number="h601"/>
+    <amendment number="h602"/>
+    <amendment number="h603"/>
+    <amendment number="h604"/>
+    <amendment number="h605"/>
+    <amendment number="h606"/>
+    <amendment number="h607"/>
+    <amendment number="h608"/>
+    <amendment number="h609"/>
+    <amendment number="h610"/>
+    <amendment number="h611"/>
+    <amendment number="h612"/>
+    <amendment number="h613"/>
+    <amendment number="h614"/>
+    <amendment number="h615"/>
+    <amendment number="h616"/>
+    <amendment number="h617"/>
+    <amendment number="h618"/>
+    <amendment number="h619"/>
+    <amendment number="h620"/>
+    <amendment number="h621"/>
+    <amendment number="h622"/>
+    <amendment number="h623"/>
+    <amendment number="h624"/>
+    <amendment number="h625"/>
+    <amendment number="h626"/>
+    <amendment number="h627"/>
+    <amendment number="h628"/>
+    <amendment number="h629"/>
+    <amendment number="h630"/>
+    <amendment number="h631"/>
+    <amendment number="h632"/>
+    <amendment number="h633"/>
+    <amendment number="h634"/>
+    <amendment number="h635"/>
+    <amendment number="h636"/>
+    <amendment number="h637"/>
+    <amendment number="h643"/>
+    <amendment number="h644"/>
+    <amendment number="h645"/>
+    <amendment number="h646"/>
+    <amendment number="h647"/>
+    <amendment number="h648"/>
+    <amendment number="h649"/>
+    <amendment number="h650"/>
+    <amendment number="h651"/>
+  </amendments>
+  <summary>6/18/2015--Introduced.
+Department of the Interior, Environment, and Related Agencies Appropriations Act, 2016 
+
+Provides FY2016 appropriations for the Department of the Interior, the Environmental Protection Agency, and related agencies.
+
+Provides appropriations to the Department of the Interior for:
+
+ the Bureau of Land Management, the U.S. Fish and Wildlife Service, the National Park Service, the U.S. Geological Survey, the Bureau of Ocean Energy Management, the Bureau of Safety and Environmental Enforcement, the Office of Surface Mining Reclamation and Enforcement, and the Bureau of Indian Affairs and Bureau of Indian Education. Provides appropriations to Interior for Departmental Offices, including the Office of the Secretary, Insular Affairs, the Office of the Solicitor, the Office of Inspector General, and the Office of the Special Trustee for American Indians.
+
+Provides appropriations to Interior for Department-Wide Programs, including Wildland Fire Management, the FLAME Wildfire Suppression Reserve Fund, the Central Hazardous Materials Fund, the Natural Resources Damage Assessment Fund, and the Working Capital Fund.
+
+Provides appropriations to the Environmental Protection Agency.
+
+Provides appropriations to the Department of Agriculture for the Forest Service.
+
+Provides appropriations to the Department of Health and Human Services for the Indian Health Service, the National Institutes of Health for the National Institute of Environmental Health Sciences, and the Agency for Toxic Substances and Disease Registry.
+
+Provides appropriations to:
+
+ the Executive Office of the President for the Council on Environmental Quality and the Office of Environmental Quality; the Chemical Safety and Hazard Investigation Board; the Office of Navajo and Hopi Indian Relocation; the Institute of American Indian and Alaska Native Culture and Arts Development; the Smithsonian Institution; the National Gallery of Art; the John F. Kennedy Center for the Performing Arts; the Woodrow Wilson International Center for Scholars; the National Foundation on the Arts and Humanities, including the National Endowment for the Arts and the National Endowment for the Humanities; the Commission of Fine Arts; the Advisory Council on Historic Preservation; the National Capital Planning Commission; and the U.S. Holocaust Memorial Museum. Sets forth permissible, restricted, and prohibited uses for funds provided by this and other appropriations Acts. Rescinds specified amounts previously appropriated to agencies funded in this bill.</summary>
+</bill>

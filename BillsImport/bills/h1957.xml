@@ -1,0 +1,60 @@
+<bill session="114" type="h" number="1957" updated="2015-08-22T06:35:39-04:00">
+  <state datetime="2015-04-22">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-22"/>
+  </status>
+  <introduced datetime="2015-04-22"/>
+  <titles>
+    <title type="short" as="introduced">Pell Grant Cost of Tuition Adjustment Act</title>
+    <title type="official" as="introduced">To improve the Federal Pell Grant program, and for other purposes.</title>
+  </titles>
+  <sponsor id="400179"/>
+  <cosponsors>
+    <cosponsor id="400616" joined="2015-04-22"/>
+    <cosponsor id="412379" joined="2015-04-22"/>
+    <cosponsor id="400618" joined="2015-04-30"/>
+    <cosponsor id="400657" joined="2015-04-29"/>
+    <cosponsor id="400093" joined="2015-04-29"/>
+    <cosponsor id="400100" joined="2015-04-30"/>
+    <cosponsor id="412327" joined="2015-04-22"/>
+    <cosponsor id="400160" joined="2015-04-29"/>
+    <cosponsor id="400162" joined="2015-04-30"/>
+    <cosponsor id="400163" joined="2015-04-30"/>
+    <cosponsor id="400204" joined="2015-04-29"/>
+    <cosponsor id="400218" joined="2015-04-22"/>
+    <cosponsor id="400271" joined="2015-04-29"/>
+    <cosponsor id="400290" joined="2015-04-29"/>
+    <cosponsor id="412312" joined="2015-04-30"/>
+    <cosponsor id="400355" joined="2015-04-22"/>
+    <cosponsor id="400364" joined="2015-04-22"/>
+    <cosponsor id="412396" joined="2015-04-29"/>
+    <cosponsor id="412186" joined="2015-04-30"/>
+    <cosponsor id="412626" joined="2015-06-16"/>
+    <cosponsor id="412522" joined="2015-04-30"/>
+    <cosponsor id="412580" joined="2015-04-29"/>
+    <cosponsor id="400416" joined="2015-04-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-22" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="1061"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Education programs funding"/>
+    <term name="Higher education"/>
+    <term name="Inflation and prices"/>
+    <term name="Student aid and college costs"/>
+  </subjects>
+  <amendments/>
+  <summary>4/22/2015--Introduced.
+Pell Grant Cost of Tuition Adjustment Act
+
+This bill amends title IV (Student Assistance) of the Higher Education Act of 1965 to set the maximum Pell Grant at a specified amount, increased for inflation each year, plus any additional amount specified in the last enacted appropriation Act.</summary>
+</bill>

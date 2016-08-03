@@ -1,0 +1,40 @@
+<bill session="114" type="h" number="2919" updated="2015-08-15T06:43:48-04:00">
+  <state datetime="2015-06-25">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-25"/>
+  </status>
+  <introduced datetime="2015-06-25"/>
+  <titles>
+    <title type="official" as="introduced">To authorize 2 additional district judgeships for the district of Colorado.</title>
+  </titles>
+  <sponsor id="400101"/>
+  <cosponsors>
+    <cosponsor id="412619" joined="2015-07-07"/>
+    <cosponsor id="412271" joined="2015-06-25"/>
+    <cosponsor id="412191" joined="2015-06-25"/>
+    <cosponsor id="412192" joined="2015-06-25"/>
+    <cosponsor id="412308" joined="2015-06-25"/>
+    <cosponsor id="412405" joined="2015-06-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-25" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-07-09">
+      <text>Referred to the Subcommittee on Courts, Intellectual Property, and the Internet.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU03" subcommittee="Courts, Intellectual Property, and the Internet" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1962"/>
+  </relatedbills>
+  <subjects>
+    <term name="Law"/>
+  </subjects>
+  <amendments/>
+  <summary>6/25/2015--Introduced.
+Requires the President to appoint, with the advice and consent of the Senate,&#160;two additional district judges for the district of Colorado.</summary>
+</bill>

@@ -1,0 +1,44 @@
+<bill session="114" type="h" number="1433" updated="2015-05-09T06:33:12-04:00">
+  <state datetime="2015-03-18">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-18"/>
+  </status>
+  <introduced datetime="2015-03-18"/>
+  <titles>
+    <title type="short" as="introduced">Supermarket Tax Credit for Underserved Areas Act</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to provide tax incentives for the establishment of supermarkets in certain underserved areas.</title>
+  </titles>
+  <sponsor id="412236"/>
+  <cosponsors>
+    <cosponsor id="412221" joined="2015-03-18"/>
+    <cosponsor id="400080" joined="2015-03-18"/>
+    <cosponsor id="400162" joined="2015-03-18"/>
+    <cosponsor id="412199" joined="2015-03-19"/>
+    <cosponsor id="412595" joined="2015-03-18"/>
+    <cosponsor id="412638" joined="2015-03-18"/>
+    <cosponsor id="400661" joined="2015-03-18"/>
+    <cosponsor id="400295" joined="2015-03-18"/>
+    <cosponsor id="412318" joined="2015-04-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-18">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E363"/>
+    </action>
+    <action datetime="2015-03-18" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+  <summary>3/18/2015--Introduced.
+Supermarket Tax Credit for Underserved Areas Act 
+
+ Amends the Internal Revenue Code to: (1) increase the rate of the rehabilitation tax credit for a supermarket building placed in service after December 31, 2015, and before January 1, 2018, in an underserved area (i.e., any enterprise community or empowerment zone and any renewal community); (2) increase by $1,000 the the limit on wages eligible for the work opportunity tax credit for employees of a supermarket located in an underserved area; and (3) allow a business-related tax credit for 15% of the gross receipts from the retail sale of locally-grown fresh fruits and vegetables in a supermarket in an underserved area.</summary>
+</bill>

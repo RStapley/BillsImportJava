@@ -1,0 +1,57 @@
+<bill session="114" type="s" number="1214" updated="2015-08-07T04:47:37-04:00">
+  <state datetime="2015-05-06">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-06"/>
+  </status>
+  <introduced datetime="2015-05-06"/>
+  <titles>
+    <title type="short" as="introduced">John Rainey Memorial Safeguard American Food Exports (SAFE) Act</title>
+    <title type="official" as="introduced">A bill to prevent human health threats posed by the consumption of equines raised in the United States.</title>
+  </titles>
+  <sponsor id="400272"/>
+  <cosponsors>
+    <cosponsor id="400013" joined="2015-05-13"/>
+    <cosponsor id="412490" joined="2015-07-21"/>
+    <cosponsor id="412598" joined="2015-05-21"/>
+    <cosponsor id="300011" joined="2015-06-03"/>
+    <cosponsor id="300019" joined="2015-05-14"/>
+    <cosponsor id="300025" joined="2015-05-06"/>
+    <cosponsor id="412390" joined="2015-05-13"/>
+    <cosponsor id="300043" joined="2015-05-18"/>
+    <cosponsor id="412223" joined="2015-07-21"/>
+    <cosponsor id="300047" joined="2015-05-06"/>
+    <cosponsor id="412281" joined="2015-05-21"/>
+    <cosponsor id="400222" joined="2015-05-18"/>
+    <cosponsor id="300065" joined="2015-05-20"/>
+    <cosponsor id="400253" joined="2015-07-14"/>
+    <cosponsor id="300073" joined="2015-05-06"/>
+    <cosponsor id="412305" joined="2015-05-18"/>
+    <cosponsor id="300081" joined="2015-05-13"/>
+    <cosponsor id="400357" joined="2015-06-15"/>
+    <cosponsor id="300087" joined="2015-08-06"/>
+    <cosponsor id="412323" joined="2015-05-13"/>
+    <cosponsor id="400413" joined="2015-06-11"/>
+    <cosponsor id="412542" joined="2015-07-27"/>
+    <cosponsor id="412247" joined="2015-05-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1942"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Food supply, safety, and labeling"/>
+    <term name="Health"/>
+    <term name="Mammals"/>
+    <term name="Meat"/>
+    <term name="Trade restrictions"/>
+  </subjects>
+  <amendments/>
+</bill>

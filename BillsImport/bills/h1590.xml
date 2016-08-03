@@ -1,0 +1,66 @@
+<bill session="114" type="h" number="1590" updated="2015-06-12T04:52:00-04:00">
+  <state datetime="2015-03-24">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-24"/>
+  </status>
+  <introduced datetime="2015-03-24"/>
+  <titles>
+    <title type="short" as="introduced">Integrated Electronic Health Records (iEHR) for Military and Veterans Act</title>
+    <title type="official" as="introduced">To establish a prize program to award a prize and contract for the development of a fully-integrated electronic health records program for use by the Department of Defense and the Department of Veterans Affairs.</title>
+  </titles>
+  <sponsor id="412310"/>
+  <cosponsors>
+    <cosponsor id="400068" joined="2015-04-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-24" state="REFERRED">
+      <text>Referred to the Committee on Armed Services, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-03-24">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2015-03-24">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2015-04-07">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2015-06-11">
+      <text>Subcommittee on Health Discharged.</text>
+    </action>
+    <action datetime="2015-06-11">
+      <text>Referred to the Subcommittee on Oversight and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral, Discharged" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+    <committee activity="Referral" code="HSVR08" subcommittee="Oversight and Investigations" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Advanced technology and technological innovations"/>
+    <term name="Computers and information technology"/>
+    <term name="Department of Defense"/>
+    <term name="Department of Veterans Affairs"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Government information and archives"/>
+    <term name="Health information and medical records"/>
+    <term name="Intellectual property"/>
+    <term name="Military medicine"/>
+    <term name="Military procurement, research, weapons development"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Research administration and funding"/>
+    <term name="Research and development"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>3/24/2015--Introduced.
+Integrated Electronic Health Records (iEHR) for Military and Veterans Act - Directs the Secretaries of Defense (DOD) and Veterans Affairs (VA) to jointly carry out a program to award a cash prize ($50 million) and contract to an entity that develops a fully-integrated electronic health records program for national use by DOD and VA. Directs the Secretaries to: (1) widely advertise the prize competitions and announce each one in the Federal Register, and (2) create a joint panel to establish criteria for the program's development.
+
+ Requires the prize recipient to be awarded a contract with DOD and VA to provide the program, including maintenance and support, and to be compensated at $25 million per year for five years. Reverts to the federal government, after such period, any intellectual property developed under the contract.
+
+Authorizes the Secretaries to require competition participants to waive claims against the federal government (except for willful conduct) arising from such participation. Requires participants to obtain liability insurance.</summary>
+</bill>

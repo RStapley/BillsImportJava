@@ -1,0 +1,28 @@
+<bill session="114" type="s" number="1406" updated="2015-08-01T07:03:57-04:00">
+  <state datetime="2015-05-20">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-20"/>
+  </status>
+  <introduced datetime="2015-05-20"/>
+  <titles>
+    <title type="short" as="introduced">Saving Access to Compounded Medications for Special Needs Patients Act</title>
+    <title type="official" as="introduced">A bill to amend the Federal Food, Drug, and Cosmetic Act with respect to pharmacy compounding.</title>
+  </titles>
+  <sponsor id="400418"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-05-20" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Drug safety, medical device, and laboratory regulation"/>
+    <term name="Prescription drugs"/>
+  </subjects>
+  <amendments/>
+</bill>

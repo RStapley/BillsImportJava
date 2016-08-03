@@ -1,0 +1,61 @@
+<bill session="114" type="s" number="1376" updated="2015-06-13T06:56:15-04:00">
+  <state datetime="2015-05-19">REPORTED</state>
+  <status>
+    <unknown datetime="2015-05-19"/>
+  </status>
+  <introduced datetime="2015-05-19"/>
+  <titles>
+    <title type="short" as="introduced">National Defense Authorization Act for Fiscal Year 2016</title>
+    <title type="short" as="introduced" partial="1">Military Construction Authorization Act for Fiscal Year 2016</title>
+    <title type="short" as="reported to senate">National Defense Authorization Act for Fiscal Year 2016</title>
+    <title type="short" as="reported to senate" partial="1">Military Construction Authorization Act for Fiscal Year 2016</title>
+    <title type="official" as="introduced">An original bill to authorize appropriations for fiscal year 2016 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes.</title>
+  </titles>
+  <sponsor id="300071"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-05-19">
+      <text>Committee on Armed Services. Original measure reported to Senate by Senator McCain. With written report No. 114-49. Additional views filed.</text>
+    </action>
+    <calendar datetime="2015-05-19" state="REPORTED" calendar="Senate Legislative" under="General Orders" number="88">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 88.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSAS" name="Senate Armed Services" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="401"/>
+    <bill relation="unknown" session="114" type="h" number="1735"/>
+    <bill relation="unknown" session="114" type="s" number="165"/>
+    <bill relation="unknown" session="114" type="s" number="1266"/>
+    <bill relation="unknown" session="114" type="s" number="1290"/>
+    <bill relation="unknown" session="114" type="s" number="1292"/>
+    <bill relation="unknown" session="114" type="s" number="1313"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Defense spending"/>
+    <term name="Department of Defense"/>
+    <term name="Department of Energy"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Military facilities and property"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Nuclear weapons"/>
+  </subjects>
+  <amendments/>
+  <summary>5/19/2015--Introduced.
+National Defense Authorization Act for Fiscal Year 2016 
+
+This bill authorizes FY2016 appropriations and sets forth policies regarding the military activities of the Department of Defense (DOD), military construction, and the defense activities of the Department of Energy (DOE). The bill authorizes appropriations, but does not provide appropriations, which are considered in subsequent appropriations legislation.
+
+The bill authorizes appropriations to DOD for: Procurement; Research, Development, Test, and Evaluation; Operation and Maintenance; the Revolving and Working Capital Funds; and Overseas Contingency Operations.
+
+The bill also authorizes the FY2016 personnel strengths for active duty and reserve forces and sets forth policies regarding: military personnel; compensation and other personnel benefits; health care; acquisition policy and management; DOD organization and management; civilian personnel matters; matters relating to foreign nations; cooperative threat reduction; and strategic programs, cyber, and intelligence matters.
+
+The bill authorizes appropriations and sets forth policies for DOE national security programs, including the National Nuclear Security Administration.
+
+Military Construction Authorization Act for Fiscal Year 2016 
+
+The bill authorizes appropriations and sets forth policies regarding military construction for the Army, Navy, Air Force, defense agencies, the North Atlantic Treaty Organization Security Investment Program, and Guard and Reserve Forces facilities. The bill also authorizes appropriations for base realignment and closure activities.</summary>
+</bill>

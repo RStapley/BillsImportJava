@@ -1,0 +1,86 @@
+<bill session="114" type="h" number="1180" updated="2015-06-11T04:47:16-04:00">
+  <state datetime="2015-02-27">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-27"/>
+  </status>
+  <introduced datetime="2015-02-27"/>
+  <titles>
+    <title type="short" as="introduced">Protecting 2nd Amendment Rights Act of 2015</title>
+    <title type="official" as="introduced">To prohibit the Government of the United States from issuing or enforcing a new restriction or prohibition on the manufacture, importation, or sale in the United States of ammunition.</title>
+  </titles>
+  <sponsor id="412311"/>
+  <cosponsors>
+    <cosponsor id="412625" joined="2015-03-10"/>
+    <cosponsor id="412655" joined="2015-03-10"/>
+    <cosponsor id="412478" joined="2015-03-16"/>
+    <cosponsor id="412395" joined="2015-03-10"/>
+    <cosponsor id="412619" joined="2015-03-10"/>
+    <cosponsor id="412427" joined="2015-03-25"/>
+    <cosponsor id="400052" joined="2015-03-10"/>
+    <cosponsor id="412601" joined="2015-03-25"/>
+    <cosponsor id="400068" joined="2015-03-04"/>
+    <cosponsor id="412513" joined="2015-03-16"/>
+    <cosponsor id="412400" joined="2015-03-10"/>
+    <cosponsor id="412482" joined="2015-03-04"/>
+    <cosponsor id="412479" joined="2015-03-16"/>
+    <cosponsor id="412397" joined="2015-03-04"/>
+    <cosponsor id="412661" joined="2015-03-10"/>
+    <cosponsor id="412444" joined="2015-03-10"/>
+    <cosponsor id="412623" joined="2015-03-04"/>
+    <cosponsor id="412437" joined="2015-03-10"/>
+    <cosponsor id="412284" joined="2015-03-10"/>
+    <cosponsor id="400209" joined="2015-03-04"/>
+    <cosponsor id="412290" joined="2015-03-10"/>
+    <cosponsor id="412624" joined="2015-03-04"/>
+    <cosponsor id="400247" joined="2015-03-10"/>
+    <cosponsor id="412540" joined="2015-03-04"/>
+    <cosponsor id="400273" joined="2015-03-04"/>
+    <cosponsor id="400279" joined="2015-06-10"/>
+    <cosponsor id="412568" joined="2015-03-04"/>
+    <cosponsor id="400441" joined="2015-03-04"/>
+    <cosponsor id="412309" joined="2015-03-10"/>
+    <cosponsor id="412572" joined="2015-03-10"/>
+    <cosponsor id="412483" joined="2015-03-10"/>
+    <cosponsor id="412394" joined="2015-03-10"/>
+    <cosponsor id="400341" joined="2015-03-10"/>
+    <cosponsor id="412426" joined="2015-03-10"/>
+    <cosponsor id="412411" joined="2015-03-10"/>
+    <cosponsor id="412641" joined="2015-03-10"/>
+    <cosponsor id="412417" joined="2015-03-10"/>
+    <cosponsor id="400367" joined="2015-03-04"/>
+    <cosponsor id="412217" joined="2015-03-10"/>
+    <cosponsor id="412392" joined="2015-03-10"/>
+    <cosponsor id="412515" joined="2015-03-10"/>
+    <cosponsor id="412574" joined="2015-03-10"/>
+    <cosponsor id="412610" joined="2015-03-04"/>
+    <cosponsor id="412578" joined="2015-03-10"/>
+    <cosponsor id="412255" joined="2015-03-10"/>
+    <cosponsor id="412525" joined="2015-03-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-27" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-03-31">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Firearms and explosives"/>
+    <term name="Manufacturing"/>
+    <term name="Retail and wholesale trades"/>
+    <term name="Trade restrictions"/>
+  </subjects>
+  <amendments/>
+  <summary>2/27/2015--Introduced.
+Protecting 2nd Amendment Rights Act of 2015 
+
+This bill prohibits any government entity from issuing or enforcing a regulation, or taking any other action, that would restrict or prohibit the manufacture, importation, or sale in the United States of any ammunition that is not subject to the restriction or prohibition.</summary>
+</bill>

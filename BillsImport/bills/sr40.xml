@@ -1,0 +1,60 @@
+<bill session="114" type="sr" number="40" updated="2015-02-24T04:46:19-05:00">
+  <state datetime="2015-01-26">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-26"/>
+  </status>
+  <introduced datetime="2015-01-26"/>
+  <titles>
+    <title type="official" as="introduced">A resolution expressing the sense of the Senate regarding efforts by the United States and others to prevent Iran from developing a nuclear weapon.</title>
+  </titles>
+  <sponsor id="300043"/>
+  <cosponsors>
+    <cosponsor id="400013" joined="2015-02-05"/>
+    <cosponsor id="300019" joined="2015-01-26"/>
+    <cosponsor id="300038" joined="2015-01-26"/>
+    <cosponsor id="412378" joined="2015-01-26"/>
+    <cosponsor id="412281" joined="2015-01-26"/>
+    <cosponsor id="412545" joined="2015-01-26"/>
+    <cosponsor id="300065" joined="2015-01-26"/>
+    <cosponsor id="412325" joined="2015-01-26"/>
+    <cosponsor id="412194" joined="2015-01-26"/>
+    <cosponsor id="412507" joined="2015-02-09"/>
+    <cosponsor id="412244" joined="2015-01-26"/>
+    <cosponsor id="412542" joined="2015-02-23"/>
+    <cosponsor id="412247" joined="2015-01-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-26" state="REFERRED">
+      <text>Referred to the Committee on Foreign Relations.</text>
+      <reference ref="CR S468-469" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Arms control and nonproliferation"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="Human rights"/>
+    <term name="International law and treaties"/>
+    <term name="International monetary system and foreign exchange"/>
+    <term name="Iran"/>
+    <term name="Middle East"/>
+    <term name="Nuclear weapons"/>
+    <term name="Sanctions"/>
+    <term name="Trade restrictions"/>
+  </subjects>
+  <amendments/>
+  <summary>1/26/2015--Introduced.
+Reaffirms that it is U.S. policy that Iran will not be allowed to develop a nuclear weapon and that all instruments of U.S. power and influence must remain on the table to prevent this outcome.
+
+ Supports the diplomatic efforts of the United States and the members of the P5+1 countries to reach a comprehensive agreement with Iran that prevents Iran from acquiring a nuclear weapon.
+
+ Affirms that Senate support for the reimposition of suspended sanctions as well as the imposition of additional sanctions against Iran would be strong if: (1) negotiations fail to achieve a comprehensive agreement, (2) Iran violates the Joint Plan of Action, or (3) Iran violates any final comprehensive agreement on its nuclear program.
+
+Agrees that future new sanctions against Iran may include measures further targeting Iran's energy, financial, and strategic economic sectors, and its foreign currency transactions, as well as the designation of additional government officials linked to its illicit nuclear program and sanctions evasion.
+
+ Supports the universal rights and democratic aspirations of the people of Iran.</summary>
+</bill>

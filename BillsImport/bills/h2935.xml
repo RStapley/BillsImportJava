@@ -1,0 +1,34 @@
+<bill session="114" type="h" number="2935" updated="2015-07-14T04:48:00-04:00">
+  <state datetime="2015-06-25">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-25"/>
+  </status>
+  <introduced datetime="2015-06-25"/>
+  <titles>
+    <title type="short" as="introduced">Disabled Veterans Red Tape Reduction Act</title>
+    <title type="official" as="introduced">To provide for a five-year extension of the authority of the Secretary of Veterans Affairs to provide for the conduct of medical disability examinations by contract physicians.</title>
+  </titles>
+  <sponsor id="412562"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-06-25" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2015-07-10">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR09" subcommittee="Disability Assistance and Memorial Affairs" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <summary>6/25/2015--Introduced.
+Disabled Veterans Red Tape Reduction Act
+
+Amends the Veterans Benefits Act of 2003 to extend through 2018 Department of Veterans Affairs authority for the performance of medical disability evaluations by contract physicians.</summary>
+</bill>

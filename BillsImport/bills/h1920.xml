@@ -1,0 +1,44 @@
+<bill session="114" type="h" number="1920" updated="2015-08-05T04:47:15-04:00">
+  <state datetime="2015-04-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-21"/>
+  </status>
+  <introduced datetime="2015-04-21"/>
+  <titles>
+    <title type="official" as="introduced">To require the Secretary of State to provide relevant Foreign Service officers with training related to medical graduates in the countries in which such officers are serving, and for other purposes.</title>
+  </titles>
+  <sponsor id="412560"/>
+  <cosponsors>
+    <cosponsor id="412604" joined="2015-06-12"/>
+    <cosponsor id="412639" joined="2015-04-21"/>
+    <cosponsor id="412276" joined="2015-08-04"/>
+    <cosponsor id="400199" joined="2015-05-19"/>
+    <cosponsor id="412468" joined="2015-06-17"/>
+    <cosponsor id="400371" joined="2015-05-18"/>
+    <cosponsor id="412514" joined="2015-06-23"/>
+    <cosponsor id="412636" joined="2015-07-29"/>
+    <cosponsor id="412574" joined="2015-07-29"/>
+    <cosponsor id="412211" joined="2015-06-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-21" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1921"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Department of State"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Medical education"/>
+  </subjects>
+  <amendments/>
+  <summary>4/21/2015--Introduced.
+The Secretary of State shall provide appropriate Foreign Service officers with training related to medical graduates and medical graduate programs in the countries in which they are serving.</summary>
+</bill>

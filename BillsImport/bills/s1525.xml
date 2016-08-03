@@ -1,0 +1,31 @@
+<bill session="114" type="s" number="1525" updated="2015-06-27T07:32:01-04:00">
+  <state datetime="2015-06-08">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-08"/>
+  </status>
+  <introduced datetime="2015-06-08"/>
+  <titles>
+    <title type="official" as="introduced">A bill to block any action from being taken to finalize or give effect to a certain proposed rule governing the Federal child support enforcement program.</title>
+  </titles>
+  <sponsor id="300052"/>
+  <cosponsors>
+    <cosponsor id="300027" joined="2015-06-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-08" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="2688"/>
+  </relatedbills>
+  <subjects>
+    <term name="Families"/>
+  </subjects>
+  <amendments/>
+  <summary>6/8/2015--Introduced.
+The Department of Health and Human Services may not take any action to finalize, implement, enforce, or otherwise give effect to the proposed rule entitled "Flexibility, Efficiency, and Modernization in Child Support Enforcement Programs" or any proposal set forth in the proposed rule.</summary>
+</bill>

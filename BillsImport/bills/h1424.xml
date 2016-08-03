@@ -1,0 +1,69 @@
+<bill session="114" type="h" number="1424" updated="2015-07-30T04:48:38-04:00">
+  <state datetime="2015-03-18">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-18"/>
+  </status>
+  <introduced datetime="2015-03-18"/>
+  <titles>
+    <title type="short" as="introduced">Infection Reduction Labeling Act</title>
+    <title type="official" as="introduced">To amend the Federal Insecticide, Fungicide, and Rodenticide Act to allow the marketing, distribution, or sale of solid antimicrobial copper alloys with certain claims, to amend the Federal Food, Drug, and Cosmetic Act to exclude certain solid antimicrobial copper alloys from regulation as drugs or devices, and for other purposes.</title>
+  </titles>
+  <sponsor id="412256"/>
+  <cosponsors>
+    <cosponsor id="412478" joined="2015-06-01"/>
+    <cosponsor id="412627" joined="2015-06-09"/>
+    <cosponsor id="412629" joined="2015-05-18"/>
+    <cosponsor id="412652" joined="2015-07-29"/>
+    <cosponsor id="412395" joined="2015-07-21"/>
+    <cosponsor id="412400" joined="2015-06-09"/>
+    <cosponsor id="412420" joined="2015-06-16"/>
+    <cosponsor id="412524" joined="2015-05-18"/>
+    <cosponsor id="412479" joined="2015-06-02"/>
+    <cosponsor id="412566" joined="2015-07-29"/>
+    <cosponsor id="400644" joined="2015-07-13"/>
+    <cosponsor id="400285" joined="2015-03-18"/>
+    <cosponsor id="412306" joined="2015-04-21"/>
+    <cosponsor id="412202" joined="2015-07-13"/>
+    <cosponsor id="409888" joined="2015-06-01"/>
+    <cosponsor id="400627" joined="2015-06-09"/>
+    <cosponsor id="412211" joined="2015-03-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-18" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-03-18">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-03-18">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2015-03-20">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2015-04-08">
+      <text>Referred to the Subcommittee on Biotechnology, Horticulture, and Research.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee activity="Referral" code="HSAG14" subcommittee="Biotechnology, Horticulture, and Research" name="House Agriculture"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+  </subjects>
+  <amendments/>
+  <summary>3/18/2015--Introduced.
+Infection Reduction Labeling Act
+
+This bill amends the Federal Insecticide, Fungicide, and Rodenticide Act (FIFRA) to authorize solid antimicrobial copper alloys, and products made from such alloys, to be marketed, distributed, or sold with labels about their infection reduction and control efficacy if the antimicrobial claims made on the label are consistent with the results of federally-funded clinical trials finding: (1) greater than 25% reductions in infection rate or 50% reductions in microbial burden, or (2) statistically significant reductions in infection rate or microbial burden.
+
+Requirements to submit or review efficacy data related to the antimicrobial claims are waived for these alloys if the claims are consistent with the results of the trials.
+
+An alternative process to modify the labeling of an alloy may be used in lieu of the current process.
+
+This bill amends the Federal Food, Drug, and Cosmetic Act to exclude a product that is made from the alloy and has the antimicrobial labeling from regulation and treatment as a drug or device.</summary>
+</bill>

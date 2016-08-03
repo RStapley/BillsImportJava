@@ -1,0 +1,126 @@
+<bill session="114" type="h" number="1600" updated="2015-07-23T04:48:15-04:00">
+  <state datetime="2015-03-25">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-25"/>
+  </status>
+  <introduced datetime="2015-03-25"/>
+  <titles>
+    <title type="short" as="introduced">Patients' Access to Treatments Act of 2015</title>
+    <title type="official" as="introduced">To amend title XXVII of the Public Health Service Act to limit co-payment, coinsurance, or other cost-sharing requirements applicable to prescription drugs in a specialty drug tier to the dollar amount (or its equivalent) of such requirements applicable to prescription drugs in a non-preferred brand drug tier, and for other purposes.</title>
+  </titles>
+  <sponsor id="412487"/>
+  <cosponsors>
+    <cosponsor id="412500" joined="2015-04-30"/>
+    <cosponsor id="412469" joined="2015-04-21"/>
+    <cosponsor id="412565" joined="2015-05-18"/>
+    <cosponsor id="412657" joined="2015-03-25"/>
+    <cosponsor id="400033" joined="2015-03-25"/>
+    <cosponsor id="412501" joined="2015-04-21"/>
+    <cosponsor id="412516" joined="2015-03-25"/>
+    <cosponsor id="400616" joined="2015-03-25"/>
+    <cosponsor id="400062" joined="2015-03-25"/>
+    <cosponsor id="412258" joined="2015-03-25"/>
+    <cosponsor id="412571" joined="2015-03-25"/>
+    <cosponsor id="412379" joined="2015-06-10"/>
+    <cosponsor id="412470" joined="2015-05-12"/>
+    <cosponsor id="412600" joined="2015-03-25"/>
+    <cosponsor id="412221" joined="2015-05-14"/>
+    <cosponsor id="412236" joined="2015-03-25"/>
+    <cosponsor id="412658" joined="2015-04-14"/>
+    <cosponsor id="412272" joined="2015-06-10"/>
+    <cosponsor id="400086" joined="2015-05-20"/>
+    <cosponsor id="400090" joined="2015-04-21"/>
+    <cosponsor id="400097" joined="2015-03-25"/>
+    <cosponsor id="400100" joined="2015-03-25"/>
+    <cosponsor id="400111" joined="2015-03-25"/>
+    <cosponsor id="400114" joined="2015-04-21"/>
+    <cosponsor id="400124" joined="2015-03-25"/>
+    <cosponsor id="412524" joined="2015-07-22"/>
+    <cosponsor id="400129" joined="2015-03-25"/>
+    <cosponsor id="400646" joined="2015-03-25"/>
+    <cosponsor id="400142" joined="2015-04-21"/>
+    <cosponsor id="412532" joined="2015-03-25"/>
+    <cosponsor id="412382" joined="2015-03-25"/>
+    <cosponsor id="412276" joined="2015-04-28"/>
+    <cosponsor id="400162" joined="2015-06-10"/>
+    <cosponsor id="412280" joined="2015-03-25"/>
+    <cosponsor id="400170" joined="2015-03-25"/>
+    <cosponsor id="412446" joined="2015-03-25"/>
+    <cosponsor id="400641" joined="2015-03-25"/>
+    <cosponsor id="412511" joined="2015-04-14"/>
+    <cosponsor id="400195" joined="2015-03-25"/>
+    <cosponsor id="400199" joined="2015-04-14"/>
+    <cosponsor id="412199" joined="2015-03-25"/>
+    <cosponsor id="412603" joined="2015-03-25"/>
+    <cosponsor id="412435" joined="2015-03-25"/>
+    <cosponsor id="412546" joined="2015-04-14"/>
+    <cosponsor id="400219" joined="2015-04-23"/>
+    <cosponsor id="412286" joined="2015-05-20"/>
+    <cosponsor id="412557" joined="2015-05-12"/>
+    <cosponsor id="412290" joined="2015-05-18"/>
+    <cosponsor id="400230" joined="2015-03-25"/>
+    <cosponsor id="400237" joined="2015-06-24"/>
+    <cosponsor id="412616" joined="2015-05-14"/>
+    <cosponsor id="412209" joined="2015-03-25"/>
+    <cosponsor id="400245" joined="2015-04-14"/>
+    <cosponsor id="412558" joined="2015-03-25"/>
+    <cosponsor id="412293" joined="2015-04-21"/>
+    <cosponsor id="412562" joined="2015-03-25"/>
+    <cosponsor id="400663" joined="2015-05-14"/>
+    <cosponsor id="400259" joined="2015-06-10"/>
+    <cosponsor id="400263" joined="2015-03-25"/>
+    <cosponsor id="400285" joined="2015-05-12"/>
+    <cosponsor id="400289" joined="2015-03-25"/>
+    <cosponsor id="400290" joined="2015-07-08"/>
+    <cosponsor id="408211" joined="2015-03-25"/>
+    <cosponsor id="400295" joined="2015-03-25"/>
+    <cosponsor id="412506" joined="2015-03-25"/>
+    <cosponsor id="412192" joined="2015-04-28"/>
+    <cosponsor id="412523" joined="2015-03-25"/>
+    <cosponsor id="412307" joined="2015-03-25"/>
+    <cosponsor id="412585" joined="2015-04-14"/>
+    <cosponsor id="400326" joined="2015-03-25"/>
+    <cosponsor id="412331" joined="2015-03-25"/>
+    <cosponsor id="400333" joined="2015-03-25"/>
+    <cosponsor id="400347" joined="2015-04-14"/>
+    <cosponsor id="400352" joined="2015-03-25"/>
+    <cosponsor id="400361" joined="2015-03-25"/>
+    <cosponsor id="400363" joined="2015-03-25"/>
+    <cosponsor id="400365" joined="2015-04-21"/>
+    <cosponsor id="400378" joined="2015-03-25"/>
+    <cosponsor id="400380" joined="2015-03-25"/>
+    <cosponsor id="412520" joined="2015-04-14"/>
+    <cosponsor id="400402" joined="2015-03-25"/>
+    <cosponsor id="412318" joined="2015-03-25"/>
+    <cosponsor id="412319" joined="2015-03-25"/>
+    <cosponsor id="412254" joined="2015-03-25"/>
+    <cosponsor id="400415" joined="2015-05-12"/>
+    <cosponsor id="412214" joined="2015-03-25"/>
+    <cosponsor id="412255" joined="2015-04-14"/>
+    <cosponsor id="400440" joined="2015-03-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-25" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-03-27">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Prescription drugs"/>
+  </subjects>
+  <amendments/>
+  <summary>3/25/2015--Introduced.
+Patients' Access to Treatments Act of 2015
+
+Amends the Public Health Service Act to establish cost-sharing limits for health plans that cover prescription drugs and use a formulary or other tiered cost-sharing structure. Prohibits such a health plan from imposing higher cost-sharing requirements, including co-payment and co-insurance, for specialty drugs than for other prescription drugs in a non-preferred brand drug tier. Applies the non-preferred brand drug tier for which beneficiary cost-sharing is lowest, if a formulary used by the health plan contains more than one non-preferred brand drug tier.</summary>
+</bill>

@@ -1,0 +1,30 @@
+<bill session="114" type="h" number="2993" updated="2015-07-25T04:47:11-04:00">
+  <state datetime="2015-07-09">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-09"/>
+  </status>
+  <introduced datetime="2015-07-09"/>
+  <titles>
+    <title type="short" as="introduced">Water Recycling Acceleration Act of 2015</title>
+    <title type="official" as="introduced">To amend the Reclamation Wastewater and Groundwater Study and Facilities Act to authorize funding for water recycling projects in areas experiencing severe, extreme, or exceptional drought, and for other purposes.</title>
+  </titles>
+  <sponsor id="400663"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-09" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2015-07-24">
+      <text>Referred to the Subcommittee on Water, Power and Oceans.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII13" subcommittee="Water, Power and Oceans" name="House Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Water resources development"/>
+  </subjects>
+  <amendments/>
+</bill>

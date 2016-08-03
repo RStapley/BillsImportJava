@@ -1,0 +1,64 @@
+<bill session="114" type="h" number="1736" updated="2015-07-30T04:48:56-04:00">
+  <state datetime="2015-04-13">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-13"/>
+  </status>
+  <introduced datetime="2015-04-13"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Clean Air Act with respect to the ethanol waiver for the Reid vapor pressure limitations under such Act.</title>
+  </titles>
+  <sponsor id="412217"/>
+  <cosponsors>
+    <cosponsor id="412642" joined="2015-05-19"/>
+    <cosponsor id="412627" joined="2015-05-13"/>
+    <cosponsor id="412629" joined="2015-07-16"/>
+    <cosponsor id="412619" joined="2015-04-13"/>
+    <cosponsor id="412427" joined="2015-06-15"/>
+    <cosponsor id="412537" joined="2015-04-28"/>
+    <cosponsor id="412258" joined="2015-07-09"/>
+    <cosponsor id="412555" joined="2015-05-21"/>
+    <cosponsor id="412536" joined="2015-04-13"/>
+    <cosponsor id="400640" joined="2015-06-02"/>
+    <cosponsor id="400158" joined="2015-05-13"/>
+    <cosponsor id="412444" joined="2015-05-19"/>
+    <cosponsor id="400195" joined="2015-05-13"/>
+    <cosponsor id="400211" joined="2015-07-09"/>
+    <cosponsor id="412209" joined="2015-04-28"/>
+    <cosponsor id="412292" joined="2015-06-04"/>
+    <cosponsor id="412468" joined="2015-06-16"/>
+    <cosponsor id="412540" joined="2015-07-29"/>
+    <cosponsor id="412475" joined="2015-04-13"/>
+    <cosponsor id="400316" joined="2015-04-22"/>
+    <cosponsor id="412431" joined="2015-07-16"/>
+    <cosponsor id="412426" joined="2015-07-09"/>
+    <cosponsor id="400373" joined="2015-05-15"/>
+    <cosponsor id="412392" joined="2015-07-23"/>
+    <cosponsor id="412214" joined="2015-04-30"/>
+    <cosponsor id="412628" joined="2015-06-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-13" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-04-17">
+      <text>Referred to the Subcommittee on Energy and Power.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="1239"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Air quality"/>
+    <term name="Alternative and renewable resources"/>
+    <term name="Environmental Protection Agency (EPA)"/>
+    <term name="Environmental regulatory procedures"/>
+    <term name="Motor fuels"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,69 @@
+<bill session="114" type="h" number="1274" updated="2015-07-08T04:47:49-04:00">
+  <state datetime="2015-03-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-04"/>
+  </status>
+  <introduced datetime="2015-03-04"/>
+  <titles>
+    <title type="short" as="introduced">Vision Zero Act of 2015</title>
+    <title type="official" as="introduced">To authorize the Secretary of Transportation to make grants to assist units of local government in developing and implementing plans, known as Vision Zero plans, to eliminate transportation-related fatalities and serious injuries, and for other purposes.</title>
+  </titles>
+  <sponsor id="400033"/>
+  <cosponsors>
+    <cosponsor id="400047" joined="2015-04-14"/>
+    <cosponsor id="412196" joined="2015-03-04"/>
+    <cosponsor id="400063" joined="2015-04-23"/>
+    <cosponsor id="412272" joined="2015-04-14"/>
+    <cosponsor id="412505" joined="2015-06-02"/>
+    <cosponsor id="400114" joined="2015-06-02"/>
+    <cosponsor id="400124" joined="2015-04-14"/>
+    <cosponsor id="400185" joined="2015-03-19"/>
+    <cosponsor id="400232" joined="2015-03-19"/>
+    <cosponsor id="412209" joined="2015-04-14"/>
+    <cosponsor id="400245" joined="2015-04-14"/>
+    <cosponsor id="412521" joined="2015-03-19"/>
+    <cosponsor id="412558" joined="2015-04-23"/>
+    <cosponsor id="400262" joined="2015-04-23"/>
+    <cosponsor id="400661" joined="2015-03-19"/>
+    <cosponsor id="400295" joined="2015-03-19"/>
+    <cosponsor id="412575" joined="2015-04-15"/>
+    <cosponsor id="412523" joined="2015-04-15"/>
+    <cosponsor id="412585" joined="2015-04-23"/>
+    <cosponsor id="412331" joined="2015-05-22"/>
+    <cosponsor id="412186" joined="2015-03-19"/>
+    <cosponsor id="400416" joined="2015-07-07"/>
+    <cosponsor id="412214" joined="2015-03-19"/>
+    <cosponsor id="412239" joined="2015-03-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-04" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2015-03-05">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+    </action>
+    <action datetime="2015-03-06">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E314"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW12" subcommittee="Highways and Transit" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Transportation programs funding"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+  <summary>3/4/2015--Introduced.
+Vision Zero Act of 2015
+
+This bill authorizes the Secretary of Transportation to award grants to a city, town, township, borough, county, parish, district, village, or other political subdivision of a state to develop a Vision Zero plan to eliminate transportation-related fatalities and serious injuries in its jurisdiction within 10 years. The total number of grants awarded is limited to 5.
+
+At least 25% of funds made available for this Act shall be used to make grants to eligible entities serving a jurisdiction with a population of under 200,000.
+
+The federal share of projects costs shall not exceed 80%.</summary>
+</bill>

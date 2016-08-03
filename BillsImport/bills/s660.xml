@@ -1,0 +1,49 @@
+<bill session="114" type="s" number="660" updated="2015-05-16T06:45:49-04:00">
+  <state datetime="2015-03-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-04"/>
+  </status>
+  <introduced datetime="2015-03-04"/>
+  <titles>
+    <title type="short" as="introduced">21 st Century Worker Tax Cut Act</title>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to establish a credit for married couples who are both employed and have young children.</title>
+  </titles>
+  <sponsor id="300076"/>
+  <cosponsors>
+    <cosponsor id="400050" joined="2015-03-04"/>
+    <cosponsor id="300038" joined="2015-03-04"/>
+    <cosponsor id="412223" joined="2015-03-04"/>
+    <cosponsor id="300081" joined="2015-03-04"/>
+    <cosponsor id="300082" joined="2015-03-04"/>
+    <cosponsor id="300087" joined="2015-03-04"/>
+    <cosponsor id="412323" joined="2015-03-04"/>
+    <cosponsor id="300093" joined="2015-03-04"/>
+    <cosponsor id="300100" joined="2015-03-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-04">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S1306-1307"/>
+    </action>
+    <action datetime="2015-03-04" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Income tax credits"/>
+    <term name="Inflation and prices"/>
+    <term name="Poverty and welfare assistance"/>
+    <term name="Tax treatment of families"/>
+    <term name="Wages and earnings"/>
+  </subjects>
+  <amendments/>
+  <summary>3/4/2015--Introduced.
+21st Century Worker Tax Cut Act
+
+This bill allows a married taxpayer who files a joint tax return and has at least one qualifying child under the age of 12 a tax credit for 10% of the lesser of $10,000 or the earned income of the spouse with the lower amount of earned income for the taxable year. The credit is denied to nonresident aliens and to taxpayers who fail to include certain identifying information on their tax returns.</summary>
+</bill>

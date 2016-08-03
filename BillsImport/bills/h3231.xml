@@ -1,0 +1,30 @@
+<bill session="114" type="h" number="3231" updated="2015-08-22T06:46:20-04:00">
+  <state datetime="2015-07-28">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-28"/>
+  </status>
+  <introduced datetime="2015-07-28"/>
+  <titles>
+    <title type="short" as="introduced">Federal Intern Protection Act of 2015</title>
+    <title type="official" as="introduced">To amend title 5, United States Code, to protect unpaid interns in the Federal government from workplace harassment and discrimination, and for other purposes.</title>
+  </titles>
+  <sponsor id="400090"/>
+  <cosponsors>
+    <cosponsor id="412560" joined="2015-07-28"/>
+    <cosponsor id="400295" joined="2015-07-29"/>
+    <cosponsor id="400364" joined="2015-07-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-28" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+  </subjects>
+  <amendments/>
+</bill>

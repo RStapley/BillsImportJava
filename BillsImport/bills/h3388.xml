@@ -1,0 +1,35 @@
+<bill session="114" type="h" number="3388" updated="2015-08-07T12:48:57-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">SOLDIER Act</title>
+    <title type="short" as="introduced">Statute Of Limitations for DOD Inactive Employee Repossessions Act</title>
+    <title type="official" as="introduced">To amend title 37, United States Code, to impose a statute of limitations on the ability of the Department of Defense to recover certain indebtedness owed to the United States by members of the uniformed services, including retired and former members, and for other purposes.</title>
+  </titles>
+  <sponsor id="412409"/>
+  <cosponsors>
+    <cosponsor id="412478" joined="2015-07-29"/>
+    <cosponsor id="400052" joined="2015-07-29"/>
+    <cosponsor id="412531" joined="2015-07-29"/>
+    <cosponsor id="412453" joined="2015-07-29"/>
+    <cosponsor id="400367" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-29">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H5608"/>
+    </action>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

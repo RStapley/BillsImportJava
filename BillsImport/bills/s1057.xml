@@ -1,0 +1,41 @@
+<bill session="114" type="s" number="1057" updated="2015-05-20T04:50:01-04:00">
+  <state datetime="2015-04-22">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-22"/>
+  </status>
+  <introduced datetime="2015-04-22"/>
+  <titles>
+    <title type="short" as="introduced">GEO Act</title>
+    <title type="short" as="introduced">Geothermal Energy Opportunities Act</title>
+    <title type="official" as="introduced">A bill to promote geothermal energy, and for other purposes.</title>
+  </titles>
+  <sponsor id="300100"/>
+  <cosponsors>
+    <cosponsor id="412244" joined="2015-04-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-22">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S2354"/>
+    </action>
+    <action datetime="2015-04-22" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+      <reference ref="CR S2354-2356" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2015-05-19">
+      <text>Committee on Energy and Natural Resources. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1719"/>
+    <bill relation="unknown" session="114" type="s" number="822"/>
+    <bill relation="unknown" session="114" type="s" number="1155"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+  </subjects>
+  <amendments/>
+</bill>

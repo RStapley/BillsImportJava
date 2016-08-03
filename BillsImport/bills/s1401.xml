@@ -1,0 +1,43 @@
+<bill session="114" type="s" number="1401" updated="2015-08-01T07:03:53-04:00">
+  <state datetime="2015-05-20">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-20"/>
+  </status>
+  <introduced datetime="2015-05-20"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide for the annual designation of cities in the United States as an "American World War II City".</title>
+  </titles>
+  <sponsor id="412668"/>
+  <cosponsors>
+    <cosponsor id="400054" joined="2015-05-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-20">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S3187"/>
+    </action>
+    <action datetime="2015-05-20" state="REFERRED">
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1512"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Conflicts and wars"/>
+    <term name="Congressional tributes"/>
+    <term name="Military history"/>
+    <term name="North Carolina"/>
+    <term name="Urban and suburban affairs and development"/>
+    <term name="Veterans' organizations and recognition"/>
+  </subjects>
+  <amendments/>
+  <summary>5/20/2015--Introduced.
+Directs the Secretary of Veterans Affairs to designate at least one city in the United States each year as an "American World War II City" based on the city's: (1) contributions to the war effort during World War II; and (2) efforts to preserve the history of such contributions, including through establishment of preservation organizations or museums, restoration of World War II facilities, and recognition of World War II veterans.
+
+Designates Wilmington, North Carolina, as the first such city.</summary>
+</bill>

@@ -1,0 +1,139 @@
+<bill session="114" type="h" number="3071" updated="2015-08-05T04:47:29-04:00">
+  <state datetime="2015-07-15">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-15"/>
+  </status>
+  <introduced datetime="2015-07-15"/>
+  <titles>
+    <title type="short" as="introduced">Schedules That Work Act</title>
+    <title type="official" as="introduced">To permit employees to request changes to their work schedules without fear of retaliation and to ensure that employers consider these requests, and to require employers to provide more predictable and stable schedules for employees in certain occupations with evidence of unpredictable and unstable scheduling practices that negatively affect employees, and for other purposes.</title>
+  </titles>
+  <sponsor id="400103"/>
+  <cosponsors>
+    <cosponsor id="412607" joined="2015-07-15"/>
+    <cosponsor id="400021" joined="2015-07-15"/>
+    <cosponsor id="412657" joined="2015-07-15"/>
+    <cosponsor id="400033" joined="2015-07-15"/>
+    <cosponsor id="412501" joined="2015-07-15"/>
+    <cosponsor id="412652" joined="2015-07-15"/>
+    <cosponsor id="400047" joined="2015-07-15"/>
+    <cosponsor id="412571" joined="2015-07-15"/>
+    <cosponsor id="412379" joined="2015-07-15"/>
+    <cosponsor id="412600" joined="2015-07-15"/>
+    <cosponsor id="412221" joined="2015-07-15"/>
+    <cosponsor id="400080" joined="2015-07-15"/>
+    <cosponsor id="412193" joined="2015-07-15"/>
+    <cosponsor id="400090" joined="2015-07-15"/>
+    <cosponsor id="400093" joined="2015-07-15"/>
+    <cosponsor id="400097" joined="2015-07-15"/>
+    <cosponsor id="412544" joined="2015-07-15"/>
+    <cosponsor id="412613" joined="2015-07-15"/>
+    <cosponsor id="412263" joined="2015-07-15"/>
+    <cosponsor id="412215" joined="2015-07-15"/>
+    <cosponsor id="412327" joined="2015-07-15"/>
+    <cosponsor id="412612" joined="2015-07-23"/>
+    <cosponsor id="400653" joined="2015-07-15"/>
+    <cosponsor id="400160" joined="2015-07-15"/>
+    <cosponsor id="400162" joined="2015-07-15"/>
+    <cosponsor id="400163" joined="2015-07-15"/>
+    <cosponsor id="412498" joined="2015-07-15"/>
+    <cosponsor id="400641" joined="2015-07-15"/>
+    <cosponsor id="400185" joined="2015-07-15"/>
+    <cosponsor id="400199" joined="2015-07-15"/>
+    <cosponsor id="412561" joined="2015-07-15"/>
+    <cosponsor id="412199" joined="2015-07-15"/>
+    <cosponsor id="400211" joined="2015-07-15"/>
+    <cosponsor id="412543" joined="2015-07-15"/>
+    <cosponsor id="400230" joined="2015-07-15"/>
+    <cosponsor id="400232" joined="2015-07-15"/>
+    <cosponsor id="400237" joined="2015-07-15"/>
+    <cosponsor id="400240" joined="2015-07-15"/>
+    <cosponsor id="412616" joined="2015-07-15"/>
+    <cosponsor id="400245" joined="2015-07-23"/>
+    <cosponsor id="412521" joined="2015-08-04"/>
+    <cosponsor id="400251" joined="2015-07-15"/>
+    <cosponsor id="400663" joined="2015-07-15"/>
+    <cosponsor id="400259" joined="2015-07-15"/>
+    <cosponsor id="400262" joined="2015-07-15"/>
+    <cosponsor id="400263" joined="2015-07-15"/>
+    <cosponsor id="400661" joined="2015-07-15"/>
+    <cosponsor id="400289" joined="2015-07-15"/>
+    <cosponsor id="400290" joined="2015-07-15"/>
+    <cosponsor id="400295" joined="2015-07-15"/>
+    <cosponsor id="400309" joined="2015-07-15"/>
+    <cosponsor id="412307" joined="2015-07-15"/>
+    <cosponsor id="412659" joined="2015-07-15"/>
+    <cosponsor id="412585" joined="2015-07-15"/>
+    <cosponsor id="400333" joined="2015-07-15"/>
+    <cosponsor id="400347" joined="2015-07-15"/>
+    <cosponsor id="400350" joined="2015-07-15"/>
+    <cosponsor id="400352" joined="2015-07-15"/>
+    <cosponsor id="400356" joined="2015-07-15"/>
+    <cosponsor id="400360" joined="2015-07-15"/>
+    <cosponsor id="400364" joined="2015-07-15"/>
+    <cosponsor id="400378" joined="2015-07-15"/>
+    <cosponsor id="412259" joined="2015-07-15"/>
+    <cosponsor id="412520" joined="2015-07-15"/>
+    <cosponsor id="412319" joined="2015-07-15"/>
+    <cosponsor id="412254" joined="2015-07-27"/>
+    <cosponsor id="400415" joined="2015-07-15"/>
+    <cosponsor id="412644" joined="2015-07-15"/>
+    <cosponsor id="412412" joined="2015-07-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-15" state="REFERRED">
+      <text>Referred to the Committee on Education and the Workforce, and in addition to the Committees on House Administration, Oversight and Government Reform, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-07-15">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+    <action datetime="2015-07-15">
+      <text>Referred to House House Administration</text>
+    </action>
+    <action datetime="2015-07-15">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2015-07-15">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee code="HSHA" name="House Administration" activity="Referral"/>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU10" subcommittee="Constitution and Civil Justice" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="1772"/>
+  </relatedbills>
+  <subjects>
+    <term name="Labor and employment"/>
+  </subjects>
+  <amendments/>
+  <summary>7/15/2015--Introduced.
+Schedules That Work Act 
+
+This bill grants an employee the right to request that his or her employer change the terms and conditions of employment relating to:
+
+ the number of hours or times the employee is required to work or be on call; the location; the amount of notification he or she receives of work schedule assignments; and minimizing fluctuations in the number of hours the employee is scheduled to work on a daily, weekly, or monthly basis. Requires the employer, if the request is made, to engage in a timely, good faith interactive process with the employee that includes a discussion of potential schedule changes that would meet his or her needs. Outlines the process for either granting or denying a change.
+
+Requires the employer to grant a request, unless there is a bona fide business reason for denying it, if the request is made because of the employee's serious health condition, his or her responsibilities as a caregiver, or enrollment in a career-related educational or training program, or if a part-time employee requests such a change for a reason related to a second job.++_
+
+Authorizes an employer, if an employee requests a change for any other reason, to deny it for any reason that is not unlawful. Requires the employer to give the employee the reason for the denial, including whether it was a bona fide business reason.
+
+Outlines employer requirements for paying reporting time and split shift pay and for giving advance notice of work schedules to retail, food service, or cleaning employees, or the Department of Labor's (DOL) designated employees, except for those in bona fide executive, administrative, or professional capacities.
+
+Makes it unlawful for any employer or other person to: (1) interfere with, restrain, or deny the exercise or the attempt to exercise any right of an employee specified in this Act; (2) retaliate against an individual for exercising his or her rights, or (3) interfere with proceedings or inquiries with respect to violation of an individual's rights.
+
+Sets forth administrative enforcement procedures and civil remedies for violation of these prohibitions.
+
+Directs DOL to give information and technical assistance to employers, labor organizations, and the general public concerning compliance with this Act.
+
+Directs DOL, acting through the Bureau of Labor Statistics, and the Bureau of the Census to: (1) include in the Current Population Survey questions on, among other things, the amount of fluctuation in the number of hours the employee is scheduled to work on a daily, weekly, or monthly basis; and (2) conduct at regular intervals the Contingent Worker Supplement, the Work Schedules and Work at Home Supplement, and other relevant supplements to the Current Population Survey.
+
+Makes this Act inapplicable to any employee covered by a bona fide collective bargaining agreement if its terms govern work scheduling practices.</summary>
+</bill>

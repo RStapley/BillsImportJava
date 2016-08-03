@@ -1,0 +1,35 @@
+<bill session="114" type="h" number="1410" updated="2015-06-27T06:42:51-04:00">
+  <state datetime="2015-03-17">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-17"/>
+  </status>
+  <introduced datetime="2015-03-17"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Small Business Act to require the implementation of a data quality improvement plan, and for other purposes.</title>
+  </titles>
+  <sponsor id="412664"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-03-17" state="REFERRED">
+      <text>Referred to the House Committee on Small Business.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSM" name="House Small Business" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1481"/>
+    <bill relation="unknown" session="114" type="h" number="1597"/>
+    <bill relation="unknown" session="114" type="h" number="1735"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commerce"/>
+  </subjects>
+  <amendments/>
+  <summary>3/17/2015--Introduced.
+This bill amends the Small Business Act with respect to the plan developed by the Administrator of the Small Business Administration (SBA) to improve the quality of data reported on bundled and consolidated contracts in the federal procurement data system.
+
+By the first day of FY2017 the Administrator must implement this plan and, if not, then until it is implemented the Administrator may not exercise the authority to award limited SBA guaranteed loans for any fiscal year as part of certain SBA-administered pilot programs.
+
+By the first day of FY2018 the Comptroller General must initiate a study on the plan's effectiveness, assessing whether contracts were accurately labeled as bundled or consolidated.</summary>
+</bill>

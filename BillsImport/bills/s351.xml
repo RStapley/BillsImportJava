@@ -1,0 +1,42 @@
+<bill session="114" type="s" number="351" updated="2015-04-17T04:57:35-04:00">
+  <state datetime="2015-02-03">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-03"/>
+  </status>
+  <introduced datetime="2015-02-03"/>
+  <titles>
+    <title type="short" as="introduced">Mortgage Debt Tax Relief Act</title>
+    <title type="official" as="introduced">A bill to prevent homeowners from being forced to pay taxes on forgiven mortgage loan debt.</title>
+  </titles>
+  <sponsor id="412218"/>
+  <cosponsors>
+    <cosponsor id="400194" joined="2015-02-27"/>
+    <cosponsor id="400272" joined="2015-02-27"/>
+    <cosponsor id="300093" joined="2015-02-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-03" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+    <action datetime="2015-04-16">
+      <text>Committee on Banking, Housing, and Urban Affairs. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Hearings"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1002"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Housing finance and home ownership"/>
+    <term name="Income tax exclusion"/>
+  </subjects>
+  <amendments/>
+  <summary>2/3/2015--Introduced.
+Mortgage Debt Tax Relief Act 
+
+ Amends the Internal Revenue Code to extend through 2016 the exclusion from gross income of income attributable to the discharge of indebtedness on a principal residence.</summary>
+</bill>

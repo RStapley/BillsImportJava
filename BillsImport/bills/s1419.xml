@@ -1,0 +1,41 @@
+<bill session="114" type="s" number="1419" updated="2015-07-18T07:00:02-04:00">
+  <state datetime="2015-05-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-21"/>
+  </status>
+  <introduced datetime="2015-05-21"/>
+  <titles>
+    <title type="short" as="introduced">Native Language Immersion Student Achievement Act</title>
+    <title type="official" as="introduced">A bill to promote the academic achievement of American Indian, Alaska Native, and Native Hawaiian children with the establishment of a Native American language grant program.</title>
+  </titles>
+  <sponsor id="412244"/>
+  <cosponsors>
+    <cosponsor id="412281" joined="2015-05-21"/>
+    <cosponsor id="412554" joined="2015-05-21"/>
+    <cosponsor id="412507" joined="2015-05-21"/>
+    <cosponsor id="400413" joined="2015-05-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on Indian Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SLIA" name="Senate Indian Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Native Americans"/>
+  </subjects>
+  <amendments/>
+  <summary>5/21/2015--Introduced.
+Native Language Immersion Student Achievement Act
+
+ Amends the Elementary and Secondary Education Act of 1965 to authorize the Department of Education to award grants to Indian tribes, tribal colleges or universities, tribal education agencies, specified schools, Regional Corporations, private or tribal nonprofit organizations, and consortia of any such entities to develop and maintain, or improve and expand, programs that support the use by schools, from prekindergarten through postsecondary education, of Native American languages as their primary language of instruction.
+
+Requires grant applicants to present the Department with specified assurances and demonstrations that the schools they will support have an endorsement to provide education primarily through a Native American language.
+
+Requires grantees to:
+
+ support Native American language education and development; develop or refine instructional curricula for the schools they support, including distinctive teaching materials and activities; fund training opportunities for school staff that strengthen the overall language and academic goals of their schools; develop a Native Language alignment plan to create or refine assessments of student proficiency; and engage in other activities that promote Native American language education and development.</summary>
+</bill>

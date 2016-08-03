@@ -1,0 +1,47 @@
+<bill session="114" type="s" number="608" updated="2015-05-14T04:48:54-04:00">
+  <state datetime="2015-02-27">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-27"/>
+  </status>
+  <introduced datetime="2015-02-27"/>
+  <titles>
+    <title type="short" as="introduced">Mortgage Forgiveness Tax Relief Act</title>
+    <title type="official" as="introduced">A bill to prevent homeowners from being forced to pay taxes on forgiven mortgage loan debt.</title>
+  </titles>
+  <sponsor id="300093"/>
+  <cosponsors>
+    <cosponsor id="412330" joined="2015-04-30"/>
+    <cosponsor id="412378" joined="2015-05-05"/>
+    <cosponsor id="412223" joined="2015-04-30"/>
+    <cosponsor id="412281" joined="2015-05-13"/>
+    <cosponsor id="412218" joined="2015-02-27"/>
+    <cosponsor id="400194" joined="2015-02-27"/>
+    <cosponsor id="412242" joined="2015-05-13"/>
+    <cosponsor id="400272" joined="2015-02-27"/>
+    <cosponsor id="412305" joined="2015-04-30"/>
+    <cosponsor id="400357" joined="2015-05-05"/>
+    <cosponsor id="412323" joined="2015-04-30"/>
+    <cosponsor id="412247" joined="2015-04-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-27" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1002"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Housing finance and home ownership"/>
+    <term name="Income tax exclusion"/>
+  </subjects>
+  <amendments/>
+  <summary>2/27/2015--Introduced.
+Mortgage Forgiveness Tax Relief Act 
+
+ Amends the Internal Revenue Code, as amended by the Tax Increase Prevention Act of 2014, to extend the exclusion from gross income of income attributable to the discharge of indebtedness on a principal residence that was discharged subject to an arrangement entered into and evidenced in writing before January 1, 2017.</summary>
+</bill>

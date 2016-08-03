@@ -1,0 +1,36 @@
+<bill session="114" type="h" number="3405" updated="2015-08-22T04:47:36-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="official" as="introduced">To prohibit the Department of Health and Human Services from obligating or expending any funds for grants for developing or evaluating a video game to train parents in food parenting practices, and for other purposes.</title>
+  </titles>
+  <sponsor id="400606"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Appropriations, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Referred to House Appropriations</text>
+    </action>
+    <action datetime="2015-07-31">
+      <text>Referred to the Subcommittee on Energy and Power.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+    <committee code="HSAP" name="House Appropriations" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+</bill>

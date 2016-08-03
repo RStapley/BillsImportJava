@@ -1,0 +1,60 @@
+<bill session="114" type="h" number="1546" updated="2015-07-24T04:48:00-04:00">
+  <state datetime="2015-03-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-23"/>
+  </status>
+  <introduced datetime="2015-03-23"/>
+  <titles>
+    <title type="short" as="introduced">Emergency Information Improvement Act of 2015</title>
+    <title type="official" as="introduced">To amend the Robert T. Stafford Disaster Relief and Emergency Assistance Act to provide eligibility for public broadcasting facilities to receive certain disaster assistance, and for other purposes.</title>
+  </titles>
+  <sponsor id="412443"/>
+  <cosponsors>
+    <cosponsor id="412541" joined="2015-04-14"/>
+    <cosponsor id="412601" joined="2015-03-23"/>
+    <cosponsor id="412555" joined="2015-07-22"/>
+    <cosponsor id="412385" joined="2015-07-23"/>
+    <cosponsor id="400116" joined="2015-05-14"/>
+    <cosponsor id="412482" joined="2015-03-23"/>
+    <cosponsor id="412453" joined="2015-03-23"/>
+    <cosponsor id="412454" joined="2015-03-23"/>
+    <cosponsor id="400641" joined="2015-03-23"/>
+    <cosponsor id="400195" joined="2015-03-23"/>
+    <cosponsor id="412286" joined="2015-07-14"/>
+    <cosponsor id="400244" joined="2015-04-28"/>
+    <cosponsor id="412527" joined="2015-07-14"/>
+    <cosponsor id="400289" joined="2015-03-23"/>
+    <cosponsor id="400295" joined="2015-03-23"/>
+    <cosponsor id="412409" joined="2015-06-09"/>
+    <cosponsor id="412311" joined="2015-04-15"/>
+    <cosponsor id="412514" joined="2015-03-23"/>
+    <cosponsor id="412579" joined="2015-07-22"/>
+    <cosponsor id="400440" joined="2015-03-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-23" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2015-03-24">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1471"/>
+    <bill relation="unknown" session="114" type="s" number="1090"/>
+  </relatedbills>
+  <subjects>
+    <term name="Emergency management"/>
+  </subjects>
+  <amendments/>
+  <summary>3/23/2015--Introduced.
+Emergency Information Improvement Act of 2015
+
+ Amends the Robert T. Stafford Disaster Relief and Emergency Assistance Act to include public broadcasting facilities within the definition of a "private nonprofit facility" that provides essential services of a governmental nature to the general public, and to include broadcast and telecommunications within the definition of "critical services" provided by such a facility, for purposes of eligibility for certain disaster assistance.
+
+Makes this Act applicable to a major disaster declared by the President under such Act on or after October 28, 2012.</summary>
+</bill>

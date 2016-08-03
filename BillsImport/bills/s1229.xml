@@ -1,0 +1,32 @@
+<bill session="114" type="s" number="1229" updated="2015-06-20T06:55:42-04:00">
+  <state datetime="2015-05-06">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-06"/>
+  </status>
+  <introduced datetime="2015-05-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to require the Secretary of Energy to submit a plan to implement recommendations to improve interactions between the Department of Energy and National Laboratories.</title>
+  </titles>
+  <sponsor id="300075"/>
+  <cosponsors>
+    <cosponsor id="300002" joined="2015-06-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2015-06-09">
+      <text>Committee on Energy and Natural Resources. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+  </subjects>
+  <amendments/>
+  <summary>5/6/2015--Introduced.
+This bill directs the Department of Energy (DOE) to submit to certain congressional committees a plan to implement recommendations made by the Commission to Review the Effectiveness of the National Energy Laboratories to improve interactions between DOE and its National Laboratories.</summary>
+</bill>

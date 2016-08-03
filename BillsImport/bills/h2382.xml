@@ -1,0 +1,45 @@
+<bill session="114" type="h" number="2382" updated="2015-07-24T04:48:28-04:00">
+  <state datetime="2015-05-15">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-15"/>
+  </status>
+  <introduced datetime="2015-05-15"/>
+  <titles>
+    <title type="short" as="introduced">Enable More Parents to Opt-Out Without Endangering Resources Act</title>
+    <title type="official" as="introduced">To amend the Elementary and Secondary Education Act of 1965 to authorize a parent to opt their child out of participation in certain assessments required under such Act.</title>
+  </titles>
+  <sponsor id="412393"/>
+  <cosponsors>
+    <cosponsor id="412563" joined="2015-06-23"/>
+    <cosponsor id="400103" joined="2015-05-15"/>
+    <cosponsor id="412403" joined="2015-07-23"/>
+    <cosponsor id="412453" joined="2015-05-15"/>
+    <cosponsor id="412447" joined="2015-06-09"/>
+    <cosponsor id="412566" joined="2015-06-01"/>
+    <cosponsor id="412294" joined="2015-07-14"/>
+    <cosponsor id="412527" joined="2015-06-25"/>
+    <cosponsor id="412302" joined="2015-06-23"/>
+    <cosponsor id="412570" joined="2015-07-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-15" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Academic performance and assessments"/>
+    <term name="Education programs funding"/>
+    <term name="Elementary and secondary education"/>
+    <term name="School administration"/>
+  </subjects>
+  <amendments/>
+  <summary>5/15/2015--Introduced.
+Enable More Parents to Opt-Out Without Endangering Resources Act
+
+This bill amends the Elementary and Secondary Education Act of 1965 to require states to allow a student to opt out, for any reason stated by the student's parent and without any penalty or other consequence, of yearly academic assessments used as the primary means of determining the performance of the state and of each local educational agency and school in enabling all children to meet the state's academic achievement standards.</summary>
+</bill>

@@ -1,0 +1,29 @@
+<bill session="114" type="s" number="1019" updated="2015-04-30T09:46:33-04:00">
+  <state datetime="2015-04-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-21"/>
+  </status>
+  <introduced datetime="2015-04-21"/>
+  <titles>
+    <title type="short" as="introduced">Freedom from Over-Criminalization and Unjust Seizures Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend the Lacey Act Amendments of 1981 to repeal certain provisions relating to criminal penalties and violations of foreign laws, and for other purposes.</title>
+  </titles>
+  <sponsor id="412492"/>
+  <cosponsors>
+    <cosponsor id="412495" joined="2015-04-28"/>
+    <cosponsor id="300072" joined="2015-04-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+  </subjects>
+  <amendments/>
+</bill>

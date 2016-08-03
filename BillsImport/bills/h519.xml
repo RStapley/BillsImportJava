@@ -1,0 +1,76 @@
+<bill session="114" type="h" number="519" updated="2015-03-28T06:21:20-04:00">
+  <state datetime="2015-01-22">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-22"/>
+  </status>
+  <introduced datetime="2015-01-22"/>
+  <titles>
+    <title type="short" as="introduced">Healthcare Tax Relief and Mandate Repeal Act</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to repeal the individual and employer health insurance mandates.</title>
+  </titles>
+  <sponsor id="400411"/>
+  <cosponsors>
+    <cosponsor id="412500" joined="2015-01-22"/>
+    <cosponsor id="400018" joined="2015-01-22"/>
+    <cosponsor id="400032" joined="2015-01-22"/>
+    <cosponsor id="412395" joined="2015-01-22"/>
+    <cosponsor id="412539" joined="2015-01-27"/>
+    <cosponsor id="400052" joined="2015-01-27"/>
+    <cosponsor id="400071" joined="2015-02-05"/>
+    <cosponsor id="412604" joined="2015-01-22"/>
+    <cosponsor id="400655" joined="2015-01-22"/>
+    <cosponsor id="412400" joined="2015-01-22"/>
+    <cosponsor id="412477" joined="2015-01-22"/>
+    <cosponsor id="412472" joined="2015-01-22"/>
+    <cosponsor id="400116" joined="2015-01-22"/>
+    <cosponsor id="412482" joined="2015-01-22"/>
+    <cosponsor id="400141" joined="2015-01-22"/>
+    <cosponsor id="412397" joined="2015-01-22"/>
+    <cosponsor id="412280" joined="2015-01-22"/>
+    <cosponsor id="412446" joined="2015-01-22"/>
+    <cosponsor id="400175" joined="2015-02-11"/>
+    <cosponsor id="412437" joined="2015-01-22"/>
+    <cosponsor id="412460" joined="2015-02-13"/>
+    <cosponsor id="400209" joined="2015-01-22"/>
+    <cosponsor id="412649" joined="2015-02-02"/>
+    <cosponsor id="412510" joined="2015-01-22"/>
+    <cosponsor id="412295" joined="2015-01-22"/>
+    <cosponsor id="412487" joined="2015-01-22"/>
+    <cosponsor id="400273" joined="2015-01-22"/>
+    <cosponsor id="400276" joined="2015-01-22"/>
+    <cosponsor id="412568" joined="2015-01-22"/>
+    <cosponsor id="412474" joined="2015-01-22"/>
+    <cosponsor id="412442" joined="2015-01-22"/>
+    <cosponsor id="412443" joined="2015-01-22"/>
+    <cosponsor id="400320" joined="2015-01-22"/>
+    <cosponsor id="412489" joined="2015-01-22"/>
+    <cosponsor id="412310" joined="2015-01-27"/>
+    <cosponsor id="400341" joined="2015-01-22"/>
+    <cosponsor id="412538" joined="2015-01-22"/>
+    <cosponsor id="412255" joined="2015-01-27"/>
+    <cosponsor id="400440" joined="2015-01-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-22" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="248"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Sales and excise taxes"/>
+  </subjects>
+  <amendments/>
+  <summary>1/22/2015--Introduced.
+Healthcare Tax Relief and Mandate Repeal Act
+
+This bill amends the Internal Revenue Code to repeal the requirements added by the Patient Protection and Affordable Care Act that: (1) &#160;individuals purchase and maintain minimum essential health care coverage, and (2) employers&#160;who have a workforce of 50 or more full-time employees provide health insurance coverage for their employees.</summary>
+</bill>

@@ -1,0 +1,24 @@
+<bill session="114" type="h" number="3292" updated="2015-08-05T09:48:13-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">Medicare IME Pool Act of 2015</title>
+    <title type="official" as="introduced">To amend title XVIII of the Social Security Act to revise Medicare payment for indirect medical education (IME) costs in teaching hospitals.</title>
+  </titles>
+  <sponsor id="400046"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

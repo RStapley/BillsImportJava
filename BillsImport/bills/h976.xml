@@ -1,0 +1,89 @@
+<bill session="114" type="h" number="976" updated="2015-04-15T04:47:27-04:00">
+  <state datetime="2015-02-13">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-13"/>
+  </status>
+  <introduced datetime="2015-02-13"/>
+  <titles>
+    <title type="short" as="introduced">Patient Access to Higher Quality Health Care Act of 2015</title>
+    <title type="official" as="introduced">To repeal changes made by health care reform laws to the Medicare exception to the prohibition on certain physician referrals for hospitals, and for other purposes.</title>
+  </titles>
+  <sponsor id="400206"/>
+  <cosponsors>
+    <cosponsor id="412630" joined="2015-04-14"/>
+    <cosponsor id="400018" joined="2015-02-13"/>
+    <cosponsor id="400046" joined="2015-03-16"/>
+    <cosponsor id="412395" joined="2015-04-14"/>
+    <cosponsor id="412539" joined="2015-02-26"/>
+    <cosponsor id="412427" joined="2015-02-13"/>
+    <cosponsor id="400052" joined="2015-02-13"/>
+    <cosponsor id="412258" joined="2015-02-13"/>
+    <cosponsor id="400068" joined="2015-02-13"/>
+    <cosponsor id="400077" joined="2015-02-13"/>
+    <cosponsor id="412457" joined="2015-02-13"/>
+    <cosponsor id="412482" joined="2015-02-13"/>
+    <cosponsor id="412275" joined="2015-02-24"/>
+    <cosponsor id="412480" joined="2015-02-13"/>
+    <cosponsor id="400640" joined="2015-03-16"/>
+    <cosponsor id="400141" joined="2015-02-13"/>
+    <cosponsor id="412397" joined="2015-02-13"/>
+    <cosponsor id="400175" joined="2015-04-14"/>
+    <cosponsor id="412609" joined="2015-03-03"/>
+    <cosponsor id="400179" joined="2015-02-13"/>
+    <cosponsor id="400199" joined="2015-02-13"/>
+    <cosponsor id="412284" joined="2015-02-13"/>
+    <cosponsor id="412460" joined="2015-02-13"/>
+    <cosponsor id="412465" joined="2015-03-16"/>
+    <cosponsor id="400656" joined="2015-02-13"/>
+    <cosponsor id="412302" joined="2015-02-13"/>
+    <cosponsor id="400652" joined="2015-02-17"/>
+    <cosponsor id="412431" joined="2015-02-13"/>
+    <cosponsor id="400626" joined="2015-04-14"/>
+    <cosponsor id="412426" joined="2015-02-13"/>
+    <cosponsor id="400606" joined="2015-02-13"/>
+    <cosponsor id="412399" joined="2015-02-13"/>
+    <cosponsor id="400367" joined="2015-02-13"/>
+    <cosponsor id="412392" joined="2015-03-17"/>
+    <cosponsor id="400404" joined="2015-02-13"/>
+    <cosponsor id="412578" joined="2015-03-03"/>
+    <cosponsor id="412402" joined="2015-02-13"/>
+    <cosponsor id="412428" joined="2015-02-13"/>
+    <cosponsor id="400636" joined="2015-03-17" withdrawn="2015-03-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-13" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-02-13">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-02-13">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-02-20">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Health facilities and institutions"/>
+    <term name="Health personnel"/>
+    <term name="Medical ethics"/>
+    <term name="Medicare"/>
+  </subjects>
+  <amendments/>
+  <summary>2/13/2015--Introduced.
+Patient Access to Higher Quality Health Care Act of 2015
+
+Amends the Patient Protection and Affordable Care Act (PPACA) to repeal the prohibition against Medicare participation by physician-owned hospitals that do not have a provider agreement by August 1, 2010, which nonetheless allows their Medicare participation under a rural provider and hospital exception to a specified ownership or investment prohibition if they meet certain requirements.
+
+Amends the Health Care and Education Reconciliation Act of 2010 (HCERA) to repeal provisions: (1) postponing from August 1, 2010, to December 31, 2010, the date by which physician-owned hospitals must have a provider agreement in order to participate in Medicare under a rural provider and hospital exception to the physician-ownership or -investment prohibition if they also meet certain requirements addressing conflicts of interest, bona fide investments, patient safety issues, and expansion limitations; and (2) modifying the expansion limitation imposed on such a rural hospital
+
+Restores related previous law amended or repealed by PPACA and HCERA as if PPACA or HCERA had not been enacted.</summary>
+</bill>

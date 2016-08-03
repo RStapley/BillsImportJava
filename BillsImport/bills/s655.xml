@@ -1,0 +1,39 @@
+<bill session="114" type="s" number="655" updated="2015-05-07T04:48:09-04:00">
+  <state datetime="2015-03-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-04"/>
+  </status>
+  <introduced datetime="2015-03-04"/>
+  <titles>
+    <title type="official" as="introduced">A bill to prohibit the use of funds by the Secretary of the Interior to make a final determination on the listing of the northern long-eared bat under the Endangered Species Act of 1973.</title>
+  </titles>
+  <sponsor id="400546"/>
+  <cosponsors>
+    <cosponsor id="400284" joined="2015-03-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-04" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+    <action datetime="2015-05-06">
+      <text>Committee on Environment and Public Works. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="1589"/>
+  </relatedbills>
+  <subjects>
+    <term name="Animals"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Department of the Interior"/>
+    <term name="Endangered and threatened species"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Mammals"/>
+  </subjects>
+  <amendments/>
+  <summary>3/4/2015--Introduced.
+This bill prohibits the Department of the Interior from using any funds to make a determination on the listing of the northern long-eared bat (myotis septentrionalis) under the Endangered Species Act of 1973. Interior proposed in October 2013 to list the northern long-eared bat as endangered.</summary>
+</bill>

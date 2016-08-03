@@ -1,0 +1,25 @@
+<bill session="114" type="h" number="2803" updated="2015-06-27T07:08:09-04:00">
+  <state datetime="2015-06-17">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-17"/>
+  </status>
+  <introduced datetime="2015-06-17"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Elementary and Secondary Education Act of 1965 to ensure State control over academic standards, and for other purposes.</title>
+  </titles>
+  <sponsor id="412646"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-06-17" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+  </subjects>
+  <amendments/>
+</bill>

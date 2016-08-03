@@ -1,0 +1,42 @@
+<bill session="114" type="s" number="204" updated="2015-02-07T06:25:34-05:00">
+  <state datetime="2015-01-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-21"/>
+  </status>
+  <introduced datetime="2015-01-21"/>
+  <titles>
+    <title type="short" as="introduced">Stop Punishing Innocent Americans Act</title>
+    <title type="official" as="introduced">A bill to reinstate the 10-year statute of limitations period applicable to collection of amounts paid to Social Security beneficiaries by administrative offset, and prevent recovery of overpayments from individuals under 18 years of age.</title>
+  </titles>
+  <sponsor id="300011"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-01-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="409"/>
+  </relatedbills>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Administrative remedies"/>
+    <term name="Civil actions and liability"/>
+    <term name="Debt collection"/>
+    <term name="Poverty and welfare assistance"/>
+    <term name="Social security and elderly assistance"/>
+    <term name="Tax administration and collection, taxpayers"/>
+  </subjects>
+  <amendments/>
+  <summary>1/21/2015--Introduced.
+Stop Punishing Innocent Americans Act 
+
+Reinstates the 10-year statute of limitations period applicable to the collection of amounts paid to Social Security beneficiaries by administrative offset. (This former statute of limitations was repealed effective May 22, 2008.)
+
+Amends title II (Old Age, Survivors and Disability Insurance) (OASDI) of the Social Security Act (SSAct), with respect to overpayments under OASDI or SSAct title XVI (Supplementary Security Income) (SSI), to prevent the recovery of any such overpayments made to or on behalf of individuals under age 18 by shielding such individuals from liability for the repayment of such amounts.
+
+Amends the Internal Revenue Code to prohibit any tax refund offset of Social Security overpayments made to or on behalf of a minor (under age 18).</summary>
+</bill>

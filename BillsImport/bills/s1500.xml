@@ -1,0 +1,55 @@
+<bill session="114" type="s" number="1500" updated="2015-08-15T07:04:22-04:00">
+  <state datetime="2015-08-05">REPORTED</state>
+  <status>
+    <unknown datetime="2015-08-05"/>
+  </status>
+  <introduced datetime="2015-06-03"/>
+  <titles>
+    <title type="short" as="introduced">Sensible Environmental Protection Act of 2015</title>
+    <title type="official" as="introduced">A bill to clarify Congressional intent regarding the regulation of the use of pesticides in or near navigable waters, and for other purposes.</title>
+  </titles>
+  <sponsor id="300030"/>
+  <cosponsors>
+    <cosponsor id="412251" joined="2015-06-03"/>
+    <cosponsor id="400040" joined="2015-06-03"/>
+    <cosponsor id="300019" joined="2015-06-03"/>
+    <cosponsor id="412390" joined="2015-06-03"/>
+    <cosponsor id="412205" joined="2015-06-03"/>
+    <cosponsor id="300041" joined="2015-06-03"/>
+    <cosponsor id="412556" joined="2015-06-03"/>
+    <cosponsor id="412554" joined="2015-06-03"/>
+    <cosponsor id="300055" joined="2015-06-03"/>
+    <cosponsor id="412243" joined="2015-06-03"/>
+    <cosponsor id="400284" joined="2015-06-03"/>
+    <cosponsor id="412322" joined="2015-06-03"/>
+    <cosponsor id="300083" joined="2015-06-03"/>
+    <cosponsor id="412668" joined="2015-06-03"/>
+    <cosponsor id="400418" joined="2015-06-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-03" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+    <calendar datetime="2015-08-05" state="REPORTED">
+      <text>Committee on Environment and Public Works. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="897"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Congressional oversight"/>
+    <term name="Environmental Protection Agency (EPA)"/>
+    <term name="Environmental regulatory procedures"/>
+    <term name="Hazardous wastes and toxic substances"/>
+    <term name="Licensing and registrations"/>
+    <term name="Pest management"/>
+    <term name="Water quality"/>
+  </subjects>
+  <amendments/>
+</bill>

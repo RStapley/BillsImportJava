@@ -1,0 +1,28 @@
+<bill session="114" type="h" number="3287" updated="2015-08-15T06:46:52-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">Community Bank Flexibility Act</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to clarify the treatment of banks organized as limited liability companies.</title>
+  </titles>
+  <sponsor id="400656"/>
+  <cosponsors>
+    <cosponsor id="412478" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+</bill>

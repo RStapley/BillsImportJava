@@ -1,0 +1,93 @@
+<bill session="114" type="h" number="1656" updated="2015-08-15T06:33:07-04:00">
+  <state datetime="2015-07-27T19:09:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2015-07-27T19:09:00-04:00"/>
+  </status>
+  <introduced datetime="2015-03-26"/>
+  <titles>
+    <title type="short" as="introduced">Secret Service Improvements Act of 2015</title>
+    <title type="short" as="passed house">Secret Service Improvements Act of 2015</title>
+    <title type="official" as="introduced">To provide for additional resources for the Secret Service, and to improve protections for restricted areas.</title>
+  </titles>
+  <sponsor id="400154"/>
+  <cosponsors>
+    <cosponsor id="400080" joined="2015-03-26"/>
+    <cosponsor id="400199" joined="2015-03-26"/>
+    <cosponsor id="400654" joined="2015-03-26"/>
+    <cosponsor id="400365" joined="2015-03-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-26" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-04-29">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+    <action datetime="2015-07-14">
+      <text>Subcommittee on Crime, Terrorism, Homeland Security, and Investigations Discharged.</text>
+    </action>
+    <action datetime="2015-07-15">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-07-15" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+    <action datetime="2015-07-27T14:00:00-04:00">
+      <text>Reported (Amended) by the Committee on Judiciary. H. Rept. 114-231.</text>
+    </action>
+    <calendar datetime="2015-07-27T14:01:00-04:00" calendar="Union" number="174">
+      <text>Placed on the Union Calendar, Calendar No. 174.</text>
+    </calendar>
+    <action datetime="2015-07-27T15:55:00-04:00">
+      <text>Mr. Goodlatte moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2015-07-27T15:55:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5491-5494" label="consideration"/>
+    </action>
+    <action datetime="2015-07-27T15:55:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1656.</text>
+    </action>
+    <action datetime="2015-07-27T16:10:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2015-07-27T19:02:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H5511-5512" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="468" datetime="2015-07-27T19:09:00-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 365 - 16 (Roll no. 468).</text>
+      <reference ref="CR H5491-5492" label="text"/>
+    </vote>
+    <action datetime="2015-07-27T19:09:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2015-07-28">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+  </subjects>
+  <amendments/>
+  <summary>3/26/2015--Introduced.
+Secret Service Improvements Act of 2015
+
+Amends the federal criminal code to: (1) subject the appointment of the Director of the U.S. Secret Service to the advice and consent of the Senate; (2) prohibit knowingly causing any object to enter any restricted building or grounds so that such object impedes or disrupts the orderly conduct of government business or official functions; and (3) include former Vice Presidents and members of their immediate families within the prohibition against threatening former Presidents and their families.
+
+Requires the Director to increase the annual number of hours spent training by Secret Service officers and agents.
+
+Authorizes the Director to: (1) construct facilities at the Rowley Training Center necessary to improve the training of officers of the U.S. Secret Service Uniformed Division and agents of the Secret Service Presidential Protective Detail, and (2) hire not fewer than 200 additional officers for the Division and 80 additional agents for the Detail.
+
+Requires the Director to devise and adopt improved procedures for: (1) evaluating vulnerabilities in White House security and threats to persons protected by the Secret Service, including threats posed by unmanned aerial systems or explosive devices; and (2) evaluating the ways technology may be used to improve White House security and the response to threats to persons protected by the Service.
+
+Requires the Director to evaluate the practicability of equipping agents and officers with weapons other than those currently provided, including nonlethal weapons.
+
+Expresses the sense of Congress that an assessment made by the Secretary of Homeland Security or the Director regarding physical security of the White House and attendant grounds should be accorded substantial deference by the National Capital Planning Commission, the Commission of Fine Arts, and any other relevant entities.</summary>
+</bill>

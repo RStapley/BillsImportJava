@@ -1,0 +1,58 @@
+<bill session="114" type="h" number="585" updated="2015-05-19T04:46:35-04:00">
+  <state datetime="2015-01-28">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-28"/>
+  </status>
+  <introduced datetime="2015-01-28"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Endangered Species Act of 1973 to establish a procedure for approval of certain settlements.</title>
+  </titles>
+  <sponsor id="412480"/>
+  <cosponsors>
+    <cosponsor id="400068" joined="2015-01-28"/>
+    <cosponsor id="400655" joined="2015-01-28"/>
+    <cosponsor id="412397" joined="2015-01-28"/>
+    <cosponsor id="412444" joined="2015-05-18"/>
+    <cosponsor id="400209" joined="2015-02-26"/>
+    <cosponsor id="412302" joined="2015-01-28"/>
+    <cosponsor id="400313" joined="2015-01-28"/>
+    <cosponsor id="412641" joined="2015-05-18"/>
+    <cosponsor id="400404" joined="2015-01-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-28" state="REFERRED">
+      <text>Referred to the Committee on Natural Resources, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-01-28">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2015-01-28">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2015-03-17">
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+    </action>
+    <action datetime="2015-03-17">
+      <text>Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU10" subcommittee="Constitution and Civil Justice" name="House Judiciary"/>
+    <committee activity="Referral" code="HSJU05" subcommittee="Regulatory Reform, Commercial And Antitrust Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="293"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Alternative dispute resolution, mediation, arbitration"/>
+    <term name="Civil actions and liability"/>
+    <term name="Endangered and threatened species"/>
+    <term name="Government information and archives"/>
+    <term name="Intergovernmental relations"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+</bill>

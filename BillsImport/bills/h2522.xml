@@ -1,0 +1,69 @@
+<bill session="114" type="h" number="2522" updated="2015-08-15T06:40:26-04:00">
+  <state datetime="2015-05-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-21"/>
+  </status>
+  <introduced datetime="2015-05-21"/>
+  <titles>
+    <title type="official" as="introduced">To require the Secretary of Veterans Affairs to establish a pilot program to award grants for the provision of furniture, household items, and other assistance to homeless veterans to facilitate their transition into permanent housing, and for other purposes.</title>
+  </titles>
+  <sponsor id="412565"/>
+  <cosponsors>
+    <cosponsor id="400616" joined="2015-05-21"/>
+    <cosponsor id="412221" joined="2015-06-12"/>
+    <cosponsor id="400080" joined="2015-05-21"/>
+    <cosponsor id="412613" joined="2015-06-25"/>
+    <cosponsor id="412529" joined="2015-06-19"/>
+    <cosponsor id="412612" joined="2015-05-22"/>
+    <cosponsor id="400653" joined="2015-05-21"/>
+    <cosponsor id="400170" joined="2015-05-21"/>
+    <cosponsor id="400179" joined="2015-05-21"/>
+    <cosponsor id="400199" joined="2015-05-21"/>
+    <cosponsor id="400204" joined="2015-05-21"/>
+    <cosponsor id="412595" joined="2015-05-21"/>
+    <cosponsor id="412286" joined="2015-05-21"/>
+    <cosponsor id="400230" joined="2015-06-02"/>
+    <cosponsor id="400237" joined="2015-05-21"/>
+    <cosponsor id="412616" joined="2015-05-21"/>
+    <cosponsor id="400246" joined="2015-07-21"/>
+    <cosponsor id="400263" joined="2015-06-04"/>
+    <cosponsor id="412189" joined="2015-06-03"/>
+    <cosponsor id="400295" joined="2015-05-21"/>
+    <cosponsor id="412659" joined="2015-06-12"/>
+    <cosponsor id="400333" joined="2015-05-21"/>
+    <cosponsor id="400364" joined="2015-06-04"/>
+    <cosponsor id="400371" joined="2015-05-22"/>
+    <cosponsor id="412259" joined="2015-05-21"/>
+    <cosponsor id="400402" joined="2015-06-12"/>
+    <cosponsor id="412522" joined="2015-05-21"/>
+    <cosponsor id="412579" joined="2015-05-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-21" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2015-06-05">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="223"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Housing and community development funding"/>
+    <term name="Veterans' loans, housing, homeless programs"/>
+    <term name="Veterans' organizations and recognition"/>
+  </subjects>
+  <amendments/>
+  <summary>5/21/2015--Introduced.
+Directs the Secretary of Veterans Affairs (VA) to conduct a three-year pilot program to assess the feasibility and advisability of awarding grants to veterans service agencies, veterans service organizations, and nongovernmental tax-exempt organizations with experience assisting veterans or the homeless to provide veterans who are receiving specified VA homeless benefits with furniture, household items, and other assistance to facilitate their settlement into permanent housing.
+
+Requires the Secretary to: (1) give grant priority to applicants who serve communities that have the greatest need of homeless services, and (2) inform veterans of their eligibility to receive benefits under the pilot program.
+
+Caps the amount of each grant and the amount of each grant that a grantee may use to provide benefits to an individual veteran.</summary>
+</bill>

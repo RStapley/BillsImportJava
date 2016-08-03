@@ -1,0 +1,50 @@
+<bill session="114" type="h" number="2196" updated="2015-07-04T06:36:57-04:00">
+  <state datetime="2015-05-01">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-01"/>
+  </status>
+  <introduced datetime="2015-05-01"/>
+  <titles>
+    <title type="short" as="introduced">Medicare Independence at Home Medical Practice Demonstration Improvement Act of 2015</title>
+    <title type="official" as="introduced">To amend title XVIII of the Social Security Act to provide for an increase in the limit on the length of an agreement under the Medicare independence at home medical practice demonstration program.</title>
+  </titles>
+  <sponsor id="400052"/>
+  <cosponsors>
+    <cosponsor id="400137" joined="2015-05-01"/>
+    <cosponsor id="412202" joined="2015-05-01"/>
+    <cosponsor id="400380" joined="2015-05-01"/>
+    <cosponsor id="400403" joined="2015-05-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-01" state="REFERRED">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-05-01">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-05-01">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-05-08">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="971"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Home and outpatient care"/>
+    <term name="Medicare"/>
+  </subjects>
+  <amendments/>
+  <summary>5/1/2015--Introduced.
+Medicare Independence at Home Medical Practice Demonstration Improvement Act of 2015 
+
+ Amends title XVIII (Medicare) of the Social Security Act to increase from a three-year to a five-year period the length of an agreement with an independence at home medical practice under the Medicare Independence at Home Medical Practice Demonstration Program.</summary>
+</bill>

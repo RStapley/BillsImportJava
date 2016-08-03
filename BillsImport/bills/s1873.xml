@@ -1,0 +1,24 @@
+<bill session="114" type="s" number="1873" updated="2015-08-07T12:49:00-04:00">
+  <state datetime="2015-07-28">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-28"/>
+  </status>
+  <introduced datetime="2015-07-28"/>
+  <titles>
+    <title type="short" as="introduced">Border Security Technology Accountability Act of 2015</title>
+    <title type="official" as="introduced">A bill to strengthen accountability for deployment of border security technology at the Department of Homeland Security, and for other purposes.</title>
+  </titles>
+  <sponsor id="300071"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-28" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

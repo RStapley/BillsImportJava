@@ -1,0 +1,59 @@
+<bill session="114" type="h" number="3222" updated="2015-08-15T06:46:20-04:00">
+  <state datetime="2015-07-27">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-27"/>
+  </status>
+  <introduced datetime="2015-07-27"/>
+  <titles>
+    <title type="short" as="introduced">Employee Rights Act</title>
+    <title type="official" as="introduced">To provide protections for workers with respect to their right to select or refrain from selecting representation by a labor organization.</title>
+  </titles>
+  <sponsor id="400626"/>
+  <cosponsors>
+    <cosponsor id="412250" joined="2015-07-27"/>
+    <cosponsor id="412395" joined="2015-07-27"/>
+    <cosponsor id="412622" joined="2015-07-27"/>
+    <cosponsor id="400068" joined="2015-07-27"/>
+    <cosponsor id="412477" joined="2015-07-27"/>
+    <cosponsor id="412472" joined="2015-07-27"/>
+    <cosponsor id="412479" joined="2015-07-27"/>
+    <cosponsor id="412397" joined="2015-07-27"/>
+    <cosponsor id="412278" joined="2015-07-29"/>
+    <cosponsor id="412645" joined="2015-07-27"/>
+    <cosponsor id="412444" joined="2015-07-27"/>
+    <cosponsor id="400175" joined="2015-07-27"/>
+    <cosponsor id="412550" joined="2015-07-27"/>
+    <cosponsor id="412429" joined="2015-07-27"/>
+    <cosponsor id="400220" joined="2015-07-27"/>
+    <cosponsor id="412510" joined="2015-07-27"/>
+    <cosponsor id="412656" joined="2015-07-27"/>
+    <cosponsor id="412295" joined="2015-07-27"/>
+    <cosponsor id="412540" joined="2015-07-27"/>
+    <cosponsor id="400279" joined="2015-07-27"/>
+    <cosponsor id="412474" joined="2015-07-27"/>
+    <cosponsor id="412409" joined="2015-07-27"/>
+    <cosponsor id="412431" joined="2015-07-27"/>
+    <cosponsor id="412311" joined="2015-07-27"/>
+    <cosponsor id="412641" joined="2015-07-27"/>
+    <cosponsor id="412399" joined="2015-07-27"/>
+    <cosponsor id="412581" joined="2015-07-27"/>
+    <cosponsor id="400627" joined="2015-07-27"/>
+    <cosponsor id="400433" joined="2015-07-27"/>
+    <cosponsor id="412255" joined="2015-07-29"/>
+    <cosponsor id="412416" joined="2015-07-27"/>
+    <cosponsor id="412525" joined="2015-07-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-27" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="1874"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

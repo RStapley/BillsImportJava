@@ -1,0 +1,46 @@
+<bill session="114" type="s" number="1543" updated="2015-08-22T07:04:39-04:00">
+  <state datetime="2015-06-10">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-10"/>
+  </status>
+  <introduced datetime="2015-06-10"/>
+  <titles>
+    <title type="short" as="introduced">Cuba Trade Act of 2015</title>
+    <title type="official" as="introduced">A bill to lift the trade embargo on Cuba, and for other purposes.</title>
+  </titles>
+  <sponsor id="400284"/>
+  <cosponsors>
+    <cosponsor id="400040" joined="2015-06-18"/>
+    <cosponsor id="412545" joined="2015-06-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-10" state="REFERRED">
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="3238"/>
+    <bill relation="unknown" session="114" type="s" number="491"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+  </subjects>
+  <amendments/>
+  <summary>6/10/2015--Introduced.
+Cuba Trade Act of 2015
+
+This bill repeals or amends current laws restricting trade with Cuba.
+
+The prohibition on assistance to Cuba, and the President's authority for the embargo on Cuba, under the Foreign Assistance Act of 1961 are eliminated.
+
+The Cuban Democracy Act of 1992 is amended to eliminate:
+
+ presidential authority to impose sanctions against Cuban trading partners, restrictions on transactions between U.S.-owned or controlled firms and Cuba, limitations on direct shipping between Cuban and U.S. ports, and restrictions on remittances. The Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 1996 is amended to eliminate:
+
+ the enforcement of an economic embargo of Cuban provisions, and the prohibition on indirect financing of Cuba. The Trade Sanctions Reform and Export Enhancement Act of 2000 is amended to:
+
+ remove Cuba from the list of state sponsors of terrorism subject to agricultural and medical export restrictions; eliminate the prohibition on U.S. assistance, including foreign assistance, export assistance, and any credit or guarantees being made available for exports to Cuba; eliminate the prohibition against a U.S. person's providing payment or financing terms for sales of agricultural commodities or products to Cuba; prohibit the United States from providing any foreign assistance to Cuba or any financial assistance, loans, loan guarantees, extension of credit, or other financing for exports to Cuba; and eliminate the prohibition on the U.S. entry of merchandise that is of Cuban origin is or has been located in or transported from or through Cuba, or is made or derived in whole or in part of any article which is the growth, produce, or manufacture of Cuba. The federal government may not obligate or expend any funds to promote trade with or develop markets in Cuba, except for certain commodity promotion programs.</summary>
+</bill>

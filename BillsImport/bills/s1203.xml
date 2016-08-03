@@ -1,0 +1,55 @@
+<bill session="114" type="s" number="1203" updated="2015-07-23T04:49:40-04:00">
+  <state datetime="2015-07-22">REPORTED</state>
+  <status>
+    <unknown datetime="2015-07-22"/>
+  </status>
+  <introduced datetime="2015-05-06"/>
+  <titles>
+    <title type="short" as="introduced">21st Century Veterans Benefits Delivery Act</title>
+    <title type="official" as="introduced">A bill to amend title 38, United States Code, to improve the processing by the Department of Veterans Affairs of claims for benefits under laws administered by the Secretary of Veterans Affairs, and for other purposes.</title>
+  </titles>
+  <sponsor id="412218"/>
+  <cosponsors>
+    <cosponsor id="412246" joined="2015-05-06"/>
+    <cosponsor id="300023" joined="2015-06-24"/>
+    <cosponsor id="300025" joined="2015-05-06"/>
+    <cosponsor id="412390" joined="2015-07-07"/>
+    <cosponsor id="412281" joined="2015-05-06"/>
+    <cosponsor id="412391" joined="2015-05-06"/>
+    <cosponsor id="400284" joined="2015-05-06"/>
+    <cosponsor id="412244" joined="2015-05-06"/>
+    <cosponsor id="400408" joined="2015-05-06"/>
+    <cosponsor id="400418" joined="2015-05-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2015-05-13">
+      <text>Committee on Veterans' Affairs. Hearings held.</text>
+    </action>
+    <calendar datetime="2015-07-22" state="REPORTED">
+      <text>Committee on Veterans' Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, Hearings, Markup"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <summary>5/6/2015--Introduced.
+21st Century Veterans Benefits Delivery Act 
+
+Revises or adds requirements for the submission of veterans' claims for benefits administered through the Department of Veterans Affairs (VA), including by:
+
+ modifying the Transition Assistance Program to enable online participation; requiring claim decisions to explain the benefits of filing claim appeals within 180 days; and requiring hearings before the Board of Veterans' Appeals to be conducted, as the Board considers appropriate or upon appellant request, in person or through picture and voice transmission by electronic or other means. Expresses the sense of Congress that the Department of Defense (DOD) should establish a process by which a veterans service organization representative may be present at any portion of the program relating to the submittal of VA claims for: (1) compensation for service-connected disability or death, or (2) dependecy or indemnity compensation for service-connected death.
+
+Revises or adds requirements for the practices of VA regional offices, including by requiring:
+
+ the Government Accountability Office to complete an audit of Veterans Benefits Administration (VBA) regional offices, management training for veterans service center managers, VA to ensure that systemic operations evaluations include an analysis of communications between regional offices and veterans service organizations and congressional caseworkers, extension of the authority for the performance of medical disability examinations by contract physicians, the VA Inspector General to conduct a review of the practices of regional offices regarding the use of suspense dates during the disability claim assessment process, VA to submit semiannual reports on progress in implementing the Veterans Benefits Management System, VA to submit an annual report on VBA capacity to process benefits claims, VA to report on plans to reduce the inventory of claims for dependency and indemnity compensation and pension claims, VA to include in each Monday Morning Workload Report the number of claims for benefits that have been received by a regional office and that are pending a decision, and VA reports entitled "Appeals Pending" and "Appeals Workload By Station" to be made available to the public on a VA website. Requires DOD, the Social Security Administration, and the National Archives and Records Administration to appoint liaisons with VA to expedite the provision of information required to process VA benefits claims.
+
+Requires DOD and VA to jointly submit a report that sets forth a time line with milestones for achieving interoperability between DOD's and VA's electronic health records systems.</summary>
+</bill>

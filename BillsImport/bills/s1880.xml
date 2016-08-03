@@ -1,0 +1,32 @@
+<bill session="114" type="s" number="1880" updated="2015-08-15T07:07:32-04:00">
+  <state datetime="2015-07-28">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-28"/>
+  </status>
+  <introduced datetime="2015-07-28"/>
+  <titles>
+    <title type="short" as="introduced">Helping Veterans Save for Health Care Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to prevent veterans from being disqualified from contributing to health savings accounts by reason of receiving medical care for service-connected disabilities under programs administered by the Department of Veterans Affairs.</title>
+  </titles>
+  <sponsor id="300083"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-28" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="2514"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Disability and paralysis"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Income tax deductions"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+</bill>

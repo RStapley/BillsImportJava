@@ -1,0 +1,29 @@
+<bill session="114" type="h" number="3346" updated="2015-08-15T06:47:22-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">Middle School STEP Act</title>
+    <title type="short" as="introduced">Middle School Technical Education Program Act</title>
+    <title type="official" as="introduced">To provide support for the development of middle school career exploration programs linked to career and technical education programs of study.</title>
+  </titles>
+  <sponsor id="412620"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="1609"/>
+  </relatedbills>
+  <subjects>
+    <term name="Labor and employment"/>
+  </subjects>
+  <amendments/>
+</bill>

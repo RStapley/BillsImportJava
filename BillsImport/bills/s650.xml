@@ -1,0 +1,61 @@
+<bill session="114" type="s" number="650" updated="2015-06-11T04:48:47-04:00">
+  <state datetime="2015-03-25">REPORTED</state>
+  <status>
+    <unknown datetime="2015-03-25"/>
+  </status>
+  <introduced datetime="2015-03-04"/>
+  <titles>
+    <title type="short" as="introduced">Railroad Safety and Positive Train Control Extension Act</title>
+    <title type="official" as="introduced">A bill to extend the positive train control system implementation deadline, and for other purposes.</title>
+  </titles>
+  <sponsor id="400034"/>
+  <cosponsors>
+    <cosponsor id="412493" joined="2015-03-24"/>
+    <cosponsor id="412556" joined="2015-03-11"/>
+    <cosponsor id="412218" joined="2015-03-19"/>
+    <cosponsor id="300055" joined="2015-03-09"/>
+    <cosponsor id="412496" joined="2015-03-09"/>
+    <cosponsor id="412243" joined="2015-03-04"/>
+    <cosponsor id="400284" joined="2015-03-18"/>
+    <cosponsor id="300075" joined="2015-03-17"/>
+    <cosponsor id="400325" joined="2015-04-16"/>
+    <cosponsor id="412491" joined="2015-03-23"/>
+    <cosponsor id="412665" joined="2015-03-12"/>
+    <cosponsor id="400546" joined="2015-03-04"/>
+    <cosponsor id="300078" joined="2015-03-04" withdrawn="2015-06-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-04" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+    <calendar datetime="2015-03-25" state="REPORTED">
+      <text>Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1006"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Department of Transportation"/>
+    <term name="Railroads"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+  <summary>3/4/2015--Introduced.
+Railroad Safety and Positive Train Control Extension Act
+
+ Revises the railroad safety risk reduction program.
+
+Extends from December 31, 2015, to December 31, 2020, the deadline for submission to the Secretary of Transportation by each Class I railroad carrier and each entity providing regularly scheduled intercity or commuter rail passenger transportation of a plan for implementing a positive train control (PTC) system on certain of its tracks.
+
+Authorizes the Secretary to extend the implementation deadline, upon application, in one-year increments, if specified circumstances exist.
+
+Directs the Secretary to revise federal regulations requiring a Class II or III railroad (including a tourist or excursion railroad) to equip its locomotives with an onboard PTC system to operate in PTC territory.
+
+Extends for five years the time for such railroad to meet the deadline for equipping its locomotives with a PTC system.</summary>
+</bill>

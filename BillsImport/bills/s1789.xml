@@ -1,0 +1,51 @@
+<bill session="114" type="s" number="1789" updated="2015-08-22T07:06:42-04:00">
+  <state datetime="2015-07-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-16"/>
+  </status>
+  <introduced datetime="2015-07-16"/>
+  <titles>
+    <title type="short" as="introduced">United States-Jordan Defense Cooperation Act of 2015</title>
+    <title type="official" as="introduced">A bill to improve defense cooperation between the United States and the Hashemite Kingdom of Jordan.</title>
+  </titles>
+  <sponsor id="412491"/>
+  <cosponsors>
+    <cosponsor id="400061" joined="2015-07-29"/>
+    <cosponsor id="400064" joined="2015-07-22"/>
+    <cosponsor id="412390" joined="2015-07-29"/>
+    <cosponsor id="412573" joined="2015-07-30"/>
+    <cosponsor id="412406" joined="2015-07-30"/>
+    <cosponsor id="412582" joined="2015-07-29"/>
+    <cosponsor id="400222" joined="2015-07-24"/>
+    <cosponsor id="300071" joined="2015-07-30"/>
+    <cosponsor id="300073" joined="2015-07-30"/>
+    <cosponsor id="412323" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-16" state="REFERRED">
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="907"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Arms control and nonproliferation"/>
+    <term name="Conflicts and wars"/>
+    <term name="Congressional oversight"/>
+    <term name="Foreign aid and international relief"/>
+    <term name="Iraq"/>
+    <term name="Jordan"/>
+    <term name="Middle East"/>
+    <term name="Military assistance, sales, and agreements"/>
+    <term name="Military education and training"/>
+    <term name="Refugees, asylum, displaced persons"/>
+    <term name="Syria"/>
+    <term name="Terrorism"/>
+  </subjects>
+  <amendments/>
+</bill>

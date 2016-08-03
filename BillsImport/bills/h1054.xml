@@ -1,0 +1,66 @@
+<bill session="114" type="h" number="1054" updated="2015-08-01T04:50:32-04:00">
+  <state datetime="2015-02-24">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-24"/>
+  </status>
+  <introduced datetime="2015-02-24"/>
+  <titles>
+    <title type="short" as="introduced">TRUST Act</title>
+    <title type="short" as="introduced">Trust Returned to the United States Taxpayer Act</title>
+    <title type="official" as="introduced">To amend title 5, United States Code, to extend the basis for the denial of retirement credit, for service as a Member of Congress, to include conviction of any felony under Federal or State law, and for other purposes.</title>
+  </titles>
+  <sponsor id="412525"/>
+  <cosponsors>
+    <cosponsor id="412655" joined="2015-02-24"/>
+    <cosponsor id="412537" joined="2015-02-24"/>
+    <cosponsor id="412571" joined="2015-02-24"/>
+    <cosponsor id="412604" joined="2015-02-24"/>
+    <cosponsor id="412531" joined="2015-02-26"/>
+    <cosponsor id="400618" joined="2015-03-06"/>
+    <cosponsor id="412526" joined="2015-06-16"/>
+    <cosponsor id="400141" joined="2015-02-24"/>
+    <cosponsor id="412463" joined="2015-02-26"/>
+    <cosponsor id="412453" joined="2015-02-24"/>
+    <cosponsor id="412620" joined="2015-02-24"/>
+    <cosponsor id="400209" joined="2015-02-24"/>
+    <cosponsor id="412503" joined="2015-02-24"/>
+    <cosponsor id="400279" joined="2015-07-31"/>
+    <cosponsor id="412474" joined="2015-02-24"/>
+    <cosponsor id="412302" joined="2015-03-06"/>
+    <cosponsor id="412523" joined="2015-03-06"/>
+    <cosponsor id="412551" joined="2015-02-26"/>
+    <cosponsor id="412309" joined="2015-02-26"/>
+    <cosponsor id="412489" joined="2015-02-24"/>
+    <cosponsor id="412417" joined="2015-02-26"/>
+    <cosponsor id="412509" joined="2015-02-24"/>
+    <cosponsor id="412392" joined="2015-02-24"/>
+    <cosponsor id="412574" joined="2015-02-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-24" state="REFERRED">
+      <text>Referred to the Committee on House Administration, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-02-24">
+      <text>Referred to House House Administration</text>
+    </action>
+    <action datetime="2015-02-24">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral"/>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Government ethics and transparency, public corruption"/>
+    <term name="Members of Congress"/>
+  </subjects>
+  <amendments/>
+  <summary>2/24/2015--Introduced.
+Trust Returned to the United States Taxpayer Act or the TRUST Act
+
+Denies retirement benefits under the Civil Service Retirement System and the Federal Employees Retirement System to a Member of Congress who is convicted of any crime committed after the enactment of this Act&#160;that is a felony under federal or state law (currently, limited to specified felonies under federal law).</summary>
+</bill>

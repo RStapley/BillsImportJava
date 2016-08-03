@@ -1,0 +1,37 @@
+<bill session="114" type="h" number="2939" updated="2015-07-16T04:48:25-04:00">
+  <state datetime="2015-06-25">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-25"/>
+  </status>
+  <introduced datetime="2015-06-25"/>
+  <titles>
+    <title type="short" as="introduced">Enforce Existing Gun Laws Act</title>
+    <title type="official" as="introduced">To repeal certain appropriations riders that limit the ability of the Bureau of Alcohol, Tobacco, Firearms, and Explosives to administer the Federal firearms laws.</title>
+  </titles>
+  <sponsor id="400333"/>
+  <cosponsors>
+    <cosponsor id="412600" joined="2015-07-07"/>
+    <cosponsor id="400162" joined="2015-07-15"/>
+    <cosponsor id="400661" joined="2015-06-25"/>
+    <cosponsor id="400295" joined="2015-06-25"/>
+    <cosponsor id="412514" joined="2015-07-13"/>
+    <cosponsor id="412579" joined="2015-07-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-25" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-07-09">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+  </subjects>
+  <amendments/>
+</bill>

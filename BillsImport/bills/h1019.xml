@@ -1,0 +1,107 @@
+<bill session="114" type="h" number="1019" updated="2015-07-28T05:08:34-04:00">
+  <state datetime="2015-02-20">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-20"/>
+  </status>
+  <introduced datetime="2015-02-20"/>
+  <titles>
+    <title type="short" as="introduced">Partner with Korea Act</title>
+    <title type="official" as="introduced">To provide high-skilled visas for nationals of the Republic of Korea, and for other purposes.</title>
+  </titles>
+  <sponsor id="412202"/>
+  <cosponsors>
+    <cosponsor id="412500" joined="2015-06-18"/>
+    <cosponsor id="412512" joined="2015-06-24"/>
+    <cosponsor id="412657" joined="2015-02-20"/>
+    <cosponsor id="400041" joined="2015-02-20"/>
+    <cosponsor id="412652" joined="2015-07-27"/>
+    <cosponsor id="412576" joined="2015-06-08"/>
+    <cosponsor id="412271" joined="2015-03-16"/>
+    <cosponsor id="412236" joined="2015-06-08"/>
+    <cosponsor id="400077" joined="2015-02-20"/>
+    <cosponsor id="412531" joined="2015-02-20"/>
+    <cosponsor id="412272" joined="2015-02-20"/>
+    <cosponsor id="400080" joined="2015-05-20"/>
+    <cosponsor id="400081" joined="2015-03-16"/>
+    <cosponsor id="400089" joined="2015-07-27"/>
+    <cosponsor id="412385" joined="2015-05-20"/>
+    <cosponsor id="412420" joined="2015-03-18"/>
+    <cosponsor id="412533" joined="2015-05-01"/>
+    <cosponsor id="400122" joined="2015-02-20"/>
+    <cosponsor id="412482" joined="2015-02-20"/>
+    <cosponsor id="400141" joined="2015-02-20"/>
+    <cosponsor id="412453" joined="2015-04-21"/>
+    <cosponsor id="412282" joined="2015-02-20"/>
+    <cosponsor id="412553" joined="2015-02-20"/>
+    <cosponsor id="400185" joined="2015-02-20"/>
+    <cosponsor id="400195" joined="2015-05-20"/>
+    <cosponsor id="412561" joined="2015-03-16"/>
+    <cosponsor id="412199" joined="2015-05-01"/>
+    <cosponsor id="412465" joined="2015-03-18"/>
+    <cosponsor id="412543" joined="2015-05-29"/>
+    <cosponsor id="412583" joined="2015-05-01"/>
+    <cosponsor id="400232" joined="2015-03-16"/>
+    <cosponsor id="400233" joined="2015-07-15"/>
+    <cosponsor id="412638" joined="2015-04-13"/>
+    <cosponsor id="400237" joined="2015-06-24"/>
+    <cosponsor id="412616" joined="2015-06-08"/>
+    <cosponsor id="400245" joined="2015-05-01"/>
+    <cosponsor id="412445" joined="2015-04-21"/>
+    <cosponsor id="412521" joined="2015-02-20"/>
+    <cosponsor id="412643" joined="2015-06-24"/>
+    <cosponsor id="412189" joined="2015-04-21"/>
+    <cosponsor id="412466" joined="2015-04-13"/>
+    <cosponsor id="412560" joined="2015-02-20"/>
+    <cosponsor id="412540" joined="2015-04-13"/>
+    <cosponsor id="400297" joined="2015-03-23"/>
+    <cosponsor id="412302" joined="2015-06-24"/>
+    <cosponsor id="400313" joined="2015-04-13"/>
+    <cosponsor id="412306" joined="2015-03-16"/>
+    <cosponsor id="412331" joined="2015-04-15"/>
+    <cosponsor id="400660" joined="2015-04-13"/>
+    <cosponsor id="400341" joined="2015-05-29"/>
+    <cosponsor id="412311" joined="2015-06-08"/>
+    <cosponsor id="400348" joined="2015-02-20"/>
+    <cosponsor id="400350" joined="2015-04-21"/>
+    <cosponsor id="400361" joined="2015-02-20"/>
+    <cosponsor id="412417" joined="2015-06-18"/>
+    <cosponsor id="400363" joined="2015-05-01"/>
+    <cosponsor id="400365" joined="2015-05-20"/>
+    <cosponsor id="400379" joined="2015-02-20"/>
+    <cosponsor id="412259" joined="2015-07-16"/>
+    <cosponsor id="412648" joined="2015-06-18"/>
+    <cosponsor id="412520" joined="2015-02-20"/>
+    <cosponsor id="400415" joined="2015-02-20"/>
+    <cosponsor id="412618" joined="2015-06-24"/>
+    <cosponsor id="400627" joined="2015-02-20"/>
+    <cosponsor id="412416" joined="2015-03-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-20" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-03-31">
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration and Border Security" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1547"/>
+  </relatedbills>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Asia"/>
+    <term name="Employment discrimination and employee rights"/>
+    <term name="Foreign labor"/>
+    <term name="South Korea"/>
+    <term name="Visas and passports"/>
+  </subjects>
+  <amendments/>
+  <summary>2/20/2015--Introduced.
+Partner with Korea Act
+
+Amends the Immigration and Nationality Act to create an E-4 treaty trader visa category for up to 15,000 nationals of the Republic of Korea (South Korea) each fiscal year who are coming to the United States solely to perform specialty occupation services and with respect to whom the Secretary of Labor has certified to the Secretary of Homeland Security and the Secretary of State that the intending employer has filed an attestation concerning U.S. worker protections with the Secretary of Labor.</summary>
+</bill>

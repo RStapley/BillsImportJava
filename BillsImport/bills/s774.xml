@@ -1,0 +1,75 @@
+<bill session="114" type="s" number="774" updated="2015-06-06T06:50:02-04:00">
+  <state datetime="2015-03-18">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-18"/>
+  </status>
+  <introduced datetime="2015-03-18"/>
+  <titles>
+    <title type="short" as="introduced">Financial Institutions Examination Fairness and Reform Act</title>
+    <title type="official" as="introduced">A bill to amend the Federal Financial Institutions Examination Council Act of 1978 to improve the examination of depository institutions, and for other purposes.</title>
+  </titles>
+  <sponsor id="400284"/>
+  <cosponsors>
+    <cosponsor id="412493" joined="2015-03-18"/>
+    <cosponsor id="412251" joined="2015-03-19"/>
+    <cosponsor id="400040" joined="2015-04-13"/>
+    <cosponsor id="400061" joined="2015-03-18"/>
+    <cosponsor id="300025" joined="2015-03-24"/>
+    <cosponsor id="300027" joined="2015-03-24"/>
+    <cosponsor id="412549" joined="2015-03-18"/>
+    <cosponsor id="412556" joined="2015-03-19"/>
+    <cosponsor id="412218" joined="2015-04-15"/>
+    <cosponsor id="300055" joined="2015-04-13"/>
+    <cosponsor id="412391" joined="2015-03-18"/>
+    <cosponsor id="412666" joined="2015-04-20"/>
+    <cosponsor id="400325" joined="2015-03-18"/>
+    <cosponsor id="300083" joined="2015-03-23"/>
+    <cosponsor id="412471" joined="2015-03-19"/>
+    <cosponsor id="400546" joined="2015-04-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-18" state="REFERRED">
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1941"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Administrative remedies"/>
+    <term name="Bank accounts, deposits, capital"/>
+    <term name="Banking and financial institutions regulation"/>
+    <term name="Consumer Financial Protection Bureau"/>
+    <term name="Department of the Treasury"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Federal Deposit Insurance Corporation (FDIC)"/>
+    <term name="Federal Reserve System"/>
+    <term name="Judicial review and appeals"/>
+    <term name="National Credit Union Administration"/>
+  </subjects>
+  <amendments/>
+  <summary>3/18/2015--Introduced.
+Financial Institutions Examination Fairness and Reform Act 
+
+Amends the Federal Financial Institutions Examination Council Act of 1978 to require a federal financial institutions regulatory agency to make a final examination report to a financial institution within 60 days of the later of: (1) the exit interview for an examination of the institution, or (2) the provision of additional information by the institution relating to the examination.
+
+Sets a deadline for the exit interview if a financial institution is not subject to a resident examiner program.
+
+Sets forth examination standards for financial institutions.
+
+ Establishes in the Federal Financial Institutions Examination Council the Office of Independent Examination Review, headed by a Director appointed by the Council.
+
+Grants a financial institution the right to appeal a material supervisory determination contained in a final report of examination.
+
+Requires the Director to determine the merits of the appeal on the record, or, at the election of the financial institution, refer the appeal to an administrative law judge.
+
+Declares the decision by the Director on an appeal to: (1) be the final agency action, and (2) bind the agency whose supervisory determination was the subject of the appeal and the financial institution making the appeal.
+
+Grants a financial institution the right to petition for judicial review of the Director's decision.
+
+Amends the Riegle Community Development and Regulatory Improvement Act of 1994 to require: (1) the Consumer Financial Protection Bureau (CFPB) to establish an independent intra-agency appellate process in connection with the regulatory appeals process; and (2) appropriate safeguards to protect an insured depository institution or insured credit union from retaliation by either the CFPB, the National Credit Union Administration Board, or any other federal banking agency for exercising its rights.</summary>
+</bill>

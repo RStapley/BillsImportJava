@@ -1,0 +1,60 @@
+<bill session="114" type="h" number="1468" updated="2015-07-22T04:58:56-04:00">
+  <state datetime="2015-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-19"/>
+  </status>
+  <introduced datetime="2015-03-19"/>
+  <titles>
+    <title type="short" as="introduced">Global Brain Health Act of 2015</title>
+    <title type="official" as="introduced">To galvanize United States Government programs in support of brain health for global victims of autism, hydrocephalus and Alzheimer's and other forms of dementia, and for other purposes.</title>
+  </titles>
+  <sponsor id="400380"/>
+  <cosponsors>
+    <cosponsor id="412236" joined="2015-06-15"/>
+    <cosponsor id="400130" joined="2015-03-19"/>
+    <cosponsor id="412638" joined="2015-05-15"/>
+    <cosponsor id="400263" joined="2015-07-21"/>
+    <cosponsor id="400333" joined="2015-05-15"/>
+    <cosponsor id="400422" joined="2015-03-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-19" state="REFERRED">
+      <text>Referred to the Committee on Foreign Affairs, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-03-19">
+      <text>Referred to House Foreign Affairs</text>
+    </action>
+    <action datetime="2015-03-19">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-03-20">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+  </subjects>
+  <amendments/>
+  <summary>3/19/2015--Introduced.
+Global Brain Health Act of 2015
+
+Directs the Administrator of the U.S. Agency for International Development (USAID) to establish and administer a health and education grant program (Global Autism Assistance Program) to: (1) support activities by nongovernmental organizations and other service providers, including advocacy groups, focused on autism in developing countries; and (2) establish a "teach the teachers" program to train health and education professionals working with autistic children in developing countries.
+
+ Amends the Foreign Assistance Act of 1961 to authorize the President to provide assistance to support a network of trained medical practitioners to treat hydrocephalus in children at pediatric hospitals and hydrocephalus treatment centers in developing countries.
+
+Requires such assistance to provide for surgeon training and establishment of at least 20 treatment centers.
+
+ Directs the Secretary of Health and Human Services to:
+
+ negotiate with the World Health Organization to develop a plan for addressing Alzheimer's disease and other forms of dementia globally, to be known as the Global Alzheimer's Disease and Dementia Action Plan; and seek to establish the Global Alzheimer's Disease and Dementia Fund to support implementation of the Global Alzheimer's Disease and Dementia Action Plan. Expresses the sense of the Congress that the Group of Eight (G8) nations, working with the Group of Twenty (G20) nations, the Group of Seventy-Seven (G77) nations, and other organizations should investigate systems to monitor and provide care to individuals with Alzheimer's disease and other forms of dementia in developing countries.
+
+ Directs the President to:
+
+ appoint a high-level official to lead federal efforts to develop the Global Alzheimer's Disease and Dementia Action Plan and the Global Alzheimer's Disease and Dementia Fund, and facilitate partnerships between the federal government and the private sector to identify new treatment approaches for Alzheimer's disease and other forms of dementia. Directs the Administrator of USAID to investigate the foreign aid implications of Alzheimer's disease and other forms of dementia.</summary>
+</bill>

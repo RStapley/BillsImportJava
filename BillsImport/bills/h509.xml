@@ -1,0 +1,93 @@
+<bill session="114" type="h" number="509" updated="2015-05-09T06:25:29-04:00">
+  <state datetime="2015-01-22">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-22"/>
+  </status>
+  <introduced datetime="2015-01-22"/>
+  <titles>
+    <title type="short" as="introduced">Student Loan Interest Deduction Act of 2015</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to increase the deduction allowed for student loan interest.</title>
+  </titles>
+  <sponsor id="400333"/>
+  <cosponsors>
+    <cosponsor id="412642" joined="2015-02-10"/>
+    <cosponsor id="412657" joined="2015-02-13"/>
+    <cosponsor id="400041" joined="2015-01-22"/>
+    <cosponsor id="412652" joined="2015-04-13"/>
+    <cosponsor id="400048" joined="2015-01-22"/>
+    <cosponsor id="412537" joined="2015-04-15"/>
+    <cosponsor id="412571" joined="2015-01-22"/>
+    <cosponsor id="412195" joined="2015-04-21"/>
+    <cosponsor id="412379" joined="2015-02-24"/>
+    <cosponsor id="412221" joined="2015-03-19"/>
+    <cosponsor id="400080" joined="2015-01-22"/>
+    <cosponsor id="400122" joined="2015-03-02"/>
+    <cosponsor id="400124" joined="2015-03-02"/>
+    <cosponsor id="400130" joined="2015-01-22"/>
+    <cosponsor id="412327" joined="2015-01-27"/>
+    <cosponsor id="412612" joined="2015-03-16"/>
+    <cosponsor id="400653" joined="2015-01-22"/>
+    <cosponsor id="400162" joined="2015-01-22"/>
+    <cosponsor id="400163" joined="2015-01-22"/>
+    <cosponsor id="400170" joined="2015-01-22"/>
+    <cosponsor id="400641" joined="2015-01-27"/>
+    <cosponsor id="400179" joined="2015-01-22"/>
+    <cosponsor id="400185" joined="2015-01-22"/>
+    <cosponsor id="400199" joined="2015-02-24"/>
+    <cosponsor id="400204" joined="2015-01-22"/>
+    <cosponsor id="412199" joined="2015-03-19"/>
+    <cosponsor id="400211" joined="2015-02-10"/>
+    <cosponsor id="400218" joined="2015-01-30"/>
+    <cosponsor id="412286" joined="2015-01-22"/>
+    <cosponsor id="400230" joined="2015-02-10"/>
+    <cosponsor id="400233" joined="2015-01-22"/>
+    <cosponsor id="412638" joined="2015-04-13"/>
+    <cosponsor id="400237" joined="2015-01-22"/>
+    <cosponsor id="412209" joined="2015-01-22"/>
+    <cosponsor id="412521" joined="2015-01-22"/>
+    <cosponsor id="400262" joined="2015-01-22"/>
+    <cosponsor id="412189" joined="2015-01-22"/>
+    <cosponsor id="400271" joined="2015-01-30"/>
+    <cosponsor id="412560" joined="2015-01-22"/>
+    <cosponsor id="400661" joined="2015-01-22"/>
+    <cosponsor id="408211" joined="2015-01-22"/>
+    <cosponsor id="412506" joined="2015-03-25"/>
+    <cosponsor id="412192" joined="2015-01-22"/>
+    <cosponsor id="412523" joined="2015-02-10"/>
+    <cosponsor id="400316" joined="2015-01-22"/>
+    <cosponsor id="412659" joined="2015-01-22"/>
+    <cosponsor id="412331" joined="2015-01-22"/>
+    <cosponsor id="412647" joined="2015-02-04"/>
+    <cosponsor id="400347" joined="2015-02-10"/>
+    <cosponsor id="400350" joined="2015-02-04"/>
+    <cosponsor id="400363" joined="2015-05-08"/>
+    <cosponsor id="412396" joined="2015-01-22"/>
+    <cosponsor id="400378" joined="2015-04-27"/>
+    <cosponsor id="412514" joined="2015-03-02"/>
+    <cosponsor id="400402" joined="2015-01-27"/>
+    <cosponsor id="400403" joined="2015-03-25"/>
+    <cosponsor id="412522" joined="2015-01-22"/>
+    <cosponsor id="412412" joined="2015-01-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-22" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Higher education"/>
+    <term name="Income tax deductions"/>
+    <term name="Interest, dividends, interest rates"/>
+    <term name="Student aid and college costs"/>
+  </subjects>
+  <amendments/>
+  <summary>1/22/2015--Introduced.
+Student Loan Interest Deduction Act of 2015
+
+Amends the Internal Revenue Code to: (1) increase the maximum tax deduction for interest paid on any qualified education loan to $5,000 ($10,000 for married couples filing a joint tax return), and (2) repeal the limitation on such deduction based upon modified adjusted gross income.</summary>
+</bill>

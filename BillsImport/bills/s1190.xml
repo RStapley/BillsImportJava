@@ -1,0 +1,47 @@
+<bill session="114" type="s" number="1190" updated="2015-08-07T04:47:37-04:00">
+  <state datetime="2015-05-05">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-05"/>
+  </status>
+  <introduced datetime="2015-05-05"/>
+  <titles>
+    <title type="short" as="introduced">Ensuring Seniors Access to Local Pharmacies Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act to ensure equal access of Medicare beneficiaries to community pharmacies in underserved areas as network pharmacies under Medicare prescription drug coverage, and for other purposes.</title>
+  </titles>
+  <sponsor id="400061"/>
+  <cosponsors>
+    <cosponsor id="400040" joined="2015-05-13"/>
+    <cosponsor id="400050" joined="2015-05-05"/>
+    <cosponsor id="300023" joined="2015-08-06"/>
+    <cosponsor id="412508" joined="2015-05-05"/>
+    <cosponsor id="412406" joined="2015-07-28"/>
+    <cosponsor id="412391" joined="2015-05-05"/>
+    <cosponsor id="400284" joined="2015-07-09"/>
+    <cosponsor id="400413" joined="2015-06-16"/>
+    <cosponsor id="400418" joined="2015-06-03"/>
+    <cosponsor id="400432" joined="2015-06-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-05" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="793"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Medicare"/>
+    <term name="Prescription drugs"/>
+    <term name="Retail and wholesale trades"/>
+  </subjects>
+  <amendments/>
+  <summary>5/5/2015--Introduced.
+Ensuring Seniors Access to Local Pharmacies Act of 2015 
+
+Amends part D (Voluntary Prescription Drug Benefit Program) of title XVIII (Medicare) of the Social Security Act to direct any prescription drug plan that has in its network one or more pharmacies located in a health professional shortage area, in a medically underserved area, or among a medically underserved population, and that provides a reduction in coinsurance or copayments for covered part D drugs, to extend to any pharmacy located in that area, or among that population, the option to be an in-network pharmacy under terms and conditions comparable to those the plan has agreed upon with other in-network pharmacies located in the area or among that population.</summary>
+</bill>

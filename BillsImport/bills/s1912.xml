@@ -1,0 +1,31 @@
+<bill session="114" type="s" number="1912" updated="2015-08-15T07:07:49-04:00">
+  <state datetime="2015-07-30">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-30"/>
+  </status>
+  <introduced datetime="2015-07-30"/>
+  <titles>
+    <title type="short" as="introduced">Native American Voting Rights Act of 2015</title>
+    <title type="official" as="introduced">A bill to protect the rights of Indian and Native Alaskan voters.</title>
+  </titles>
+  <sponsor id="412244"/>
+  <cosponsors>
+    <cosponsor id="412378" joined="2015-07-30"/>
+    <cosponsor id="412554" joined="2015-07-30"/>
+    <cosponsor id="412200" joined="2015-08-04"/>
+    <cosponsor id="400413" joined="2015-07-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-30" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+  </subjects>
+  <amendments/>
+</bill>

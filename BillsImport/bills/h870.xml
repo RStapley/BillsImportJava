@@ -1,0 +1,40 @@
+<bill session="114" type="h" number="870" updated="2015-08-01T06:26:36-04:00">
+  <state datetime="2015-02-11">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-11"/>
+  </status>
+  <introduced datetime="2015-02-11"/>
+  <titles>
+    <title type="short" as="introduced">Puerto Rico Chapter 9 Uniformity Act of 2015</title>
+    <title type="official" as="introduced">To amend title 11 of the United States Code to treat Puerto Rico as a State for purposes of chapter 9 of such title relating to the adjustment of debts of municipalities.</title>
+  </titles>
+  <sponsor id="412306"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-02-11" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-03-16">
+      <text>Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU05" subcommittee="Regulatory Reform, Commercial And Antitrust Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1774"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Bankruptcy"/>
+    <term name="Puerto Rico"/>
+    <term name="State and local finance"/>
+    <term name="U.S. territories and protectorates"/>
+  </subjects>
+  <amendments/>
+  <summary>2/11/2015--Introduced.
+Puerto Rico Chapter 9 Uniformity Act of 2015
+
+Amends the federal bankruptcy code to treat Puerto Rico as a state under chapter 9 (Adjustment of the Debts of a Municipality).</summary>
+</bill>

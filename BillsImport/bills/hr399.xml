@@ -1,0 +1,40 @@
+<bill session="114" type="hr" number="399" updated="2015-08-01T06:19:05-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="official" as="introduced">Expressing the sense of the House of Representatives that the House should consider legislation to protect traditional marriage and prevent taxpayer funding of abortion.</title>
+  </titles>
+  <sponsor id="400209"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on the Judiciary, Oversight and Government Reform, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Referred to House Ways and Means</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Civil rights and liberties, minority issues"/>
+  </subjects>
+  <amendments/>
+</bill>

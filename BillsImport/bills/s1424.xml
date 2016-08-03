@@ -1,0 +1,44 @@
+<bill session="114" type="s" number="1424" updated="2015-08-01T07:04:06-04:00">
+  <state datetime="2015-05-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-21"/>
+  </status>
+  <introduced datetime="2015-05-21"/>
+  <titles>
+    <title type="short" as="introduced">Microbead-Free Waters Act of 2015</title>
+    <title type="official" as="introduced">A bill to prohibit the sale or distribution of cosmetics containing synthetic plastic microbeads.</title>
+  </titles>
+  <sponsor id="412223"/>
+  <cosponsors>
+    <cosponsor id="400013" joined="2015-06-15"/>
+    <cosponsor id="400050" joined="2015-06-15"/>
+    <cosponsor id="400222" joined="2015-05-21"/>
+    <cosponsor id="300065" joined="2015-07-16"/>
+    <cosponsor id="412305" joined="2015-05-21"/>
+    <cosponsor id="400325" joined="2015-05-21"/>
+    <cosponsor id="300093" joined="2015-05-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="1321"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Drug safety, medical device, and laboratory regulation"/>
+    <term name="Hazardous wastes and toxic substances"/>
+    <term name="Marine pollution"/>
+    <term name="Water quality"/>
+  </subjects>
+  <amendments/>
+  <summary>5/21/2015--Introduced.
+Microbead-Free Waters Act of 2015
+
+This bill amends the Federal Food, Drug, and Cosmetic Act to ban cosmetics that contain synthetic plastic microbeads beginning on January 1, 2018.</summary>
+</bill>

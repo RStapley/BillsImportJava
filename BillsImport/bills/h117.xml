@@ -1,0 +1,35 @@
+<bill session="114" type="h" number="117" updated="2015-02-07T06:17:04-05:00">
+  <state datetime="2015-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-06"/>
+  </status>
+  <introduced datetime="2015-01-06"/>
+  <titles>
+    <title type="short" as="introduced">Reclaiming Individual Liberty Act</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to repeal the mandate that individuals purchase health insurance.</title>
+  </titles>
+  <sponsor id="400145"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-01-06" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Comprehensive health care"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Sales and excise taxes"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/2015--Introduced.
+Reclaiming Individual Liberty Act
+
+This bill repeals the provision in the Internal Revenue Code, as added by the Patient Protection and Affordable Care Act, that requires individual taxpayers to purchase and maintain minimum essential health care coverage.</summary>
+</bill>

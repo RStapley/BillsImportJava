@@ -1,0 +1,73 @@
+<bill session="114" type="h" number="2551" updated="2015-08-15T06:40:41-04:00">
+  <state datetime="2015-05-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-21"/>
+  </status>
+  <introduced datetime="2015-05-21"/>
+  <titles>
+    <title type="short" as="introduced">Veterans' Entry to Apprenticeship Act</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to ensure that veterans may attend pre-apprenticeship programs using certain educational assistance provided by the Secretary of Veterans Affairs, and for other purposes.</title>
+  </titles>
+  <sponsor id="412611"/>
+  <cosponsors>
+    <cosponsor id="412630" joined="2015-05-21"/>
+    <cosponsor id="412655" joined="2015-05-21"/>
+    <cosponsor id="412478" joined="2015-05-21"/>
+    <cosponsor id="412627" joined="2015-05-21"/>
+    <cosponsor id="412629" joined="2015-05-21"/>
+    <cosponsor id="412379" joined="2015-05-21"/>
+    <cosponsor id="412604" joined="2015-07-10"/>
+    <cosponsor id="412555" joined="2015-05-21"/>
+    <cosponsor id="412529" joined="2015-05-21"/>
+    <cosponsor id="412532" joined="2015-05-21"/>
+    <cosponsor id="412382" joined="2015-06-01"/>
+    <cosponsor id="412453" joined="2015-05-21"/>
+    <cosponsor id="412397" joined="2015-05-21"/>
+    <cosponsor id="412609" joined="2015-05-21"/>
+    <cosponsor id="412654" joined="2015-05-21"/>
+    <cosponsor id="400209" joined="2015-05-21"/>
+    <cosponsor id="412649" joined="2015-05-21"/>
+    <cosponsor id="412656" joined="2015-05-21"/>
+    <cosponsor id="412475" joined="2015-06-16"/>
+    <cosponsor id="412409" joined="2015-05-21"/>
+    <cosponsor id="412523" joined="2015-05-21"/>
+    <cosponsor id="400343" joined="2015-05-21"/>
+    <cosponsor id="400352" joined="2015-05-21"/>
+    <cosponsor id="400366" joined="2015-05-21"/>
+    <cosponsor id="412596" joined="2015-05-21"/>
+    <cosponsor id="412648" joined="2015-05-21"/>
+    <cosponsor id="400403" joined="2015-05-21"/>
+    <cosponsor id="412636" joined="2015-07-08"/>
+    <cosponsor id="412548" joined="2015-05-21"/>
+    <cosponsor id="412213" joined="2015-05-21"/>
+    <cosponsor id="412214" joined="2015-05-21"/>
+    <cosponsor id="400627" joined="2015-05-21"/>
+    <cosponsor id="412525" joined="2015-05-21"/>
+    <cosponsor id="412640" joined="2015-05-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-21" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2015-06-05">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR10" subcommittee="Economic Opportunity" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Employment and training programs"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+  </subjects>
+  <amendments/>
+  <summary>5/21/2015--Introduced.
+Veterans' Entry to Apprenticeship Act
+
+This bill requires the Department of Veterans Affairs to treat a pre-apprenticeship program as a program of apprenticeship, for purposes of providing educational assistance: (1) if such pre-apprenticeship program is recognized under or compliant with relevant state standards for a postsecondary pre-apprenticeship program, or (2) in the case of a program for which a state does not require any such standards, if the curriculum of the pre-apprenticeship program is approved by a sponsor who certifies that the program will prepare an individual with skills and competencies needed to enroll in a registered apprenticeship program and the pre-apprenticeship program maintains conduct and attendance policies in accordance with such sponsor.
+
+A covered individual enrolled in a pre-apprenticeship program must receive the same amount and kind of educational assistance the individual would receive if the individual were enrolled in a program of apprenticeship, with an exception of specified housing assistance if the individual is not paid as part of such pre-apprenticeship program.</summary>
+</bill>

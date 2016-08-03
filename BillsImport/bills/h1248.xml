@@ -1,0 +1,63 @@
+<bill session="114" type="h" number="1248" updated="2015-07-25T06:29:18-04:00">
+  <state datetime="2015-03-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-04"/>
+  </status>
+  <introduced datetime="2015-03-04"/>
+  <titles>
+    <title type="official" as="introduced">To amend title 46, United States Code, to exempt old vessels that only operate within inland waterways from the fire-retardant materials requirement if the owners of such vessels make annual structural alterations to at least 10 percent of the areas of the vessels that are not constructed of fire-retardant materials.</title>
+  </titles>
+  <sponsor id="400071"/>
+  <cosponsors>
+    <cosponsor id="412627" joined="2015-07-14"/>
+    <cosponsor id="400074" joined="2015-03-04"/>
+    <cosponsor id="412236" joined="2015-03-04"/>
+    <cosponsor id="412400" joined="2015-07-07"/>
+    <cosponsor id="412463" joined="2015-03-04"/>
+    <cosponsor id="412460" joined="2015-03-04"/>
+    <cosponsor id="412566" joined="2015-03-04"/>
+    <cosponsor id="412256" joined="2015-03-04"/>
+    <cosponsor id="412503" joined="2015-03-04"/>
+    <cosponsor id="412487" joined="2015-03-04"/>
+    <cosponsor id="412462" joined="2015-03-04"/>
+    <cosponsor id="412461" joined="2015-03-04"/>
+    <cosponsor id="400406" joined="2015-03-04"/>
+    <cosponsor id="400411" joined="2015-03-16"/>
+    <cosponsor id="412564" joined="2015-03-04"/>
+    <cosponsor id="400431" joined="2015-03-04"/>
+    <cosponsor id="412428" joined="2015-03-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-04" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2015-03-05">
+      <text>Referred to the Subcommittee on Coast Guard and Maritime Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW07" subcommittee="Coast Guard and Maritime Transportation" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="1717"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Civil actions and liability"/>
+    <term name="Fires"/>
+    <term name="Marine and inland water transportation"/>
+    <term name="Transportation employees"/>
+    <term name="Transportation safety and security"/>
+    <term name="Worker safety and health"/>
+  </subjects>
+  <amendments/>
+  <summary>3/4/2015--Introduced.
+Amends federal shipping law to extend through October 31, 2028, the exemption of certain vessels from the requirement that U.S. passenger vessels having berth or stateroom accommodations for at least 50 passengers be constructed of fire-retardant materials in order to be granted a certificate of inspection.
+
+Continues to apply this exemption only to vessels in operation before January 1, 1968, which operate only within the Boundary Line (the dividing point between inland waters and high seas).
+
+Requires the owner or managing operator of an exempt vessel to:
+
+ notify crew members that the vessel does not comply with applicable fire safety standards due primarily to the wooden construction of passenger berthing areas, and make annual structural alterations to at least 10% of vessel areas that are not constructed of fire-retardant materials. Requires any noncombustible material requirements prescribed by the Coast Guard (with which an exempt vessel is still required to comply) to be consistent with the preservation of a vessel's historic integrity in areas carrying or accessible to passengers or generally visible to the public.</summary>
+</bill>

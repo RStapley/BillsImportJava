@@ -1,0 +1,35 @@
+<bill session="114" type="h" number="3032" updated="2015-07-31T04:47:19-04:00">
+  <state datetime="2015-07-29">REPORTED</state>
+  <status>
+    <unknown datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-10"/>
+  <titles>
+    <title type="short" as="introduced">Securities and Exchange Commission Reporting Modernization Act</title>
+    <title type="official" as="introduced">To amend the Securities Exchange Act of 1934 to repeal a certain reporting requirement of the Securities and Exchange Commission.</title>
+  </titles>
+  <sponsor id="412509"/>
+  <cosponsors>
+    <cosponsor id="412484" joined="2015-07-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-10" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2015-07-28">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-07-29" state="REPORTED">
+      <text>Ordered to be Reported by the Yeas and Nays: 58 - 0.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

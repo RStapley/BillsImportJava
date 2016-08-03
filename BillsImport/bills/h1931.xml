@@ -1,0 +1,57 @@
+<bill session="114" type="h" number="1931" updated="2015-08-22T06:35:26-04:00">
+  <state datetime="2015-04-22">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-22"/>
+  </status>
+  <introduced datetime="2015-04-22"/>
+  <titles>
+    <title type="short" as="introduced">American Land Act</title>
+    <title type="official" as="introduced">To direct the Secretary of the Interior and the Secretary of Agriculture to sell certain Federal land, to direct that the proceeds of such sales be applied to reduce the Federal budget deficit, and for other purposes.</title>
+  </titles>
+  <sponsor id="400652"/>
+  <cosponsors>
+    <cosponsor id="400068" joined="2015-04-22"/>
+    <cosponsor id="400206" joined="2015-04-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-22" state="REFERRED">
+      <text>Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-04-22">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2015-04-22">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2015-05-15">
+      <text>Referred to the Subcommittee on Conservation and Forestry.</text>
+    </action>
+    <action datetime="2015-05-19">
+      <text>Referred to the Subcommittee on Energy and Mineral Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII06" subcommittee="Energy and Mineral Resources" name="House Natural Resources"/>
+    <committee code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee activity="Referral" code="HSAG15" subcommittee="Conservation and Forestry" name="House Agriculture"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Forests, forestry, trees"/>
+    <term name="Government trust funds"/>
+    <term name="Land transfers"/>
+    <term name="Roads and highways"/>
+    <term name="Transportation programs funding"/>
+  </subjects>
+  <amendments/>
+  <summary>4/22/2015--Introduced.
+American Land Act
+
+ Authorizes the Departments of the Interior and Agriculture, for each of FY2016-FY2021, to offer for competitive sale by auction to eligible entities 8% of the federal land managed by the Bureau of Land Management and 8% of the National Forest System land. Includes as an "eligible entity": (1) a U.S. citizen, or (2) a corporation or partnership created or organized in or under the laws of the United States.
+
+Requires the land to be sold to: (1) be configured to maximize marketability or achieve management objectives, and (2) include the mineral rights for not more than 50% of the total acreage if such inclusion is likely to maximize marketability.
+
+Requires proceeds to be deposited into the Highway Trust Fund.</summary>
+</bill>

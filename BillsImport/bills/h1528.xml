@@ -1,0 +1,80 @@
+<bill session="114" type="h" number="1528" updated="2015-07-09T04:47:13-04:00">
+  <state datetime="2015-03-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-23"/>
+  </status>
+  <introduced datetime="2015-03-23"/>
+  <titles>
+    <title type="short" as="introduced">End Discriminatory State Taxes for Automobile Renters Act of 2015</title>
+    <title type="official" as="introduced">To protect consumers from discriminatory State taxes on motor vehicle rentals.</title>
+  </titles>
+  <sponsor id="400158"/>
+  <cosponsors>
+    <cosponsor id="412541" joined="2015-03-24"/>
+    <cosponsor id="412250" joined="2015-03-25"/>
+    <cosponsor id="412635" joined="2015-03-23"/>
+    <cosponsor id="412629" joined="2015-07-08"/>
+    <cosponsor id="400071" joined="2015-03-23"/>
+    <cosponsor id="400074" joined="2015-03-23"/>
+    <cosponsor id="400639" joined="2015-04-22"/>
+    <cosponsor id="412236" joined="2015-03-23"/>
+    <cosponsor id="412536" joined="2015-03-23"/>
+    <cosponsor id="400116" joined="2015-03-23"/>
+    <cosponsor id="412524" joined="2015-03-23"/>
+    <cosponsor id="400129" joined="2015-03-23"/>
+    <cosponsor id="400141" joined="2015-04-13"/>
+    <cosponsor id="412645" joined="2015-06-02"/>
+    <cosponsor id="400195" joined="2015-03-23"/>
+    <cosponsor id="400196" joined="2015-03-23"/>
+    <cosponsor id="412561" joined="2015-03-23"/>
+    <cosponsor id="412460" joined="2015-03-23"/>
+    <cosponsor id="412603" joined="2015-06-11"/>
+    <cosponsor id="412226" joined="2015-05-14"/>
+    <cosponsor id="400233" joined="2015-03-23"/>
+    <cosponsor id="400245" joined="2015-03-24"/>
+    <cosponsor id="412445" joined="2015-03-23"/>
+    <cosponsor id="412292" joined="2015-06-25"/>
+    <cosponsor id="412468" joined="2015-06-01"/>
+    <cosponsor id="412560" joined="2015-03-23"/>
+    <cosponsor id="400661" joined="2015-03-23"/>
+    <cosponsor id="400290" joined="2015-05-12"/>
+    <cosponsor id="412432" joined="2015-03-23"/>
+    <cosponsor id="412596" joined="2015-03-23"/>
+    <cosponsor id="412618" joined="2015-04-29"/>
+    <cosponsor id="400433" joined="2015-03-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-23" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-04-21">
+      <text>Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU05" subcommittee="Regulatory Reform, Commercial And Antitrust Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1164"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Civil actions and liability"/>
+    <term name="Lease and rental services"/>
+    <term name="Motor vehicles"/>
+    <term name="Property tax"/>
+    <term name="Sales and excise taxes"/>
+    <term name="State and local taxation"/>
+    <term name="Tax administration and collection, taxpayers"/>
+  </subjects>
+  <amendments/>
+  <summary>3/23/2015--Introduced.
+End Discriminatory State Taxes for Automobile Renters Act of 2015
+
+This bill prohibits a state or locality from levying or collecting a discriminatory tax on the rental of motor vehicles, the business of renting motor vehicles, or motor vehicle rental property, except where such tax is imposed as of the enactment date of this Act, the tax does not lapse, the tax rate does not increase, and the tax base for such tax does not change.
+
+A tax is considered discriminatory if it is applicable to the rental of motor vehicles or to motor vehicle businesses or property, but not to the majority of other rentals of tangible personal property or businesses within a state or locality.
+
+The bill allows a person who is aggrieved by a discriminatory tax to bring a civil action in a U.S. district court for damages, injunctive relief, other legal or equitable relief, or declaratory relief.</summary>
+</bill>

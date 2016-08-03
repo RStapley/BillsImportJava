@@ -1,0 +1,34 @@
+<bill session="114" type="h" number="3077" updated="2015-08-22T06:45:03-04:00">
+  <state datetime="2015-07-15">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-15"/>
+  </status>
+  <introduced datetime="2015-07-15"/>
+  <titles>
+    <title type="short" as="introduced">Giveback Deficit Reduction Act</title>
+    <title type="official" as="introduced">To require any amounts remaining in Members' Representational Allowances at the end of a fiscal year to be deposited in the Treasury and used for deficit reduction or to reduce the Federal debt.</title>
+  </titles>
+  <sponsor id="400218"/>
+  <cosponsors>
+    <cosponsor id="412533" joined="2015-07-15"/>
+    <cosponsor id="412489" joined="2015-07-15"/>
+    <cosponsor id="400406" joined="2015-07-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-15" state="REFERRED">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+  </subjects>
+  <amendments/>
+  <summary>7/15/2015--Introduced.
+Giveback Deficit Reduction Act 
+
+This bill requires appropriations for Member's Representational Allowances for the House of Representatives that remain at the end of the fiscal year to be deposited in the Treasury and used for deficit or debt reduction. The Member's Representational Allowance is the budget authorized for each Member of Congress in support of the conduct of official and representational duties.</summary>
+</bill>

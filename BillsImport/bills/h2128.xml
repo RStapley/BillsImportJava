@@ -1,0 +1,76 @@
+<bill session="114" type="h" number="2128" updated="2015-07-11T06:36:32-04:00">
+  <state datetime="2015-04-30">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-30"/>
+  </status>
+  <introduced datetime="2015-04-30"/>
+  <titles>
+    <title type="short" as="introduced">Real Estate Investment and Jobs Act of 2015</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to exempt certain stock of real estate investment trusts from the tax on foreign investments in United States real property interests, and for other purposes.</title>
+  </titles>
+  <sponsor id="400046"/>
+  <cosponsors>
+    <cosponsor id="412478" joined="2015-06-17"/>
+    <cosponsor id="400033" joined="2015-04-30"/>
+    <cosponsor id="400636" joined="2015-06-02"/>
+    <cosponsor id="412196" joined="2015-04-30"/>
+    <cosponsor id="400087" joined="2015-04-30"/>
+    <cosponsor id="400108" joined="2015-06-02"/>
+    <cosponsor id="412420" joined="2015-04-30"/>
+    <cosponsor id="412553" joined="2015-06-02"/>
+    <cosponsor id="412284" joined="2015-04-30"/>
+    <cosponsor id="400206" joined="2015-04-30"/>
+    <cosponsor id="412465" joined="2015-06-11"/>
+    <cosponsor id="400218" joined="2015-04-30"/>
+    <cosponsor id="400219" joined="2015-04-30"/>
+    <cosponsor id="412421" joined="2015-06-02"/>
+    <cosponsor id="400233" joined="2015-04-30"/>
+    <cosponsor id="400656" joined="2015-04-30"/>
+    <cosponsor id="400262" joined="2015-04-30"/>
+    <cosponsor id="412466" joined="2015-04-30"/>
+    <cosponsor id="400291" joined="2015-04-30"/>
+    <cosponsor id="412475" joined="2015-06-25"/>
+    <cosponsor id="400297" joined="2015-06-02"/>
+    <cosponsor id="400309" joined="2015-06-02"/>
+    <cosponsor id="412303" joined="2015-05-12"/>
+    <cosponsor id="400333" joined="2015-04-30"/>
+    <cosponsor id="412393" joined="2015-04-30"/>
+    <cosponsor id="400660" joined="2015-04-30"/>
+    <cosponsor id="412462" joined="2015-04-30"/>
+    <cosponsor id="400344" joined="2015-06-17"/>
+    <cosponsor id="412202" joined="2015-04-30"/>
+    <cosponsor id="400355" joined="2015-04-30"/>
+    <cosponsor id="400367" joined="2015-04-30"/>
+    <cosponsor id="412217" joined="2015-06-02"/>
+    <cosponsor id="412596" joined="2015-06-11"/>
+    <cosponsor id="400403" joined="2015-04-30"/>
+    <cosponsor id="400406" joined="2015-04-30"/>
+    <cosponsor id="400411" joined="2015-06-02"/>
+    <cosponsor id="412428" joined="2015-04-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-30" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="915"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Financial services and investments"/>
+    <term name="Real estate business"/>
+    <term name="Securities"/>
+    <term name="Taxation of foreign income"/>
+    <term name="U.S. and foreign investments"/>
+  </subjects>
+  <amendments/>
+  <summary>4/30/2015--Introduced.
+Real Estate Investment and Jobs Act of 2015
+
+This bill amends the Internal Revenue Code to increase from 5% to 10% the stock ownership threshold in a real estate investment trust for purposes of exempting proceeds from dispositions of such stock from withholding requirements under the Foreign Investment in Real Property Tax Act of 1980 (FIRPTA). Exempts from FIRPTA withholding requirements U.S. real property interests held by: (1) a qualified foreign pension fund created or organized outside the United States, or (2) any entity all of the interests of which are held by a qualified foreign pension fund.</summary>
+</bill>

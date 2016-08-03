@@ -1,0 +1,47 @@
+<bill session="114" type="h" number="2257" updated="2015-07-25T06:37:51-04:00">
+  <state datetime="2015-05-12">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-12"/>
+  </status>
+  <introduced datetime="2015-05-12"/>
+  <titles>
+    <title type="official" as="introduced">To amend title 38, United States Code, to improve the reproductive treatment provided to certain disabled veterans.</title>
+  </titles>
+  <sponsor id="400279"/>
+  <cosponsors>
+    <cosponsor id="412544" joined="2015-07-07"/>
+    <cosponsor id="412466" joined="2015-05-14"/>
+    <cosponsor id="408211" joined="2015-07-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-12" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2015-05-13">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Disability and paralysis"/>
+    <term name="Genetics"/>
+    <term name="Sex and reproductive health"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>5/12/2015--Introduced.
+Directs the Department of Veterans Affairs (VA) to furnish to a covered individual, in addition to any fertility treatment otherwise provided, assisted reproductive technology.
+
+Defines: (1) "covered individual" to mean a veteran, regardless of sex, who is enrolled in the VA health care system, who has a service-connected disability, and whose disability includes an injury to the reproductive organs or the spinal cord that directly results in the veteran being unable to procreate without assisted reproductive technology and such veteran's spouse; and (2) "assisted reproductive technology" to include in vitro fertilization or any other specific technology used to assist reproduction that the VA deems appropriate.
+
+Authorizes the VA to provide not more than three in vitro fertilization cycles that result in a total of not more than six implantation attempts.
+
+Provides that the VA: (1) may provide for cryogenic storage of genetic material of a covered individual for not more than three years, after which the individual shall be responsible for the storage costs; (2) may not possess, or make any determination regarding the disposition of, genetic material of a covered individual; and (3) shall carry out any activities relating to the custody or disposition of such genetic material in accordance with the laws of the state in which the genetic material is located.
+
+Prohibits the VA from providing any benefits relating to surrogacy or assisting with obtaining a third-party genetic material donation.</summary>
+</bill>

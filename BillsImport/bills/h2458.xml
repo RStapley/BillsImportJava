@@ -1,0 +1,36 @@
+<bill session="114" type="h" number="2458" updated="2015-08-15T06:39:54-04:00">
+  <state datetime="2015-05-19">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-19"/>
+  </status>
+  <introduced datetime="2015-05-19"/>
+  <titles>
+    <title type="official" as="introduced">To designate the facility of the United States Postal Service located at 5351 Lapalco Boulevard in Marrero, Louisiana, as the "Lionel R. Collins, Sr. Post Office Building".</title>
+  </titles>
+  <sponsor id="412432"/>
+  <cosponsors>
+    <cosponsor id="412630" joined="2015-07-15"/>
+    <cosponsor id="400636" joined="2015-07-15"/>
+    <cosponsor id="412631" joined="2015-07-15"/>
+    <cosponsor id="412261" joined="2015-05-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-19" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congressional tributes"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Louisiana"/>
+    <term name="Postal service"/>
+  </subjects>
+  <amendments/>
+  <summary>5/19/2015--Introduced.
+Designates the facility of the United States Postal Service located at 5351 Lapalco Boulevard in Marrero, Louisiana, as the "Lionel R. Collins, Sr. Post Office Building."</summary>
+</bill>

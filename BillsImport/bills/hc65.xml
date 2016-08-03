@@ -1,0 +1,39 @@
+<bill session="114" type="hc" number="65" updated="2015-08-15T06:49:14-04:00">
+  <state datetime="2015-07-28">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-28"/>
+  </status>
+  <introduced datetime="2015-07-28"/>
+  <titles>
+    <title type="official" as="introduced">Expressing the sense of Congress regarding the upgrading of Malaysia on the 2015 Trafficking In Persons report.</title>
+  </titles>
+  <sponsor id="400103"/>
+  <cosponsors>
+    <cosponsor id="412637" joined="2015-07-28"/>
+    <cosponsor id="400263" joined="2015-07-31"/>
+    <cosponsor id="400309" joined="2015-07-28"/>
+    <cosponsor id="412585" joined="2015-07-28"/>
+    <cosponsor id="400352" joined="2015-07-28"/>
+    <cosponsor id="400378" joined="2015-07-28"/>
+    <cosponsor id="412319" joined="2015-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-28" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Asia"/>
+    <term name="Crime victims"/>
+    <term name="Government studies and investigations"/>
+    <term name="Human rights"/>
+    <term name="Human trafficking"/>
+    <term name="Malaysia"/>
+  </subjects>
+  <amendments/>
+</bill>

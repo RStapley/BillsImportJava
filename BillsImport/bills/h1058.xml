@@ -1,0 +1,90 @@
+<bill session="114" type="h" number="1058" updated="2015-06-13T06:27:09-04:00">
+  <state datetime="2015-04-15T13:56:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2015-04-15T13:56:00-04:00"/>
+  </status>
+  <introduced datetime="2015-02-25"/>
+  <titles>
+    <title type="short" as="introduced">Taxpayer Bill of Rights Act of 2015</title>
+    <title type="short" as="reported to house">Taxpayer Bill of Rights Act of 2015</title>
+    <title type="short" as="passed house">Taxpayer Bill of Rights Act of 2015</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to clarify that a duty of the Commissioner of Internal Revenue is to ensure that Internal Revenue Service employees are familiar with and act in accord with certain taxpayer rights.</title>
+  </titles>
+  <sponsor id="412202"/>
+  <cosponsors>
+    <cosponsor id="412635" joined="2015-03-16"/>
+    <cosponsor id="412627" joined="2015-03-16"/>
+    <cosponsor id="412629" joined="2015-03-17"/>
+    <cosponsor id="412536" joined="2015-03-16"/>
+    <cosponsor id="412661" joined="2015-03-24"/>
+    <cosponsor id="412422" joined="2015-03-04"/>
+    <cosponsor id="412393" joined="2015-03-25"/>
+    <cosponsor id="400660" joined="2015-03-04"/>
+    <cosponsor id="412636" joined="2015-03-16"/>
+    <cosponsor id="412410" joined="2015-03-24"/>
+    <cosponsor id="400440" joined="2015-04-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-25" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="2015-03-25">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-03-25" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+    <action datetime="2015-04-13T19:56:00-04:00">
+      <text>Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-70.</text>
+    </action>
+    <calendar datetime="2015-04-13T19:56:00-04:00" calendar="Union" number="50">
+      <text>Placed on the Union Calendar, Calendar No. 50.</text>
+    </calendar>
+    <action datetime="2015-04-15T13:43:00-04:00">
+      <text>Mr. Ryan (WI) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2015-04-15T13:43:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2230-2232" label="consideration"/>
+    </action>
+    <action datetime="2015-04-15T13:43:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1058.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2015-04-15T13:56:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H2230" label="text"/>
+    </vote>
+    <action datetime="2015-04-15T13:56:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2015-04-16">
+      <text>Received in the Senate and Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, Markup, Reporting"/>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="943"/>
+    <bill relation="unknown" session="114" type="s" number="951"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Administrative remedies"/>
+    <term name="Department of the Treasury"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Government ethics and transparency, public corruption"/>
+    <term name="Internal Revenue Service (IRS)"/>
+    <term name="Lawyers and legal services"/>
+    <term name="Right of privacy"/>
+    <term name="Tax administration and collection, taxpayers"/>
+  </subjects>
+  <amendments/>
+  <summary>4/15/2015--Passed House amended.
+(This measure has not been amended since it was reported to the House on April 13, 2015. The summary of that version is repeated here.)
+
+Taxpayer Bill of Rights Act of 2015
+
+(Sec. 2) Amends the Internal Revenue Code to require the Internal Revenue Service (IRS) to ensure that IRS employees are familiar with and act in accordance with taxpayer rights, including the right to be informed, to quality service, to pay no more than the correct amount of tax, to challenge the position of the IRS and be heard, to an appeal in an independent forum, to finality, to privacy, to confidentiality, to retain representation, and to a fair and just tax system.</summary>
+</bill>

@@ -1,0 +1,32 @@
+<bill session="114" type="s" number="1799" updated="2015-08-08T07:06:48-04:00">
+  <state datetime="2015-07-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-16"/>
+  </status>
+  <introduced datetime="2015-07-16"/>
+  <titles>
+    <title type="short" as="introduced">Community Bank Sensible Regulation Act of 2015</title>
+    <title type="official" as="introduced">A bill to provide authority for certain depository institutions, and for other purposes.</title>
+  </titles>
+  <sponsor id="300025"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-16">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S5173-5174"/>
+    </action>
+    <action datetime="2015-07-16" state="REFERRED">
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1910"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+  </subjects>
+  <amendments/>
+</bill>

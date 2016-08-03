@@ -1,0 +1,44 @@
+<bill session="114" type="h" number="1558" updated="2015-05-14T04:47:35-04:00">
+  <state datetime="2015-03-24">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-24"/>
+  </status>
+  <introduced datetime="2015-03-24"/>
+  <titles>
+    <title type="short" as="introduced">Resolving Environmental and Grid Reliability Conflicts Act of 2015</title>
+    <title type="official" as="introduced">To clarify that compliance with an emergency order under section 202(c) of the Federal Power Act may not be considered a violation of any Federal, State, or local environmental law or regulation, and for other purposes.</title>
+  </titles>
+  <sponsor id="412302"/>
+  <cosponsors>
+    <cosponsor id="400114" joined="2015-03-24"/>
+    <cosponsor id="400160" joined="2015-03-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-24" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-03-27">
+      <text>Referred to the Subcommittee on Energy and Power.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="848"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Civil actions and liability"/>
+    <term name="Electric power generation and transmission"/>
+    <term name="Emergency planning and evacuation"/>
+    <term name="Energy storage, supplies, demand"/>
+    <term name="Environmental assessment, monitoring, research"/>
+    <term name="Federal Energy Regulatory Commission (FERC)"/>
+    <term name="Pollution liability"/>
+    <term name="Public utilities and utility rates"/>
+  </subjects>
+  <amendments/>
+</bill>

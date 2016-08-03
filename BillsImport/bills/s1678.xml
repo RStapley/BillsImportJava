@@ -1,0 +1,31 @@
+<bill session="114" type="s" number="1678" updated="2015-08-22T07:05:47-04:00">
+  <state datetime="2015-06-25">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-25"/>
+  </status>
+  <introduced datetime="2015-06-25"/>
+  <titles>
+    <title type="official" as="introduced">A bill to designate the facility of the United States Postal Service located at 201 B Street in Perryville, Arkansas, as "Harold George Bennett Post Office".</title>
+  </titles>
+  <sponsor id="400040"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-06-25" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Arkansas"/>
+    <term name="Congressional tributes"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Postal service"/>
+  </subjects>
+  <amendments/>
+  <summary>6/25/2015--Introduced.
+Designates the facility of the United States Postal Service located at 201 B Street in Perryville, Arkansas, as "Harold George Bennett Post Office."</summary>
+</bill>

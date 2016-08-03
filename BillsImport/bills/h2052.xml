@@ -1,0 +1,60 @@
+<bill session="114" type="h" number="2052" updated="2015-07-16T04:47:54-04:00">
+  <state datetime="2015-04-28">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-28"/>
+  </status>
+  <introduced datetime="2015-04-28"/>
+  <titles>
+    <title type="short" as="introduced">Excessive Use of Force Prevention Act of 2015</title>
+    <title type="official" as="introduced">To amend section 242 of title 18, United States Code, to forbid the use of chokeholds by persons subject to that provision's prohibitions, and for other purposes.</title>
+  </titles>
+  <sponsor id="412561"/>
+  <cosponsors>
+    <cosponsor id="412404" joined="2015-04-28"/>
+    <cosponsor id="400048" joined="2015-04-28"/>
+    <cosponsor id="412258" joined="2015-04-28"/>
+    <cosponsor id="412221" joined="2015-04-28"/>
+    <cosponsor id="400074" joined="2015-04-28"/>
+    <cosponsor id="400093" joined="2015-04-28"/>
+    <cosponsor id="400103" joined="2015-07-15"/>
+    <cosponsor id="412327" joined="2015-04-28"/>
+    <cosponsor id="400170" joined="2015-04-28"/>
+    <cosponsor id="412595" joined="2015-04-28"/>
+    <cosponsor id="400237" joined="2015-04-28"/>
+    <cosponsor id="400240" joined="2015-04-28"/>
+    <cosponsor id="400271" joined="2015-04-28"/>
+    <cosponsor id="400295" joined="2015-04-28"/>
+    <cosponsor id="412506" joined="2015-04-28"/>
+    <cosponsor id="400333" joined="2015-04-28"/>
+    <cosponsor id="412432" joined="2015-04-28"/>
+    <cosponsor id="400363" joined="2015-04-28"/>
+    <cosponsor id="400366" joined="2015-04-28"/>
+    <cosponsor id="412396" joined="2015-04-28"/>
+    <cosponsor id="412412" joined="2015-04-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-28" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-05-15">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Detention of persons"/>
+    <term name="Law enforcement officers"/>
+    <term name="Racial and ethnic relations"/>
+  </subjects>
+  <amendments/>
+  <summary>4/28/2015--Introduced.
+Excessive Use of Force Prevention Act of 2015
+
+Amends the federal criminal code to include the application of any pressure to the throat or windpipe which may prevent or hinder breathing or reduce intake of air within the meaning of "punishment, pain, or penalty" for purposes of the federal prohibition against deprivation of rights under color of law.</summary>
+</bill>

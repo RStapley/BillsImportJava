@@ -1,0 +1,35 @@
+<bill session="114" type="h" number="2532" updated="2015-07-04T06:39:45-04:00">
+  <state datetime="2015-05-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-21"/>
+  </status>
+  <introduced datetime="2015-05-21"/>
+  <titles>
+    <title type="short" as="introduced">EASY Savings Act of 2015</title>
+    <title type="short" as="introduced">Employees of America Streamlining for Your Savings Act of 2015</title>
+    <title type="official" as="introduced">To amend title 5, United States Code, to enhance the authority under which Federal agencies may pay cash awards to employees for making cost saving disclosures, and for other purposes.</title>
+  </titles>
+  <sponsor id="412476"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-05-21" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1378"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+  </subjects>
+  <amendments/>
+  <summary>5/21/2015--Introduced.
+Employees of America Streamlining for Your Savings Act of 2015 or the EASY Savings Act of 2015
+
+Expands the awards program for disclosures by federal employees of fraud, waste, or mismanagement that result in cost savings to the employee's agency to include identification of potential surplus funds or unnecessary budget authority. Directs that any savings resulting from the identification of such funds or budget authority be deposited in the Treasury and used to reduce a budget deficit or the federal debt. Permits the head of an agency to retain up to 10% of such savings for the purpose of paying cash awards to employees who identify surplus funds or unnecessary budget authority.
+
+Prohibits the payment of awards to: (1) the head of an agency; (2) federal officers who serve in a position at level I of the Executive Schedule; or (3) a voting member of an independent establishment.</summary>
+</bill>

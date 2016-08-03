@@ -1,0 +1,84 @@
+<bill session="114" type="s" number="746" updated="2015-07-22T05:01:06-04:00">
+  <state datetime="2015-03-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-16"/>
+  </status>
+  <introduced datetime="2015-03-16"/>
+  <titles>
+    <title type="short" as="introduced">Accelerating the End of Breast Cancer Act of 2015</title>
+    <title type="official" as="introduced">A bill to provide for the establishment of a Commission to Accelerate the End of Breast Cancer.</title>
+  </titles>
+  <sponsor id="300048"/>
+  <cosponsors>
+    <cosponsor id="412493" joined="2015-03-24"/>
+    <cosponsor id="400013" joined="2015-05-06"/>
+    <cosponsor id="412330" joined="2015-07-09"/>
+    <cosponsor id="412490" joined="2015-05-07"/>
+    <cosponsor id="400034" joined="2015-06-02"/>
+    <cosponsor id="300011" joined="2015-05-07"/>
+    <cosponsor id="400050" joined="2015-03-16"/>
+    <cosponsor id="400061" joined="2015-03-16"/>
+    <cosponsor id="400064" joined="2015-05-20"/>
+    <cosponsor id="300019" joined="2015-05-13"/>
+    <cosponsor id="412246" joined="2015-03-16"/>
+    <cosponsor id="300025" joined="2015-03-16"/>
+    <cosponsor id="412390" joined="2015-05-06"/>
+    <cosponsor id="300038" joined="2015-05-07"/>
+    <cosponsor id="300043" joined="2015-05-13"/>
+    <cosponsor id="412378" joined="2015-03-16"/>
+    <cosponsor id="412223" joined="2015-05-07"/>
+    <cosponsor id="300047" joined="2015-07-21"/>
+    <cosponsor id="412218" joined="2015-03-16"/>
+    <cosponsor id="412582" joined="2015-05-07"/>
+    <cosponsor id="412545" joined="2015-05-04"/>
+    <cosponsor id="400222" joined="2015-05-06"/>
+    <cosponsor id="412242" joined="2015-04-28"/>
+    <cosponsor id="300065" joined="2015-05-07"/>
+    <cosponsor id="400253" joined="2015-05-07"/>
+    <cosponsor id="400272" joined="2015-05-20"/>
+    <cosponsor id="412325" joined="2015-05-06"/>
+    <cosponsor id="300073" joined="2015-06-24"/>
+    <cosponsor id="300075" joined="2015-06-03"/>
+    <cosponsor id="412194" joined="2015-05-14"/>
+    <cosponsor id="412305" joined="2015-05-20"/>
+    <cosponsor id="300081" joined="2015-03-16"/>
+    <cosponsor id="400357" joined="2015-06-09"/>
+    <cosponsor id="300087" joined="2015-05-07"/>
+    <cosponsor id="412323" joined="2015-04-14"/>
+    <cosponsor id="300093" joined="2015-05-07"/>
+    <cosponsor id="412321" joined="2015-05-04"/>
+    <cosponsor id="412542" joined="2015-05-06"/>
+    <cosponsor id="412247" joined="2015-03-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-16" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Advisory bodies"/>
+    <term name="Cancer"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="Medical research"/>
+    <term name="Women's health"/>
+  </subjects>
+  <amendments/>
+  <summary>3/16/2015--Introduced.
+Accelerating the End of Breast Cancer Act of 2015
+
+Establishes the Commission to Accelerate the End of Breast Cancer to help end breast cancer by January 1, 2020.
+
+Directs the Commission to identify, recommend, and promote initiatives, partnerships, and research that can be turned into strategies to prevent breast cancer and breast cancer metastasis while giving priority to those that are: (1) not prioritized in the public sector, and (2) unlikely to be achieved by the private sector due to technical and financial uncertainty.
+
+Requires the Commission to: (1) submit within six months to the President and to the relevant congressional committees a description of the Commission's strategic plan; (2) submit an annual report to the President, Congress, and the public; and (3) ensure that its activities are coordinated with, and not duplicative of, programs and laboratories of other government agencies.
+
+Directs the President to enter into an agreement with the Institute of Medicine to evaluate the Commission's progress.
+
+Terminates the Commission on June 1, 2020.</summary>
+</bill>

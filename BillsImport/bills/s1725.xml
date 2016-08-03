@@ -1,0 +1,58 @@
+<bill session="114" type="s" number="1725" updated="2015-07-14T12:47:29-04:00">
+  <state datetime="2015-07-09">REPORTED</state>
+  <status>
+    <unknown datetime="2015-07-09"/>
+  </status>
+  <introduced datetime="2015-07-09"/>
+  <titles>
+    <title type="short" as="introduced">Department of State, Foreign Operations, and Related Programs Appropriations Act, 2016</title>
+    <title type="short" as="reported to senate">Department of State, Foreign Operations, and Related Programs Appropriations Act, 2016</title>
+    <title type="official" as="introduced">An original bill making appropriations for the Department of State, foreign operations, and related programs for the fiscal year ending September 30, 2016, and for other purposes.</title>
+  </titles>
+  <sponsor id="300047"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-09">
+      <text>Committee on Appropriations. Original measure reported to Senate by Senator Graham. With written report No. 114-79.</text>
+    </action>
+    <calendar datetime="2015-07-09" state="REPORTED" calendar="Senate Legislative" under="General Orders" number="144">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 144.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSAP" name="Senate Appropriations" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="2772"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+  </subjects>
+  <amendments/>
+  <summary>7/9/2015--Introduced.
+Department of State, Foreign Operations, and Related Programs Appropriations Act, 2016
+
+ Provides FY2016 appropriations for the Department of State, foreign operations, and related programs.
+
+Provides appropriations to the Department of State for Administration of Foreign Affairs, International Organizations, and International Commissions.
+
+Provides appropriations for Related Agencies and Related Programs, including:
+
+ the Broadcasting Board of Governors, the Asia Foundation, the U.S. Institute of Peace, the Center for Middle Eastern-Western Dialogue Trust Fund, the Eisenhower Exchange Fellowship Program, the Israeli Arab Scholarship Program, the East-West Center, and the National Endowment for Democracy. Provides appropriations for Other Commissions, including:
+
+ the Commission for the Preservation of America's Heritage Abroad, the U.S. Commission on International Religious Freedom, the Commission on Security and Cooperation in Europe, the Congressional-Executive Commission on the People's Republic of China, and the United States-China Economic and Security Review Commission. Provides appropriations for the U.S. Agency for International Development (USAID).
+
+Provides appropriations for Bilateral Economic Assistance to:
+
+ the President for Global Health Programs, Development Assistance, International Disaster Assistance, and the Economic Support Fund: the Department of State for Migration and Refugee Assistance; Independent Agencies, including the Peace Corps, the Millennium Challenge Corporation, the Inter-American Foundation, and the U.S. African Development Foundation; and the Department of the Treasury for International Affairs Technical Assistance. Provides appropriations to the Department of State and the President for International Security Assistance.
+
+Provides appropriations for International Financial Institutions, the Export-Import Bank of the United States, and the Overseas Private Investment Corporation.
+
+Provides appropriations for Overseas Contingency Operations.
+
+Provides appropriations to the President for Humanitarian Emergency Response, including International Disaster Assistance and Migration and Refugee Assistance. Designates the funds as emergency spending.
+
+Provides appropriations for Other Matters and Multilateral Assistance, including the International Monetary Fund.
+
+Rescinds specified unobligated balances from prior appropriations. Sets forth permissible, restricted, and prohibited uses for funds provided by this and other appropriations Acts.</summary>
+</bill>

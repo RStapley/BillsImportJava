@@ -1,0 +1,32 @@
+<bill session="114" type="h" number="3199" updated="2015-08-22T06:46:04-04:00">
+  <state datetime="2015-07-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-23"/>
+  </status>
+  <introduced datetime="2015-07-23"/>
+  <titles>
+    <title type="official" as="introduced">To prohibit statutory sanctions relief by the United States with respect to Iran unless the Senate provides its advice and consent to ratification of the Joint Comprehensive Plan of Action.</title>
+  </titles>
+  <sponsor id="412605"/>
+  <cosponsors>
+    <cosponsor id="412395" joined="2015-07-27"/>
+    <cosponsor id="412622" joined="2015-07-29"/>
+    <cosponsor id="412661" joined="2015-07-23"/>
+    <cosponsor id="412540" joined="2015-07-23"/>
+    <cosponsor id="412608" joined="2015-07-23"/>
+    <cosponsor id="412569" joined="2015-07-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-23" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,29 @@
+<bill session="114" type="s" number="1825" updated="2015-08-01T07:07:30-04:00">
+  <state datetime="2015-07-22">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-22"/>
+  </status>
+  <introduced datetime="2015-07-22"/>
+  <titles>
+    <title type="short" as="introduced">Nuclear Waste Informed Consent Act</title>
+    <title type="official" as="introduced">A bill to require the Secretary of Energy to obtain the consent of affected State and local governments before making an expenditure from the Nuclear Waste Fund for a nuclear waste repository.</title>
+  </titles>
+  <sponsor id="300082"/>
+  <cosponsors>
+    <cosponsor id="412218" joined="2015-07-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-22" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+      <reference ref="CR S5456" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+  </subjects>
+  <amendments/>
+</bill>

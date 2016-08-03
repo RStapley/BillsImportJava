@@ -1,0 +1,29 @@
+<bill session="114" type="s" number="1940" updated="2015-08-22T07:07:59-04:00">
+  <state datetime="2015-08-05">REFERRED</state>
+  <status>
+    <introduced datetime="2015-08-05"/>
+  </status>
+  <introduced datetime="2015-08-05"/>
+  <titles>
+    <title type="short" as="introduced">Safeguarding American Families and Expanding Social Security Act of 2015</title>
+    <title type="official" as="introduced">A bill to improve the retirement security of American families by increasing Social Security benefits for current and future beneficiaries while making Social Security stronger for future generations.</title>
+  </titles>
+  <sponsor id="412507"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-08-05" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1811"/>
+    <bill relation="unknown" session="114" type="s" number="960"/>
+  </relatedbills>
+  <subjects>
+    <term name="Social welfare"/>
+  </subjects>
+  <amendments/>
+</bill>

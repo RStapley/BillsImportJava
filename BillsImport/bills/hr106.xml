@@ -1,0 +1,61 @@
+<bill session="114" type="hr" number="106" updated="2015-04-14T04:46:06-04:00">
+  <state datetime="2015-02-11">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-11"/>
+  </status>
+  <introduced datetime="2015-02-11"/>
+  <titles>
+    <title type="official" as="introduced">Supporting quality of life for prostate cancer patients.</title>
+  </titles>
+  <sponsor id="412303"/>
+  <cosponsors>
+    <cosponsor id="400141" joined="2015-02-11"/>
+    <cosponsor id="400170" joined="2015-04-13"/>
+    <cosponsor id="412290" joined="2015-02-11"/>
+    <cosponsor id="412643" joined="2015-02-11"/>
+    <cosponsor id="400271" joined="2015-03-16"/>
+    <cosponsor id="412540" joined="2015-02-11"/>
+    <cosponsor id="412506" joined="2015-02-11"/>
+    <cosponsor id="400365" joined="2015-02-11"/>
+    <cosponsor id="400402" joined="2015-02-11"/>
+    <cosponsor id="400433" joined="2015-02-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-11" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-02-11">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-02-11">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-02-11">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2015-02-13">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Cancer"/>
+    <term name="Cardiovascular and respiratory health"/>
+    <term name="Digestive and metabolic diseases"/>
+    <term name="Health technology, devices, supplies"/>
+    <term name="Medicare"/>
+    <term name="Neurological disorders"/>
+    <term name="Sex and reproductive health"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>2/11/2015--Introduced.
+Urges protection of Medicare or veterans' benefits for medical device treatments for male incontinence and impotence that result from treatment for prostate cancer, diabetes, cardiovascular disease, Parkinson's disease, or multiple sclerosis. Expresses that coverage decisions should be based on data and made after careful review by medical experts.</summary>
+</bill>

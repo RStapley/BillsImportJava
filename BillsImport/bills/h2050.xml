@@ -1,0 +1,167 @@
+<bill session="114" type="h" number="2050" updated="2015-07-30T04:49:08-04:00">
+  <state datetime="2015-04-28">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-28"/>
+  </status>
+  <introduced datetime="2015-04-28"/>
+  <titles>
+    <title type="short" as="introduced">Middle Class Health Benefits Tax Repeal Act of 2015</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to repeal the excise tax on high cost employer-sponsored health coverage.</title>
+  </titles>
+  <sponsor id="412193"/>
+  <cosponsors>
+    <cosponsor id="412607" joined="2015-05-12"/>
+    <cosponsor id="412615" joined="2015-04-28"/>
+    <cosponsor id="412404" joined="2015-07-14"/>
+    <cosponsor id="412565" joined="2015-05-12"/>
+    <cosponsor id="400030" joined="2015-05-12"/>
+    <cosponsor id="412501" joined="2015-04-28"/>
+    <cosponsor id="412629" joined="2015-07-14"/>
+    <cosponsor id="412652" joined="2015-04-28"/>
+    <cosponsor id="400047" joined="2015-04-28"/>
+    <cosponsor id="400048" joined="2015-06-02"/>
+    <cosponsor id="412516" joined="2015-05-14"/>
+    <cosponsor id="412537" joined="2015-04-28"/>
+    <cosponsor id="400063" joined="2015-04-28"/>
+    <cosponsor id="412258" joined="2015-04-28"/>
+    <cosponsor id="412571" joined="2015-04-28"/>
+    <cosponsor id="412379" joined="2015-04-28"/>
+    <cosponsor id="412470" joined="2015-04-28"/>
+    <cosponsor id="412600" joined="2015-04-28"/>
+    <cosponsor id="412221" joined="2015-07-07"/>
+    <cosponsor id="412236" joined="2015-06-04"/>
+    <cosponsor id="400080" joined="2015-04-28"/>
+    <cosponsor id="412513" joined="2015-07-16"/>
+    <cosponsor id="412651" joined="2015-07-16"/>
+    <cosponsor id="400090" joined="2015-06-04"/>
+    <cosponsor id="412536" joined="2015-06-12"/>
+    <cosponsor id="400100" joined="2015-04-28"/>
+    <cosponsor id="400103" joined="2015-04-28"/>
+    <cosponsor id="412505" joined="2015-06-11"/>
+    <cosponsor id="412613" joined="2015-05-12"/>
+    <cosponsor id="412385" joined="2015-06-04"/>
+    <cosponsor id="412637" joined="2015-05-14"/>
+    <cosponsor id="412420" joined="2015-07-23"/>
+    <cosponsor id="400114" joined="2015-07-29"/>
+    <cosponsor id="412533" joined="2015-04-28"/>
+    <cosponsor id="412263" joined="2015-04-28"/>
+    <cosponsor id="412215" joined="2015-04-28"/>
+    <cosponsor id="412524" joined="2015-04-28"/>
+    <cosponsor id="400129" joined="2015-06-11"/>
+    <cosponsor id="400130" joined="2015-05-12"/>
+    <cosponsor id="412529" joined="2015-04-28"/>
+    <cosponsor id="412327" joined="2015-04-28"/>
+    <cosponsor id="412612" joined="2015-04-28"/>
+    <cosponsor id="412382" joined="2015-05-12"/>
+    <cosponsor id="412453" joined="2015-04-28"/>
+    <cosponsor id="412276" joined="2015-04-28"/>
+    <cosponsor id="400160" joined="2015-04-28"/>
+    <cosponsor id="400162" joined="2015-04-28"/>
+    <cosponsor id="400163" joined="2015-04-28"/>
+    <cosponsor id="412498" joined="2015-06-25"/>
+    <cosponsor id="400170" joined="2015-04-28"/>
+    <cosponsor id="400641" joined="2015-04-28"/>
+    <cosponsor id="400185" joined="2015-04-28"/>
+    <cosponsor id="400199" joined="2015-04-28"/>
+    <cosponsor id="412561" joined="2015-05-12"/>
+    <cosponsor id="400204" joined="2015-07-21"/>
+    <cosponsor id="412199" joined="2015-04-28"/>
+    <cosponsor id="400209" joined="2015-06-25"/>
+    <cosponsor id="412566" joined="2015-07-28"/>
+    <cosponsor id="400211" joined="2015-04-28"/>
+    <cosponsor id="412649" joined="2015-07-21"/>
+    <cosponsor id="412435" joined="2015-06-02"/>
+    <cosponsor id="412595" joined="2015-06-25"/>
+    <cosponsor id="412543" joined="2015-07-28"/>
+    <cosponsor id="412546" joined="2015-04-28"/>
+    <cosponsor id="412583" joined="2015-04-28"/>
+    <cosponsor id="412286" joined="2015-06-12"/>
+    <cosponsor id="412557" joined="2015-05-12"/>
+    <cosponsor id="412290" joined="2015-04-28"/>
+    <cosponsor id="400230" joined="2015-04-28"/>
+    <cosponsor id="400233" joined="2015-04-28"/>
+    <cosponsor id="412638" joined="2015-04-28"/>
+    <cosponsor id="400237" joined="2015-04-29"/>
+    <cosponsor id="400240" joined="2015-06-02"/>
+    <cosponsor id="412616" joined="2015-06-25"/>
+    <cosponsor id="400630" joined="2015-04-28"/>
+    <cosponsor id="400244" joined="2015-04-28"/>
+    <cosponsor id="412209" joined="2015-04-28"/>
+    <cosponsor id="400245" joined="2015-04-29"/>
+    <cosponsor id="412521" joined="2015-05-14"/>
+    <cosponsor id="400246" joined="2015-05-12"/>
+    <cosponsor id="412558" joined="2015-06-18"/>
+    <cosponsor id="412293" joined="2015-04-28"/>
+    <cosponsor id="400249" joined="2015-04-28"/>
+    <cosponsor id="412643" joined="2015-06-10"/>
+    <cosponsor id="412562" joined="2015-04-28"/>
+    <cosponsor id="400259" joined="2015-04-28"/>
+    <cosponsor id="400262" joined="2015-06-04"/>
+    <cosponsor id="400263" joined="2015-04-28"/>
+    <cosponsor id="412487" joined="2015-07-13"/>
+    <cosponsor id="412560" joined="2015-07-21"/>
+    <cosponsor id="412527" joined="2015-04-28"/>
+    <cosponsor id="400289" joined="2015-04-28"/>
+    <cosponsor id="400290" joined="2015-04-28"/>
+    <cosponsor id="408211" joined="2015-05-12"/>
+    <cosponsor id="412606" joined="2015-04-28"/>
+    <cosponsor id="400295" joined="2015-04-28"/>
+    <cosponsor id="400309" joined="2015-04-28"/>
+    <cosponsor id="412506" joined="2015-05-14"/>
+    <cosponsor id="412192" joined="2015-04-28"/>
+    <cosponsor id="412523" joined="2015-04-28"/>
+    <cosponsor id="400316" joined="2015-06-10"/>
+    <cosponsor id="412307" joined="2015-06-02"/>
+    <cosponsor id="412585" joined="2015-04-28"/>
+    <cosponsor id="412331" joined="2015-04-28"/>
+    <cosponsor id="400347" joined="2015-05-12"/>
+    <cosponsor id="400349" joined="2015-06-10"/>
+    <cosponsor id="400350" joined="2015-06-02"/>
+    <cosponsor id="400352" joined="2015-04-28"/>
+    <cosponsor id="400355" joined="2015-04-28"/>
+    <cosponsor id="400356" joined="2015-06-04"/>
+    <cosponsor id="400360" joined="2015-04-28"/>
+    <cosponsor id="400361" joined="2015-06-10"/>
+    <cosponsor id="400363" joined="2015-06-02"/>
+    <cosponsor id="400366" joined="2015-04-28"/>
+    <cosponsor id="412509" joined="2015-04-28"/>
+    <cosponsor id="412186" joined="2015-04-28"/>
+    <cosponsor id="400380" joined="2015-06-02"/>
+    <cosponsor id="412626" joined="2015-07-07"/>
+    <cosponsor id="412520" joined="2015-06-02"/>
+    <cosponsor id="400402" joined="2015-04-28"/>
+    <cosponsor id="412318" joined="2015-04-28"/>
+    <cosponsor id="412319" joined="2015-04-28"/>
+    <cosponsor id="412617" joined="2015-07-28"/>
+    <cosponsor id="400415" joined="2015-04-28"/>
+    <cosponsor id="412522" joined="2015-04-28"/>
+    <cosponsor id="412579" joined="2015-06-25"/>
+    <cosponsor id="400416" joined="2015-06-04"/>
+    <cosponsor id="412214" joined="2015-04-28"/>
+    <cosponsor id="400422" joined="2015-07-29"/>
+    <cosponsor id="412644" joined="2015-07-28"/>
+    <cosponsor id="412239" joined="2015-04-28"/>
+    <cosponsor id="412412" joined="2015-06-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-28" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Sales and excise taxes"/>
+  </subjects>
+  <amendments/>
+  <summary>4/28/2015--Introduced.
+Middle Class Health Benefits Tax Repeal Act of 2015 
+
+Amends the Internal Revenue Code to repeal, beginning with taxable years beginning after December 31, 2017, the excise tax on employer-sponsored health care coverage for which there is an excess benefit (high-cost plans).</summary>
+</bill>

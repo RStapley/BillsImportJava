@@ -1,0 +1,348 @@
+<bill session="114" type="h" number="1190" updated="2015-06-27T06:39:10-04:00">
+  <state datetime="2015-06-23T18:57:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2015-06-23T18:57:00-04:00"/>
+  </status>
+  <introduced datetime="2015-03-02"/>
+  <titles>
+    <title type="short" as="introduced">Protecting Seniors' Access to Medicare Act of 2015</title>
+    <title type="short" as="passed house">Protecting Seniors' Access to Medicare Act of 2015</title>
+    <title type="official" as="introduced">To repeal the provisions of the Patient Protection and Affordable Care Act providing for the Independent Payment Advisory Board.</title>
+  </titles>
+  <sponsor id="412310"/>
+  <cosponsors>
+    <cosponsor id="412630" joined="2015-03-02"/>
+    <cosponsor id="400004" joined="2015-03-02"/>
+    <cosponsor id="412625" joined="2015-03-02"/>
+    <cosponsor id="412438" joined="2015-03-02"/>
+    <cosponsor id="412500" joined="2015-03-02"/>
+    <cosponsor id="412655" joined="2015-03-02"/>
+    <cosponsor id="412469" joined="2015-03-02"/>
+    <cosponsor id="412541" joined="2015-03-02"/>
+    <cosponsor id="412436" joined="2015-03-02"/>
+    <cosponsor id="412512" joined="2015-03-02"/>
+    <cosponsor id="412250" joined="2015-03-02"/>
+    <cosponsor id="412635" joined="2015-03-02"/>
+    <cosponsor id="400029" joined="2015-03-16"/>
+    <cosponsor id="412478" joined="2015-03-02"/>
+    <cosponsor id="400032" joined="2015-03-02"/>
+    <cosponsor id="412627" joined="2015-03-02"/>
+    <cosponsor id="412629" joined="2015-05-20"/>
+    <cosponsor id="400636" joined="2015-03-02"/>
+    <cosponsor id="400046" joined="2015-05-20"/>
+    <cosponsor id="412605" joined="2015-03-02"/>
+    <cosponsor id="412567" joined="2015-05-01"/>
+    <cosponsor id="412395" joined="2015-03-02"/>
+    <cosponsor id="412539" joined="2015-03-02"/>
+    <cosponsor id="412516" joined="2015-03-02"/>
+    <cosponsor id="412196" joined="2015-03-02"/>
+    <cosponsor id="412619" joined="2015-03-02"/>
+    <cosponsor id="412427" joined="2015-03-02"/>
+    <cosponsor id="400052" joined="2015-03-02"/>
+    <cosponsor id="412601" joined="2015-03-02"/>
+    <cosponsor id="400063" joined="2015-03-02"/>
+    <cosponsor id="412517" joined="2015-03-02"/>
+    <cosponsor id="412622" joined="2015-03-02"/>
+    <cosponsor id="400068" joined="2015-04-14"/>
+    <cosponsor id="400071" joined="2015-03-02"/>
+    <cosponsor id="412270" joined="2015-03-02"/>
+    <cosponsor id="412604" joined="2015-03-02"/>
+    <cosponsor id="412271" joined="2015-03-02"/>
+    <cosponsor id="400077" joined="2015-05-01"/>
+    <cosponsor id="412563" joined="2015-03-02"/>
+    <cosponsor id="412531" joined="2015-03-02"/>
+    <cosponsor id="412658" joined="2015-03-02"/>
+    <cosponsor id="400655" joined="2015-03-02"/>
+    <cosponsor id="412513" joined="2015-03-02"/>
+    <cosponsor id="412651" joined="2015-03-16"/>
+    <cosponsor id="412193" joined="2015-03-02"/>
+    <cosponsor id="412555" joined="2015-03-02"/>
+    <cosponsor id="412400" joined="2015-03-02"/>
+    <cosponsor id="400086" joined="2015-03-02"/>
+    <cosponsor id="400089" joined="2015-03-02"/>
+    <cosponsor id="412621" joined="2015-03-02"/>
+    <cosponsor id="412536" joined="2015-03-02"/>
+    <cosponsor id="412403" joined="2015-03-02"/>
+    <cosponsor id="400648" joined="2015-03-02"/>
+    <cosponsor id="412526" joined="2015-03-02"/>
+    <cosponsor id="412477" joined="2015-03-02"/>
+    <cosponsor id="400108" joined="2015-03-02"/>
+    <cosponsor id="412420" joined="2015-03-02"/>
+    <cosponsor id="412488" joined="2015-03-02"/>
+    <cosponsor id="412472" joined="2015-03-02"/>
+    <cosponsor id="400116" joined="2015-03-02"/>
+    <cosponsor id="412457" joined="2015-03-02"/>
+    <cosponsor id="412639" joined="2015-04-14"/>
+    <cosponsor id="412524" joined="2015-03-02"/>
+    <cosponsor id="412482" joined="2015-03-02"/>
+    <cosponsor id="412479" joined="2015-03-02"/>
+    <cosponsor id="400646" joined="2015-03-02"/>
+    <cosponsor id="412476" joined="2015-03-02"/>
+    <cosponsor id="412275" joined="2015-03-02"/>
+    <cosponsor id="412480" joined="2015-03-02"/>
+    <cosponsor id="400137" joined="2015-03-02"/>
+    <cosponsor id="400640" joined="2015-03-02"/>
+    <cosponsor id="400141" joined="2015-03-02"/>
+    <cosponsor id="400142" joined="2015-03-02"/>
+    <cosponsor id="412463" joined="2015-03-02"/>
+    <cosponsor id="412453" joined="2015-03-02"/>
+    <cosponsor id="400651" joined="2015-03-02"/>
+    <cosponsor id="400154" joined="2015-03-02"/>
+    <cosponsor id="412397" joined="2015-03-02"/>
+    <cosponsor id="412473" joined="2015-03-02"/>
+    <cosponsor id="400157" joined="2015-03-02"/>
+    <cosponsor id="400158" joined="2015-03-02"/>
+    <cosponsor id="412388" joined="2015-03-02"/>
+    <cosponsor id="412485" joined="2015-03-02"/>
+    <cosponsor id="412661" joined="2015-03-02"/>
+    <cosponsor id="412447" joined="2015-03-02"/>
+    <cosponsor id="412278" joined="2015-03-02"/>
+    <cosponsor id="412454" joined="2015-05-12"/>
+    <cosponsor id="412280" joined="2015-03-02"/>
+    <cosponsor id="412434" joined="2015-03-02"/>
+    <cosponsor id="412444" joined="2015-05-01"/>
+    <cosponsor id="412446" joined="2015-03-02"/>
+    <cosponsor id="400175" joined="2015-03-02"/>
+    <cosponsor id="412486" joined="2015-03-02"/>
+    <cosponsor id="412623" joined="2015-03-02"/>
+    <cosponsor id="412609" joined="2015-03-02"/>
+    <cosponsor id="412553" joined="2015-03-02"/>
+    <cosponsor id="412550" joined="2015-03-02"/>
+    <cosponsor id="412429" joined="2015-03-02"/>
+    <cosponsor id="412437" joined="2015-03-02"/>
+    <cosponsor id="412422" joined="2015-03-02"/>
+    <cosponsor id="412283" joined="2015-03-02"/>
+    <cosponsor id="412654" joined="2015-03-02"/>
+    <cosponsor id="412484" joined="2015-03-02"/>
+    <cosponsor id="412663" joined="2015-06-03"/>
+    <cosponsor id="412284" joined="2015-03-02"/>
+    <cosponsor id="412460" joined="2015-03-02"/>
+    <cosponsor id="400206" joined="2015-03-02"/>
+    <cosponsor id="412603" joined="2015-03-02"/>
+    <cosponsor id="400209" joined="2015-03-02"/>
+    <cosponsor id="412566" joined="2015-03-02"/>
+    <cosponsor id="412649" joined="2015-05-12"/>
+    <cosponsor id="412465" joined="2015-03-02"/>
+    <cosponsor id="400219" joined="2015-03-02"/>
+    <cosponsor id="400220" joined="2015-03-16"/>
+    <cosponsor id="412421" joined="2015-03-02"/>
+    <cosponsor id="412286" joined="2015-03-02"/>
+    <cosponsor id="400224" joined="2015-03-02"/>
+    <cosponsor id="412614" joined="2015-06-02"/>
+    <cosponsor id="412510" joined="2015-03-02"/>
+    <cosponsor id="412191" joined="2015-03-02"/>
+    <cosponsor id="412290" joined="2015-03-02"/>
+    <cosponsor id="400233" joined="2015-03-02"/>
+    <cosponsor id="412256" joined="2015-03-02"/>
+    <cosponsor id="400244" joined="2015-03-17"/>
+    <cosponsor id="412445" joined="2015-03-02"/>
+    <cosponsor id="412624" joined="2015-05-20"/>
+    <cosponsor id="400247" joined="2015-05-01"/>
+    <cosponsor id="412292" joined="2015-03-02"/>
+    <cosponsor id="412294" joined="2015-03-02"/>
+    <cosponsor id="400249" joined="2015-03-02"/>
+    <cosponsor id="412562" joined="2015-03-02"/>
+    <cosponsor id="400656" joined="2015-03-02"/>
+    <cosponsor id="412468" joined="2015-03-02"/>
+    <cosponsor id="412503" joined="2015-03-02"/>
+    <cosponsor id="400654" joined="2015-03-02"/>
+    <cosponsor id="412295" joined="2015-03-02"/>
+    <cosponsor id="400644" joined="2015-03-02"/>
+    <cosponsor id="412487" joined="2015-03-02"/>
+    <cosponsor id="412611" joined="2015-06-01"/>
+    <cosponsor id="412552" joined="2015-03-02"/>
+    <cosponsor id="412466" joined="2015-03-02"/>
+    <cosponsor id="412540" joined="2015-03-02"/>
+    <cosponsor id="400279" joined="2015-03-02"/>
+    <cosponsor id="412568" joined="2015-03-02"/>
+    <cosponsor id="412474" joined="2015-03-02"/>
+    <cosponsor id="400285" joined="2015-03-02"/>
+    <cosponsor id="400441" joined="2015-03-02"/>
+    <cosponsor id="412660" joined="2015-03-02"/>
+    <cosponsor id="412475" joined="2015-03-02"/>
+    <cosponsor id="412409" joined="2015-03-02"/>
+    <cosponsor id="400297" joined="2015-03-02"/>
+    <cosponsor id="412575" joined="2015-05-13"/>
+    <cosponsor id="412302" joined="2015-03-02"/>
+    <cosponsor id="412443" joined="2015-03-02"/>
+    <cosponsor id="400309" joined="2015-03-02"/>
+    <cosponsor id="412303" joined="2015-03-02"/>
+    <cosponsor id="400313" joined="2015-03-02"/>
+    <cosponsor id="412569" joined="2015-03-02"/>
+    <cosponsor id="412523" joined="2015-03-02"/>
+    <cosponsor id="400316" joined="2015-03-02"/>
+    <cosponsor id="412551" joined="2015-03-02"/>
+    <cosponsor id="400652" joined="2015-03-02"/>
+    <cosponsor id="412633" joined="2015-03-02"/>
+    <cosponsor id="412431" joined="2015-03-02"/>
+    <cosponsor id="412309" joined="2015-03-02"/>
+    <cosponsor id="400626" joined="2015-03-02"/>
+    <cosponsor id="412653" joined="2015-03-02"/>
+    <cosponsor id="412393" joined="2015-03-02"/>
+    <cosponsor id="400660" joined="2015-05-01"/>
+    <cosponsor id="412462" joined="2015-03-02"/>
+    <cosponsor id="412489" joined="2015-03-02"/>
+    <cosponsor id="412572" joined="2015-03-02"/>
+    <cosponsor id="412483" joined="2015-03-02"/>
+    <cosponsor id="412394" joined="2015-03-02"/>
+    <cosponsor id="412426" joined="2015-03-02"/>
+    <cosponsor id="412311" joined="2015-03-02"/>
+    <cosponsor id="412202" joined="2015-03-02"/>
+    <cosponsor id="412411" joined="2015-03-02"/>
+    <cosponsor id="412570" joined="2015-03-02"/>
+    <cosponsor id="412641" joined="2015-03-02"/>
+    <cosponsor id="400348" joined="2015-03-02"/>
+    <cosponsor id="412519" joined="2015-03-02"/>
+    <cosponsor id="412650" joined="2015-03-02"/>
+    <cosponsor id="400606" joined="2015-03-02"/>
+    <cosponsor id="400355" joined="2015-03-02"/>
+    <cosponsor id="400356" joined="2015-03-02"/>
+    <cosponsor id="400607" joined="2015-05-12"/>
+    <cosponsor id="412314" joined="2015-03-02"/>
+    <cosponsor id="412399" joined="2015-03-02"/>
+    <cosponsor id="412417" joined="2015-03-02"/>
+    <cosponsor id="400363" joined="2015-03-02"/>
+    <cosponsor id="400365" joined="2015-04-14"/>
+    <cosponsor id="400367" joined="2015-03-02"/>
+    <cosponsor id="400373" joined="2015-03-02"/>
+    <cosponsor id="409888" joined="2015-05-01"/>
+    <cosponsor id="400376" joined="2015-03-02"/>
+    <cosponsor id="412509" joined="2015-03-02"/>
+    <cosponsor id="412217" joined="2015-03-02"/>
+    <cosponsor id="400380" joined="2015-03-02"/>
+    <cosponsor id="412596" joined="2015-05-12"/>
+    <cosponsor id="400381" joined="2015-03-02"/>
+    <cosponsor id="412648" joined="2015-04-21"/>
+    <cosponsor id="412581" joined="2015-03-02"/>
+    <cosponsor id="412461" joined="2015-03-02"/>
+    <cosponsor id="412392" joined="2015-03-02"/>
+    <cosponsor id="400402" joined="2015-04-14"/>
+    <cosponsor id="412317" joined="2015-03-02"/>
+    <cosponsor id="400404" joined="2015-03-02"/>
+    <cosponsor id="400406" joined="2015-03-02"/>
+    <cosponsor id="412405" joined="2015-03-02"/>
+    <cosponsor id="412636" joined="2015-03-02"/>
+    <cosponsor id="400411" joined="2015-03-02"/>
+    <cosponsor id="412515" joined="2015-03-02"/>
+    <cosponsor id="412548" joined="2015-03-02"/>
+    <cosponsor id="412213" joined="2015-03-02"/>
+    <cosponsor id="400419" joined="2015-05-01"/>
+    <cosponsor id="412670" joined="2015-05-12"/>
+    <cosponsor id="412538" joined="2015-03-02"/>
+    <cosponsor id="412618" joined="2015-05-12"/>
+    <cosponsor id="412574" joined="2015-03-02"/>
+    <cosponsor id="412410" joined="2015-03-02"/>
+    <cosponsor id="412564" joined="2015-03-02"/>
+    <cosponsor id="412610" joined="2015-03-02"/>
+    <cosponsor id="400627" joined="2015-03-02"/>
+    <cosponsor id="400431" joined="2015-03-02"/>
+    <cosponsor id="412578" joined="2015-03-02"/>
+    <cosponsor id="400433" joined="2015-03-02"/>
+    <cosponsor id="412255" joined="2015-03-02"/>
+    <cosponsor id="412402" joined="2015-03-02"/>
+    <cosponsor id="412430" joined="2015-03-02"/>
+    <cosponsor id="412525" joined="2015-03-02"/>
+    <cosponsor id="412628" joined="2015-03-02"/>
+    <cosponsor id="400440" joined="2015-03-02"/>
+    <cosponsor id="412428" joined="2015-03-02"/>
+    <cosponsor id="412640" joined="2015-03-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-02" state="REFERRED">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committees on Energy and Commerce, and Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-03-02">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-03-02">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-03-02">
+      <text>Referred to House Rules</text>
+    </action>
+    <action datetime="2015-03-06">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2015-06-02">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-06-02" state="REPORTED">
+      <text>Ordered to be Reported by the Yeas and Nays: 31 - 8.</text>
+    </calendar>
+    <action datetime="2015-06-12T15:17:00-04:00">
+      <text>Reported by the Committee on Ways and Means. H. Rept. 114-150, Part I.</text>
+    </action>
+    <action datetime="2015-06-12T15:18:00-04:00">
+      <text>Committee on Energy and Commerce discharged.</text>
+    </action>
+    <action datetime="2015-06-12T15:18:00-04:00">
+      <text>Committee on Rules discharged.</text>
+    </action>
+    <calendar datetime="2015-06-12T15:18:00-04:00" calendar="Union" number="108">
+      <text>Placed on the Union Calendar, Calendar No. 108.</text>
+    </calendar>
+    <action datetime="2015-06-16T18:47:00-04:00">
+      <text>Rules Committee Resolution H. Res. 319 Reported to House. The resolution provides for consideration of H.R. 160 and H.R. 1190. Each bill is closed under the rule, and shall be debatable for 1 hour. The resolution also provides for one motion to recommit with or without instructions for both bills.</text>
+    </action>
+    <action datetime="2015-06-17T16:21:00-04:00">
+      <text>Rule H. Res. 319 passed House.</text>
+    </action>
+    <action datetime="2015-06-18T13:00:00-04:00">
+      <text>Considered under the provisions of rule H. Res. 319.</text>
+      <reference ref="CR H4528-4535" label="consideration"/>
+      <reference ref="CR H4528" label="text of measure as reported in House"/>
+    </action>
+    <action datetime="2015-06-18T13:00:00-04:00">
+      <text>The resolution provides for consideration of H.R. 160 and H.R. 1190. Each bill is closed under the rule, and shall be debatable for 1 hour. The resolution also provides for one motion to recommit with or without instructions for both bills.</text>
+    </action>
+    <action datetime="2015-06-18T13:01:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 319, the amendment printed in part B of the report of the Committee on Rules accompanying this resolution shall be considered as adopted. The House proceeded with one hour of debate on H.R. 1190.</text>
+    </action>
+    <action datetime="2015-06-18T13:56:00-04:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+      <reference ref="CR H4535" label="consideration"/>
+    </action>
+    <action datetime="2015-06-18T13:56:00-04:00">
+      <text>POSTPONED PROCEEDINGS - The Chair put the question on passage of H.R. 1190 and by voice vote, announced that the ayes had prevailed. Mr. Pitts demanded the yeas and nays which were ordered, and pursuant to clause 8, rule XX, the Chair postponed further proceedings on the question of passage of H.R. 1190 until a time to be announced.</text>
+    </action>
+    <action datetime="2015-06-23T18:32:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H4579-4580" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="376" datetime="2015-06-23T18:57:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by the Yeas and Nays: 244 - 154 (Roll no. 376).</text>
+    </vote>
+    <action datetime="2015-06-23T18:57:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2015-06-24">
+      <text>Received in the Senate and Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, Markup, Reporting"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Discharged"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSRU" name="House Rules" activity="Referral, Discharged"/>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="rule" session="114" type="hr" number="319"/>
+    <bill relation="identical" session="114" type="s" number="141"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Advisory bodies"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Medicare"/>
+  </subjects>
+  <amendments>
+    <amendment number="h525"/>
+  </amendments>
+  <summary>6/23/2015--Passed House amended.
+Protecting Seniors' Access to Medicare Act of 2015
+
+(Sec. 2) Repeals sections of the Patient Protection and Affordable Care Act (and restores provisions of law amended by those sections) related to the establishment of an Independent Payment Advisory Board to develop proposals to reduce the per capita rate of growth in spending under title XVIII (Medicare) of the Social Security Act.
+
+(Sec. 3) Rescinds specified appropriations to the Prevention and Public Health Fund for FY2017-FY2026 and each fiscal year thereafter.</summary>
+</bill>

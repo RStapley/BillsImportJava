@@ -1,0 +1,47 @@
+<bill session="114" type="h" number="445" updated="2015-04-15T04:46:57-04:00">
+  <state datetime="2015-01-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-21"/>
+  </status>
+  <introduced datetime="2015-01-21"/>
+  <titles>
+    <title type="short" as="introduced">Transparency in Rule Making When Using Scientific Testing Act of 2015</title>
+    <title type="official" as="introduced">To amend title 5, United States Code, to require that scientific studies used in a rule making be published, and for other purposes.</title>
+  </titles>
+  <sponsor id="412427"/>
+  <cosponsors>
+    <cosponsor id="412531" joined="2015-02-20"/>
+    <cosponsor id="400141" joined="2015-02-10"/>
+    <cosponsor id="412463" joined="2015-02-13"/>
+    <cosponsor id="412645" joined="2015-02-12"/>
+    <cosponsor id="412292" joined="2015-02-26"/>
+    <cosponsor id="412540" joined="2015-02-12"/>
+    <cosponsor id="412462" joined="2015-04-14"/>
+    <cosponsor id="400367" joined="2015-02-11"/>
+    <cosponsor id="412428" joined="2015-02-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-21" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-02-19">
+      <text>Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU05" subcommittee="Regulatory Reform, Commercial And Antitrust Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Government information and archives"/>
+    <term name="Research administration and funding"/>
+  </subjects>
+  <amendments/>
+  <summary>1/21/2015--Introduced.
+Transparency in Rule Making When Using Scientific Testing Act of 2015
+
+Requires the general notice of proposed rulemaking published in the Federal Register to include any scientific research of which the agency is aware and which is relevant to the rulemaking. Defines "scientific study" for purposes of the rulemaking process.</summary>
+</bill>

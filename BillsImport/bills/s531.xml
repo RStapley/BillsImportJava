@@ -1,0 +1,37 @@
+<bill session="114" type="s" number="531" updated="2015-04-11T06:38:07-04:00">
+  <state datetime="2015-02-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-23"/>
+  </status>
+  <introduced datetime="2015-02-23"/>
+  <titles>
+    <title type="short" as="introduced">ReLIEF Act</title>
+    <title type="short" as="introduced">Removing Limitations on Insurance Effectiveness and Flexibility Act of 2015</title>
+    <title type="official" as="introduced">A bill to permit health insurance issuers to offer additional plan options to individuals.</title>
+  </titles>
+  <sponsor id="400134"/>
+  <cosponsors>
+    <cosponsor id="412493" joined="2015-02-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-23" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Comprehensive health care"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Income tax credits"/>
+  </subjects>
+  <amendments/>
+  <summary>2/23/2015--Introduced.
+Removing Limitations on Insurance Effectiveness and Flexibility Act of 2015 or the ReLIEF Act
+
+This bill deems catastrophic health plans described in the Patient Protection and Affordable Care Act to be qualified health plans that are eligible for premium assistance and fulfill an individual's requirement to maintain minimum essential coverage. Limitations on eligibility for enrollment in catastrophic plans are eliminated.</summary>
+</bill>

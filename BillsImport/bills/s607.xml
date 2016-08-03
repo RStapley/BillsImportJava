@@ -1,0 +1,64 @@
+<bill session="114" type="s" number="607" updated="2015-08-08T06:56:45-04:00">
+  <state datetime="2015-06-24">REPORTED</state>
+  <status>
+    <unknown datetime="2015-06-24"/>
+  </status>
+  <introduced datetime="2015-02-27"/>
+  <titles>
+    <title type="short" as="introduced">Rural Community Hospital Demonstration Extension Act of 2015</title>
+    <title type="short" as="reported to senate">Rural Community Hospital Demonstration Extension Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act to provide for a five-year extension of the rural community hospital demonstration program, and for other purposes.</title>
+  </titles>
+  <sponsor id="300048"/>
+  <cosponsors>
+    <cosponsor id="412330" joined="2015-02-27"/>
+    <cosponsor id="300023" joined="2015-05-06"/>
+    <cosponsor id="412667" joined="2015-04-30"/>
+    <cosponsor id="412556" joined="2015-05-21"/>
+    <cosponsor id="412378" joined="2015-05-05"/>
+    <cosponsor id="412406" joined="2015-05-07"/>
+    <cosponsor id="400284" joined="2015-02-27"/>
+    <cosponsor id="300075" joined="2015-02-27"/>
+    <cosponsor id="300083" joined="2015-04-27"/>
+    <cosponsor id="412669" joined="2015-06-15"/>
+    <cosponsor id="412665" joined="2015-03-03"/>
+    <cosponsor id="400546" joined="2015-03-26"/>
+    <cosponsor id="400413" joined="2015-03-03"/>
+    <cosponsor id="400432" joined="2015-04-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-27" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+    <calendar datetime="2015-06-24" state="REPORTED">
+      <text>Committee on Finance. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="2015-07-30">
+      <text>Committee on Finance. Reported by Senator Hatch with an amendment in the nature of a substitute and an amendment to the title. With written report No. 114-102.</text>
+    </action>
+    <calendar datetime="2015-07-30" calendar="Senate Legislative" under="General Orders" number="181">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 181.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="672"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Congressional oversight"/>
+    <term name="Health care coverage and access"/>
+    <term name="Hospital care"/>
+    <term name="Medicare"/>
+    <term name="Rural conditions and development"/>
+  </subjects>
+  <amendments/>
+  <summary>7/30/2015--Reported to Senate amended.
+Rural Community Hospital Demonstration Extension Act of 2015
+
+This bill amends the Medicare Prescription Drug, Improvement, and Modernization Act of 2003, as amended by the Patient Protection and Affordable Care Act, to extend the period of the Medicare rural community hospital demonstration program from 5 to 10 years.
+
+Requires the Department of Health and Human Services to allow rural community hospitals participating in the demonstration program as of December 30, 2014, to continue during the second five years of the 10-year extension period.</summary>
+</bill>

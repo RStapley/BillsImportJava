@@ -1,0 +1,61 @@
+<bill session="114" type="h" number="1643" updated="2015-07-08T04:48:09-04:00">
+  <state datetime="2015-06-17">REPORTED</state>
+  <status>
+    <unknown datetime="2015-06-17"/>
+  </status>
+  <introduced datetime="2015-03-26"/>
+  <titles>
+    <title type="short" as="introduced">Digital Goods and Services Tax Fairness Act of 2015</title>
+    <title type="official" as="introduced">To promote neutrality, simplicity, and fairness in the taxation of digital goods and digital services.</title>
+  </titles>
+  <sponsor id="400381"/>
+  <cosponsors>
+    <cosponsor id="400071" joined="2015-03-26"/>
+    <cosponsor id="412236" joined="2015-03-26"/>
+    <cosponsor id="412482" joined="2015-06-12"/>
+    <cosponsor id="400141" joined="2015-03-26"/>
+    <cosponsor id="400170" joined="2015-07-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-26" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-04-29">
+      <text>Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.</text>
+    </action>
+    <action datetime="2015-06-02">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="2015-06-16">
+      <text>Subcommittee on Regulatory Reform, Commercial And Antitrust Law Discharged.</text>
+    </action>
+    <action datetime="2015-06-17">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-06-17" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSJU05" subcommittee="Regulatory Reform, Commercial And Antitrust Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="851"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Digital media"/>
+    <term name="Internet and video services"/>
+    <term name="Sales and excise taxes"/>
+    <term name="State and local taxation"/>
+    <term name="Tax administration and collection, taxpayers"/>
+  </subjects>
+  <amendments/>
+  <summary>3/26/2015--Introduced.
+Digital Goods and Services Tax Fairness Act of 2015
+
+Prohibits a state or local jurisdiction from imposing multiple or discriminatory taxes on the sale or use of a digital good or service delivered or transferred electronically to a customer. Excludes from the definition of "digital service" a service that is predominantly attributable to the direct, contemporaneous expenditure of live human effort, skill, or expertise, a telecommunications service, an ancillary service, an Internet access service, an audio or video programming service, or a hotel intermediary service.
+
+Restricts taxation of a digital good or service to taxation by a state or local jurisdiction whose territorial limits encompass a customer tax address, as defined by this Act. Makes the seller of digital goods or services responsible for obtaining and maintaining such address. Provides for the taxation of digital goods and services transactions that are aggregated and not separately stated.</summary>
+</bill>

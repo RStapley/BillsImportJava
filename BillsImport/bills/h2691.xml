@@ -1,0 +1,49 @@
+<bill session="114" type="h" number="2691" updated="2015-07-10T04:48:25-04:00">
+  <state datetime="2015-06-09">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-09"/>
+  </status>
+  <introduced datetime="2015-06-09"/>
+  <titles>
+    <title type="short" as="introduced">Veterans' Survivors Claims Processing Automation Act of 2015</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to authorize the Secretary of Veterans Affairs to adjudicate and pay survivor's benefits without requiring the filing of a formal claim, and for other purposes.</title>
+  </titles>
+  <sponsor id="412519"/>
+  <cosponsors>
+    <cosponsor id="400041" joined="2015-06-18"/>
+    <cosponsor id="412571" joined="2015-06-25"/>
+    <cosponsor id="412214" joined="2015-06-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-09" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2015-06-23">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+    </action>
+    <action datetime="2015-06-24">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="2015-07-09">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2015-07-09">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSVR09" subcommittee="Disability Assistance and Memorial Affairs" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="1451"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <summary>6/9/2015--Introduced.
+Veterans' Survivors Claims Processing Automation Act of 2015
+
+This bill authorizes the Department of Veterans Affairs to pay benefits to a survivor of a veteran who has not filed a formal claim if the record contains sufficient evidence to establish the survivor's entitlement to such benefits.</summary>
+</bill>

@@ -1,0 +1,28 @@
+<bill session="114" type="hr" number="300" updated="2015-07-04T06:18:07-04:00">
+  <state datetime="2015-06-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-04"/>
+  </status>
+  <introduced datetime="2015-06-04"/>
+  <titles>
+    <title type="official" as="introduced">On the passing of Joseph Robinette Biden, III.</title>
+  </titles>
+  <sponsor id="412407"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-06-04" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="hr" number="299"/>
+    <bill relation="identical" session="114" type="sr" number="191"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+  <summary>6/4/2015--Introduced.
+Expresses the profound sorrow and deep regret of the House of Representatives on the&#160;announcement of the untimely death of Joseph Robinette "Beau" Biden, III, son of Vice President Joseph Robinette Biden, Jr.</summary>
+</bill>

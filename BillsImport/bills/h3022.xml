@@ -1,0 +1,35 @@
+<bill session="114" type="h" number="3022" updated="2015-07-29T04:48:59-04:00">
+  <state datetime="2015-07-10">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-10"/>
+  </status>
+  <introduced datetime="2015-07-10"/>
+  <titles>
+    <title type="official" as="introduced">To require that Grambling State University be eligible to receive funds under the Act of August 30, 1890.</title>
+  </titles>
+  <sponsor id="412630"/>
+  <cosponsors>
+    <cosponsor id="400636" joined="2015-07-10"/>
+    <cosponsor id="412275" joined="2015-07-10"/>
+    <cosponsor id="412631" joined="2015-07-10"/>
+    <cosponsor id="412432" joined="2015-07-10"/>
+    <cosponsor id="412261" joined="2015-07-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-10" state="REFERRED">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+    <action datetime="2015-07-28">
+      <text>Referred to the Subcommittee on Biotechnology, Horticulture, and Research.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee activity="Referral" code="HSAG14" subcommittee="Biotechnology, Horticulture, and Research" name="House Agriculture"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,47 @@
+<bill session="114" type="h" number="277" updated="2015-02-05T04:46:14-05:00">
+  <state datetime="2015-01-12">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-12"/>
+  </status>
+  <introduced datetime="2015-01-12"/>
+  <titles>
+    <title type="short" as="introduced">Defend Israel by Defunding Palestinian Foreign Aid Act of 2015</title>
+    <title type="official" as="introduced">To prohibit assistance to the Palestinian Authority until it withdraws its request to join the International Criminal Court.</title>
+  </titles>
+  <sponsor id="400170"/>
+  <cosponsors>
+    <cosponsor id="400052" joined="2015-02-04"/>
+    <cosponsor id="412191" joined="2015-02-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-12">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E49"/>
+    </action>
+    <action datetime="2015-01-12" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="364"/>
+    <bill relation="identical" session="114" type="s" number="34"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Foreign aid and international relief"/>
+    <term name="Foreign loans and debt"/>
+    <term name="International law and treaties"/>
+    <term name="International organizations and cooperation"/>
+    <term name="Middle East"/>
+    <term name="Palestinians"/>
+  </subjects>
+  <amendments/>
+  <summary>1/12/2015--Introduced.
+Defend Israel by Defunding Palestinian Foreign Aid Act of 2015
+
+This bill prohibits any amounts from being obligated or expended to provide assistance, loan guarantees, or debt relief to the Palestinian Authority (PA), or any affiliated governing entity, until the PA withdraws its request to join the International Criminal Court.</summary>
+</bill>

@@ -1,0 +1,70 @@
+<bill session="114" type="s" number="586" updated="2015-08-04T04:47:24-04:00">
+  <state datetime="2015-02-26">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-26"/>
+  </status>
+  <introduced datetime="2015-02-26"/>
+  <titles>
+    <title type="short" as="introduced">National Diabetes Clinical Care Commission Act</title>
+    <title type="official" as="introduced">A bill to amend the Public Health Service Act to foster more effective implementation and coordination of clinical care for people with pre-diabetes, diabetes, and the chronic diseases and conditions that result from diabetes.</title>
+  </titles>
+  <sponsor id="412323"/>
+  <cosponsors>
+    <cosponsor id="412493" joined="2015-02-26"/>
+    <cosponsor id="412598" joined="2015-02-26"/>
+    <cosponsor id="300011" joined="2015-02-26"/>
+    <cosponsor id="400050" joined="2015-02-26"/>
+    <cosponsor id="400054" joined="2015-06-09"/>
+    <cosponsor id="400061" joined="2015-08-03"/>
+    <cosponsor id="300019" joined="2015-02-26"/>
+    <cosponsor id="412269" joined="2015-02-27"/>
+    <cosponsor id="300023" joined="2015-07-22"/>
+    <cosponsor id="300025" joined="2015-02-26"/>
+    <cosponsor id="412390" joined="2015-04-14"/>
+    <cosponsor id="412205" joined="2015-02-26"/>
+    <cosponsor id="300043" joined="2015-05-07"/>
+    <cosponsor id="300047" joined="2015-07-21"/>
+    <cosponsor id="300048" joined="2015-02-26"/>
+    <cosponsor id="412582" joined="2015-07-15"/>
+    <cosponsor id="400222" joined="2015-02-26"/>
+    <cosponsor id="412242" joined="2015-02-27"/>
+    <cosponsor id="400253" joined="2015-02-26"/>
+    <cosponsor id="412194" joined="2015-02-27"/>
+    <cosponsor id="300078" joined="2015-02-26"/>
+    <cosponsor id="412305" joined="2015-02-26"/>
+    <cosponsor id="300087" joined="2015-03-17"/>
+    <cosponsor id="300093" joined="2015-03-04"/>
+    <cosponsor id="412321" joined="2015-03-16"/>
+    <cosponsor id="412247" joined="2015-04-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-26" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="1192"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Advisory bodies"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Digestive and metabolic diseases"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="Medical tests and diagnostic methods"/>
+  </subjects>
+  <amendments/>
+  <summary>2/26/2015--Introduced.
+National Diabetes Clinical Care Commission Act
+
+This bill amends the Public Health Service Act to establish within the Department of Health and Human Services (HHS) the National Diabetes Clinical Care Commission to evaluate and recommend solutions regarding better coordination and leveraging of federal programs that relate to supporting appropriate clinical care for people with pre-diabetes, diabetes, and the chronic diseases and conditions that are complications of or caused by diabetes.
+
+The duties of the Commission include:
+
+ evaluating HHS programs regarding the utilization of preventive health benefits, identifying current activities and critical gaps in federal efforts to support clinicians in providing integrated care, making recommendations regarding the development and coordination of federally funded clinical practice support tools, recommending clinical pathways for new technologies and treatments, evaluating and expanding education and awareness to health care professionals regarding prevention of diabetes, and reviewing and recommending appropriate methods for outreach and dissemination of educational resources. The Commission must submit an operating plan to HHS and Congress within 90 days of its first meeting.</summary>
+</bill>

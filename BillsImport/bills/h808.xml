@@ -1,0 +1,29 @@
+<bill session="114" type="h" number="808" updated="2015-06-13T06:25:03-04:00">
+  <state datetime="2015-02-05">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-05"/>
+  </status>
+  <introduced datetime="2015-02-05"/>
+  <titles>
+    <title type="official" as="introduced">To authorize the President to award the Medal of Honor to James Megellas, formerly of Fond du Lac, Wisconsin, and currently of Colleyville, Texas, for acts of valor on January 28, 1945, during the Battle of the Bulge in World War II.</title>
+  </titles>
+  <sponsor id="412661"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-02-05" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1502"/>
+  </relatedbills>
+  <subjects>
+    <term name="Private legislation"/>
+  </subjects>
+  <amendments/>
+  <summary>2/5/2015--Introduced.
+Authorizes the President to award the Medal of Honor to James Megellas for acts of valor on January 28, 1945, during the Battle of the Bulge in World War II.</summary>
+</bill>

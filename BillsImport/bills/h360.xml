@@ -1,0 +1,115 @@
+<bill session="114" type="h" number="360" updated="2015-08-01T06:22:16-04:00">
+  <state datetime="2015-03-23T18:59:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2015-03-23T18:59:00-04:00"/>
+  </status>
+  <introduced datetime="2015-01-14"/>
+  <titles>
+    <title type="short" as="introduced">Native American Housing Assistance and Self-Determination Reauthorization Act of 2015</title>
+    <title type="short" as="passed house">Native American Housing Assistance and Self-Determination Reauthorization Act of 2015</title>
+    <title type="official" as="introduced">To reauthorize the Native American Housing Assistance and Self-Determination Act of 1996, and for other purposes.</title>
+  </titles>
+  <sponsor id="400313"/>
+  <cosponsors>
+    <cosponsor id="412500" joined="2015-01-14"/>
+    <cosponsor id="412537" joined="2015-03-23"/>
+    <cosponsor id="400077" joined="2015-01-14"/>
+    <cosponsor id="412532" joined="2015-01-14"/>
+    <cosponsor id="412584" joined="2015-01-14"/>
+    <cosponsor id="412511" joined="2015-03-17"/>
+    <cosponsor id="412546" joined="2015-01-14"/>
+    <cosponsor id="412583" joined="2015-01-14"/>
+    <cosponsor id="400247" joined="2015-02-27"/>
+    <cosponsor id="400259" joined="2015-01-14"/>
+    <cosponsor id="400661" joined="2015-01-14"/>
+    <cosponsor id="412568" joined="2015-01-14"/>
+    <cosponsor id="408211" joined="2015-02-05"/>
+    <cosponsor id="412399" joined="2015-01-14"/>
+    <cosponsor id="412626" joined="2015-01-14"/>
+    <cosponsor id="400440" joined="2015-01-14"/>
+    <cosponsor id="412640" joined="2015-01-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-14" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2015-03-23T16:09:00-04:00">
+      <text>Mr. Pearce moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2015-03-23T16:09:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="consideration CR H1814-1822"/>
+    </action>
+    <action datetime="2015-03-23T16:09:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 360.</text>
+    </action>
+    <action datetime="2015-03-23T16:38:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2015-03-23T18:31:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="consideration CR H1833"/>
+    </action>
+    <vote how="roll" type="vote" roll="130" datetime="2015-03-23T18:59:00-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 297 - 98 (Roll no. 130).</text>
+      <reference ref="CR H1814-1818" label="text"/>
+    </vote>
+    <action datetime="2015-03-23T18:59:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2015-03-24">
+      <text>Received in the Senate and Read twice and referred to the Committee on Indian Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+    <committee code="SLIA" name="Senate Indian Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="710"/>
+    <bill relation="unknown" session="114" type="s" number="710"/>
+  </relatedbills>
+  <subjects>
+    <term name="Native Americans"/>
+    <term name="Advisory bodies"/>
+    <term name="Alaska Natives and Hawaiians"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Housing and Urban Development"/>
+    <term name="Environmental assessment, monitoring, research"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Homelessness and emergency shelter"/>
+    <term name="Housing and community development funding"/>
+    <term name="Housing finance and home ownership"/>
+    <term name="Housing supply and affordability"/>
+    <term name="Indian lands and resources rights"/>
+    <term name="Indian social and development programs"/>
+    <term name="Low- and moderate-income housing"/>
+    <term name="Public housing"/>
+    <term name="Residential rehabilitation and home repair"/>
+    <term name="Veterans' loans, housing, homeless programs"/>
+  </subjects>
+  <amendments/>
+  <summary>1/14/2015--Introduced.
+Native American Housing Assistance and Self-Determination Reauthorization Act of 2015
+
+ Amends the Native American Housing Assistance and Self-Determination Act of 1996 (NAHASDA) to revise and reauthorize the block grant program through FY2019 with respect to Native Americans and housing.
+
+ Makes low-income training and employment requirements under the Housing and Urban Development Act of 1968 inapplicable to tribal housing activities under the Act.
+
+Revises a program for affordable housing for low-income Native American families by changing maximum rent requirements and lease notice requirements. Amends the United States Housing Act of 1937 to authorize Department of Housing and Urban Development (HUD) to implement a supportive housing and rental assistance program for the benefit of Native American veterans who are homeless or at risk of homelessness.
+
+Extends from 50 years to 99 years the limit on the lease of trust or Indian restricted lands for housing purposes.
+
+ Amends the Housing and Community Development Act of 1992 to authorize HUD through FY2019 to guarantee Indian housing loans.
+
+Amends the American Homeownership and Economic Opportunity Act of 2000 to require the appointment of members to the Lands Title Report Commission no later than 90 days after this Act's enactment, without the current condition that sums be appropriated for that purpose in advance.
+
+Amends the Native American Housing Assistance and Self-Determination Reauthorization Act of 2008 to prohibit the use of funds under that Act for the benefit of the Cherokee Nation unless the Order issued on September 21, 2011, by the Federal District Court for the District of Columbia remains in effect or there is a settlement agreement which ends litigation among the adverse parties.
+
+Establishes a demonstration program that requires a participating Indian tribe to select an investor partner and, with that partner, to develop and implement a HUD-approved plan to address the tribe's housing needs.
+
+Amends NAHASDA to reauthorize through FY2019 the block grant program providing certain Native Hawaiians with block grants for affordable housing activities.
+
+Amends the Housing and Community Development Act of 1992 to authorize HUD through FY2019 to guarantee Native Hawaiian housing loans.</summary>
+</bill>

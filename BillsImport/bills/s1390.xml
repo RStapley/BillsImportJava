@@ -1,0 +1,42 @@
+<bill session="114" type="s" number="1390" updated="2015-07-22T05:01:25-04:00">
+  <state datetime="2015-05-20">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-20"/>
+  </status>
+  <introduced datetime="2015-05-20"/>
+  <titles>
+    <title type="short" as="introduced">Native American Indian Education Act</title>
+    <title type="official" as="introduced">A bill to help provide relief to State education budgets during a recovering economy, to help fulfill the Federal mandate to provide higher educational opportunities for Native American Indians, and for other purposes.</title>
+  </titles>
+  <sponsor id="412406"/>
+  <cosponsors>
+    <cosponsor id="412330" joined="2015-05-20"/>
+    <cosponsor id="412281" joined="2015-07-21"/>
+    <cosponsor id="412242" joined="2015-07-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-20" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1089"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+  <summary>5/20/2015--Introduced.
+Native American Indian Education Act
+
+ Amends the Higher Education Act of 1965 to direct the Department of Education to pay institutions of higher education the out-of-state tuition of their Indian students if the schools are required to provide a tuition-free education, with the support of their state, to Native American Indian students in fulfillment of a condition under which the college or state received its original grant of land and facilities from the federal government.
+
+Limits that payment each fiscal year to the institution's total out-of-state tuition for Native American Indian students in academic year 2014-2015.
+
+Treats such payments as reimbursements to such institutions from their states.
+
+Rescinds unobligated discretionary appropriations to offset the costs of this program.</summary>
+</bill>

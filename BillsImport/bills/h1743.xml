@@ -1,0 +1,38 @@
+<bill session="114" type="h" number="1743" updated="2015-06-25T04:47:39-04:00">
+  <state datetime="2015-04-13">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-13"/>
+  </status>
+  <introduced datetime="2015-04-13"/>
+  <titles>
+    <title type="short" as="introduced">Harriet "Moses" Tubman Congressional Gold Medal Act</title>
+    <title type="official" as="introduced">To award posthumously a Congressional Gold Medal to Harriet Tubman, in recognition of her contributions and lifelong commitment in the fight for freedom of enslaved men, women, and children in the United States.</title>
+  </titles>
+  <sponsor id="412221"/>
+  <cosponsors>
+    <cosponsor id="400162" joined="2015-04-29"/>
+    <cosponsor id="412199" joined="2015-06-24"/>
+    <cosponsor id="412638" joined="2015-06-24"/>
+    <cosponsor id="400279" joined="2015-05-14"/>
+    <cosponsor id="412308" joined="2015-06-24"/>
+    <cosponsor id="400333" joined="2015-04-29"/>
+    <cosponsor id="400415" joined="2015-04-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-13" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Civil rights and liberties, minority issues"/>
+  </subjects>
+  <amendments/>
+  <summary>4/13/2015--Introduced.
+Harriet "Moses" Tubman Congressional Gold Medal Act
+
+Authorizes the Speaker of the House of Representatives and the President pro tempore of the Senate to arrange for the posthumous presentation of a Congressional Gold Medal in commemoration of Harriet Tubman in recognition of her contributions and lifelong commitment in the fight for freedom of enslaved men, women, and children in the United States. Requires the medal, following its award, to be given to the Harriet Tubman National Historical Park in Auburn, New York, for display there or for temporary display elsewhere.</summary>
+</bill>

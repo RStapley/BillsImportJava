@@ -1,0 +1,62 @@
+<bill session="114" type="s" number="502" updated="2015-05-23T06:46:33-04:00">
+  <state datetime="2015-02-12">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-12"/>
+  </status>
+  <introduced datetime="2015-02-12"/>
+  <titles>
+    <title type="short" as="introduced">Smarter Sentencing Act of 2015</title>
+    <title type="official" as="introduced">A bill to focus limited Federal resources on the most serious offenders.</title>
+  </titles>
+  <sponsor id="412495"/>
+  <cosponsors>
+    <cosponsor id="412490" joined="2015-04-14"/>
+    <cosponsor id="412598" joined="2015-02-12"/>
+    <cosponsor id="412390" joined="2015-02-12"/>
+    <cosponsor id="412573" joined="2015-02-12"/>
+    <cosponsor id="300038" joined="2015-02-12"/>
+    <cosponsor id="400134" joined="2015-02-12"/>
+    <cosponsor id="412378" joined="2015-04-27"/>
+    <cosponsor id="400194" joined="2015-03-17"/>
+    <cosponsor id="300065" joined="2015-02-12"/>
+    <cosponsor id="412492" joined="2015-02-12"/>
+    <cosponsor id="412666" joined="2015-03-26"/>
+    <cosponsor id="412247" joined="2015-02-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-12" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="920"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Congressional oversight"/>
+    <term name="Correctional facilities and imprisonment"/>
+    <term name="Criminal justice information and records"/>
+    <term name="Criminal procedure and sentencing"/>
+    <term name="Drug trafficking and controlled substances"/>
+    <term name="Government information and archives"/>
+    <term name="Racial and ethnic relations"/>
+    <term name="U.S. Sentencing Commission"/>
+  </subjects>
+  <amendments/>
+  <summary>2/12/2015--Introduced.
+Smarter Sentencing Act of 2015
+
+Amends the federal criminal code to direct the court to impose a sentence for specified controlled substance offenses without regard to any statutory minimum sentence if the court finds that the criminal history category for the defendant is not higher than category two. (Currently, the court may disregard the statutory minimum if the defendant does not have more than one criminal history point.)
+
+Authorizes a court that imposed a sentence for a crack cocaine possession or trafficking offense committed before August 3, 2010, on motion of the defendant, the Bureau of Prisons, the attorney for the government, or the court, to impose a reduced sentence as if provisions of the Fair Sentencing Act of 2010 were in effect at the time such offense was committed, provided such sentence was not previously imposed or reduced under such Act or such a motion wasn't previously denied.
+
+Amends the Controlled Substances Act (CSA) and the Controlled Substances Import and Export Act (CSIEA) to reduce mandatory minimum sentences for manufacturing, distributing, dispensing, possessing, importing, or exporting specified controlled substances and for such violations by a courier (defined as a person whose role was limited to transporting or storing drugs or money).
+
+Directs the U.S. Sentencing Commission to review and amend its guidelines and policy statements applicable to persons convicted of such an offense under the CSA and CSIEA to ensure consistency with this Act and to consider specified factors, including: (1) its mandate to formulate guidelines to minimize the likelihood that the federal prison population will exceed federal prison capacity, and (2) the need to reduce and prevent racial disparities in sentencing.
+
+Requires the Attorney General to: (1) report on how the reduced expenditures on federal corrections and cost savings resulting from this Act will be used to help reduce overcrowding in the Bureau of Prisons, increase investment in law enforcement and crime prevention, and reduce recidivism; (2) report a list of all criminal statutory offenses and the potential criminal penalty, the number of prosecutions brought by the Department of Justice each year for the previous 15 years, and the mens rea requirement for each offense; and (3) establish a publicly accessible index of each criminal statutory offense.</summary>
+</bill>

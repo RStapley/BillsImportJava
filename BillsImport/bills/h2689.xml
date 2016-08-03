@@ -1,0 +1,60 @@
+<bill session="114" type="h" number="2689" updated="2015-08-05T04:47:23-04:00">
+  <state datetime="2015-06-09">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-09"/>
+  </status>
+  <introduced datetime="2015-06-09"/>
+  <titles>
+    <title type="official" as="introduced">To clarify the scope of eligible water resources projects under the Water Resources Development Act of 1986 and the Water Resources Reform and Development Act of 2014, and for other purposes.</title>
+  </titles>
+  <sponsor id="412618"/>
+  <cosponsors>
+    <cosponsor id="412404" joined="2015-07-23"/>
+    <cosponsor id="412512" joined="2015-07-27"/>
+    <cosponsor id="400057" joined="2015-07-13"/>
+    <cosponsor id="412517" joined="2015-06-15"/>
+    <cosponsor id="412379" joined="2015-06-23"/>
+    <cosponsor id="412513" joined="2015-07-28"/>
+    <cosponsor id="400618" joined="2015-08-04"/>
+    <cosponsor id="412613" joined="2015-06-17"/>
+    <cosponsor id="412382" joined="2015-07-13"/>
+    <cosponsor id="412498" joined="2015-07-22"/>
+    <cosponsor id="400185" joined="2015-06-11"/>
+    <cosponsor id="412511" joined="2015-06-09"/>
+    <cosponsor id="412283" joined="2015-07-14"/>
+    <cosponsor id="412614" joined="2015-07-29"/>
+    <cosponsor id="412616" joined="2015-07-27"/>
+    <cosponsor id="412521" joined="2015-07-21"/>
+    <cosponsor id="412189" joined="2015-07-23"/>
+    <cosponsor id="400295" joined="2015-06-23"/>
+    <cosponsor id="400297" joined="2015-07-27"/>
+    <cosponsor id="412523" joined="2015-06-25"/>
+    <cosponsor id="400343" joined="2015-06-10"/>
+    <cosponsor id="400347" joined="2015-06-23"/>
+    <cosponsor id="400348" joined="2015-06-25"/>
+    <cosponsor id="412519" joined="2015-08-04"/>
+    <cosponsor id="400361" joined="2015-07-07"/>
+    <cosponsor id="412520" joined="2015-07-27"/>
+    <cosponsor id="400403" joined="2015-06-16"/>
+    <cosponsor id="412617" joined="2015-07-14"/>
+    <cosponsor id="412515" joined="2015-07-22"/>
+    <cosponsor id="400422" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-09" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2015-06-10">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW02" subcommittee="Water Resources and Environment" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Water resources development"/>
+  </subjects>
+  <amendments/>
+</bill>

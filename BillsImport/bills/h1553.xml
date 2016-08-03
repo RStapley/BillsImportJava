@@ -1,0 +1,62 @@
+<bill session="114" type="h" number="1553" updated="2015-07-31T04:47:13-04:00">
+  <state datetime="2015-07-29">REPORTED</state>
+  <status>
+    <unknown datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-03-23"/>
+  <titles>
+    <title type="short" as="introduced">Small Bank Exam Cycle Reform Act of 2015</title>
+    <title type="official" as="introduced">To amend the Federal Deposit Insurance Act to specify which smaller institutions may qualify for an 18-month examination cycle.</title>
+  </titles>
+  <sponsor id="412405"/>
+  <cosponsors>
+    <cosponsor id="412541" joined="2015-03-23"/>
+    <cosponsor id="412627" joined="2015-03-26"/>
+    <cosponsor id="412407" joined="2015-06-11"/>
+    <cosponsor id="400074" joined="2015-03-23"/>
+    <cosponsor id="412639" joined="2015-06-11"/>
+    <cosponsor id="412397" joined="2015-07-28"/>
+    <cosponsor id="400179" joined="2015-06-10"/>
+    <cosponsor id="412422" joined="2015-07-28"/>
+    <cosponsor id="400209" joined="2015-07-23"/>
+    <cosponsor id="400219" joined="2015-07-15"/>
+    <cosponsor id="412527" joined="2015-07-23"/>
+    <cosponsor id="400441" joined="2015-03-26"/>
+    <cosponsor id="412192" joined="2015-07-23"/>
+    <cosponsor id="412551" joined="2015-07-28"/>
+    <cosponsor id="412570" joined="2015-07-09"/>
+    <cosponsor id="412509" joined="2015-06-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-23" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2015-07-28">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-07-29" state="REPORTED">
+      <text>Ordered to be Reported by the Yeas and Nays: 58 - 0.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="970"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+  </subjects>
+  <amendments/>
+  <summary>3/23/2015--Introduced.
+Small Bank Exam Cycle Reform Act of 2015 
+
+This bill amends the Federal Deposit Insurance Act to increase from $500 million to $1 billion the asset size of small insured depository institutions eligible for 18-month on-site examination cycles.
+
+Such an institution is also qualified for the 18-month cycle if its total assets are at most $200 million (currently $100 million) and the most recent examination found its composite condition to be good rather than outstanding.
+
+A federal banking agency is granted discretion to increase this assets ceiling amount from $200 million to $1 billion (currently from $100 million to $500 million) if that greater asset size would be consistent with the principles of safety and soundness.</summary>
+</bill>

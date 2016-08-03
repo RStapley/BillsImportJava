@@ -1,0 +1,43 @@
+<bill session="114" type="h" number="2417" updated="2015-07-17T04:58:33-04:00">
+  <state datetime="2015-05-19">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-19"/>
+  </status>
+  <introduced datetime="2015-05-19"/>
+  <titles>
+    <title type="short" as="introduced">Foreign Medical School Accountability Fairness Act of 2015</title>
+    <title type="official" as="introduced">To amend the Higher Education Act of 1965 to establish fair and consistent eligibility requirements for graduate medical schools operating outside the United States and Canada.</title>
+  </titles>
+  <sponsor id="400052"/>
+  <cosponsors>
+    <cosponsor id="400032" joined="2015-06-25"/>
+    <cosponsor id="400636" joined="2015-06-18"/>
+    <cosponsor id="400090" joined="2015-05-19"/>
+    <cosponsor id="412302" joined="2015-07-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-19" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1374"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Education programs funding"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Medical education"/>
+    <term name="Student aid and college costs"/>
+  </subjects>
+  <amendments/>
+  <summary>5/19/2015--Introduced.
+Foreign Medical School Accountability Fairness Act of 2015
+
+This bill amends the Higher Education Act of 1965 to require all foreign medical schools to meet minimum requirements for percentage of foreign students and for percentage of students passing exams administered by the Educational Commission for Foreign Medical Graduates in order for students to be eligible for William D. Ford Federal Direct Loans. (Currently, the Department of Education may establish alternative standards and certain clinical training programs are grandfathered.)
+
+Students continue to be eligible for a loan if, on the date of enactment of this Act, they are enrolled in a foreign medical school that loses eligibility as a result of this Act.</summary>
+</bill>

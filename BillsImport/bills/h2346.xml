@@ -1,0 +1,39 @@
+<bill session="114" type="h" number="2346" updated="2015-07-25T06:38:35-04:00">
+  <state datetime="2015-05-14">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-14"/>
+  </status>
+  <introduced datetime="2015-05-14"/>
+  <titles>
+    <title type="short" as="introduced">North American Wetlands Conservation Extension Act</title>
+    <title type="official" as="introduced">To extend the authorization of appropriations for allocation to carry out approved wetlands conservation projects under the North American Wetlands Conservation Act through fiscal year 2020.</title>
+  </titles>
+  <sponsor id="412255"/>
+  <cosponsors>
+    <cosponsor id="400403" joined="2015-05-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-14" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2015-06-04">
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="Federal Lands" name="House Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Water resources funding"/>
+    <term name="Wetlands"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+  <summary>5/14/2015--Introduced.
+North American Wetlands Conservation Extension Act 
+
+This bill amends the North American Wetlands Conservation Act to extend the authorization for the Department of the Interior to carry out certain wetlands conservation projects through FY2020.</summary>
+</bill>

@@ -1,0 +1,33 @@
+<bill session="114" type="s" number="1896" updated="2015-08-15T07:07:41-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Fair Labor Standards Act of 1938 to ensure that employees are not misclassified as non-employees, and for other purposes.</title>
+  </titles>
+  <sponsor id="412246"/>
+  <cosponsors>
+    <cosponsor id="400050" joined="2015-07-29"/>
+    <cosponsor id="412378" joined="2015-07-29"/>
+    <cosponsor id="412325" joined="2015-07-29"/>
+    <cosponsor id="300076" joined="2015-07-29"/>
+    <cosponsor id="412542" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="3427"/>
+  </relatedbills>
+  <subjects>
+    <term name="Labor and employment"/>
+  </subjects>
+  <amendments/>
+</bill>

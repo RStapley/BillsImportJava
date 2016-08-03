@@ -1,0 +1,42 @@
+<bill session="114" type="h" number="2724" updated="2015-08-11T04:48:10-04:00">
+  <state datetime="2015-06-10">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-10"/>
+  </status>
+  <introduced datetime="2015-06-10"/>
+  <titles>
+    <title type="short" as="introduced">Reliable Investment in Vital Energy Reauthorization Act</title>
+    <title type="short" as="introduced">RIVER Act</title>
+    <title type="official" as="introduced">To amend the Energy Policy Act of 2005 to reauthorize hydroelectric production incentives and hydroelectric efficiency improvement incentives, and for other purposes.</title>
+  </titles>
+  <sponsor id="412487"/>
+  <cosponsors>
+    <cosponsor id="412541" joined="2015-06-10"/>
+    <cosponsor id="400101" joined="2015-06-10"/>
+    <cosponsor id="412460" joined="2015-06-10"/>
+    <cosponsor id="412209" joined="2015-06-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-10" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-06-12">
+      <text>Referred to the Subcommittee on Energy and Power.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="1270"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+  </subjects>
+  <amendments/>
+  <summary>6/10/2015--Introduced.
+Reliable Investment in Vital Energy Reauthorization Act or the RIVER Act
+
+This bill amends the Energy Policy Act of 2005 to extend through FY2025 appropriations for hydroelectric production incentives and for incentive payments to the owners or operators of hydroelectric facilities at existing dams to make capital improvements directly related to improving efficiency.</summary>
+</bill>

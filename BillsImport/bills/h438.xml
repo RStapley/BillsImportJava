@@ -1,0 +1,47 @@
+<bill session="114" type="h" number="438" updated="2015-02-26T04:46:30-05:00">
+  <state datetime="2015-01-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-21"/>
+  </status>
+  <introduced datetime="2015-01-21"/>
+  <titles>
+    <title type="official" as="introduced">To award a Congressional Gold Medal to Joanne King Herring and posthumously to each of Charles "Charlie" Wilson and Gustav Lascaris "Gust" Avrakotos, in recognition of their personal sacrifice and service to the country.</title>
+  </titles>
+  <sponsor id="400160"/>
+  <cosponsors>
+    <cosponsor id="412544" joined="2015-01-28"/>
+    <cosponsor id="400103" joined="2015-01-21"/>
+    <cosponsor id="400157" joined="2015-01-22"/>
+    <cosponsor id="400199" joined="2015-01-21"/>
+    <cosponsor id="400654" joined="2015-01-21"/>
+    <cosponsor id="412523" joined="2015-01-27"/>
+    <cosponsor id="412579" joined="2015-02-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-21" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Afghanistan"/>
+    <term name="Asia"/>
+    <term name="Central Intelligence Agency (CIA)"/>
+    <term name="Conflicts and wars"/>
+    <term name="Congressional tributes"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="Federal officials"/>
+    <term name="House of Representatives"/>
+    <term name="Members of Congress"/>
+    <term name="U.S.S.R."/>
+  </subjects>
+  <amendments/>
+  <summary>1/21/2015--Introduced.
+Directs the Speaker of the House of Representatives and the President pro tempore of the Senate to arrange for the presentation of a Congressional Gold Medal to Joanne King Herring, and for the posthumous presentation of such a medal to Charles Wilson and Gustav Lascaris Avrakotos, in recognition of their personal sacrifice and service to the country.
+
+Authorizes the Secretary of the Treasury to strike and sell bronze duplicates of such medals at a price sufficient to cover the costs of the gold medals.</summary>
+</bill>

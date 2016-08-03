@@ -1,0 +1,38 @@
+<bill session="114" type="h" number="2187" updated="2015-06-27T06:55:38-04:00">
+  <state datetime="2015-04-30">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-30"/>
+  </status>
+  <introduced datetime="2015-04-30"/>
+  <titles>
+    <title type="short" as="introduced">Fair Investment Opportunities for Professional Experts Act</title>
+    <title type="official" as="introduced">To direct the Securities and Exchange Commission to revise its regulations regarding the qualifications of natural persons as accredited investors.</title>
+  </titles>
+  <sponsor id="412399"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-04-30" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Banking and financial institutions regulation"/>
+    <term name="Financial services and investments"/>
+    <term name="Licensing and registrations"/>
+    <term name="Securities"/>
+    <term name="Securities and Exchange Commission (SEC)"/>
+  </subjects>
+  <amendments/>
+  <summary>4/30/2015--Introduced.
+Fair Investment Opportunities for Professional Experts Act
+
+This bill directs the Securities and Exchange Commission (SEC) to revise its rules under Regulation D to consider a natural person an accredited investor, regardless of specified income and net worth requirements, if the person certifies to the issuer before the sale of securities to that person that he or she:
+
+ is a person described in specified other requirements of Regulation D, has retained and used the services of certain banks, savings and loan associations, insurance companies, registered brokers or dealers, or certain other entities or their employees to make an investment decision relative to the securities being offered, or is licensed as an accredited investor by the Financial Industry Regulatory Authority (FINRA) after completing an exam administered by FINRA using specified criteria established by the SEC. The SEC shall establish such criteria for FINRA to use in administering an exam to license as accredited investors natural persons who don't meet certain income and net worth requirements of Regulation D.</summary>
+</bill>

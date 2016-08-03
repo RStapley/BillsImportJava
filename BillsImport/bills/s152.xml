@@ -1,0 +1,41 @@
+<bill session="114" type="s" number="152" updated="2015-04-30T04:48:00-04:00">
+  <state datetime="2015-04-29">REPORTED</state>
+  <status>
+    <unknown datetime="2015-04-29"/>
+  </status>
+  <introduced datetime="2015-01-13"/>
+  <titles>
+    <title type="short" as="introduced">Keep the Promise Act of 2015</title>
+    <title type="official" as="introduced">A bill to prohibit gaming activities on certain Indian land in Arizona until the expiration of certain gaming compacts.</title>
+  </titles>
+  <sponsor id="300071"/>
+  <cosponsors>
+    <cosponsor id="400134" joined="2015-01-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-13" state="REFERRED">
+      <text>Read twice and referred to the Committee on Indian Affairs.</text>
+    </action>
+    <calendar datetime="2015-04-29" state="REPORTED">
+      <text>Committee on Indian Affairs. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SLIA" name="Senate Indian Affairs" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="308"/>
+  </relatedbills>
+  <subjects>
+    <term name="Native Americans"/>
+    <term name="Arizona"/>
+    <term name="Gambling"/>
+    <term name="Indian lands and resources rights"/>
+    <term name="Land transfers"/>
+  </subjects>
+  <amendments/>
+  <summary>1/13/2015--Introduced.
+Keep the Promise Act of 2015
+
+ Restricts gaming on land within the Phoenix, Arizona, metropolitan area acquired by the Secretary of the Interior in trust for the benefit of an Indian tribe after April 9, 2013. Terminates the restriction on January 1, 2027.</summary>
+</bill>

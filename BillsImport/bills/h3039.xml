@@ -1,0 +1,56 @@
+<bill session="114" type="h" number="3039" updated="2015-07-28T05:09:51-04:00">
+  <state datetime="2015-07-13">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-13"/>
+  </status>
+  <introduced datetime="2015-07-13"/>
+  <titles>
+    <title type="short" as="introduced">PROTECT US Act</title>
+    <title type="short" as="introduced">Providing Retaliation Options against Those Engaging in Cyberattacks Targeting the United States Act</title>
+    <title type="official" as="introduced">To impose penalties on state-sponsors of cyberattacks, and for other purposes.</title>
+  </titles>
+  <sponsor id="412395"/>
+  <cosponsors>
+    <cosponsor id="412622" joined="2015-07-23"/>
+    <cosponsor id="400158" joined="2015-07-23"/>
+    <cosponsor id="400381" joined="2015-07-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-13" state="REFERRED">
+      <text>Referred to the Committee on Foreign Affairs, and in addition to the Committees on Ways and Means, Financial Services, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-07-13">
+      <text>Referred to House Foreign Affairs</text>
+    </action>
+    <action datetime="2015-07-13">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-07-13">
+      <text>Referred to House Financial Services</text>
+    </action>
+    <action datetime="2015-07-13">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <summary>7/13/2015--Introduced.
+Providing Retaliation Options against Those Engaging in Cyberattacks Targeting the United States Act or PROTECT US Act
+
+This bill directs the President to submit to Congress a list of countries designated as state-sponsors of cyberattacks.
+
+ A country shall be so designated if the President determines that the United States or a U.S. person has been targeted in a cyber-enabled activity originating from or directed by a person located in a foreign country, and such activity is likely to result in or have contributed to a threat to U.S. national security or foreign policy, or harmed U.S. economic health or financial stability or a U.S. person, or has the purpose or effect of:
+
+ harming or compromising the provision of services by a computer or network of computers that support the United States or a U.S. person in a critical infrastructure sector; compromising the provision of services by the United States or a U.S. person in a critical infrastructure sector; disrupting the availability of a computer or network of computers owned or operated by the United States or a U.S. person; or causing a misappropriation of funds or economic resources, trade secrets, personally identifiable information, or financial information of the United States or a U.S. person. The President may impose a trade-related penalty and take other actions, including assistance limitations, trade embargoes, and cyber counter attacks, with respect to a designated country.
+
+A country may be removed from the list of state-sponsors of cyberattacks if: (1) the President determines that it no longer meets the requirements for the designation, or (2) Congress enacts a law providing for such removal.
+
+A country that has been removed from the list by Congress may not be added back to the list by the President until at least one year after removal.</summary>
+</bill>

@@ -1,0 +1,45 @@
+<bill session="114" type="h" number="61" updated="2015-03-07T04:46:03-05:00">
+  <state datetime="2015-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-06"/>
+  </status>
+  <introduced datetime="2015-01-06"/>
+  <titles>
+    <title type="short" as="introduced">Securing the Assistance of Victims of Exploitation Act of 2015 (SAVE Act)</title>
+    <title type="official" as="introduced">To preserve the access of victims of trafficking to information about their eligibility to receive SNAP benefits.</title>
+  </titles>
+  <sponsor id="400199"/>
+  <cosponsors>
+    <cosponsor id="400033" joined="2015-03-06"/>
+    <cosponsor id="400162" joined="2015-03-06"/>
+    <cosponsor id="400170" joined="2015-03-06"/>
+    <cosponsor id="400263" joined="2015-03-06"/>
+    <cosponsor id="400333" joined="2015-03-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-06" state="REFERRED">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+    <action datetime="2015-01-26">
+      <text>Referred to the Subcommittee on Nutrition.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee activity="Referral" code="HSAG03" subcommittee="Nutrition" name="House Agriculture"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Crime victims"/>
+    <term name="Food assistance and relief"/>
+    <term name="Human trafficking"/>
+    <term name="Immigrant health and welfare"/>
+    <term name="Poverty and welfare assistance"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/2015--Introduced.
+Securing the Assistance of Victims of Exploitation Act of 2014 (SAVE Act)
+
+ Prohibits funds made available to carry out the Food and Nutrition Act of 2008 from being used in contravention of provisions of the Victims of Trafficking and Violence Protection Act of 2000 expanding the eligibility of human trafficking victims to receive services and benefits under certain federal or state programs, such as the supplemental nutrition assistance program (SNAP, formerly known as the food stamp program).</summary>
+</bill>

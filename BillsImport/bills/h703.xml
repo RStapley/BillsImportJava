@@ -1,0 +1,114 @@
+<bill session="114" type="h" number="703" updated="2015-07-24T04:47:35-04:00">
+  <state datetime="2015-02-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-04"/>
+  </status>
+  <introduced datetime="2015-02-04"/>
+  <titles>
+    <title type="short" as="introduced">Renewable Fuel Standard Elimination Act</title>
+    <title type="official" as="introduced">To repeal the renewable fuel program of the Environmental Protection Agency.</title>
+  </titles>
+  <sponsor id="400154"/>
+  <cosponsors>
+    <cosponsor id="412655" joined="2015-02-13"/>
+    <cosponsor id="400018" joined="2015-07-20"/>
+    <cosponsor id="412478" joined="2015-02-04"/>
+    <cosponsor id="400046" joined="2015-02-04"/>
+    <cosponsor id="412567" joined="2015-02-04"/>
+    <cosponsor id="412395" joined="2015-07-08"/>
+    <cosponsor id="412601" joined="2015-03-13"/>
+    <cosponsor id="412622" joined="2015-06-02"/>
+    <cosponsor id="400068" joined="2015-02-25"/>
+    <cosponsor id="400071" joined="2015-07-08"/>
+    <cosponsor id="400077" joined="2015-02-04"/>
+    <cosponsor id="412531" joined="2015-02-04"/>
+    <cosponsor id="400086" joined="2015-06-04"/>
+    <cosponsor id="400089" joined="2015-07-08"/>
+    <cosponsor id="400648" joined="2015-02-04"/>
+    <cosponsor id="412526" joined="2015-02-04"/>
+    <cosponsor id="412472" joined="2015-02-04"/>
+    <cosponsor id="400116" joined="2015-02-04"/>
+    <cosponsor id="412482" joined="2015-02-04"/>
+    <cosponsor id="412480" joined="2015-02-04"/>
+    <cosponsor id="400643" joined="2015-02-04"/>
+    <cosponsor id="400651" joined="2015-02-04"/>
+    <cosponsor id="412397" joined="2015-05-21"/>
+    <cosponsor id="400157" joined="2015-02-04"/>
+    <cosponsor id="412454" joined="2015-02-04"/>
+    <cosponsor id="412434" joined="2015-03-13"/>
+    <cosponsor id="400175" joined="2015-02-10"/>
+    <cosponsor id="400206" joined="2015-02-04"/>
+    <cosponsor id="412603" joined="2015-02-12"/>
+    <cosponsor id="412226" joined="2015-02-05"/>
+    <cosponsor id="412419" joined="2015-02-04"/>
+    <cosponsor id="412191" joined="2015-02-04"/>
+    <cosponsor id="412624" joined="2015-02-25"/>
+    <cosponsor id="412656" joined="2015-06-02"/>
+    <cosponsor id="412294" joined="2015-03-04"/>
+    <cosponsor id="400656" joined="2015-02-04"/>
+    <cosponsor id="412503" joined="2015-02-04"/>
+    <cosponsor id="400654" joined="2015-02-25"/>
+    <cosponsor id="412295" joined="2015-02-04"/>
+    <cosponsor id="412611" joined="2015-06-02"/>
+    <cosponsor id="412552" joined="2015-02-04"/>
+    <cosponsor id="400279" joined="2015-02-10"/>
+    <cosponsor id="412474" joined="2015-02-10"/>
+    <cosponsor id="400285" joined="2015-03-02"/>
+    <cosponsor id="400441" joined="2015-02-04"/>
+    <cosponsor id="412409" joined="2015-02-04"/>
+    <cosponsor id="400297" joined="2015-02-10"/>
+    <cosponsor id="412302" joined="2015-02-04"/>
+    <cosponsor id="412443" joined="2015-02-10"/>
+    <cosponsor id="400313" joined="2015-02-04"/>
+    <cosponsor id="412551" joined="2015-02-04"/>
+    <cosponsor id="400652" joined="2015-02-04"/>
+    <cosponsor id="412309" joined="2015-02-10"/>
+    <cosponsor id="400626" joined="2015-03-04"/>
+    <cosponsor id="412572" joined="2015-02-04"/>
+    <cosponsor id="412310" joined="2015-02-04"/>
+    <cosponsor id="400343" joined="2015-02-04"/>
+    <cosponsor id="412570" joined="2015-02-04"/>
+    <cosponsor id="412650" joined="2015-06-04"/>
+    <cosponsor id="400607" joined="2015-02-04"/>
+    <cosponsor id="412399" joined="2015-02-13"/>
+    <cosponsor id="412417" joined="2015-05-21"/>
+    <cosponsor id="400365" joined="2015-02-04"/>
+    <cosponsor id="400367" joined="2015-04-16"/>
+    <cosponsor id="400381" joined="2015-02-05"/>
+    <cosponsor id="412581" joined="2015-02-04"/>
+    <cosponsor id="412515" joined="2015-02-04"/>
+    <cosponsor id="412618" joined="2015-03-26"/>
+    <cosponsor id="412574" joined="2015-02-04"/>
+    <cosponsor id="412564" joined="2015-07-23"/>
+    <cosponsor id="412578" joined="2015-07-08"/>
+    <cosponsor id="400433" joined="2015-05-18"/>
+    <cosponsor id="412525" joined="2015-02-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-04" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-02-06">
+      <text>Referred to the Subcommittee on Energy and Power.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Air quality"/>
+    <term name="Alternative and renewable resources"/>
+    <term name="Environmental Protection Agency (EPA)"/>
+    <term name="Environmental regulatory procedures"/>
+    <term name="Motor fuels"/>
+  </subjects>
+  <amendments/>
+  <summary>2/4/2015--Introduced.
+Renewable Fuel Standard Elimination Act 
+
+This bill amends the Clean Air Act to repeal the Environmental Protection Agency's renewable fuel program, which requires transportation fuel to contain a minimum volume of renewable fuel.</summary>
+</bill>

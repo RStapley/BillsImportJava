@@ -1,0 +1,41 @@
+<bill session="114" type="s" number="406" updated="2015-04-04T06:36:49-04:00">
+  <state datetime="2015-02-05">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-05"/>
+  </status>
+  <introduced datetime="2015-02-05"/>
+  <titles>
+    <title type="short" as="introduced">Disaster Assistance Recoupment Fairness Act of 2015</title>
+    <title type="official" as="introduced">A bill to waive and repay certain debts relating to assistance provided to individuals and households.</title>
+  </titles>
+  <sponsor id="400272"/>
+  <cosponsors>
+    <cosponsor id="412598" joined="2015-02-05"/>
+    <cosponsor id="412269" joined="2015-02-05"/>
+    <cosponsor id="412223" joined="2015-02-05"/>
+    <cosponsor id="300087" joined="2015-02-05"/>
+    <cosponsor id="400418" joined="2015-02-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-05" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="797"/>
+    <bill relation="identical" session="114" type="h" number="801"/>
+  </relatedbills>
+  <subjects>
+    <term name="Emergency management"/>
+    <term name="Debt collection"/>
+    <term name="Disaster relief and insurance"/>
+  </subjects>
+  <amendments/>
+  <summary>2/5/2015--Introduced.
+Disaster Assistance Recoupment Fairness Act of 2015
+
+ Requires the Federal Emergency Management Agency to: (1) waive a debt owed to the United States related to federal assistance provided under the Robert T. Stafford Disaster Relief and Emergency Assistance Act to an individual or household in relation to a major disaster declared by the President between January 1, 2012, and the date of enactment of this Act, unless the debt involves fraud, the intentional presentation of a false claim, or intentional misrepresentation by the debtor or any party having an interest in the claim; and (2) reimburse a debtor for any payments already made on such a debt.</summary>
+</bill>

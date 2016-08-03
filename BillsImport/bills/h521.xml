@@ -1,0 +1,77 @@
+<bill session="114" type="h" number="521" updated="2015-08-08T06:23:31-04:00">
+  <state datetime="2015-06-11">REPORTED</state>
+  <status>
+    <unknown datetime="2015-06-11"/>
+  </status>
+  <introduced datetime="2015-01-22"/>
+  <titles>
+    <title type="official" as="introduced">To provide for the conveyance of certain property to the Yukon Kuskokwim Health Corporation located in Bethel, Alaska.</title>
+  </titles>
+  <sponsor id="400440"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-01-22" state="REFERRED">
+      <text>Referred to the Committee on Natural Resources, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-01-22">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2015-01-22">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-01-23">
+      <text>Referred to the Subcommittee on Environment and the Economy.</text>
+    </action>
+    <action datetime="2015-03-02">
+      <text>Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.</text>
+    </action>
+    <action datetime="2015-04-14">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="2015-06-10">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2015-06-11">
+      <text>Subcommittee on Indian, Insular and Alaska Native Affairs Discharged.</text>
+    </action>
+    <action datetime="2015-06-11">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-06-11" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Unanimous Consent.</text>
+    </calendar>
+    <action datetime="2015-07-22T13:05:00-04:00">
+      <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-217, Part I.</text>
+    </action>
+    <action datetime="2015-07-22T13:05:00-04:00">
+      <text>Committee on Energy and Commerce discharged.</text>
+    </action>
+    <calendar datetime="2015-07-22T13:05:00-04:00" calendar="Union" number="163">
+      <text>Placed on the Union Calendar, Calendar No. 163.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII24" subcommittee="Indian, Insular and Alaska Native Affairs" name="House Natural Resources"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Discharged"/>
+    <committee activity="Referral" code="HSIF18" subcommittee="Environment and the Economy" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="230"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Alaska"/>
+    <term name="Alaska Natives and Hawaiians"/>
+    <term name="Health facilities and institutions"/>
+    <term name="Land transfers"/>
+    <term name="Minority health"/>
+  </subjects>
+  <amendments/>
+  <summary>1/22/2015--Introduced.
+Directs the Secretary of Health and Human Services (HHS) to convey specified property (22.98 acres) to the Yukon Kuskokwim Health Corporation located in Bethel, Alaska, for use in connection with health and social services programs. States that the Secretary's conveyance of title by warranty deed shall, on its effective date, supersede and render of no future effect any quitclaim deed to the property executed by the Secretary and the Corporation.
+
+Specifies that the conveyance of such property under this Act:
+
+ shall be made by warranty deed; shall not require any consideration from the Corporation for the property; shall not impose any obligation, term, or condition on the Corporation; and shall not allow for any reversionary interest of the United States in the property. Shields the Corporation from liability for any environmental contamination on the conveyed property. Requires the Secretary to: (1) be accorded access to the conveyed property as may be reasonably necessary to satisfy any retained obligations and liability; and (2) comply with requirements of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 regarding the transfer of U.S. real property on which any hazardous substance was stored for one year or more, disposed of, or known to have been released.</summary>
+</bill>

@@ -1,0 +1,59 @@
+<bill session="114" type="h" number="2606" updated="2015-08-22T06:41:06-04:00">
+  <state datetime="2015-06-02">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-02"/>
+  </status>
+  <introduced datetime="2015-06-02"/>
+  <titles>
+    <title type="short" as="introduced">Roads Not Roses Act</title>
+    <title type="official" as="introduced">To amend title 23, United States Code, to discontinue funding for landscaping and scenic enhancement.</title>
+  </titles>
+  <sponsor id="412444"/>
+  <cosponsors>
+    <cosponsor id="400052" joined="2015-06-15"/>
+    <cosponsor id="412513" joined="2015-06-15"/>
+    <cosponsor id="400141" joined="2015-06-23"/>
+    <cosponsor id="400175" joined="2015-06-02"/>
+    <cosponsor id="412550" joined="2015-06-23"/>
+    <cosponsor id="412484" joined="2015-07-08"/>
+    <cosponsor id="400196" joined="2015-06-02"/>
+    <cosponsor id="400206" joined="2015-06-02"/>
+    <cosponsor id="412295" joined="2015-06-12"/>
+    <cosponsor id="412552" joined="2015-06-09"/>
+    <cosponsor id="412634" joined="2015-06-23"/>
+    <cosponsor id="412474" joined="2015-06-23"/>
+    <cosponsor id="412302" joined="2015-06-23"/>
+    <cosponsor id="412608" joined="2015-06-09"/>
+    <cosponsor id="412310" joined="2015-06-12"/>
+    <cosponsor id="412426" joined="2015-06-02"/>
+    <cosponsor id="412650" joined="2015-06-09"/>
+    <cosponsor id="412417" joined="2015-06-23"/>
+    <cosponsor id="412574" joined="2015-06-12"/>
+    <cosponsor id="412578" joined="2015-07-22"/>
+    <cosponsor id="412640" joined="2015-07-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-02" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2015-06-03">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW12" subcommittee="Highways and Transit" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Horticulture and plants"/>
+    <term name="Roads and highways"/>
+    <term name="Transportation programs funding"/>
+  </subjects>
+  <amendments/>
+  <summary>6/2/2015--Introduced.
+Roads Not Roses Act 
+
+This bill repeals the authority of the Secretary of Transportation to approve as part of the construction of federal-aid highways the costs of landscape and roadside development.</summary>
+</bill>

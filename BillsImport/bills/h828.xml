@@ -1,0 +1,49 @@
+<bill session="114" type="h" number="828" updated="2015-07-30T04:48:10-04:00">
+  <state datetime="2015-02-10">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-10"/>
+  </status>
+  <introduced datetime="2015-02-10"/>
+  <titles>
+    <title type="official" as="introduced">To amend title 31, United States Code, to clarify the use of credentials by enrolled agents.</title>
+  </titles>
+  <sponsor id="400636"/>
+  <cosponsors>
+    <cosponsor id="400021" joined="2015-04-29"/>
+    <cosponsor id="412395" joined="2015-07-10"/>
+    <cosponsor id="400646" joined="2015-05-15"/>
+    <cosponsor id="412453" joined="2015-05-14"/>
+    <cosponsor id="412282" joined="2015-07-29"/>
+    <cosponsor id="412603" joined="2015-07-23"/>
+    <cosponsor id="400218" joined="2015-05-14"/>
+    <cosponsor id="400219" joined="2015-06-16"/>
+    <cosponsor id="400262" joined="2015-05-21"/>
+    <cosponsor id="412475" joined="2015-07-16"/>
+    <cosponsor id="400295" joined="2015-05-21"/>
+    <cosponsor id="400660" joined="2015-07-29"/>
+    <cosponsor id="412462" joined="2015-05-21"/>
+    <cosponsor id="412202" joined="2015-07-16"/>
+    <cosponsor id="400406" joined="2015-06-17"/>
+    <cosponsor id="412254" joined="2015-05-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-10" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="422"/>
+    <bill relation="identical" session="114" type="s" number="914"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Licensing and registrations"/>
+    <term name="Tax administration and collection, taxpayers"/>
+  </subjects>
+  <amendments/>
+  <summary>2/10/2015--Introduced.
+Permits any enrolled agent properly licensed to represent taxpayers before the Internal Revenue Service to use the credentials or designation of "enrolled agent," "EA," or "E.A."</summary>
+</bill>

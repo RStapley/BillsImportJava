@@ -1,0 +1,34 @@
+<bill session="114" type="s" number="343" updated="2015-02-21T06:28:52-05:00">
+  <state datetime="2015-02-03">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-03"/>
+  </status>
+  <introduced datetime="2015-02-03"/>
+  <titles>
+    <title type="short" as="introduced">Reducing Overlapping Payments Act</title>
+    <title type="official" as="introduced">A bill to ensure that individuals do not simultaneously receive unemployment compensation and disability insurance benefits.</title>
+  </titles>
+  <sponsor id="400134"/>
+  <cosponsors>
+    <cosponsor id="412391" joined="2015-02-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-03" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Social security and elderly assistance"/>
+    <term name="Unemployment"/>
+  </subjects>
+  <amendments/>
+  <summary>2/3/2015--Introduced.
+Reducing Overlapping Payments Act
+
+ Amends title II (Old Age, Survivors, and Disability Insurance) (OASDI) of the Social Security Act to require reduced to zero the total of an individual's monthly disability insurance benefits and any spouse's, surviving spouse's, child's, widow's, widower's, or parent's OASDI benefits based on the individual's wages and self-employment income for any month before the individual attains retirement age in which that individual is entitled to both disability insurance benefits and unemployment compensation.</summary>
+</bill>

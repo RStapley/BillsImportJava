@@ -1,0 +1,24 @@
+<bill session="114" type="h" number="3314" updated="2015-08-05T09:48:19-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">Resettlement Accountability National Security Act of 2015</title>
+    <title type="official" as="introduced">To suspend the admission into the United States of refugees in order to examine the costs of providing benefits to such individuals, and for other purposes.</title>
+  </titles>
+  <sponsor id="412655"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

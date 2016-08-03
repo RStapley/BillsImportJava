@@ -1,0 +1,35 @@
+<bill session="114" type="h" number="2873" updated="2015-07-29T04:48:51-04:00">
+  <state datetime="2015-06-24">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-24"/>
+  </status>
+  <introduced datetime="2015-06-24"/>
+  <titles>
+    <title type="short" as="introduced">LADDER Act</title>
+    <title type="short" as="introduced">Limiting the Ability to Demand Detrimental Employment Restrictions Act</title>
+    <title type="official" as="introduced">To prohibit employers from requiring low-wage employees to enter into covenants not to compete, to require employers to notify potential employees of any requirement to enter into a covenant not to compete, and for other purposes.</title>
+  </titles>
+  <sponsor id="400087"/>
+  <cosponsors>
+    <cosponsor id="412215" joined="2015-06-24"/>
+    <cosponsor id="400162" joined="2015-07-13"/>
+    <cosponsor id="412585" joined="2015-06-24"/>
+    <cosponsor id="412308" joined="2015-07-28"/>
+    <cosponsor id="400355" joined="2015-06-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-24" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1504"/>
+  </relatedbills>
+  <subjects>
+    <term name="Labor and employment"/>
+  </subjects>
+  <amendments/>
+</bill>

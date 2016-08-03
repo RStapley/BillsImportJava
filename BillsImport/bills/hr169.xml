@@ -1,0 +1,49 @@
+<bill session="114" type="hr" number="169" updated="2015-04-16T04:46:29-04:00">
+  <state datetime="2015-03-24">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-24"/>
+  </status>
+  <introduced datetime="2015-03-24"/>
+  <titles>
+    <title type="official" as="introduced">Acknowledging and honoring brave young men from Hawaii who enabled the United States to establish and maintain jurisdiction in remote equatorial islands as prolonged conflict in the Pacific lead to World War II.</title>
+  </titles>
+  <sponsor id="412626"/>
+  <cosponsors>
+    <cosponsor id="412532" joined="2015-03-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-24" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2015-04-07">
+      <text>Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII24" subcommittee="Indian, Insular and Alaska Native Affairs" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="sr" number="109"/>
+  </relatedbills>
+  <subjects>
+    <term name="Social sciences and history"/>
+    <term name="Alaska Natives and Hawaiians"/>
+    <term name="Congressional tributes"/>
+    <term name="Government liability"/>
+    <term name="Hawaii"/>
+    <term name="Military history"/>
+    <term name="Pacific Ocean"/>
+    <term name="Sovereignty, recognition, national governance and status"/>
+    <term name="U.S. history"/>
+  </subjects>
+  <amendments/>
+  <summary>3/24/2015--Introduced.
+Honors the accomplishments of the Hui Panala 'au colonists and the young men who helped secure and maintain U.S. jurisdiction over equatorial islands in the Pacific Ocean during the years leading up to and the months immediately following the bombing of Pearl Harbor and the entry of the United States into World War II.
+
+Acknowledges the local, national, and international significance of the seven-year colonization of such islands by the United States, which resulted in the United States extending sovereignty into the Equatorial Pacific.
+
+Recognizes the dedication of the young men, the majority of whom were Native Hawaiian, who participated in the Equatorial Pacific colonization project.
+
+Extends condolences to the families of Carl Kahalewai, Joseph Keliihananui, and Richard Whaley for the loss of their loved ones in the service of the United States.</summary>
+</bill>

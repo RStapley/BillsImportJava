@@ -1,0 +1,40 @@
+<bill session="114" type="h" number="1767" updated="2015-06-12T04:52:10-04:00">
+  <state datetime="2015-04-14">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-14"/>
+  </status>
+  <introduced datetime="2015-04-14"/>
+  <titles>
+    <title type="short" as="introduced">Employee Privacy Protection Act</title>
+    <title type="official" as="introduced">To amend the National Labor Relations Act to require that lists of employees eligible to vote in organizing elections be provided to the National Labor Relations Board.</title>
+  </titles>
+  <sponsor id="412310"/>
+  <cosponsors>
+    <cosponsor id="412284" joined="2015-05-12"/>
+    <cosponsor id="400224" joined="2015-04-14"/>
+    <cosponsor id="400279" joined="2015-06-11"/>
+    <cosponsor id="400626" joined="2015-04-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-14" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="933"/>
+  </relatedbills>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Government information and archives"/>
+    <term name="Labor-management relations"/>
+    <term name="Personnel records"/>
+  </subjects>
+  <amendments/>
+  <summary>4/14/2015--Introduced.
+Employee Privacy Protection Act 
+
+ Amends the National Labor Relations Act to require the National Labor Relations Board, not earlier than seven days after it makes a final determination of the appropriate bargaining unit in a proposed election regarding collective bargaining representation, to acquire from the employer a list of all employees eligible to vote in the election, which shall: (1) be made available to all parties, and (2) include the employees' names as well as not more than one additional form of personal contact information (such as telephone number, email address, or mailing address) chosen by the employee in writing.</summary>
+</bill>

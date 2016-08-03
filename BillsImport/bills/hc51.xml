@@ -1,0 +1,39 @@
+<bill session="114" type="hc" number="51" updated="2015-06-13T06:42:34-04:00">
+  <state datetime="2015-05-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-21"/>
+  </status>
+  <introduced datetime="2015-05-21"/>
+  <titles>
+    <title type="official" as="introduced">Expressing the sense of the House of Representatives regarding the execution-style murders of United States citizens Ylli, Agron, and Mehmet Bytyqi in the Republic of Serbia in July 1999.</title>
+  </titles>
+  <sponsor id="412646"/>
+  <cosponsors>
+    <cosponsor id="400122" joined="2015-05-21"/>
+    <cosponsor id="412560" joined="2015-05-21"/>
+    <cosponsor id="400380" joined="2015-05-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-21" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="Europe"/>
+    <term name="Serbia"/>
+    <term name="Violent crime"/>
+    <term name="War crimes, genocide, crimes against humanity"/>
+  </subjects>
+  <amendments/>
+  <summary>5/21/2015--Introduced.
+Expresses the sense of Congress that:
+
+ those individuals responsible for the July 1999 murders of U.S. citizens Ylli, Agron, and Mehmet Bytyqi in Serbia should be brought to justice; it is reprehensible that no individual has ever been found guilty for executing the Bytyqi brothers, or of any other crimes associated with their deaths, and that no individual is even facing charges for these crimes; the government of Serbia and its relevant ministries and offices, including the Serbian War Crimes Prosecutor's Office, should make it a priority to investigate and prosecute as soon as possible those current or former officials believed to be responsible for their deaths; and progress in resolving this case should remain a significant factor determining the further development of U.S.-Serbian relations.</summary>
+</bill>

@@ -1,0 +1,38 @@
+<bill session="114" type="h" number="3089" updated="2015-07-24T04:49:00-04:00">
+  <state datetime="2015-07-22">REPORTED</state>
+  <status>
+    <unknown datetime="2015-07-22"/>
+  </status>
+  <introduced datetime="2015-07-16"/>
+  <titles>
+    <title type="short" as="introduced">GONE Act</title>
+    <title type="short" as="introduced">Grants Oversight and New Efficiency Act</title>
+    <title type="official" as="introduced">To close out expired grants, and for other purposes.</title>
+  </titles>
+  <sponsor id="412213"/>
+  <cosponsors>
+    <cosponsor id="412622" joined="2015-07-23"/>
+    <cosponsor id="412638" joined="2015-07-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-16" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2015-07-22">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-07-22" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1115"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+  </subjects>
+  <amendments/>
+</bill>

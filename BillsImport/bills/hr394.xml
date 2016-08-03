@@ -1,0 +1,73 @@
+<bill session="114" type="hr" number="394" updated="2015-08-22T04:47:07-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="official" as="introduced">Condemning Joseph Kony and the Lord's Resistance Army for continuing to perpetrate crimes against humanity, war crimes, and mass atrocities, and supporting ongoing efforts by the United States Government, the African Union, and governments and regional organizations in central Africa to remove Joseph Kony and Lord's Resistance Army commanders from the battlefield and promote protection and recovery of affected communities.</title>
+  </titles>
+  <sponsor id="400263"/>
+  <cosponsors>
+    <cosponsor id="400033" joined="2015-07-29"/>
+    <cosponsor id="412516" joined="2015-07-31"/>
+    <cosponsor id="412536" joined="2015-07-29"/>
+    <cosponsor id="412263" joined="2015-07-29"/>
+    <cosponsor id="400185" joined="2015-07-31"/>
+    <cosponsor id="400195" joined="2015-07-29"/>
+    <cosponsor id="400237" joined="2015-07-29"/>
+    <cosponsor id="400240" joined="2015-07-29"/>
+    <cosponsor id="400279" joined="2015-07-31"/>
+    <cosponsor id="400441" joined="2015-07-29"/>
+    <cosponsor id="400295" joined="2015-07-29"/>
+    <cosponsor id="400320" joined="2015-07-29"/>
+    <cosponsor id="412432" joined="2015-07-29"/>
+    <cosponsor id="400379" joined="2015-07-29"/>
+    <cosponsor id="400422" joined="2015-07-29"/>
+    <cosponsor id="412412" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the Committee on Foreign Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Referred to House Foreign Affairs</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2015-08-20">
+      <text>Referred to the Subcommittee on Africa, Global Health, Global Human Rights and International Organizations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSFA16" subcommittee="Africa, Global Health, Global Human Rights and International Organizations" name="House Foreign Affairs"/>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="sr" number="237"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Africa"/>
+    <term name="Central African Republic"/>
+    <term name="Child safety and welfare"/>
+    <term name="Conflicts and wars"/>
+    <term name="Democratic Republic of the Congo"/>
+    <term name="Europe"/>
+    <term name="European Union"/>
+    <term name="Foreign aid and international relief"/>
+    <term name="International organizations and cooperation"/>
+    <term name="Military assistance, sales, and agreements"/>
+    <term name="Military operations and strategy"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Multilateral development programs"/>
+    <term name="South Sudan"/>
+    <term name="Sudan"/>
+    <term name="Uganda"/>
+    <term name="United Nations"/>
+    <term name="War crimes, genocide, crimes against humanity"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,25 @@
+<bill session="114" type="s" number="1973" updated="2015-08-22T07:08:16-04:00">
+  <state datetime="2015-08-05">REFERRED</state>
+  <status>
+    <introduced datetime="2015-08-05"/>
+  </status>
+  <introduced datetime="2015-08-05"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to expand the deduction for interest on education loans, to extend and expand the deduction for qualified tuition and related expenses, and eliminate the limitation on contributions to Coverdell education savings accounts.</title>
+  </titles>
+  <sponsor id="412492"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-08-05" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+</bill>

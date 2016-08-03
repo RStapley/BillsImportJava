@@ -1,0 +1,63 @@
+<bill session="114" type="h" number="1368" updated="2015-05-09T06:32:39-04:00">
+  <state datetime="2015-03-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-16"/>
+  </status>
+  <introduced datetime="2015-03-16"/>
+  <titles>
+    <title type="short" as="introduced">No Healthcare Subsidies for Foreign Diplomats Act of 2015</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to prevent foreign diplomats from being eligible to receive health insurance premium tax credits and health insurance cost-sharing reductions, and for other purposes.</title>
+  </titles>
+  <sponsor id="400348"/>
+  <cosponsors>
+    <cosponsor id="412627" joined="2015-03-16"/>
+    <cosponsor id="412270" joined="2015-03-16"/>
+    <cosponsor id="400196" joined="2015-03-16"/>
+    <cosponsor id="412302" joined="2015-03-18"/>
+    <cosponsor id="412569" joined="2015-03-16"/>
+    <cosponsor id="400652" joined="2015-03-18"/>
+    <cosponsor id="412489" joined="2015-03-16"/>
+    <cosponsor id="400351" joined="2015-03-16"/>
+    <cosponsor id="400606" joined="2015-03-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-16" state="REFERRED">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committees on Energy and Commerce, and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-03-16">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-03-16">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-03-16">
+      <text>Referred to House Foreign Affairs</text>
+    </action>
+    <action datetime="2015-03-20">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Congressional oversight"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="Government information and archives"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Income tax credits"/>
+    <term name="International organizations and cooperation"/>
+    <term name="United Nations"/>
+  </subjects>
+  <amendments/>
+  <summary>3/16/2015--Introduced.
+No Healthcare Subsidies for Foreign Diplomats Act of 2015
+
+ Amends the Internal Revenue Code to deny a tax credit for the cost of health insurance premiums and health insurance cost-sharing reductions under the Patient Protection and Affordable Care Act&#160;to foreign diplomats. Requires the Secretary of State to notify all foreign missions in the United States, permanent missions to the United Nations, and the United Nations Secretariat that health insurance premium tax credits and cost-sharing reductions are not available for their foreign personnel with nonimmigrant status under the Immigration and Nationality Act.</summary>
+</bill>

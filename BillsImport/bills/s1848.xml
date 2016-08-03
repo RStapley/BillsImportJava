@@ -1,0 +1,27 @@
+<bill session="114" type="s" number="1848" updated="2015-08-01T07:07:41-04:00">
+  <state datetime="2015-07-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-23"/>
+  </status>
+  <introduced datetime="2015-07-23"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Federal Reserve Act to improve the functioning and transparency of the Board of Governors of the Federal Reserve System and the Federal Open Market Committee, and for other purposes.</title>
+  </titles>
+  <sponsor id="412495"/>
+  <cosponsors>
+    <cosponsor id="300027" joined="2015-07-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-23" state="REFERRED">
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+  </subjects>
+  <amendments/>
+</bill>

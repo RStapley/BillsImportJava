@@ -1,0 +1,46 @@
+<bill session="114" type="s" number="326" updated="2015-07-17T04:59:36-04:00">
+  <state datetime="2015-01-30">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-30"/>
+  </status>
+  <introduced datetime="2015-01-30"/>
+  <titles>
+    <title type="short" as="introduced">Stewardship End Result Contracting Improvement Act</title>
+    <title type="official" as="introduced">A bill to amend the Healthy Forests Restoration Act of 2003 to provide cancellation ceilings for stewardship end result contracting projects, and for other purposes.</title>
+  </titles>
+  <sponsor id="400134"/>
+  <cosponsors>
+    <cosponsor id="412251" joined="2015-01-30"/>
+    <cosponsor id="412330" joined="2015-01-30"/>
+    <cosponsor id="300030" joined="2015-01-30"/>
+    <cosponsor id="412549" joined="2015-07-14"/>
+    <cosponsor id="300041" joined="2015-02-10"/>
+    <cosponsor id="412406" joined="2015-02-03"/>
+    <cosponsor id="412281" joined="2015-01-30"/>
+    <cosponsor id="412218" joined="2015-01-30"/>
+    <cosponsor id="300071" joined="2015-01-30"/>
+    <cosponsor id="412322" joined="2015-01-30"/>
+    <cosponsor id="412244" joined="2015-01-30"/>
+    <cosponsor id="400413" joined="2015-07-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-30" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2015-07-16">
+      <text>Committee on Energy and Natural Resources. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Congressional oversight"/>
+    <term name="Forests, forestry, trees"/>
+    <term name="Land use and conservation"/>
+    <term name="Public contracts and procurement"/>
+  </subjects>
+  <amendments/>
+</bill>

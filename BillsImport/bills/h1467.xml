@@ -1,0 +1,67 @@
+<bill session="114" type="h" number="1467" updated="2015-08-22T06:31:29-04:00">
+  <state datetime="2015-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-19"/>
+  </status>
+  <introduced datetime="2015-03-19"/>
+  <titles>
+    <title type="short" as="introduced">Drug Free Commercial Driver Act of 2015</title>
+    <title type="official" as="introduced">To amend section 31306 of title 49, United States Code, to recognize hair as an alternative specimen for preemployment and random controlled substances testing of commercial motor vehicle drivers, and for other purposes.</title>
+  </titles>
+  <sponsor id="412400"/>
+  <cosponsors>
+    <cosponsor id="412469" joined="2015-04-28"/>
+    <cosponsor id="412403" joined="2015-04-28"/>
+    <cosponsor id="412488" joined="2015-03-19"/>
+    <cosponsor id="412609" joined="2015-03-19"/>
+    <cosponsor id="400630" joined="2015-03-19"/>
+    <cosponsor id="412552" joined="2015-04-28"/>
+    <cosponsor id="400295" joined="2015-03-19"/>
+    <cosponsor id="412462" joined="2015-07-07"/>
+    <cosponsor id="412489" joined="2015-03-19"/>
+    <cosponsor id="412610" joined="2015-03-19"/>
+    <cosponsor id="412402" joined="2015-03-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-19" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2015-03-20">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW12" subcommittee="Highways and Transit" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="806"/>
+    <bill relation="unknown" session="114" type="s" number="1732"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Transportation"/>
+    <term name="Drug safety, medical device, and laboratory regulation"/>
+    <term name="Drug, alcohol, tobacco use"/>
+    <term name="Employee hiring"/>
+    <term name="Motor carriers"/>
+    <term name="Personnel records"/>
+    <term name="Transportation employees"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+  <summary>3/19/2015--Introduced.
+Drug Free Commercial Driver Act of 2015 
+
+ Revises regulations that require motor carriers to conduct preemployment, reasonable suspicion, random, and post-accident testing of commercial motor vehicle operators for controlled substances or alcohol.
+
+Allows motor carriers to use hair testing as an acceptable alternative to urinalysis for detecting use of controlled substances by an operator, but only for preemployment testing and random testing (but the latter only if the motor carrier tested the operator at preemployment using the same method).
+
+Requires the Secretary of Transportation to develop requirements for laboratories and testing procedures for controlled substances that include mandatory guidelines that establish, among other things, laboratory protocols and cut-off levels for hair testing to detect the use of such substances.
+
+Allows a motor carrier that demonstrates it can carry out a hair testing program consistent with generally accepted industry standards to apply to the Administrator of the Federal Motor Carrier Safety Administration for exemption from mandatory urinalysis testing. Requires a motor carrier's testing program, in order to be eligible for such exemption, to employ procedures and protections similar to a fleet that has carried out a hair testing program for at least 12 months.
+
+Directs the Secretary of Health and Human Services to issue scientific and technical guidelines for hair testing as a method for detecting the use of controlled substances.</summary>
+</bill>

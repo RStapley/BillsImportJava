@@ -1,0 +1,36 @@
+<bill session="114" type="h" number="2673" updated="2015-06-16T04:47:40-04:00">
+  <state datetime="2015-06-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-04"/>
+  </status>
+  <introduced datetime="2015-06-04"/>
+  <titles>
+    <title type="short" as="introduced">Retain Act</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to expand the eligibility of employees of the Department of Veterans Affairs to participate in the Education Debt Reduction Program.</title>
+  </titles>
+  <sponsor id="412632"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-06-04" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2015-06-15">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <summary>6/4/2015--Introduced.
+Retain Act
+
+This bill expands the eligibility of Department of Veterans Affairs (VA) employees to participate in the education debt reduction program.
+
+VA must give participation priority to employees providing direct-patient care services or services incident to direct-patient care services for which recruitment or retention of qualified health-care personnel is difficult.</summary>
+</bill>

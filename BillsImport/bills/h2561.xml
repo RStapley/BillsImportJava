@@ -1,0 +1,51 @@
+<bill session="114" type="h" number="2561" updated="2015-08-15T06:40:46-04:00">
+  <state datetime="2015-05-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-21"/>
+  </status>
+  <introduced datetime="2015-05-21"/>
+  <titles>
+    <title type="short" as="introduced">Paul A. Smithhisler Medal of Honor Act</title>
+    <title type="official" as="introduced">To authorize the President to award the Medal of Honor posthumously to Paul A. Smithhisler for acts of valor in November 1918 during World War I.</title>
+  </titles>
+  <sponsor id="412461"/>
+  <cosponsors>
+    <cosponsor id="412565" joined="2015-05-21"/>
+    <cosponsor id="400071" joined="2015-05-21"/>
+    <cosponsor id="412327" joined="2015-05-21"/>
+    <cosponsor id="412463" joined="2015-05-21"/>
+    <cosponsor id="412460" joined="2015-05-21"/>
+    <cosponsor id="412226" joined="2015-05-21"/>
+    <cosponsor id="412566" joined="2015-05-21"/>
+    <cosponsor id="400211" joined="2015-05-21"/>
+    <cosponsor id="412256" joined="2015-05-21"/>
+    <cosponsor id="412462" joined="2015-05-21"/>
+    <cosponsor id="400352" joined="2015-05-21"/>
+    <cosponsor id="400406" joined="2015-05-21"/>
+    <cosponsor id="400411" joined="2015-05-21"/>
+    <cosponsor id="412564" joined="2015-05-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-21" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Conflicts and wars"/>
+    <term name="Congressional tributes"/>
+    <term name="Military personnel and dependents"/>
+  </subjects>
+  <amendments/>
+  <summary>5/21/2015--Introduced.
+Paul A. Smithhisler Medal of Honor Act
+
+This bill authorizes the President to award the Medal of Honor posthumously to Sergeant Paul A. Smithhisler for the acts of valor during World War I for which Sergeant Smithhisler originally was awarded the Distinguished Service Cross.
+
+It is the sense of Congress that should the President award the Medal of Honor to Sergeant Paul A. Smithhisler, November 11, 2018, the 100th anniversary of the armistice that ended formal hostilities in western Europe during World War I, would be an appropriate occasion upon which to make the award.</summary>
+</bill>

@@ -1,0 +1,34 @@
+<bill session="114" type="h" number="1864" updated="2015-06-27T06:49:56-04:00">
+  <state datetime="2015-04-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-16"/>
+  </status>
+  <introduced datetime="2015-04-16"/>
+  <titles>
+    <title type="official" as="introduced">To direct the Secretary of Defense to designate a single senior official of the Department of Defense to procure wideband satellite communications necessary to meet the requirements of the Department of Defense, and for other purposes.</title>
+  </titles>
+  <sponsor id="412567"/>
+  <cosponsors>
+    <cosponsor id="400081" joined="2015-04-16"/>
+    <cosponsor id="400341" joined="2015-04-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-16" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1735"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Military procurement, research, weapons development"/>
+    <term name="Spacecraft and satellites"/>
+  </subjects>
+  <amendments/>
+  <summary>4/16/2015--Introduced.
+This bill directs the Secretary of Defense (DOD) to: (1) designate a senior DOD official to procure wide band satellite communications necessary to meet DOD requirements, including those for military and commercial satellite communications; and (2) submit to the congressional defense committees a plan to meet such requirements.</summary>
+</bill>

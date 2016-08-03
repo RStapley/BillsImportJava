@@ -1,0 +1,47 @@
+<bill session="114" type="h" number="3179" updated="2015-07-30T04:50:38-04:00">
+  <state datetime="2015-07-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-23"/>
+  </status>
+  <introduced datetime="2015-07-23"/>
+  <titles>
+    <title type="short" as="introduced">Empowering Students Through Enhanced Financial Counseling Act</title>
+    <title type="official" as="introduced">To amend the loan counseling requirements under the Higher Education Act of 1965, and for other purposes.</title>
+  </titles>
+  <sponsor id="412278"/>
+  <cosponsors>
+    <cosponsor id="412625" joined="2015-07-23"/>
+    <cosponsor id="412501" joined="2015-07-23"/>
+    <cosponsor id="412622" joined="2015-07-23"/>
+    <cosponsor id="412600" joined="2015-07-23"/>
+    <cosponsor id="400097" joined="2015-07-23"/>
+    <cosponsor id="412613" joined="2015-07-23"/>
+    <cosponsor id="400162" joined="2015-07-23"/>
+    <cosponsor id="412446" joined="2015-07-23"/>
+    <cosponsor id="412550" joined="2015-07-23"/>
+    <cosponsor id="412283" joined="2015-07-23"/>
+    <cosponsor id="400224" joined="2015-07-23"/>
+    <cosponsor id="412540" joined="2015-07-23"/>
+    <cosponsor id="412585" joined="2015-07-23"/>
+    <cosponsor id="412310" joined="2015-07-29"/>
+    <cosponsor id="412426" joined="2015-07-29"/>
+    <cosponsor id="412312" joined="2015-07-23"/>
+    <cosponsor id="400364" joined="2015-07-23"/>
+    <cosponsor id="412648" joined="2015-07-23"/>
+    <cosponsor id="412520" joined="2015-07-23"/>
+    <cosponsor id="412213" joined="2015-07-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-23" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+  </subjects>
+  <amendments/>
+</bill>

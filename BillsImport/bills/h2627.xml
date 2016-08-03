@@ -1,0 +1,52 @@
+<bill session="114" type="h" number="2627" updated="2015-07-23T04:48:45-04:00">
+  <state datetime="2015-06-03">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-03"/>
+  </status>
+  <introduced datetime="2015-06-03"/>
+  <titles>
+    <title type="short" as="introduced">Salad Bars in Schools Expansion Act</title>
+    <title type="official" as="introduced">To amend the Richard B. Russell National School Lunch Act to expand the use of salad bars in schools.</title>
+  </titles>
+  <sponsor id="400352"/>
+  <cosponsors>
+    <cosponsor id="412517" joined="2015-06-11"/>
+    <cosponsor id="412563" joined="2015-07-07"/>
+    <cosponsor id="400103" joined="2015-06-03"/>
+    <cosponsor id="412613" joined="2015-06-25"/>
+    <cosponsor id="400129" joined="2015-06-03"/>
+    <cosponsor id="412327" joined="2015-07-07"/>
+    <cosponsor id="400170" joined="2015-06-11"/>
+    <cosponsor id="400179" joined="2015-06-11"/>
+    <cosponsor id="400263" joined="2015-06-11"/>
+    <cosponsor id="400333" joined="2015-07-22"/>
+    <cosponsor id="412412" joined="2015-06-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-03" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Child health"/>
+    <term name="Education programs funding"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Food assistance and relief"/>
+    <term name="Fruit and vegetables"/>
+    <term name="Nutrition and diet"/>
+  </subjects>
+  <amendments/>
+  <summary>6/3/2015--Introduced.
+Salad Bars in Schools Expansion Act
+
+This bill amends the Richard B. Russell National School Lunch Act to require the Department of Agriculture (USDA) to establish and implement a plan, including through a five-year program of competitive grants, to promote the use of salad bars in schools participating in the school lunch program.
+
+Priority in the award of grants may be given to entities that: (1) serve schools in which at least 50% of the students are eligible for free or reduced-price lunches or that are located in food deserts, or (2) provide nutrition education. (A food desert is an area without ready access to fresh, healthful, and affordable food.)
+
+USDA shall revise the March 27, 2013, policy memorandum SP 31-2013, "Salad Bars in the National School Lunch Program," in light of recommendations submitted to Congress under this Act.</summary>
+</bill>

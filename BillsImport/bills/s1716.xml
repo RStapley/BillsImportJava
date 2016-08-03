@@ -1,0 +1,41 @@
+<bill session="114" type="s" number="1716" updated="2015-07-18T07:02:31-04:00">
+  <state datetime="2015-07-08">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-08"/>
+  </status>
+  <introduced datetime="2015-07-08"/>
+  <titles>
+    <title type="short" as="introduced">America's College Promise Act of 2015</title>
+    <title type="official" as="introduced">A bill to provide access to higher education for the students of the United States.</title>
+  </titles>
+  <sponsor id="400013"/>
+  <cosponsors>
+    <cosponsor id="412598" joined="2015-07-08"/>
+    <cosponsor id="300011" joined="2015-07-09"/>
+    <cosponsor id="400050" joined="2015-07-08"/>
+    <cosponsor id="400064" joined="2015-07-08"/>
+    <cosponsor id="300038" joined="2015-07-08"/>
+    <cosponsor id="412223" joined="2015-07-13"/>
+    <cosponsor id="412281" joined="2015-07-08"/>
+    <cosponsor id="412200" joined="2015-07-08"/>
+    <cosponsor id="300065" joined="2015-07-08"/>
+    <cosponsor id="400253" joined="2015-07-08"/>
+    <cosponsor id="412325" joined="2015-07-09"/>
+    <cosponsor id="412194" joined="2015-07-08"/>
+    <cosponsor id="300093" joined="2015-07-08"/>
+    <cosponsor id="412247" joined="2015-07-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-08" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,95 @@
+<bill session="114" type="h" number="1112" updated="2015-08-05T04:47:06-04:00">
+  <state datetime="2015-02-26">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-26"/>
+  </status>
+  <introduced datetime="2015-02-26"/>
+  <titles>
+    <title type="short" as="introduced">Reciprocal Access to Tibet Act of 2015</title>
+    <title type="official" as="introduced">To promote access for United States officials, journalists, and other citizens to Tibetan areas of the People's Republic of China, and for other purposes.</title>
+  </titles>
+  <sponsor id="400263"/>
+  <cosponsors>
+    <cosponsor id="412652" joined="2015-05-15"/>
+    <cosponsor id="400063" joined="2015-04-13"/>
+    <cosponsor id="412470" joined="2015-05-15"/>
+    <cosponsor id="412600" joined="2015-02-26"/>
+    <cosponsor id="412272" joined="2015-05-15"/>
+    <cosponsor id="412651" joined="2015-05-13"/>
+    <cosponsor id="400100" joined="2015-08-04"/>
+    <cosponsor id="400103" joined="2015-05-15"/>
+    <cosponsor id="412385" joined="2015-05-15"/>
+    <cosponsor id="400111" joined="2015-05-15"/>
+    <cosponsor id="412215" joined="2015-02-26"/>
+    <cosponsor id="412276" joined="2015-05-15"/>
+    <cosponsor id="412498" joined="2015-05-15"/>
+    <cosponsor id="400641" joined="2015-05-18"/>
+    <cosponsor id="412282" joined="2015-07-31"/>
+    <cosponsor id="412422" joined="2015-05-22"/>
+    <cosponsor id="412435" joined="2015-05-15"/>
+    <cosponsor id="412543" joined="2015-05-15"/>
+    <cosponsor id="400249" joined="2015-07-08"/>
+    <cosponsor id="412468" joined="2015-02-26"/>
+    <cosponsor id="400663" joined="2015-05-15"/>
+    <cosponsor id="400291" joined="2015-05-15"/>
+    <cosponsor id="408211" joined="2015-07-08"/>
+    <cosponsor id="400295" joined="2015-03-19"/>
+    <cosponsor id="400320" joined="2015-02-26"/>
+    <cosponsor id="412308" joined="2015-05-15"/>
+    <cosponsor id="400343" joined="2015-05-15"/>
+    <cosponsor id="400352" joined="2015-05-15"/>
+    <cosponsor id="400360" joined="2015-07-08"/>
+    <cosponsor id="400366" joined="2015-05-15"/>
+    <cosponsor id="400378" joined="2015-05-15"/>
+    <cosponsor id="412254" joined="2015-02-26"/>
+    <cosponsor id="400416" joined="2015-05-15"/>
+    <cosponsor id="400422" joined="2015-05-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-26" state="REFERRED">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-02-26">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2015-02-26">
+      <text>Referred to House Foreign Affairs</text>
+    </action>
+    <action datetime="2015-03-20">
+      <text>Referred to the Subcommittee on Asia and the Pacific.</text>
+    </action>
+    <action datetime="2015-03-31">
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration and Border Security" name="House Judiciary"/>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSFA05" subcommittee="Asia and the Pacific" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Asia"/>
+    <term name="China"/>
+    <term name="Congressional oversight"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="Government studies and investigations"/>
+    <term name="Immigration status and procedures"/>
+    <term name="News media and reporting"/>
+    <term name="Sanctions"/>
+    <term name="Tibet"/>
+    <term name="Travel and tourism"/>
+    <term name="Visas and passports"/>
+  </subjects>
+  <amendments/>
+  <summary>2/26/2015--Introduced.
+Reciprocal Access to Tibet Act of 2015 
+
+ Directs the Secretary of State to submit an annual, publicly-available report to Congress containing: (1) an assessment of the level of access Chinese authorities granted U.S. diplomats, journalists, and tourists to Tibetan areas in China; (2) a list of the persons in senior leadership positions in Tibet Autonomous Region and other specified provinces, prefectures, and autonomous entities; and (3) a list of the persons in senior leadership positions at the national and regional levels as defined by this Act.
+
+Makes certain listed persons ineligible for U.S entry under specified circumstances.
+
+Expresses the sense of Congress that: (1) reciprocity forms the basis of diplomatic law and the practice of mutual exchanges between countries; (2) consular access should be given on a reciprocal basis; and (3) the Secretary, when granting Chinese diplomats access to parts of the United States, should take into account the extent to which China grants U.S. diplomats access to parts of China, including the level of access to Tibetan areas.</summary>
+</bill>

@@ -1,0 +1,29 @@
+<bill session="114" type="h" number="3196" updated="2015-07-28T15:58:43-04:00">
+  <state datetime="2015-07-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-23"/>
+  </status>
+  <introduced datetime="2015-07-23"/>
+  <titles>
+    <title type="short" as="introduced">Fair Franchise Act of 2015</title>
+    <title type="official" as="introduced">To establish minimum standards of fair conduct in franchise sales and franchise business relationships, and for other purposes.</title>
+  </titles>
+  <sponsor id="412215"/>
+  <cosponsors>
+    <cosponsor id="400080" joined="2015-07-23"/>
+    <cosponsor id="412511" joined="2015-07-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-23" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+  </subjects>
+  <amendments/>
+</bill>

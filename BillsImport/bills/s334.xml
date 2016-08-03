@@ -1,0 +1,43 @@
+<bill session="114" type="s" number="334" updated="2015-05-23T06:45:09-04:00">
+  <state datetime="2015-02-02">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-02"/>
+  </status>
+  <introduced datetime="2015-02-02"/>
+  <titles>
+    <title type="short" as="introduced">End Government Shutdowns Act</title>
+    <title type="official" as="introduced">A bill to amend title 31, United States Code, to provide for automatic continuing resolutions.</title>
+  </titles>
+  <sponsor id="400325"/>
+  <cosponsors>
+    <cosponsor id="412493" joined="2015-02-02"/>
+    <cosponsor id="412251" joined="2015-02-02"/>
+    <cosponsor id="300041" joined="2015-02-02"/>
+    <cosponsor id="300048" joined="2015-02-02"/>
+    <cosponsor id="400194" joined="2015-02-02"/>
+    <cosponsor id="412496" joined="2015-02-02"/>
+    <cosponsor id="412495" joined="2015-02-02"/>
+    <cosponsor id="412491" joined="2015-02-02"/>
+    <cosponsor id="400408" joined="2015-02-02"/>
+    <cosponsor id="400432" joined="2015-02-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-02" state="REFERRED">
+      <text>Read twice and referred to the Committee on Appropriations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAP" name="Senate Appropriations" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Appropriations"/>
+    <term name="Executive agency funding and structure"/>
+  </subjects>
+  <amendments/>
+  <summary>2/2/2015--Introduced.
+End Government Shutdowns Act 
+
+This bill provides specified continuing appropriations to prevent a government shutdown if any appropriations measure for a fiscal year has not been enacted or a joint resolution making continuing appropriations is not in effect after the fiscal year begins. The appropriations are provided to continue to fund programs, projects, and activities for which funds were provided in the preceding fiscal year.</summary>
+</bill>

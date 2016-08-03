@@ -1,0 +1,26 @@
+<bill session="114" type="s" number="1978" updated="2015-08-17T12:47:18-04:00">
+  <state datetime="2015-08-05">REFERRED</state>
+  <status>
+    <introduced datetime="2015-08-05"/>
+  </status>
+  <introduced datetime="2015-08-05"/>
+  <titles>
+    <title type="short" as="introduced">SBIC Advisers Relief Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend the Investment Advisers Act of 1940 to prevent duplicative regulation of advisers of small business investment companies.</title>
+  </titles>
+  <sponsor id="400222"/>
+  <cosponsors>
+    <cosponsor id="412205" joined="2015-08-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-08-05" state="REFERRED">
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

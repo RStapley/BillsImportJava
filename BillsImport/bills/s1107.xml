@@ -1,0 +1,36 @@
+<bill session="114" type="s" number="1107" updated="2015-08-06T04:48:37-04:00">
+  <state datetime="2015-04-28">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-28"/>
+  </status>
+  <introduced datetime="2015-04-28"/>
+  <titles>
+    <title type="short" as="introduced">Fluke Fairness Act of 2015</title>
+    <title type="official" as="introduced">A bill to provide for an equitable management of summer flounder based on geographic, scientific, and economic data and for other purposes.</title>
+  </titles>
+  <sponsor id="300087"/>
+  <cosponsors>
+    <cosponsor id="412223" joined="2015-08-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-28" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1888"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Atlantic Ocean"/>
+    <term name="Congressional oversight"/>
+    <term name="Fishes"/>
+    <term name="Government studies and investigations"/>
+    <term name="Hunting and fishing"/>
+    <term name="Marine and coastal resources, fisheries"/>
+  </subjects>
+  <amendments/>
+</bill>

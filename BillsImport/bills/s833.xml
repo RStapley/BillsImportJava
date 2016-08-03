@@ -1,0 +1,56 @@
+<bill session="114" type="s" number="833" updated="2015-08-07T04:47:35-04:00">
+  <state datetime="2015-07-22">REPORTED</state>
+  <status>
+    <unknown datetime="2015-07-22"/>
+  </status>
+  <introduced datetime="2015-03-23"/>
+  <titles>
+    <title type="short" as="introduced">Department of Veterans Affairs Medical Facility Earthquake Protection and Improvement Act</title>
+    <title type="official" as="introduced">A bill to authorize the Secretary of Veterans Affairs to carry out certain major medical facility projects for which appropriations were made for fiscal year 2015, and for other purposes.</title>
+  </titles>
+  <sponsor id="300043"/>
+  <cosponsors>
+    <cosponsor id="300011" joined="2015-03-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-23">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S1710"/>
+    </action>
+    <action datetime="2015-03-23" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+    <calendar datetime="2015-07-22" state="REPORTED">
+      <text>Committee on Veterans' Affairs. Ordered to be reported with amendments favorably.</text>
+    </calendar>
+    <action datetime="2015-08-06">
+      <text>Committee on Veterans' Affairs. Reported by Senator Isakson under authority of the order of the Senate of 08/05/2015 with an amendment. Without written report.</text>
+    </action>
+    <calendar datetime="2015-08-06" calendar="Senate Legislative" under="General Orders" number="199">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 199.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="1543"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Building construction"/>
+    <term name="California"/>
+    <term name="Department of Veterans Affairs"/>
+    <term name="Emergency planning and evacuation"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Health facilities and institutions"/>
+    <term name="Natural disasters"/>
+    <term name="New York State"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>3/23/2015--Introduced.
+Department of Veterans Affairs Medical Facility Earthquake Protection and Improvement Act
+
+This bill authorizes the Department of Veterans Affairs (VA) to carry out the major medical facility projects of the VA specified in the explanatory statement accompanying the Consolidated and Further Continuing Appropriations Act, 2015, including by obligating and expending the amounts specified in such statement. (Those projects include seismic corrections to the West Los Angeles Medical Center, replacement of a community living center and mental health facilities in Long Beach, and replacement of an existing spinal cord injury clinic in San Diego, California, all of which are at high risk of sustaining damage during an earthquake, and renovations to address substantial safety and compliance issues and construction of a new clinic and community living center at the VA medical center in Canandaigua, New York.)</summary>
+</bill>

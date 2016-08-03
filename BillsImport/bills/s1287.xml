@@ -1,0 +1,34 @@
+<bill session="114" type="s" number="1287" updated="2015-06-06T06:54:20-04:00">
+  <state datetime="2015-05-12">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-12"/>
+  </status>
+  <introduced datetime="2015-05-12"/>
+  <titles>
+    <title type="short" as="introduced">Viral Hepatitis Testing Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend the Public Health Service Act to revise and extend the program for viral hepatitis surveillance, education, and testing in order to prevent deaths from chronic liver disease and liver cancer, and for other purposes.</title>
+  </titles>
+  <sponsor id="400222"/>
+  <cosponsors>
+    <cosponsor id="412269" joined="2015-05-12"/>
+    <cosponsor id="412223" joined="2015-05-14"/>
+    <cosponsor id="412200" joined="2015-05-12"/>
+    <cosponsor id="412325" joined="2015-05-12"/>
+    <cosponsor id="300087" joined="2015-05-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-12" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="1101"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,73 @@
+<bill session="114" type="h" number="1726" updated="2015-07-21T04:47:49-04:00">
+  <state datetime="2015-03-26">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-26"/>
+  </status>
+  <introduced datetime="2015-03-26"/>
+  <titles>
+    <title type="short" as="introduced">Access to Quality Diabetes Education Act of 2015</title>
+    <title type="official" as="introduced">To amend title XVIII of the Social Security Act to improve access to diabetes self-management training by authorizing certified diabetes educators to provide diabetes self-management training services, including as part of telehealth services, under part B of the Medicare program.</title>
+  </titles>
+  <sponsor id="400431"/>
+  <cosponsors>
+    <cosponsor id="412500" joined="2015-06-23"/>
+    <cosponsor id="400030" joined="2015-07-14"/>
+    <cosponsor id="400052" joined="2015-07-09"/>
+    <cosponsor id="412651" joined="2015-07-07"/>
+    <cosponsor id="400093" joined="2015-06-16"/>
+    <cosponsor id="400101" joined="2015-03-26"/>
+    <cosponsor id="412278" joined="2015-06-16"/>
+    <cosponsor id="412280" joined="2015-04-27"/>
+    <cosponsor id="412584" joined="2015-07-14"/>
+    <cosponsor id="412460" joined="2015-05-22"/>
+    <cosponsor id="412199" joined="2015-07-07"/>
+    <cosponsor id="400630" joined="2015-04-27"/>
+    <cosponsor id="400259" joined="2015-06-09"/>
+    <cosponsor id="400644" joined="2015-06-25"/>
+    <cosponsor id="412302" joined="2015-04-29"/>
+    <cosponsor id="412393" joined="2015-03-26"/>
+    <cosponsor id="400350" joined="2015-06-16"/>
+    <cosponsor id="400402" joined="2015-06-16"/>
+    <cosponsor id="400419" joined="2015-07-07"/>
+    <cosponsor id="412640" joined="2015-07-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-26" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-03-26">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-03-26">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-03-27">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="1345"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Congressional oversight"/>
+    <term name="Digestive and metabolic diseases"/>
+    <term name="Drug therapy"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="Medicare"/>
+  </subjects>
+  <amendments/>
+  <summary>3/26/2015--Introduced.
+Access to Quality Diabetes Education Act of 2015 
+
+ Amends title XVIII (Medicare) of the Social Security Act to recognize state-licensed or -registered certified diabetes educators or state-licensed or -registered health care professionals who specialize in teaching individuals with diabetes to develop the necessary skills and knowledge to manage the individual's diabetic condition and are certified as a diabetes educator by a recognized certifying body.
+
+Directs the Government Accountability Office to study the barriers that exist for Medicare beneficiaries with diabetes in accessing diabetes self-management training services under the Medicare program.
+
+Requires the Director of the Agency for Health Care Research and Quality of the Department of Health and Human Services to develop a series of recommendations on effective outreach methods to educate primary care physicians and other health care providers as well as the public about the benefits of diabetes self-management training.</summary>
+</bill>

@@ -1,0 +1,31 @@
+<bill session="114" type="s" number="1687" updated="2015-07-18T07:02:17-04:00">
+  <state datetime="2015-06-25">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-25"/>
+  </status>
+  <introduced datetime="2015-06-25"/>
+  <titles>
+    <title type="short" as="introduced">Offshore Reinsurance Tax Fairness Act</title>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to restrict the insurance business exception to passive foreign investment company rules.</title>
+  </titles>
+  <sponsor id="300100"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-06-25">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S4650"/>
+    </action>
+    <action datetime="2015-06-25" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <reference ref="CR S4650-4652" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+</bill>

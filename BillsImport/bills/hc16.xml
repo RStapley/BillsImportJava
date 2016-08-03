@@ -1,0 +1,44 @@
+<bill session="114" type="hc" number="16" updated="2015-03-07T06:28:14-05:00">
+  <state datetime="2015-02-10">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-10"/>
+  </status>
+  <introduced datetime="2015-02-10"/>
+  <titles>
+    <title type="official" as="introduced">Recognizing the difficult challenges Black veterans faced when returning home after serving in the Armed Forces, their heroic military sacrifices, and their patriotism in fighting for equal rights and for the dignity of a people and a Nation.</title>
+  </titles>
+  <sponsor id="412565"/>
+  <cosponsors>
+    <cosponsor id="400030" joined="2015-02-10"/>
+    <cosponsor id="412221" joined="2015-02-10"/>
+    <cosponsor id="400074" joined="2015-02-10"/>
+    <cosponsor id="400653" joined="2015-02-10"/>
+    <cosponsor id="400162" joined="2015-02-10"/>
+    <cosponsor id="400295" joined="2015-02-10"/>
+    <cosponsor id="400333" joined="2015-02-10"/>
+    <cosponsor id="400350" joined="2015-02-10"/>
+    <cosponsor id="400363" joined="2015-02-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-10" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Congressional tributes"/>
+    <term name="Minority health"/>
+    <term name="Racial and ethnic relations"/>
+    <term name="Veterans' medical care"/>
+    <term name="Veterans' organizations and recognition"/>
+  </subjects>
+  <amendments/>
+  <summary>2/10/2015--Introduced.
+Recognizes the difficult challenges Black veterans faced when returning home after serving in the Armed Forces, their heroic military sacrifices, and their patriotism in fighting for equal rights and for the dignity of a people and a nation.
+
+Recognizes the need for the Department of Veterans Affairs to continue to work to eliminate any health and benefit disparities for minority veterans.</summary>
+</bill>

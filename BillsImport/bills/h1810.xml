@@ -1,0 +1,54 @@
+<bill session="114" type="h" number="1810" updated="2015-07-11T06:33:52-04:00">
+  <state datetime="2015-04-15">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-15"/>
+  </status>
+  <introduced datetime="2015-04-15"/>
+  <titles>
+    <title type="short" as="introduced">CADET Act</title>
+    <title type="short" as="introduced">Collection and Analysis of Data to Educate and Train Law Enforcement Officers Act of 2015</title>
+    <title type="official" as="introduced">To revise the Uniform Crime Reports, and the National Incident-Based Reporting System, to direct the Director of the Federal Bureau of Investigation to include information in those reports pertaining to law enforcement-involved justifiable homicides, and for other purposes.</title>
+  </titles>
+  <sponsor id="400199"/>
+  <cosponsors>
+    <cosponsor id="412236" joined="2015-04-20"/>
+    <cosponsor id="400080" joined="2015-04-15"/>
+    <cosponsor id="400185" joined="2015-05-19"/>
+    <cosponsor id="412638" joined="2015-05-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-15">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="(CR H2131"/>
+    </action>
+    <action datetime="2015-04-15" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-04-28">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H2492"/>
+    </action>
+    <action datetime="2015-04-30">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H2665"/>
+    </action>
+    <action datetime="2015-05-15">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+  </subjects>
+  <amendments/>
+  <summary>4/15/2015--Introduced.
+Collection and Analysis of Data to Educate and Train Law Enforcement Officers Act of 2015 or the CADET Act
+
+Requires the Federal Bureau of Investigation to revise the Uniform Crime Reports and the National Incident-Based Reporting System to include information pertaining to the justified and unjustified uses of force resulting in death or injury by or against law enforcement officers, including: (1) the age, race, gender, religion, and criminal history of the victim; and (2) the age, race, gender, and other relevant information relating to the officer involved, such as the number of prior officer involved shootings and uses of lethal force, the number and disposition of citizen complaints filed against the officer, and the nature and description of any disciplinary actions taken against the officer.
+
+Directs the Attorney General to reduce by between 10% and 25% the amount that would otherwise be awarded under the Edward Byrne Memorial Justice Assistance Grant Program to a state or local government that fails to provide such information.</summary>
+</bill>

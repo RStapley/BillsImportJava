@@ -1,0 +1,43 @@
+<bill session="114" type="h" number="901" updated="2015-03-27T04:46:50-04:00">
+  <state datetime="2015-03-25">REPORTED</state>
+  <status>
+    <unknown datetime="2015-03-25"/>
+  </status>
+  <introduced datetime="2015-02-11"/>
+  <titles>
+    <title type="short" as="introduced">Eliminating Pornography from Agencies Act</title>
+    <title type="official" as="introduced">To prohibit accessing pornographic web sites from Federal computers, and for other purposes.</title>
+  </titles>
+  <sponsor id="412552"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-02-11" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government.</text>
+    </action>
+    <action datetime="2015-03-25">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-03-25" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Computers and information technology"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Government ethics and transparency, public corruption"/>
+    <term name="Internet and video services"/>
+    <term name="Office of Management and Budget (OMB)"/>
+    <term name="Pornography"/>
+  </subjects>
+  <amendments/>
+  <summary>2/11/2015--Introduced.
+Eliminating Pornography from Agencies Act
+
+Directs the Director of the Office of Management and Budget to issue guidelines that prohibit the access of a pornographic or other explicit website from a federal computer, except any federal computer that is used for an investigative purpose that requires accessing such a website.</summary>
+</bill>

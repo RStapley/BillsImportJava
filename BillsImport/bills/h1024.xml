@@ -1,0 +1,92 @@
+<bill session="114" type="h" number="1024" updated="2015-04-11T06:25:46-04:00">
+  <state datetime="2015-02-24">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-24"/>
+  </status>
+  <introduced datetime="2015-02-24"/>
+  <titles>
+    <title type="short" as="introduced">DHS Employee Retroactive Pay Fairness Act</title>
+    <title type="official" as="introduced">To provide for the compensation of furloughed Department of Homeland Security employees in the event of a lapse in Department of Homeland Security appropriations, and for other purposes.</title>
+  </titles>
+  <sponsor id="412657"/>
+  <cosponsors>
+    <cosponsor id="412642" joined="2015-02-25"/>
+    <cosponsor id="412469" joined="2015-03-02"/>
+    <cosponsor id="412501" joined="2015-02-26"/>
+    <cosponsor id="400041" joined="2015-02-26"/>
+    <cosponsor id="412516" joined="2015-02-26"/>
+    <cosponsor id="412537" joined="2015-02-25"/>
+    <cosponsor id="400062" joined="2015-02-27"/>
+    <cosponsor id="412258" joined="2015-03-02"/>
+    <cosponsor id="412470" joined="2015-02-27"/>
+    <cosponsor id="412221" joined="2015-02-26"/>
+    <cosponsor id="412658" joined="2015-02-24"/>
+    <cosponsor id="412272" joined="2015-02-24"/>
+    <cosponsor id="400081" joined="2015-02-26"/>
+    <cosponsor id="400090" joined="2015-02-26"/>
+    <cosponsor id="400100" joined="2015-02-26"/>
+    <cosponsor id="412544" joined="2015-02-24"/>
+    <cosponsor id="412533" joined="2015-02-26"/>
+    <cosponsor id="412263" joined="2015-02-24"/>
+    <cosponsor id="400646" joined="2015-02-25"/>
+    <cosponsor id="400137" joined="2015-02-26"/>
+    <cosponsor id="412257" joined="2015-03-02"/>
+    <cosponsor id="412382" joined="2015-02-26"/>
+    <cosponsor id="400185" joined="2015-02-26"/>
+    <cosponsor id="400189" joined="2015-02-24"/>
+    <cosponsor id="400199" joined="2015-02-26"/>
+    <cosponsor id="412199" joined="2015-03-02"/>
+    <cosponsor id="412435" joined="2015-02-27"/>
+    <cosponsor id="412583" joined="2015-02-26"/>
+    <cosponsor id="412557" joined="2015-02-25"/>
+    <cosponsor id="400233" joined="2015-02-26"/>
+    <cosponsor id="400244" joined="2015-02-27"/>
+    <cosponsor id="400249" joined="2015-02-24"/>
+    <cosponsor id="400251" joined="2015-02-25"/>
+    <cosponsor id="400263" joined="2015-02-26"/>
+    <cosponsor id="400271" joined="2015-02-27"/>
+    <cosponsor id="400295" joined="2015-02-24"/>
+    <cosponsor id="412575" joined="2015-02-26"/>
+    <cosponsor id="412506" joined="2015-02-27"/>
+    <cosponsor id="412192" joined="2015-02-25"/>
+    <cosponsor id="412523" joined="2015-02-25"/>
+    <cosponsor id="412585" joined="2015-02-25"/>
+    <cosponsor id="400326" joined="2015-02-24"/>
+    <cosponsor id="400333" joined="2015-02-27"/>
+    <cosponsor id="412647" joined="2015-03-02"/>
+    <cosponsor id="412483" joined="2015-02-24"/>
+    <cosponsor id="400349" joined="2015-02-25"/>
+    <cosponsor id="412312" joined="2015-02-25"/>
+    <cosponsor id="412212" joined="2015-02-26"/>
+    <cosponsor id="400364" joined="2015-02-26"/>
+    <cosponsor id="412626" joined="2015-02-25"/>
+    <cosponsor id="412319" joined="2015-02-25"/>
+    <cosponsor id="400415" joined="2015-02-24"/>
+    <cosponsor id="412522" joined="2015-03-02"/>
+    <cosponsor id="412580" joined="2015-02-26"/>
+    <cosponsor id="412239" joined="2015-02-26"/>
+    <cosponsor id="412412" joined="2015-02-26"/>
+    <cosponsor id="412255" joined="2015-02-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-24" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Budget process"/>
+    <term name="Department of Homeland Security"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+  </subjects>
+  <amendments/>
+  <summary>2/24/2015--Introduced.
+DHS Employee Retroactive Pay Fairness Act
+
+This bill requires federal employees furloughed due to a lapse in appropriations when funding for the Department of Homeland Security expires under current law on February 27, 2015, to be compensated after the lapse in appropriations ends.</summary>
+</bill>

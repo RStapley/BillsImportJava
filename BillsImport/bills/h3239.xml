@@ -1,0 +1,29 @@
+<bill session="114" type="h" number="3239" updated="2015-08-22T06:46:24-04:00">
+  <state datetime="2015-07-28">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-28"/>
+  </status>
+  <introduced datetime="2015-07-28"/>
+  <titles>
+    <title type="short" as="introduced">Armed Forces Career Center Protection Act</title>
+    <title type="official" as="introduced">To provide enhanced security at Armed Forces recruitment centers through the installation of reinforced bullet-proof glass and entry doors.</title>
+  </titles>
+  <sponsor id="412639"/>
+  <cosponsors>
+    <cosponsor id="400640" joined="2015-07-28"/>
+    <cosponsor id="400224" joined="2015-07-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-28" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+</bill>

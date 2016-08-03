@@ -1,0 +1,102 @@
+<bill session="114" type="h" number="1094" updated="2015-07-15T04:48:03-04:00">
+  <state datetime="2015-02-26">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-26"/>
+  </status>
+  <introduced datetime="2015-02-26"/>
+  <titles>
+    <title type="short" as="introduced">Chris Kyle Medal of Honor Act</title>
+    <title type="official" as="introduced">To authorize and request the President to award the Medal of Honor posthumously to Navy Seal Christopher Scott Kyle for acts of valor during Operation Iraqi Freedom.</title>
+  </titles>
+  <sponsor id="412578"/>
+  <cosponsors>
+    <cosponsor id="412630" joined="2015-07-08"/>
+    <cosponsor id="412655" joined="2015-07-08"/>
+    <cosponsor id="412469" joined="2015-07-08"/>
+    <cosponsor id="400018" joined="2015-02-26"/>
+    <cosponsor id="400032" joined="2015-03-02"/>
+    <cosponsor id="412395" joined="2015-07-08"/>
+    <cosponsor id="412619" joined="2015-02-27"/>
+    <cosponsor id="400052" joined="2015-02-27"/>
+    <cosponsor id="412601" joined="2015-02-27"/>
+    <cosponsor id="412563" joined="2015-02-27"/>
+    <cosponsor id="400655" joined="2015-03-04"/>
+    <cosponsor id="400086" joined="2015-03-03"/>
+    <cosponsor id="400657" joined="2015-03-17"/>
+    <cosponsor id="412536" joined="2015-07-08"/>
+    <cosponsor id="412420" joined="2015-07-08"/>
+    <cosponsor id="412488" joined="2015-03-03"/>
+    <cosponsor id="412472" joined="2015-03-03"/>
+    <cosponsor id="412482" joined="2015-02-27"/>
+    <cosponsor id="400640" joined="2015-04-30"/>
+    <cosponsor id="412397" joined="2015-03-03"/>
+    <cosponsor id="412447" joined="2015-04-30"/>
+    <cosponsor id="412654" joined="2015-02-27"/>
+    <cosponsor id="412663" joined="2015-02-27"/>
+    <cosponsor id="412460" joined="2015-03-23"/>
+    <cosponsor id="400206" joined="2015-07-08"/>
+    <cosponsor id="412510" joined="2015-07-08"/>
+    <cosponsor id="412256" joined="2015-02-27"/>
+    <cosponsor id="400656" joined="2015-02-27"/>
+    <cosponsor id="400654" joined="2015-02-27"/>
+    <cosponsor id="412487" joined="2015-02-27"/>
+    <cosponsor id="412552" joined="2015-07-08"/>
+    <cosponsor id="412466" joined="2015-02-27"/>
+    <cosponsor id="400271" joined="2015-07-14"/>
+    <cosponsor id="412568" joined="2015-07-08"/>
+    <cosponsor id="400285" joined="2015-07-08"/>
+    <cosponsor id="400441" joined="2015-02-27"/>
+    <cosponsor id="412302" joined="2015-03-04"/>
+    <cosponsor id="400313" joined="2015-07-08"/>
+    <cosponsor id="400652" joined="2015-02-27"/>
+    <cosponsor id="412633" joined="2015-02-27"/>
+    <cosponsor id="412310" joined="2015-07-08"/>
+    <cosponsor id="412426" joined="2015-07-08"/>
+    <cosponsor id="412202" joined="2015-07-14"/>
+    <cosponsor id="412641" joined="2015-03-17"/>
+    <cosponsor id="400606" joined="2015-03-02"/>
+    <cosponsor id="412417" joined="2015-07-14"/>
+    <cosponsor id="400367" joined="2015-02-27"/>
+    <cosponsor id="400373" joined="2015-06-17"/>
+    <cosponsor id="400381" joined="2015-02-27"/>
+    <cosponsor id="412581" joined="2015-07-14"/>
+    <cosponsor id="412392" joined="2015-07-08"/>
+    <cosponsor id="412317" joined="2015-03-17"/>
+    <cosponsor id="400403" joined="2015-03-17"/>
+    <cosponsor id="412405" joined="2015-03-04"/>
+    <cosponsor id="412515" joined="2015-02-27"/>
+    <cosponsor id="412670" joined="2015-07-08"/>
+    <cosponsor id="412538" joined="2015-03-03"/>
+    <cosponsor id="412574" joined="2015-02-27"/>
+    <cosponsor id="400627" joined="2015-02-27"/>
+    <cosponsor id="412430" joined="2015-07-08"/>
+    <cosponsor id="412525" joined="2015-03-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-26" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2015-02-27">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H1376"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Congressional tributes"/>
+    <term name="Iraq"/>
+    <term name="Middle East"/>
+    <term name="Military operations and strategy"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Veterans' organizations and recognition"/>
+  </subjects>
+  <amendments/>
+  <summary>2/26/2015--Introduced.
+Chris Kyle Medal of Honor Act
+
+Authorizes the President to award the Medal of Honor posthumously to Navy Seal Christopher Scott Kyle for acts of valor during Operation Iraqi Freedom, notwithstanding otherwise applicable time limitations.</summary>
+</bill>

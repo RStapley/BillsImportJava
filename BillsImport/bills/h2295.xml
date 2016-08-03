@@ -1,0 +1,79 @@
+<bill session="114" type="h" number="2295" updated="2015-08-08T06:38:29-04:00">
+  <state datetime="2015-06-11">REPORTED</state>
+  <status>
+    <unknown datetime="2015-06-11"/>
+  </status>
+  <introduced datetime="2015-05-13"/>
+  <titles>
+    <title type="short" as="introduced">National Energy Security Corridors Act</title>
+    <title type="official" as="introduced">To amend the Mineral Leasing Act to require the Secretary of the Interior to identify and designate National Energy Security Corridors for the construction of natural gas pipelines on Federal land, and for other purposes.</title>
+  </titles>
+  <sponsor id="412643"/>
+  <cosponsors>
+    <cosponsor id="412472" joined="2015-06-09"/>
+    <cosponsor id="412482" joined="2015-06-09"/>
+    <cosponsor id="412397" joined="2015-06-09"/>
+    <cosponsor id="412465" joined="2015-06-09"/>
+    <cosponsor id="412294" joined="2015-05-21"/>
+    <cosponsor id="412487" joined="2015-06-09"/>
+    <cosponsor id="400313" joined="2015-06-11"/>
+    <cosponsor id="412569" joined="2015-06-18"/>
+    <cosponsor id="412432" joined="2015-05-13"/>
+    <cosponsor id="412399" joined="2015-06-11"/>
+    <cosponsor id="412317" joined="2015-07-07"/>
+    <cosponsor id="400411" joined="2015-06-09"/>
+    <cosponsor id="412610" joined="2015-06-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-13" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2015-06-04">
+      <text>Referred to the Subcommittee on Energy and Mineral Resources.</text>
+    </action>
+    <action datetime="2015-06-04">
+      <text>Referred to the Subcommittee on Water, Power and Oceans.</text>
+    </action>
+    <action datetime="2015-06-10">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2015-06-11">
+      <text>Subcommittee on Energy and Mineral Resources Discharged.</text>
+    </action>
+    <action datetime="2015-06-11">
+      <text>Subcommittee on Water, Power and Oceans Discharged.</text>
+    </action>
+    <action datetime="2015-06-11">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-06-11" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 21 - 15.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup"/>
+    <committee activity="Referral, Discharged" code="HSII06" subcommittee="Energy and Mineral Resources" name="House Natural Resources"/>
+    <committee activity="Referral, Discharged" code="HSII13" subcommittee="Water, Power and Oceans" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1196"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+  </subjects>
+  <amendments/>
+  <summary>5/13/2015--Introduced.
+National Energy Security Corridors Act 
+
+This bill amends the Mineral Leasing Act to allow natural gas pipeline rights-of-way through all federally owned lands, including lands in the National Park System, except lands held in trust for an Indian or Indian tribe and lands on the outer Continental Shelf.
+
+The Department of the Interior must: (1) identify and designate suitable federal lands as National Energy Security Corridors for use by natural gas transmission facilities; and (2) incorporate such Corridors into the relevant agency land use and resource management plans.
+
+Additionally the Secretary shall: (1) take into account certain considerations when evaluating federal lands for designation as a National Energy Security Corridor, and (2) establish specified procedures to expedite and approve applications for rights-of-way for natural gas pipelines across National Energy Security Corridors.
+
+The governor of a state may request a Corridor designation on federal land within that state.
+
+For purposes of the National Environmental Policy Act of 1969 neither the designation of a Corridor, nor the incorporation of a Corridor into agency plans, shall be treated as a major federal action subject to environmental impact evaluation.
+
+Interior shall notify certain congressional committees whenever an agency or Interior official fails to comply with federal authorization schedules established under the Natural Gas Act.</summary>
+</bill>

@@ -1,0 +1,49 @@
+<bill session="114" type="sr" number="241" updated="2015-08-08T06:51:24-04:00">
+  <state datetime="2015-08-03">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2015-08-03"/>
+  </status>
+  <introduced datetime="2015-08-03"/>
+  <titles>
+    <title type="official" as="introduced">A resolution designating August 16, 2015, as "National Airborne Day".</title>
+  </titles>
+  <sponsor id="300081"/>
+  <cosponsors>
+    <cosponsor id="412490" joined="2015-08-03"/>
+    <cosponsor id="400054" joined="2015-08-03"/>
+    <cosponsor id="400061" joined="2015-08-03"/>
+    <cosponsor id="412246" joined="2015-08-03"/>
+    <cosponsor id="300025" joined="2015-08-03"/>
+    <cosponsor id="412248" joined="2015-08-03"/>
+    <cosponsor id="400194" joined="2015-08-03"/>
+    <cosponsor id="412391" joined="2015-08-03"/>
+    <cosponsor id="300072" joined="2015-08-03"/>
+    <cosponsor id="300075" joined="2015-08-03"/>
+    <cosponsor id="300076" joined="2015-08-03"/>
+    <cosponsor id="412492" joined="2015-08-03"/>
+    <cosponsor id="412666" joined="2015-08-03"/>
+    <cosponsor id="300082" joined="2015-08-03"/>
+    <cosponsor id="300083" joined="2015-08-03"/>
+    <cosponsor id="412669" joined="2015-08-03"/>
+    <cosponsor id="412244" joined="2015-08-03"/>
+    <cosponsor id="412668" joined="2015-08-03"/>
+    <cosponsor id="412247" joined="2015-08-03"/>
+    <cosponsor id="400432" joined="2015-08-03"/>
+  </cosponsors>
+  <actions>
+    <vote how="by Unanimous Consent" type="vote" datetime="2015-08-03" where="s" result="pass" state="PASSED:SIMPLERES">
+      <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S6244-6245" label="consideration"/>
+      <reference ref="CR S6242-6243" label="text as passed Senate"/>
+    </vote>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Military history"/>
+    <term name="Military personnel and dependents"/>
+  </subjects>
+  <amendments/>
+</bill>

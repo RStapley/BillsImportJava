@@ -1,0 +1,58 @@
+<bill session="114" type="s" number="782" updated="2015-06-11T04:48:50-04:00">
+  <state datetime="2015-03-18">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-18"/>
+  </status>
+  <introduced datetime="2015-03-18"/>
+  <titles>
+    <title type="short" as="introduced">Grand Canyon Bison Management Act</title>
+    <title type="official" as="introduced">A bill to direct the Secretary of the Interior to establish a bison management plan for Grand Canyon National Park.</title>
+  </titles>
+  <sponsor id="300071"/>
+  <cosponsors>
+    <cosponsor id="400134" joined="2015-03-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-18" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+    <action datetime="2015-04-22">
+      <text>Senate Committee on Environment and Public Works discharged by Unanimous Consent.</text>
+      <reference ref="CR S2319" label="consideration"/>
+    </action>
+    <action datetime="2015-04-22">
+      <text>Referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2015-06-10">
+      <text>Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Discharged"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+    <committee activity="Hearings" code="SSEG04" subcommittee="National Parks" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="1443"/>
+  </relatedbills>
+  <subjects>
+    <term name="Animals"/>
+    <term name="Arizona"/>
+    <term name="Environmental assessment, monitoring, research"/>
+    <term name="Hunting and fishing"/>
+    <term name="Land use and conservation"/>
+    <term name="Mammals"/>
+    <term name="Parks, recreation areas, trails"/>
+  </subjects>
+  <amendments/>
+  <summary>3/18/2015--Introduced.
+Grand Canyon Bison Management Act
+
+Directs the Department of the Interior to publish a management plan to reduce, through humane lethal culling by skilled public volunteers and other nonlethal means, the population of bison in the Grand Canyon National Park in Arizona that Interior determines are detrimental to the uses of the Park.
+
+Permits the removal by such a volunteer of a full bison harvested from the Park.
+
+Instructs Interior to coordinate with the Arizona Game and Fish Commission regarding the development and implementation of the management plan.
+
+Requires Interior, in developing such plan, to comply with all applicable federal environmental laws, including the National Environmental Policy Act of 1969 (NEPA).</summary>
+</bill>

@@ -1,0 +1,69 @@
+<bill session="114" type="sr" number="184" updated="2015-06-27T07:16:40-04:00">
+  <state datetime="2015-05-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-21"/>
+  </status>
+  <introduced datetime="2015-05-21"/>
+  <titles>
+    <title type="short" as="introduced">Stop Harming Our Kids Resolution of 2015</title>
+    <title type="official" as="introduced">A resolution expressing the sense of the Senate that conversion therapy, including efforts by mental health practitioners to change the sexual orientation, gender identity, or gender expression of an individual, is dangerous and harmful and should be prohibited from being practiced on minors.</title>
+  </titles>
+  <sponsor id="412598"/>
+  <cosponsors>
+    <cosponsor id="400013" joined="2015-05-21"/>
+    <cosponsor id="300011" joined="2015-05-21"/>
+    <cosponsor id="400050" joined="2015-05-21"/>
+    <cosponsor id="400064" joined="2015-05-21"/>
+    <cosponsor id="412246" joined="2015-05-21"/>
+    <cosponsor id="300038" joined="2015-05-21"/>
+    <cosponsor id="412378" joined="2015-05-21"/>
+    <cosponsor id="412223" joined="2015-05-21"/>
+    <cosponsor id="412281" joined="2015-05-21"/>
+    <cosponsor id="412200" joined="2015-05-21"/>
+    <cosponsor id="412391" joined="2015-06-01"/>
+    <cosponsor id="400253" joined="2015-05-21"/>
+    <cosponsor id="412243" joined="2015-06-01"/>
+    <cosponsor id="400272" joined="2015-05-21"/>
+    <cosponsor id="412325" joined="2015-05-21"/>
+    <cosponsor id="412194" joined="2015-05-21"/>
+    <cosponsor id="300076" joined="2015-05-21"/>
+    <cosponsor id="412305" joined="2015-05-21"/>
+    <cosponsor id="400357" joined="2015-05-21"/>
+    <cosponsor id="412507" joined="2015-05-21"/>
+    <cosponsor id="300087" joined="2015-05-21"/>
+    <cosponsor id="412323" joined="2015-05-21"/>
+    <cosponsor id="300093" joined="2015-05-21"/>
+    <cosponsor id="400413" joined="2015-05-21"/>
+    <cosponsor id="412542" joined="2015-05-21"/>
+    <cosponsor id="412247" joined="2015-05-21"/>
+    <cosponsor id="300100" joined="2015-05-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-21" state="REFERRED">
+      <text>Referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <reference ref="CR S3245-3246" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="hc" number="36"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Child care and development"/>
+    <term name="Child health"/>
+    <term name="Mental health"/>
+    <term name="Sex, gender, sexual orientation discrimination"/>
+  </subjects>
+  <amendments/>
+  <summary>5/21/2015--Introduced.
+Stop Harming Our Kids Resolution of 2015
+
+Expresses the sense of the Senate that conversion therapy directed at minors is discredited and ineffective, has no legitimate therapeutic purpose, and is dangerous and harmful.
+
+Defines "conversion therapy" as any practice by a licensed, certified, or registered mental health provider, health care provider, or counselor seeking or purporting to impose change of an individual's sexual orientation or gender identity or expression. Excludes from such definition counseling that does not seek to change sexual orientation or gender identity or expression if such counseling provides: (1) acceptance, support, and understanding of an individual; (2) facilitation for coping, social support, and identity exploration and development of an individual; (3) developmentally appropriate counseling for an individual undergoing gender transition; or (4) sexual orientation- and gender identity-neutral interventions to prevent or address unlawful conduct or unsafe sexual practices.
+
+Encourages states to protect minors from efforts that promote or promise to change sexual orientation or gender identity or expression, based on the premise that being lesbian, gay, bisexual, transgender, or gender nonconforming is a mental illness or developmental disorder that can or should be cured.</summary>
+</bill>

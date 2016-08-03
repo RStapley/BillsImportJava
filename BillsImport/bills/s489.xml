@@ -1,0 +1,41 @@
+<bill session="114" type="s" number="489" updated="2015-03-14T06:41:19-04:00">
+  <state datetime="2015-02-12">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-12"/>
+  </status>
+  <introduced datetime="2015-02-12"/>
+  <titles>
+    <title type="short" as="introduced">Low Value Shipment Regulatory Modernization Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend the Tariff Act of 1930 to increase the maximum value of articles that may be imported duty-free by one person on one day.</title>
+  </titles>
+  <sponsor id="400546"/>
+  <cosponsors>
+    <cosponsor id="400194" joined="2015-02-25"/>
+    <cosponsor id="412545" joined="2015-02-25"/>
+    <cosponsor id="412507" joined="2015-03-03"/>
+    <cosponsor id="300100" joined="2015-02-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-12" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="978"/>
+  </relatedbills>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Customs enforcement"/>
+    <term name="Tariffs"/>
+  </subjects>
+  <amendments/>
+  <summary>2/12/2015--Introduced.
+Low Value Shipment Regulatory Modernization Act of 2015
+
+ Expresses the sense of Congress that the United States Trade Representative should encourage other countries, through bilateral, regional, and multilateral fora, to establish commercially meaningful de minimis values for express and postal shipments of articles that are exempt from customs duties and certain entry documentation requirements, as appropriate.
+
+Amends the Tariff Act of 1930 to increase from $200 to $800 the aggregate retail value in the country of shipment of articles that may be imported duty-free into the United States by one person on one day.</summary>
+</bill>

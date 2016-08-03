@@ -1,0 +1,64 @@
+<bill session="114" type="h" number="729" updated="2015-07-28T05:08:22-04:00">
+  <state datetime="2015-02-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-04"/>
+  </status>
+  <introduced datetime="2015-02-04"/>
+  <titles>
+    <title type="short" as="introduced">Medicare Demonstration of Coverage for Low Vision Devices Act of 2015</title>
+    <title type="official" as="introduced">To provide for a Medicare demonstration project to evaluate the fiscal impact of covering low vision devices as durable medical equipment under part B of the Medicare program.</title>
+  </titles>
+  <sponsor id="400251"/>
+  <cosponsors>
+    <cosponsor id="412657" joined="2015-04-14"/>
+    <cosponsor id="412250" joined="2015-02-04"/>
+    <cosponsor id="400047" joined="2015-03-18"/>
+    <cosponsor id="412195" joined="2015-02-25"/>
+    <cosponsor id="412236" joined="2015-03-04"/>
+    <cosponsor id="400124" joined="2015-03-18"/>
+    <cosponsor id="412584" joined="2015-06-02"/>
+    <cosponsor id="412511" joined="2015-02-13"/>
+    <cosponsor id="412603" joined="2015-02-13"/>
+    <cosponsor id="400276" joined="2015-03-18"/>
+    <cosponsor id="412523" joined="2015-04-14"/>
+    <cosponsor id="412254" joined="2015-07-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-04">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E164"/>
+    </action>
+    <action datetime="2015-02-04" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-02-04">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-02-04">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-02-06">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Congressional oversight"/>
+    <term name="Government studies and investigations"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health technology, devices, supplies"/>
+    <term name="Hearing, speech, and vision care"/>
+    <term name="Medicare"/>
+  </subjects>
+  <amendments/>
+  <summary>2/4/2015--Introduced.
+Medicare Demonstration of Coverage for Low Vision Devices Act of 2015
+
+ Directs the Secretary of Health and Human Services to commence a project to demonstrate and evaluate the fiscal impact of covering low vision devices under part B (Supplementary Medical Insurance) of title XVIII (Medicare) of the Social Security Act in the same or similar manner as coverage is provided for durable medical equipment under such part.</summary>
+</bill>

@@ -1,0 +1,52 @@
+<bill session="114" type="hr" number="91" updated="2015-03-28T06:16:11-04:00">
+  <state datetime="2015-02-05">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-05"/>
+  </status>
+  <introduced datetime="2015-02-05"/>
+  <titles>
+    <title type="official" as="introduced">Congratulating the New England Patriots on their victory in Super Bowl XLIX.</title>
+  </titles>
+  <sponsor id="412470"/>
+  <cosponsors>
+    <cosponsor id="400063" joined="2015-02-05"/>
+    <cosponsor id="412600" joined="2015-02-05"/>
+    <cosponsor id="412193" joined="2015-02-05"/>
+    <cosponsor id="400103" joined="2015-02-05"/>
+    <cosponsor id="412524" joined="2015-02-05"/>
+    <cosponsor id="412447" joined="2015-02-05"/>
+    <cosponsor id="412435" joined="2015-02-05"/>
+    <cosponsor id="412543" joined="2015-02-05"/>
+    <cosponsor id="412557" joined="2015-02-05"/>
+    <cosponsor id="400230" joined="2015-02-05"/>
+    <cosponsor id="400233" joined="2015-02-05"/>
+    <cosponsor id="400249" joined="2015-02-05"/>
+    <cosponsor id="400263" joined="2015-02-05"/>
+    <cosponsor id="412632" joined="2015-02-05"/>
+    <cosponsor id="400291" joined="2015-02-05"/>
+    <cosponsor id="412307" joined="2015-02-05"/>
+    <cosponsor id="412633" joined="2015-02-05"/>
+    <cosponsor id="412254" joined="2015-02-05"/>
+    <cosponsor id="412239" joined="2015-02-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-05" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="sr" number="63"/>
+  </relatedbills>
+  <subjects>
+    <term name="Sports and recreation"/>
+    <term name="Athletes"/>
+    <term name="Congressional tributes"/>
+    <term name="Professional sports"/>
+  </subjects>
+  <amendments/>
+  <summary>2/5/2015--Introduced.
+Congratulates the New England Patriots on their Super Bowl XLIX victory.</summary>
+</bill>

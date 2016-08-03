@@ -1,0 +1,62 @@
+<bill session="114" type="s" number="890" updated="2015-08-15T06:59:12-04:00">
+  <state datetime="2015-03-26">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-26"/>
+  </status>
+  <introduced datetime="2015-03-26"/>
+  <titles>
+    <title type="short" as="introduced">Land and Water Conservation Authorization and Funding Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend title 54, United States Code, to provide consistent and reliable authority for, and for the funding of, the Land and Water Conservation Fund to maximize the effectiveness of the Fund for future generations, and for other purposes.</title>
+  </titles>
+  <sponsor id="300018"/>
+  <cosponsors>
+    <cosponsor id="400013" joined="2015-04-20"/>
+    <cosponsor id="412330" joined="2015-03-26"/>
+    <cosponsor id="412490" joined="2015-04-28"/>
+    <cosponsor id="412598" joined="2015-06-23"/>
+    <cosponsor id="300011" joined="2015-04-28"/>
+    <cosponsor id="400064" joined="2015-06-25"/>
+    <cosponsor id="412246" joined="2015-06-25"/>
+    <cosponsor id="412390" joined="2015-05-07"/>
+    <cosponsor id="300043" joined="2015-06-11"/>
+    <cosponsor id="412378" joined="2015-04-23"/>
+    <cosponsor id="412281" joined="2015-03-26"/>
+    <cosponsor id="412200" joined="2015-04-20"/>
+    <cosponsor id="412242" joined="2015-07-28"/>
+    <cosponsor id="412391" joined="2015-04-23"/>
+    <cosponsor id="400272" joined="2015-07-16"/>
+    <cosponsor id="412325" joined="2015-06-01"/>
+    <cosponsor id="412194" joined="2015-04-20"/>
+    <cosponsor id="412305" joined="2015-04-20"/>
+    <cosponsor id="400357" joined="2015-05-05"/>
+    <cosponsor id="412323" joined="2015-05-05"/>
+    <cosponsor id="300093" joined="2015-04-20"/>
+    <cosponsor id="412244" joined="2015-03-26"/>
+    <cosponsor id="400413" joined="2015-03-26"/>
+    <cosponsor id="412542" joined="2015-04-20"/>
+    <cosponsor id="412247" joined="2015-05-18"/>
+    <cosponsor id="300100" joined="2015-03-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-26" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1814"/>
+    <bill relation="unknown" session="114" type="s" number="1925"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Government trust funds"/>
+    <term name="Hunting and fishing"/>
+    <term name="Land transfers"/>
+    <term name="Land use and conservation"/>
+    <term name="Outdoor recreation"/>
+    <term name="Parks, recreation areas, trails"/>
+  </subjects>
+  <amendments/>
+</bill>

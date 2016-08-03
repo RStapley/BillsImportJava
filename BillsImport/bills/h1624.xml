@@ -1,0 +1,242 @@
+<bill session="114" type="h" number="1624" updated="2015-08-01T04:50:47-04:00">
+  <state datetime="2015-03-25">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-25"/>
+  </status>
+  <introduced datetime="2015-03-25"/>
+  <titles>
+    <title type="short" as="introduced">Protecting Affordable Coverage for Employees Act</title>
+    <title type="official" as="introduced">To amend title I of the Patient Protection and Affordable Care Act and title XXVII of the Public Health Service Act to revise the definition of small employer.</title>
+  </titles>
+  <sponsor id="412278"/>
+  <cosponsors>
+    <cosponsor id="400004" joined="2015-06-11"/>
+    <cosponsor id="412615" joined="2015-06-01"/>
+    <cosponsor id="412625" joined="2015-04-30"/>
+    <cosponsor id="412500" joined="2015-07-22"/>
+    <cosponsor id="412642" joined="2015-04-15"/>
+    <cosponsor id="412469" joined="2015-04-22"/>
+    <cosponsor id="412541" joined="2015-07-16"/>
+    <cosponsor id="400018" joined="2015-04-28"/>
+    <cosponsor id="412436" joined="2015-07-27"/>
+    <cosponsor id="412512" joined="2015-07-27"/>
+    <cosponsor id="412250" joined="2015-05-01"/>
+    <cosponsor id="412635" joined="2015-06-11"/>
+    <cosponsor id="412478" joined="2015-07-07"/>
+    <cosponsor id="400032" joined="2015-04-16"/>
+    <cosponsor id="412627" joined="2015-07-23"/>
+    <cosponsor id="412629" joined="2015-06-16"/>
+    <cosponsor id="400636" joined="2015-05-20"/>
+    <cosponsor id="400046" joined="2015-07-14"/>
+    <cosponsor id="412567" joined="2015-06-09"/>
+    <cosponsor id="412395" joined="2015-07-20"/>
+    <cosponsor id="412539" joined="2015-04-27"/>
+    <cosponsor id="412516" joined="2015-05-20"/>
+    <cosponsor id="412196" joined="2015-07-14"/>
+    <cosponsor id="412427" joined="2015-05-13"/>
+    <cosponsor id="400052" joined="2015-04-27"/>
+    <cosponsor id="412537" joined="2015-07-20"/>
+    <cosponsor id="412601" joined="2015-05-15"/>
+    <cosponsor id="400057" joined="2015-07-31"/>
+    <cosponsor id="412517" joined="2015-03-25"/>
+    <cosponsor id="412258" joined="2015-07-20"/>
+    <cosponsor id="412622" joined="2015-04-14"/>
+    <cosponsor id="400068" joined="2015-07-21"/>
+    <cosponsor id="412221" joined="2015-07-29"/>
+    <cosponsor id="400639" joined="2015-06-09"/>
+    <cosponsor id="412271" joined="2015-07-20"/>
+    <cosponsor id="400077" joined="2015-06-04"/>
+    <cosponsor id="412563" joined="2015-04-20"/>
+    <cosponsor id="412531" joined="2015-06-17"/>
+    <cosponsor id="400081" joined="2015-07-28"/>
+    <cosponsor id="400618" joined="2015-07-16"/>
+    <cosponsor id="412651" joined="2015-06-15"/>
+    <cosponsor id="412555" joined="2015-04-15"/>
+    <cosponsor id="400086" joined="2015-06-16"/>
+    <cosponsor id="400657" joined="2015-06-04"/>
+    <cosponsor id="400089" joined="2015-07-27"/>
+    <cosponsor id="412621" joined="2015-06-09"/>
+    <cosponsor id="412536" joined="2015-05-20"/>
+    <cosponsor id="400097" joined="2015-07-14"/>
+    <cosponsor id="400100" joined="2015-06-11"/>
+    <cosponsor id="412403" joined="2015-07-23"/>
+    <cosponsor id="400648" joined="2015-07-27"/>
+    <cosponsor id="412613" joined="2015-07-27"/>
+    <cosponsor id="412477" joined="2015-06-09"/>
+    <cosponsor id="400108" joined="2015-06-11"/>
+    <cosponsor id="412420" joined="2015-06-15"/>
+    <cosponsor id="412533" joined="2015-07-27"/>
+    <cosponsor id="412488" joined="2015-06-24"/>
+    <cosponsor id="412472" joined="2015-07-14"/>
+    <cosponsor id="400116" joined="2015-06-15"/>
+    <cosponsor id="412457" joined="2015-06-01"/>
+    <cosponsor id="412639" joined="2015-07-27"/>
+    <cosponsor id="412482" joined="2015-05-20"/>
+    <cosponsor id="400646" joined="2015-07-16"/>
+    <cosponsor id="412476" joined="2015-07-22"/>
+    <cosponsor id="412275" joined="2015-07-29"/>
+    <cosponsor id="412480" joined="2015-04-28"/>
+    <cosponsor id="400137" joined="2015-07-20"/>
+    <cosponsor id="400640" joined="2015-04-13"/>
+    <cosponsor id="400141" joined="2015-06-24"/>
+    <cosponsor id="412463" joined="2015-07-20"/>
+    <cosponsor id="412453" joined="2015-07-29"/>
+    <cosponsor id="412397" joined="2015-07-27"/>
+    <cosponsor id="412473" joined="2015-06-04"/>
+    <cosponsor id="412620" joined="2015-07-20"/>
+    <cosponsor id="400157" joined="2015-06-17"/>
+    <cosponsor id="412631" joined="2015-07-10"/>
+    <cosponsor id="400158" joined="2015-06-09"/>
+    <cosponsor id="412661" joined="2015-05-20"/>
+    <cosponsor id="412447" joined="2015-06-11"/>
+    <cosponsor id="400163" joined="2015-06-04"/>
+    <cosponsor id="412454" joined="2015-05-13"/>
+    <cosponsor id="412645" joined="2015-07-21"/>
+    <cosponsor id="412280" joined="2015-04-22"/>
+    <cosponsor id="412444" joined="2015-07-22"/>
+    <cosponsor id="412446" joined="2015-06-17"/>
+    <cosponsor id="400175" joined="2015-06-09"/>
+    <cosponsor id="412623" joined="2015-06-15"/>
+    <cosponsor id="412553" joined="2015-07-21"/>
+    <cosponsor id="412550" joined="2015-06-17"/>
+    <cosponsor id="412437" joined="2015-07-28"/>
+    <cosponsor id="412422" joined="2015-07-22"/>
+    <cosponsor id="412283" joined="2015-05-01"/>
+    <cosponsor id="412654" joined="2015-06-16"/>
+    <cosponsor id="412284" joined="2015-07-10"/>
+    <cosponsor id="412460" joined="2015-04-20"/>
+    <cosponsor id="400206" joined="2015-07-27"/>
+    <cosponsor id="412603" joined="2015-06-15"/>
+    <cosponsor id="412566" joined="2015-06-16"/>
+    <cosponsor id="412649" joined="2015-06-24"/>
+    <cosponsor id="412673" joined="2015-07-23"/>
+    <cosponsor id="412546" joined="2015-07-29"/>
+    <cosponsor id="400218" joined="2015-05-15"/>
+    <cosponsor id="412421" joined="2015-04-16"/>
+    <cosponsor id="412286" joined="2015-05-20"/>
+    <cosponsor id="412614" joined="2015-06-15"/>
+    <cosponsor id="412557" joined="2015-05-01"/>
+    <cosponsor id="412510" joined="2015-06-09"/>
+    <cosponsor id="412290" joined="2015-04-30"/>
+    <cosponsor id="412256" joined="2015-04-14"/>
+    <cosponsor id="412616" joined="2015-06-04"/>
+    <cosponsor id="400630" joined="2015-06-25"/>
+    <cosponsor id="400244" joined="2015-06-04"/>
+    <cosponsor id="412209" joined="2015-07-31"/>
+    <cosponsor id="412445" joined="2015-04-16"/>
+    <cosponsor id="412624" joined="2015-07-22"/>
+    <cosponsor id="412656" joined="2015-07-22"/>
+    <cosponsor id="412521" joined="2015-07-28"/>
+    <cosponsor id="400247" joined="2015-06-04"/>
+    <cosponsor id="412292" joined="2015-06-16"/>
+    <cosponsor id="412294" joined="2015-06-17"/>
+    <cosponsor id="412643" joined="2015-07-28"/>
+    <cosponsor id="412562" joined="2015-06-09"/>
+    <cosponsor id="400656" joined="2015-06-25"/>
+    <cosponsor id="400654" joined="2015-07-23"/>
+    <cosponsor id="412295" joined="2015-07-22"/>
+    <cosponsor id="400644" joined="2015-07-27"/>
+    <cosponsor id="412487" joined="2015-04-29"/>
+    <cosponsor id="412611" joined="2015-07-10"/>
+    <cosponsor id="412552" joined="2015-04-13"/>
+    <cosponsor id="412466" joined="2015-05-01"/>
+    <cosponsor id="412540" joined="2015-07-27"/>
+    <cosponsor id="400279" joined="2015-06-15"/>
+    <cosponsor id="412634" joined="2015-07-27"/>
+    <cosponsor id="412568" joined="2015-03-25"/>
+    <cosponsor id="412474" joined="2015-05-15"/>
+    <cosponsor id="400285" joined="2015-07-21"/>
+    <cosponsor id="400441" joined="2015-07-16"/>
+    <cosponsor id="412475" joined="2015-07-16"/>
+    <cosponsor id="408211" joined="2015-07-23"/>
+    <cosponsor id="400297" joined="2015-06-11"/>
+    <cosponsor id="412302" joined="2015-04-21"/>
+    <cosponsor id="412303" joined="2015-07-16"/>
+    <cosponsor id="400313" joined="2015-07-27"/>
+    <cosponsor id="412523" joined="2015-06-15"/>
+    <cosponsor id="400652" joined="2015-07-31"/>
+    <cosponsor id="412633" joined="2015-07-21"/>
+    <cosponsor id="412308" joined="2015-06-17"/>
+    <cosponsor id="412431" joined="2015-04-16"/>
+    <cosponsor id="412309" joined="2015-07-29"/>
+    <cosponsor id="412331" joined="2015-06-16"/>
+    <cosponsor id="412653" joined="2015-06-16"/>
+    <cosponsor id="412393" joined="2015-07-16"/>
+    <cosponsor id="412462" joined="2015-07-14"/>
+    <cosponsor id="412489" joined="2015-06-11"/>
+    <cosponsor id="412647" joined="2015-06-25"/>
+    <cosponsor id="412572" joined="2015-06-04"/>
+    <cosponsor id="412483" joined="2015-06-15"/>
+    <cosponsor id="412394" joined="2015-07-14"/>
+    <cosponsor id="412310" joined="2015-05-13"/>
+    <cosponsor id="400340" joined="2015-07-10"/>
+    <cosponsor id="412426" joined="2015-06-11"/>
+    <cosponsor id="412311" joined="2015-06-19"/>
+    <cosponsor id="412202" joined="2015-06-04"/>
+    <cosponsor id="412411" joined="2015-04-28"/>
+    <cosponsor id="412641" joined="2015-06-04"/>
+    <cosponsor id="412519" joined="2015-07-23"/>
+    <cosponsor id="412650" joined="2015-06-04"/>
+    <cosponsor id="400606" joined="2015-05-01"/>
+    <cosponsor id="400355" joined="2015-06-09"/>
+    <cosponsor id="400356" joined="2015-07-28"/>
+    <cosponsor id="412399" joined="2015-06-17"/>
+    <cosponsor id="400365" joined="2015-07-10"/>
+    <cosponsor id="400367" joined="2015-04-13"/>
+    <cosponsor id="400373" joined="2015-04-16"/>
+    <cosponsor id="409888" joined="2015-07-23"/>
+    <cosponsor id="400376" joined="2015-07-10"/>
+    <cosponsor id="412509" joined="2015-03-25"/>
+    <cosponsor id="412217" joined="2015-06-25"/>
+    <cosponsor id="412596" joined="2015-07-23"/>
+    <cosponsor id="412648" joined="2015-07-28"/>
+    <cosponsor id="412461" joined="2015-07-16"/>
+    <cosponsor id="412317" joined="2015-04-30"/>
+    <cosponsor id="400403" joined="2015-07-07"/>
+    <cosponsor id="400406" joined="2015-05-20"/>
+    <cosponsor id="412405" joined="2015-06-19"/>
+    <cosponsor id="400411" joined="2015-07-16"/>
+    <cosponsor id="412515" joined="2015-06-17"/>
+    <cosponsor id="412579" joined="2015-06-11"/>
+    <cosponsor id="412580" joined="2015-07-29"/>
+    <cosponsor id="412548" joined="2015-04-14"/>
+    <cosponsor id="412213" joined="2015-07-22"/>
+    <cosponsor id="400419" joined="2015-07-07"/>
+    <cosponsor id="412670" joined="2015-07-23"/>
+    <cosponsor id="412538" joined="2015-07-16"/>
+    <cosponsor id="412618" joined="2015-06-11"/>
+    <cosponsor id="412574" joined="2015-07-29"/>
+    <cosponsor id="400627" joined="2015-04-29"/>
+    <cosponsor id="400431" joined="2015-04-14"/>
+    <cosponsor id="412578" joined="2015-07-20"/>
+    <cosponsor id="400433" joined="2015-05-13"/>
+    <cosponsor id="412255" joined="2015-07-22"/>
+    <cosponsor id="412402" joined="2015-05-13"/>
+    <cosponsor id="412430" joined="2015-07-20"/>
+    <cosponsor id="412525" joined="2015-07-23"/>
+    <cosponsor id="412628" joined="2015-07-23"/>
+    <cosponsor id="412428" joined="2015-07-07"/>
+    <cosponsor id="412640" joined="2015-07-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-25" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-03-27">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+  <summary>3/25/2015--Introduced.
+Protecting Affordable Coverage for Employees Act
+
+This bill amends the Patient Protection and Affordable Care Act and Public Health Service Act to include employers with 51 to 100 employees as large employers for purposes of health insurance markets. States have the option to treat these employers as small employers. Currently, employers with 51 to 100 employees are small employers, but before January 1, 2016, states have the option to treat them as large employers. (Under PPACA, health insurance offered in the small group market must meet certain requirements that do not apply to the large group market, including the requirement to cover the essential health benefits.)</summary>
+</bill>

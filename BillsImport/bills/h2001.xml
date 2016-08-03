@@ -1,0 +1,38 @@
+<bill session="114" type="h" number="2001" updated="2015-06-13T06:35:09-04:00">
+  <state datetime="2015-04-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-23"/>
+  </status>
+  <introduced datetime="2015-04-23"/>
+  <titles>
+    <title type="short" as="introduced">Veterans 2nd Amendment Protection Act</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to clarify the conditions under which certain persons may be treated as adjudicated mentally incompetent for certain purposes.</title>
+  </titles>
+  <sponsor id="400279"/>
+  <cosponsors>
+    <cosponsor id="412630" joined="2015-04-28"/>
+    <cosponsor id="400655" joined="2015-04-23"/>
+    <cosponsor id="412614" joined="2015-06-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-23" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Firearms and explosives"/>
+    <term name="Licensing and registrations"/>
+    <term name="Mental health"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>4/23/2015--Introduced.
+Veterans 2nd Amendment Protection Act
+
+Prohibits, in any case arising out of the administration of laws and benefits by the Secretary of Veterans Affairs, any person who is mentally incapacitated, deemed mentally incompetent, or experiencing an extended loss of consciousness from being considered adjudicated as a mental defective for purposes of the right to receive or transport firearms without the order or finding of a judicial authority of competent jurisdiction that such person is a danger to himself or herself or others.</summary>
+</bill>

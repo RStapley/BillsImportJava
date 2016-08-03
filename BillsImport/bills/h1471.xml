@@ -1,0 +1,58 @@
+<bill session="114" type="h" number="1471" updated="2015-05-16T06:30:01-04:00">
+  <state datetime="2015-04-15">REPORTED</state>
+  <status>
+    <unknown datetime="2015-04-15"/>
+  </status>
+  <introduced datetime="2015-03-19"/>
+  <titles>
+    <title type="short" as="introduced">FEMA Disaster Assistance Reform Act of 2015</title>
+    <title type="official" as="introduced">To reauthorize the programs and activities of the Federal Emergency Management Agency.</title>
+  </titles>
+  <sponsor id="412469"/>
+  <cosponsors>
+    <cosponsor id="412258" joined="2015-03-19"/>
+    <cosponsor id="400100" joined="2015-03-19"/>
+    <cosponsor id="409888" joined="2015-03-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-19" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2015-03-20">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+    </action>
+    <action datetime="2015-04-15">
+      <text>Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.</text>
+    </action>
+    <action datetime="2015-04-15">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-04-15" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup"/>
+    <committee activity="Referral, Discharged" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1009"/>
+    <bill relation="unknown" session="114" type="h" number="1546"/>
+    <bill relation="unknown" session="114" type="h" number="1765"/>
+    <bill relation="unknown" session="114" type="s" number="1090"/>
+  </relatedbills>
+  <subjects>
+    <term name="Emergency management"/>
+  </subjects>
+  <amendments/>
+  <summary>3/19/2015--Introduced.
+FEMA Disaster Assistance Reform Act of 2015
+
+Authorizes appropriations for the Federal Emergency Management Agency (FEMA) for FY2016-FY2018 for management and administration.
+
+ Directs FEMA, through the National Advisory Counsel, to undertake and report on a comprehensive study of disaster costs and losses.
+
+ Amends the Robert T. Stafford Disaster Relief and Emergency Assistance Act to:
+
+ authorize appropriations for FY2016-FY2018 for the National	Urban Search and Rescue Response System; authorize appropriations for FY2016-FY2018 for grants to implement the Emergency Management Assistance Compact; include public broadcasting facilities within the definition of "private nonprofit facility" for purposes of disaster assistance eligibility; establish a three-year statute of limitation for reclaiming disaster relief funds and for collecting debts related to disaster assistance; allow a waiver for the collection of certain disaster-related debts; increase from $35,000 to $1 million the threshold for determining the eligibility of certain small projects for expedited disaster assistance payments; establish rates for reimbursing states and local governments for direct and indirect administrative costs incurred to implement disaster recovery projects; authorize the President, whether or not a major disaster is declared, to provide hazard mitigation assistance in any area affected by a fire; and allow recipients of hazard mitigation assistance to use such assistance for activities to reduce the risk of future damage, hardship, loss, or suffering in any area affected by a wildfire or earthquake hazards. Directs FEMA to: (1) study and report on physical testing standards for electric utility facilities, (2) report to specified congressional committees on agency plans to provide guidance to applicants for disaster assistance on FEMA disaster funding procedures and to maintain appropriate records during the lifecycle of a disaster, and (3) identify in its report new technologies to assist the disaster workforce during a disaster or emergency.</summary>
+</bill>

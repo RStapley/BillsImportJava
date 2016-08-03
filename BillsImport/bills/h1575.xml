@@ -1,0 +1,51 @@
+<bill session="114" type="h" number="1575" updated="2015-06-20T06:31:34-04:00">
+  <state datetime="2015-05-21">REPORTED</state>
+  <status>
+    <unknown datetime="2015-05-21"/>
+  </status>
+  <introduced datetime="2015-03-24"/>
+  <titles>
+    <title type="official" as="introduced">To amend title 38, United States Code, to make permanent the pilot program on counseling in retreat settings for women veterans newly separated from service in the Armed Forces.</title>
+  </titles>
+  <sponsor id="400048"/>
+  <cosponsors>
+    <cosponsor id="412557" joined="2015-04-28"/>
+    <cosponsor id="412519" joined="2015-06-01"/>
+    <cosponsor id="412520" joined="2015-05-21"/>
+    <cosponsor id="412318" joined="2015-05-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-24" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2015-04-07">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2015-04-23">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="2015-05-15">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2015-05-15">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text>
+    </action>
+    <action datetime="2015-05-21">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-05-21" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, Markup"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <summary>3/24/2015--Introduced.
+Makes permanent the requirement for the Department of Veterans Affairs to carry out, through the Readjustment Counseling Service of the Veterans Health Administration, a program to provide reintegration and readjustment services in group retreat settings to women veterans who are recently separated from service after a prolonged deployment. (Currently, such program is required as a pilot program under the Caregivers and Veterans Omnibus Health Services Act of 2010.)</summary>
+</bill>

@@ -1,0 +1,29 @@
+<bill session="114" type="sr" number="226" updated="2015-07-28T05:10:17-04:00">
+  <state datetime="2015-07-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-21"/>
+  </status>
+  <introduced datetime="2015-07-21"/>
+  <titles>
+    <title type="official" as="introduced">A resolution expressing the sense of the Senate that the street between the intersections of 16th Street, Northwest and Fuller Street, Northwest and 16th Street, Northwest and Euclid Street, Northwest in Washington, District of Columbia, should be designated as "Oswaldo Paya Way".</title>
+  </titles>
+  <sponsor id="412573"/>
+  <cosponsors>
+    <cosponsor id="400272" joined="2015-07-27"/>
+    <cosponsor id="412491" joined="2015-07-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-21" state="REFERRED">
+      <text>Referred to the Committee on Homeland Security and Governmental Affairs.</text>
+      <reference ref="CR S5214" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+  </subjects>
+  <amendments/>
+</bill>

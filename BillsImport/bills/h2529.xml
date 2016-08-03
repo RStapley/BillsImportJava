@@ -1,0 +1,43 @@
+<bill session="114" type="h" number="2529" updated="2015-06-06T04:47:25-04:00">
+  <state datetime="2015-05-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-21"/>
+  </status>
+  <introduced datetime="2015-05-21"/>
+  <titles>
+    <title type="short" as="introduced">Reducing food-based Inorganic Compounds Exposure Act of 2015</title>
+    <title type="short" as="introduced">RICE Act</title>
+    <title type="official" as="introduced">To establish limitations on the quantity of inorganic arsenic in rice and rice products under chapter IV of the Federal Food, Drug, and Cosmetic Act.</title>
+  </titles>
+  <sponsor id="400103"/>
+  <cosponsors>
+    <cosponsor id="400162" joined="2015-05-21"/>
+    <cosponsor id="400163" joined="2015-05-21"/>
+    <cosponsor id="400290" joined="2015-05-21"/>
+    <cosponsor id="400378" joined="2015-05-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-21" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-05-21">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-05-21">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2015-05-22">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSAG" name="House Agriculture" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+</bill>

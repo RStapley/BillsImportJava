@@ -1,0 +1,53 @@
+<bill session="114" type="h" number="2599" updated="2015-08-15T06:41:06-04:00">
+  <state datetime="2015-06-01">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-01"/>
+  </status>
+  <introduced datetime="2015-06-01"/>
+  <titles>
+    <title type="short" as="introduced">Don't Ignore the Will of the American People Act</title>
+    <title type="official" as="introduced">To prohibit the obligation of certain funds until the Administrator of the Environmental Protection Agency withdraws the rule relating to the definition of "waters of the United States".</title>
+  </titles>
+  <sponsor id="412641"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-06-01" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Agriculture, Transportation and Infrastructure, and Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-06-01">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-06-01">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2015-06-01">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2015-06-01">
+      <text>Referred to House Science, Space, and Technology</text>
+    </action>
+    <action datetime="2015-06-02">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+    </action>
+    <action datetime="2015-06-05">
+      <text>Referred to the Subcommittee on Environment and the Economy.</text>
+    </action>
+    <action datetime="2015-07-13">
+      <text>Referred to the Subcommittee on Conservation and Forestry.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF18" subcommittee="Environment and the Economy" name="House Energy and Commerce"/>
+    <committee code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee activity="Referral" code="HSAG15" subcommittee="Conservation and Forestry" name="House Agriculture"/>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW02" subcommittee="Water Resources and Environment" name="House Transportation and Infrastructure"/>
+    <committee code="HSSY" name="House Science, Space, and Technology" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+  </subjects>
+  <amendments/>
+</bill>

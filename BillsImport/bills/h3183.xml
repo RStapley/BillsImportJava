@@ -1,0 +1,29 @@
+<bill session="114" type="h" number="3183" updated="2015-08-22T06:45:56-04:00">
+  <state datetime="2015-07-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-23"/>
+  </status>
+  <introduced datetime="2015-07-23"/>
+  <titles>
+    <title type="short" as="introduced">Veterans Health Care Freedom Act</title>
+    <title type="official" as="introduced">To amend the Veterans Access, Choice, and Accountability Act of 2014 to expand and make permanent the Veterans Choice Program, and for other purposes.</title>
+  </titles>
+  <sponsor id="412603"/>
+  <cosponsors>
+    <cosponsor id="400041" joined="2015-07-27"/>
+    <cosponsor id="400141" joined="2015-07-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-23" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+</bill>

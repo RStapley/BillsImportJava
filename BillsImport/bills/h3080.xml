@@ -1,0 +1,35 @@
+<bill session="114" type="h" number="3080" updated="2015-08-08T06:45:04-04:00">
+  <state datetime="2015-07-15">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-15"/>
+  </status>
+  <introduced datetime="2015-07-15"/>
+  <titles>
+    <title type="short" as="introduced">Tribal Employment and Jobs Protection Act</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to provide an exception to the employer health insurance mandate for Indian tribal governments and tribally owned businesses.</title>
+  </titles>
+  <sponsor id="412475"/>
+  <cosponsors>
+    <cosponsor id="400077" joined="2015-07-29"/>
+    <cosponsor id="412640" joined="2015-07-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-15" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1771"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+  <summary>7/15/2015--Introduced.
+Tribal Employment and Jobs Protection Act 
+
+This bill amends the Internal Revenue Code to exclude from the definition of "applicable large employer" for purposes of the employer health care mandate under the Patient Protection and Affordable Care Act (PPACA) any tribal employer. Defines "tribal employer" as: (1) any Indian tribal government or subdivision, (2) any tribal organization, or (3)&#160;any corporation or partnership if more than 50% of the equity interest of such an entity is owned by an Indian tribal government or tribal organization. An applicable large employer is defined by PPACA as an employer who employs 50 or more full-time employees who provide services on average at least 30 hours per week.</summary>
+</bill>

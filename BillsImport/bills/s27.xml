@@ -1,0 +1,49 @@
+<bill session="114" type="s" number="27" updated="2015-06-06T06:43:48-04:00">
+  <state datetime="2015-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-06"/>
+  </status>
+  <introduced datetime="2015-01-06"/>
+  <titles>
+    <title type="short" as="introduced">Wildlife Trafficking Enforcement Act of 2015</title>
+    <title type="official" as="introduced">A bill to make wildlife trafficking a predicate offense under racketeering and money laundering statutes and the Travel Act, to provide for the use for conservation purposes of amounts from civil penalties, fines, forfeitures, and restitution under such statutes based on such violations, and for other purposes.</title>
+  </titles>
+  <sponsor id="300043"/>
+  <cosponsors>
+    <cosponsor id="300025" joined="2015-04-27"/>
+    <cosponsor id="300047" joined="2015-01-06"/>
+    <cosponsor id="400222" joined="2015-05-11"/>
+    <cosponsor id="412242" joined="2015-04-27"/>
+    <cosponsor id="412247" joined="2015-05-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-06">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S14-15"/>
+    </action>
+    <action datetime="2015-01-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="2494"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Civil actions and liability"/>
+    <term name="Currency"/>
+    <term name="Organized crime"/>
+    <term name="Smuggling and trafficking"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/2015--Introduced.
+Wildlife Trafficking Enforcement Act of 2015
+
+This bill applies provisions of the federal criminal code concerning money laundering and racketeering to wildlife trafficking violations of the Endangered Species Act of 1973, the African Elephant Conservation Act, and the Rhinoceros and Tiger Conservation Act of 1994, if the endangered or threatened species of fish or wildlife, products, items, or substances involved in the violation and relevant conduct have a total value of more than $10,000. Violators would be subject to increased fines and years of imprisonment.
+
+The amounts generated from penalties for those wildlife violations must be used for the benefit and conservation of impacted species.</summary>
+</bill>

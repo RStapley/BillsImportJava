@@ -1,0 +1,26 @@
+<bill session="114" type="h" number="3288" updated="2015-08-04T09:47:19-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">Strengthening DSH and Medicare Through Subsidy Recapture and Payment Reform Act of 2015</title>
+    <title type="official" as="introduced">To amend title XVIII of the Social Security Act to change the method of determining disproportionate share hospital (DSH) payments under the Medicare program, and for other purposes.</title>
+  </titles>
+  <sponsor id="400656"/>
+  <cosponsors>
+    <cosponsor id="400636" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,39 @@
+<bill session="114" type="h" number="2862" updated="2015-07-10T04:48:34-04:00">
+  <state datetime="2015-06-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-23"/>
+  </status>
+  <introduced datetime="2015-06-23"/>
+  <titles>
+    <title type="short" as="introduced">Veterans Protection Enhancement Act</title>
+    <title type="official" as="introduced">To authorize the amendment of the Federal sentencing guidelines to provide for an increase in 2 levels if the defendant intentionally selected any victim or any property as the object of the offense of conviction because of the victim's military service or status as a veteran.</title>
+  </titles>
+  <sponsor id="412311"/>
+  <cosponsors>
+    <cosponsor id="400041" joined="2015-06-23"/>
+    <cosponsor id="400047" joined="2015-06-23"/>
+    <cosponsor id="412483" joined="2015-06-23"/>
+    <cosponsor id="412214" joined="2015-06-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-23" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-07-09">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <summary>6/23/2015--Introduced.
+Veterans Protection Enhancement Act
+
+This bill directs the U.S. Sentencing Commission to amend the federal sentencing guidelines to provide for a two-level sentencing increase if the defendant intentionally selected any victim or any property because of the victim's military service or veteran status.</summary>
+</bill>

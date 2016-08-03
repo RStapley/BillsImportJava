@@ -1,0 +1,40 @@
+<bill session="114" type="h" number="2788" updated="2015-08-15T06:42:40-04:00">
+  <state datetime="2015-06-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-16"/>
+  </status>
+  <introduced datetime="2015-06-16"/>
+  <titles>
+    <title type="short" as="introduced">S Corporation Modernization Act of 2015</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to provide for S corporation reform, and for other purposes.</title>
+  </titles>
+  <sponsor id="400660"/>
+  <cosponsors>
+    <cosponsor id="400218" joined="2015-06-16"/>
+    <cosponsor id="400656" joined="2015-06-17"/>
+    <cosponsor id="412303" joined="2015-07-07"/>
+    <cosponsor id="412462" joined="2015-06-25"/>
+    <cosponsor id="400406" joined="2015-06-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-16" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="629"/>
+    <bill relation="unknown" session="114" type="h" number="630"/>
+    <bill relation="unknown" session="114" type="s" number="1905"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+  <summary>6/16/2015--Introduced.
+S Corporation Modernization Act of 2015&#160;
+
+Amends the Internal Revenue Code to revise the tax treatment of S corporations by: (1) permanently reducing from 10 to 5 years the period during which S corporation built-in gains are subject to tax; (2) repealing mandatory termination of S corporation elections for excessive passive investment income; (3) allowing S corporations to increase passive investment income from 25 to 60% without incurring additional tax; (4) allowing nonresident aliens to be potential current beneficiaries of an electing small business trust (ESBT); (5) allowing individual retirement accounts to be S corporation shareholders; (6) allowing ESBTs to claim expanded charitable tax deductions; and (7) making permanent the rule requiring a basis adjustment to stock of an S corporation making charitable contributions of property.</summary>
+</bill>

@@ -1,0 +1,55 @@
+<bill session="114" type="h" number="1949" updated="2015-07-10T04:48:03-04:00">
+  <state datetime="2015-07-09">REPORTED</state>
+  <status>
+    <unknown datetime="2015-07-09"/>
+  </status>
+  <introduced datetime="2015-04-22"/>
+  <titles>
+    <title type="short" as="introduced">National Liberty Memorial Clarification Act of 2015</title>
+    <title type="official" as="introduced">To provide for the consideration and submission of site and design proposals for the National Liberty Memorial approved for establishment in the District of Columbia.</title>
+  </titles>
+  <sponsor id="400616"/>
+  <cosponsors>
+    <cosponsor id="412295" joined="2015-04-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-22" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2015-05-19">
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+    </action>
+    <action datetime="2015-07-08">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2015-07-09">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-07-09" state="REPORTED">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+    </calendar>
+    <action datetime="2015-07-09">
+      <text>Subcommittee on Federal Lands Discharged.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup"/>
+    <committee activity="Referral, Discharged" code="HSII10" subcommittee="Federal Lands" name="House Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Military history"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Monuments and memorials"/>
+    <term name="Racial and ethnic relations"/>
+    <term name="U.S. history"/>
+  </subjects>
+  <amendments/>
+  <summary>4/22/2015--Introduced.
+National Liberty Memorial Clarification Act of 2015
+
+This bill amends the Military Construction Authorization Act for Fiscal Year 2013 with respect to submission of site and design proposals by the National Mall Liberty Fund D.C. (sponsor) for the National Liberty Memorial to honor the slaves and free black persons who served as soldiers and sailors or provided civilian assistance during the American Revolution.
+
+The site and design approval process is revised to make the Secretary of Agriculture, rather than the Secretary of the Interior or the Administrator of General Services, responsible for consideration of these site and design proposals and their submission, on behalf of the sponsor, to the Commission of Fine Arts and National Capital Planning Commission.</summary>
+</bill>

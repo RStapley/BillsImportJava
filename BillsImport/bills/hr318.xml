@@ -1,0 +1,64 @@
+<bill session="114" type="hr" number="318" updated="2015-07-29T04:47:10-04:00">
+  <state datetime="2015-06-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-16"/>
+  </status>
+  <introduced datetime="2015-06-16"/>
+  <titles>
+    <title type="official" as="introduced">Condemning resolutions or policies calling for or instituting a boycott of Israeli academic institutions or scholars by institutions of higher learning and scholarly associations.</title>
+  </titles>
+  <sponsor id="412621"/>
+  <cosponsors>
+    <cosponsor id="412501" joined="2015-06-16"/>
+    <cosponsor id="412652" joined="2015-06-16"/>
+    <cosponsor id="412539" joined="2015-07-07"/>
+    <cosponsor id="400108" joined="2015-06-24"/>
+    <cosponsor id="412275" joined="2015-07-07"/>
+    <cosponsor id="412661" joined="2015-07-21"/>
+    <cosponsor id="400175" joined="2015-06-23"/>
+    <cosponsor id="400641" joined="2015-06-16"/>
+    <cosponsor id="400195" joined="2015-07-28"/>
+    <cosponsor id="412460" joined="2015-06-25"/>
+    <cosponsor id="412566" joined="2015-06-18"/>
+    <cosponsor id="412191" joined="2015-06-16"/>
+    <cosponsor id="412290" joined="2015-06-18"/>
+    <cosponsor id="412616" joined="2015-06-24"/>
+    <cosponsor id="412468" joined="2015-06-25"/>
+    <cosponsor id="412295" joined="2015-07-23"/>
+    <cosponsor id="412487" joined="2015-07-07"/>
+    <cosponsor id="412527" joined="2015-06-23"/>
+    <cosponsor id="412302" joined="2015-07-15"/>
+    <cosponsor id="412569" joined="2015-06-25"/>
+    <cosponsor id="400344" joined="2015-06-23"/>
+    <cosponsor id="412202" joined="2015-07-07"/>
+    <cosponsor id="412648" joined="2015-06-16"/>
+    <cosponsor id="400623" joined="2015-06-23"/>
+    <cosponsor id="412574" joined="2015-06-18"/>
+    <cosponsor id="412430" joined="2015-06-25"/>
+    <cosponsor id="412646" joined="2015-07-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-16" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Arab-Israeli relations"/>
+    <term name="Conflicts and wars"/>
+    <term name="Higher education"/>
+    <term name="International exchange and broadcasting"/>
+    <term name="Israel"/>
+    <term name="Middle East"/>
+    <term name="Palestinians"/>
+    <term name="School administration"/>
+    <term name="Teaching, teachers, curricula"/>
+  </subjects>
+  <amendments/>
+  <summary>6/16/2015--Introduced.
+Condemns the adoption of a resolution or policy by any institution of higher education or scholarly association that formally calls for or establishes the restriction of discourse, cooperation, exchange, or any other involvement with academic institutions or scholars on the basis of their connection to Israel.</summary>
+</bill>

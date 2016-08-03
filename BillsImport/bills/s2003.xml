@@ -1,0 +1,26 @@
+<bill session="114" type="s" number="2003" updated="2015-08-19T15:46:34-04:00">
+  <state datetime="2015-08-06">REFERRED</state>
+  <status>
+    <introduced datetime="2015-08-06"/>
+  </status>
+  <introduced datetime="2015-08-06"/>
+  <titles>
+    <title type="short" as="introduced">Free Market Energy Act</title>
+    <title type="official" as="introduced">A bill to facilitate the free market for distributed energy resources.</title>
+  </titles>
+  <sponsor id="412545"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-08-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1213"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

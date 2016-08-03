@@ -1,0 +1,32 @@
+<bill session="114" type="s" number="1863" updated="2015-08-22T07:07:21-04:00">
+  <state datetime="2015-07-27">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-27"/>
+  </status>
+  <introduced datetime="2015-07-27"/>
+  <titles>
+    <title type="official" as="introduced">A bill to award a Congressional Gold Medal to Timothy Nugent, in recognition of his pioneering work on behalf of people with disabilities, including disabled veterans.</title>
+  </titles>
+  <sponsor id="400222"/>
+  <cosponsors>
+    <cosponsor id="300038" joined="2015-07-28"/>
+    <cosponsor id="400408" joined="2015-08-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-27">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S5932"/>
+    </action>
+    <action datetime="2015-07-27" state="REFERRED">
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="3223"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

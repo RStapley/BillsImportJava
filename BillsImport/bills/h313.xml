@@ -1,0 +1,93 @@
+<bill session="114" type="h" number="313" updated="2015-07-25T06:21:29-04:00">
+  <state datetime="2015-01-27">REPORTED</state>
+  <status>
+    <unknown datetime="2015-01-27"/>
+  </status>
+  <introduced datetime="2015-01-13"/>
+  <titles>
+    <title type="short" as="introduced">Wounded Warriors Federal Leave Act of 2015</title>
+    <title type="short" as="reported to house">Wounded Warriors Federal Leave Act of 2015</title>
+    <title type="official" as="introduced">To amend title 5, United States Code, to provide leave to any new Federal employee who is a veteran with a service-connected disability rated at 30 percent or more for purposes of undergoing medical treatment for such disability, and for other purposes.</title>
+  </titles>
+  <sponsor id="400249"/>
+  <cosponsors>
+    <cosponsor id="412642" joined="2015-02-13"/>
+    <cosponsor id="400616" joined="2015-01-13"/>
+    <cosponsor id="412571" joined="2015-03-26"/>
+    <cosponsor id="412236" joined="2015-03-26"/>
+    <cosponsor id="412272" joined="2015-01-13"/>
+    <cosponsor id="412555" joined="2015-05-14"/>
+    <cosponsor id="400090" joined="2015-01-13"/>
+    <cosponsor id="412385" joined="2015-02-13"/>
+    <cosponsor id="412524" joined="2015-02-13"/>
+    <cosponsor id="412482" joined="2015-01-13"/>
+    <cosponsor id="412382" joined="2015-02-26"/>
+    <cosponsor id="400162" joined="2015-02-13"/>
+    <cosponsor id="400170" joined="2015-02-03"/>
+    <cosponsor id="400199" joined="2015-02-26"/>
+    <cosponsor id="412603" joined="2015-02-03"/>
+    <cosponsor id="400209" joined="2015-01-13"/>
+    <cosponsor id="412583" joined="2015-05-14"/>
+    <cosponsor id="400219" joined="2015-02-13"/>
+    <cosponsor id="400230" joined="2015-02-13"/>
+    <cosponsor id="400238" joined="2015-02-26"/>
+    <cosponsor id="412521" joined="2015-03-26"/>
+    <cosponsor id="400263" joined="2015-02-03"/>
+    <cosponsor id="400661" joined="2015-02-03"/>
+    <cosponsor id="400295" joined="2015-01-13"/>
+    <cosponsor id="400333" joined="2015-02-03"/>
+    <cosponsor id="412647" joined="2015-03-26"/>
+    <cosponsor id="412212" joined="2015-02-13"/>
+    <cosponsor id="400364" joined="2015-03-26"/>
+    <cosponsor id="412461" joined="2015-02-13"/>
+    <cosponsor id="412514" joined="2015-02-26"/>
+    <cosponsor id="412626" joined="2015-02-13"/>
+    <cosponsor id="412214" joined="2015-03-26"/>
+    <cosponsor id="400422" joined="2015-02-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-13" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2015-01-27">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-01-27" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </calendar>
+    <action datetime="2015-06-25T13:51:00-04:00">
+      <text>Reported by the Committee on Oversight and Government Reform. H. Rept. 114-180.</text>
+    </action>
+    <calendar datetime="2015-06-25T13:51:00-04:00" calendar="Union" number="132">
+      <text>Placed on the Union Calendar, Calendar No. 132.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="242"/>
+    <bill relation="unknown" session="114" type="s" number="242"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Disability and paralysis"/>
+    <term name="Employee leave"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Office of Personnel Management (OPM)"/>
+    <term name="Postal service"/>
+    <term name="U.S. Postal Service"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>6/25/2015--Reported to House without amendment.
+(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)
+
+Wounded Warriors Federal Leave Act of 2015
+
+(Sec. 2) Entitles any federal employee who is a veteran with a service-connected disability rated at 30% or more, during the 12-month period beginning on the first day of employment, to up to 104 hours of leave, without loss or reduction in pay, for purposes of undergoing medical treatment for such disability for which sick leave could regularly be used. Requires the forfeiture of any such leave that is not used during such 12-month period.
+
+Requires such employee to submit to the head of the employing agency certification that such employee used such leave for purposes of being furnished treatment for such disability by a health care provider.</summary>
+</bill>

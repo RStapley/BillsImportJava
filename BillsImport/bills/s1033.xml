@@ -1,0 +1,44 @@
+<bill session="114" type="s" number="1033" updated="2015-06-10T04:48:53-04:00">
+  <state datetime="2015-04-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-21"/>
+  </status>
+  <introduced datetime="2015-04-21"/>
+  <titles>
+    <title type="short" as="introduced">Quadrennial Energy Review Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend the Department of Energy Organization Act to replace the current requirement for a biennial energy policy plan with a Quadrennial Energy Review, and for other purposes.</title>
+  </titles>
+  <sponsor id="412390"/>
+  <cosponsors>
+    <cosponsor id="300002" joined="2015-04-21"/>
+    <cosponsor id="412281" joined="2015-04-21"/>
+    <cosponsor id="400413" joined="2015-04-21"/>
+    <cosponsor id="300100" joined="2015-04-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2015-06-09">
+      <text>Committee on Energy and Natural Resources. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+  </subjects>
+  <amendments/>
+  <summary>4/21/2015--Introduced.
+Quadrennial Energy Review Act of 2015
+
+ This bill amends the Department of Energy Organization Act to direct the President to establish once every four years the Quadrennial Energy Review Task Force to coordinate the Quadrennial Energy Review.
+
+Each Review must: (1) establish integrated, governmentwide national energy objectives in the context of economic, environmental, and security priorities; and (2) consider reasonable estimates of future federal budgetary resources when making recommendations.
+
+ The President's report to Congress on the Review must address an integrated view of short-, intermediate-, and long-term objectives for federal energy policy.
+
+The Secretary of Energy shall give each Review necessary analytical, financial, and administrative support as requested by the cochairpersons.</summary>
+</bill>

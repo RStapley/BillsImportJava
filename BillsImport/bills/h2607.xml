@@ -1,0 +1,60 @@
+<bill session="114" type="h" number="2607" updated="2015-08-22T06:41:06-04:00">
+  <state datetime="2015-06-02">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-02"/>
+  </status>
+  <introduced datetime="2015-06-02"/>
+  <titles>
+    <title type="official" as="introduced">To designate the facility of the United States Postal Service located at 7802 37th Avenue in Jackson Heights, New York, as the "Jeanne and Jules Manford Post Office Building".</title>
+  </titles>
+  <sponsor id="400087"/>
+  <cosponsors>
+    <cosponsor id="412221" joined="2015-06-02"/>
+    <cosponsor id="412563" joined="2015-07-29"/>
+    <cosponsor id="412672" joined="2015-06-16"/>
+    <cosponsor id="400122" joined="2015-06-02"/>
+    <cosponsor id="412453" joined="2015-06-16"/>
+    <cosponsor id="412454" joined="2015-06-04"/>
+    <cosponsor id="400641" joined="2015-06-02"/>
+    <cosponsor id="400195" joined="2015-06-02"/>
+    <cosponsor id="412561" joined="2015-06-04"/>
+    <cosponsor id="412649" joined="2015-07-10"/>
+    <cosponsor id="400219" joined="2015-07-22"/>
+    <cosponsor id="400246" joined="2015-06-10"/>
+    <cosponsor id="400251" joined="2015-06-02"/>
+    <cosponsor id="412562" joined="2015-06-02"/>
+    <cosponsor id="400271" joined="2015-06-02"/>
+    <cosponsor id="412560" joined="2015-06-02"/>
+    <cosponsor id="400289" joined="2015-06-02"/>
+    <cosponsor id="400333" joined="2015-06-02"/>
+    <cosponsor id="412393" joined="2015-07-07"/>
+    <cosponsor id="412647" joined="2015-06-04"/>
+    <cosponsor id="400366" joined="2015-06-02"/>
+    <cosponsor id="400378" joined="2015-06-02"/>
+    <cosponsor id="412648" joined="2015-07-29"/>
+    <cosponsor id="412319" joined="2015-06-02"/>
+    <cosponsor id="400416" joined="2015-06-02"/>
+    <cosponsor id="412646" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-02" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="2527"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congressional tributes"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="New York City"/>
+    <term name="Postal service"/>
+  </subjects>
+  <amendments/>
+  <summary>6/2/2015--Introduced.
+Designates the facility of the United States Postal Service located at 7802 37th Avenue in Jackson Heights, New York, as the "Jeanne and Jules Manford Post Office Building."</summary>
+</bill>

@@ -1,0 +1,52 @@
+<bill session="114" type="h" number="482" updated="2015-07-10T04:47:15-04:00">
+  <state datetime="2015-01-22">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-22"/>
+  </status>
+  <introduced datetime="2015-01-22"/>
+  <titles>
+    <title type="short" as="introduced">Ocmulgee Mounds National Historical Park Boundary Revision Act of 2015</title>
+    <title type="official" as="introduced">To redesignate Ocmulgee National Monument in the State of Georgia and revise its boundary, and for other purposes.</title>
+  </titles>
+  <sponsor id="400030"/>
+  <cosponsors>
+    <cosponsor id="400077" joined="2015-07-09"/>
+    <cosponsor id="412417" joined="2015-01-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-22" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2015-03-02">
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+    </action>
+    <action datetime="2015-06-16">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral, Hearings" code="HSII10" subcommittee="Federal Lands" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1696"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Georgia"/>
+    <term name="Government studies and investigations"/>
+    <term name="Historic sites and heritage areas"/>
+    <term name="Land transfers"/>
+    <term name="Monuments and memorials"/>
+    <term name="Parks, recreation areas, trails"/>
+  </subjects>
+  <amendments/>
+  <summary>1/22/2015--Introduced.
+Ocmulgee Mounds National Historical Park Boundary Revision Act of 2015
+
+ Redesignates the Ocmulgee National Monument in Georgia as the Ocmulgee Mounds National Historical Park.
+
+Adjusts the boundary of the Historical Park to include approximately 2,100 acres.
+
+Directs the Department of the Interior to conduct a special resource study of the Ocmulgee River corridor between the cities of Macon, Georgia, and Hawkinsville, Georgia, to determine: (1) the national significance of the study area; (2) the suitability and feasibility of adding lands in the study area to the National Park System; and (3) the methods and means for the protection and interpretation of the study area by the National Park Service, other federal, state, local government entities, affiliated federally recognized Indian tribes, or private or nonprofit organizations.</summary>
+</bill>

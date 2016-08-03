@@ -1,0 +1,75 @@
+<bill session="114" type="h" number="2477" updated="2015-08-15T06:40:03-04:00">
+  <state datetime="2015-05-20">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-20"/>
+  </status>
+  <introduced datetime="2015-05-20"/>
+  <titles>
+    <title type="short" as="introduced">Financial Transparency Act of 2015</title>
+    <title type="official" as="introduced">To amend securities, commodities, and banking laws to make the information reported to financial regulatory agencies electronically searchable, and for other purposes.</title>
+  </titles>
+  <sponsor id="400196"/>
+  <cosponsors>
+    <cosponsor id="412630" joined="2015-05-20"/>
+    <cosponsor id="412627" joined="2015-05-20"/>
+    <cosponsor id="412658" joined="2015-06-19"/>
+    <cosponsor id="412544" joined="2015-05-20"/>
+    <cosponsor id="412215" joined="2015-05-20"/>
+    <cosponsor id="412639" joined="2015-07-16"/>
+    <cosponsor id="412482" joined="2015-06-17"/>
+    <cosponsor id="400141" joined="2015-06-25"/>
+    <cosponsor id="412422" joined="2015-05-20"/>
+    <cosponsor id="400251" joined="2015-05-20"/>
+    <cosponsor id="400263" joined="2015-06-10"/>
+    <cosponsor id="400644" joined="2015-05-20"/>
+    <cosponsor id="412302" joined="2015-06-25"/>
+    <cosponsor id="412551" joined="2015-08-04"/>
+    <cosponsor id="400320" joined="2015-06-17"/>
+    <cosponsor id="412308" joined="2015-05-20"/>
+    <cosponsor id="412331" joined="2015-05-20"/>
+    <cosponsor id="400348" joined="2015-05-20"/>
+    <cosponsor id="412399" joined="2015-05-20"/>
+    <cosponsor id="400433" joined="2015-07-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-20" state="REFERRED">
+      <text>Referred to the Committee on Financial Services, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-05-20">
+      <text>Referred to House Financial Services</text>
+    </action>
+    <action datetime="2015-05-20">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2015-06-08">
+      <text>Referred to the Subcommittee on Commodity Exchanges, Energy, and Credit.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+    <committee code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee activity="Referral" code="HSAG22" subcommittee="Commodity Exchanges, Energy, and Credit" name="House Agriculture"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Banking and financial institutions regulation"/>
+    <term name="Commodities markets"/>
+    <term name="Commodity Futures Trading Commission"/>
+    <term name="Congressional oversight"/>
+    <term name="Consumer Financial Protection Bureau"/>
+    <term name="Corporate finance and management"/>
+    <term name="Department of the Treasury"/>
+    <term name="Federal Deposit Insurance Corporation (FDIC)"/>
+    <term name="Federal Housing Finance Agency"/>
+    <term name="Federal Reserve System"/>
+    <term name="Financial services and investments"/>
+    <term name="Government information and archives"/>
+    <term name="National Credit Union Administration"/>
+    <term name="Securities"/>
+    <term name="Securities and Exchange Commission (SEC)"/>
+    <term name="State and local finance"/>
+  </subjects>
+  <amendments/>
+</bill>

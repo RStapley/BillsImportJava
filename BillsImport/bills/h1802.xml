@@ -1,0 +1,59 @@
+<bill session="114" type="h" number="1802" updated="2015-05-23T06:33:00-04:00">
+  <state datetime="2015-04-15">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-15"/>
+  </status>
+  <introduced datetime="2015-04-15"/>
+  <titles>
+    <title type="short" as="introduced">Energy Efficiency Improvement Act of 2015</title>
+    <title type="short" as="introduced" partial="1">Better Buildings Act of 2015</title>
+    <title type="official" as="introduced">To promote energy efficiency.</title>
+  </titles>
+  <sponsor id="412487"/>
+  <cosponsors>
+    <cosponsor id="412239" joined="2015-04-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-15" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-04-17">
+      <text>Referred to the Subcommittee on Energy and Power.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1867"/>
+    <bill relation="unknown" session="114" type="h" number="2177"/>
+    <bill relation="identical" session="114" type="s" number="535"/>
+    <bill relation="unknown" session="114" type="s" number="1052"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Alternative and renewable resources"/>
+    <term name="Building construction"/>
+    <term name="Congressional oversight"/>
+    <term name="Consumer affairs"/>
+    <term name="Electric power generation and transmission"/>
+    <term name="Energy efficiency and conservation"/>
+    <term name="Energy storage, supplies, demand"/>
+    <term name="Environmental technology"/>
+    <term name="General Services Administration"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Industrial facilities"/>
+    <term name="Lighting and heating"/>
+    <term name="Materials"/>
+    <term name="Performance measurement"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Public utilities and utility rates"/>
+    <term name="Real estate business"/>
+    <term name="Water use and supply"/>
+  </subjects>
+  <amendments/>
+</bill>

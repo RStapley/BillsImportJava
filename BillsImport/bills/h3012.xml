@@ -1,0 +1,44 @@
+<bill session="114" type="h" number="3012" updated="2015-08-15T06:44:35-04:00">
+  <state datetime="2015-07-09">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-09"/>
+  </status>
+  <introduced datetime="2015-07-09"/>
+  <titles>
+    <title type="short" as="introduced">Right to Try Act of 2015</title>
+    <title type="official" as="introduced">To authorize the use of unapproved medical products by patients diagnosed with a terminal illness in accordance with State law, and for other purposes.</title>
+  </titles>
+  <sponsor id="400606"/>
+  <cosponsors>
+    <cosponsor id="412397" joined="2015-07-09"/>
+    <cosponsor id="412392" joined="2015-07-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-09" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-07-09">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-07-09">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2015-07-10">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+</bill>

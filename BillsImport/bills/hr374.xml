@@ -1,0 +1,39 @@
+<bill session="114" type="hr" number="374" updated="2015-08-22T04:47:07-04:00">
+  <state datetime="2015-07-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-23"/>
+  </status>
+  <introduced datetime="2015-07-23"/>
+  <titles>
+    <title type="official" as="introduced">Recognizing the 50th anniversary of Singaporean independence and reaffirming Singapore's close partnership with the United States.</title>
+  </titles>
+  <sponsor id="412584"/>
+  <cosponsors>
+    <cosponsor id="400041" joined="2015-07-23"/>
+    <cosponsor id="412601" joined="2015-07-23"/>
+    <cosponsor id="412435" joined="2015-07-23"/>
+    <cosponsor id="400232" joined="2015-07-23"/>
+    <cosponsor id="412660" joined="2015-07-28"/>
+    <cosponsor id="412331" joined="2015-07-23"/>
+    <cosponsor id="412650" joined="2015-07-23"/>
+    <cosponsor id="400606" joined="2015-07-23"/>
+    <cosponsor id="412580" joined="2015-07-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-23" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2015-08-20">
+      <text>Referred to the Subcommittee on Asia and the Pacific.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSFA05" subcommittee="Asia and the Pacific" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+  </subjects>
+  <amendments/>
+</bill>

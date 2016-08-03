@@ -1,0 +1,65 @@
+<bill session="114" type="h" number="2995" updated="2015-08-08T06:44:22-04:00">
+  <state datetime="2015-07-09T16:36:00-04:00">REPORTED</state>
+  <status>
+    <unknown datetime="2015-07-09T16:36:00-04:00"/>
+  </status>
+  <introduced datetime="2015-07-09"/>
+  <titles>
+    <title type="short" as="introduced">Financial Services and General Government Appropriations Act, 2016</title>
+    <title type="short" as="introduced" partial="1">Department of the Treasury Appropriations Act, 2016</title>
+    <title type="short" as="introduced" partial="1">District of Columbia Appropriations Act, 2016</title>
+    <title type="short" as="introduced" partial="1">Executive Office of the President Appropriations Act, 2016</title>
+    <title type="short" as="introduced" partial="1">Judiciary Appropriations Act, 2016</title>
+    <title type="short" as="reported to house">Financial Services and General Government Appropriations Act, 2016</title>
+    <title type="short" as="reported to house" partial="1">Department of the Treasury Appropriations Act, 2016</title>
+    <title type="short" as="reported to house" partial="1">District of Columbia Appropriations Act, 2016</title>
+    <title type="short" as="reported to house" partial="1">Executive Office of the President Appropriations Act, 2016</title>
+    <title type="short" as="reported to house" partial="1">Judiciary Appropriations Act, 2016</title>
+    <title type="official" as="introduced">Making appropriations for financial services and general government for the fiscal year ending September 30, 2016, and for other purposes.</title>
+  </titles>
+  <sponsor id="400086"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-09T16:36:00-04:00">
+      <text>The House Committee on Appropriations reported an original measure, H. Rept. 114-194, by Mr. Crenshaw.</text>
+    </action>
+    <calendar datetime="2015-07-09T16:36:00-04:00" state="REPORTED" calendar="Union" number="144">
+      <text>Placed on the Union Calendar, Calendar No. 144.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSAP" name="House Appropriations" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1910"/>
+    <bill relation="unknown" session="114" type="s" number="1910"/>
+  </relatedbills>
+  <subjects>
+    <term name="Economics and public finance"/>
+  </subjects>
+  <amendments/>
+  <summary>7/9/2015--Introduced.
+Financial Services and General Government Appropriations Act, 2016 
+
+Provides FY2016 appropriations for agencies responsible for: regulating the financial, telecommunications, and consumer products industries; collecting taxes and assisting taxpayers; managing federal buildings; overseeing the federal workforce; and operating the Executive Office of the President, the judiciary, federal buildings, and the District of Columbia.
+
+Department of the Treasury Appropriations Act, 2016 
+
+Provides appropriations to the Department of the Treasury for:
+
+ Departmental Offices, the Financial Crimes Enforcement Network, the Bureau of the Fiscal Service, the Alcohol and Tobacco Tax and Trade Bureau, the U.S. Mint, the Community Development Financial Institutions Fund Program Account, and the Internal Revenue Service. Executive Office of the President Appropriations Act, 2016 
+
+Provides appropriations to the Executive Office of the President and Funds Appropriated to the President for:
+
+ the White House, the Executive Residence at the White House, White House Repair and Restoration, the Council of Economic Advisers, the National Security Council and Homeland Security Council, the Office of Administration, the Office of Management and Budget, the Office of National Drug Control Policy, Information Technology Oversight and Reform, Special Assistance to the President, and the Official Residence of the Vice President. Judiciary Appropriations Act, 2016 
+
+Provides appropriations to the judiciary for:
+
+ the Supreme Court of the United States; the U.S. Court of Appeals for the Federal Circuit; the U.S. Court of International Trade; Courts of Appeals, District Courts, and Other Judicial Services; the Administrative Office of the U.S. Courts; the Federal Judicial Center; and the U.S. Sentencing Commission. District of Columbia Appropriations Act, 2016 
+
+Provides appropriations to the District of Columbia, including Federal Funds and District of Columbia Funds.
+
+Provides appropriations to independent agencies, including:
+
+ the Administrative Conference of the United States, the Consumer Products Safety Commission, the Election Assistance Commission, the Federal Communications Commission, the Federal Deposit Insurance Corporation, the Federal Election Commission, the Federal Labor Relations Authority, the Federal Trade Commission, the General Services Administration, the Merit Systems Protection Board, the National Archives and Records Administration, the National Credit Union Administration, the Office of Government Ethics, the Office Personnel Management, the Office of Special Counsel, the Postal Regulatory Commission, the Privacy and Civil Liberties Oversight Board, the Securities and Exchange Commission, the Selective Service System, the Small Business Administration, the U.S. Postal Service, and the U.S. Tax Court. Sets forth permissible, restricted, and prohibited uses for funds provided by this and other appropriations Acts. Rescinds unobligated balances from prior appropriations.</summary>
+</bill>

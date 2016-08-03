@@ -1,0 +1,33 @@
+<bill session="114" type="s" number="1638" updated="2015-07-04T07:00:01-04:00">
+  <state datetime="2015-06-24">REPORTED</state>
+  <status>
+    <unknown datetime="2015-06-24"/>
+  </status>
+  <introduced datetime="2015-06-18"/>
+  <titles>
+    <title type="short" as="introduced">Department of Homeland Security Headquarters Consolidation Accountability Act of 2015</title>
+    <title type="official" as="introduced">A bill to direct the Secretary of Homeland Security to submit to Congress information on the Department of Homeland Security headquarters consolidation project in the National Capital Region, and for other purposes.</title>
+  </titles>
+  <sponsor id="412496"/>
+  <cosponsors>
+    <cosponsor id="300019" joined="2015-06-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-18" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <calendar datetime="2015-06-24" state="REPORTED">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1640"/>
+  </relatedbills>
+  <subjects>
+    <term name="Emergency management"/>
+  </subjects>
+  <amendments/>
+</bill>

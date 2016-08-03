@@ -1,0 +1,72 @@
+<bill session="114" type="h" number="840" updated="2015-07-28T05:08:29-04:00">
+  <state datetime="2015-02-10">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-10"/>
+  </status>
+  <introduced datetime="2015-02-10"/>
+  <titles>
+    <title type="short" as="introduced">STEM Gateways Act</title>
+    <title type="official" as="introduced">To increase the participation of women, girls, and underrepresented minorities in STEM fields, to encourage and support students from all economic backgrounds to pursue STEM career opportunities, and for other purposes.</title>
+  </titles>
+  <sponsor id="412543"/>
+  <cosponsors>
+    <cosponsor id="400033" joined="2015-07-27"/>
+    <cosponsor id="412600" joined="2015-06-09"/>
+    <cosponsor id="412221" joined="2015-07-08"/>
+    <cosponsor id="412505" joined="2015-03-23"/>
+    <cosponsor id="412263" joined="2015-06-09"/>
+    <cosponsor id="400641" joined="2015-03-23"/>
+    <cosponsor id="400179" joined="2015-06-02"/>
+    <cosponsor id="400185" joined="2015-03-23"/>
+    <cosponsor id="400245" joined="2015-06-02"/>
+    <cosponsor id="412293" joined="2015-03-23"/>
+    <cosponsor id="400663" joined="2015-06-24"/>
+    <cosponsor id="412659" joined="2015-03-23"/>
+    <cosponsor id="400378" joined="2015-02-10"/>
+    <cosponsor id="400379" joined="2015-06-24"/>
+    <cosponsor id="412514" joined="2015-06-09"/>
+    <cosponsor id="412319" joined="2015-02-10"/>
+    <cosponsor id="412579" joined="2015-03-23"/>
+    <cosponsor id="412412" joined="2015-07-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-10">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H872"/>
+    </action>
+    <action datetime="2015-02-10" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+    <action datetime="2015-04-29">
+      <text>Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee activity="Referral" code="HSED14" subcommittee="Early Childhood, Elementary, and Secondary Education" name="House Education and the Workforce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="1183"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Education of the disadvantaged"/>
+    <term name="Education programs funding"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Higher education"/>
+    <term name="Minority education"/>
+    <term name="Minority employment"/>
+    <term name="Public-private cooperation"/>
+    <term name="Science and engineering education"/>
+    <term name="Teaching, teachers, curricula"/>
+    <term name="Women's education"/>
+    <term name="Women's employment"/>
+  </subjects>
+  <amendments/>
+  <summary>2/10/2015--Introduced.
+STEM Gateways Act
+
+This bill directs the Department of Education to award competitive grants for science, technology, engineering, and mathematics (STEM) elementary and secondary school programs that:
+
+ encourage interest in the STEM fields; motivate engagement in the STEM fields by providing relevant hands-on learning opportunities; support classroom success in the STEM disciplines; support STEM workforce training and career preparation for secondary school students; or improve the access of secondary school students to STEM career and continuing education opportunities.</summary>
+</bill>

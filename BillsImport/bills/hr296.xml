@@ -1,0 +1,47 @@
+<bill session="114" type="hr" number="296" updated="2015-08-11T04:47:49-04:00">
+  <state datetime="2015-06-03">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-03"/>
+  </status>
+  <introduced datetime="2015-06-03"/>
+  <titles>
+    <title type="official" as="introduced">Calling for Sickle Cell Trait research.</title>
+  </titles>
+  <sponsor id="400237"/>
+  <cosponsors>
+    <cosponsor id="400052" joined="2015-06-03"/>
+    <cosponsor id="400080" joined="2015-06-03"/>
+    <cosponsor id="400093" joined="2015-06-03"/>
+    <cosponsor id="412637" joined="2015-06-03"/>
+    <cosponsor id="400653" joined="2015-06-03"/>
+    <cosponsor id="400271" joined="2015-06-12"/>
+    <cosponsor id="400333" joined="2015-06-03"/>
+    <cosponsor id="400350" joined="2015-06-03"/>
+    <cosponsor id="400403" joined="2015-06-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-03" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-06-05">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+  <summary>6/3/2015--Introduced.
+Recognizes the challenges in addressing health outcomes among people with Sickle Cell Trait and Sickle Cell Disease.
+
+Encourages the medical community to make individuals aware of their Sickle Cell Trait status.
+
+Urges the Department of Health and Human Services to develop a public awareness campaign regarding the importance of individuals knowing their Sickle Cell Trait status and to expand access for screening and counseling.
+
+Commits to supporting research on Sickle Cell Trait and Sickle Cell Disease.</summary>
+</bill>

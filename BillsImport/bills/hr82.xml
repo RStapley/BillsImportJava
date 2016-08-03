@@ -1,0 +1,37 @@
+<bill session="114" type="hr" number="82" updated="2015-07-23T04:47:34-04:00">
+  <state datetime="2015-02-03">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-03"/>
+  </status>
+  <introduced datetime="2015-02-03"/>
+  <titles>
+    <title type="official" as="introduced">Calling on schools and State and local educational agencies to recognize that dyslexia has significant educational implications that must be addressed.</title>
+  </titles>
+  <sponsor id="412443"/>
+  <cosponsors>
+    <cosponsor id="412469" joined="2015-04-23"/>
+    <cosponsor id="412470" joined="2015-07-22"/>
+    <cosponsor id="412193" joined="2015-07-22"/>
+    <cosponsor id="412524" joined="2015-07-22"/>
+    <cosponsor id="412583" joined="2015-05-12"/>
+    <cosponsor id="412410" joined="2015-06-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-03" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Neurological disorders"/>
+    <term name="Special education"/>
+  </subjects>
+  <amendments/>
+  <summary>2/3/2015--Introduced.
+Calls on schools and state and local educational agencies to recognize that dyslexia has significant educational implications that must be addressed.</summary>
+</bill>

@@ -1,0 +1,29 @@
+<bill session="114" type="s" number="1215" updated="2015-06-06T06:53:44-04:00">
+  <state datetime="2015-05-06">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-06"/>
+  </status>
+  <introduced datetime="2015-05-06"/>
+  <titles>
+    <title type="short" as="introduced">Methane Hydrate Research and Development Amendments Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend the Methane Hydrate Research and Development Act of 2000 to provide for the development of methane hydrate as a commercially viable source of energy.</title>
+  </titles>
+  <sponsor id="300075"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-05-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2015-05-19">
+      <text>Committee on Energy and Natural Resources. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+  </subjects>
+  <amendments/>
+</bill>

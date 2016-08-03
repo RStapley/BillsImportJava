@@ -1,0 +1,32 @@
+<bill session="114" type="h" number="3131" updated="2015-08-01T06:45:55-04:00">
+  <state datetime="2015-07-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-21"/>
+  </status>
+  <introduced datetime="2015-07-21"/>
+  <titles>
+    <title type="short" as="introduced">Bureau Research Transparency Act</title>
+    <title type="official" as="introduced">To require the Bureau of Consumer Financial Protection, when issuing a research paper, to include all studies, data, and other analyses on which the paper was based.</title>
+  </titles>
+  <sponsor id="400646"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-21" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1265"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+  </subjects>
+  <amendments/>
+  <summary>7/21/2015--Introduced.
+Bureau Research Transparency Act 
+
+ Amends the Consumer Financial Protection Act of 2010 to require the Consumer Financial Protection Bureau, any time it issues a research paper available to the public, to accompany it with all studies, data, and other analyses on which it was based.</summary>
+</bill>

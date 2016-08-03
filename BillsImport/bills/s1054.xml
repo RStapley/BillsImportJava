@@ -1,0 +1,31 @@
+<bill session="114" type="s" number="1054" updated="2015-06-11T04:48:56-04:00">
+  <state datetime="2015-04-22">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-22"/>
+  </status>
+  <introduced datetime="2015-04-22"/>
+  <titles>
+    <title type="short" as="introduced">Smart Manufacturing Leadership Act</title>
+    <title type="official" as="introduced">A bill to improve the productivity and energy efficiency of the manufacturing sector by directing the Secretary of Energy, in coordination with the National Academies and other appropriate Federal agencies, to develop a national smart manufacturing plan and to provide assistance to small- and medium-sized manufacturers in implementing smart manufacturing programs, and for other purposes.</title>
+  </titles>
+  <sponsor id="412323"/>
+  <cosponsors>
+    <cosponsor id="300002" joined="2015-06-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-22" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2015-06-09">
+      <text>Committee on Energy and Natural Resources. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+  </subjects>
+  <amendments/>
+</bill>

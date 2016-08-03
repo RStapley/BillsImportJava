@@ -1,0 +1,24 @@
+<bill session="114" type="s" number="1988" updated="2015-08-18T09:46:23-04:00">
+  <state datetime="2015-08-05">REFERRED</state>
+  <status>
+    <introduced datetime="2015-08-05"/>
+  </status>
+  <introduced datetime="2015-08-05"/>
+  <titles>
+    <title type="short" as="introduced">Enhancing Security for Military Personnel Act of 2015</title>
+    <title type="official" as="introduced">A bill to enhance the security of military personnel at United States military installations and operating locations.</title>
+  </titles>
+  <sponsor id="300055"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-08-05" state="REFERRED">
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

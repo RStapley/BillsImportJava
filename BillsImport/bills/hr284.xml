@@ -1,0 +1,36 @@
+<bill session="114" type="hr" number="284" updated="2015-07-11T06:17:59-04:00">
+  <state datetime="2015-05-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-21"/>
+  </status>
+  <introduced datetime="2015-05-21"/>
+  <titles>
+    <title type="official" as="introduced">Recognizing the significance of National Caribbean American Heritage Month.</title>
+  </titles>
+  <sponsor id="400237"/>
+  <cosponsors>
+    <cosponsor id="400041" joined="2015-06-12"/>
+    <cosponsor id="400048" joined="2015-06-03"/>
+    <cosponsor id="400122" joined="2015-06-03"/>
+    <cosponsor id="400162" joined="2015-06-03"/>
+    <cosponsor id="400199" joined="2015-06-03"/>
+    <cosponsor id="400623" joined="2015-06-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-21" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Civil rights and liberties, minority issues"/>
+  </subjects>
+  <amendments/>
+  <summary>5/21/2015--Introduced.
+Supports the goals and ideals of Caribbean-American Heritage Month (in the month of June).
+
+Affirms that: (1) the contributions of Caribbean-Americans are a significant part of the history, progress, and heritage of the United States; and (2) the ethnic and racial diversity of the United States enriches and strengthens the nation.</summary>
+</bill>

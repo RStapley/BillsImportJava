@@ -1,0 +1,61 @@
+<bill session="114" type="h" number="3338" updated="2015-08-06T12:47:23-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">Justice for Former American Hostages in Iran Act of 2015</title>
+    <title type="official" as="introduced">To establish a fund to make payments to the Americans held hostage in Iran and their immediate family members, who are identified as members of the proposed class in case number 1:00-CV-03110 (EGS) of the United States District Court for the District of Columbia, and for other purposes.</title>
+  </titles>
+  <sponsor id="412488"/>
+  <cosponsors>
+    <cosponsor id="412500" joined="2015-07-29"/>
+    <cosponsor id="412642" joined="2015-07-29"/>
+    <cosponsor id="412436" joined="2015-07-29"/>
+    <cosponsor id="412657" joined="2015-07-31"/>
+    <cosponsor id="400030" joined="2015-07-29"/>
+    <cosponsor id="412516" joined="2015-07-29"/>
+    <cosponsor id="400075" joined="2015-07-29"/>
+    <cosponsor id="400077" joined="2015-07-29"/>
+    <cosponsor id="412272" joined="2015-07-29"/>
+    <cosponsor id="412505" joined="2015-07-29"/>
+    <cosponsor id="412623" joined="2015-07-29"/>
+    <cosponsor id="400199" joined="2015-07-29"/>
+    <cosponsor id="412583" joined="2015-07-29"/>
+    <cosponsor id="400219" joined="2015-07-29"/>
+    <cosponsor id="412421" joined="2015-07-31"/>
+    <cosponsor id="412286" joined="2015-07-29"/>
+    <cosponsor id="412614" joined="2015-07-29"/>
+    <cosponsor id="412557" joined="2015-07-29"/>
+    <cosponsor id="412474" joined="2015-07-29"/>
+    <cosponsor id="412633" joined="2015-07-29"/>
+    <cosponsor id="400344" joined="2015-07-29"/>
+    <cosponsor id="400371" joined="2015-07-29"/>
+    <cosponsor id="412217" joined="2015-07-29"/>
+    <cosponsor id="412574" joined="2015-07-29"/>
+    <cosponsor id="400627" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committees on Foreign Affairs, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Referred to House Foreign Affairs</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Referred to House Ways and Means</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

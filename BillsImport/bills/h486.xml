@@ -1,0 +1,66 @@
+<bill session="114" type="h" number="486" updated="2015-05-22T04:48:19-04:00">
+  <state datetime="2015-01-22">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-22"/>
+  </status>
+  <introduced datetime="2015-01-22"/>
+  <titles>
+    <title type="short" as="introduced">Preserving Jobs in the Oilfield Act of 2015</title>
+    <title type="official" as="introduced">To direct the Secretary of Transportation to ensure that on-duty time does not include waiting time at a natural gas or oil well site for certain commercial motor vehicle operators, and for other purposes.</title>
+  </titles>
+  <sponsor id="412568"/>
+  <cosponsors>
+    <cosponsor id="400029" joined="2015-01-22"/>
+    <cosponsor id="412567" joined="2015-01-22"/>
+    <cosponsor id="400077" joined="2015-01-22"/>
+    <cosponsor id="400655" joined="2015-01-22"/>
+    <cosponsor id="412555" joined="2015-01-22"/>
+    <cosponsor id="412472" joined="2015-01-22"/>
+    <cosponsor id="412482" joined="2015-01-22"/>
+    <cosponsor id="412463" joined="2015-01-22"/>
+    <cosponsor id="412397" joined="2015-05-21"/>
+    <cosponsor id="400175" joined="2015-02-10"/>
+    <cosponsor id="412429" joined="2015-01-22"/>
+    <cosponsor id="412284" joined="2015-02-24"/>
+    <cosponsor id="412460" joined="2015-01-22"/>
+    <cosponsor id="412256" joined="2015-01-22"/>
+    <cosponsor id="400247" joined="2015-01-22"/>
+    <cosponsor id="412552" joined="2015-01-22"/>
+    <cosponsor id="412302" joined="2015-02-11"/>
+    <cosponsor id="400313" joined="2015-01-22"/>
+    <cosponsor id="412431" joined="2015-01-22"/>
+    <cosponsor id="412572" joined="2015-02-02"/>
+    <cosponsor id="412650" joined="2015-01-22"/>
+    <cosponsor id="400367" joined="2015-01-22"/>
+    <cosponsor id="412574" joined="2015-01-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-22" state="REFERRED">
+      <text>Referred to the House Committee on Transportation.</text>
+    </action>
+    <action datetime="2015-01-23">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW12" subcommittee="Highways and Transit" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Department of Transportation"/>
+    <term name="Labor standards"/>
+    <term name="Motor carriers"/>
+    <term name="Oil and gas"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+  <summary>1/22/2015--Introduced.
+Preserving Jobs in the Oilfield Act of 2015
+
+ Directs the Secretary of Transportation to ensure that, with respect to maximum hours of service for drivers, on-duty time does not include waiting time at a natural gas or oil well site for operators of commercial motor vehicles transporting supplies, equipment, or materials, including sand or water, to or from a natural gas or oil well site.
+
+Applies this exclusion without regard to whether operators have received special training or operate vehicles specially constructed to service wells.</summary>
+</bill>

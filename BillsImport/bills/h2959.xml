@@ -1,0 +1,34 @@
+<bill session="114" type="h" number="2959" updated="2015-08-01T06:44:28-04:00">
+  <state datetime="2015-07-07">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-07"/>
+  </status>
+  <introduced datetime="2015-07-07"/>
+  <titles>
+    <title type="short" as="introduced">TANF Accountability and Integrity Improvement Act</title>
+    <title type="official" as="introduced">To prevent States from counting certain expenditures as State spending to reduce TANF work requirements.</title>
+  </titles>
+  <sponsor id="412475"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-07" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+  </subjects>
+  <amendments/>
+  <summary>7/7/2015--Introduced.
+TANF Accountability and Integrity Improvement Act
+
+This bill amends part A (Temporary Assistance for Needy Families) (TANF) of title IV of the Social Security Act to exclude third party contributions from qualified state expenditures used in determining whether a state maintains a certain level of historic state expenditures or else faces an associated penalty with a reduction in the state TANF grant.
+
+The formula for determining the amount of the exclusion graduates from:
+
+ the amount (if any) for FY2016 by which the value of all goods and services provided by a source other than the state or a local government during the fiscal year exceeds the value of all goods and services claimed by the state as qualified state expenditures for FY2015, and the amount (if any) for FY2017 by which such third party contributions exceed 50% of the value of all such goods and services claimed by the state as qualified state expenditures for FY2015, to the value of all such third party contributions during any fiscal year after FY2017. Qualified state expenditures shall not include any amount expended for medical services.</summary>
+</bill>

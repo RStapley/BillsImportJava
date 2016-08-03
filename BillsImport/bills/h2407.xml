@@ -1,0 +1,68 @@
+<bill session="114" type="h" number="2407" updated="2015-08-22T06:39:25-04:00">
+  <state datetime="2015-05-19">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-19"/>
+  </status>
+  <introduced datetime="2015-05-19"/>
+  <titles>
+    <title type="short" as="introduced">School Milk Nutrition Act of 2015</title>
+    <title type="official" as="introduced">To reverse declining milk consumption in schools.</title>
+  </titles>
+  <sponsor id="412317"/>
+  <cosponsors>
+    <cosponsor id="412469" joined="2015-06-17"/>
+    <cosponsor id="412541" joined="2015-07-08"/>
+    <cosponsor id="412563" joined="2015-07-08"/>
+    <cosponsor id="412193" joined="2015-05-19"/>
+    <cosponsor id="412403" joined="2015-07-23"/>
+    <cosponsor id="412661" joined="2015-06-10"/>
+    <cosponsor id="412454" joined="2015-05-21"/>
+    <cosponsor id="412444" joined="2015-07-15"/>
+    <cosponsor id="412465" joined="2015-06-10"/>
+    <cosponsor id="400218" joined="2015-05-21"/>
+    <cosponsor id="412468" joined="2015-06-24"/>
+    <cosponsor id="400320" joined="2015-06-10"/>
+    <cosponsor id="412585" joined="2015-05-21"/>
+    <cosponsor id="412489" joined="2015-05-21"/>
+    <cosponsor id="412311" joined="2015-07-08"/>
+    <cosponsor id="412515" joined="2015-06-17"/>
+    <cosponsor id="412239" joined="2015-05-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-19" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+    <action datetime="2015-06-02">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H3648"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Agriculture and food"/>
+    <term name="Child health"/>
+    <term name="Congressional oversight"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Food assistance and relief"/>
+    <term name="Government studies and investigations"/>
+    <term name="Nutrition and diet"/>
+    <term name="Women's health"/>
+  </subjects>
+  <amendments/>
+  <summary>5/19/2015--Introduced.
+School Milk Nutrition Act of 2015 
+
+This bill revises the requirements for milk provided by the National School Lunch Program (NSLP) and other Department of Agriculture (USDA) programs.
+
+The bill amends the Richard B. Russell National School Lunch Act to require the milk offered to students participating in the NSLP to include low-fat flavored milk containing no more than 150 calories per 8-ounce serving.
+
+For students who cannot consume fluid milk because of a medical or other dietary need, schools may offer a nondairy beverage that is nutritionally equivalent to low-fat milk and meets USDA nutritional standards, including fortification of calcium, protein, vitamin A, vitamin D, magnesium, phosphorus, potassium, riboflavin, and vitamin B-12. (Under current law, the substitute is only required to include fortification of calcium, protein, vitamin A, and vitamin D to levels found in cow's milk.)
+
+In establishing national school nutritional standards, USDA must provide that containers of all beverages sold in schools have the same maximum volume.
+
+USDA must also: (1) study and report to Congress on recent trends in fluid milk consumption in schools; (2) carry out a pilot program to test and demonstrate strategies by which schools can increase the consumption of fluid milk; (3) make lactose-free milk with an extended shelf life available to schools; and (4) allow women participating in the Special Supplemental Nutrition Program for Women, Infants, and Children (WIC) to receive reduced fat milk for themselves and their children upon request.</summary>
+</bill>

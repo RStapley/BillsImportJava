@@ -1,0 +1,60 @@
+<bill session="114" type="s" number="994" updated="2015-05-13T04:49:08-04:00">
+  <state datetime="2015-05-11">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2015-05-11"/>
+  </status>
+  <introduced datetime="2015-04-16"/>
+  <titles>
+    <title type="official" as="introduced">A bill to designate the facility of the United States Postal Service located at 1 Walter Hammond Place in Waldwick, New Jersey, as the "Staff Sergeant Joseph D'Augustine Post Office Building".</title>
+  </titles>
+  <sponsor id="412598"/>
+  <cosponsors>
+    <cosponsor id="400272" joined="2015-04-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-16" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <calendar datetime="2015-05-06" state="REPORTED">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="2015-05-06">
+      <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="2015-05-06" calendar="Senate Legislative" under="General Orders" number="70">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 70.</text>
+    </calendar>
+    <vote how="by Unanimous Consent" type="vote" datetime="2015-05-11" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S2763" label="consideration"/>
+      <reference ref="CR S2763" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2015-05-12">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2015-05-12T14:08:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2015-05-12">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup, Reporting"/>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="1524"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congressional tributes"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Military personnel and dependents"/>
+    <term name="New Jersey"/>
+    <term name="Postal service"/>
+  </subjects>
+  <amendments/>
+  <summary>4/16/2015--Introduced.
+Designates the facility of the United States Postal Service located at 1 Walter Hammond Place in Waldwick, New Jersey, as the "Staff Sergeant Joseph D'Augustine Post Office Building."</summary>
+</bill>

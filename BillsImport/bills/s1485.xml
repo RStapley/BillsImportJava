@@ -1,0 +1,26 @@
+<bill session="114" type="s" number="1485" updated="2015-06-06T06:56:01-04:00">
+  <state datetime="2015-06-02">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-02"/>
+  </status>
+  <introduced datetime="2015-06-02"/>
+  <titles>
+    <title type="short" as="introduced">Water Efficiency Innovation Act of 2015</title>
+    <title type="official" as="introduced">A bill to provide for the advancement of energy-water efficiency research, development, and deployment activities.</title>
+  </titles>
+  <sponsor id="400013"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-06-02" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+  </subjects>
+  <amendments/>
+</bill>

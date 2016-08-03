@@ -1,0 +1,30 @@
+<bill session="114" type="h" number="2956" updated="2015-08-01T04:51:10-04:00">
+  <state datetime="2015-07-07">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-07"/>
+  </status>
+  <introduced datetime="2015-07-07"/>
+  <titles>
+    <title type="short" as="introduced">Preventing Illegal Immigrants From Abusing Tax Welfare Act of 2015</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to limit the earned income tax credit to citizens and lawful permanent residents and to require a valid social security number to claim the refundable portion of the child tax credit.</title>
+  </titles>
+  <sponsor id="412661"/>
+  <cosponsors>
+    <cosponsor id="400279" joined="2015-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-07" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="192"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+</bill>

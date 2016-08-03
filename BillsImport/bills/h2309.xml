@@ -1,0 +1,95 @@
+<bill session="114" type="h" number="2309" updated="2015-07-21T04:47:54-04:00">
+  <state datetime="2015-05-13">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-13"/>
+  </status>
+  <introduced datetime="2015-05-13"/>
+  <titles>
+    <title type="short" as="introduced">Freedom from Discrimination in Credit Act of 2015</title>
+    <title type="official" as="introduced">To amend the Equal Credit Opportunity Act to prohibit discrimination on account of sexual orientation or gender identity when extending credit.</title>
+  </titles>
+  <sponsor id="400195"/>
+  <cosponsors>
+    <cosponsor id="412607" joined="2015-05-13"/>
+    <cosponsor id="400033" joined="2015-05-13"/>
+    <cosponsor id="412516" joined="2015-05-29"/>
+    <cosponsor id="400063" joined="2015-06-25"/>
+    <cosponsor id="412517" joined="2015-05-13"/>
+    <cosponsor id="412258" joined="2015-05-18"/>
+    <cosponsor id="412379" joined="2015-05-13"/>
+    <cosponsor id="412470" joined="2015-05-13"/>
+    <cosponsor id="412221" joined="2015-05-13"/>
+    <cosponsor id="412271" joined="2015-06-10"/>
+    <cosponsor id="412272" joined="2015-05-13"/>
+    <cosponsor id="400087" joined="2015-05-13"/>
+    <cosponsor id="400097" joined="2015-05-13"/>
+    <cosponsor id="412544" joined="2015-05-13"/>
+    <cosponsor id="412505" joined="2015-05-13"/>
+    <cosponsor id="412215" joined="2015-05-13"/>
+    <cosponsor id="400124" joined="2015-06-17"/>
+    <cosponsor id="400129" joined="2015-05-13"/>
+    <cosponsor id="400130" joined="2015-05-13"/>
+    <cosponsor id="400162" joined="2015-05-13"/>
+    <cosponsor id="412498" joined="2015-05-13"/>
+    <cosponsor id="412282" joined="2015-05-13"/>
+    <cosponsor id="400179" joined="2015-06-25"/>
+    <cosponsor id="412561" joined="2015-07-20"/>
+    <cosponsor id="412199" joined="2015-05-18"/>
+    <cosponsor id="412546" joined="2015-07-20"/>
+    <cosponsor id="400230" joined="2015-05-13"/>
+    <cosponsor id="400237" joined="2015-05-13"/>
+    <cosponsor id="412616" joined="2015-05-13"/>
+    <cosponsor id="412521" joined="2015-05-13"/>
+    <cosponsor id="400246" joined="2015-06-09"/>
+    <cosponsor id="400251" joined="2015-05-13"/>
+    <cosponsor id="412562" joined="2015-05-13"/>
+    <cosponsor id="400262" joined="2015-05-13"/>
+    <cosponsor id="400263" joined="2015-06-01"/>
+    <cosponsor id="412527" joined="2015-06-17"/>
+    <cosponsor id="400289" joined="2015-05-13"/>
+    <cosponsor id="400295" joined="2015-05-13"/>
+    <cosponsor id="400309" joined="2015-06-09"/>
+    <cosponsor id="412523" joined="2015-05-13"/>
+    <cosponsor id="412307" joined="2015-05-13"/>
+    <cosponsor id="412585" joined="2015-05-13"/>
+    <cosponsor id="412308" joined="2015-05-13"/>
+    <cosponsor id="412331" joined="2015-06-02"/>
+    <cosponsor id="400333" joined="2015-05-13"/>
+    <cosponsor id="400347" joined="2015-05-13"/>
+    <cosponsor id="400360" joined="2015-05-13"/>
+    <cosponsor id="400371" joined="2015-05-13"/>
+    <cosponsor id="412259" joined="2015-05-13"/>
+    <cosponsor id="412514" joined="2015-05-13"/>
+    <cosponsor id="412520" joined="2015-06-04"/>
+    <cosponsor id="412254" joined="2015-05-13"/>
+    <cosponsor id="400415" joined="2015-05-29"/>
+    <cosponsor id="400623" joined="2015-05-13"/>
+    <cosponsor id="412644" joined="2015-05-13"/>
+    <cosponsor id="412412" joined="2015-05-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-13" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1330"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Consumer credit"/>
+    <term name="Sex, gender, sexual orientation discrimination"/>
+  </subjects>
+  <amendments/>
+  <summary>5/13/2015--Introduced.
+Freedom from Discrimination in Credit Act of 2015
+
+Amends the Equal Credit Opportunity Act to expand the categories of prohibited discrimination when extending credit to include discrimination on account of sexual orientation or gender identity. (Currently, such discrimination in credit is prohibited only on the basis of race, color, religion, national origin, sex or marital status, or age.)
+
+Provides for such Act to apply whether the basis for certain prohibited forms of discrimination is actual or perceived.
+
+Defines: (1) "gender identity" as the gender-related identity, appearance, or mannerisms or other gender-related characteristics of an individual with or without regard to the individual's designated sex at birth; and (2) "sexual orientation" as homosexuality, heterosexuality, or bisexuality.</summary>
+</bill>

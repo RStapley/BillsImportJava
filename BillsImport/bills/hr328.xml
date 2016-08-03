@@ -1,0 +1,41 @@
+<bill session="114" type="hr" number="328" updated="2015-07-04T06:18:21-04:00">
+  <state datetime="2015-06-18">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-18"/>
+  </status>
+  <introduced datetime="2015-06-18"/>
+  <titles>
+    <title type="official" as="introduced">Commemorating the inaugural "International Yoga Day" on June 21.</title>
+  </titles>
+  <sponsor id="412532"/>
+  <cosponsors>
+    <cosponsor id="400087" joined="2015-06-18"/>
+    <cosponsor id="400646" joined="2015-06-18"/>
+    <cosponsor id="400195" joined="2015-06-18"/>
+    <cosponsor id="400232" joined="2015-06-18"/>
+    <cosponsor id="400240" joined="2015-06-18"/>
+    <cosponsor id="400262" joined="2015-06-18"/>
+    <cosponsor id="412560" joined="2015-06-19"/>
+    <cosponsor id="400352" joined="2015-06-18"/>
+    <cosponsor id="400379" joined="2015-06-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-18">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H4497"/>
+    </action>
+    <action datetime="2015-06-18" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <summary>6/18/2015--Introduced.
+Commemorates the inaugural International Yoga Day.
+
+ Expresses support for the ideals of International Yoga Day and encourages all individuals to participate.</summary>
+</bill>

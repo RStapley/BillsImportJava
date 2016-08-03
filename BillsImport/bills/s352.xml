@@ -1,0 +1,70 @@
+<bill session="114" type="s" number="352" updated="2015-06-24T04:49:47-04:00">
+  <state datetime="2015-02-03">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-03"/>
+  </status>
+  <introduced datetime="2015-02-03"/>
+  <titles>
+    <title type="short" as="introduced">EACH Act</title>
+    <title type="short" as="introduced">Equitable Access to Care and Health Act</title>
+    <title type="official" as="introduced">A bill to amend section 5000A of the Internal Revenue Code of 1986 to provide an additional religious exemption from the individual health coverage mandate, and for other purposes.</title>
+  </titles>
+  <sponsor id="412493"/>
+  <cosponsors>
+    <cosponsor id="300002" joined="2015-02-09"/>
+    <cosponsor id="400013" joined="2015-02-03"/>
+    <cosponsor id="412330" joined="2015-02-03"/>
+    <cosponsor id="400034" joined="2015-02-03"/>
+    <cosponsor id="400040" joined="2015-05-06"/>
+    <cosponsor id="400050" joined="2015-02-03"/>
+    <cosponsor id="400061" joined="2015-02-03"/>
+    <cosponsor id="300019" joined="2015-06-15"/>
+    <cosponsor id="300025" joined="2015-02-03"/>
+    <cosponsor id="412390" joined="2015-02-03"/>
+    <cosponsor id="412508" joined="2015-03-02"/>
+    <cosponsor id="300038" joined="2015-02-03"/>
+    <cosponsor id="412406" joined="2015-06-04"/>
+    <cosponsor id="300052" joined="2015-03-09"/>
+    <cosponsor id="412200" joined="2015-02-03"/>
+    <cosponsor id="400194" joined="2015-03-04"/>
+    <cosponsor id="412582" joined="2015-02-03"/>
+    <cosponsor id="412545" joined="2015-05-18"/>
+    <cosponsor id="400222" joined="2015-02-03"/>
+    <cosponsor id="412464" joined="2015-03-10"/>
+    <cosponsor id="400284" joined="2015-02-03"/>
+    <cosponsor id="412305" joined="2015-05-21"/>
+    <cosponsor id="400325" joined="2015-02-03"/>
+    <cosponsor id="412322" joined="2015-02-03"/>
+    <cosponsor id="300083" joined="2015-02-03"/>
+    <cosponsor id="412507" joined="2015-02-03"/>
+    <cosponsor id="300088" joined="2015-03-12"/>
+    <cosponsor id="412323" joined="2015-06-10"/>
+    <cosponsor id="400413" joined="2015-06-23"/>
+    <cosponsor id="412321" joined="2015-03-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-03" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="631"/>
+    <bill relation="identical" session="114" type="h" number="2061"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Comprehensive health care"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Religion"/>
+    <term name="Sales and excise taxes"/>
+  </subjects>
+  <amendments/>
+  <summary>2/3/2015--Introduced.
+Equitable Access to Care and Health Act or the EACH Act
+
+This bill amends the Internal Revenue Code to expand the religious conscience exemption under the Patient Protection and Affordable Care Act to exempt individuals who rely solely on a religious method of healing and for whom the acceptance of medical health services would be inconsistent with their religious beliefs from the requirement to purchase and maintain minimum essential health care coverage.</summary>
+</bill>

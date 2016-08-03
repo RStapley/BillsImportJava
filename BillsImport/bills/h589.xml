@@ -1,0 +1,50 @@
+<bill session="114" type="h" number="589" updated="2015-02-28T04:50:03-05:00">
+  <state datetime="2015-01-28">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-28"/>
+  </status>
+  <introduced datetime="2015-01-28"/>
+  <titles>
+    <title type="short" as="introduced">Senior Citizens Tax Elimination Act</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to repeal the inclusion in gross income of Social Security benefits.</title>
+  </titles>
+  <sponsor id="412503"/>
+  <cosponsors>
+    <cosponsor id="412627" joined="2015-01-28"/>
+    <cosponsor id="412567" joined="2015-01-28"/>
+    <cosponsor id="412526" joined="2015-01-28"/>
+    <cosponsor id="400141" joined="2015-01-28"/>
+    <cosponsor id="400651" joined="2015-01-28"/>
+    <cosponsor id="412603" joined="2015-01-28"/>
+    <cosponsor id="412662" joined="2015-01-28"/>
+    <cosponsor id="400441" joined="2015-02-27"/>
+    <cosponsor id="400606" joined="2015-02-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-28" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Appropriations"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Government trust funds"/>
+    <term name="Income tax exclusion"/>
+    <term name="Income tax rates"/>
+    <term name="Railroads"/>
+    <term name="Social security and elderly assistance"/>
+    <term name="Transportation employees"/>
+  </subjects>
+  <amendments/>
+  <summary>1/28/2015--Introduced.
+Senior Citizens Tax Elimination Act 
+
+Amends the Internal Revenue Code to repeal the inclusion of any social security or tier I railroad retirement benefits in gross income for income tax purposes.
+
+Appropriates funds to cover reductions in transfers to the Social Security and Railroad Retirement Trust Funds resulting from the enactment of this Act. Expresses the sense of Congress against using tax increases to provide revenue necessary to carry out this Act.</summary>
+</bill>

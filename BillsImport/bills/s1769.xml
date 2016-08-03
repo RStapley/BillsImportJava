@@ -1,0 +1,31 @@
+<bill session="114" type="s" number="1769" updated="2015-07-25T07:04:01-04:00">
+  <state datetime="2015-07-15">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-15"/>
+  </status>
+  <introduced datetime="2015-07-15"/>
+  <titles>
+    <title type="short" as="introduced">African Elephant Conservation and Legal Ivory Possession Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend the African Elephant Conservation Act to conserve elephants while appropriately regulating ivory in the United States.</title>
+  </titles>
+  <sponsor id="412549"/>
+  <cosponsors>
+    <cosponsor id="300002" joined="2015-07-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-15" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="697"/>
+    <bill relation="unknown" session="114" type="h" number="2406"/>
+  </relatedbills>
+  <subjects>
+    <term name="Animals"/>
+  </subjects>
+  <amendments/>
+</bill>

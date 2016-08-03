@@ -1,0 +1,90 @@
+<bill session="114" type="h" number="2096" updated="2015-07-30T04:49:12-04:00">
+  <state datetime="2015-04-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-29"/>
+  </status>
+  <introduced datetime="2015-04-29"/>
+  <titles>
+    <title type="short" as="introduced">Promotion and Expansion of Private Employee Ownership Act of 2015</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 and the Small Business Act to expand the availability of employee stock ownership plans in S corporations, and for other purposes.</title>
+  </titles>
+  <sponsor id="400660"/>
+  <cosponsors>
+    <cosponsor id="412630" joined="2015-06-15"/>
+    <cosponsor id="412642" joined="2015-05-05"/>
+    <cosponsor id="412627" joined="2015-06-25"/>
+    <cosponsor id="400033" joined="2015-04-29"/>
+    <cosponsor id="400636" joined="2015-04-29"/>
+    <cosponsor id="400080" joined="2015-05-21"/>
+    <cosponsor id="412651" joined="2015-07-29"/>
+    <cosponsor id="412555" joined="2015-06-02"/>
+    <cosponsor id="412536" joined="2015-05-21"/>
+    <cosponsor id="412420" joined="2015-05-05"/>
+    <cosponsor id="400154" joined="2015-05-21"/>
+    <cosponsor id="412661" joined="2015-06-19"/>
+    <cosponsor id="412437" joined="2015-07-27"/>
+    <cosponsor id="412422" joined="2015-07-14"/>
+    <cosponsor id="412284" joined="2015-07-09"/>
+    <cosponsor id="400218" joined="2015-04-29"/>
+    <cosponsor id="400656" joined="2015-05-21"/>
+    <cosponsor id="400659" joined="2015-07-16"/>
+    <cosponsor id="412466" joined="2015-07-16"/>
+    <cosponsor id="400661" joined="2015-05-05"/>
+    <cosponsor id="400291" joined="2015-04-29"/>
+    <cosponsor id="412475" joined="2015-06-17"/>
+    <cosponsor id="400309" joined="2015-04-29"/>
+    <cosponsor id="412303" joined="2015-04-29"/>
+    <cosponsor id="400316" joined="2015-07-28"/>
+    <cosponsor id="412462" joined="2015-07-23"/>
+    <cosponsor id="412202" joined="2015-06-15"/>
+    <cosponsor id="400376" joined="2015-07-14"/>
+    <cosponsor id="412596" joined="2015-05-21"/>
+    <cosponsor id="412317" joined="2015-07-28"/>
+    <cosponsor id="400406" joined="2015-04-29"/>
+    <cosponsor id="412214" joined="2015-07-07"/>
+    <cosponsor id="412430" joined="2015-06-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-29" state="REFERRED">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committees on Education and the Workforce, and Small Business, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-04-29">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-04-29">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+    <action datetime="2015-04-29">
+      <text>Referred to House Small Business</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee code="HSSM" name="House Small Business" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1212"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Capital gains tax"/>
+    <term name="Department of the Treasury"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Income tax deductions"/>
+    <term name="Income tax deferral"/>
+    <term name="Interest, dividends, interest rates"/>
+    <term name="Securities"/>
+    <term name="Small business"/>
+  </subjects>
+  <amendments/>
+  <summary>4/29/2015--Introduced.
+Promotion and Expansion of Private Employee Ownership Act of 2015
+
+Amends the Internal Revenue Code to: (1) extend to all domestic corporations, including S corporations, provisions allowing deferral of tax on gain from the sale of employer securities to an S corporation-sponsored employer stock ownership plan (ESOP); and (2) allow a tax deduction for 50% of the interest incurred on loans to S corporation-sponsored ESOPs for the purchase of employer securities.
+
+Directs the Department of the Treasury to establish the S Corporation Employee Ownership Assistance Office to foster increased employee ownership of S corporations.
+
+Amends the Small Business Act to define "ESOP business concern" and allow such a concern to continue to qualify for loans, preferences, and other programs under such Act.</summary>
+</bill>

@@ -1,0 +1,43 @@
+<bill session="114" type="h" number="3225" updated="2015-08-22T04:47:16-04:00">
+  <state datetime="2015-07-27">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-27"/>
+  </status>
+  <introduced datetime="2015-07-27"/>
+  <titles>
+    <title type="short" as="introduced">Save Rural Hospitals Act</title>
+    <title type="official" as="introduced">To amend titles XVIII and XIX of the Social Security Act to provide for enhanced payments to rural health care providers under the Medicare and Medicaid programs, and for other purposes.</title>
+  </titles>
+  <sponsor id="400158"/>
+  <cosponsors>
+    <cosponsor id="412209" joined="2015-07-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-27" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-07-27">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-07-27">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-07-27">
+      <text>Referred to House Budget</text>
+    </action>
+    <action datetime="2015-07-31">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee code="HSBU" name="House Budget" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+</bill>

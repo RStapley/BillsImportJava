@@ -1,0 +1,90 @@
+<bill session="114" type="h" number="1759" updated="2015-08-01T06:34:11-04:00">
+  <state datetime="2015-04-15">REPORTED</state>
+  <status>
+    <unknown datetime="2015-04-15"/>
+  </status>
+  <introduced datetime="2015-04-13"/>
+  <titles>
+    <title type="short" as="introduced">ALERT Act of 2015</title>
+    <title type="short" as="introduced">All Economic Regulations are Transparent Act of 2015</title>
+    <title type="short" as="reported to house">ALERT Act of 2015</title>
+    <title type="short" as="reported to house">All Economic Regulations are Transparent Act of 2015</title>
+    <title type="official" as="introduced">To amend title 5, united States Code, to provide for the publication, by the Office of Information and Regulatory Affairs, of information relating to rulemakings, and for other purposes.</title>
+  </titles>
+  <sponsor id="412653"/>
+  <cosponsors>
+    <cosponsor id="412541" joined="2015-04-29"/>
+    <cosponsor id="412619" joined="2015-04-15"/>
+    <cosponsor id="400071" joined="2015-04-13"/>
+    <cosponsor id="412531" joined="2015-04-13"/>
+    <cosponsor id="400137" joined="2015-04-13"/>
+    <cosponsor id="400141" joined="2015-04-13"/>
+    <cosponsor id="412553" joined="2015-04-13"/>
+    <cosponsor id="412468" joined="2015-04-13"/>
+    <cosponsor id="412302" joined="2015-04-29"/>
+    <cosponsor id="412640" joined="2015-04-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-13" state="REFERRED">
+      <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-04-13">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2015-04-13">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2015-04-13">
+      <text>Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.</text>
+    </action>
+    <action datetime="2015-04-14">
+      <text>Subcommittee on Regulatory Reform, Commercial And Antitrust Law Discharged.</text>
+    </action>
+    <action datetime="2015-04-15">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-04-15" state="REPORTED">
+      <text>Ordered to be Reported by the Yeas and Nays: 14 - 9.</text>
+    </calendar>
+    <action datetime="2015-05-19">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-05-19">
+      <text>Ordered to be Reported by the Yeas and Nays: 20 - 17.</text>
+    </calendar>
+    <action datetime="2015-07-29T18:55:00-04:00">
+      <text>Reported by the Committee on Oversight and Government Reform. H. Rept. 114-238, Part I.</text>
+    </action>
+    <action datetime="2015-07-29T18:56:00-04:00">
+      <text>Reported by the Committee on Judiciary. H. Rept. 114-238, Part II.</text>
+    </action>
+    <calendar datetime="2015-07-29T18:56:00-04:00" calendar="Union" number="180">
+      <text>Placed on the Union Calendar, Calendar No. 180.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSJU05" subcommittee="Regulatory Reform, Commercial And Antitrust Law" name="House Judiciary"/>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Administrative law and regulatory procedures"/>
+  </subjects>
+  <amendments/>
+  <summary>4/13/2015--Introduced.
+All Economic Regulations are Transparent Act of 2015 or the ALERT Act of 2015
+
+Requires the head of each federal agency to submit a monthly report to the Administrator of the Office of Information and Regulatory Affairs of the Office of Management and Budget (OMB) for each rule such agency expects to propose or finalize during the following year. Sets forth the required content of such reports, including: (1) a summary of the nature of the rule, (2) the objectives of and legal basis for issuance of the rule, (3) the stage of the rulemaking as of the date of submission, and (4) whether the rule is subject to periodic review as a rule with a significant economic impact.
+
+Requires each agency head to submit a monthly report for any rule expected to be finalized during the following year for which the agency has issued a general notice of proposed rulemaking. Requires such reports to include an approximate schedule for completing action on the rule and an estimate of its cost and economic effects.
+
+Requires the Administrator to make such monthly reports publicly available on the Internet.
+
+Requires the Administrator to publish, not later than October 1 of each year, in the Federal Register: (1) information that the Administrator receives from each agency under this Act; (2) the number of rules and a list of each such rule that was proposed by each agency and each rule that was finalized by each agency; (3) the number of agency actions that repealed a rule, reduced the scope or cost of a rule, or accelerated the expiration date of a rule; (4) the total cost of all rules proposed or finalized; and (5) the number of rules for which an estimate of the cost of the rule was not available.
+
+Requires the Administrator to make publicly available on the Internet, not later than October 1 of each year: (1) the analysis of the costs or benefits of each proposed or final rule issued by an agency for the preceding year, (2) the docket number and regulation identifier number for each such rule, (3) the number of rules reviewed by OMB for the preceding year, (4) the number of rules for which a review by the head of an agency was completed, (5) the number of rules submitted to the Comptroller General, and (6) the number of rules for which a resolution of disapproval was introduced in Congress.
+
+Prohibits a rule from taking effect until the information required by this Act is posted on the Internet for not less than six months, unless the agency proposing the rule seeks an exemption under the Freedom of Information Act or the President determines by executive order that such rule is necessary because of an imminent threat to health or safety or other emergency, for the enforcement of criminal laws, for national security, or to implement an international trade agreement. Makes such requirement effective eight months after enactment of this Act.</summary>
+</bill>

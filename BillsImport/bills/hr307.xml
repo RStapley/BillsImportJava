@@ -1,0 +1,49 @@
+<bill session="114" type="hr" number="307" updated="2015-06-17T04:49:02-04:00">
+  <state datetime="2015-06-10">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-10"/>
+  </status>
+  <introduced datetime="2015-06-10"/>
+  <titles>
+    <title type="official" as="introduced">Condemning the Republic of the Sudan for its actions to pardon Mubarak Mustafa, who was responsible for the escape of two men convicted of the assassination of John Granville on January 1, 2008, and calling on the United States Department of State to continue to include Sudan on the list of state sponsors of terrorism.</title>
+  </titles>
+  <sponsor id="400641"/>
+  <cosponsors>
+    <cosponsor id="412470" joined="2015-06-10"/>
+    <cosponsor id="412604" joined="2015-06-10"/>
+    <cosponsor id="412563" joined="2015-06-10"/>
+    <cosponsor id="412513" joined="2015-06-10"/>
+    <cosponsor id="412477" joined="2015-06-10"/>
+    <cosponsor id="412385" joined="2015-06-10"/>
+    <cosponsor id="400122" joined="2015-06-10"/>
+    <cosponsor id="400195" joined="2015-06-10"/>
+    <cosponsor id="400219" joined="2015-06-10"/>
+    <cosponsor id="400263" joined="2015-06-10"/>
+    <cosponsor id="412560" joined="2015-06-10"/>
+    <cosponsor id="400333" joined="2015-06-16"/>
+    <cosponsor id="412186" joined="2015-06-10"/>
+    <cosponsor id="400378" joined="2015-06-10"/>
+    <cosponsor id="412574" joined="2015-06-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-10">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H4016"/>
+    </action>
+    <action datetime="2015-06-10" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+  </subjects>
+  <amendments/>
+  <summary>6/10/2015--Introduced.
+Condemns the Republic of the Sudan's pardon of Mubarak Mustafa for his role in allowing the men convicted of John Granville's assassination to escape imprisonment.
+
+ Calls on the Department of State to continue to list Sudan on the state sponsors of terrorism list until such time as the men convicted of John Granville's assassination are apprehended and the pardon of Mubarak Mustafa is repealed.</summary>
+</bill>

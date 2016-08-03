@@ -1,0 +1,38 @@
+<bill session="114" type="s" number="1709" updated="2015-08-05T04:47:57-04:00">
+  <state datetime="2015-07-07">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-07"/>
+  </status>
+  <introduced datetime="2015-07-07"/>
+  <titles>
+    <title type="short" as="introduced">21st Century Glass-Steagall Act of 2015</title>
+    <title type="official" as="introduced">A bill to reduce risks to the financial system by limiting banks' ability to engage in certain risky activities and limiting conflicts of interest, to reinstate certain Glass-Steagall Act protections that were repealed by the Gramm-Leach-Bliley Act, and for other purposes.</title>
+  </titles>
+  <sponsor id="412542"/>
+  <cosponsors>
+    <cosponsor id="400013" joined="2015-08-04"/>
+    <cosponsor id="300018" joined="2015-07-07"/>
+    <cosponsor id="412545" joined="2015-07-07"/>
+    <cosponsor id="300071" joined="2015-07-07"/>
+    <cosponsor id="400357" joined="2015-07-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-07">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S4689"/>
+    </action>
+    <action datetime="2015-07-07" state="REFERRED">
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="3054"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+  </subjects>
+  <amendments/>
+</bill>

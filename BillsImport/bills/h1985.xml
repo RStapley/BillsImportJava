@@ -1,0 +1,44 @@
+<bill session="114" type="h" number="1985" updated="2015-06-13T06:35:01-04:00">
+  <state datetime="2015-04-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-23"/>
+  </status>
+  <introduced datetime="2015-04-23"/>
+  <titles>
+    <title type="short" as="introduced">Pacific Northwest Gray Wolf Management Act of 2015</title>
+    <title type="official" as="introduced">To prohibit treatment of gray wolves in Washington, Oregon, and Utah as endangered species, and for other purposes.</title>
+  </titles>
+  <sponsor id="412660"/>
+  <cosponsors>
+    <cosponsor id="400659" joined="2015-04-29"/>
+    <cosponsor id="412581" joined="2015-04-23"/>
+    <cosponsor id="400419" joined="2015-04-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-23">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E581"/>
+    </action>
+    <action datetime="2015-04-23" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="843"/>
+  </relatedbills>
+  <subjects>
+    <term name="Animals"/>
+    <term name="Endangered and threatened species"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Mammals"/>
+    <term name="Oregon"/>
+    <term name="State and local government operations"/>
+    <term name="Utah"/>
+    <term name="Washington State"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+</bill>

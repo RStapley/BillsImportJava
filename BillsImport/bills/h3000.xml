@@ -1,0 +1,31 @@
+<bill session="114" type="h" number="3000" updated="2015-07-21T04:48:05-04:00">
+  <state datetime="2015-07-09">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-09"/>
+  </status>
+  <introduced datetime="2015-07-09"/>
+  <titles>
+    <title type="short" as="introduced">A Necessary and Targeted Impediment to Viruses Act</title>
+    <title type="short" as="introduced">ANTI Viruses Act</title>
+    <title type="official" as="introduced">To require the Administrator for General Services to obtain an antivirus product to make available to Federal agencies in order to provide the product to individuals whose personally identifiable information may have been compromised.</title>
+  </titles>
+  <sponsor id="412571"/>
+  <cosponsors>
+    <cosponsor id="400090" joined="2015-07-09"/>
+    <cosponsor id="412454" joined="2015-07-09"/>
+    <cosponsor id="400295" joined="2015-07-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-09" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+  </subjects>
+  <amendments/>
+</bill>

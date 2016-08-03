@@ -1,0 +1,63 @@
+<bill session="114" type="hr" number="209" updated="2015-08-22T06:17:27-04:00">
+  <state datetime="2015-04-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-16"/>
+  </status>
+  <introduced datetime="2015-04-16"/>
+  <titles>
+    <title type="official" as="introduced">Deploring the actions of the Palestinian Authority to join the International Criminal Court and undertake legal action through the Court against Israel.</title>
+  </titles>
+  <sponsor id="412538"/>
+  <cosponsors>
+    <cosponsor id="412625" joined="2015-06-04"/>
+    <cosponsor id="412655" joined="2015-05-15"/>
+    <cosponsor id="412539" joined="2015-06-03"/>
+    <cosponsor id="400048" joined="2015-05-20"/>
+    <cosponsor id="412571" joined="2015-06-15"/>
+    <cosponsor id="412513" joined="2015-05-18"/>
+    <cosponsor id="412526" joined="2015-06-09"/>
+    <cosponsor id="400651" joined="2015-06-23"/>
+    <cosponsor id="400175" joined="2015-05-12"/>
+    <cosponsor id="400224" joined="2015-06-15"/>
+    <cosponsor id="412191" joined="2015-05-18"/>
+    <cosponsor id="412468" joined="2015-06-04"/>
+    <cosponsor id="412611" joined="2015-05-15"/>
+    <cosponsor id="412540" joined="2015-06-03"/>
+    <cosponsor id="400279" joined="2015-05-13"/>
+    <cosponsor id="412302" joined="2015-07-15"/>
+    <cosponsor id="412569" joined="2015-05-20"/>
+    <cosponsor id="412551" joined="2015-06-23"/>
+    <cosponsor id="400626" joined="2015-05-18"/>
+    <cosponsor id="412310" joined="2015-05-18"/>
+    <cosponsor id="400606" joined="2015-05-01"/>
+    <cosponsor id="412399" joined="2015-04-28"/>
+    <cosponsor id="412417" joined="2015-05-20"/>
+    <cosponsor id="400371" joined="2015-07-07"/>
+    <cosponsor id="412581" joined="2015-06-04"/>
+    <cosponsor id="412461" joined="2015-06-24"/>
+    <cosponsor id="412579" joined="2015-04-16"/>
+    <cosponsor id="412574" joined="2015-06-24"/>
+    <cosponsor id="412610" joined="2015-05-20"/>
+    <cosponsor id="412402" joined="2015-07-07"/>
+    <cosponsor id="412646" joined="2015-06-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-16" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Alliances"/>
+    <term name="International law and treaties"/>
+    <term name="Military operations and strategy"/>
+    <term name="Sovereignty, recognition, national governance and status"/>
+  </subjects>
+  <amendments/>
+  <summary>4/16/2015--Introduced.
+Views lawfare (the abuse of law to achieve political and military means) as a threat to U.S. military activities abroad and to those of U.S. democratic allies, and believes it is vital to take a stand against its use in order to protect the Nation's best interests.</summary>
+</bill>

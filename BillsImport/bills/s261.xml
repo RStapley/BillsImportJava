@@ -1,0 +1,75 @@
+<bill session="114" type="s" number="261" updated="2015-07-29T04:49:55-04:00">
+  <state datetime="2015-05-21">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2015-05-21"/>
+  </status>
+  <introduced datetime="2015-01-27"/>
+  <titles>
+    <title type="official" as="introduced">A bill to designate the United States courthouse located at 200 NW 4th Street in Oklahoma City, Oklahoma, as the William J. Holloway, Jr. United States Courthouse.</title>
+  </titles>
+  <sponsor id="300055"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-01-27">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S544"/>
+    </action>
+    <action datetime="2015-01-27" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+      <reference ref="CR S544" label="text of measure as introduced"/>
+    </action>
+    <calendar datetime="2015-04-29" state="REPORTED">
+      <text>Committee on Environment and Public Works. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="2015-05-04">
+      <text>Committee on Environment and Public Works. Reported by Senator Inhofe without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="2015-05-04" calendar="Senate Legislative" under="General Orders" number="64">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 64.</text>
+    </calendar>
+    <vote how="by Unanimous Consent" type="vote" datetime="2015-05-21" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S3249" label="consideration"/>
+      <reference ref="CR S3249" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2015-05-22">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2015-05-22T14:32:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2015-05-22">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2015-05-26">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+    </action>
+    <action datetime="2015-07-23">
+      <text>Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.</text>
+    </action>
+    <action datetime="2015-07-23">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-07-23">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Markup, Reporting"/>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup"/>
+    <committee activity="Referral, Discharged" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congressional tributes"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Judges"/>
+    <term name="Oklahoma"/>
+  </subjects>
+  <amendments/>
+  <summary>5/21/2015--Passed Senate without amendment.
+(This measure has not been amended since it was introduced. The summary of that version is repeated here.)
+
+Designates the U.S. courthouse located at 200 NW 4th Street in Oklahoma City, Oklahoma, as the "William J. Holloway, Jr. United States Courthouse."</summary>
+</bill>

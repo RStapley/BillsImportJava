@@ -1,0 +1,52 @@
+<bill session="114" type="h" number="1947" updated="2015-07-22T04:59:16-04:00">
+  <state datetime="2015-04-22">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-22"/>
+  </status>
+  <introduced datetime="2015-04-22"/>
+  <titles>
+    <title type="short" as="introduced">STRONGER Act of 2015</title>
+    <title type="short" as="introduced">Supplemental Trade Review, Oversight, Noncompliance and General Enforcement Resources Act of 2015</title>
+    <title type="official" as="introduced">To establish the Trade Agreements Enforcement Trust Fund to take actions to enforce free trade agreements to which the United States is a party, and for other purposes.</title>
+  </titles>
+  <sponsor id="400033"/>
+  <cosponsors>
+    <cosponsor id="412282" joined="2015-07-21"/>
+    <cosponsor id="400218" joined="2015-04-22"/>
+    <cosponsor id="400232" joined="2015-06-08"/>
+    <cosponsor id="400233" joined="2015-04-22"/>
+    <cosponsor id="400262" joined="2015-04-22"/>
+    <cosponsor id="400291" joined="2015-04-22"/>
+    <cosponsor id="400355" joined="2015-04-22"/>
+    <cosponsor id="400403" joined="2015-04-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-22">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E552"/>
+    </action>
+    <action datetime="2015-04-22" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Competitiveness, trade promotion, trade deficits"/>
+    <term name="Employment discrimination and employee rights"/>
+    <term name="Environmental assessment, monitoring, research"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Free trade and trade barriers"/>
+    <term name="Government studies and investigations"/>
+    <term name="Government trust funds"/>
+    <term name="Human rights"/>
+    <term name="Labor standards"/>
+    <term name="Performance measurement"/>
+    <term name="Tariffs"/>
+    <term name="Trade agreements and negotiations"/>
+  </subjects>
+  <amendments/>
+</bill>

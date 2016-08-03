@@ -1,0 +1,52 @@
+<bill session="114" type="h" number="2340" updated="2015-08-01T06:39:05-04:00">
+  <state datetime="2015-05-14">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-14"/>
+  </status>
+  <introduced datetime="2015-05-14"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Controlled Substances Import and Export Act to remove regulatory barriers to the re-exportation of controlled substances among members of the European Economic Area.</title>
+  </titles>
+  <sponsor id="400320"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-05-14" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-05-14">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-05-14">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2015-05-15">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2015-06-26">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="6"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Department of Justice"/>
+    <term name="Drug trafficking and controlled substances"/>
+    <term name="Europe"/>
+    <term name="European Union"/>
+    <term name="Trade restrictions"/>
+  </subjects>
+  <amendments/>
+  <summary>5/14/2015--Introduced.
+Amends the Controlled Substances Import and Export Act to allow exported controlled substances to be re-exported within the European Economic Area.
+
+Prohibits the Attorney General from promulgating or enforcing any regulation, subregulatory guidance, or enforcement policy that impedes such re-exportation among European Economic Area countries.</summary>
+</bill>

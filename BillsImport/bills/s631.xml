@@ -1,0 +1,38 @@
+<bill session="114" type="s" number="631" updated="2015-03-28T06:38:42-04:00">
+  <state datetime="2015-03-03">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-03"/>
+  </status>
+  <introduced datetime="2015-03-03"/>
+  <titles>
+    <title type="official" as="introduced">A bill to exempt National Forest System land in the State of Alaska from the Roadless Area Conservation Rule.</title>
+  </titles>
+  <sponsor id="300075"/>
+  <cosponsors>
+    <cosponsor id="412665" joined="2015-03-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-03">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S1252-1253"/>
+    </action>
+    <action datetime="2015-03-03" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Alaska"/>
+    <term name="Department of Agriculture"/>
+    <term name="Forests, forestry, trees"/>
+    <term name="Roads and highways"/>
+  </subjects>
+  <amendments/>
+  <summary>3/3/2015--Introduced.
+Makes the Roadless Area Conservation Rule (or successor regulations) inapplicable with respect to National Forest System land in the state of Alaska.</summary>
+</bill>

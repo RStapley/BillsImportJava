@@ -1,0 +1,61 @@
+<bill session="114" type="h" number="1549" updated="2015-07-30T04:48:44-04:00">
+  <state datetime="2015-03-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-23"/>
+  </status>
+  <introduced datetime="2015-03-23"/>
+  <titles>
+    <title type="short" as="introduced">Motorsports Fairness and Permanency Act</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to make permanent the 7-year recovery period for motorsports entertainment complexes.</title>
+  </titles>
+  <sponsor id="412393"/>
+  <cosponsors>
+    <cosponsor id="400030" joined="2015-03-23"/>
+    <cosponsor id="412571" joined="2015-03-23"/>
+    <cosponsor id="412563" joined="2015-07-29"/>
+    <cosponsor id="412526" joined="2015-03-23"/>
+    <cosponsor id="412257" joined="2015-03-23"/>
+    <cosponsor id="412612" joined="2015-03-23"/>
+    <cosponsor id="412550" joined="2015-03-23"/>
+    <cosponsor id="412649" joined="2015-07-29"/>
+    <cosponsor id="412421" joined="2015-03-23"/>
+    <cosponsor id="412557" joined="2015-03-23"/>
+    <cosponsor id="412468" joined="2015-07-10"/>
+    <cosponsor id="400273" joined="2015-03-23"/>
+    <cosponsor id="400290" joined="2015-03-23"/>
+    <cosponsor id="412309" joined="2015-03-23"/>
+    <cosponsor id="412310" joined="2015-03-23"/>
+    <cosponsor id="412311" joined="2015-05-19"/>
+    <cosponsor id="412399" joined="2015-03-23"/>
+    <cosponsor id="400363" joined="2015-03-23"/>
+    <cosponsor id="400364" joined="2015-06-09"/>
+    <cosponsor id="412581" joined="2015-05-01"/>
+    <cosponsor id="400403" joined="2015-03-23"/>
+    <cosponsor id="412318" joined="2015-03-23"/>
+    <cosponsor id="412617" joined="2015-03-23"/>
+    <cosponsor id="412515" joined="2015-03-23"/>
+    <cosponsor id="412213" joined="2015-06-23"/>
+    <cosponsor id="400623" joined="2015-03-23"/>
+    <cosponsor id="400627" joined="2015-03-23"/>
+    <cosponsor id="412430" joined="2015-03-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-23" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="1624"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+  <summary>3/23/2015--Introduced.
+Motorsports Fairness and Permanency Act 
+
+Amends the Internal Revenue Code to make permanent the accelerated depreciation (seven-year recovery period)&#160;of motorsports entertainment complexes.</summary>
+</bill>

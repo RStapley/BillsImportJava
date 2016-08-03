@@ -1,0 +1,84 @@
+<bill session="114" type="s" number="674" updated="2015-07-04T06:51:58-04:00">
+  <state datetime="2015-03-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-04"/>
+  </status>
+  <introduced datetime="2015-03-04"/>
+  <titles>
+    <title type="short" as="introduced">21st Century Women's Health Act of 2015</title>
+    <title type="official" as="introduced">A bill to expand programs with respect to women's health.</title>
+  </titles>
+  <sponsor id="300076"/>
+  <cosponsors>
+    <cosponsor id="412490" joined="2015-03-17"/>
+    <cosponsor id="300011" joined="2015-03-04"/>
+    <cosponsor id="400050" joined="2015-03-11"/>
+    <cosponsor id="412242" joined="2015-03-09"/>
+    <cosponsor id="300073" joined="2015-03-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-04" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Abortion"/>
+    <term name="Advisory bodies"/>
+    <term name="Assault and harassment offenses"/>
+    <term name="Cancer"/>
+    <term name="Child health"/>
+    <term name="Congressional oversight"/>
+    <term name="Crime victims"/>
+    <term name="Crimes against women"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Emergency medical services and trauma care"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Family planning and birth control"/>
+    <term name="Government studies and investigations"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health care quality"/>
+    <term name="Health facilities and institutions"/>
+    <term name="Health information and medical records"/>
+    <term name="Health personnel"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="Higher education"/>
+    <term name="Internet and video services"/>
+    <term name="Medicaid"/>
+    <term name="Medical education"/>
+    <term name="Medical research"/>
+    <term name="Medical tests and diagnostic methods"/>
+    <term name="Minority health"/>
+    <term name="Nursing"/>
+    <term name="Research administration and funding"/>
+    <term name="Sex and reproductive health"/>
+    <term name="Sex offenses"/>
+    <term name="Sexually transmitted diseases"/>
+    <term name="Women's health"/>
+  </subjects>
+  <amendments/>
+  <summary>3/4/2015--Introduced.
+21st Century Women's Health Act of 2015
+
+This bill amends the Public Health Service Act (PHSA) to allow the Department of Health and Human Services (HHS) to award grants for family planning service projects, expansion of family planning preventive health services, and training of nurse practitioners specializing in women's health care.
+
+This bill amends title XIX (Medicaid) of the Social Security Act to require state Medicaid programs to offer free preventive care, including contraceptives.
+
+A hospital cannot receive federal funds unless it promptly provides information about emergency contraception to any woman arriving at the hospital who is a victim of sexual assault. The Centers for Disease Control and Prevention and the Health Resources and Services Administration must develop and disseminate information on emergency contraception. The Agency for Healthcare Research and Quality must study sexual assault survivors' access to emergency contraception.
+
+The PHSA is amended to establish an Office of the Ombudsperson on Women's Health in HHS to handle complaints involving HHS regarding women's health services and to study the adequacy of health plan provider networks for women's health services.
+
+HHS must coordinate a national public education campaign regarding preventive health services for women and families.
+
+HHS must award states grants to establish maternal mortality review committees to investigate pregnancy-related deaths.
+
+The National Institutes of Health must organize a national workshop on severe maternal morbidity.
+
+To eliminate disparities in maternal health outcomes, HHS must conduct research, expand access to services that improve maternity care, and compare and implement interventions for reducing disparities.</summary>
+</bill>

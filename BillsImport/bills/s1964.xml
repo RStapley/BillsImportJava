@@ -1,0 +1,38 @@
+<bill session="114" type="s" number="1964" updated="2015-08-14T12:47:38-04:00">
+  <state datetime="2015-08-05">REFERRED</state>
+  <status>
+    <introduced datetime="2015-08-05"/>
+  </status>
+  <introduced datetime="2015-08-05"/>
+  <titles>
+    <title type="short" as="introduced">Family Stability and Kinship Care Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend parts B and E of title IV of the Social Security Act to invest in funding prevention and family services to help keep children safe and supported at home with their families, and for other purposes.</title>
+  </titles>
+  <sponsor id="300100"/>
+  <cosponsors>
+    <cosponsor id="412330" joined="2015-08-05"/>
+    <cosponsor id="400050" joined="2015-08-05"/>
+    <cosponsor id="300018" joined="2015-08-05"/>
+    <cosponsor id="412246" joined="2015-08-05"/>
+    <cosponsor id="400272" joined="2015-08-05"/>
+    <cosponsor id="300087" joined="2015-08-05"/>
+    <cosponsor id="300093" joined="2015-08-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-08-05">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S6386-6387"/>
+    </action>
+    <action datetime="2015-08-05" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+  </subjects>
+  <amendments/>
+</bill>

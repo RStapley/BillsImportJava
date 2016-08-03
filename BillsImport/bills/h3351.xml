@@ -1,0 +1,47 @@
+<bill session="114" type="h" number="3351" updated="2015-08-06T12:47:30-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">CPI-E Act of 2015</title>
+    <title type="official" as="introduced">To provide for cost-of-living increases for certain Federal benefits programs based on increases in the Consumer Price Index for the elderly.</title>
+  </titles>
+  <sponsor id="400185"/>
+  <cosponsors>
+    <cosponsor id="400080" joined="2015-07-29"/>
+    <cosponsor id="412215" joined="2015-07-29"/>
+    <cosponsor id="412382" joined="2015-07-29"/>
+    <cosponsor id="412276" joined="2015-07-29"/>
+    <cosponsor id="412638" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committees on Veterans' Affairs, Oversight and Government Reform, and Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Referred to House Armed Services</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Families"/>
+  </subjects>
+  <amendments/>
+</bill>

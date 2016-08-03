@@ -1,0 +1,60 @@
+<bill session="114" type="h" number="3412" updated="2015-08-22T06:47:51-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">United States Postal Service Shipping Equity Act</title>
+    <title type="official" as="introduced">To amend title 18, United States Code, and title 39, United States Code, to provide the United States Postal Service the authority to mail alcoholic beverages, and for other purposes.</title>
+  </titles>
+  <sponsor id="412259"/>
+  <cosponsors>
+    <cosponsor id="412657" joined="2015-07-29"/>
+    <cosponsor id="400033" joined="2015-07-29"/>
+    <cosponsor id="412501" joined="2015-07-29"/>
+    <cosponsor id="412571" joined="2015-07-29"/>
+    <cosponsor id="412221" joined="2015-07-29"/>
+    <cosponsor id="400618" joined="2015-07-29"/>
+    <cosponsor id="400100" joined="2015-07-29"/>
+    <cosponsor id="412529" joined="2015-07-29"/>
+    <cosponsor id="412382" joined="2015-07-29"/>
+    <cosponsor id="412276" joined="2015-07-29"/>
+    <cosponsor id="400162" joined="2015-07-29"/>
+    <cosponsor id="400179" joined="2015-07-29"/>
+    <cosponsor id="412511" joined="2015-07-29"/>
+    <cosponsor id="412460" joined="2015-07-29"/>
+    <cosponsor id="400209" joined="2015-07-29"/>
+    <cosponsor id="412286" joined="2015-07-29"/>
+    <cosponsor id="412510" joined="2015-07-29"/>
+    <cosponsor id="412638" joined="2015-07-29"/>
+    <cosponsor id="400246" joined="2015-07-29"/>
+    <cosponsor id="412487" joined="2015-07-29"/>
+    <cosponsor id="412308" joined="2015-07-29"/>
+    <cosponsor id="400333" joined="2015-07-29"/>
+    <cosponsor id="400378" joined="2015-07-29"/>
+    <cosponsor id="412579" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Referred to House Judiciary</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="3319"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,130 @@
+<bill session="114" type="h" number="979" updated="2015-08-15T06:27:24-04:00">
+  <state datetime="2015-06-01T15:35:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2015-06-01T15:35:00-04:00"/>
+  </status>
+  <introduced datetime="2015-02-13"/>
+  <titles>
+    <title type="official" as="introduced">To designate a mountain in the John Muir Wilderness of the Sierra National Forest as "Sky Point".</title>
+  </titles>
+  <sponsor id="412295"/>
+  <cosponsors>
+    <cosponsor id="412615" joined="2015-02-13"/>
+    <cosponsor id="412404" joined="2015-02-13"/>
+    <cosponsor id="400021" joined="2015-02-13"/>
+    <cosponsor id="412512" joined="2015-02-13"/>
+    <cosponsor id="412516" joined="2015-02-13"/>
+    <cosponsor id="400057" joined="2015-02-13"/>
+    <cosponsor id="400062" joined="2015-02-13"/>
+    <cosponsor id="412517" joined="2015-02-13"/>
+    <cosponsor id="412379" joined="2015-02-13"/>
+    <cosponsor id="412513" joined="2015-02-13"/>
+    <cosponsor id="400618" joined="2015-02-13"/>
+    <cosponsor id="400097" joined="2015-02-13"/>
+    <cosponsor id="412403" joined="2015-02-13"/>
+    <cosponsor id="412613" joined="2015-02-13"/>
+    <cosponsor id="400124" joined="2015-02-13"/>
+    <cosponsor id="400129" joined="2015-02-13"/>
+    <cosponsor id="412382" joined="2015-02-13"/>
+    <cosponsor id="412498" joined="2015-02-13"/>
+    <cosponsor id="400185" joined="2015-02-13"/>
+    <cosponsor id="412511" joined="2015-02-13"/>
+    <cosponsor id="412283" joined="2015-02-13"/>
+    <cosponsor id="400196" joined="2015-02-13"/>
+    <cosponsor id="412614" joined="2015-02-13"/>
+    <cosponsor id="412510" joined="2015-02-13"/>
+    <cosponsor id="400237" joined="2015-02-13"/>
+    <cosponsor id="412616" joined="2015-02-13"/>
+    <cosponsor id="400245" joined="2015-02-13"/>
+    <cosponsor id="412521" joined="2015-02-13"/>
+    <cosponsor id="400663" joined="2015-02-13"/>
+    <cosponsor id="412190" joined="2015-02-13"/>
+    <cosponsor id="412189" joined="2015-02-13"/>
+    <cosponsor id="400290" joined="2015-02-13"/>
+    <cosponsor id="400297" joined="2015-02-13"/>
+    <cosponsor id="400314" joined="2015-02-13"/>
+    <cosponsor id="412523" joined="2015-02-13"/>
+    <cosponsor id="400343" joined="2015-02-13"/>
+    <cosponsor id="400347" joined="2015-02-13"/>
+    <cosponsor id="400348" joined="2015-02-13"/>
+    <cosponsor id="412519" joined="2015-02-13"/>
+    <cosponsor id="400355" joined="2015-02-13"/>
+    <cosponsor id="400356" joined="2015-02-13"/>
+    <cosponsor id="400361" joined="2015-02-13"/>
+    <cosponsor id="400371" joined="2015-02-13"/>
+    <cosponsor id="412259" joined="2015-02-13"/>
+    <cosponsor id="412514" joined="2015-02-13"/>
+    <cosponsor id="412520" joined="2015-02-13"/>
+    <cosponsor id="400403" joined="2015-02-13"/>
+    <cosponsor id="412617" joined="2015-02-13"/>
+    <cosponsor id="412515" joined="2015-02-13"/>
+    <cosponsor id="412522" joined="2015-02-13"/>
+    <cosponsor id="412618" joined="2015-02-13"/>
+    <cosponsor id="400422" joined="2015-02-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-13" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2015-03-16">
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+    </action>
+    <action datetime="2015-03-24">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2015-03-25">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-03-25" state="REPORTED">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+    </calendar>
+    <action datetime="2015-03-25">
+      <text>Subcommittee on Federal Lands Discharged.</text>
+    </action>
+    <action datetime="2015-04-15T17:32:00-04:00">
+      <text>Reported by the Committee on Natural Resources. H. Rept. 114-81.</text>
+    </action>
+    <calendar datetime="2015-04-15T17:34:00-04:00" calendar="House" number="21">
+      <text>Placed on the House Calendar, Calendar No. 21.</text>
+    </calendar>
+    <action datetime="2015-06-01T15:21:00-04:00">
+      <text>Mr. Bishop (UT) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2015-06-01T15:21:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3589-3591" label="consideration"/>
+    </action>
+    <action datetime="2015-06-01T15:21:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 979.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2015-06-01T15:35:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H3589-3590" label="text"/>
+    </vote>
+    <action datetime="2015-06-01T15:35:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2015-06-02">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSII10" subcommittee="Federal Lands" name="House Natural Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="California"/>
+    <term name="Congressional tributes"/>
+    <term name="Forests, forestry, trees"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Wilderness and natural areas, wildlife refuges, wild rivers, habitats"/>
+  </subjects>
+  <amendments/>
+  <summary>6/1/2015--Passed House without amendment.
+(This measure has not been amended since it was introduced. The summary of that version is repeated here.)
+
+Designates a specified mountain in the John Muir Wilderness of the Sierra National Forest in California as "Sky Point."</summary>
+</bill>

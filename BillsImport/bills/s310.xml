@@ -1,0 +1,56 @@
+<bill session="114" type="s" number="310" updated="2015-08-22T06:54:16-04:00">
+  <state datetime="2015-06-24">REPORTED</state>
+  <status>
+    <unknown datetime="2015-06-24"/>
+  </status>
+  <introduced datetime="2015-01-29"/>
+  <titles>
+    <title type="short" as="introduced">EGO Act</title>
+    <title type="short" as="introduced">Eliminating Government-funded Oil-painting Act</title>
+    <title type="short" as="reported to senate">EGO Act</title>
+    <title type="short" as="reported to senate">Eliminating Government-funded Oil-painting Act</title>
+    <title type="official" as="introduced">A bill to prohibit the use of Federal funds for the costs of painting portraits of officers and employees of the Federal Government.</title>
+  </titles>
+  <sponsor id="412269"/>
+  <cosponsors>
+    <cosponsor id="412549" joined="2015-02-03"/>
+    <cosponsor id="412556" joined="2015-01-29"/>
+    <cosponsor id="412496" joined="2015-06-24"/>
+    <cosponsor id="300083" joined="2015-02-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-29" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <calendar datetime="2015-06-24" state="REPORTED">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="2015-07-27">
+      <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 114-93.</text>
+    </action>
+    <calendar datetime="2015-07-27" calendar="Senate Legislative" under="General Orders" number="165">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 165.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Appropriations"/>
+    <term name="Art, artists, authorship"/>
+    <term name="Congressional officers and employees"/>
+    <term name="Federal officials"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Members of Congress"/>
+    <term name="Presidents and presidential powers"/>
+  </subjects>
+  <amendments/>
+  <summary>7/27/2015--Reported to Senate without amendment.
+(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)
+
+Eliminating Government-funded Oil-painting Act or EGO Act
+
+(Sec. 2) Prohibits the use of funds appropriated or otherwise made available to the federal government to pay for an official portrait of a officer or employee of the federal government, including the President, the Vice President, a Member of Congress, the head of an executive agency, or the head of an office of the legislative branch.</summary>
+</bill>

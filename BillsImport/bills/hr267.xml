@@ -1,0 +1,39 @@
+<bill session="114" type="hr" number="267" updated="2015-08-01T06:17:58-04:00">
+  <state datetime="2015-05-15">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-15"/>
+  </status>
+  <introduced datetime="2015-05-15"/>
+  <titles>
+    <title type="official" as="introduced">Expressing support for the designation of May as National Lacrosse Month.</title>
+  </titles>
+  <sponsor id="400349"/>
+  <cosponsors>
+    <cosponsor id="400048" joined="2015-05-15"/>
+    <cosponsor id="412420" joined="2015-05-15"/>
+    <cosponsor id="400170" joined="2015-05-15"/>
+    <cosponsor id="412446" joined="2015-05-15"/>
+    <cosponsor id="412644" joined="2015-05-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-15" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-05-22">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Sports and recreation"/>
+  </subjects>
+  <amendments/>
+  <summary>5/15/2015--Introduced.
+Expresses support for National Lacrosse Month.
+
+Commends the leadership and programming efforts of US Lacrosse to raise awareness, prevent injuries, and increase overall safety across all levels of the game.</summary>
+</bill>

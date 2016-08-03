@@ -1,0 +1,55 @@
+<bill session="114" type="s" number="200" updated="2015-05-16T06:41:59-04:00">
+  <state datetime="2015-01-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-21"/>
+  </status>
+  <introduced datetime="2015-01-21"/>
+  <titles>
+    <title type="short" as="introduced">Accurate Budgeting Act</title>
+    <title type="official" as="introduced">A bill to amend the Congressional Budget Act of 1974 to provide for macroeconomic analysis of the impact of major revenue legislation.</title>
+  </titles>
+  <sponsor id="400325"/>
+  <cosponsors>
+    <cosponsor id="412493" joined="2015-01-21"/>
+    <cosponsor id="412251" joined="2015-01-21"/>
+    <cosponsor id="400034" joined="2015-01-21"/>
+    <cosponsor id="400061" joined="2015-01-21"/>
+    <cosponsor id="412508" joined="2015-02-25"/>
+    <cosponsor id="300030" joined="2015-01-21"/>
+    <cosponsor id="412556" joined="2015-01-21"/>
+    <cosponsor id="400134" joined="2015-01-21"/>
+    <cosponsor id="300055" joined="2015-01-21"/>
+    <cosponsor id="400194" joined="2015-01-21"/>
+    <cosponsor id="412495" joined="2015-01-21"/>
+    <cosponsor id="412666" joined="2015-01-26"/>
+    <cosponsor id="412491" joined="2015-01-21"/>
+    <cosponsor id="412471" joined="2015-01-21"/>
+    <cosponsor id="400546" joined="2015-01-21"/>
+    <cosponsor id="400418" joined="2015-01-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Budget.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSBU" name="Senate Budget" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Budget process"/>
+    <term name="Congressional oversight"/>
+    <term name="Economic performance and conditions"/>
+    <term name="Legislative rules and procedure"/>
+  </subjects>
+  <amendments/>
+  <summary>1/21/2015--Introduced.
+Accurate Budgeting Act 
+
+This bill amends the Congressional Budget Act of 1974 to require the Joint Committee on Taxation (JCT) to prepare a macroeconomic impact analysis for major revenue legislation. The estimates are required for revenue legislation considered on the floor of the House or Senate or reported by the House Ways and Means Committee or the Senate Finance Committee.
+
+The macroeconomic impact analysis, commonly referred to as dynamic scoring, includes:
+
+ the changes in economic output, employment, interest rates, capital stock, and tax revenues expected to result from the proposal; revenue feedback (changes in revenue resulting from changes in economic growth as a result of the proposal); and the assumptions and data used for the estimate. The bill requires JCT to prepare the analysis as a supplement to the revenue estimates currently required by the Congressional Budget Act of 1974.</summary>
+</bill>

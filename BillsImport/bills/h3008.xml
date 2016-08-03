@@ -1,0 +1,29 @@
+<bill session="114" type="h" number="3008" updated="2015-07-16T04:48:32-04:00">
+  <state datetime="2015-07-09">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-09"/>
+  </status>
+  <introduced datetime="2015-07-09"/>
+  <titles>
+    <title type="short" as="introduced">Sandra Day O'Connor Civic Learning Act of 2015</title>
+    <title type="official" as="introduced">To authorize the Secretary of Education to award grants to promote civic learning and engagement, and for other purposes.</title>
+  </titles>
+  <sponsor id="400185"/>
+  <cosponsors>
+    <cosponsor id="400077" joined="2015-07-09"/>
+    <cosponsor id="412637" joined="2015-07-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-09" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,55 @@
+<bill session="114" type="h" number="1515" updated="2015-07-28T05:08:51-04:00">
+  <state datetime="2015-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-19"/>
+  </status>
+  <introduced datetime="2015-03-19"/>
+  <titles>
+    <title type="short" as="introduced">Safe Hydration is an American Right in Energy Development Act of 2015</title>
+    <title type="official" as="introduced">To amend the Safe Drinking Water Act to require testing of underground sources of drinking water in connection with hydraulic fracturing operations, and for other purposes.</title>
+  </titles>
+  <sponsor id="400360"/>
+  <cosponsors>
+    <cosponsor id="412657" joined="2015-03-19"/>
+    <cosponsor id="400033" joined="2015-03-19"/>
+    <cosponsor id="412571" joined="2015-03-19"/>
+    <cosponsor id="412195" joined="2015-03-19"/>
+    <cosponsor id="412600" joined="2015-03-19"/>
+    <cosponsor id="412272" joined="2015-03-19"/>
+    <cosponsor id="412215" joined="2015-06-23"/>
+    <cosponsor id="400129" joined="2015-03-19"/>
+    <cosponsor id="400162" joined="2015-03-19"/>
+    <cosponsor id="400170" joined="2015-04-21"/>
+    <cosponsor id="412511" joined="2015-03-19"/>
+    <cosponsor id="400245" joined="2015-03-19"/>
+    <cosponsor id="412521" joined="2015-03-19"/>
+    <cosponsor id="400290" joined="2015-05-12"/>
+    <cosponsor id="400295" joined="2015-03-19"/>
+    <cosponsor id="412331" joined="2015-03-19"/>
+    <cosponsor id="400333" joined="2015-03-19"/>
+    <cosponsor id="412212" joined="2015-03-25"/>
+    <cosponsor id="400361" joined="2015-03-19"/>
+    <cosponsor id="400378" joined="2015-04-28"/>
+    <cosponsor id="412259" joined="2015-03-25"/>
+    <cosponsor id="412520" joined="2015-07-27"/>
+    <cosponsor id="400415" joined="2015-03-19"/>
+    <cosponsor id="412211" joined="2015-04-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-19" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-03-20">
+      <text>Referred to the Subcommittee on Environment and the Economy.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF18" subcommittee="Environment and the Economy" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+  </subjects>
+  <amendments/>
+</bill>

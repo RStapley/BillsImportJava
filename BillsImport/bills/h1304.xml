@@ -1,0 +1,36 @@
+<bill session="114" type="h" number="1304" updated="2015-05-02T06:29:26-04:00">
+  <state datetime="2015-03-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-04"/>
+  </status>
+  <introduced datetime="2015-03-04"/>
+  <titles>
+    <title type="official" as="introduced">To repeal the Authorization for Use of Military Force Against Iraq Resolution of 2002.</title>
+  </titles>
+  <sponsor id="400237"/>
+  <cosponsors>
+    <cosponsor id="400185" joined="2015-03-04"/>
+    <cosponsor id="400209" joined="2015-03-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-04" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Congressional oversight"/>
+    <term name="Iraq"/>
+    <term name="Middle East"/>
+    <term name="Military operations and strategy"/>
+    <term name="Presidents and presidential powers"/>
+    <term name="War and emergency powers"/>
+  </subjects>
+  <amendments/>
+  <summary>3/4/2015--Introduced.
+Repeals the Authorization for Use of Military Force Against Iraq Resolution of 2002.</summary>
+</bill>

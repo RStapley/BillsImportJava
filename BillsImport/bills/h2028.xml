@@ -1,0 +1,623 @@
+<bill session="114" type="h" number="2028" updated="2015-08-22T06:36:15-04:00">
+  <state datetime="2015-05-01T10:45:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2015-05-01T10:45:00-04:00"/>
+  </status>
+  <introduced datetime="2015-04-24"/>
+  <titles>
+    <title type="short" as="introduced">Energy and Water Development and Related Agencies Appropriations Act, 2016</title>
+    <title type="short" as="reported to house">Energy and Water Development and Related Agencies Appropriations Act, 2016</title>
+    <title type="short" as="passed house">Energy and Water Development and Related Agencies Appropriations Act, 2016</title>
+    <title type="short" as="reported to senate">Energy and Water Development and Related Agencies Appropriations Act, 2016</title>
+    <title type="official" as="introduced">Making appropriations for energy and water development and related agencies for the fiscal year ending September 30, 2016, and for other purposes.</title>
+  </titles>
+  <sponsor id="400376"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-04-24T16:12:00-04:00">
+      <text>The House Committee on Appropriations reported an original measure, H. Rept. 114-91, by Mr. Simpson.</text>
+    </action>
+    <calendar datetime="2015-04-24T16:13:00-04:00" state="REPORTED" calendar="Union" number="64">
+      <text>Placed on the Union Calendar, Calendar No. 64.</text>
+    </calendar>
+    <action datetime="2015-04-28T21:03:00-04:00">
+      <text>Rules Committee Resolution H. Res. 223 Reported to House. Rule provides for consideration of H.R. 2028 and H.R. 2029. Motion to recommit allowed. The resolution provides for a modified-open rule for both H.R. 2028 and 2029.</text>
+    </action>
+    <action datetime="2015-04-29T20:22:00-04:00">
+      <text>Considered under the provisions of rule H. Res. 223.</text>
+      <reference ref="CR H2623-2651" label="consideration"/>
+      <reference ref="CR H2632-2633, H2633, H2635, H2638, H2640, H2641, H2642" label="text of Title I as reported in House"/>
+      <reference ref="CR H2642, H2644" label="text of Title II as reported in House"/>
+      <reference ref="CR H2644-2645, H2651, CR 4/30/2015 H2686, H2687-2688, H2689, H2691, H2692, H2693-2694, H2712, H2715, H2716-2718" label="text of Title III as reported in House"/>
+    </action>
+    <action datetime="2015-04-29T20:22:00-04:00">
+      <text>Rule provides for consideration of H.R. 2028 and H.R. 2029. Motion to recommit allowed. The resolution provides for a modified-open rule for both H.R. 2028 and 2029.</text>
+    </action>
+    <action datetime="2015-04-29T20:23:00-04:00">
+      <text>House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 223 and Rule XVIII.</text>
+    </action>
+    <action datetime="2015-04-29T20:23:00-04:00">
+      <text>The Speaker designated the Honorable Doug Collins to act as Chairman of the Committee.</text>
+    </action>
+    <action datetime="2015-04-29T20:23:00-04:00">
+      <text>GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 2028.</text>
+    </action>
+    <action datetime="2015-04-29T21:02:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Gosar amendment.</text>
+    </action>
+    <action datetime="2015-04-29T21:07:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Gosar amendment.</text>
+    </action>
+    <action datetime="2015-04-29T21:11:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Murphy (FL) amendment.</text>
+    </action>
+    <action datetime="2015-04-29T21:17:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Duffy amendment.</text>
+    </action>
+    <action datetime="2015-04-29T21:23:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Crawford amendment, pending reservation of a point of order. Subsequently, the reservation was withdrawn.</text>
+    </action>
+    <action datetime="2015-04-29T21:27:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Huizenga amendment.</text>
+    </action>
+    <action datetime="2015-04-29T21:40:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Rice (SC) amendment.</text>
+    </action>
+    <action datetime="2015-04-29T21:47:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H.Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Gosar amendment.</text>
+    </action>
+    <action datetime="2015-04-29T21:51:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the McClintock amendment pending reservation of a point of order. Subsequently, the reservation was withdrawn.</text>
+    </action>
+    <action datetime="2015-04-29T22:05:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the McClintock amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. McClintock demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2015-04-29T22:06:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Beyer amendment.</text>
+    </action>
+    <action datetime="2015-04-29T22:12:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Beyer amendment.</text>
+    </action>
+    <action datetime="2015-04-29T22:20:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate.</text>
+    </action>
+    <action datetime="2015-04-29T22:26:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Ruiz amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Ruiz demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2015-04-29T22:27:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Tipton amendment.</text>
+    </action>
+    <action datetime="2015-04-29T22:32:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Griffith amendment.</text>
+    </action>
+    <action datetime="2015-04-29T22:40:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Griffith amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Ms. Kaptur demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2015-04-29T22:41:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Castor amendment.</text>
+    </action>
+    <action datetime="2015-04-29T22:48:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 233, the Committee of the Whole proceeded with 10 minutes of debate on the Lamborn amendment.</text>
+    </action>
+    <action datetime="2015-04-29T22:51:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Swalwell amendment.</text>
+    </action>
+    <action datetime="2015-04-29T22:56:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Swalwell amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Swalwell demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2015-04-29T22:57:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Perry amendment.</text>
+    </action>
+    <action datetime="2015-04-29T23:03:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Bonamici amendment.</text>
+    </action>
+    <action datetime="2015-04-29T23:06:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Cohen amendment.</text>
+    </action>
+    <action datetime="2015-04-29T23:10:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Byrne amendment.</text>
+    </action>
+    <action datetime="2015-04-29T23:18:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Byrne amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Byrne demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2015-04-29T23:19:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the McClintock amendment.</text>
+    </action>
+    <action datetime="2015-04-29T23:28:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the McClintock amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. McClintock demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2015-04-29T23:28:00-04:00">
+      <text>Mr. Simpson moved that the Committee rise.</text>
+    </action>
+    <action datetime="2015-04-29T23:28:00-04:00">
+      <text>On motion that the Committee rise Agreed to by voice vote.</text>
+    </action>
+    <action datetime="2015-04-29T23:28:00-04:00">
+      <text>Committee of the Whole House on the state of the Union rises leaving H.R. 2028 as unfinished business.</text>
+    </action>
+    <action datetime="2015-04-30T15:15:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H2685-2688, H2688-2694" label="consideration"/>
+    </action>
+    <action datetime="2015-04-30T15:15:00-04:00">
+      <text>The House resolved into Committee of the Whole House on the state of the Union for further consideration.</text>
+    </action>
+    <action datetime="2015-04-30T15:16:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Heck (NV) amendment.</text>
+    </action>
+    <action datetime="2015-04-30T15:22:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Ellison amendment.</text>
+    </action>
+    <action datetime="2015-04-30T15:31:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Ellison amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Ellison demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2015-04-30T15:32:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Flores amendment.</text>
+    </action>
+    <action datetime="2015-04-30T15:39:00-04:00">
+      <text>COMMITTEE RISES INFORMALLY - The Committee of the Whole rose informally to receive a message from the President of the United States in writing.</text>
+    </action>
+    <action datetime="2015-04-30T15:40:00-04:00">
+      <text>COMMITTEE RESUMES SITTING - The Committee of the Whole resumed its sitting.</text>
+    </action>
+    <action datetime="2015-04-30T15:40:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Foster amendment.</text>
+    </action>
+    <action datetime="2015-04-30T15:46:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Titus amendment.</text>
+    </action>
+    <action datetime="2015-04-30T15:55:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Swalwell amendment.</text>
+    </action>
+    <action datetime="2015-04-30T16:01:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Swalwell amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Swalwell demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2015-04-30T16:04:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson Lee amendment.</text>
+    </action>
+    <action datetime="2015-04-30T16:09:00-04:00">
+      <text>Mr. Simpson moved that the committee rise.</text>
+    </action>
+    <action datetime="2015-04-30T16:10:00-04:00">
+      <text>On motion that the committee rise Agreed to by voice vote.</text>
+    </action>
+    <action datetime="2015-04-30T16:10:00-04:00">
+      <text>Committee of the Whole House on the state of the Union rises leaving H.R. 2028 as unfinished business.</text>
+    </action>
+    <action datetime="2015-04-30T19:16:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H2710-2727" label="consideration"/>
+      <reference ref="CR H2718" label="text of Title IV as reported in House"/>
+      <reference ref="CR H2718-2719, H2758, CR 05/01/2015 H2781" label="text of Title V as reported in House"/>
+    </action>
+    <action datetime="2015-04-30T19:17:00-04:00">
+      <text>The House resolved into Committee of the Whole House on the state of the Union for further consideration.</text>
+    </action>
+    <action datetime="2015-04-30T19:18:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Quigley amendment.</text>
+    </action>
+    <action datetime="2015-04-30T19:24:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Quigley amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Quigley demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2015-04-30T19:25:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Garamendi amendment.</text>
+    </action>
+    <action datetime="2015-04-30T19:31:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Garamendi amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Garamendi demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2015-04-30T19:32:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Fortenberry amendment.</text>
+    </action>
+    <action datetime="2015-04-30T19:43:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Garamendi amendment.</text>
+    </action>
+    <action datetime="2015-04-30T19:57:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Langevin amendment.</text>
+    </action>
+    <action datetime="2015-04-30T20:08:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the McKinley amendment.</text>
+    </action>
+    <action datetime="2015-04-30T20:13:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Babin amendment No. 3.</text>
+    </action>
+    <action datetime="2015-04-30T20:19:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Babin amendment No. 4.</text>
+    </action>
+    <action datetime="2015-04-30T20:26:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Hudson amendment.</text>
+    </action>
+    <action datetime="2015-04-30T20:35:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Hudson amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Hudson demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2015-04-30T20:36:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Engel amendment No. 7.</text>
+    </action>
+    <action datetime="2015-04-30T20:39:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Sanford amendment.</text>
+    </action>
+    <action datetime="2015-04-30T20:49:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Sanford amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Sanford demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2015-04-30T20:49:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Cleaver amendment.</text>
+    </action>
+    <action datetime="2015-04-30T20:55:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Burgess amendment.</text>
+    </action>
+    <action datetime="2015-04-30T21:04:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Burgess amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Ms. Kaptur demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2015-04-30T21:05:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Dent amendment.</text>
+    </action>
+    <action datetime="2015-04-30T21:16:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Napolitano amendment.</text>
+    </action>
+    <action datetime="2015-04-30T21:19:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Stivers amendment.</text>
+    </action>
+    <action datetime="2015-04-30T21:21:00-04:00">
+      <text>Mr. Simpson moved that the committee rise.</text>
+    </action>
+    <action datetime="2015-04-30T21:21:00-04:00">
+      <text>On motion that the committee rise Agreed to by voice vote.</text>
+    </action>
+    <action datetime="2015-04-30T21:21:00-04:00">
+      <text>Committee of the Whole House on the state of the Union rises leaving H.R. 2028 as unfinished business.</text>
+    </action>
+    <action datetime="2015-04-30T23:10:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H2742-2764" label="consideration"/>
+    </action>
+    <action datetime="2015-04-30T23:10:00-04:00">
+      <text>The House resolved into Committee of the Whole House on the state of the Union for further consideration.</text>
+    </action>
+    <action datetime="2015-04-30T23:10:00-04:00">
+      <text>UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.</text>
+    </action>
+    <action datetime="2015-04-30T23:55:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Barton (TX) amendment.</text>
+    </action>
+    <action datetime="2015-05-01T00:05:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Abraham amendment.</text>
+    </action>
+    <action datetime="2015-05-01T00:17:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Jacksons Lee amendment.</text>
+    </action>
+    <action datetime="2015-05-01T00:21:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Rothfus amendment No. 5.</text>
+    </action>
+    <action datetime="2015-05-01T00:27:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Rothfus amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Ms. Kaptur demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2015-05-01T00:28:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the DelBene amendment.</text>
+    </action>
+    <action datetime="2015-05-01T00:32:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Gosar amendment.</text>
+    </action>
+    <action datetime="2015-05-01T00:38:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Grayson amendment No. 22.</text>
+    </action>
+    <action datetime="2015-05-01T00:39:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Gosar amendment No. 10.</text>
+    </action>
+    <action datetime="2015-05-01T00:44:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Gosar amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Ms. Kaptur demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2015-05-01T00:46:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Castro (TX) amendment, pending reservation of a point of order. Subsequently, the reservation was withdrawn.</text>
+    </action>
+    <action datetime="2015-05-01T00:55:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Blackburn amendment No. 13.</text>
+    </action>
+    <action datetime="2015-05-01T01:02:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Blackburn amendment No. 12.</text>
+    </action>
+    <action datetime="2015-05-01T01:16:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Blackburn amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Blackburn demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2015-05-01T01:17:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Luetkemeyer amendment No. 16.</text>
+    </action>
+    <action datetime="2015-05-01T01:20:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the McClintock amendment.</text>
+    </action>
+    <action datetime="2015-05-01T01:27:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the McClintock amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Ms. Kaptur demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2015-05-01T01:28:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the LaMalfa amendment.</text>
+    </action>
+    <action datetime="2015-05-01T01:38:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the LaMalfa amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Ms. Kaptur demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2015-05-01T01:39:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the LaMalfa amendment.</text>
+    </action>
+    <action datetime="2015-05-01T01:44:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the LaMalfa amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Ms. Kaptur demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2015-05-01T01:45:00-04:00">
+      <text>Mr. Simpson moved that the Committee rise.</text>
+    </action>
+    <action datetime="2015-05-01T01:45:00-04:00">
+      <text>On motion that the Committee rise Agreed to by voice vote.</text>
+    </action>
+    <action datetime="2015-05-01T01:45:00-04:00">
+      <text>Committee of the Whole House on the state of the Union rises leaving H.R. 2028 as unfinished business.</text>
+    </action>
+    <action datetime="2015-05-01T09:10:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H2776-2783" label="consideration"/>
+    </action>
+    <action datetime="2015-05-01T09:10:00-04:00">
+      <text>The House resolved into Committee of the Whole House on the state of the Union for further consideration.</text>
+    </action>
+    <action datetime="2015-05-01T09:11:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Duncan (SC) amendment.</text>
+    </action>
+    <action datetime="2015-05-01T09:15:00-04:00">
+      <text>UNFINISHED BUSINESS - The Chair announced that the unfinished business was on adoption of amendments, which had been debated earlier, and on which further proceedings had been postponed.</text>
+    </action>
+    <action datetime="2015-05-01T10:20:00-04:00">
+      <text>Mr. Simpson moved for the Committee of the Whole to rise and report.</text>
+    </action>
+    <action datetime="2015-05-01T10:20:00-04:00">
+      <text>On motion to rise and report Agreed to by voice vote.</text>
+    </action>
+    <action datetime="2015-05-01T10:20:00-04:00">
+      <text>The House rose from the Committee of the Whole House on the state of the Union to report H.R. 2028.</text>
+    </action>
+    <action datetime="2015-05-01T10:21:00-04:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+      <reference ref="CR H2781" label="consideration"/>
+    </action>
+    <action datetime="2015-05-01T10:21:00-04:00">
+      <text>The House adopted the amendments en gross as agreed to by the Committee of the Whole House on the state of the Union.</text>
+    </action>
+    <action datetime="2015-05-01T10:22:00-04:00">
+      <text>Mr. Bera moved to recommit with instructions to the Committee on Appropriations.</text>
+      <reference ref="CR H2781-2782" label="consideration"/>
+      <reference ref="CR H2781" label="text"/>
+    </action>
+    <action datetime="2015-05-01T10:22:00-04:00">
+      <text>DEBATE - The House proceeded with 10 minutes of debate on the motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to increase funds for "Water and Related Resources" by $15,000,000 and "Electricity Delivery and Energy Reliability" by $15,000,000; and reduce funds for "Policy and Administration" by $30,000,000.</text>
+    </action>
+    <action datetime="2015-05-01T10:31:00-04:00">
+      <text>The previous question on the motion to recommit with instructions was ordered without objection.</text>
+      <reference ref="CR H2782" label="consideration"/>
+    </action>
+    <action datetime="2015-05-01T10:40:00-04:00">
+      <text>On motion to recommit with instructions Failed by recorded vote: 180 - 235 (Roll no. 214).</text>
+      <reference ref="CR H2782" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="215" datetime="2015-05-01T10:45:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by the Yeas and Nays: 240 - 177 (Roll no. 215).</text>
+    </vote>
+    <action datetime="2015-05-01T10:45:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2015-05-05">
+      <text>Received in the Senate and Read twice and referred to the Committee on Appropriations.</text>
+    </action>
+    <action datetime="2015-05-21">
+      <text>Committee on Appropriations. Reported by Senator Alexander with an amendment in the nature of a substitute. With written report No. 114-54.</text>
+    </action>
+    <calendar datetime="2015-05-21" calendar="Senate Legislative" under="General Orders" number="96">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 96.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSAP" name="House Appropriations" activity="Origin, Reporting"/>
+    <committee code="SSAP" name="Senate Appropriations" activity="Referral, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="hr" number="223"/>
+    <bill relation="rule" session="114" type="hr" number="223"/>
+  </relatedbills>
+  <subjects>
+    <term name="Economics and public finance"/>
+  </subjects>
+  <amendments>
+    <amendment number="h151"/>
+    <amendment number="h152"/>
+    <amendment number="h153"/>
+    <amendment number="h154"/>
+    <amendment number="h155"/>
+    <amendment number="h156"/>
+    <amendment number="h157"/>
+    <amendment number="h158"/>
+    <amendment number="h159"/>
+    <amendment number="h160"/>
+    <amendment number="h161"/>
+    <amendment number="h162"/>
+    <amendment number="h163"/>
+    <amendment number="h164"/>
+    <amendment number="h165"/>
+    <amendment number="h166"/>
+    <amendment number="h167"/>
+    <amendment number="h168"/>
+    <amendment number="h169"/>
+    <amendment number="h170"/>
+    <amendment number="h171"/>
+    <amendment number="h172"/>
+    <amendment number="h173"/>
+    <amendment number="h174"/>
+    <amendment number="h175"/>
+    <amendment number="h176"/>
+    <amendment number="h177"/>
+    <amendment number="h178"/>
+    <amendment number="h179"/>
+    <amendment number="h180"/>
+    <amendment number="h181"/>
+    <amendment number="h182"/>
+    <amendment number="h183"/>
+    <amendment number="h184"/>
+    <amendment number="h185"/>
+    <amendment number="h186"/>
+    <amendment number="h187"/>
+    <amendment number="h188"/>
+    <amendment number="h189"/>
+    <amendment number="h190"/>
+    <amendment number="h191"/>
+    <amendment number="h192"/>
+    <amendment number="h193"/>
+    <amendment number="h194"/>
+    <amendment number="h195"/>
+    <amendment number="h196"/>
+    <amendment number="h197"/>
+    <amendment number="h198"/>
+    <amendment number="h199"/>
+    <amendment number="h200"/>
+    <amendment number="h201"/>
+    <amendment number="h202"/>
+    <amendment number="h203"/>
+    <amendment number="h204"/>
+    <amendment number="h205"/>
+    <amendment number="h206"/>
+    <amendment number="h207"/>
+    <amendment number="h208"/>
+    <amendment number="h209"/>
+    <amendment number="h210"/>
+    <amendment number="h211"/>
+  </amendments>
+  <summary>5/21/2015--Reported to Senate amended.
+Highlights: 
+
+The Energy and Water Development and Related Agencies Appropriations Act, 2016 provides FY2016 appropriations for the civil works projects of the U.S. Army Corps of Engineers; the Department of the Interior's Bureau of Reclamation and Central Utah Project; the Department of Energy (DOE); and several independent agencies, including the Nuclear Regulatory Commission (NRC) and the Appalachian Regional Commission.
+
+The bill increases overall FY2016 Energy and Water Development funding above FY2015 levels and includes increases for DOE and the Department of the Interior's Bureau of Reclamation.
+
+For the Army Corps of Engineers, the bill increases base appropriations compared to FY2015 levels and includes a rescission of unobligated prior year balances. If the rescission is taken into account, the net appropriation is below FY2015 levels.
+
+Within the DOE budget, the bill
+
+ increases funding above FY2015 levels for Energy Efficiency and Renewable Energy, Electricity Delivery and Energy Reliability, Nuclear Energy, Fossil Energy Research and Development, Advanced Research Project Agency-Energy, the National Nuclear Security Administration, Defense Environmental Cleanup, Science, and Defense Uranium Enrichment Decontamination and Decommissioning; and decreases funding below FY2015 levels for Non-Defense Environmental Cleanup and the Uranium Enrichment Decontamination and Decommissioning Fund. The bill does not include FY2016 funding for Nuclear Waste Disposal and funds the Power Marketing Administrations at the FY2015 level.
+
+The bill authorizes DOE to conduct a pilot program with private sector partners to provide interim storage for spent nuclear fuel and high-level radioactive waste.
+
+Also included in the bill is a provision restricting the Corps of Engineers from advancing regulations changing the definition of "fill material" under the Federal Water Pollution Control Act (commonly known as the Clean Water Act).
+
+Full Summary: 
+
+Energy and Water Development and Related Agencies Appropriations Act, 2016 
+
+ Provides FY2016 appropriations for energy and water development and related agencies.
+
+TITLE I--CORPS OF ENGINEERS--CIVIL
+
+Provides appropriations to the U.S. Army Corps of Engineers for authorized civil functions pertaining to rivers and harbors, flood and storm damage reduction, shore protection, aquatic ecosystem restoration, and related efforts.
+
+Provides appropriations to the Corps of Engineers for: (1) Investigations; (2) Construction; (3) Mississippi River and Tributaries, including flood damage reduction projects in the Mississippi River alluvial valley below Cape Girardeau, Missouri; (4) Operation and Maintenance; (5) the Regulatory Program pertaining to navigable waters and wetlands; (6) the Formerly Utilized Sites Remedial Action Program for clean-up of early atomic energy program contamination; (7) Flood Control and Coastal Emergencies, including hurricanes, floods, and other natural disasters; (8) Expenses necessary for the supervision and general administration of the civil works program; and (9) the Office of the Assistant Secretary of the Army for Civil Works.
+
+(Sec. 101) Establishes reprogramming guidelines and requirements for funds provided in this title. Prohibits the availability of funds for obligation or expenditure through reprogramming that would: (1) create, initiate, or eliminate a program, project, or activity; (2) increase funds or personnel for any program, project, or activity for which funds are either denied or restricted by this bill; (3) reduce funds that are directed to be used for a specific purpose by this bill; or (4) reprogram funds for specific projects, programs, or activities by more than specified amounts.
+
+Specifies exceptions and requires the Corps of Engineers to submit a report to Congress establishing the baseline for application of reprogramming and transfer authorities for the current fiscal year.
+
+(Sec. 102) Rescinds $128 million in unobligated balances from prior appropriations for water resources efforts in the Corps of Engineers--Civil Department of the Army--Construction account.
+
+(Sec. 103) Permits up to $4.7 million in Operation and Maintenance funds to be transferred to the U.S. Fish and Wildlife Service to mitigate for fisheries lost due to Corps of Engineers projects.
+
+(Sec. 104) Prohibits the Corps of Engineers from using funds to develop, adopt, implement, administer, or enforce any change to regulations in effect on October 1, 2012, pertaining to the definitions of "fill material" or "discharge of fill material" for the purposes of the Federal Water Pollution Control Act (commonly known as the Clean Water Act).
+
+(Sec. 105) Requires the Corps of Engineers to execute an agreement that transfers the Ten Mile Creek Water Preserve Area Critical Restoration Project to the South Florida Water Management District and requires the District to operate the project as an environmental restoration project to provide water storage and treatment options. Deauthorizes the project upon execution of the transfer agreement.
+
+(Sec. 106) Amends the Water Resources Development Act of 2007 to increase the length of time that the Corps of Engineers is responsible for the long-term maintenance and repair of the Lowell Creek Tunnel in Seward, Alaska until an alternative method of flood diversion is constructed and operational.
+
+(Sec. 107) Prohibits federal, contributed, or other non-federal funds from being used to reallocate or to study the reallocation of water within the Alabama-Coosa-Tallapoosa river basin, until the Corps of Engineers has executed a partnering agreement with Alabama and Georgia.
+
+TITLE II--DEPARTMENT OF THE INTERIOR
+
+Provides appropriations to the Department of the Interior for the Central Utah Project; and the Bureau of Reclamation, including for Water and Related Resources, the Central Valley Project Restoration Fund, California Bay-Delta Restoration, and Policy and Administration.
+
+Permits appropriations to the Bureau of Reclamation to be used for purchasing replacements for up to five passenger motor vehicles.
+
+(Sec. 201) Prohibits funds provided in this title from being used for a reprogramming that would: (1) create, initiate, or eliminate a program, project, or activity; (2) increase funds for any program, project, or activity for which funds have been denied or restricted by this bill; (3) restart or resume any program, project, or activity for which funds are not provided in this bill unless prior approval is received from Congress or (4) transfer funds in excess of specified limits or in violation of specified requirements without the approval of Congress.
+
+Requires the Bureau of Reclamation to submit quarterly reports to Congress detailing funds that have been reprogrammed.
+
+(Sec. 202) Prohibits funds provided by this bill from being used to determine the final point of discharge for the interceptor drain for the San Luis Unit until Interior and California develop a plan to minimize any detrimental effect of the San Luis drainage waters. Requires the plan to conform to California water quality standards as approved by the EPA.
+
+Directs Interior to classify the costs of the Kesterson Reservoir Cleanup Program and the San Joaquin Valley Drainage Program as either reimbursable or nonreimbursable and collected until fully repaid pursuant to specified alternative repayment plans.
+
+Requires future federal obligations of funds regarding drainage service or drainage studies for the San Luis Unit to be fully reimbursable by San Luis Unit beneficiaries of the service or studies.
+
+(Sec. 203) Amends the Secure Water Act of 2009 to increase the authorization of appropriations for grants and cooperative agreements for water management improvement from $300 million to $500 million.
+
+(Sec. 204) Amends the Calfed Bay-Delta Authorization Act to extend the authorization through 2020.
+
+(Sec. 205) Amends the Reclamation Safety of Dams Act of 1978 to authorize Interior to conduct construction projects under the Act with benefits that include, but are not limited to additional conservation storage capacity. (Under current law, construction under the Act is limited to dam safety and does not include providing additional conservation storage capacity.)
+
+(Sec. 206) Amends the Reclamation Safety of Dams Act of 1978 to increase: (1) the authorization of appropriations for construction under the Act, and (2) the limitation on appropriations that may be used to modify an existing dam. Requires Interior to notify Congress prior to obligating modification expenditures exceeding specified amounts.
+
+(Sec. 207) Sets forth deadlines for Interior to complete specified feasibility studies required by the Water Supply, Reliability, and Environmental Improvement Act for water storage projects in California.
+
+(Sec. 208) Permits funds provided by this bill for California Bay-Delta Restoration to be used to deliver water to the Trinity River above the minimum requirements of the Trinity Record of Decision or to supplement flows in the Klamath River.
+
+(Sec. 209) Permits funds provided by this bill for the Central Valley Project Restoration Fund to be used for all authorized activities necessary to supplement or enhance the instream flow requirements in California that are mandated by the Endangered Species Act of 1973 and the Central Valley Project Improvement Act
+
+TITLE III--DEPARTMENT OF ENERGY
+
+Provides appropriations to the Department of Energy (DOE) for Energy Programs, including:
+
+ Energy Efficiency and Renewable Energy, Electricity Delivery and Energy Reliability, Nuclear Energy, Fossil Energy Research and Development, Naval Petroleum and Oil Shale Reserves, Strategic Petroleum Reserve (SPR), Northeast Home Heating Oil Reserve, Energy Information Administration, Non-Defense Environmental Cleanup, Uranium Enrichment Decontamination and Decommissioning Fund, Science, Advanced Research Projects Agency-Energy, Title 17 Innovative Technology Loan Guarantee Loan Program, Advanced Technology Vehicles Manufacturing Loan Program, Departmental Administration, and the Office of the Inspector General. Provides appropriations to DOE for Atomic Energy Defense Activities of the National Nuclear Security Administration, including for Weapons Activities, Defense Nuclear Nonproliferation, Naval Reactors, and Federal Salaries and Expenses.
+
+Provides appropriations to DOE for Environmental and Other Defense Activities for Defense Environmental Cleanup, Defense Uranium Enrichment Decontamination and Decommissioning, and Other Defense Activities.
+
+Provides appropriations to DOE for the Power Marketing Administrations, including (1) the Bonneville Power Administration Fund; (2) Southeastern Power Administration Operation and Maintenance; (3) Southwestern Power Administration Operation and Maintenance; (4) Western Area Power Administration Operation and Maintenance, Construction, and Rehabilitation; and (5) the Falcon and Amistad Operating and Maintenance Fund.
+
+Provides appropriations for the Federal Energy Regulatory Commission.
+
+(Sec. 301) Prohibits the use of funds provided in this title for programs, projects, or activities that have not been funded by Congress. Prohibits specified grants, contracts, allocations, and agreements unless Congress is notified in advance. Prohibits funds from being used for certain multiyear Department of Energy--Energy Programs activities unless specified conditions are met and Congress is notified. Establishes requirements and restrictions for the reprogramming of funds provided in this title.
+
+(Sec. 302) Permits unexpended balances of prior appropriations provided for activities in this bill to be transferred and merged with appropriations accounts established in this bill.
+
+(Sec. 303) Deems funds appropriated by this Act for intelligence activities to be specifically authorized by Congress during FY2016 until the enactment of the Intelligence Authorization Act for FY2016.
+
+(Sec. 304) Prohibits the use of funds made available in this title to construct specified high-hazard nuclear facilities unless independent oversight is conducted by the Office of Independent Enterprise Assessments to ensure compliance with nuclear safety requirements.
+
+(Sec. 305) Prohibits the use of funds provided in this title to approve certain critical decisions for construction projects exceeding $100 million until a separate independent cost estimate has been developed.
+
+(Sec. 306) Authorizes DOE to conduct a pilot program with private sector partners to license, construct, and operate one or more storage facilities to provide interim storage for spent nuclear fuel and high-level radioactive waste. Permits the Nuclear Waste Fund to be used for this purpose, subject to appropriations.
+
+(Sec. 307) Prohibits funds from being used to carry out a drawdown and sale or exchange of petroleum products from the Strategic Petroleum Reserve (SPR) unless DOE notifies Congress in advance. Specifies requirements for the notification DOE submits to Congress.
+
+Prohibits DOE from establishing any new regional petroleum product reserve unless funding is explicitly requested in advance and approved by Congress.
+
+(Sec. 308) Rescinds specified unobligated balances that were appropriated to DOE for Energy Programs and the Power Marketing Administrations for FY2005-FY2010.
+
+(Sec. 309) Rescinds specified unobligated balances previously appropriated to DOE for the National Nuclear Security Administration.
+
+(Sec. 310) Permits up to $50 million of the funds provided to the National Nuclear Security Administration for Weapons Activities to be reprogrammed for Domestic Uranium Enrichment.
+
+(Sec. 311) Permits DOD to: (1) enter into contracts to store spent nuclear fuel and high-level radioactive waste to which DOE holds the title or has a contract to accept title, and (2) enter into new contracts or modify existing contracts to accept title for high-level radioactive waste or spent nuclear fuel.
+
+Provides that delivery and acceptance by DOE of any spent fuel or waste for storage under this section shall constitute a transfer of title to DOE.
+
+(Sec. 312) Provides that specified requirements regarding the management of information technology projects and authorities of Chief Information Officers over the projects do not apply to Federal Funded Research and Development Centers sponsored by DOE.
+
+TITLE IV--INDEPENDENT AGENCIES
+
+Provides appropriations to: (1) the Appalachian Regional Commission, (2) the Defense Nuclear Facilities Safety Board, (3) the Delta Regional Authority, (4) the Denali Commission, (5) the Northern Border Regional Commission, (6) the Nuclear Regulatory Commission (NRC), and (7) the Nuclear Waste Technical Review Board.
+
+(Sec. 401) Permits the NRC to reprogram funds provided by this title if Congress is notified in advance regarding any proposed reprogramming that would change any program funding level by more than $500,000 or 10 percent, whichever is less. Permits the NRC to waive the notification requirement if compliance would pose a substantial risk to human health, the environment, welfare, or national security.
+
+Prohibits NRC funds from being used for a reprogramming that increases funds or personnel for any program, project, or activity for which funds are denied or restricted by this bill.
+
+Requires the NRC to submit a monthly report to Congress that includes total budget authority, unobligated balances, and unliquidated obligations for each program, project, or activity.
+
+(Sec. 402) Requires the NRC to comply with specified internal procedures when responding to congressional requests for information.
+
+(Sec. 403) Amends the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999 to permit the interest from the Trans-Alaska Pipeline Liability Fund that is deposited into the Oil Spill Liability Trust Fund and transferred to the Denali Commission to be used for the construction and repair of barge mooring points and barge landing sites to facilitate pumping fuel from fuel transport barges into bulk fuel storage tanks.
+
+TITLE V--GENERAL PROVISIONS
+
+(Sec. 501) Prohibits funds provided by this bill from being used to influence congressional action on any legislation or appropriation matters pending before Congress.
+
+(Sec. 502) Prohibits transfers of funds made available in title III (Department of Energy) of this bill except pursuant to specified authorities for transferring funds or providing goods and services to another entity of the U.S. government.
+
+Requires agencies that utilize transfer authority to provide a semiannual report to Congress detailing the transfer authority used, including the amounts transferred and the purposes for which they were transferred.
+
+(Sec. 503) Prohibits funds provided by this bill from being used for Executive Order No. 13690 (Establishing a Federal Flood Risk Management Standard and a Process for Further Soliciting and Considering Stakeholder Input).</summary>
+</bill>

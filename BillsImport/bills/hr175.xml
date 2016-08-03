@@ -1,0 +1,34 @@
+<bill session="114" type="hr" number="175" updated="2015-05-14T04:46:25-04:00">
+  <state datetime="2015-03-26">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-26"/>
+  </status>
+  <introduced datetime="2015-03-26"/>
+  <titles>
+    <title type="official" as="introduced">Expressing support for designation of March 2015 as "National Cheerleading Safety Month".</title>
+  </titles>
+  <sponsor id="412579"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-03-26" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-03-27">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Child safety and welfare"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="School athletics"/>
+  </subjects>
+  <amendments/>
+  <summary>3/26/2015--Introduced.
+Expresses support for: (1) the designation of National Cheerleading Safety Month, (2) efforts to educate cheerleaders on the importance of safety, and (3) efforts to promote measures to increase cheerleader safety.</summary>
+</bill>

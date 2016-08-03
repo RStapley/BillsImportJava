@@ -1,0 +1,32 @@
+<bill session="114" type="s" number="1501" updated="2015-06-13T06:57:19-04:00">
+  <state datetime="2015-06-03">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-03"/>
+  </status>
+  <introduced datetime="2015-06-03"/>
+  <titles>
+    <title type="short" as="introduced">American Job Creation and Investment Promotion Reform Act of 2015</title>
+    <title type="official" as="introduced">A bill to promote and reform foreign capital investment and job creation in American communities.</title>
+  </titles>
+  <sponsor id="300065"/>
+  <cosponsors>
+    <cosponsor id="300048" joined="2015-06-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-03">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S3681-3682"/>
+    </action>
+    <action datetime="2015-06-03" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Immigration"/>
+  </subjects>
+  <amendments/>
+</bill>

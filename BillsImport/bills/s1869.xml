@@ -1,0 +1,31 @@
+<bill session="114" type="s" number="1869" updated="2015-08-15T07:07:27-04:00">
+  <state datetime="2015-07-29">REPORTED</state>
+  <status>
+    <unknown datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-27"/>
+  <titles>
+    <title type="official" as="introduced">A bill to improve Federal network security and authorize and enhance an existing intrusion detection and prevention system for civilian Federal networks.</title>
+  </titles>
+  <sponsor id="300019"/>
+  <cosponsors>
+    <cosponsor id="412496" joined="2015-07-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-27" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <calendar datetime="2015-07-29" state="REPORTED">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported with amendments favorably.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+</bill>

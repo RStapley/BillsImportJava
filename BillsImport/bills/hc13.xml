@@ -1,0 +1,77 @@
+<bill session="114" type="hc" number="13" updated="2015-05-15T04:49:08-04:00">
+  <state datetime="2015-05-14">REPORTED</state>
+  <status>
+    <unknown datetime="2015-05-14"/>
+  </status>
+  <introduced datetime="2015-02-03"/>
+  <titles>
+    <title type="official" as="introduced">Expressing the sense of Congress that the radical Islamic movement in Afghanistan known as the Taliban should be recognized officially as a foreign terrorist organization by the United States Government.</title>
+  </titles>
+  <sponsor id="412487"/>
+  <cosponsors>
+    <cosponsor id="412655" joined="2015-02-13"/>
+    <cosponsor id="412541" joined="2015-02-04"/>
+    <cosponsor id="412395" joined="2015-02-04"/>
+    <cosponsor id="412427" joined="2015-02-04"/>
+    <cosponsor id="400052" joined="2015-02-04"/>
+    <cosponsor id="400071" joined="2015-02-04"/>
+    <cosponsor id="400655" joined="2015-02-04"/>
+    <cosponsor id="412472" joined="2015-02-05"/>
+    <cosponsor id="400141" joined="2015-02-04"/>
+    <cosponsor id="412397" joined="2015-02-05"/>
+    <cosponsor id="412434" joined="2015-02-04"/>
+    <cosponsor id="412663" joined="2015-02-10"/>
+    <cosponsor id="412191" joined="2015-02-04"/>
+    <cosponsor id="412256" joined="2015-02-10"/>
+    <cosponsor id="400279" joined="2015-02-05"/>
+    <cosponsor id="412662" joined="2015-02-10"/>
+    <cosponsor id="400441" joined="2015-02-04"/>
+    <cosponsor id="412443" joined="2015-02-20"/>
+    <cosponsor id="412551" joined="2015-02-04"/>
+    <cosponsor id="400320" joined="2015-02-04"/>
+    <cosponsor id="412417" joined="2015-02-05"/>
+    <cosponsor id="400367" joined="2015-02-04"/>
+    <cosponsor id="412405" joined="2015-02-04"/>
+    <cosponsor id="412538" joined="2015-02-04"/>
+    <cosponsor id="412574" joined="2015-02-10"/>
+    <cosponsor id="400433" joined="2015-02-04"/>
+    <cosponsor id="412255" joined="2015-02-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-03" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-02-19">
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+    </action>
+    <action datetime="2015-05-13">
+      <text>Subcommittee on Immigration and Border Security Discharged.</text>
+    </action>
+    <action datetime="2015-05-14">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-05-14" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup"/>
+    <committee activity="Referral, Discharged" code="HSJU01" subcommittee="Immigration and Border Security" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Afghanistan"/>
+    <term name="Asia"/>
+    <term name="Foreign property"/>
+    <term name="Immigration status and procedures"/>
+    <term name="Sanctions"/>
+    <term name="Terrorism"/>
+    <term name="Visas and passports"/>
+  </subjects>
+  <amendments/>
+  <summary>2/3/2015--Introduced.
+Calls on the Department of State and the Administration to recognize officially the Taliban as a foreign terrorist organization.
+
+ Requests the Secretary of State to designate the Taliban as a foreign terrorist organization and impose any and all applicable restrictions and sanctions.</summary>
+</bill>

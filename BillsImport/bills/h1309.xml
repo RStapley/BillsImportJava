@@ -1,0 +1,131 @@
+<bill session="114" type="h" number="1309" updated="2015-07-30T04:48:33-04:00">
+  <state datetime="2015-03-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-04"/>
+  </status>
+  <introduced datetime="2015-03-04"/>
+  <titles>
+    <title type="short" as="introduced">Systemic Risk Designation Improvement Act of 2015</title>
+    <title type="official" as="introduced">To amend the Dodd-Frank Wall Street Reform and Consumer Protection Act to specify when bank holding companies may be subject to certain enhanced supervision, and for other purposes.</title>
+  </titles>
+  <sponsor id="412292"/>
+  <cosponsors>
+    <cosponsor id="412630" joined="2015-04-21"/>
+    <cosponsor id="412625" joined="2015-06-03"/>
+    <cosponsor id="412655" joined="2015-04-23"/>
+    <cosponsor id="412541" joined="2015-04-15"/>
+    <cosponsor id="412565" joined="2015-04-29"/>
+    <cosponsor id="400029" joined="2015-06-24"/>
+    <cosponsor id="412478" joined="2015-05-01"/>
+    <cosponsor id="400032" joined="2015-07-23"/>
+    <cosponsor id="412627" joined="2015-05-01"/>
+    <cosponsor id="400046" joined="2015-07-23"/>
+    <cosponsor id="412395" joined="2015-04-13"/>
+    <cosponsor id="412196" joined="2015-04-21"/>
+    <cosponsor id="412427" joined="2015-05-20"/>
+    <cosponsor id="412601" joined="2015-04-13"/>
+    <cosponsor id="412622" joined="2015-04-29"/>
+    <cosponsor id="400068" joined="2015-06-16"/>
+    <cosponsor id="412270" joined="2015-06-16"/>
+    <cosponsor id="400639" joined="2015-05-01"/>
+    <cosponsor id="412400" joined="2015-05-05"/>
+    <cosponsor id="412621" joined="2015-04-15"/>
+    <cosponsor id="412477" joined="2015-07-23"/>
+    <cosponsor id="412420" joined="2015-04-23"/>
+    <cosponsor id="412482" joined="2015-03-23"/>
+    <cosponsor id="412479" joined="2015-03-23"/>
+    <cosponsor id="412476" joined="2015-04-29"/>
+    <cosponsor id="412480" joined="2015-06-08"/>
+    <cosponsor id="400137" joined="2015-05-21"/>
+    <cosponsor id="412529" joined="2015-06-03"/>
+    <cosponsor id="412620" joined="2015-04-23"/>
+    <cosponsor id="400157" joined="2015-05-15"/>
+    <cosponsor id="412485" joined="2015-07-16"/>
+    <cosponsor id="412280" joined="2015-04-21"/>
+    <cosponsor id="400170" joined="2015-04-22"/>
+    <cosponsor id="400641" joined="2015-06-18"/>
+    <cosponsor id="412609" joined="2015-03-06"/>
+    <cosponsor id="412437" joined="2015-04-13"/>
+    <cosponsor id="412422" joined="2015-05-15"/>
+    <cosponsor id="412484" joined="2015-04-23"/>
+    <cosponsor id="412284" joined="2015-06-24"/>
+    <cosponsor id="400206" joined="2015-06-03"/>
+    <cosponsor id="412603" joined="2015-05-15"/>
+    <cosponsor id="400219" joined="2015-04-29"/>
+    <cosponsor id="412290" joined="2015-06-03"/>
+    <cosponsor id="412656" joined="2015-04-13"/>
+    <cosponsor id="400247" joined="2015-07-23"/>
+    <cosponsor id="400656" joined="2015-05-15"/>
+    <cosponsor id="412560" joined="2015-04-29"/>
+    <cosponsor id="412540" joined="2015-04-15"/>
+    <cosponsor id="400279" joined="2015-06-25"/>
+    <cosponsor id="412474" joined="2015-04-13"/>
+    <cosponsor id="412527" joined="2015-03-04"/>
+    <cosponsor id="412409" joined="2015-05-20"/>
+    <cosponsor id="412302" joined="2015-04-15"/>
+    <cosponsor id="400313" joined="2015-05-05"/>
+    <cosponsor id="412523" joined="2015-05-12"/>
+    <cosponsor id="412551" joined="2015-04-15"/>
+    <cosponsor id="400652" joined="2015-04-13"/>
+    <cosponsor id="412633" joined="2015-04-29"/>
+    <cosponsor id="412309" joined="2015-03-24"/>
+    <cosponsor id="412653" joined="2015-06-03"/>
+    <cosponsor id="412432" joined="2015-04-21"/>
+    <cosponsor id="412394" joined="2015-03-17"/>
+    <cosponsor id="412310" joined="2015-05-12"/>
+    <cosponsor id="400341" joined="2015-04-23"/>
+    <cosponsor id="412411" joined="2015-04-29"/>
+    <cosponsor id="412570" joined="2015-07-29"/>
+    <cosponsor id="400348" joined="2015-07-10"/>
+    <cosponsor id="412399" joined="2015-03-16"/>
+    <cosponsor id="400363" joined="2015-03-04"/>
+    <cosponsor id="400367" joined="2015-03-24"/>
+    <cosponsor id="412396" joined="2015-03-04"/>
+    <cosponsor id="412509" joined="2015-03-04"/>
+    <cosponsor id="412596" joined="2015-07-29"/>
+    <cosponsor id="400381" joined="2015-04-13"/>
+    <cosponsor id="412581" joined="2015-06-08"/>
+    <cosponsor id="412461" joined="2015-03-04"/>
+    <cosponsor id="412392" joined="2015-06-03"/>
+    <cosponsor id="412405" joined="2015-04-15"/>
+    <cosponsor id="412579" joined="2015-06-08"/>
+    <cosponsor id="412580" joined="2015-04-22"/>
+    <cosponsor id="412548" joined="2015-05-01"/>
+    <cosponsor id="412410" joined="2015-04-29"/>
+    <cosponsor id="400627" joined="2015-04-29"/>
+    <cosponsor id="412578" joined="2015-03-04"/>
+    <cosponsor id="412412" joined="2015-05-01"/>
+    <cosponsor id="412402" joined="2015-06-24"/>
+    <cosponsor id="412525" joined="2015-05-20"/>
+    <cosponsor id="412628" joined="2015-07-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-04" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Banking and financial institutions regulation"/>
+    <term name="Federal Reserve System"/>
+    <term name="Financial services and investments"/>
+  </subjects>
+  <amendments/>
+  <summary>3/4/2015--Introduced.
+Systemic Risk Designation Improvement Act of 2015
+
+ Amends the Dodd-Frank Wall Street Reform and Consumer Protection Act to authorize the Financial Stability Oversight Council to subject a bank holding company to enhanced supervision and prudential standards by the Board of Governors of the Federal Reserve System, if the Council makes a final determination that either material financial distress at the bank holding company, or the nature, scope, size, scale, concentration, interconnectedness, or mix of its activities, could threaten the financial stability of the United States.
+
+Requires that final determination to be based upon specified factors, using an indicator-based measurement approach established by the Basel Committee on Banking Supervision to determine systemic importance.
+
+Deems any bank holding company designated as a Global Systemically Important Bank by the Financial Stability Board, as of the date of enactment of this Act, to have been the subject of a final determination that it could pose a threat to U.S. financial stability for any of those reasons.
+
+Prohibits the Council from making a final determination concerning a bank holding company under this Act before one year after its enactment.
+
+Deems a bank holding company to have been the subject of such a final determination during this one-year period, however, if its total consolidated assets are $50 billion or more.</summary>
+</bill>

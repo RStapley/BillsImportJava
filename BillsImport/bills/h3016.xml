@@ -1,0 +1,53 @@
+<bill session="114" type="h" number="3016" updated="2015-07-23T04:49:08-04:00">
+  <state datetime="2015-07-09">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-09"/>
+  </status>
+  <introduced datetime="2015-07-09"/>
+  <titles>
+    <title type="short" as="introduced">VA Provider Equity Act</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to clarify the role of podiatrists in the Department of Veterans Affairs.</title>
+  </titles>
+  <sponsor id="412564"/>
+  <cosponsors>
+    <cosponsor id="412630" joined="2015-07-09"/>
+    <cosponsor id="412436" joined="2015-07-09"/>
+    <cosponsor id="412516" joined="2015-07-09"/>
+    <cosponsor id="412271" joined="2015-07-22"/>
+    <cosponsor id="412651" joined="2015-07-15"/>
+    <cosponsor id="412664" joined="2015-07-15"/>
+    <cosponsor id="412310" joined="2015-07-09"/>
+    <cosponsor id="412519" joined="2015-07-09"/>
+    <cosponsor id="400433" joined="2015-07-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-09" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2015-07-12">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2015-07-14">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="2015-07-22">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2015-07-22">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <summary>7/9/2015--Introduced.
+VA Provider Equity Act
+
+This bill includes podiatrists within the Department of Veterans Affairs (VA) definition of physician, and increases their pay grade to match other VA physician compensation.</summary>
+</bill>

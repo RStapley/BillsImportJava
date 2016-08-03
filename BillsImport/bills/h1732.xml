@@ -1,0 +1,206 @@
+<bill session="114" type="h" number="1732" updated="2015-05-16T06:32:11-04:00">
+  <state datetime="2015-05-12T19:33:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2015-05-12T19:33:00-04:00"/>
+  </status>
+  <introduced datetime="2015-04-13"/>
+  <titles>
+    <title type="short" as="introduced">Regulatory Integrity Protection Act of 2015</title>
+    <title type="short" as="reported to house">Regulatory Integrity Protection Act of 2015</title>
+    <title type="short" as="passed house">Regulatory Integrity Protection Act of 2015</title>
+    <title type="official" as="introduced">To preserve existing rights and responsibilities with respect to waters of the United States, and for other purposes.</title>
+  </titles>
+  <sponsor id="409888"/>
+  <cosponsors>
+    <cosponsor id="412630" joined="2015-04-27"/>
+    <cosponsor id="412625" joined="2015-04-16"/>
+    <cosponsor id="412642" joined="2015-04-14"/>
+    <cosponsor id="412655" joined="2015-04-13"/>
+    <cosponsor id="412469" joined="2015-04-13"/>
+    <cosponsor id="412627" joined="2015-04-14"/>
+    <cosponsor id="412539" joined="2015-04-14"/>
+    <cosponsor id="412427" joined="2015-04-16"/>
+    <cosponsor id="400068" joined="2015-04-27"/>
+    <cosponsor id="412563" joined="2015-04-14"/>
+    <cosponsor id="400655" joined="2015-04-13"/>
+    <cosponsor id="412555" joined="2015-04-16"/>
+    <cosponsor id="412400" joined="2015-04-13"/>
+    <cosponsor id="412621" joined="2015-04-23"/>
+    <cosponsor id="412536" joined="2015-04-13"/>
+    <cosponsor id="412403" joined="2015-04-13"/>
+    <cosponsor id="400116" joined="2015-04-14"/>
+    <cosponsor id="412482" joined="2015-04-23"/>
+    <cosponsor id="412479" joined="2015-04-16"/>
+    <cosponsor id="412476" joined="2015-04-27"/>
+    <cosponsor id="412463" joined="2015-04-13"/>
+    <cosponsor id="412453" joined="2015-04-27"/>
+    <cosponsor id="400154" joined="2015-04-14"/>
+    <cosponsor id="412397" joined="2015-04-13"/>
+    <cosponsor id="412631" joined="2015-04-16"/>
+    <cosponsor id="400158" joined="2015-04-13"/>
+    <cosponsor id="412454" joined="2015-04-23"/>
+    <cosponsor id="412645" joined="2015-04-13"/>
+    <cosponsor id="412434" joined="2015-04-22"/>
+    <cosponsor id="412444" joined="2015-04-13"/>
+    <cosponsor id="412429" joined="2015-04-16"/>
+    <cosponsor id="412283" joined="2015-04-23"/>
+    <cosponsor id="412663" joined="2015-04-22"/>
+    <cosponsor id="412649" joined="2015-04-13"/>
+    <cosponsor id="400224" joined="2015-04-16"/>
+    <cosponsor id="412419" joined="2015-04-13"/>
+    <cosponsor id="412292" joined="2015-04-16"/>
+    <cosponsor id="412503" joined="2015-04-13"/>
+    <cosponsor id="412487" joined="2015-04-27"/>
+    <cosponsor id="412552" joined="2015-04-13"/>
+    <cosponsor id="400273" joined="2015-04-23"/>
+    <cosponsor id="400276" joined="2015-04-13"/>
+    <cosponsor id="412568" joined="2015-04-16"/>
+    <cosponsor id="400316" joined="2015-04-13"/>
+    <cosponsor id="412633" joined="2015-04-16"/>
+    <cosponsor id="412489" joined="2015-04-13"/>
+    <cosponsor id="412572" joined="2015-04-23"/>
+    <cosponsor id="412394" joined="2015-04-22"/>
+    <cosponsor id="412310" joined="2015-04-16"/>
+    <cosponsor id="400340" joined="2015-04-23"/>
+    <cosponsor id="412426" joined="2015-04-13"/>
+    <cosponsor id="412311" joined="2015-04-22"/>
+    <cosponsor id="412411" joined="2015-04-22"/>
+    <cosponsor id="412641" joined="2015-04-13"/>
+    <cosponsor id="412650" joined="2015-04-16"/>
+    <cosponsor id="400607" joined="2015-04-22"/>
+    <cosponsor id="400376" joined="2015-04-16"/>
+    <cosponsor id="400381" joined="2015-04-13"/>
+    <cosponsor id="412648" joined="2015-04-23"/>
+    <cosponsor id="412392" joined="2015-04-27"/>
+    <cosponsor id="412317" joined="2015-04-16"/>
+    <cosponsor id="412405" joined="2015-04-14"/>
+    <cosponsor id="400414" joined="2015-04-13"/>
+    <cosponsor id="412515" joined="2015-04-14"/>
+    <cosponsor id="412548" joined="2015-04-27"/>
+    <cosponsor id="412538" joined="2015-04-13"/>
+    <cosponsor id="412618" joined="2015-04-13"/>
+    <cosponsor id="412410" joined="2015-04-14"/>
+    <cosponsor id="412416" joined="2015-04-13"/>
+    <cosponsor id="400440" joined="2015-04-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-13" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2015-04-14">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+    </action>
+    <action datetime="2015-04-15">
+      <text>Subcommittee on Water Resources and Environment Discharged.</text>
+    </action>
+    <action datetime="2015-04-15">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-04-15" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 36 - 22.</text>
+    </calendar>
+    <action datetime="2015-04-27T20:10:00-04:00">
+      <text>Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 114-93.</text>
+    </action>
+    <calendar datetime="2015-04-27T20:10:00-04:00" calendar="Union" number="66">
+      <text>Placed on the Union Calendar, Calendar No. 66.</text>
+    </calendar>
+    <action datetime="2015-04-29T20:32:00-04:00">
+      <text>Rules Committee Resolution H. Res. 231 Reported to House. Resolution provides for consideration of H.R. 1732, the conference report to accompany S. Con. Res. 11, and H.J. Res. 43.</text>
+    </action>
+    <action datetime="2015-05-12T16:02:00-04:00">
+      <text>Considered under the provisions of rule H. Res. 231.</text>
+      <reference ref="CR H2827-2840" label="consideration"/>
+      <reference ref="CR H2836-2837" label="text of amendment in the nature of a substitute"/>
+    </action>
+    <action datetime="2015-05-12T16:02:00-04:00">
+      <text>Resolution provides for consideration of H.R. 1732, the conference report to accompany S. Con. Res. 11, and H.J. Res. 43.</text>
+    </action>
+    <action datetime="2015-05-12T16:03:00-04:00">
+      <text>House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 231 and Rule XVIII.</text>
+    </action>
+    <action datetime="2015-05-12T16:03:00-04:00">
+      <text>The Speaker designated the Honorable David Young to act as Chairman of the Committee.</text>
+    </action>
+    <action datetime="2015-05-12T16:03:00-04:00">
+      <text>GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 1732. Pursuant to the provisions of H. Res. 231, the rule makes in order as original text for the purpose of amendment in the nature of a substitute consisting of the text Rules Committee Print 114-13 modified by the amendment printed in Part A of the Rules Committee report.</text>
+    </action>
+    <action datetime="2015-05-12T17:01:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 231, the Committee of the Whole proceeded with 10 minutes of debate on the Edwards Part B amendment no. 1.</text>
+    </action>
+    <action datetime="2015-05-12T17:12:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Edwards amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Ms. Edwards demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2015-05-12T17:13:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 231, the Committee of the Whole proceeded with 10 minutes of debate on the Kildee Part B amendment no. 2.</text>
+    </action>
+    <action datetime="2015-05-12T17:20:00-04:00">
+      <text>The House rose from the Committee of the Whole House on the state of the Union to report H.R. 1732.</text>
+    </action>
+    <action datetime="2015-05-12T17:20:00-04:00">
+      <text>Pursuant to clause 1(c) of rule 19, further consideration of H.R. 1732 was postponed.</text>
+    </action>
+    <action datetime="2015-05-12T19:03:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H2851-2854" label="consideration"/>
+    </action>
+    <action datetime="2015-05-12T19:03:00-04:00">
+      <text>The House resolved into Committee of the Whole House on the state of the Union for further consideration.</text>
+    </action>
+    <action datetime="2015-05-12T19:11:00-04:00">
+      <text>The House rose from the Committee of the Whole House on the state of the Union to report H.R. 1732.</text>
+    </action>
+    <action datetime="2015-05-12T19:12:00-04:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+      <reference ref="CR H2852" label="consideration"/>
+    </action>
+    <action datetime="2015-05-12T19:12:00-04:00">
+      <text>The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union.</text>
+    </action>
+    <action datetime="2015-05-12T19:12:00-04:00">
+      <text>Mr. Aguilar moved to recommit with instructions to the Committee on Transportation.</text>
+      <reference ref="CR H2852-2853" label="consideration"/>
+      <reference ref="CR H2852" label="text"/>
+    </action>
+    <action datetime="2015-05-12T19:12:00-04:00">
+      <text>DEBATE - The House proceeded with ten minutes of debate on the Aguilar motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to direct the Secretary of the Army and the Administrator of the Environmental Protection Agency to protect the quality and integrity of surface waters and wetlands in the rulemaking required by the underlying bill. The agencies must: (1) safeguard public water supplies, including the Great Lakes and other areas affected by algal blooms; (2) mitigate against the drought in California and other western States; (3) preserve water for agricultural purposes, including irrigation; and (4) alleviate potential adverse impacts of flooding and coastal storms.</text>
+    </action>
+    <action datetime="2015-05-12T19:22:00-04:00">
+      <text>On motion to recommit with instructions Failed by the Yeas and Nays: 175 - 241 (Roll No. 218).</text>
+    </action>
+    <vote how="roll" type="vote" roll="219" datetime="2015-05-12T19:33:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by recorded vote: 261 - 155 (Roll no. 219).</text>
+    </vote>
+    <action datetime="2015-05-12T19:33:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2015-05-13">
+      <text>Received in the Senate.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSPW02" subcommittee="Water Resources and Environment" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="hr" number="231"/>
+    <bill relation="rule" session="114" type="hr" number="231"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Army Corps of Engineers"/>
+    <term name="Economic performance and conditions"/>
+    <term name="Environmental Protection Agency (EPA)"/>
+    <term name="Environmental regulatory procedures"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Property rights"/>
+    <term name="State and local government operations"/>
+    <term name="Water quality"/>
+    <term name="Wetlands"/>
+  </subjects>
+  <amendments>
+    <amendment number="h212"/>
+    <amendment number="h213"/>
+  </amendments>
+</bill>

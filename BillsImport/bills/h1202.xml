@@ -1,0 +1,82 @@
+<bill session="114" type="h" number="1202" updated="2015-08-01T04:50:36-04:00">
+  <state datetime="2015-03-02">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-02"/>
+  </status>
+  <introduced datetime="2015-03-02"/>
+  <titles>
+    <title type="short" as="introduced">Medicare Patient Access to Hospice Act of 2015</title>
+    <title type="official" as="introduced">To amend title XVIII of the Social Security Act to provide for the recognition of attending physician assistants as attending physicians to serve hospice patients, and for other purposes.</title>
+  </titles>
+  <sponsor id="412284"/>
+  <cosponsors>
+    <cosponsor id="400033" joined="2015-04-14"/>
+    <cosponsor id="400041" joined="2015-06-11"/>
+    <cosponsor id="412516" joined="2015-04-14"/>
+    <cosponsor id="412379" joined="2015-06-04"/>
+    <cosponsor id="400100" joined="2015-04-14"/>
+    <cosponsor id="400103" joined="2015-07-31"/>
+    <cosponsor id="412613" joined="2015-07-23"/>
+    <cosponsor id="412524" joined="2015-05-21"/>
+    <cosponsor id="412382" joined="2015-06-01"/>
+    <cosponsor id="412453" joined="2015-06-09"/>
+    <cosponsor id="400162" joined="2015-07-21"/>
+    <cosponsor id="400163" joined="2015-06-23"/>
+    <cosponsor id="400170" joined="2015-06-01"/>
+    <cosponsor id="412446" joined="2015-03-10"/>
+    <cosponsor id="412511" joined="2015-06-01"/>
+    <cosponsor id="400209" joined="2015-05-14"/>
+    <cosponsor id="400220" joined="2015-07-14"/>
+    <cosponsor id="412286" joined="2015-04-22"/>
+    <cosponsor id="412209" joined="2015-03-23"/>
+    <cosponsor id="400245" joined="2015-06-04"/>
+    <cosponsor id="412294" joined="2015-06-09"/>
+    <cosponsor id="400263" joined="2015-04-16"/>
+    <cosponsor id="412302" joined="2015-06-23"/>
+    <cosponsor id="412523" joined="2015-04-28"/>
+    <cosponsor id="400316" joined="2015-04-22"/>
+    <cosponsor id="412307" joined="2015-06-04"/>
+    <cosponsor id="400652" joined="2015-05-21"/>
+    <cosponsor id="412489" joined="2015-05-21"/>
+    <cosponsor id="412520" joined="2015-05-14"/>
+    <cosponsor id="400403" joined="2015-03-02"/>
+    <cosponsor id="412617" joined="2015-06-11"/>
+    <cosponsor id="412618" joined="2015-06-01"/>
+    <cosponsor id="412578" joined="2015-05-14"/>
+    <cosponsor id="412628" joined="2015-06-18"/>
+    <cosponsor id="400440" joined="2015-04-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-02" state="REFERRED">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-03-02">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-03-02">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-03-06">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="1354"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Health personnel"/>
+    <term name="Long-term, rehabilitative, and terminal care"/>
+    <term name="Medicare"/>
+  </subjects>
+  <amendments/>
+  <summary>3/2/2015--Introduced.
+Medicare Patient Access to Hospice Act of 2015 
+
+ Amends title XVIII (Medicare) of the Social Security Act to recognize attending physician assistants as attending physicians to serve hospice patients.</summary>
+</bill>

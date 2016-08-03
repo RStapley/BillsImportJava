@@ -1,0 +1,53 @@
+<bill session="114" type="h" number="2067" updated="2015-07-29T04:48:17-04:00">
+  <state datetime="2015-04-28">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-28"/>
+  </status>
+  <introduced datetime="2015-04-28"/>
+  <titles>
+    <title type="short" as="introduced">Cold War Service Medal Act of 2015</title>
+    <title type="official" as="introduced">To amend title 10, United States Code, to provide for the award of a military service medal to members of the Armed Forces who served honorably during the Cold War, and for other purposes.</title>
+  </titles>
+  <sponsor id="400195"/>
+  <cosponsors>
+    <cosponsor id="412436" joined="2015-05-20"/>
+    <cosponsor id="412193" joined="2015-04-28"/>
+    <cosponsor id="400087" joined="2015-04-28"/>
+    <cosponsor id="412621" joined="2015-05-20"/>
+    <cosponsor id="412524" joined="2015-07-28"/>
+    <cosponsor id="400640" joined="2015-05-20"/>
+    <cosponsor id="412603" joined="2015-04-28"/>
+    <cosponsor id="412616" joined="2015-07-07"/>
+    <cosponsor id="400246" joined="2015-05-20"/>
+    <cosponsor id="412487" joined="2015-04-28"/>
+    <cosponsor id="400271" joined="2015-04-28"/>
+    <cosponsor id="400279" joined="2015-04-28"/>
+    <cosponsor id="412307" joined="2015-04-28"/>
+    <cosponsor id="400344" joined="2015-05-20"/>
+    <cosponsor id="400352" joined="2015-05-20"/>
+    <cosponsor id="412239" joined="2015-07-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-28" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Military history"/>
+    <term name="Military personnel and dependents"/>
+    <term name="National Guard and reserves"/>
+    <term name="U.S. history"/>
+  </subjects>
+  <amendments/>
+  <summary>4/28/2015--Introduced.
+Cold War Service Medal Act of 2015
+
+Authorizes the military department concerned to issue the Cold War Service Medal to members of the Armed Forces who: (1) served on active duty for at least 24 consecutive months during the Cold War (September 2, 1945, through December 26, 1991); (2) were deployed outside the continental United States for at least 30 days during such period; (3) were members of a reserve component of the Armed Forces and were called or ordered to active duty to participate in exercises or operations directly related to the Cold War; or (4) performed other Cold War service as DOD may prescribe. Disqualifies any such person who was not discharged or released from the Armed Forces under under honorable conditions.
+
+Expresses the sense of Congress that DOD should expedite the design and issuance of the Medal.</summary>
+</bill>

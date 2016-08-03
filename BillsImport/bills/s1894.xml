@@ -1,0 +1,30 @@
+<bill session="114" type="s" number="1894" updated="2015-08-06T12:47:37-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">California Emergency Drought Relief Act of 2015</title>
+    <title type="official" as="introduced">A bill to provide short-term water supplies to drought-stricken California.</title>
+  </titles>
+  <sponsor id="300043"/>
+  <cosponsors>
+    <cosponsor id="300011" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-29">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S6141-6142"/>
+    </action>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

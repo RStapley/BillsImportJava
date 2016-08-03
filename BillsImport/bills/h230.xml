@@ -1,0 +1,56 @@
+<bill session="114" type="h" number="230" updated="2015-02-10T04:45:58-05:00">
+  <state datetime="2015-01-08">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-08"/>
+  </status>
+  <introduced datetime="2015-01-08"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Water Resources Development Act of 2000 to authorize the Central Everglades Planning Project, Florida.</title>
+  </titles>
+  <sponsor id="412527"/>
+  <cosponsors>
+    <cosponsor id="400048" joined="2015-01-08"/>
+    <cosponsor id="412195" joined="2015-01-09"/>
+    <cosponsor id="412604" joined="2015-01-08"/>
+    <cosponsor id="400086" joined="2015-01-08"/>
+    <cosponsor id="412385" joined="2015-01-08"/>
+    <cosponsor id="412529" joined="2015-01-08"/>
+    <cosponsor id="412620" joined="2015-01-08"/>
+    <cosponsor id="400170" joined="2015-01-08"/>
+    <cosponsor id="412603" joined="2015-01-08"/>
+    <cosponsor id="412409" joined="2015-02-09"/>
+    <cosponsor id="412309" joined="2015-01-08"/>
+    <cosponsor id="412311" joined="2015-01-08"/>
+    <cosponsor id="412411" joined="2015-01-13"/>
+    <cosponsor id="400623" joined="2015-01-08"/>
+    <cosponsor id="412412" joined="2015-01-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-08" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2015-01-09">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW02" subcommittee="Water Resources and Environment" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="120"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Aquatic ecology"/>
+    <term name="Everglades"/>
+    <term name="Florida"/>
+    <term name="Water quality"/>
+    <term name="Water resources funding"/>
+    <term name="Water use and supply"/>
+    <term name="Wetlands"/>
+  </subjects>
+  <amendments/>
+  <summary>1/8/2015--Introduced.
+Amends the Water Resources Development Act of 2000 to authorize the Secretary of the Army to carry out the project for environmental restoration, CERP, Central Everglades Planning Project, Florida, in accordance with the plans and subject to the conditions recommended in the final report of the Chief of Engineers signed on December 23, 2014.</summary>
+</bill>

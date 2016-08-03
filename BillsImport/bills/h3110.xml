@@ -1,0 +1,46 @@
+<bill session="114" type="h" number="3110" updated="2015-07-29T04:49:08-04:00">
+  <state datetime="2015-07-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-16"/>
+  </status>
+  <introduced datetime="2015-07-16"/>
+  <titles>
+    <title type="short" as="introduced">National Disaster Tax Relief Act of 2015</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to provide tax relief for major disasters declared in any of calendar years 2012 through 2015, to make certain tax relief provisions permanent, and for other purposes.</title>
+  </titles>
+  <sponsor id="412393"/>
+  <cosponsors>
+    <cosponsor id="412630" joined="2015-07-23"/>
+    <cosponsor id="400077" joined="2015-07-16"/>
+    <cosponsor id="412536" joined="2015-07-16"/>
+    <cosponsor id="412505" joined="2015-07-16"/>
+    <cosponsor id="400648" joined="2015-07-16"/>
+    <cosponsor id="400646" joined="2015-07-16"/>
+    <cosponsor id="412453" joined="2015-07-16"/>
+    <cosponsor id="412631" joined="2015-07-28"/>
+    <cosponsor id="412280" joined="2015-07-16"/>
+    <cosponsor id="412465" joined="2015-07-16"/>
+    <cosponsor id="400219" joined="2015-07-16"/>
+    <cosponsor id="412466" joined="2015-07-16"/>
+    <cosponsor id="400309" joined="2015-07-16"/>
+    <cosponsor id="400333" joined="2015-07-16"/>
+    <cosponsor id="412432" joined="2015-07-20"/>
+    <cosponsor id="400380" joined="2015-07-16"/>
+    <cosponsor id="400403" joined="2015-07-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-16" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="1795"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,111 @@
+<bill session="114" type="h" number="2710" updated="2015-07-15T04:48:47-04:00">
+  <state datetime="2015-06-10">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-10"/>
+  </status>
+  <introduced datetime="2015-06-10"/>
+  <titles>
+    <title type="short" as="introduced">Lawful Purpose and Self Defense Act</title>
+    <title type="official" as="introduced">To revise various laws that interfere with the right of the people to obtain and use firearms for all lawful purposes.</title>
+  </titles>
+  <sponsor id="400029"/>
+  <cosponsors>
+    <cosponsor id="412630" joined="2015-06-16"/>
+    <cosponsor id="412500" joined="2015-06-10"/>
+    <cosponsor id="412655" joined="2015-06-10"/>
+    <cosponsor id="400032" joined="2015-06-10"/>
+    <cosponsor id="400636" joined="2015-06-10"/>
+    <cosponsor id="412395" joined="2015-06-24"/>
+    <cosponsor id="412619" joined="2015-06-10"/>
+    <cosponsor id="412622" joined="2015-06-25"/>
+    <cosponsor id="400071" joined="2015-06-10"/>
+    <cosponsor id="412270" joined="2015-06-10"/>
+    <cosponsor id="400655" joined="2015-06-24"/>
+    <cosponsor id="412513" joined="2015-06-10"/>
+    <cosponsor id="412555" joined="2015-06-10"/>
+    <cosponsor id="412400" joined="2015-06-10"/>
+    <cosponsor id="400086" joined="2015-06-10"/>
+    <cosponsor id="400657" joined="2015-06-10"/>
+    <cosponsor id="412472" joined="2015-06-10"/>
+    <cosponsor id="412639" joined="2015-06-10"/>
+    <cosponsor id="412482" joined="2015-06-10"/>
+    <cosponsor id="412275" joined="2015-06-10"/>
+    <cosponsor id="400141" joined="2015-06-10"/>
+    <cosponsor id="412463" joined="2015-06-24"/>
+    <cosponsor id="412397" joined="2015-06-10"/>
+    <cosponsor id="412388" joined="2015-06-10"/>
+    <cosponsor id="412447" joined="2015-06-24"/>
+    <cosponsor id="412280" joined="2015-06-10"/>
+    <cosponsor id="412434" joined="2015-07-14"/>
+    <cosponsor id="412446" joined="2015-06-16"/>
+    <cosponsor id="412623" joined="2015-06-10"/>
+    <cosponsor id="412550" joined="2015-06-10"/>
+    <cosponsor id="412429" joined="2015-06-10"/>
+    <cosponsor id="412283" joined="2015-06-10"/>
+    <cosponsor id="412654" joined="2015-06-10"/>
+    <cosponsor id="400206" joined="2015-06-24"/>
+    <cosponsor id="400209" joined="2015-06-10"/>
+    <cosponsor id="412465" joined="2015-06-10"/>
+    <cosponsor id="400220" joined="2015-06-24"/>
+    <cosponsor id="412614" joined="2015-06-16"/>
+    <cosponsor id="412510" joined="2015-06-10"/>
+    <cosponsor id="412191" joined="2015-06-10"/>
+    <cosponsor id="412256" joined="2015-06-10"/>
+    <cosponsor id="412656" joined="2015-06-10"/>
+    <cosponsor id="400247" joined="2015-06-17"/>
+    <cosponsor id="412292" joined="2015-06-18"/>
+    <cosponsor id="412295" joined="2015-06-10"/>
+    <cosponsor id="400659" joined="2015-06-17"/>
+    <cosponsor id="400279" joined="2015-06-10"/>
+    <cosponsor id="412662" joined="2015-06-24"/>
+    <cosponsor id="400285" joined="2015-06-25"/>
+    <cosponsor id="412660" joined="2015-06-10"/>
+    <cosponsor id="412475" joined="2015-06-17"/>
+    <cosponsor id="400297" joined="2015-06-10"/>
+    <cosponsor id="412302" joined="2015-06-10"/>
+    <cosponsor id="400313" joined="2015-06-10"/>
+    <cosponsor id="412633" joined="2015-06-24"/>
+    <cosponsor id="412431" joined="2015-06-10"/>
+    <cosponsor id="412310" joined="2015-06-24"/>
+    <cosponsor id="412570" joined="2015-06-10"/>
+    <cosponsor id="412650" joined="2015-06-10"/>
+    <cosponsor id="400606" joined="2015-06-10"/>
+    <cosponsor id="412417" joined="2015-06-24"/>
+    <cosponsor id="400367" joined="2015-06-10"/>
+    <cosponsor id="412217" joined="2015-06-10"/>
+    <cosponsor id="400381" joined="2015-06-10"/>
+    <cosponsor id="412581" joined="2015-06-10"/>
+    <cosponsor id="412392" joined="2015-06-24"/>
+    <cosponsor id="412405" joined="2015-06-16"/>
+    <cosponsor id="412515" joined="2015-06-10"/>
+    <cosponsor id="400419" joined="2015-07-14"/>
+    <cosponsor id="412610" joined="2015-06-10"/>
+    <cosponsor id="412402" joined="2015-06-10"/>
+    <cosponsor id="400440" joined="2015-06-10"/>
+    <cosponsor id="412640" joined="2015-06-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-10" state="REFERRED">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-06-10">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2015-06-10">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-07-01">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+  </subjects>
+  <amendments/>
+</bill>

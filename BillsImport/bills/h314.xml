@@ -1,0 +1,53 @@
+<bill session="114" type="h" number="314" updated="2015-06-04T04:47:01-04:00">
+  <state datetime="2015-01-13">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-13"/>
+  </status>
+  <introduced datetime="2015-01-13"/>
+  <titles>
+    <title type="short" as="introduced">Notch Fairness Act of 2015</title>
+    <title type="official" as="introduced">To amend title II of the Social Security Act to allow workers who attain age 65 after 1981 and before 1992 to choose either lump sum payments over four years totaling $5,000 or an improved benefit computation formula under a new 10-year rule governing the transition to the changes in benefit computation rules enacted in the Social Security Amendments of 1977, and for other purposes.</title>
+  </titles>
+  <sponsor id="412560"/>
+  <cosponsors>
+    <cosponsor id="400030" joined="2015-01-13"/>
+    <cosponsor id="400090" joined="2015-01-13"/>
+    <cosponsor id="400160" joined="2015-01-13"/>
+    <cosponsor id="400162" joined="2015-01-13"/>
+    <cosponsor id="400170" joined="2015-02-05"/>
+    <cosponsor id="400245" joined="2015-06-03"/>
+    <cosponsor id="400259" joined="2015-01-13"/>
+    <cosponsor id="400263" joined="2015-01-13"/>
+    <cosponsor id="400285" joined="2015-02-24"/>
+    <cosponsor id="400316" joined="2015-01-13"/>
+    <cosponsor id="400361" joined="2015-01-13"/>
+    <cosponsor id="412211" joined="2015-01-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-13" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="99"/>
+  </relatedbills>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Inflation and prices"/>
+    <term name="Social security and elderly assistance"/>
+  </subjects>
+  <amendments/>
+  <summary>1/13/2015--Introduced.
+Notch Fairness Act of 2015 
+
+Amends title II (Old Age, Survivors and Disability Insurance) (OASDI) of the Social Security Act to revise the formula for the computation of minimum Old Age Insurance benefits for individuals who reached age 65 in or after 1979, and to whom applies the 15-year transition period for the changes in benefit computation rules enacted in the Social Security Amendments of 1977.
+
+("Notch" refers to birth in the United States between 1917 and 1921, as a result of which a retiree born between those years received lower cost-of-living increases in Social Security than others after Congress readjusted Social Security benefits in 1977.)
+
+Sets forth a schedule of additional benefit increases for such beneficiaries (and related beneficiaries), with percentages declining from 55% to 5% and keyed to the year an individual became eligible for such benefits between 1979 and 1988.
+
+Allows such beneficiaries, in the alternative, to receive lump sum payments over four years totaling $5,000.</summary>
+</bill>

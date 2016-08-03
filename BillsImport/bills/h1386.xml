@@ -1,0 +1,42 @@
+<bill session="114" type="h" number="1386" updated="2015-06-27T06:42:22-04:00">
+  <state datetime="2015-03-17">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-17"/>
+  </status>
+  <introduced datetime="2015-03-17"/>
+  <titles>
+    <title type="short" as="introduced">SESO Act</title>
+    <title type="short" as="introduced">Small Entrepreneur Subcontracting Opportunities Act of 2015</title>
+    <title type="official" as="introduced">To include subcontracting goals for small business concerns in the responsibilities of certain members of a Federal agency responsible for acquisition.</title>
+  </titles>
+  <sponsor id="412621"/>
+  <cosponsors>
+    <cosponsor id="412629" joined="2015-03-23"/>
+    <cosponsor id="400071" joined="2015-03-17"/>
+    <cosponsor id="412453" joined="2015-03-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-17" state="REFERRED">
+      <text>Referred to the House Committee on Small Business.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSM" name="House Small Business" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1481"/>
+    <bill relation="unknown" session="114" type="h" number="1735"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Small business"/>
+  </subjects>
+  <amendments/>
+  <summary>3/17/2015--Introduced.
+Small Entrepreneur Subcontracting Opportunities Act of 2015 or the SESO Act
+
+The National Defense Authorization Act for Fiscal Year 2013 is amended with respect to the requirement that federal agency heads ensure that senior executive personnel responsible for acquisition assume responsibility for that agency's success in achieving small business contracting goals and percentages.
+
+Such personnel are also responsible for the agency's success in achieving small business prime contracting and subcontracting goals and percentages.</summary>
+</bill>

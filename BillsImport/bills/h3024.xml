@@ -1,0 +1,34 @@
+<bill session="114" type="h" number="3024" updated="2015-08-01T06:45:00-04:00">
+  <state datetime="2015-07-10">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-10"/>
+  </status>
+  <introduced datetime="2015-07-10"/>
+  <titles>
+    <title type="official" as="introduced">To amend title XVIII of the Social Security Act to permit review of certain Medicare payment determinations for disproportionate share hospitals, and for other purposes.</title>
+  </titles>
+  <sponsor id="400636"/>
+  <cosponsors>
+    <cosponsor id="400046" joined="2015-07-21"/>
+    <cosponsor id="400240" joined="2015-07-10"/>
+    <cosponsor id="400656" joined="2015-07-16"/>
+    <cosponsor id="400355" joined="2015-07-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-10" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+  <summary>7/10/2015--Introduced.
+This bill amends title XVIII (Medicare) of the Social Security Act to repeal the prohibition against, and so permit, administrative or judicial review of any estimate used and any period selected for determining additional Medicare disproportionate share hospital payments to subsection (d) hospitals.
+
+(Generally, a subsection [d] hospital is an acute care hospital, particularly one that receives payments under Medicare's inpatient prospective payment system when providing covered inpatient services to eligible beneficiaries.)</summary>
+</bill>

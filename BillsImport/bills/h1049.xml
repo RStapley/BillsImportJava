@@ -1,0 +1,37 @@
+<bill session="114" type="h" number="1049" updated="2015-03-21T06:25:34-04:00">
+  <state datetime="2015-02-24">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-24"/>
+  </status>
+  <introduced datetime="2015-02-24"/>
+  <titles>
+    <title type="official" as="introduced">To clarify that funding for the Securities Investor Protection Corporation is not subject to the sequester.</title>
+  </titles>
+  <sponsor id="412462"/>
+  <cosponsors>
+    <cosponsor id="412282" joined="2015-02-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-24" state="REFERRED">
+      <text>Referred to the House Committee on the Budget.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBU" name="House Budget" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1048"/>
+    <bill relation="identical" session="114" type="s" number="549"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Appropriations"/>
+    <term name="Budget deficits and national debt"/>
+    <term name="Financial crises and stabilization"/>
+    <term name="Financial services and investments"/>
+    <term name="Securities"/>
+  </subjects>
+  <amendments/>
+  <summary>2/24/2015--Introduced.
+Makes any sequestration ordered by the President under the Balanced Budget and Emergency Deficit Control Act of 1985 (Gramm-Rudman-Hollings Act) inapplicable to funding of the Securities Investor Protection Corporation.</summary>
+</bill>

@@ -1,0 +1,52 @@
+<bill session="114" type="hj" number="36" updated="2015-06-24T04:49:40-04:00">
+  <state datetime="2015-02-26">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-26"/>
+  </status>
+  <introduced datetime="2015-02-26"/>
+  <titles>
+    <title type="official" as="introduced">Proposing an amendment to the Constitution of the United States to clarify the authority of Congress and the States to regulate the expenditure of funds for political activity by corporations.</title>
+  </titles>
+  <sponsor id="412263"/>
+  <cosponsors>
+    <cosponsor id="412516" joined="2015-02-26"/>
+    <cosponsor id="412236" joined="2015-02-26"/>
+    <cosponsor id="400170" joined="2015-02-26"/>
+    <cosponsor id="412282" joined="2015-02-26"/>
+    <cosponsor id="412199" joined="2015-02-26"/>
+    <cosponsor id="412557" joined="2015-06-23"/>
+    <cosponsor id="400237" joined="2015-02-26"/>
+    <cosponsor id="412616" joined="2015-04-30"/>
+    <cosponsor id="400249" joined="2015-02-26"/>
+    <cosponsor id="408211" joined="2015-02-26"/>
+    <cosponsor id="400378" joined="2015-02-26"/>
+    <cosponsor id="412514" joined="2015-02-26"/>
+    <cosponsor id="400415" joined="2015-02-26"/>
+    <cosponsor id="412239" joined="2015-02-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-26" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-03-17">
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU10" subcommittee="Constitution and Civil Justice" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Constitution and constitutional amendments"/>
+    <term name="Corporate finance and management"/>
+    <term name="Elections, voting, political campaign regulation"/>
+    <term name="Political advertising"/>
+  </subjects>
+  <amendments/>
+  <summary>2/26/2015--Introduced.
+Constitutional Amendment 
+
+ States that nothing in the U.S. Constitution shall prohibit Congress and the states from imposing content-neutral regulations and restrictions on the expenditure of funds for political activity by any corporation, limited liability company, or other corporate entity, including but not limited to contributions in support of, or in opposition to, a candidate for public office.</summary>
+</bill>

@@ -1,0 +1,56 @@
+<bill session="114" type="h" number="1946" updated="2015-06-09T04:46:55-04:00">
+  <state datetime="2015-04-22">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-22"/>
+  </status>
+  <introduced datetime="2015-04-22"/>
+  <titles>
+    <title type="short" as="introduced">Green 301 Act</title>
+    <title type="short" as="introduced">Trade and Environment Enforcement Act</title>
+    <title type="official" as="introduced">To amend the Trade Act of 1974 to authorize the United States Trade Representative to take discretionary action if a foreign country is engaging in unreasonable acts, policies, or practices relating to the environment, and for other purposes.</title>
+  </titles>
+  <sponsor id="400033"/>
+  <cosponsors>
+    <cosponsor id="400097" joined="2015-04-22"/>
+    <cosponsor id="400218" joined="2015-04-22"/>
+    <cosponsor id="400232" joined="2015-06-08"/>
+    <cosponsor id="400233" joined="2015-04-22"/>
+    <cosponsor id="400262" joined="2015-04-22"/>
+    <cosponsor id="400291" joined="2015-04-22"/>
+    <cosponsor id="400309" joined="2015-04-22"/>
+    <cosponsor id="400333" joined="2015-04-22"/>
+    <cosponsor id="400355" joined="2015-04-22"/>
+    <cosponsor id="400403" joined="2015-04-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-22">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E555"/>
+    </action>
+    <action datetime="2015-04-22" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Animal and plant health"/>
+    <term name="Congressional oversight"/>
+    <term name="Environmental health"/>
+    <term name="Environmental regulatory procedures"/>
+    <term name="International law and treaties"/>
+    <term name="Land use and conservation"/>
+    <term name="Trade restrictions"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+  <summary>4/22/2015--Introduced.
+Trade and Environment Enforcement Act or the Green 301 Act
+
+ Amends the Trade Act of 1974 to authorize the U.S. Trade Representative (USTR) to take certain discretionary trade action against foreign countries that engage in unreasonable acts, policies, or practices that fail to enforce their environmental laws effectively.
+
+Directs the USTR to identify foreign country trade practices that affect negatively the environment of the United States, the foreign country, a third country, or internationally.</summary>
+</bill>

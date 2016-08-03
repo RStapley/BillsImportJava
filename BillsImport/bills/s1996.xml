@@ -1,0 +1,30 @@
+<bill session="114" type="s" number="1996" updated="2015-08-22T07:08:27-04:00">
+  <state datetime="2015-08-05">REFERRED</state>
+  <status>
+    <introduced datetime="2015-08-05"/>
+  </status>
+  <introduced datetime="2015-08-05"/>
+  <titles>
+    <title type="short" as="introduced">Commonsense Reporting Act of 2015</title>
+    <title type="official" as="introduced">A bill to streamline the employer reporting process and stregthen the eligibility verification process for the premium assistance tax credit and cost-sharing subsidy.</title>
+  </titles>
+  <sponsor id="412321"/>
+  <cosponsors>
+    <cosponsor id="400325" joined="2015-08-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-08-05" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="2712"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+  </subjects>
+  <amendments/>
+</bill>

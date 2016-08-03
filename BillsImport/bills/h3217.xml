@@ -1,0 +1,38 @@
+<bill session="114" type="h" number="3217" updated="2015-08-01T06:46:38-04:00">
+  <state datetime="2015-07-27">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-27"/>
+  </status>
+  <introduced datetime="2015-07-27"/>
+  <titles>
+    <title type="short" as="introduced">Refueling Assistance Act of 2015</title>
+    <title type="official" as="introduced">To require the Secretary of Transportation to conduct a study on the adequacy of motor vehicle refueling assistance to individuals with disabilities, to promulgate regulations in accordance with the results of such study, and for other purposes.</title>
+  </titles>
+  <sponsor id="412537"/>
+  <cosponsors>
+    <cosponsor id="412533" joined="2015-07-27"/>
+    <cosponsor id="400129" joined="2015-07-27"/>
+    <cosponsor id="412209" joined="2015-07-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-27" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+  <summary>7/27/2015--Introduced.
+Refueling Assistance Act of 2015
+
+ Directs the Department of Transportation (DOT) to study motor vehicle refueling assistance to qualified individuals with disabilities.
+
+Requires the DOT to report to Congress the study results and any recommendations for imposing feasible and cost-effective requirements on gas stations to improve motor vehicle refueling assistance for such individuals.
+
+Authorizes the DOT to impose a civil penalty on persons who knowingly violate any regulations issued under this Act.</summary>
+</bill>

@@ -1,0 +1,42 @@
+<bill session="114" type="s" number="1739" updated="2015-08-22T07:06:17-04:00">
+  <state datetime="2015-07-09">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-09"/>
+  </status>
+  <introduced datetime="2015-07-09"/>
+  <titles>
+    <title type="short" as="introduced">Truck Safety Act</title>
+    <title type="official" as="introduced">A bill to increase the minimum levels of financial responsibility for transporting property, and for other purposes.</title>
+  </titles>
+  <sponsor id="412598"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-09" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+    <action datetime="2015-07-16">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S5167-5168"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Commuting"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Transportation"/>
+    <term name="Government studies and investigations"/>
+    <term name="Labor standards"/>
+    <term name="Life, casualty, property insurance"/>
+    <term name="Motor carriers"/>
+    <term name="Motor vehicles"/>
+    <term name="Transportation employees"/>
+    <term name="Transportation safety and security"/>
+    <term name="Wages and earnings"/>
+  </subjects>
+  <amendments/>
+</bill>

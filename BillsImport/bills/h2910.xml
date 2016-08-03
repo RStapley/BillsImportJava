@@ -1,0 +1,37 @@
+<bill session="114" type="h" number="2910" updated="2015-07-10T04:48:40-04:00">
+  <state datetime="2015-06-25">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-25"/>
+  </status>
+  <introduced datetime="2015-06-25"/>
+  <titles>
+    <title type="short" as="introduced">Mexican Wolf Transparency and Accountability Act</title>
+    <title type="official" as="introduced">To ensure the United States Fish and Wildlife Service's Mexican wolf nonessential experimental population 10(j) rule has no force or effect, and for other purposes.</title>
+  </titles>
+  <sponsor id="412397"/>
+  <cosponsors>
+    <cosponsor id="412500" joined="2015-06-25"/>
+    <cosponsor id="400141" joined="2015-06-25"/>
+    <cosponsor id="400651" joined="2015-07-09"/>
+    <cosponsor id="412661" joined="2015-06-25"/>
+    <cosponsor id="412611" joined="2015-06-25"/>
+    <cosponsor id="400313" joined="2015-06-25"/>
+    <cosponsor id="400316" joined="2015-06-25"/>
+    <cosponsor id="400606" joined="2015-06-25"/>
+    <cosponsor id="412399" joined="2015-06-25"/>
+    <cosponsor id="412640" joined="2015-06-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-25" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+  </subjects>
+  <amendments/>
+</bill>

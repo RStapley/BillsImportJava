@@ -1,0 +1,37 @@
+<bill session="114" type="s" number="1496" updated="2015-08-15T07:04:20-04:00">
+  <state datetime="2015-06-03">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-03"/>
+  </status>
+  <introduced datetime="2015-06-03"/>
+  <titles>
+    <title type="short" as="introduced">Ensuring Department of Veterans Affairs Employee Accountability Act</title>
+    <title type="official" as="introduced">A bill to amend title 38, United States Code, to require the Secretary of Veterans Affairs to retain a copy of any reprimand or admonishment received by an employee of the Department in the permanent record of the employee.</title>
+  </titles>
+  <sponsor id="412269"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-06-03" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1038"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Department of Veterans Affairs"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Government ethics and transparency, public corruption"/>
+    <term name="Government information and archives"/>
+    <term name="Personnel records"/>
+  </subjects>
+  <amendments/>
+  <summary>6/3/2015--Introduced.
+Ensuring Department of Veterans Affairs Employee Accountability Act
+
+Requires the Department of Veterans Affairs (VA) to retain in a VA employee's permanent record a copy of any reprimand or admonishment received by such an employee.</summary>
+</bill>

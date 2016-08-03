@@ -1,0 +1,29 @@
+<bill session="114" type="h" number="2816" updated="2015-07-15T04:48:52-04:00">
+  <state datetime="2015-06-17">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-17"/>
+  </status>
+  <introduced datetime="2015-06-17"/>
+  <titles>
+    <title type="official" as="introduced">To direct the Secretary of the Interior to convey certain land in Blaine County, Idaho, to the city of Ketchum, Idaho, to be used to support recreation, educational, and public purposes, including river restoration, floodplain management, and municipal water storage, and for other purposes.</title>
+  </titles>
+  <sponsor id="400376"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-06-17" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2015-07-14">
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="Federal Lands" name="House Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+</bill>

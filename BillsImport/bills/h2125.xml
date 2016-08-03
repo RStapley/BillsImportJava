@@ -1,0 +1,60 @@
+<bill session="114" type="h" number="2125" updated="2015-07-24T04:48:20-04:00">
+  <state datetime="2015-04-30">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-30"/>
+  </status>
+  <introduced datetime="2015-04-30"/>
+  <titles>
+    <title type="short" as="introduced">Keeping Our Campaigns Honest Act of 2015</title>
+    <title type="official" as="introduced">To direct the Federal Communications Commission to revise its sponsorship identification rules so as to require the disclosure of the names of significant donors to persons paying for or furnishing broadcast matter or origination cablecasting matter that is political matter or matter involving the discussion of a controversial issue of public importance.</title>
+  </titles>
+  <sponsor id="412211"/>
+  <cosponsors>
+    <cosponsor id="412615" joined="2015-07-07"/>
+    <cosponsor id="412537" joined="2015-06-24"/>
+    <cosponsor id="400616" joined="2015-04-30"/>
+    <cosponsor id="412221" joined="2015-04-30"/>
+    <cosponsor id="412236" joined="2015-04-30"/>
+    <cosponsor id="412385" joined="2015-04-30"/>
+    <cosponsor id="400114" joined="2015-04-30"/>
+    <cosponsor id="412533" joined="2015-07-23"/>
+    <cosponsor id="412263" joined="2015-04-30"/>
+    <cosponsor id="400124" joined="2015-04-30"/>
+    <cosponsor id="400160" joined="2015-05-18"/>
+    <cosponsor id="412557" joined="2015-06-18"/>
+    <cosponsor id="412209" joined="2015-04-30"/>
+    <cosponsor id="412293" joined="2015-04-30"/>
+    <cosponsor id="400663" joined="2015-04-30"/>
+    <cosponsor id="400263" joined="2015-04-30"/>
+    <cosponsor id="412189" joined="2015-04-30"/>
+    <cosponsor id="400308" joined="2015-04-30"/>
+    <cosponsor id="400314" joined="2015-04-30"/>
+    <cosponsor id="412212" joined="2015-04-30"/>
+    <cosponsor id="412239" joined="2015-04-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-30" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-05-01">
+      <text>Referred to the Subcommittee on Communications and Technology.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF16" subcommittee="Communications and Technology" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Broadcasting, cable, digital technologies"/>
+    <term name="Elections, voting, political campaign regulation"/>
+    <term name="Federal Communications Commission (FCC)"/>
+  </subjects>
+  <amendments/>
+  <summary>4/30/2015--Introduced.
+Keeping Our Campaigns Honest Act of 2015
+
+Directs the Federal Communications Commission to revise its sponsorship identification rules to require the disclosure announcements required for broadcast matter or origination cablecasting matter that is political or that involves the discussion of a controversial issue of public importance to include the names of significant donors to the person whose identity is required to be disclosed in such an announcement.</summary>
+</bill>

@@ -1,0 +1,28 @@
+<bill session="114" type="h" number="3393" updated="2015-08-07T12:48:59-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">Mortgage Fairness Act of 2015</title>
+    <title type="official" as="introduced">To amend the Truth in Lending Act to clarify that the points and fees in connection with a mortgage loan do not include certain compensation amounts already taken into account in setting the interest rate on such loan, and for other purposes.</title>
+  </titles>
+  <sponsor id="412309"/>
+  <cosponsors>
+    <cosponsor id="412411" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Housing and community development"/>
+  </subjects>
+  <amendments/>
+</bill>

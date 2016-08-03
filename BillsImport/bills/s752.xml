@@ -1,0 +1,50 @@
+<bill session="114" type="s" number="752" updated="2015-08-08T06:57:58-04:00">
+  <state datetime="2015-03-17">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-17"/>
+  </status>
+  <introduced datetime="2015-03-17"/>
+  <titles>
+    <title type="official" as="introduced">A bill to establish a scorekeeping rule to ensure that increases in guarantee fees of Fannie Mae and Freddie Mac shall not be used to offset provisions that increase the deficit.</title>
+  </titles>
+  <sponsor id="300030"/>
+  <cosponsors>
+    <cosponsor id="412248" joined="2015-03-17"/>
+    <cosponsor id="412205" joined="2015-03-17"/>
+    <cosponsor id="412554" joined="2015-03-17"/>
+    <cosponsor id="412218" joined="2015-03-17"/>
+    <cosponsor id="400222" joined="2015-03-17"/>
+    <cosponsor id="400284" joined="2015-03-17"/>
+    <cosponsor id="412471" joined="2015-03-17"/>
+    <cosponsor id="300089" joined="2015-03-17"/>
+    <cosponsor id="412244" joined="2015-03-17"/>
+    <cosponsor id="400418" joined="2015-03-17"/>
+    <cosponsor id="412321" joined="2015-03-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-17" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Budget.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSBU" name="Senate Budget" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="sc" number="11"/>
+    <bill relation="unknown" session="114" type="s" number="1910"/>
+  </relatedbills>
+  <subjects>
+    <term name="Housing and community development"/>
+    <term name="Budget deficits and national debt"/>
+    <term name="Budget process"/>
+    <term name="Government corporations and government-sponsored enterprises"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Housing finance and home ownership"/>
+    <term name="Legislative rules and procedure"/>
+    <term name="Senate"/>
+    <term name="User charges and fees"/>
+  </subjects>
+  <amendments/>
+  <summary>3/17/2015--Introduced.
+This bill prohibits increases in Federal National Mortgage Association (Fannie Mae) and Federal Home Loan Mortgage Corporation (Freddie Mac) guarantee fees from being used in the Senate to determine the budgetary impact for evaluating budget points of order. Fannie Mae and Freddie Mac purchase mortgages and charge the fees to guarantee the payment of principal and interest. This bill prevents the fee increases from being used to offset provisions that increase the deficit in determining whether a budget point of order applies to legislation.</summary>
+</bill>

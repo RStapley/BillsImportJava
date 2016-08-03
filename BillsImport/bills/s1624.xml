@@ -1,0 +1,42 @@
+<bill session="114" type="s" number="1624" updated="2015-07-25T07:02:48-04:00">
+  <state datetime="2015-06-18">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-18"/>
+  </status>
+  <introduced datetime="2015-06-18"/>
+  <titles>
+    <title type="short" as="introduced">Motorsports Fairness and Permanency Act</title>
+    <title type="official" as="introduced">A bill to provide predictability and certainty in the tax law, create jobs, and encourage investment.</title>
+  </titles>
+  <sponsor id="300093"/>
+  <cosponsors>
+    <cosponsor id="412493" joined="2015-06-18"/>
+    <cosponsor id="400054" joined="2015-06-18"/>
+    <cosponsor id="300023" joined="2015-06-18"/>
+    <cosponsor id="400284" joined="2015-06-18"/>
+    <cosponsor id="300078" joined="2015-06-18"/>
+    <cosponsor id="412305" joined="2015-06-18"/>
+    <cosponsor id="412323" joined="2015-06-18"/>
+    <cosponsor id="412321" joined="2015-06-18"/>
+    <cosponsor id="400432" joined="2015-06-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-18" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="1549"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+  <summary>6/18/2015--Introduced.
+Motorsports Fairness and Permanency Act
+
+Amends the Internal Revenue Code to make permanent the classification, for depreciation purposes, of any motorsports entertainment complex as seven-year property.</summary>
+</bill>

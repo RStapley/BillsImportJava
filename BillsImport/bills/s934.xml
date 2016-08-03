@@ -1,0 +1,38 @@
+<bill session="114" type="s" number="934" updated="2015-04-25T06:44:20-04:00">
+  <state datetime="2015-04-14">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-14"/>
+  </status>
+  <introduced datetime="2015-04-14"/>
+  <titles>
+    <title type="short" as="introduced">Phantom Fuel Reform Act</title>
+    <title type="official" as="introduced">A bill to amend the renewable fuel program under section 211(o) of the Clean Air Act to require the cellulosic biofuel requirement to be based on actual production, and for other purposes.</title>
+  </titles>
+  <sponsor id="400134"/>
+  <cosponsors>
+    <cosponsor id="300030" joined="2015-04-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-14" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="704"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Air quality"/>
+    <term name="Alternative and renewable resources"/>
+    <term name="Energy storage, supplies, demand"/>
+    <term name="Environmental Protection Agency (EPA)"/>
+    <term name="Environmental regulatory procedures"/>
+    <term name="Government information and archives"/>
+    <term name="Motor fuels"/>
+  </subjects>
+  <amendments/>
+</bill>

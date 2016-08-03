@@ -1,0 +1,41 @@
+<bill session="114" type="h" number="2267" updated="2015-07-25T06:37:56-04:00">
+  <state datetime="2015-05-12">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-12"/>
+  </status>
+  <introduced datetime="2015-05-12"/>
+  <titles>
+    <title type="short" as="introduced">PACT (Protecting All College Tuition) Act of 2015</title>
+    <title type="official" as="introduced">To amend title 11, United States Code, to provide an exception to the avoidance of transactions by bankruptcy trustee under section 548 where the transaction was a good faith payment by a parent of post secondary education tuition for that parent's child.</title>
+  </titles>
+  <sponsor id="412563"/>
+  <cosponsors>
+    <cosponsor id="412531" joined="2015-05-19"/>
+    <cosponsor id="412482" joined="2015-05-12"/>
+    <cosponsor id="412540" joined="2015-05-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-12" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-06-01">
+      <text>Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU05" subcommittee="Regulatory Reform, Commercial And Antitrust Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Bankruptcy"/>
+    <term name="Higher education"/>
+    <term name="Student aid and college costs"/>
+  </subjects>
+  <amendments/>
+  <summary>5/12/2015--Introduced.
+PACT (Protecting All College Tuition) Act of 2015
+
+This bill amends the federal bankruptcy code, with respect to transfers of interests that may be avoided by a bankruptcy trustee, to except tuition payments by a parent to an institution of higher education for the education of that parent's child.</summary>
+</bill>

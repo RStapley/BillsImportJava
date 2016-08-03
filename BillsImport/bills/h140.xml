@@ -1,0 +1,68 @@
+<bill session="114" type="h" number="140" updated="2015-07-08T04:47:11-04:00">
+  <state datetime="2015-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-06"/>
+  </status>
+  <introduced datetime="2015-01-06"/>
+  <titles>
+    <title type="short" as="introduced">Birthright Citizenship Act of 2015</title>
+    <title type="official" as="introduced">To amend section 301 of the Immigration and Nationality Act to clarify those classes of individuals born in the United States who are nationals and citizens of the United States at birth.</title>
+  </titles>
+  <sponsor id="400220"/>
+  <cosponsors>
+    <cosponsor id="412655" joined="2015-03-23"/>
+    <cosponsor id="412469" joined="2015-01-30"/>
+    <cosponsor id="412395" joined="2015-01-06"/>
+    <cosponsor id="412622" joined="2015-05-12"/>
+    <cosponsor id="412531" joined="2015-03-23"/>
+    <cosponsor id="412477" joined="2015-01-14"/>
+    <cosponsor id="412472" joined="2015-01-13"/>
+    <cosponsor id="400116" joined="2015-01-06"/>
+    <cosponsor id="400137" joined="2015-05-12"/>
+    <cosponsor id="400640" joined="2015-03-16"/>
+    <cosponsor id="400643" joined="2015-01-30"/>
+    <cosponsor id="400141" joined="2015-03-23"/>
+    <cosponsor id="400651" joined="2015-03-23"/>
+    <cosponsor id="412397" joined="2015-01-07"/>
+    <cosponsor id="412388" joined="2015-05-14"/>
+    <cosponsor id="412623" joined="2015-05-14"/>
+    <cosponsor id="400209" joined="2015-01-13"/>
+    <cosponsor id="400656" joined="2015-03-25"/>
+    <cosponsor id="412409" joined="2015-03-18"/>
+    <cosponsor id="412302" joined="2015-01-13"/>
+    <cosponsor id="412309" joined="2015-04-13"/>
+    <cosponsor id="412310" joined="2015-03-23"/>
+    <cosponsor id="400343" joined="2015-04-22"/>
+    <cosponsor id="400607" joined="2015-04-15"/>
+    <cosponsor id="400381" joined="2015-03-24"/>
+    <cosponsor id="412416" joined="2015-07-07"/>
+    <cosponsor id="412640" joined="2015-01-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-06" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-02-02">
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration and Border Security" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="45"/>
+  </relatedbills>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Citizenship and naturalization"/>
+    <term name="Military personnel and dependents"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/2015--Introduced.
+Birthright Citizenship Act of 2015 
+
+ Amends the Immigration and Nationality Act to consider a person born in the United States "subject to the jurisdiction" of the United States for citizenship at birth purposes if the person is born in the United States of parents, one of whom is: (1) a U.S. citizen or national, (2) a lawful permanent resident alien whose residence is in the United States, or (3) an alien performing active service in the U.S. Armed Forces.
+
+ States that this Act shall not be construed to affect the citizenship or nationality status of any person born before the date of its enactment.</summary>
+</bill>

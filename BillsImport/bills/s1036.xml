@@ -1,0 +1,57 @@
+<bill session="114" type="s" number="1036" updated="2015-06-13T06:53:21-04:00">
+  <state datetime="2015-04-22">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-22"/>
+  </status>
+  <introduced datetime="2015-04-22"/>
+  <titles>
+    <title type="short" as="introduced">Sage-Grouse Protection and Conservation Act</title>
+    <title type="official" as="introduced">A bill to require the Secretary of the Interior and the Secretary of Agriculture to provide certain Western States assistance in the development of statewide conservation and management plans for the protection and recovery of sage-grouse species, and for other purposes.</title>
+  </titles>
+  <sponsor id="412406"/>
+  <cosponsors>
+    <cosponsor id="412251" joined="2015-04-22"/>
+    <cosponsor id="300030" joined="2015-04-22"/>
+    <cosponsor id="412549" joined="2015-04-22"/>
+    <cosponsor id="300041" joined="2015-04-22"/>
+    <cosponsor id="300052" joined="2015-04-22"/>
+    <cosponsor id="412218" joined="2015-04-22"/>
+    <cosponsor id="412495" joined="2015-04-22"/>
+    <cosponsor id="412322" joined="2015-04-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-22" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+    <action datetime="2015-05-06">
+      <text>Committee on Environment and Public Works. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="1997"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Birds"/>
+    <term name="California"/>
+    <term name="Colorado"/>
+    <term name="Endangered and threatened species"/>
+    <term name="Fires"/>
+    <term name="Idaho"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Montana"/>
+    <term name="Nevada"/>
+    <term name="North Dakota"/>
+    <term name="Oregon"/>
+    <term name="South Dakota"/>
+    <term name="State and local government operations"/>
+    <term name="Utah"/>
+    <term name="Washington State"/>
+    <term name="Wildlife conservation and habitat protection"/>
+    <term name="Wyoming"/>
+  </subjects>
+  <amendments/>
+</bill>

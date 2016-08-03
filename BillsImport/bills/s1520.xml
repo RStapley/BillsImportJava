@@ -1,0 +1,36 @@
+<bill session="114" type="s" number="1520" updated="2015-07-25T07:01:56-04:00">
+  <state datetime="2015-06-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-04"/>
+  </status>
+  <introduced datetime="2015-06-04"/>
+  <titles>
+    <title type="short" as="introduced">Protecting Domestic Violence and Stalking Victims Act of 2015</title>
+    <title type="official" as="introduced">A bill to protect victims of stalking from violence.</title>
+  </titles>
+  <sponsor id="412242"/>
+  <cosponsors>
+    <cosponsor id="412200" joined="2015-06-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-04" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="3130"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+  </subjects>
+  <amendments/>
+  <summary>6/4/2015--Introduced.
+Protecting Domestic Violence and Stalking Victims Act of 2015
+
+ Amends the Brady Handgun Violence Prevention Act to revise the definition of: (1) "intimate partner" to include a dating partner and any other person similarly situated to a spouse who is protected by the domestic or family violence laws of the state or tribal jurisdiction in which the injury occurred or where the victim resides; and (2) "misdemeanor crime of domestic violence&#8221; to include the use or attempted use of physical force or a deadly weapon by a current or former intimate partner.
+
+Prohibits: (1) the sale or other disposition of a firearm or ammunition to any person knowing or having reasonable cause to believe that such person has been convicted of a misdemeanor crime of stalking; and (2) the shipment or possession of a firearm or ammunition in interstate or foreign commerce, or the receipt of a firearm or ammunition that has been transported in interstate or foreign commerce, by an individual who has been convicted of a misdemeanor crime of stalking.</summary>
+</bill>

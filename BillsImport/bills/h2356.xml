@@ -1,0 +1,38 @@
+<bill session="114" type="h" number="2356" updated="2015-07-25T06:38:40-04:00">
+  <state datetime="2015-05-20">REPORTED</state>
+  <status>
+    <unknown datetime="2015-05-20"/>
+  </status>
+  <introduced datetime="2015-05-15"/>
+  <titles>
+    <title type="short" as="introduced">Fair Access to Investment Research Act of 2015</title>
+    <title type="official" as="introduced">To direct the Securities and Exchange Commission to provide a safe harbor related to certain investment fund research reports, and for other purposes.</title>
+  </titles>
+  <sponsor id="412609"/>
+  <cosponsors>
+    <cosponsor id="412407" joined="2015-05-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-15" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2015-05-20">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-05-20" state="REPORTED">
+      <text>Ordered to be Reported by the Yeas and Nays: 48 - 9.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Financial services and investments"/>
+    <term name="Securities"/>
+    <term name="Securities and Exchange Commission (SEC)"/>
+  </subjects>
+  <amendments/>
+</bill>

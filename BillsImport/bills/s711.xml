@@ -1,0 +1,65 @@
+<bill session="114" type="s" number="711" updated="2015-06-25T04:48:45-04:00">
+  <state datetime="2015-03-11">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-11"/>
+  </status>
+  <introduced datetime="2015-03-11"/>
+  <titles>
+    <title type="short" as="introduced">Mental Health First Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend section 520J of the Public Service Health Act to authorize grants for mental health first aid training programs.</title>
+  </titles>
+  <sponsor id="412493"/>
+  <cosponsors>
+    <cosponsor id="412330" joined="2015-03-11"/>
+    <cosponsor id="412490" joined="2015-03-11"/>
+    <cosponsor id="300025" joined="2015-05-20"/>
+    <cosponsor id="412390" joined="2015-03-11"/>
+    <cosponsor id="300048" joined="2015-03-11"/>
+    <cosponsor id="412554" joined="2015-03-11"/>
+    <cosponsor id="412218" joined="2015-03-11"/>
+    <cosponsor id="412194" joined="2015-03-16"/>
+    <cosponsor id="412305" joined="2015-06-24"/>
+    <cosponsor id="400325" joined="2015-03-11"/>
+    <cosponsor id="300081" joined="2015-03-11"/>
+    <cosponsor id="412491" joined="2015-03-11"/>
+    <cosponsor id="412323" joined="2015-03-11"/>
+    <cosponsor id="300093" joined="2015-05-04"/>
+    <cosponsor id="412665" joined="2015-06-08"/>
+    <cosponsor id="412244" joined="2015-05-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-11" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1877"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Education programs funding"/>
+    <term name="Emergency medical services and trauma care"/>
+    <term name="Health personnel"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Medical education"/>
+    <term name="Mental health"/>
+    <term name="Nursing"/>
+    <term name="Rural conditions and development"/>
+    <term name="School administration"/>
+    <term name="Teaching, teachers, curricula"/>
+  </subjects>
+  <amendments/>
+  <summary>3/11/2015--Introduced.
+Mental Health First Act of 2015
+
+Amends the Public Health Service Act to require the Substance Abuse and Mental Health Services Administration (SAMHSA) to award grants to initiate and sustain mental health first aid training programs. Requires such a program to include training on: (1) the skills, resources, and knowledge necessary to assist individuals in crisis to connect with appropriate local mental health care services; (2) mental health resources, including the location of community mental health centers; and (3) protocols for referral to mental health resources.
+
+Sets forth the categories of individuals to be trained under the program, including first responders, law enforcement personnel, teachers and school administrators, human resources professionals, nurses and other primary care personnel, students enrolled in school, parents of students, and veterans and veteran stakeholders.
+
+Requires such programs to train individuals to accomplish safe de-escalation of crisis situations, recognition of the signs and symptoms of mental illness, and timely referral to mental health services in the early stages of developing mental disorders.
+
+Requires SAMHSA to ensure that grants are equitably distributed geographically, and to pay particular attention to the mental health training needs of rural areas.</summary>
+</bill>

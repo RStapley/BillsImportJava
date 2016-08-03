@@ -1,0 +1,43 @@
+<bill session="114" type="h" number="2897" updated="2015-08-11T04:48:24-04:00">
+  <state datetime="2015-06-25">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-25"/>
+  </status>
+  <introduced datetime="2015-06-25"/>
+  <titles>
+    <title type="short" as="introduced">Neglected Infections of Impoverished Americans Act of 2015</title>
+    <title type="official" as="introduced">To require the submission of a report to the Congress on parasitic disease among poor Americans.</title>
+  </titles>
+  <sponsor id="412199"/>
+  <cosponsors>
+    <cosponsor id="400048" joined="2015-06-25"/>
+    <cosponsor id="412221" joined="2015-06-25"/>
+    <cosponsor id="400130" joined="2015-06-25"/>
+    <cosponsor id="400162" joined="2015-07-07"/>
+    <cosponsor id="400295" joined="2015-06-25"/>
+    <cosponsor id="400333" joined="2015-06-25"/>
+    <cosponsor id="400350" joined="2015-06-25"/>
+    <cosponsor id="400380" joined="2015-06-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-25" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-06-26">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+  <summary>6/25/2015--Introduced.
+Neglected Infections of Impoverished Americans Act of 2015
+
+This bill requires the Department of Health and Human Services to report to Congress on the epidemiology of, impact of, and appropriate funding required to address neglected diseases of poverty, including Chagas disease, cysticercosis, toxocariasis, toxoplasmosis, trichomoniasis, soil-transmitted helminth infection, and other related diseases. The report should provide the information necessary to guide future health policy to evaluate the current state of knowledge concerning such diseases and address the threat of such diseases.</summary>
+</bill>

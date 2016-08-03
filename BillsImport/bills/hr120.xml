@@ -1,0 +1,68 @@
+<bill session="114" type="hr" number="120" updated="2015-04-17T04:54:56-04:00">
+  <state datetime="2015-02-24">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-24"/>
+  </status>
+  <introduced datetime="2015-02-24"/>
+  <titles>
+    <title type="official" as="introduced">Supporting the goals and ideals of the designation of January 1, 2015, to December 31, 2024, as the "International Decade for People of African Descent".</title>
+  </titles>
+  <sponsor id="412199"/>
+  <cosponsors>
+    <cosponsor id="412404" joined="2015-02-24"/>
+    <cosponsor id="412470" joined="2015-03-02"/>
+    <cosponsor id="412236" joined="2015-03-02"/>
+    <cosponsor id="400080" joined="2015-02-24"/>
+    <cosponsor id="400090" joined="2015-02-24"/>
+    <cosponsor id="412276" joined="2015-02-24"/>
+    <cosponsor id="400653" joined="2015-02-24"/>
+    <cosponsor id="400170" joined="2015-02-24"/>
+    <cosponsor id="400199" joined="2015-02-24"/>
+    <cosponsor id="400240" joined="2015-02-24"/>
+    <cosponsor id="400245" joined="2015-02-24"/>
+    <cosponsor id="400263" joined="2015-02-24"/>
+    <cosponsor id="400271" joined="2015-02-24"/>
+    <cosponsor id="400295" joined="2015-02-24"/>
+    <cosponsor id="412506" joined="2015-02-24"/>
+    <cosponsor id="400333" joined="2015-02-24"/>
+    <cosponsor id="400350" joined="2015-03-04"/>
+    <cosponsor id="400366" joined="2015-02-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-24" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2015-03-20">
+      <text>Referred to the Subcommittee on Africa, Global Health, Global Human Rights and International Organizations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSFA16" subcommittee="Africa, Global Health, Global Human Rights and International Organizations" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Africa"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Foreign aid and international relief"/>
+    <term name="Human rights"/>
+    <term name="International organizations and cooperation"/>
+    <term name="Organization of American States"/>
+    <term name="Racial and ethnic relations"/>
+    <term name="United Nations"/>
+  </subjects>
+  <amendments/>
+  <summary>2/24/2015--Introduced.
+Supports the goals of the International Decade for People of African Descent.
+
+Recalls S.Con.Res. 26 supporting the goals of the designation of the International Year for People of African Descent.
+
+Supports the establishment of a global affairs strategy and assistance for people of African descent.
+
+Supports the expansion of efforts by international organizations to address the human rights situation of people of African Descent.
+
+Calls upon the United States in cooperation with civil society (African descent communities, academics, activists, businesses, and philanthropic organizations) to develop domestic and global strategies to execute the goals and ideals of the International Decade for People of African Descent.
+
+Reaffirms the commitment of Congress to combat racism, discrimination, and intolerance in the United States and around the globe.</summary>
+</bill>

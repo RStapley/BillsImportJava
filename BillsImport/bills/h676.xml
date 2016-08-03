@@ -1,0 +1,146 @@
+<bill session="114" type="h" number="676" updated="2015-07-30T04:48:03-04:00">
+  <state datetime="2015-02-03">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-03"/>
+  </status>
+  <introduced datetime="2015-02-03"/>
+  <titles>
+    <title type="short" as="introduced">Expanded &amp; Improved Medicare For All Act</title>
+    <title type="official" as="introduced">To provide for comprehensive health insurance coverage for all United States residents, improved health care delivery, and for other purposes.</title>
+  </titles>
+  <sponsor id="400080"/>
+  <cosponsors>
+    <cosponsor id="412404" joined="2015-02-03"/>
+    <cosponsor id="412565" joined="2015-02-11"/>
+    <cosponsor id="400047" joined="2015-02-03"/>
+    <cosponsor id="412571" joined="2015-02-03"/>
+    <cosponsor id="412379" joined="2015-06-10"/>
+    <cosponsor id="412600" joined="2015-02-03"/>
+    <cosponsor id="412221" joined="2015-02-03"/>
+    <cosponsor id="400074" joined="2015-07-29"/>
+    <cosponsor id="400075" joined="2015-02-03"/>
+    <cosponsor id="412236" joined="2015-02-03"/>
+    <cosponsor id="400090" joined="2015-02-03"/>
+    <cosponsor id="412613" joined="2015-02-03"/>
+    <cosponsor id="400114" joined="2015-02-03"/>
+    <cosponsor id="412263" joined="2015-02-03"/>
+    <cosponsor id="412215" joined="2015-02-03"/>
+    <cosponsor id="400122" joined="2015-02-03"/>
+    <cosponsor id="400129" joined="2015-02-03"/>
+    <cosponsor id="400130" joined="2015-02-04"/>
+    <cosponsor id="400653" joined="2015-02-03"/>
+    <cosponsor id="400162" joined="2015-02-03"/>
+    <cosponsor id="400163" joined="2015-02-03"/>
+    <cosponsor id="400170" joined="2015-02-03"/>
+    <cosponsor id="400185" joined="2015-02-03"/>
+    <cosponsor id="412511" joined="2015-02-03"/>
+    <cosponsor id="400199" joined="2015-02-03"/>
+    <cosponsor id="412561" joined="2015-02-03"/>
+    <cosponsor id="412199" joined="2015-02-03"/>
+    <cosponsor id="400211" joined="2015-02-03"/>
+    <cosponsor id="412638" joined="2015-07-27"/>
+    <cosponsor id="400237" joined="2015-02-03"/>
+    <cosponsor id="400240" joined="2015-02-03"/>
+    <cosponsor id="412616" joined="2015-02-17"/>
+    <cosponsor id="400245" joined="2015-02-05"/>
+    <cosponsor id="400262" joined="2015-02-03"/>
+    <cosponsor id="400661" joined="2015-02-03"/>
+    <cosponsor id="400289" joined="2015-02-03"/>
+    <cosponsor id="408211" joined="2015-02-03"/>
+    <cosponsor id="400295" joined="2015-02-03"/>
+    <cosponsor id="412307" joined="2015-02-03"/>
+    <cosponsor id="412585" joined="2015-02-03"/>
+    <cosponsor id="400333" joined="2015-02-03"/>
+    <cosponsor id="400347" joined="2015-02-03"/>
+    <cosponsor id="400350" joined="2015-02-03"/>
+    <cosponsor id="400360" joined="2015-02-03"/>
+    <cosponsor id="400364" joined="2015-02-03"/>
+    <cosponsor id="400366" joined="2015-02-03"/>
+    <cosponsor id="412520" joined="2015-02-03"/>
+    <cosponsor id="412319" joined="2015-02-03"/>
+    <cosponsor id="412239" joined="2015-02-03"/>
+    <cosponsor id="412412" joined="2015-02-03"/>
+    <cosponsor id="412211" joined="2015-02-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-03" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-02-03">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-02-03">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-02-03">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2015-02-06">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2015-03-16">
+      <text>Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII24" subcommittee="Indian, Insular and Alaska Native Affairs" name="House Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Advisory bodies"/>
+    <term name="Appropriations"/>
+    <term name="Comprehensive health care"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Employment and training programs"/>
+    <term name="Employment taxes"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Government studies and investigations"/>
+    <term name="Government trust funds"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health care quality"/>
+    <term name="Health information and medical records"/>
+    <term name="Health personnel"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="Income tax rates"/>
+    <term name="Indian social and development programs"/>
+    <term name="Long-term, rehabilitative, and terminal care"/>
+    <term name="Medical ethics"/>
+    <term name="Mental health"/>
+    <term name="Minority health"/>
+    <term name="Prescription drugs"/>
+    <term name="Right of privacy"/>
+    <term name="Sales and excise taxes"/>
+    <term name="Securities"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>2/3/2015--Introduced.
+Expanded &amp; Improved Medicare for All Act
+
+Establishes the Medicare for All Program to provide all individuals residing in the United States and U.S. territories with free health care that includes all medically necessary care, such as primary care and prevention, dietary and nutritional therapies, prescription drugs, emergency care, long-term care, mental health services, dental services, and vision care.
+
+Prohibits an institution from participating unless it is a public or nonprofit institution. Allows nonprofit health maintenance organizations (HMOs) that deliver care in their own facilities to participate.
+
+Allows patients to choose from participating physicians and institutions.
+
+Prohibits a private health insurer from selling health insurance coverage that duplicates the benefits provided under this Act. Allows insurers to sell benefits that are not medically necessary, such as cosmetic surgery benefits.
+
+Sets forth methods to pay institutional providers of care and health professionals for services. Prohibits financial incentives between HMOs and physicians based on utilization.
+
+Establishes the Medicare for All Trust Fund to finance the Program with amounts deposited: (1) from existing sources of government revenues for health care, (2) by increasing personal income taxes on the top 5% of income earners, (3) by instituting a progressive excise tax on payroll and self-employment income, (4) by instituting a tax on unearned income, and (5) by instituting a tax on stock and bond transactions. Transfers and appropriates to carry out this Act amounts that would have been appropriated for federal public health care programs, including Medicare, Medicaid, and the Children's Health Insurance Program (CHIP).
+
+Requires the Medicare for All Program to give employment transition benefits and first priority in retraining and job placement to individuals whose jobs are eliminated due to reduced clerical and administrative work.
+
+Requires creation of a confidential electronic patient record system.
+
+Establishes a National Board of Universal Quality and Access to provide advice on quality, access, and affordability.
+
+Requires the eventual integration of the Indian Health Service into the Program, and an evaluation of the continued independence of Department of Veterans Affairs health programs.</summary>
+</bill>

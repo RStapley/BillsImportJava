@@ -1,0 +1,38 @@
+<bill session="114" type="s" number="965" updated="2015-06-20T06:53:29-04:00">
+  <state datetime="2015-04-15">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-15"/>
+  </status>
+  <introduced datetime="2015-04-15"/>
+  <titles>
+    <title type="official" as="introduced">A bill to prohibit the use of funds by Internal Revenue Service to target citizens of the United States for exercising any right guaranteed under the First Amendment to the Constitution of the United States.</title>
+  </titles>
+  <sponsor id="300025"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-04-15">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S2223"/>
+    </action>
+    <action datetime="2015-04-15" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Department of the Treasury"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="First Amendment rights"/>
+    <term name="Government ethics and transparency, public corruption"/>
+    <term name="Internal Revenue Service (IRS)"/>
+    <term name="Political movements and philosophies"/>
+    <term name="Tax administration and collection, taxpayers"/>
+  </subjects>
+  <amendments/>
+  <summary>4/15/2015--Introduced.
+Prohibits the use of any funds by the Internal Revenue Service to target citizens for exercising any right guaranteed under the First Amendment to the Constitution.</summary>
+</bill>

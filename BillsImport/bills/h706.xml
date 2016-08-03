@@ -1,0 +1,49 @@
+<bill session="114" type="h" number="706" updated="2015-06-16T04:46:43-04:00">
+  <state datetime="2015-02-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-04"/>
+  </status>
+  <introduced datetime="2015-02-04"/>
+  <titles>
+    <title type="short" as="introduced">Justice Safety Valve Act of 2015</title>
+    <title type="official" as="introduced">To amend title 18, United States Code, to prevent unjust and irrational criminal punishments.</title>
+  </titles>
+  <sponsor id="400364"/>
+  <cosponsors>
+    <cosponsor id="412657" joined="2015-06-15"/>
+    <cosponsor id="400048" joined="2015-06-01"/>
+    <cosponsor id="412236" joined="2015-02-26"/>
+    <cosponsor id="400170" joined="2015-03-19"/>
+    <cosponsor id="400237" joined="2015-03-16"/>
+    <cosponsor id="412503" joined="2015-02-04"/>
+    <cosponsor id="400262" joined="2015-04-23"/>
+    <cosponsor id="412585" joined="2015-06-15"/>
+    <cosponsor id="400333" joined="2015-02-26"/>
+    <cosponsor id="400360" joined="2015-05-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-04" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-03-16">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="353"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Criminal procedure and sentencing"/>
+    <term name="Judicial procedure and administration"/>
+  </subjects>
+  <amendments/>
+  <summary>2/4/2015--Introduced.
+Justice Safety Valve Act of 2015
+
+ This bill authorizes a federal court to impose a sentence in a criminal proceeding that is below the minimum sentence required by statute if the court finds that a lower sentence is necessary to avoid violating statutory factors that the court must consider in imposing a sentence. The court must give parties to the proceeding notice of its intent to impose a lower sentence and state in writing the factors requiring such a sentence. This bill does not limit any right to appeal that would otherwise exist.</summary>
+</bill>

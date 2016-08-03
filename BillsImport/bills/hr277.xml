@@ -1,0 +1,41 @@
+<bill session="114" type="hr" number="277" updated="2015-08-22T04:47:00-04:00">
+  <state datetime="2015-05-19">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-19"/>
+  </status>
+  <introduced datetime="2015-05-19"/>
+  <titles>
+    <title type="official" as="introduced">Honoring the Tunisian People for their democratic transition.</title>
+  </titles>
+  <sponsor id="412399"/>
+  <cosponsors>
+    <cosponsor id="400170" joined="2015-05-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-19" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2015-08-20">
+      <text>Referred to the Subcommittee on Middle East and North Africa.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSFA13" subcommittee="Middle East and North Africa" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <summary>5/19/2015--Introduced.
+Commends the people of Tunisia for their commitment to democracy, the rule of law, and free and fair elections.
+
+ Commends the government of Tunisia for holding successful legislative elections and the peaceful and fair completion of the presidential election.
+
+Recognizes Tunisia's legislative and presidential elections as an example of a peaceful, democratic transition of power for other nations throughout the region to follow.
+
+Encourages all political parties in Tunisia to work together to realize the standards of transparency, inclusiveness, and equality established in the Tunisian Constitution.
+
+Affirms the U.S. commitment to strengthening our bilateral relationship with Tunisia.
+
+Calls on the President to advance the U.S.-Tunisia relationship by engaging in a Strategic Partnership.</summary>
+</bill>

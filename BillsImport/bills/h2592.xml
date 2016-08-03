@@ -1,0 +1,35 @@
+<bill session="114" type="h" number="2592" updated="2015-08-11T04:47:56-04:00">
+  <state datetime="2015-06-01">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-01"/>
+  </status>
+  <introduced datetime="2015-06-01"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Communications Act of 1934 to require the Federal Communications Commission to publish on the website of the Commission documents to be voted on by the Commission.</title>
+  </titles>
+  <sponsor id="412421"/>
+  <cosponsors>
+    <cosponsor id="412625" joined="2015-06-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-01" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-06-05">
+      <text>Referred to the Subcommittee on Communications and Technology.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF16" subcommittee="Communications and Technology" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Science, technology, communications"/>
+  </subjects>
+  <amendments/>
+  <summary>6/1/2015--Introduced.
+Prohibits the Federal Communications Commission (FCC) from adopting orders, decisions, reports, or actions by vote of the FCC unless the chairman causes the text to be published on the FCC's website not later than: (1) 24 hours after such text is&#160;circulated for review by the commissioners, or (2)&#160;21 days before the vote.
+
+Exempts from such text publication requirements a portion of a document likely to lead to the disclosure of certain classified national defense or foreign policy matters, internal personnel practices, trade secrets, personal information, investigatory records for law enforcement, or other deliberation information exempt from disclosure under federal administrative procedure laws.</summary>
+</bill>

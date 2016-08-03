@@ -1,0 +1,26 @@
+<bill session="114" type="h" number="3203" updated="2015-07-28T15:58:46-04:00">
+  <state datetime="2015-07-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-23"/>
+  </status>
+  <introduced datetime="2015-07-23"/>
+  <titles>
+    <title type="short" as="introduced">Vacant Homes Act of 2015</title>
+    <title type="official" as="introduced">To require prompt responses by mortgage owners of homes in foreclosure to short sale offers to purchase such homes, and for other purposes.</title>
+  </titles>
+  <sponsor id="400641"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-23" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Housing and community development"/>
+  </subjects>
+  <amendments/>
+</bill>

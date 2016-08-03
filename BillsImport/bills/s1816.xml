@@ -1,0 +1,31 @@
+<bill session="114" type="s" number="1816" updated="2015-08-01T07:07:25-04:00">
+  <state datetime="2015-07-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-21"/>
+  </status>
+  <introduced datetime="2015-07-21"/>
+  <titles>
+    <title type="short" as="introduced">Community Bank Access to Capital Act of 2015</title>
+    <title type="official" as="introduced">A bill to provide relief to community banks, to promote access to capital for community banks, and for other purposes.</title>
+  </titles>
+  <sponsor id="412669"/>
+  <cosponsors>
+    <cosponsor id="400034" joined="2015-07-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1523"/>
+    <bill relation="unknown" session="114" type="s" number="927"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+  </subjects>
+  <amendments/>
+</bill>

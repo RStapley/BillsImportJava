@@ -1,0 +1,112 @@
+<bill session="114" type="h" number="333" updated="2015-07-30T04:47:55-04:00">
+  <state datetime="2015-01-13">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-13"/>
+  </status>
+  <introduced datetime="2015-01-13"/>
+  <titles>
+    <title type="short" as="introduced">Disabled Veterans Tax Termination Act</title>
+    <title type="official" as="introduced">To amend title 10, United States Code, to permit retired members of the Armed Forces who have a service-connected disability rated less than 50 percent to receive concurrent payment of both retired pay and veterans' disability compensation, to extend eligibility for concurrent receipt to chapter 61 disability retirees with less than 20 years of service, and for other purposes.</title>
+  </titles>
+  <sponsor id="400030"/>
+  <cosponsors>
+    <cosponsor id="412500" joined="2015-01-21"/>
+    <cosponsor id="412565" joined="2015-04-15"/>
+    <cosponsor id="412436" joined="2015-02-13"/>
+    <cosponsor id="400041" joined="2015-02-13"/>
+    <cosponsor id="400047" joined="2015-02-13"/>
+    <cosponsor id="412516" joined="2015-02-02"/>
+    <cosponsor id="412258" joined="2015-07-28"/>
+    <cosponsor id="412470" joined="2015-01-27"/>
+    <cosponsor id="412600" joined="2015-02-13"/>
+    <cosponsor id="412236" joined="2015-06-17"/>
+    <cosponsor id="400077" joined="2015-07-21"/>
+    <cosponsor id="412272" joined="2015-02-13"/>
+    <cosponsor id="400080" joined="2015-07-28"/>
+    <cosponsor id="412193" joined="2015-01-27"/>
+    <cosponsor id="412555" joined="2015-02-24"/>
+    <cosponsor id="412536" joined="2015-02-26"/>
+    <cosponsor id="400100" joined="2015-07-23"/>
+    <cosponsor id="412505" joined="2015-02-02"/>
+    <cosponsor id="412385" joined="2015-03-17"/>
+    <cosponsor id="412215" joined="2015-07-29"/>
+    <cosponsor id="400122" joined="2015-07-16"/>
+    <cosponsor id="400124" joined="2015-07-13"/>
+    <cosponsor id="412524" joined="2015-01-21"/>
+    <cosponsor id="400646" joined="2015-07-23"/>
+    <cosponsor id="400137" joined="2015-01-21"/>
+    <cosponsor id="412532" joined="2015-05-12"/>
+    <cosponsor id="412620" joined="2015-02-24"/>
+    <cosponsor id="400162" joined="2015-02-24"/>
+    <cosponsor id="400163" joined="2015-06-17"/>
+    <cosponsor id="412584" joined="2015-02-26"/>
+    <cosponsor id="412460" joined="2015-02-09"/>
+    <cosponsor id="412603" joined="2015-01-27"/>
+    <cosponsor id="400209" joined="2015-05-12"/>
+    <cosponsor id="412583" joined="2015-02-09"/>
+    <cosponsor id="400219" joined="2015-07-29"/>
+    <cosponsor id="400232" joined="2015-07-21"/>
+    <cosponsor id="412638" joined="2015-07-16"/>
+    <cosponsor id="400246" joined="2015-03-17"/>
+    <cosponsor id="400249" joined="2015-07-29"/>
+    <cosponsor id="412643" joined="2015-06-04"/>
+    <cosponsor id="412562" joined="2015-02-10"/>
+    <cosponsor id="400259" joined="2015-04-15"/>
+    <cosponsor id="400263" joined="2015-01-27"/>
+    <cosponsor id="412527" joined="2015-07-28"/>
+    <cosponsor id="412606" joined="2015-07-21"/>
+    <cosponsor id="412523" joined="2015-05-12"/>
+    <cosponsor id="412307" joined="2015-02-09"/>
+    <cosponsor id="412585" joined="2015-02-13"/>
+    <cosponsor id="412483" joined="2015-02-27"/>
+    <cosponsor id="400341" joined="2015-02-13"/>
+    <cosponsor id="400350" joined="2015-07-15"/>
+    <cosponsor id="400361" joined="2015-07-21"/>
+    <cosponsor id="412314" joined="2015-02-26"/>
+    <cosponsor id="400376" joined="2015-02-13"/>
+    <cosponsor id="400378" joined="2015-02-13"/>
+    <cosponsor id="412596" joined="2015-04-13"/>
+    <cosponsor id="412520" joined="2015-07-23"/>
+    <cosponsor id="400411" joined="2015-02-24"/>
+    <cosponsor id="412515" joined="2015-03-17"/>
+    <cosponsor id="400415" joined="2015-02-13"/>
+    <cosponsor id="412579" joined="2015-07-16"/>
+    <cosponsor id="412580" joined="2015-04-13"/>
+    <cosponsor id="400419" joined="2015-05-12"/>
+    <cosponsor id="412214" joined="2015-03-23"/>
+    <cosponsor id="412412" joined="2015-07-29"/>
+    <cosponsor id="412255" joined="2015-02-26"/>
+    <cosponsor id="412211" joined="2015-02-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-13" state="REFERRED">
+      <text>Referred to the Committee on Armed Services, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-01-13">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2015-01-13">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2015-02-06">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR09" subcommittee="Disability Assistance and Memorial Affairs" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Disability and paralysis"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>1/13/2015--Introduced.
+Disabled Veterans Tax Termination Act
+
+Amends federal military retired pay provisions to: (1) permit veterans with a service-connected disability of less than 50% to concurrently receive both retired pay and disability compensation; (2) eliminate provisions requiring a phase-in between January 1, 2004, and December 31, 2013, of concurrent receipt of retired pay and disability compensation; (3) eliminate a phase-in of concurrent receipt of retired pay and disability compensation for disabled veterans determined to be individually unemployable; and (4) require a limited reduction in retired pay for qualified disability retirees with less than 20 years of retirement-creditable service.</summary>
+</bill>

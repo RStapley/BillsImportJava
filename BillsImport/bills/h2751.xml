@@ -1,0 +1,45 @@
+<bill session="114" type="h" number="2751" updated="2015-08-08T06:42:19-04:00">
+  <state datetime="2015-06-12">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-12"/>
+  </status>
+  <introduced datetime="2015-06-12"/>
+  <titles>
+    <title type="short" as="introduced">Alyce Spotted Bear and Walter Soboleff Commission on Native Children Act</title>
+    <title type="official" as="introduced">To establish the Alyce Spotted Bear and Walter Soboleff Commission on Native Children, and for other purposes.</title>
+  </titles>
+  <sponsor id="400259"/>
+  <cosponsors>
+    <cosponsor id="400077" joined="2015-06-12"/>
+    <cosponsor id="412403" joined="2015-06-12"/>
+    <cosponsor id="412519" joined="2015-07-29"/>
+    <cosponsor id="412626" joined="2015-06-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-12" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2015-07-01">
+      <text>Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII24" subcommittee="Indian, Insular and Alaska Native Affairs" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="246"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+  <summary>6/12/2015--Introduced.
+Alyce Spotted Bear and Walter Soboleff Commission on Native Children Act
+
+ Establishes the Alyce Spotted Bear and Walter Soboleff Commission on Native Children in the Office of Tribal Justice of the Department of Justice.
+
+Requires the President and Congress to appoint to the Commission individuals who have significant experience and expertise in Indian affairs and matters to be studied by the Commission.
+
+Requires the Commission to establish a Native Advisory Committee consisting of representatives of Indian tribes from each region of the Bureau of Indian Affairs and a native Hawaiian.
+
+Directs the Commission to study federal, state, local, and tribal programs that serve Native children and use the results of the study and analyses of existing federal data to: develop recommendations for goals and plans for federal policy relating to Native children informed by the development of accurate child well-being measures; recommend modifications and improvements to programs that serve Native children; recommend improvements to the collection of data regarding Native children and the programs that serve them; and identify models of successful federal, state, and tribal programs in the areas studied by the Commission. Requires the Commission to submit a report to the President, Congress, and the White House Council on Native American Affairs on its findings, conclusions, and recommendations for legislative and administrative action.</summary>
+</bill>

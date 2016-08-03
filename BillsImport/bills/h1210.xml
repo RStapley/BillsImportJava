@@ -1,0 +1,110 @@
+<bill session="114" type="h" number="1210" updated="2015-07-31T04:47:12-04:00">
+  <state datetime="2015-07-29">REPORTED</state>
+  <status>
+    <unknown datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-03-03"/>
+  <titles>
+    <title type="short" as="introduced">Portfolio Lending and Mortgage Access Act</title>
+    <title type="official" as="introduced">To amend the Truth in Lending Act to provide a safe harbor from certain requirements related to qualified mortgages for residential mortgage loans held on an originating depository institution's portfolio, and for other purposes.</title>
+  </titles>
+  <sponsor id="412541"/>
+  <cosponsors>
+    <cosponsor id="412500" joined="2015-03-03"/>
+    <cosponsor id="412655" joined="2015-05-13"/>
+    <cosponsor id="412627" joined="2015-03-03"/>
+    <cosponsor id="412539" joined="2015-03-25"/>
+    <cosponsor id="412563" joined="2015-04-14"/>
+    <cosponsor id="412555" joined="2015-05-13"/>
+    <cosponsor id="412621" joined="2015-04-14"/>
+    <cosponsor id="412536" joined="2015-04-13"/>
+    <cosponsor id="412420" joined="2015-03-03"/>
+    <cosponsor id="412488" joined="2015-03-03"/>
+    <cosponsor id="412639" joined="2015-03-03"/>
+    <cosponsor id="412479" joined="2015-03-03"/>
+    <cosponsor id="412476" joined="2015-03-25"/>
+    <cosponsor id="412397" joined="2015-06-01"/>
+    <cosponsor id="412447" joined="2015-03-03"/>
+    <cosponsor id="412278" joined="2015-03-24"/>
+    <cosponsor id="412444" joined="2015-03-03"/>
+    <cosponsor id="412609" joined="2015-03-03"/>
+    <cosponsor id="412422" joined="2015-03-03"/>
+    <cosponsor id="412460" joined="2015-04-21"/>
+    <cosponsor id="412566" joined="2015-03-03"/>
+    <cosponsor id="400219" joined="2015-03-03"/>
+    <cosponsor id="400247" joined="2015-03-03"/>
+    <cosponsor id="412292" joined="2015-03-03"/>
+    <cosponsor id="400656" joined="2015-03-04"/>
+    <cosponsor id="412295" joined="2015-03-16"/>
+    <cosponsor id="412552" joined="2015-03-16"/>
+    <cosponsor id="412540" joined="2015-03-03"/>
+    <cosponsor id="412474" joined="2015-03-03"/>
+    <cosponsor id="400441" joined="2015-03-03"/>
+    <cosponsor id="412475" joined="2015-04-21"/>
+    <cosponsor id="412302" joined="2015-03-25"/>
+    <cosponsor id="400313" joined="2015-04-14"/>
+    <cosponsor id="412551" joined="2015-07-28"/>
+    <cosponsor id="400652" joined="2015-03-24"/>
+    <cosponsor id="412633" joined="2015-03-19"/>
+    <cosponsor id="412462" joined="2015-03-03"/>
+    <cosponsor id="412489" joined="2015-03-03"/>
+    <cosponsor id="412572" joined="2015-03-04"/>
+    <cosponsor id="412570" joined="2015-03-03"/>
+    <cosponsor id="400367" joined="2015-05-13"/>
+    <cosponsor id="412581" joined="2015-05-01"/>
+    <cosponsor id="412461" joined="2015-03-03"/>
+    <cosponsor id="412392" joined="2015-03-03"/>
+    <cosponsor id="412405" joined="2015-03-03"/>
+    <cosponsor id="412515" joined="2015-03-16"/>
+    <cosponsor id="412548" joined="2015-03-16"/>
+    <cosponsor id="412213" joined="2015-03-16"/>
+    <cosponsor id="412574" joined="2015-03-03"/>
+    <cosponsor id="412578" joined="2015-07-28"/>
+    <cosponsor id="400433" joined="2015-04-14"/>
+    <cosponsor id="412628" joined="2015-03-19"/>
+    <cosponsor id="412646" joined="2015-05-13"/>
+    <cosponsor id="412640" joined="2015-03-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-03" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2015-04-16">
+      <text>Committee on Banking, Housing, and Urban Affairs. Hearings held.</text>
+    </action>
+    <action datetime="2015-07-28">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-07-29" state="REPORTED">
+      <text>Ordered to be Reported by the Yeas and Nays: 38 - 18.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, Markup"/>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Hearings"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1113"/>
+    <bill relation="unknown" session="114" type="h" number="1233"/>
+    <bill relation="unknown" session="114" type="h" number="1389"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Bank accounts, deposits, capital"/>
+    <term name="Banking and financial institutions regulation"/>
+    <term name="Civil actions and liability"/>
+    <term name="Housing finance and home ownership"/>
+  </subjects>
+  <amendments/>
+  <summary>3/3/2015--Introduced.
+Portfolio Lending and Mortgage Access Act
+
+ This bill amends the Truth in Lending Act to create a safe harbor from lawsuit for creditors that are depository institutions for any failure to comply with certain requirements with respect to a residential mortgage loan, and the banking regulators are required to treat such a loan as a qualified mortgage, if the creditor has, since the loan's origination, held it on its balance sheet and all prepayment penalties with respect to the loan comply with specified limitations.
+
+A safe harbor from lawsuit is also created for mortgage originators for steering a consumer to a residential mortgage loan if:
+
+ the creditor is a depository institution and has informed the mortgage originator that it intends to hold the loan on its balance sheet for the life of the loan, and the mortgage originator informs the consumer that the creditor intends to do so.</summary>
+</bill>

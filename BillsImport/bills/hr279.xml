@@ -1,0 +1,61 @@
+<bill session="114" type="hr" number="279" updated="2015-07-08T04:47:04-04:00">
+  <state datetime="2015-05-20">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-20"/>
+  </status>
+  <introduced datetime="2015-05-20"/>
+  <titles>
+    <title type="official" as="introduced">Urging respect for freedom of expression and human rights in Turkey.</title>
+  </titles>
+  <sponsor id="412276"/>
+  <cosponsors>
+    <cosponsor id="412404" joined="2015-05-21"/>
+    <cosponsor id="412657" joined="2015-05-22"/>
+    <cosponsor id="400048" joined="2015-05-22"/>
+    <cosponsor id="412470" joined="2015-05-21"/>
+    <cosponsor id="412221" joined="2015-05-21"/>
+    <cosponsor id="400080" joined="2015-05-21"/>
+    <cosponsor id="412385" joined="2015-05-21"/>
+    <cosponsor id="412637" joined="2015-05-21"/>
+    <cosponsor id="400111" joined="2015-05-21"/>
+    <cosponsor id="400122" joined="2015-05-22"/>
+    <cosponsor id="400163" joined="2015-05-22"/>
+    <cosponsor id="400195" joined="2015-05-20"/>
+    <cosponsor id="412561" joined="2015-07-07"/>
+    <cosponsor id="412595" joined="2015-05-22"/>
+    <cosponsor id="412546" joined="2015-05-21"/>
+    <cosponsor id="412616" joined="2015-05-21"/>
+    <cosponsor id="400630" joined="2015-05-20"/>
+    <cosponsor id="412521" joined="2015-05-21"/>
+    <cosponsor id="400262" joined="2015-05-21"/>
+    <cosponsor id="412560" joined="2015-05-21"/>
+    <cosponsor id="400289" joined="2015-05-21"/>
+    <cosponsor id="412575" joined="2015-05-21"/>
+    <cosponsor id="412192" joined="2015-05-22"/>
+    <cosponsor id="412523" joined="2015-05-21"/>
+    <cosponsor id="400343" joined="2015-05-22"/>
+    <cosponsor id="400350" joined="2015-05-20"/>
+    <cosponsor id="412399" joined="2015-06-01"/>
+    <cosponsor id="400366" joined="2015-05-22"/>
+    <cosponsor id="412644" joined="2015-05-22"/>
+    <cosponsor id="412574" joined="2015-05-21"/>
+    <cosponsor id="412525" joined="2015-05-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-20" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <summary>5/20/2015--Introduced.
+Calls on Turkey to lift restrictions on freedom of expression, including expression online or in social media.
+
+ Urges Turkey to fully respect universal human rights consistent with its Organization for Security and Cooperation in Europe commitments.
+
+ Reaffirms the long-standing U.S. partnership and friendship with the people of Turkey.</summary>
+</bill>

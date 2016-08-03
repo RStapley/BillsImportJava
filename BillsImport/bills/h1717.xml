@@ -1,0 +1,138 @@
+<bill session="114" type="h" number="1717" updated="2015-07-09T04:47:19-04:00">
+  <state datetime="2015-03-26">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-26"/>
+  </status>
+  <introduced datetime="2015-03-26"/>
+  <titles>
+    <title type="short" as="introduced">Sober Truth on Preventing Underage Drinking Reauthorization Act</title>
+    <title type="short" as="introduced">STOP Act</title>
+    <title type="official" as="introduced">To provide for programs and activities with respect to the prevention of underage drinking.</title>
+  </titles>
+  <sponsor id="400347"/>
+  <cosponsors>
+    <cosponsor id="412404" joined="2015-03-26"/>
+    <cosponsor id="400021" joined="2015-06-04"/>
+    <cosponsor id="412516" joined="2015-03-26"/>
+    <cosponsor id="412196" joined="2015-03-26"/>
+    <cosponsor id="400062" joined="2015-05-01"/>
+    <cosponsor id="412517" joined="2015-06-04"/>
+    <cosponsor id="412571" joined="2015-03-26"/>
+    <cosponsor id="412379" joined="2015-06-04"/>
+    <cosponsor id="412221" joined="2015-03-26"/>
+    <cosponsor id="400080" joined="2015-03-26"/>
+    <cosponsor id="412651" joined="2015-05-01"/>
+    <cosponsor id="400090" joined="2015-03-26"/>
+    <cosponsor id="400097" joined="2015-06-04"/>
+    <cosponsor id="400103" joined="2015-03-26"/>
+    <cosponsor id="412505" joined="2015-03-26"/>
+    <cosponsor id="412613" joined="2015-06-04"/>
+    <cosponsor id="412637" joined="2015-07-08"/>
+    <cosponsor id="400111" joined="2015-06-04"/>
+    <cosponsor id="412420" joined="2015-04-16"/>
+    <cosponsor id="412215" joined="2015-03-26"/>
+    <cosponsor id="400122" joined="2015-03-26"/>
+    <cosponsor id="400124" joined="2015-06-04"/>
+    <cosponsor id="400129" joined="2015-06-04"/>
+    <cosponsor id="400646" joined="2015-03-26"/>
+    <cosponsor id="412276" joined="2015-03-26"/>
+    <cosponsor id="400163" joined="2015-03-26"/>
+    <cosponsor id="412498" joined="2015-06-04"/>
+    <cosponsor id="400170" joined="2015-03-26"/>
+    <cosponsor id="412584" joined="2015-03-26"/>
+    <cosponsor id="400641" joined="2015-05-01"/>
+    <cosponsor id="400179" joined="2015-03-26"/>
+    <cosponsor id="400185" joined="2015-03-26"/>
+    <cosponsor id="400189" joined="2015-03-26"/>
+    <cosponsor id="412511" joined="2015-03-26"/>
+    <cosponsor id="400195" joined="2015-03-26"/>
+    <cosponsor id="412435" joined="2015-03-26"/>
+    <cosponsor id="412583" joined="2015-05-21"/>
+    <cosponsor id="412557" joined="2015-06-04"/>
+    <cosponsor id="412290" joined="2015-06-04"/>
+    <cosponsor id="412638" joined="2015-04-16"/>
+    <cosponsor id="400238" joined="2015-03-26"/>
+    <cosponsor id="412521" joined="2015-06-04"/>
+    <cosponsor id="412558" joined="2015-07-08"/>
+    <cosponsor id="412293" joined="2015-03-26"/>
+    <cosponsor id="400663" joined="2015-04-16"/>
+    <cosponsor id="400259" joined="2015-03-26"/>
+    <cosponsor id="400263" joined="2015-03-26"/>
+    <cosponsor id="400271" joined="2015-05-21"/>
+    <cosponsor id="400289" joined="2015-07-08"/>
+    <cosponsor id="400290" joined="2015-03-26"/>
+    <cosponsor id="408211" joined="2015-03-26"/>
+    <cosponsor id="400295" joined="2015-03-26"/>
+    <cosponsor id="412506" joined="2015-05-01"/>
+    <cosponsor id="400313" joined="2015-03-26"/>
+    <cosponsor id="400316" joined="2015-03-26"/>
+    <cosponsor id="400333" joined="2015-04-16"/>
+    <cosponsor id="412432" joined="2015-06-04"/>
+    <cosponsor id="412519" joined="2015-06-04"/>
+    <cosponsor id="400356" joined="2015-06-04"/>
+    <cosponsor id="400361" joined="2015-03-26"/>
+    <cosponsor id="400363" joined="2015-03-26"/>
+    <cosponsor id="400366" joined="2015-06-04"/>
+    <cosponsor id="400371" joined="2015-06-04"/>
+    <cosponsor id="400376" joined="2015-03-26"/>
+    <cosponsor id="412186" joined="2015-05-01"/>
+    <cosponsor id="400378" joined="2015-03-26"/>
+    <cosponsor id="400379" joined="2015-03-26"/>
+    <cosponsor id="400381" joined="2015-05-01"/>
+    <cosponsor id="412259" joined="2015-03-26"/>
+    <cosponsor id="412514" joined="2015-03-26"/>
+    <cosponsor id="412626" joined="2015-05-01"/>
+    <cosponsor id="412319" joined="2015-03-26"/>
+    <cosponsor id="400416" joined="2015-06-04"/>
+    <cosponsor id="400417" joined="2015-04-16"/>
+    <cosponsor id="400623" joined="2015-03-26"/>
+    <cosponsor id="400431" joined="2015-05-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-26" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-03-27">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="728"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Child health"/>
+    <term name="Drug, alcohol, tobacco use"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="Higher education"/>
+    <term name="Marketing and advertising"/>
+    <term name="Medical research"/>
+    <term name="Performance measurement"/>
+    <term name="Research administration and funding"/>
+    <term name="Roads and highways"/>
+    <term name="School athletics"/>
+    <term name="State and local government operations"/>
+    <term name="Television and film"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+  <summary>3/26/2015--Introduced.
+Sober Truth on Preventing Underage Drinking Reauthorization Act or the STOP Act
+
+Amends the Public Health Service Act to reauthorize the program to reduce underage drinking for FY2016-FY2020.
+
+Revises reporting requirements for state programs on underage drinking.
+
+ Specifies additional requirements for the development of the national media campaign to prevent underage drinking.
+
+Directs the Substance Abuse and Mental Health Services Administration to make grants to professional pediatric provider organizations to increase effective practices, including the screening of children and adolescents for alcohol use,&#160;to reduce the prevalence of alcohol use among individuals under the age of 21, including college students.
+
+Directs the Department of Health and Human Services to collect data and conduct or support new research on underage drinking that carries out and improves public health surveillance of alcohol use and alcohol-related conditions in states among individuals between age 18 and 20 by increasing the use of surveys, such as the Behavioral Risk Factor Surveillance System, to monitor binge and excessive drinking and related harms.</summary>
+</bill>

@@ -1,0 +1,56 @@
+<bill session="114" type="h" number="1117" updated="2015-06-04T04:47:22-04:00">
+  <state datetime="2015-02-26">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-26"/>
+  </status>
+  <introduced datetime="2015-02-26"/>
+  <titles>
+    <title type="short" as="introduced">Creating Access to Residency Education Act of 2015</title>
+    <title type="official" as="introduced">To amend the Public Health Service Act to authorize grants for graduate medical education partnerships in States with a low ratio of medical residents relative to the general population.</title>
+  </titles>
+  <sponsor id="412195"/>
+  <cosponsors>
+    <cosponsor id="412500" joined="2015-05-13"/>
+    <cosponsor id="412565" joined="2015-04-21"/>
+    <cosponsor id="412571" joined="2015-03-19"/>
+    <cosponsor id="412612" joined="2015-03-17"/>
+    <cosponsor id="412645" joined="2015-04-14"/>
+    <cosponsor id="412280" joined="2015-04-22"/>
+    <cosponsor id="400170" joined="2015-04-14"/>
+    <cosponsor id="412446" joined="2015-02-26"/>
+    <cosponsor id="412616" joined="2015-05-29"/>
+    <cosponsor id="412527" joined="2015-05-12"/>
+    <cosponsor id="412443" joined="2015-06-03"/>
+    <cosponsor id="412522" joined="2015-06-03"/>
+    <cosponsor id="412412" joined="2015-05-12"/>
+    <cosponsor id="412646" joined="2015-06-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-26" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-02-27">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Education programs funding"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health personnel"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Medical education"/>
+  </subjects>
+  <amendments/>
+  <summary>2/26/2015--Introduced.
+Creating Access to Residency Education Act of 2015
+
+This bill amends the Public Health Service Act to require the Centers for Medicare and Medicaid Services to award grants or enter into contracts to create or expand medical residency training programs in states where there are fewer than 25 medical residents per 100,000 people.
+
+An awardee of a grant or contract provides a lower ratio of matching funds if its residency training program is in the field of primary care.</summary>
+</bill>

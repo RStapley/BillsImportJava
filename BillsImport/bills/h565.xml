@@ -1,0 +1,78 @@
+<bill session="114" type="h" number="565" updated="2015-05-13T04:46:49-04:00">
+  <state datetime="2015-01-27">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-27"/>
+  </status>
+  <introduced datetime="2015-01-27"/>
+  <titles>
+    <title type="short" as="introduced">Stepping Up to STEM Education Act</title>
+    <title type="official" as="introduced">To stimulate collaboration with respect to, and provide for coordination and coherence of, the Nation's science, technology, engineering, and mathematics education initiatives, and for other purposes.</title>
+  </titles>
+  <sponsor id="400185"/>
+  <cosponsors>
+    <cosponsor id="400616" joined="2015-02-04"/>
+    <cosponsor id="412379" joined="2015-01-27"/>
+    <cosponsor id="412470" joined="2015-01-27"/>
+    <cosponsor id="412215" joined="2015-02-04"/>
+    <cosponsor id="400232" joined="2015-05-12"/>
+    <cosponsor id="400237" joined="2015-01-27"/>
+    <cosponsor id="412521" joined="2015-01-27"/>
+    <cosponsor id="400271" joined="2015-01-27"/>
+    <cosponsor id="400295" joined="2015-02-04"/>
+    <cosponsor id="400309" joined="2015-04-14"/>
+    <cosponsor id="412585" joined="2015-01-27"/>
+    <cosponsor id="400347" joined="2015-01-27"/>
+    <cosponsor id="400352" joined="2015-01-27"/>
+    <cosponsor id="412312" joined="2015-01-27"/>
+    <cosponsor id="412259" joined="2015-01-27"/>
+    <cosponsor id="412514" joined="2015-02-24"/>
+    <cosponsor id="412520" joined="2015-01-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-27" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+    <action datetime="2015-04-29">
+      <text>Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education.</text>
+    </action>
+    <action datetime="2015-04-29">
+      <text>Referred to the Subcommittee on Higher Education and Workforce Training.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee activity="Referral" code="HSED14" subcommittee="Early Childhood, Elementary, and Secondary Education" name="House Education and the Workforce"/>
+    <committee activity="Referral" code="HSED13" subcommittee="Higher Education and Workforce Training" name="House Education and the Workforce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Academic performance and assessments"/>
+    <term name="Department of Education"/>
+    <term name="Education programs funding"/>
+    <term name="Educational technology and distance education"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Employment and training programs"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Higher education"/>
+    <term name="Performance measurement"/>
+    <term name="Research and development"/>
+    <term name="Rural conditions and development"/>
+    <term name="Science and engineering education"/>
+    <term name="Teaching, teachers, curricula"/>
+    <term name="Vocational and technical education"/>
+  </subjects>
+  <amendments/>
+  <summary>1/27/2015--Introduced.
+Stepping Up to STEM Education Act
+
+Amends the Department of Education Organization Act to establish an Advanced Research Projects Agency for Education within the Department of Education to pursue breakthrough research and development in educational technology and to facilitate the effective use of that technology to improve student achievement.
+
+Directs the Secretary of Education to award matching grants to state-based science, technology, engineering, mathematics, and computer science (STEM) networks or similar organizations of STEM stakeholders to increase students' achievement in the STEM disciplines in elementary and secondary schools and in out of school and afterschool programs.
+
+Includes among grant uses:
+
+ testing, sharing, and scaling up STEM education research, promising practices, and exemplary programs; identifying state STEM education weaknesses and prioritizing strategies to address them; implementing rigorous career and college ready standards in STEM education; developing and implementing innovative STEM assessments that measure student progress toward those career and college ready standards; promoting and developing pre- and in-service STEM teacher training; developing STEM career pathways and workforce education and training programs that reflect 21st century workforce needs; facilitating the implementation of expanded STEM learning opportunities on school sites; and promoting, supporting, and designing programs that develop STEM content coaches and master educators in order to strengthen core competencies of the classroom practitioner. Requires grantees to conduct periodic independent evaluations of their effectiveness in accomplishing those activities.
+
+Prohibits the Secretary from: (1) endorsing or approving any STEM curriculum designed for use in an elementary school, secondary school, or institution of higher education; or (2) requiring a state, local educational agency, or school to adopt a specific STEM program or instructional materials.</summary>
+</bill>

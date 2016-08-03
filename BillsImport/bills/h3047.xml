@@ -1,0 +1,53 @@
+<bill session="114" type="h" number="3047" updated="2015-08-08T06:44:48-04:00">
+  <state datetime="2015-07-13">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-13"/>
+  </status>
+  <introduced datetime="2015-07-13"/>
+  <titles>
+    <title type="short" as="introduced">Drug Testing for Welfare Recipients Act</title>
+    <title type="official" as="introduced">To require certain welfare programs to deny benefits to persons who fail a drug test, and for other purposes.</title>
+  </titles>
+  <sponsor id="412641"/>
+  <cosponsors>
+    <cosponsor id="412661" joined="2015-07-23"/>
+    <cosponsor id="412434" joined="2015-07-23"/>
+    <cosponsor id="412510" joined="2015-07-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-13" state="REFERRED">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committees on Agriculture, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-07-13">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-07-13">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2015-07-13">
+      <text>Referred to House Financial Services</text>
+    </action>
+    <action datetime="2015-07-15">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H5187"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+  </subjects>
+  <amendments/>
+  <summary>7/13/2015--Introduced.
+Drug Testing for Welfare Recipients Act
+
+This bill amends part A (Temporary Assistance for Needy Families) (TANF) of title IV of the Social Security Act to:
+
+ subject individuals to criminal background checks for drug-related offenses as well as substance abuse screening, and deny TANF assistance for an individual who tests positive for a controlled substance. The Department of Health and Human Services is required to reduce by 15% of the state TANF grant if a state has substantially failed to condition benefits on passing drug testing or screening.
+
+The Food and Nutrition Act of 2008 and the Housing and Community Development Act of 1980 are amended to set forth analogous drug testing and screening requirements under the supplemental nutrition assistance program and public housing and "Section 8" rental assistance programs.</summary>
+</bill>

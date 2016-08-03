@@ -1,0 +1,57 @@
+<bill session="114" type="s" number="1603" updated="2015-08-15T07:05:13-04:00">
+  <state datetime="2015-06-24">REPORTED</state>
+  <status>
+    <unknown datetime="2015-06-24"/>
+  </status>
+  <introduced datetime="2015-06-17"/>
+  <titles>
+    <title type="short" as="introduced">Border Jobs for Veterans Act of 2015</title>
+    <title type="short" as="reported to senate">Border Jobs for Veterans Act of 2015</title>
+    <title type="official" as="introduced">A bill to actively recruit members of the Armed Forces who are separating from military service to serve as Customs and Border Protection Officers.</title>
+  </titles>
+  <sponsor id="400134"/>
+  <cosponsors>
+    <cosponsor id="400013" joined="2015-06-25"/>
+    <cosponsor id="300043" joined="2015-07-16"/>
+    <cosponsor id="412496" joined="2015-06-17"/>
+    <cosponsor id="412464" joined="2015-07-21"/>
+    <cosponsor id="300071" joined="2015-06-17"/>
+    <cosponsor id="300087" joined="2015-06-17"/>
+    <cosponsor id="412665" joined="2015-07-16"/>
+    <cosponsor id="412668" joined="2015-07-08"/>
+    <cosponsor id="400408" joined="2015-08-05"/>
+    <cosponsor id="400418" joined="2015-07-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-17" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <calendar datetime="2015-06-24" state="REPORTED">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+    <action datetime="2015-08-05">
+      <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 114-116.</text>
+    </action>
+    <calendar datetime="2015-08-05" calendar="Senate Legislative" under="General Orders" number="196">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 196.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="2835"/>
+  </relatedbills>
+  <subjects>
+    <term name="Emergency management"/>
+  </subjects>
+  <amendments/>
+  <summary>8/5/2015--Reported to Senate amended.
+Border Jobs for Veterans Act of 2015
+
+(Sec. 3) Directs the Department of Homeland Security (DHS): (1) in conjunction with the Department of Defense (DOD), to identify Military Occupational Specialty Codes, Air Force Specialty Codes, Naval Enlisted Classifications and Officer Designators, and Coast Guard Competencies (qualifications) that are transferable to the requirements and duties assigned to Customs and Border Protection (CBP) Officers; and (2) to consider hiring qualified candidates with such qualifications who are eligible for veterans recruitment appointment.
+
+(Sec. 4) Directs DHS, in conjunction with DOD, to establish a program to actively recruit members of the Armed Forces who are separating from military service to serve as CBP Officers. Requires such program to:
+
+ include CBP Officer opportunities in relevant job assistance efforts under the Transition Assistance Program; place CBP officials or other relevant DHS officials at recruiting events and jobs fairs involving separating members of the Armed Forces; provide opportunities for local CBP field offices to partner with military bases in the region; conduct outreach efforts to educate members of the Armed Forces with qualifications that are transferable to CBP Officer requirements; require DOD and DHS to work cooperatively to identify shared activities and opportunities for reciprocity related to steps in hiring CBP officers with the goal of minimizing the time required to hire qualified applicants; require DOD and DHS to work cooperatively to ensure the streamlined interagency transfer of relevant background investigations and security clearances; and include other elements to ensure that separating members of the Armed Forces are aware of opportunities to fill vacant CBP Officer positions. (Sec. 5) Directs DHS and DOD, within 180 days after enactment of this Act and by December 31 of each of the three successive years, to jointly submit a report to the appropriate congressional committees on the program, including the number of CBP Officer vacancies filled with separating service members.</summary>
+</bill>

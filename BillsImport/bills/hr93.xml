@@ -1,0 +1,49 @@
+<bill session="114" type="hr" number="93" updated="2015-03-28T06:16:12-04:00">
+  <state datetime="2015-02-05">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-05"/>
+  </status>
+  <introduced datetime="2015-02-05"/>
+  <titles>
+    <title type="short" as="introduced">Strengthen House Floor Integrity Resolution</title>
+    <title type="official" as="introduced">Amending the Rules of the House of Representatives to prohibit the regulations promulgated by the Speaker to carry out the rule prohibiting admission to the Hall of the House by former House officials with business before Congress from providing an exemption for admission to the Hall for ceremonial or educational functions.</title>
+  </titles>
+  <sponsor id="412557"/>
+  <cosponsors>
+    <cosponsor id="412537" joined="2015-02-05"/>
+    <cosponsor id="412236" joined="2015-02-05"/>
+    <cosponsor id="412385" joined="2015-02-11"/>
+    <cosponsor id="400162" joined="2015-02-05"/>
+    <cosponsor id="400209" joined="2015-02-12"/>
+    <cosponsor id="412527" joined="2015-02-05"/>
+    <cosponsor id="412523" joined="2015-02-25"/>
+    <cosponsor id="412519" joined="2015-02-05"/>
+    <cosponsor id="412520" joined="2015-02-05"/>
+    <cosponsor id="412214" joined="2015-02-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-05" state="REFERRED">
+      <text>Referred to the House Committee on Rules.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional officers and employees"/>
+    <term name="Government ethics and transparency, public corruption"/>
+    <term name="House of Representatives"/>
+    <term name="Legislative rules and procedure"/>
+    <term name="Members of Congress"/>
+    <term name="Public participation and lobbying"/>
+  </subjects>
+  <amendments/>
+  <summary>2/5/2015--Introduced.
+Amends Rule IV (The Hall of the House) of the Rules of the House of Representatives with respect to the prohibition against admission to the Hall of the House, and rooms leading to it, of former House officials with business before Congress.
+
+Prohibits any regulations promulgated by the Speaker under the Rule from exempting from the prohibition even for ceremonial or educational functions any former Member, Delegate, Resident Commissioner, House Parliamentarian, elected House officer, or minority employee nominated as an elected House officer if the individual:
+
+ is a registered lobbyist or agent of a foreign principal; has any direct personal or pecuniary interest in any legislative measure pending before the House or reported by a committee; or is in the employ of, or represents any part or organization for, the purpose of influencing, directly or indirectly, the passage, defeat, or amendment of a legislative proposal.</summary>
+</bill>

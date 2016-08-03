@@ -1,0 +1,123 @@
+<bill session="114" type="h" number="373" updated="2015-07-25T06:21:59-04:00">
+  <state datetime="2015-04-28T18:59:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2015-04-28T18:59:00-04:00"/>
+  </status>
+  <introduced datetime="2015-01-14"/>
+  <titles>
+    <title type="short" as="introduced">Good Samaritan Search and Recovery Act</title>
+    <title type="short" as="reported to house">Good Samaritan Search and Recovery Act</title>
+    <title type="short" as="passed house">Good Samaritan Search and Recovery Act</title>
+    <title type="official" as="introduced">To direct the Secretary of the Interior and Secretary of Agriculture to expedite access to certain Federal land under the administrative jurisdiction of each Secretary for good Samaritan search-and-recovery missions, and for other purposes.</title>
+  </titles>
+  <sponsor id="412446"/>
+  <cosponsors>
+    <cosponsor id="412500" joined="2015-01-14"/>
+    <cosponsor id="412645" joined="2015-01-14"/>
+    <cosponsor id="412465" joined="2015-01-14"/>
+    <cosponsor id="412510" joined="2015-01-14"/>
+    <cosponsor id="412295" joined="2015-01-14"/>
+    <cosponsor id="412515" joined="2015-01-14"/>
+    <cosponsor id="412610" joined="2015-01-22"/>
+    <cosponsor id="412640" joined="2015-01-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-14" state="REFERRED">
+      <text>Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-01-14">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2015-01-14">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2015-01-26">
+      <text>Referred to the Subcommittee on Conservation and Forestry.</text>
+    </action>
+    <action datetime="2015-03-02">
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+    </action>
+    <action datetime="2015-03-24">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2015-03-25">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-03-25" state="REPORTED">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+    </calendar>
+    <action datetime="2015-03-25">
+      <text>Subcommittee on Federal Lands Discharged.</text>
+    </action>
+    <action datetime="2015-04-15T16:27:00-04:00">
+      <text>Reported by the Committee on Natural Resources. H. Rept. 114-75, Part I.</text>
+    </action>
+    <action datetime="2015-04-15T16:28:00-04:00">
+      <text>Committee on Agriculture discharged.</text>
+    </action>
+    <calendar datetime="2015-04-15T16:28:00-04:00" calendar="Union" number="54">
+      <text>Placed on the Union Calendar, Calendar No. 54.</text>
+    </calendar>
+    <action datetime="2015-04-28T16:37:00-04:00">
+      <text>Mr. Bishop (UT) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2015-04-28T16:37:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2485-2487" label="consideration"/>
+    </action>
+    <action datetime="2015-04-28T16:37:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 373.</text>
+    </action>
+    <action datetime="2015-04-28T16:47:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2015-04-28T18:31:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H2489-2490" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="174" datetime="2015-04-28T18:59:00-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 413 - 0 (Roll no. 174).</text>
+      <reference ref="CR H2485-2486" label="text"/>
+    </vote>
+    <action datetime="2015-04-28T18:59:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2015-04-29">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2015-05-21">
+      <text>Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSII10" subcommittee="Federal Lands" name="House Natural Resources"/>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, Discharged"/>
+    <committee activity="Referral" code="HSAG15" subcommittee="Conservation and Forestry" name="House Agriculture"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+    <committee activity="Hearings" code="SSEG03" subcommittee="Public Lands, Forests, and Mining" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="160"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="First responders and emergency personnel"/>
+    <term name="Forests, forestry, trees"/>
+    <term name="Government liability"/>
+    <term name="Land use and conservation"/>
+    <term name="Life, casualty, property insurance"/>
+    <term name="Parks, recreation areas, trails"/>
+    <term name="Social work, volunteer service, charitable organizations"/>
+    <term name="Wilderness and natural areas, wildlife refuges, wild rivers, habitats"/>
+  </subjects>
+  <amendments/>
+  <summary>4/28/2015--Passed House amended.
+Good Samaritan Search and Recovery Act 
+
+ Directs the Department of the Interior and the Department of Agriculture (USDA) to implement a process to provide eligible organizations and individuals expedited access to federal land to conduct good Samaritan search-and-recovery missions, which are searches for one or more missing individuals believed to be deceased at the time that the search is initiated.
+
+Sets forth procedures for the approval or denial of requests made by eligible organizations or individuals to carry out a good Samaritan search-and-recovery mission.
+
+Requires Interior and USDA to develop search-and-recovery focused partnerships with search-and-recovery organizations to coordinate good Samaritan search-and-recovery missions, and expedite and accelerate mission efforts for missing individuals.</summary>
+</bill>

@@ -1,0 +1,94 @@
+<bill session="114" type="h" number="1266" updated="2015-07-30T04:48:30-04:00">
+  <state datetime="2015-03-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-04"/>
+  </status>
+  <introduced datetime="2015-03-04"/>
+  <titles>
+    <title type="short" as="introduced">Financial Product Safety Commission Act of 2015</title>
+    <title type="official" as="introduced">To amend the Consumer Financial Protection Act of 2010 to make the Bureau of Consumer Financial Protection an independent Financial Product Safety Commission, and for other purposes.</title>
+  </titles>
+  <sponsor id="400441"/>
+  <cosponsors>
+    <cosponsor id="412642" joined="2015-05-20"/>
+    <cosponsor id="412655" joined="2015-04-29"/>
+    <cosponsor id="412541" joined="2015-03-04"/>
+    <cosponsor id="400018" joined="2015-03-26"/>
+    <cosponsor id="400046" joined="2015-03-26"/>
+    <cosponsor id="400052" joined="2015-03-26"/>
+    <cosponsor id="400068" joined="2015-03-26"/>
+    <cosponsor id="412271" joined="2015-04-23"/>
+    <cosponsor id="400655" joined="2015-03-26"/>
+    <cosponsor id="412555" joined="2015-06-09"/>
+    <cosponsor id="400089" joined="2015-03-26"/>
+    <cosponsor id="412488" joined="2015-03-04"/>
+    <cosponsor id="412639" joined="2015-06-09"/>
+    <cosponsor id="400646" joined="2015-03-04"/>
+    <cosponsor id="412480" joined="2015-03-26"/>
+    <cosponsor id="400145" joined="2015-03-04"/>
+    <cosponsor id="400157" joined="2015-04-29"/>
+    <cosponsor id="412447" joined="2015-03-04"/>
+    <cosponsor id="412444" joined="2015-05-14"/>
+    <cosponsor id="412609" joined="2015-03-04"/>
+    <cosponsor id="412437" joined="2015-03-04"/>
+    <cosponsor id="412654" joined="2015-03-26"/>
+    <cosponsor id="400219" joined="2015-06-09"/>
+    <cosponsor id="412656" joined="2015-03-04"/>
+    <cosponsor id="412292" joined="2015-03-04"/>
+    <cosponsor id="400654" joined="2015-03-26"/>
+    <cosponsor id="400644" joined="2015-03-04"/>
+    <cosponsor id="412302" joined="2015-03-26"/>
+    <cosponsor id="400313" joined="2015-03-04"/>
+    <cosponsor id="412551" joined="2015-03-04"/>
+    <cosponsor id="400320" joined="2015-04-29"/>
+    <cosponsor id="400652" joined="2015-03-26"/>
+    <cosponsor id="412633" joined="2015-03-04"/>
+    <cosponsor id="412411" joined="2015-03-04"/>
+    <cosponsor id="412570" joined="2015-03-04"/>
+    <cosponsor id="412399" joined="2015-03-04"/>
+    <cosponsor id="400363" joined="2015-04-30"/>
+    <cosponsor id="400367" joined="2015-03-26"/>
+    <cosponsor id="412509" joined="2015-04-23"/>
+    <cosponsor id="400381" joined="2015-03-26"/>
+    <cosponsor id="412461" joined="2015-04-23"/>
+    <cosponsor id="412405" joined="2015-03-04"/>
+    <cosponsor id="412636" joined="2015-04-23"/>
+    <cosponsor id="412548" joined="2015-03-04"/>
+    <cosponsor id="412574" joined="2015-03-26"/>
+    <cosponsor id="412610" joined="2015-07-29"/>
+    <cosponsor id="400627" joined="2015-03-04"/>
+    <cosponsor id="412578" joined="2015-03-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-04" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1804"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Appropriations"/>
+    <term name="Banking and financial institutions regulation"/>
+    <term name="Consumer Financial Protection Bureau"/>
+    <term name="Consumer affairs"/>
+    <term name="Consumer credit"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Federal Reserve System"/>
+    <term name="Federal officials"/>
+    <term name="Financial services and investments"/>
+  </subjects>
+  <amendments/>
+  <summary>3/4/2015--Introduced.
+Financial Product Safety Commission Act of 2015
+
+ Amends the Consumer Financial Protection Act of 2010 to replace the Consumer Financial Protection Bureau as an independent bureau within the Federal Reserve System, with an independent Financial Product Safety Commission that is to regulate the offering and provision of consumer financial products or services.
+
+States that the Commission (like the current Bureau) shall be composed of five members with strong competencies and experiences regarding consumer financial products and services, each to serve for a term of five years, and appointed by the President by and with the advice and consent of the Senate.
+
+Prohibits the Chair of the Commission from submitting requests for estimates related to appropriations without prior Commission approval.</summary>
+</bill>

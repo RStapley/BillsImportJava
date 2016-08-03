@@ -1,0 +1,57 @@
+<bill session="114" type="s" number="982" updated="2015-07-04T06:54:32-04:00">
+  <state datetime="2015-04-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-16"/>
+  </status>
+  <introduced datetime="2015-04-16"/>
+  <titles>
+    <title type="short" as="introduced">Water Rights Protection Act</title>
+    <title type="official" as="introduced">A bill to prohibit the conditioning of any permit, lease, or other use agreement on the transfer of any water right to the United States by the Secretaries of the Interior and Agriculture, and to require the Secretaries of the Interior and Agriculture to develop water planning instruments consistent with State law.</title>
+  </titles>
+  <sponsor id="412251"/>
+  <cosponsors>
+    <cosponsor id="300030" joined="2015-04-16"/>
+    <cosponsor id="412573" joined="2015-06-04"/>
+    <cosponsor id="300041" joined="2015-04-16"/>
+    <cosponsor id="412556" joined="2015-04-16"/>
+    <cosponsor id="400134" joined="2015-04-16"/>
+    <cosponsor id="412406" joined="2015-04-16"/>
+    <cosponsor id="300052" joined="2015-04-16"/>
+    <cosponsor id="412218" joined="2015-04-16"/>
+    <cosponsor id="412495" joined="2015-04-28"/>
+    <cosponsor id="300071" joined="2015-04-28"/>
+    <cosponsor id="412322" joined="2015-04-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-16" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2015-06-18">
+      <text>Committee on Energy and Natural Resources Subcommittee on Water and Power. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+    <committee activity="Hearings" code="SSEG07" subcommittee="Water and Power" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="1830"/>
+    <bill relation="unknown" session="114" type="h" number="2898"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Indian lands and resources rights"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Land use and conservation"/>
+    <term name="Licensing and registrations"/>
+    <term name="State and local government operations"/>
+    <term name="Water use and supply"/>
+  </subjects>
+  <amendments/>
+  <summary>4/16/2015--Introduced.
+Water Rights Protection Act
+
+ Prohibits the Department of the Interior and the Department of Agriculture from:
+
+ conditioning or withholding the issuance, renewal, amendment, or extension of any permit, approval, license, lease, allotment, easement, right-of-way, or other land use or occupancy agreement (permit) on the limitation or encumbrance of any water right or the transfer of any water right to the United States or any other designee, or any other impairment of any water right under state law by federal or state action; requiring any water user (including a federally recognized Indian tribe) to apply for or acquire a water right in the name of the United States under state law as a condition of such a permit; asserting jurisdiction over groundwater withdrawals or impacts on groundwater resources, unless consistent with state groundwater resource laws, regulations, and policies; or infringing on the rights and obligations of a state in evaluating, allocating, and adjudicating state waters originating on or under, or flowing from, land owned or managed by the federal government.</summary>
+</bill>

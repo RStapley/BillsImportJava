@@ -1,0 +1,48 @@
+<bill session="114" type="h" number="498" updated="2015-02-24T04:46:05-05:00">
+  <state datetime="2015-01-22">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-22"/>
+  </status>
+  <introduced datetime="2015-01-22"/>
+  <titles>
+    <title type="short" as="introduced">Efficient Service for Veterans Act</title>
+    <title type="official" as="introduced">To direct the Secretary of Veterans Affairs and the Secretary of Defense to jointly ensure that the Vet Centers of the Department of Veterans Affairs have access to the Defense Personnel Record Image Retrieval system and the Veterans Affairs/Department of Defense Identity Repository system.</title>
+  </titles>
+  <sponsor id="412403"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-01-22" state="REFERRED">
+      <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-01-22">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2015-01-22">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2015-02-20">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Government information and archives"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Personnel records"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+    <term name="Veterans' loans, housing, homeless programs"/>
+    <term name="Veterans' medical care"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>1/22/2015--Introduced.
+Efficient Service for Veterans Act
+
+Directs the Secretary of Veterans Affairs (VA) and the Secretary of Defense to jointly ensure that certain VA readjustment counseling centers have access to the Defense Personnel Record Image Retrieval system and the Veterans Affairs/Department of Defense Identity Repository system.</summary>
+</bill>

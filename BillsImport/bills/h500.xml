@@ -1,0 +1,71 @@
+<bill session="114" type="h" number="500" updated="2015-04-29T04:46:47-04:00">
+  <state datetime="2015-04-23">REPORTED</state>
+  <status>
+    <unknown datetime="2015-04-23"/>
+  </status>
+  <introduced datetime="2015-01-22"/>
+  <titles>
+    <title type="short" as="introduced">Survivors of Human Trafficking Empowerment Act</title>
+    <title type="official" as="introduced">To establish the United States Advisory Council on Human Trafficking to review Federal Government policy on human trafficking.</title>
+  </titles>
+  <sponsor id="400185"/>
+  <cosponsors>
+    <cosponsor id="412404" joined="2015-01-22"/>
+    <cosponsor id="412565" joined="2015-03-25"/>
+    <cosponsor id="412470" joined="2015-04-28"/>
+    <cosponsor id="412536" joined="2015-01-22"/>
+    <cosponsor id="400162" joined="2015-03-06"/>
+    <cosponsor id="400237" joined="2015-01-22"/>
+    <cosponsor id="412562" joined="2015-03-25"/>
+    <cosponsor id="400259" joined="2015-03-16"/>
+    <cosponsor id="412303" joined="2015-03-25"/>
+    <cosponsor id="400652" joined="2015-01-22"/>
+    <cosponsor id="400348" joined="2015-04-27"/>
+    <cosponsor id="400371" joined="2015-04-23"/>
+    <cosponsor id="400623" joined="2015-03-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-22" state="REFERRED">
+      <text>Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-01-22">
+      <text>Referred to House Foreign Affairs</text>
+    </action>
+    <action datetime="2015-01-22">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2015-01-28">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E129-130"/>
+    </action>
+    <action datetime="2015-02-19">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+    <action datetime="2015-04-23">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-04-23" state="REPORTED">
+      <text>Ordered to be Reported in the Nature of a Substitute (Amended) by Unanimous Consent.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, Markup"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Advisory bodies"/>
+    <term name="Crime prevention"/>
+    <term name="Crime victims"/>
+    <term name="Human trafficking"/>
+  </subjects>
+  <amendments/>
+  <summary>1/22/2015--Introduced.
+Survivors of Human Trafficking Empowerment Act
+
+ Establishes the United States Advisory Council on Human Trafficking, which shall provide advice and recommendations to the Senior Policy Operating Group and the President's Task Force to Monitor and Combat Trafficking in Persons.
+
+Directs the Council to: (1) meet at least annually to review federal government policy and programs intended to combat human trafficking, (2) formulate assessments and recommendations to ensure that U.S. policy and programming efforts conform to best practices in the field of human trafficking prevention, and (3) meet with the Group at least annually to present the Council's findings and recommendations.</summary>
+</bill>

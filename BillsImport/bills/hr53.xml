@@ -1,0 +1,92 @@
+<bill session="114" type="hr" number="53" updated="2015-03-28T06:15:52-04:00">
+  <state datetime="2015-03-23T17:49:00-04:00">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2015-03-23T17:49:00-04:00"/>
+  </status>
+  <introduced datetime="2015-01-27"/>
+  <titles>
+    <title type="official" as="introduced">Condemning the cowardly attack on innocent men, women, and children in the northeastern Nigerian town of Baga.</title>
+    <title type="official" as="amended by house">Condemning the cowardly attacks on innocent men, women, and children in northeastern Nigeria by Boko Haram and urging a peaceful and credible national election.</title>
+  </titles>
+  <sponsor id="412595"/>
+  <cosponsors>
+    <cosponsor id="412470" joined="2015-02-26"/>
+    <cosponsor id="412236" joined="2015-03-23"/>
+    <cosponsor id="400122" joined="2015-02-26"/>
+    <cosponsor id="400170" joined="2015-02-26"/>
+    <cosponsor id="412654" joined="2015-01-30"/>
+    <cosponsor id="400199" joined="2015-03-17"/>
+    <cosponsor id="400271" joined="2015-02-26"/>
+    <cosponsor id="400295" joined="2015-02-26"/>
+    <cosponsor id="400333" joined="2015-02-26"/>
+    <cosponsor id="400348" joined="2015-03-23"/>
+    <cosponsor id="412412" joined="2015-01-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-27" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2015-02-11">
+      <text>Referred to the Subcommittee on Africa, Global Health, Global Human Rights and International Organizations.</text>
+    </action>
+    <action datetime="2015-02-25">
+      <text>Subcommittee on Africa, Global Health, Global Human Rights and International Organizations Discharged.</text>
+    </action>
+    <action datetime="2015-02-27">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-02-27" state="REPORTED">
+      <text>Ordered to be Reported in the Nature of a Substitute (Amended) by Voice Vote.</text>
+    </calendar>
+    <action datetime="2015-03-23T17:25:00-04:00">
+      <text>Mr. Royce moved to suspend the rules and agree to the resolution, as amended.</text>
+    </action>
+    <action datetime="2015-03-23T17:25:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1829-1832" label="consideration"/>
+    </action>
+    <action datetime="2015-03-23T17:25:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 53.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2015-03-23T17:49:00-04:00" where="h" result="pass" state="PASSED:SIMPLERES">
+      <text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H1829" label="text"/>
+    </vote>
+    <action datetime="2015-03-23T17:49:00-04:00">
+      <text>The title of the measure was amended. Agreed to without objection.</text>
+    </action>
+    <action datetime="2015-03-23T17:49:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, Markup"/>
+    <committee activity="Referral, Discharged" code="HSFA16" subcommittee="Africa, Global Health, Global Human Rights and International Organizations" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Africa"/>
+    <term name="Cameroon"/>
+    <term name="Chad"/>
+    <term name="Conflicts and wars"/>
+    <term name="Crimes against children"/>
+    <term name="Human rights"/>
+    <term name="Human trafficking"/>
+    <term name="International organizations and cooperation"/>
+    <term name="Military assistance, sales, and agreements"/>
+    <term name="Niger"/>
+    <term name="Nigeria"/>
+    <term name="Terrorism"/>
+    <term name="Violent crime"/>
+  </subjects>
+  <amendments/>
+  <summary>3/23/2015--Passed House amended.
+Supports the people of Nigeria, especially the men, women, and children in the northeastern Nigerian town of Baga who were victimized, trafficked, and murdered by the terrorist group Boko Haram.
+
+ Condemns Boko Haram for its violent attacks on civilian targets in Nigeria.
+
+ Encourages the government of Nigeria to: (1) strengthen efforts to protect civilians from Boko Haram; and (2) work with the United States and other governments such as Chad, Niger, and Cameroon to defeat Boko Haram.
+
+ Supports U.S. offers of assistance to Nigeria in the search for the school girls abducted by Boko Haram.</summary>
+</bill>

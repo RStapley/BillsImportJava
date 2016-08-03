@@ -1,0 +1,40 @@
+<bill session="114" type="h" number="2664" updated="2015-07-30T04:49:39-04:00">
+  <state datetime="2015-06-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-04"/>
+  </status>
+  <introduced datetime="2015-06-04"/>
+  <titles>
+    <title type="short" as="introduced">Structured Settlement Claimants Rights Act of 2015</title>
+    <title type="official" as="introduced">To amend title 28, United States Code, to protect the right of a claimant in a civil action before a Federal court to retain a structured settlement broker to negotiate the terms of payment of an award, and for other purposes.</title>
+  </titles>
+  <sponsor id="400641"/>
+  <cosponsors>
+    <cosponsor id="412571" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-04" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-06-26">
+      <text>Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU05" subcommittee="Regulatory Reform, Commercial And Antitrust Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Law"/>
+  </subjects>
+  <amendments/>
+  <summary>6/4/2015--Introduced.
+Structured Settlement Claimants Rights Act of 2015
+
+Amends the federal judicial code to declare that a claimant in any civil action before a federal court shall have the right to retain a structured settlement broker to act on behalf of that claimant for purposes of negotiating a schedule of payments or other terms of payment previously agreed to be paid by or on behalf of the defendant in satisfaction of a judgment against that defendant or in accordance with the terms of a settlement.
+
+Requires that a party to an administrative proceeding have the same right to retain such a structured settlement broker for negotiations with other parties.
+
+Directs: (1) the court or the agency in an administrative proceeding to inform the claimant of this right at the appropriate time, and (2) the defendant to provide timely notice of any current or previous professional relationship between the defendant and the broker.</summary>
+</bill>

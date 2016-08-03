@@ -1,0 +1,29 @@
+<bill session="114" type="s" number="1806" updated="2015-07-24T12:47:17-04:00">
+  <state datetime="2015-07-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-21"/>
+  </status>
+  <introduced datetime="2015-07-21"/>
+  <titles>
+    <title type="short" as="introduced">Security and Privacy in Your Car Act of 2015</title>
+    <title type="short" as="introduced">SPY Car Act of 2015</title>
+    <title type="official" as="introduced">A bill to protect consumers from security and privacy threats to their motor vehicles, and for other purposes.</title>
+  </titles>
+  <sponsor id="400253"/>
+  <cosponsors>
+    <cosponsor id="412490" joined="2015-07-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+</bill>

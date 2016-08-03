@@ -1,0 +1,40 @@
+<bill session="114" type="s" number="931" updated="2015-05-09T06:50:21-04:00">
+  <state datetime="2015-04-14">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-14"/>
+  </status>
+  <introduced datetime="2015-04-14"/>
+  <titles>
+    <title type="short" as="introduced">Artist-Museum Partnership Act</title>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to provide that a deduction equal to fair market value shall be allowed for charitable contributions of literary, musical, artistic, or scholarly compositions created by the donor.</title>
+  </titles>
+  <sponsor id="300065"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-04-14">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S2174-2175"/>
+    </action>
+    <action datetime="2015-04-14" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Art, artists, authorship"/>
+    <term name="Charitable contributions"/>
+    <term name="Income tax deductions"/>
+    <term name="Intellectual property"/>
+    <term name="Literature"/>
+    <term name="Music"/>
+  </subjects>
+  <amendments/>
+  <summary>4/14/2015--Introduced.
+Artist-Museum Partnership Act 
+
+Amends the Internal Revenue Code to allow taxpayers who create literary, musical, artistic, or scholarly compositions or similar property a fair market value (determined at the time of contribution) tax deduction for contributions of such properties, the copyrights thereon, or both, to certain tax-exempt organizations, if such properties are properly appraised and are donated no less than 18 months after their creation. Limits the amount of such deduction based upon the donor's artistic adjusted gross income, as defined by this Act.</summary>
+</bill>

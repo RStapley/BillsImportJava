@@ -1,0 +1,25 @@
+<bill session="114" type="s" number="1852" updated="2015-07-25T07:04:42-04:00">
+  <state datetime="2015-07-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-23"/>
+  </status>
+  <introduced datetime="2015-07-23"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title XIX of the Social Security Act to ensure health insurance coverage continuity for former foster youth.</title>
+  </titles>
+  <sponsor id="412246"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-23" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+</bill>

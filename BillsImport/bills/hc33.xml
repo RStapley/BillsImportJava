@@ -1,0 +1,60 @@
+<bill session="114" type="hc" number="33" updated="2015-07-23T04:49:32-04:00">
+  <state datetime="2015-03-26">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-26"/>
+  </status>
+  <introduced datetime="2015-03-26"/>
+  <titles>
+    <title type="official" as="introduced">Expressing the sense of Congress that the Federal excise tax on heavy-duty trucks should not be increased.</title>
+  </titles>
+  <sponsor id="412489"/>
+  <cosponsors>
+    <cosponsor id="400029" joined="2015-03-26"/>
+    <cosponsor id="412627" joined="2015-03-26"/>
+    <cosponsor id="412537" joined="2015-04-13"/>
+    <cosponsor id="412379" joined="2015-05-20"/>
+    <cosponsor id="412271" joined="2015-06-23"/>
+    <cosponsor id="412236" joined="2015-03-26"/>
+    <cosponsor id="412555" joined="2015-03-26"/>
+    <cosponsor id="412621" joined="2015-04-28"/>
+    <cosponsor id="412403" joined="2015-05-12"/>
+    <cosponsor id="400116" joined="2015-03-26"/>
+    <cosponsor id="412524" joined="2015-03-26"/>
+    <cosponsor id="412482" joined="2015-03-26"/>
+    <cosponsor id="412661" joined="2015-06-18"/>
+    <cosponsor id="412454" joined="2015-03-26"/>
+    <cosponsor id="412649" joined="2015-03-26"/>
+    <cosponsor id="412510" joined="2015-04-28"/>
+    <cosponsor id="412191" joined="2015-06-18"/>
+    <cosponsor id="400630" joined="2015-03-26"/>
+    <cosponsor id="412487" joined="2015-03-26"/>
+    <cosponsor id="412552" joined="2015-03-26"/>
+    <cosponsor id="412540" joined="2015-06-19"/>
+    <cosponsor id="412662" joined="2015-07-15"/>
+    <cosponsor id="400290" joined="2015-03-26"/>
+    <cosponsor id="412315" joined="2015-03-26"/>
+    <cosponsor id="412405" joined="2015-07-22"/>
+    <cosponsor id="412670" joined="2015-03-26"/>
+    <cosponsor id="412214" joined="2015-03-26"/>
+    <cosponsor id="412640" joined="2015-04-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-26" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Motor carriers"/>
+    <term name="Motor vehicles"/>
+    <term name="Retail and wholesale trades"/>
+    <term name="Sales and excise taxes"/>
+  </subjects>
+  <amendments/>
+  <summary>3/26/2015--Introduced.
+Declares that the federal excise tax on new tractor trailer trucks, heavy duty trucks, and certain truck trailers should not be increased and that Congress should review the detrimental impacts of such tax in considering future transportation policy.</summary>
+</bill>

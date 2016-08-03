@@ -1,0 +1,59 @@
+<bill session="114" type="h" number="3055" updated="2015-08-11T04:48:31-04:00">
+  <state datetime="2015-07-14">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-14"/>
+  </status>
+  <introduced datetime="2015-07-14"/>
+  <titles>
+    <title type="short" as="introduced">Cuba DATA Act</title>
+    <title type="short" as="introduced">Cuba Digital and Telecommunications Advancement Act of 2015</title>
+    <title type="official" as="introduced">To authorize the exportation of consumer communication devices to Cuba and the provision of telecommunications services to Cuba, and for other purposes.</title>
+  </titles>
+  <sponsor id="412555"/>
+  <cosponsors>
+    <cosponsor id="412239" joined="2015-07-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-14" state="REFERRED">
+      <text>Referred to the Committee on Foreign Affairs, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-07-14">
+      <text>Referred to House Foreign Affairs</text>
+    </action>
+    <action datetime="2015-07-14">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-07-17">
+      <text>Referred to the Subcommittee on Communications and Technology.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF16" subcommittee="Communications and Technology" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="1389"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Caribbean area"/>
+    <term name="Congressional oversight"/>
+    <term name="Cuba"/>
+    <term name="Economic development"/>
+    <term name="Human rights"/>
+    <term name="Internet and video services"/>
+    <term name="Latin America"/>
+    <term name="Sanctions"/>
+    <term name="Telephone and wireless communication"/>
+    <term name="Trade restrictions"/>
+    <term name="Travel and tourism"/>
+  </subjects>
+  <amendments/>
+  <summary>7/14/2015--Introduced.
+Cuba Digital and Telecommunications Advancement Act of 2015 or the Cuba DATA Act
+
+This bill authorizes the President to permit any person subject to U.S. jurisdiction to:
+
+ export consumer communication devices and other telecommunications equipment to Cuba; provide telecommunications services involving Cuba or persons in Cuba; establish facilities to provide telecommunications services connecting Cuba with another country, or to provide telecommunications services in Cuba; conduct any transaction incident to carrying out such activities; and enter into, perform, and make and receive payments under a contract with any individual or entity in Cuba regarding the provision of telecommunications services involving Cuba or persons in Cuba. Repeals or amends specified requirements and prohibitions of: (1) the Cuban Democracy Act of 1992, and (2) the Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 1996.</summary>
+</bill>

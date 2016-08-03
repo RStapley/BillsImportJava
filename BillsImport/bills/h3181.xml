@@ -1,0 +1,33 @@
+<bill session="114" type="h" number="3181" updated="2015-08-05T04:47:36-04:00">
+  <state datetime="2015-07-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-23"/>
+  </status>
+  <introduced datetime="2015-07-23"/>
+  <titles>
+    <title type="official" as="introduced">To amend title 23, United States Code, to permit border States to designate certain funds for border infrastructure projects, and for other purposes.</title>
+  </titles>
+  <sponsor id="412654"/>
+  <cosponsors>
+    <cosponsor id="400657" joined="2015-07-23"/>
+    <cosponsor id="400654" joined="2015-07-23"/>
+    <cosponsor id="412575" joined="2015-08-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-23" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2015-07-24">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW12" subcommittee="Highways and Transit" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+</bill>

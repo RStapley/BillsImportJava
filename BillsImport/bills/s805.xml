@@ -1,0 +1,42 @@
+<bill session="114" type="s" number="805" updated="2015-05-14T04:48:58-04:00">
+  <state datetime="2015-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-19"/>
+  </status>
+  <introduced datetime="2015-03-19"/>
+  <titles>
+    <title type="short" as="introduced">Preservation Research at Institutions Serving Minorities Act of 2015</title>
+    <title type="short" as="introduced">PRISM Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend title 54, United States Code, to make Hispanic-serving institutions eligible for technical and financial assistance for the establishment of preservation training and degree programs.</title>
+  </titles>
+  <sponsor id="400413"/>
+  <cosponsors>
+    <cosponsor id="412281" joined="2015-03-19"/>
+    <cosponsor id="400272" joined="2015-03-19"/>
+    <cosponsor id="412491" joined="2015-03-19"/>
+    <cosponsor id="300087" joined="2015-05-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-19" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1541"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Education programs funding"/>
+    <term name="Higher education"/>
+    <term name="Historic sites and heritage areas"/>
+    <term name="Minority education"/>
+  </subjects>
+  <amendments/>
+  <summary>3/19/2015--Introduced.
+Preservation Research at Institutions Serving Minorities Act of 2015 or the PRISM Act of 2015
+
+Makes Hispanic-serving institutions eligible for technical and financial assistance from the Secretary of the Interior to establish preservation training and degree programs.</summary>
+</bill>

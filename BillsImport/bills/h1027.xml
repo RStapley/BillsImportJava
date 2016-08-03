@@ -1,0 +1,87 @@
+<bill session="114" type="h" number="1027" updated="2015-07-28T05:08:34-04:00">
+  <state datetime="2015-02-24">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-24"/>
+  </status>
+  <introduced datetime="2015-02-24"/>
+  <titles>
+    <title type="short" as="introduced">Healthy Climate and Family Security Act of 2015</title>
+    <title type="official" as="introduced">To cap the emissions of greenhouse gases through a requirement to purchase carbon permits, to distribute the proceeds of such purchases to eligible individuals, and for other purposes.</title>
+  </titles>
+  <sponsor id="400415"/>
+  <cosponsors>
+    <cosponsor id="412657" joined="2015-02-24"/>
+    <cosponsor id="400033" joined="2015-02-24"/>
+    <cosponsor id="412571" joined="2015-02-24"/>
+    <cosponsor id="412236" joined="2015-07-08"/>
+    <cosponsor id="412272" joined="2015-02-24"/>
+    <cosponsor id="400080" joined="2015-02-24"/>
+    <cosponsor id="412613" joined="2015-02-24"/>
+    <cosponsor id="412215" joined="2015-06-01"/>
+    <cosponsor id="400129" joined="2015-07-09"/>
+    <cosponsor id="400162" joined="2015-02-24"/>
+    <cosponsor id="412498" joined="2015-04-28"/>
+    <cosponsor id="400170" joined="2015-06-01"/>
+    <cosponsor id="400185" joined="2015-02-24"/>
+    <cosponsor id="400237" joined="2015-02-24"/>
+    <cosponsor id="412616" joined="2015-04-28"/>
+    <cosponsor id="400245" joined="2015-02-24"/>
+    <cosponsor id="412521" joined="2015-02-24"/>
+    <cosponsor id="400263" joined="2015-05-20"/>
+    <cosponsor id="412189" joined="2015-03-18"/>
+    <cosponsor id="400290" joined="2015-02-24"/>
+    <cosponsor id="408211" joined="2015-07-27"/>
+    <cosponsor id="400295" joined="2015-02-24"/>
+    <cosponsor id="400333" joined="2015-02-24"/>
+    <cosponsor id="400360" joined="2015-05-20"/>
+    <cosponsor id="400361" joined="2015-02-24"/>
+    <cosponsor id="400416" joined="2015-07-08"/>
+    <cosponsor id="412239" joined="2015-02-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-24" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-02-24">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-02-24">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-02-27">
+      <text>Referred to the Subcommittee on Energy and Power.</text>
+    </action>
+    <action datetime="2015-03-25">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E421"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Air quality"/>
+    <term name="Civil actions and liability"/>
+    <term name="Climate change and greenhouse gases"/>
+    <term name="Coal"/>
+    <term name="Competitiveness, trade promotion, trade deficits"/>
+    <term name="Environmental Protection Agency (EPA)"/>
+    <term name="Environmental regulatory procedures"/>
+    <term name="Government information and archives"/>
+    <term name="Government trust funds"/>
+    <term name="International law and treaties"/>
+    <term name="International organizations and cooperation"/>
+    <term name="Licensing and registrations"/>
+    <term name="Oil and gas"/>
+    <term name="Pollution liability"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Tariffs"/>
+    <term name="User charges and fees"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,81 @@
+<bill session="114" type="h" number="2259" updated="2015-08-22T06:38:11-04:00">
+  <state datetime="2015-05-12">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-12"/>
+  </status>
+  <introduced datetime="2015-05-12"/>
+  <titles>
+    <title type="short" as="introduced">Protect Our Military Families' 2nd Amendment Rights Act</title>
+    <title type="official" as="introduced">To amend chapter 44 of title 18, United States Code, to provide that a member of the armed forces and the spouse of that member shall have the same rights regarding the receipt of firearms at the location of any duty station of the member.</title>
+  </titles>
+  <sponsor id="412483"/>
+  <cosponsors>
+    <cosponsor id="400004" joined="2015-07-21"/>
+    <cosponsor id="412625" joined="2015-06-02"/>
+    <cosponsor id="412500" joined="2015-06-02"/>
+    <cosponsor id="412655" joined="2015-05-12"/>
+    <cosponsor id="400057" joined="2015-05-21"/>
+    <cosponsor id="400068" joined="2015-05-12"/>
+    <cosponsor id="400077" joined="2015-06-02"/>
+    <cosponsor id="412555" joined="2015-05-14"/>
+    <cosponsor id="400086" joined="2015-07-23"/>
+    <cosponsor id="400089" joined="2015-06-01"/>
+    <cosponsor id="412477" joined="2015-05-21"/>
+    <cosponsor id="412453" joined="2015-06-18"/>
+    <cosponsor id="400158" joined="2015-05-19"/>
+    <cosponsor id="412623" joined="2015-06-09"/>
+    <cosponsor id="400196" joined="2015-06-17"/>
+    <cosponsor id="412460" joined="2015-06-12"/>
+    <cosponsor id="400206" joined="2015-06-04"/>
+    <cosponsor id="412566" joined="2015-05-21"/>
+    <cosponsor id="400220" joined="2015-06-16"/>
+    <cosponsor id="400224" joined="2015-06-02"/>
+    <cosponsor id="412624" joined="2015-06-02"/>
+    <cosponsor id="412487" joined="2015-05-12"/>
+    <cosponsor id="412552" joined="2015-05-19"/>
+    <cosponsor id="412540" joined="2015-05-19"/>
+    <cosponsor id="400279" joined="2015-06-10"/>
+    <cosponsor id="412660" joined="2015-06-09"/>
+    <cosponsor id="412302" joined="2015-05-19"/>
+    <cosponsor id="412443" joined="2015-05-21"/>
+    <cosponsor id="412551" joined="2015-06-23"/>
+    <cosponsor id="412633" joined="2015-06-23"/>
+    <cosponsor id="412653" joined="2015-07-08"/>
+    <cosponsor id="412489" joined="2015-05-21"/>
+    <cosponsor id="412426" joined="2015-06-02"/>
+    <cosponsor id="412311" joined="2015-07-23"/>
+    <cosponsor id="400367" joined="2015-05-21"/>
+    <cosponsor id="412596" joined="2015-05-21"/>
+    <cosponsor id="412648" joined="2015-06-02"/>
+    <cosponsor id="412581" joined="2015-05-21"/>
+    <cosponsor id="400433" joined="2015-05-12"/>
+    <cosponsor id="412255" joined="2015-06-16"/>
+    <cosponsor id="412628" joined="2015-05-21"/>
+    <cosponsor id="412640" joined="2015-07-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-12" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-06-01">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="1992"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+  </subjects>
+  <amendments/>
+  <summary>5/12/2015--Introduced.
+Protect Our Military Families' 2nd Amendment Rights Act
+
+Amends the federal criminal code to authorize a licensed importer, manufacturer, or dealer of firearms to ship to the spouse of a member of the U.S. Armed Forces on active duty outside the United States or to clubs composed of such members and spouses, and authorizes such a spouse or club to receive, a firearm or ammunition generally recognized as particularly suitable for sporting purposes and intended for the personal use of such spouse or club.
+
+Describes a member of the Armed Forces on active duty or a spouse of such member, for purposes of federal firearms provisions, as a resident of the state in which: (1) the member or spouse maintains legal residence, (2) the permanent duty station of the member is located, or (3) the member maintains a place of abode from which the member commutes each day to the member's permanent duty station.</summary>
+</bill>

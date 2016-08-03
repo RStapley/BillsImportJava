@@ -1,0 +1,47 @@
+<bill session="114" type="hr" number="47" updated="2015-03-04T04:46:00-05:00">
+  <state datetime="2015-01-22">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-22"/>
+  </status>
+  <introduced datetime="2015-01-22"/>
+  <titles>
+    <title type="official" as="introduced">Supporting women's reproductive health care decisions.</title>
+  </titles>
+  <sponsor id="400101"/>
+  <cosponsors>
+    <cosponsor id="400378" joined="2015-01-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-22" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-01-30">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="sr" number="37"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Abortion"/>
+    <term name="Child health"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Family planning and birth control"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health information and medical records"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="Sex and reproductive health"/>
+    <term name="Women's health"/>
+  </subjects>
+  <amendments/>
+  <summary>1/22/2015--Introduced.
+Expresses support for efforts to:
+
+ ensure that women have access to the best available health care and information, including comprehensive, affordable insurance coverage and health care that fosters safe childbearing; ensure that women can make their own health care decisions; prohibit employers or government entities from interfering with reproductive health care services guaranteed by law; and guarantee the constitutionally protected right to safe, legal abortions.</summary>
+</bill>

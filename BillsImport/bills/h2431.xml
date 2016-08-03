@@ -1,0 +1,46 @@
+<bill session="114" type="h" number="2431" updated="2015-08-08T06:39:37-04:00">
+  <state datetime="2015-05-19">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-19"/>
+  </status>
+  <introduced datetime="2015-05-19"/>
+  <titles>
+    <title type="short" as="introduced">On-the-Job Training Tax Credit Act of 2015</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to provide a credit against tax for job training expenses of employers.</title>
+  </titles>
+  <sponsor id="412615"/>
+  <cosponsors>
+    <cosponsor id="412517" joined="2015-06-03"/>
+    <cosponsor id="412638" joined="2015-06-03"/>
+    <cosponsor id="400244" joined="2015-06-12"/>
+    <cosponsor id="412514" joined="2015-06-17"/>
+    <cosponsor id="412617" joined="2015-06-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-19" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="2015-05-21">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H3544"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Employment and training programs"/>
+    <term name="Income tax credits"/>
+  </subjects>
+  <amendments/>
+  <summary>5/19/2015--Introduced.
+On-the-Job Training Tax Credit Act of 2015
+
+ Amends the Internal Revenue Code to allow&#160;employers who employ not more than 500 full-time employees during the taxable year an on-the-job training tax credit equal to the lesser of: 50% of the job training program&#160;expenditures for a full-time&#160;employee participating in a qualified training program, or $5,000.
+
+Defines "qualified training program" as a written plan of study and training that is either: (1) an apprenticeship program registered and certified with the Department of Labor under the National Apprenticeship Act; (2) a program licensed, registered, or certified by the workforce investment board or apprenticeship agency or council of a state or administered in compliance with state apprenticeship laws; (3) a program conducted by a vocational or technical education school, community college, industrial or trade training organization, or labor organization; (4) a program which conforms to apprentice training programs developed or administered by an employer trade group or committee; or (5) an industry-sponsored or -administered program which is clearly identified and commonly recognized.
+
+Terminates such credit after 2017.</summary>
+</bill>

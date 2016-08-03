@@ -1,0 +1,42 @@
+<bill session="114" type="s" number="1136" updated="2015-06-06T06:53:04-04:00">
+  <state datetime="2015-04-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-29"/>
+  </status>
+  <introduced datetime="2015-04-29"/>
+  <titles>
+    <title type="official" as="introduced">A bill relating to the modernization of C-130 aircraft to meet applicable regulations of the Federal Aviation Administration, and for other purposes.</title>
+  </titles>
+  <sponsor id="412244"/>
+  <cosponsors>
+    <cosponsor id="412490" joined="2015-04-30"/>
+    <cosponsor id="412390" joined="2015-05-06"/>
+    <cosponsor id="412549" joined="2015-04-29"/>
+    <cosponsor id="300041" joined="2015-04-29"/>
+    <cosponsor id="412223" joined="2015-04-29"/>
+    <cosponsor id="412242" joined="2015-05-11"/>
+    <cosponsor id="300087" joined="2015-04-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-29" state="REFERRED">
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Aviation and airports"/>
+    <term name="Department of Transportation"/>
+    <term name="Military procurement, research, weapons development"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+  <summary>4/29/2015--Introduced.
+Congress affirms that, for the purposes of modernizing the C-130 aircraft fleet, the Air Force has authority to undertake safety and compliance upgrades in lieu of the C-130 aircraft avionics modernization program of record to meet applicable Federal Aviation Administration (FAA) regulations by 2020.
+
+The Carl Levin and Howard P. "Buck" McKeon National Defense Authorization Act for Fiscal Year 2015 is amended to declare that, if the Secretary of the Air Force implements the alternative communication, navigation, surveillance, and air traffic management program, that implementation shall be coordinated with the FAA in order to satisfy applicable safety and compliance airspace regulations.</summary>
+</bill>

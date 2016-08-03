@@ -1,0 +1,77 @@
+<bill session="114" type="h" number="1491" updated="2015-05-09T06:33:41-04:00">
+  <state datetime="2015-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-19"/>
+  </status>
+  <introduced datetime="2015-03-19"/>
+  <titles>
+    <title type="short" as="introduced">Partnership to Strengthen Homeownership Act of 2015</title>
+    <title type="official" as="introduced">To reform the housing finance system of the United States, and for other purposes.</title>
+  </titles>
+  <sponsor id="412544"/>
+  <cosponsors>
+    <cosponsor id="412407" joined="2015-03-19"/>
+    <cosponsor id="412584" joined="2015-03-19"/>
+    <cosponsor id="412282" joined="2015-03-19"/>
+    <cosponsor id="400271" joined="2015-03-19"/>
+    <cosponsor id="412527" joined="2015-03-19"/>
+    <cosponsor id="412308" joined="2015-03-19"/>
+    <cosponsor id="412331" joined="2015-03-19"/>
+    <cosponsor id="400363" joined="2015-03-19"/>
+    <cosponsor id="412509" joined="2015-03-19"/>
+    <cosponsor id="412239" joined="2015-03-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-19" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Housing and community development"/>
+  </subjects>
+  <amendments/>
+  <summary>3/19/2015--Introduced.
+Partnership to Strengthen Homeownership Act of 2015
+
+ Amends the National Housing Act to remove the Government National Mortgage Association (Ginnie Mae) from the Department of Housing and Urban Development (HUD) and establish it as an independent entity governed by a Board of Directors in place of the HUD Secretary.
+
+Transfers to Ginnie Mae the powers, duties, personnel, and property of Federal Housing Finance Agency, that is hereby abolished.
+
+Establishes within Ginnie Mae the Issuing Platform, available for use only by eligible mortgage originators and aggregators, to issue standardized mortgage-backed securities.
+
+Requires Ginnie Mae to establish: (1) limitations governing the maximum original principal obligation of eligible mortgage loans that may collateralize the issued securities, and (2) an insurance fund and insure 100% of each security issued by the Platform.
+
+Prescribes requirements for: (1) a participating mortgage originator or aggregator to deliver to the Platform a pool of eligible mortgage loans; and (2) the Platform to create standardized mortgage-backed securities collateralized by such mortgages and transfer them to the mortgage originator or aggregator.
+
+Exempts standardized mortgage-backed securities issued by the Platform from federal securities laws.
+
+Prescribes requirements for Ginnie Mae's or the Financial Stability Oversight Council's actions if unusual and exigent circumstances have created or threaten to create an anomalous lack of mortgage credit availability within the housing market that could materially and severely disrupt the functioning of the federal housing finance system.
+
+Amends the Federal Home Loan Bank Act to make any lender of home mortgage loans eligible to become a member of a Federal Home Loan Bank (FHLB).
+
+Directs the Director of Ginnie Mae to: (1) prohibit the government-sponsored enterprises (GSEs, Federal National Mortgage Association [Fannie Mae] and the Federal Home Loan Mortgage Corporation [Freddie Mac]) from issuing, guaranteeing, or purchasing any security backed by mortgages on 1- to 4-family residences except as specifically authorized by this Act; (2) permit a GSE to act until a certain time as a participating aggregator of eligible mortgages for securitization if the business volume of their originators is insufficient to allow them to aggregate and securitize such mortgages; and (3) allow a GSE to act as a reinsurer for a mortgage-backed security until the GSE goes into receivership.
+
+Requires each GSE to establish a risk-sharing pilot program to develop private sector first-loss positions on mortgage-backed securities.
+
+Continues the current conservatorships of the GSEs until the commencement of mandatory receivership.
+
+Requires the Director to appoint Ginnie Mae as receiver of the GSEs. Prescribes requirements for winding down the GSEs.
+
+Directs the Director to direct Fannie Mae and Freddie Mac to develop a plan to establish a subsidiary to provide sufficient multifamily housing financing and to establish a competitive housing market for multifamily housing guarantors engaging in multifamily covered securities.
+
+Directs the Director to develop, adopt, publish, and enforce standards for the approval of multifamily guarantors to: (1) issue securities collateralized by eligible multifamily mortgage loans, and (2) guarantee the timely payment of principal and interest on these securities and insured by Ginnie Mae.
+
+Amends the Housing and Community Development Act of 1992 to allow Ginnie Mae to securitize multifamily loans insured or reinsured under such Act under certain circumstances.
+
+Requires the Platform in each fiscal year to charge and collect a certain fee for the outstanding principal balance of all eligible mortgage loans that collateralize securities insured under this Act and all other mortgage loans collateralizing securities on which Ginnie Mae guarantees the timely payment of principal and interest.
+
+Amends the Safety and Soundness Act of 1992 with respect to the Housing Trust Fund and housing for Indians.
+
+Amends the Federal Home Loan Bank Act to authorize FHLBs to make long-term secured advances to their members to provide funds to community development financial institutions.
+
+Requires such FHLBs, at the time of origination or renewal of the loan or advance, to obtain and maintain a security interest in collateral eligible pursuant to any such secured loan.</summary>
+</bill>

@@ -1,0 +1,29 @@
+<bill session="114" type="h" number="3182" updated="2015-08-01T06:46:20-04:00">
+  <state datetime="2015-07-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-23"/>
+  </status>
+  <introduced datetime="2015-07-23"/>
+  <titles>
+    <title type="short" as="introduced">Planetary Leadership Utilizing Teaching and Observations Act</title>
+    <title type="short" as="introduced">PLUTO Act</title>
+    <title type="official" as="introduced">To advance United States leadership in planetary science and space exploration though education and outreach.</title>
+  </titles>
+  <sponsor id="400204"/>
+  <cosponsors>
+    <cosponsor id="400381" joined="2015-07-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-23" state="REFERRED">
+      <text>Referred to the House Committee on Science, Space, and Technology.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science, Space, and Technology" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Science, technology, communications"/>
+  </subjects>
+  <amendments/>
+</bill>

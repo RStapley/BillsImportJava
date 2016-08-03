@@ -1,0 +1,55 @@
+<bill session="114" type="h" number="2243" updated="2015-07-31T04:47:16-04:00">
+  <state datetime="2015-07-29">REPORTED</state>
+  <status>
+    <unknown datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-05-08"/>
+  <titles>
+    <title type="short" as="introduced">Equity in Government Compensation Act of 2015</title>
+    <title type="official" as="introduced">To suspend the current compensation packages for the senior executives of Fannie Mae and Freddie Mac and establish compensation for such positions in accordance with rates of pay for senior employees in the Executive Branch of the Federal Government, and for other purposes.</title>
+  </titles>
+  <sponsor id="400348"/>
+  <cosponsors>
+    <cosponsor id="412627" joined="2015-05-19"/>
+    <cosponsor id="412256" joined="2015-07-22"/>
+    <cosponsor id="412474" joined="2015-05-13"/>
+    <cosponsor id="400313" joined="2015-05-13"/>
+    <cosponsor id="412633" joined="2015-05-08"/>
+    <cosponsor id="412309" joined="2015-07-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-08" state="REFERRED">
+      <text>Referred to the Committee on Financial Services, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-05-08">
+      <text>Referred to House Financial Services</text>
+    </action>
+    <action datetime="2015-05-08">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2015-07-28">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-07-29" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 57 - 1.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, Markup"/>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Housing and community development"/>
+  </subjects>
+  <amendments/>
+  <summary>5/8/2015--Introduced.
+Equity in Government Compensation Act of 2015 
+
+ Requires the Director of the Federal Housing Finance Agency to: (1) suspend immediately the compensation packages approved for 2015 for the executive officers of the Federal National Mortgage Association (Fannie Mae) and the Federal Home Loan Mortgage Corporation (Freddie Mac) (government-sponsored enterprises or GSEs); and (2) establish, in lieu of such packages, a compensation system for such officers in accordance with the rates of pay for positions in the Executive Schedule and the Senior Executive Service of the federal government.
+
+Establishes requirements for determining compensation rates for GSE employees according to the General Schedule for federal civil service employees.</summary>
+</bill>

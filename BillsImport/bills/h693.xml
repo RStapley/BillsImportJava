@@ -1,0 +1,41 @@
+<bill session="114" type="h" number="693" updated="2015-03-17T04:49:26-04:00">
+  <state datetime="2015-02-03">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-03"/>
+  </status>
+  <introduced datetime="2015-02-03"/>
+  <titles>
+    <title type="short" as="introduced">Appalachian Forest National Heritage Area Act of 2015</title>
+    <title type="official" as="introduced">To establish the Appalachian Forest National Heritage Area, and for other purposes.</title>
+  </titles>
+  <sponsor id="412487"/>
+  <cosponsors>
+    <cosponsor id="412544" joined="2015-02-03"/>
+    <cosponsor id="412663" joined="2015-02-03"/>
+    <cosponsor id="412662" joined="2015-02-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-03" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2015-03-16">
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="Federal Lands" name="House Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Coal"/>
+    <term name="Economic development"/>
+    <term name="Forests, forestry, trees"/>
+    <term name="Historic sites and heritage areas"/>
+    <term name="Land use and conservation"/>
+    <term name="Mining"/>
+    <term name="West Virginia"/>
+  </subjects>
+  <amendments/>
+</bill>

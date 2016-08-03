@@ -1,0 +1,48 @@
+<bill session="114" type="s" number="1074" updated="2015-08-22T07:00:39-04:00">
+  <state datetime="2015-04-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-23"/>
+  </status>
+  <introduced datetime="2015-04-23"/>
+  <titles>
+    <title type="short" as="introduced">National Scenic Trails Parity Act</title>
+    <title type="official" as="introduced">A bill to clarify the status of the North Country, Ice Age, and New England National Scenic Trails as units of the National Park System, and for other purposes.</title>
+  </titles>
+  <sponsor id="400013"/>
+  <cosponsors>
+    <cosponsor id="412490" joined="2015-04-23"/>
+    <cosponsor id="412496" joined="2015-04-27"/>
+    <cosponsor id="412242" joined="2015-04-27"/>
+    <cosponsor id="400253" joined="2015-04-23"/>
+    <cosponsor id="412194" joined="2015-04-23"/>
+    <cosponsor id="412305" joined="2015-04-23"/>
+    <cosponsor id="412542" joined="2015-04-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-23" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Connecticut"/>
+    <term name="Massachusetts"/>
+    <term name="Michigan"/>
+    <term name="Minnesota"/>
+    <term name="New York State"/>
+    <term name="North Dakota"/>
+    <term name="Ohio"/>
+    <term name="Parks, recreation areas, trails"/>
+    <term name="Pennsylvania"/>
+    <term name="Wisconsin"/>
+  </subjects>
+  <amendments/>
+  <summary>4/23/2015--Introduced.
+National Scenic Trails Parity Act
+
+ Amends the National Trails System Act to require the North Country, Ice Age, and New England National Scenic Trails to be administered as units of the National Park System.</summary>
+</bill>

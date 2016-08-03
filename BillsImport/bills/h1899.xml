@@ -1,0 +1,47 @@
+<bill session="114" type="h" number="1899" updated="2015-07-29T04:48:12-04:00">
+  <state datetime="2015-04-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-21"/>
+  </status>
+  <introduced datetime="2015-04-21"/>
+  <titles>
+    <title type="short" as="introduced">Caregivers Expansion and Improvement Act of 2015</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to extend to all veterans with a serious service-connected injury eligibility to participate in the family caregiver services program.</title>
+  </titles>
+  <sponsor id="412638"/>
+  <cosponsors>
+    <cosponsor id="412537" joined="2015-04-21"/>
+    <cosponsor id="412236" joined="2015-07-28"/>
+    <cosponsor id="412276" joined="2015-06-01"/>
+    <cosponsor id="412595" joined="2015-05-19"/>
+    <cosponsor id="400271" joined="2015-05-19"/>
+    <cosponsor id="412617" joined="2015-06-01"/>
+    <cosponsor id="412239" joined="2015-05-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-21" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2015-05-01">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="657"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Disability and paralysis"/>
+    <term name="Long-term, rehabilitative, and terminal care"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>4/21/2015--Introduced.
+Caregivers Expansion and Improvement Act of 2015
+
+Extends to all veterans with a serious service-connected injury the eligibility to participate in the Department of Veterans Affairs program of comprehensive assistance to family caregivers of such veterans. (Under current law, such eligibility is limited to those veterans who incurred such an injury on or after September 11, 2001.)</summary>
+</bill>

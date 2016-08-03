@@ -1,0 +1,51 @@
+<bill session="114" type="s" number="333" updated="2015-05-23T06:45:08-04:00">
+  <state datetime="2015-02-02">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-02"/>
+  </status>
+  <introduced datetime="2015-02-02"/>
+  <titles>
+    <title type="short" as="introduced">Dollar-for-Dollar Deficit Reduction Act</title>
+    <title type="official" as="introduced">A bill to require that any debt limit increase be balanced by equal spending cuts over the next decade.</title>
+  </titles>
+  <sponsor id="400325"/>
+  <cosponsors>
+    <cosponsor id="412493" joined="2015-02-02"/>
+    <cosponsor id="412251" joined="2015-02-02"/>
+    <cosponsor id="400040" joined="2015-02-02"/>
+    <cosponsor id="400061" joined="2015-02-02"/>
+    <cosponsor id="300030" joined="2015-02-02"/>
+    <cosponsor id="300048" joined="2015-02-02"/>
+    <cosponsor id="400194" joined="2015-02-02"/>
+    <cosponsor id="412496" joined="2015-02-02"/>
+    <cosponsor id="412495" joined="2015-02-02"/>
+    <cosponsor id="412491" joined="2015-02-02"/>
+    <cosponsor id="400418" joined="2015-02-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-02" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Budget.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSBU" name="Senate Budget" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Budget deficits and national debt"/>
+    <term name="Budget process"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Legislative rules and procedure"/>
+    <term name="Presidents and presidential powers"/>
+  </subjects>
+  <amendments/>
+  <summary>2/2/2015--Introduced.
+Dollar-for-Dollar Deficit Reduction Act 
+
+This bill requires the Department of the Treasury to issue a debt limit warning to Congress if Treasury determines that the United States will reach the statutory debt limit within 60 days. The warning must include a determination of when extraordinary measures may be necessary to prolong the funding of the United States government in the absence of a debt limit increase.
+
+Any formal Presidential request to increase the debt limit must include: (1) the amount of the proposed increase, and (2) proposed legislation to reduce spending over the sum of the current and following 10 years by at least the amount of the requested increase.
+
+The bill amends the Congressional Budget Act of 1974 to create a point of order in the House and Senate against legislation increasing the debt limit, unless the legislation reduces spending over the sum of the current and following 10 years by at least the amount of the increase.</summary>
+</bill>

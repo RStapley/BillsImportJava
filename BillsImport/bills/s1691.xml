@@ -1,0 +1,32 @@
+<bill session="114" type="s" number="1691" updated="2015-07-17T05:00:04-04:00">
+  <state datetime="2015-06-25">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-25"/>
+  </status>
+  <introduced datetime="2015-06-25"/>
+  <titles>
+    <title type="short" as="introduced">National Forest Ecosystem Improvement Act of 2015</title>
+    <title type="official" as="introduced">A bill to expedite and prioritize forest management activities to achieve ecosystem restoration objectives, and for other purposes.</title>
+  </titles>
+  <sponsor id="412251"/>
+  <cosponsors>
+    <cosponsor id="400134" joined="2015-07-07"/>
+    <cosponsor id="300052" joined="2015-07-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-25" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2015-07-16">
+      <text>Committee on Energy and Natural Resources. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+</bill>

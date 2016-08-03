@@ -1,0 +1,31 @@
+<bill session="114" type="h" number="2901" updated="2015-07-10T04:48:39-04:00">
+  <state datetime="2015-06-25">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-25"/>
+  </status>
+  <introduced datetime="2015-06-25"/>
+  <titles>
+    <title type="short" as="introduced">Flood Insurance Market Parity and Modernization Act</title>
+    <title type="official" as="introduced">To amend the Flood Disaster Protection Act of 1973 to require that certain buildings and personal property be covered by flood insurance, and for other purposes.</title>
+  </titles>
+  <sponsor id="412411"/>
+  <cosponsors>
+    <cosponsor id="412603" joined="2015-07-09"/>
+    <cosponsor id="412527" joined="2015-06-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-25" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="1679"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+  </subjects>
+  <amendments/>
+</bill>

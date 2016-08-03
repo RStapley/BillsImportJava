@@ -1,0 +1,56 @@
+<bill session="114" type="h" number="1547" updated="2015-06-02T04:47:29-04:00">
+  <state datetime="2015-03-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-23"/>
+  </status>
+  <introduced datetime="2015-03-23"/>
+  <titles>
+    <title type="short" as="introduced">Family Health Care Flexibility Act</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to repeal certain limitations on health care benefits enacted as part of the Patient Protection and Affordable Care Act.</title>
+  </titles>
+  <sponsor id="412303"/>
+  <cosponsors>
+    <cosponsor id="400032" joined="2015-03-23"/>
+    <cosponsor id="400116" joined="2015-03-24"/>
+    <cosponsor id="400142" joined="2015-04-15"/>
+    <cosponsor id="412397" joined="2015-03-23"/>
+    <cosponsor id="412280" joined="2015-03-23"/>
+    <cosponsor id="412460" joined="2015-06-01"/>
+    <cosponsor id="400209" joined="2015-03-23"/>
+    <cosponsor id="412566" joined="2015-03-23"/>
+    <cosponsor id="412191" joined="2015-03-23"/>
+    <cosponsor id="412310" joined="2015-03-23"/>
+    <cosponsor id="412570" joined="2015-03-24"/>
+    <cosponsor id="400367" joined="2015-03-23"/>
+    <cosponsor id="412618" joined="2015-03-23"/>
+    <cosponsor id="412402" joined="2015-03-23"/>
+    <cosponsor id="412430" joined="2015-03-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-23">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H1835"/>
+    </action>
+    <action datetime="2015-03-23" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="836"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Income tax deductions"/>
+    <term name="Wages and earnings"/>
+  </subjects>
+  <amendments/>
+  <summary>3/23/2015--Introduced.
+Family Health Care Flexibility Act
+
+This bill amends the Internal Revenue Code to repeal provisions added by the&#160;Patient Protection and Affordable Care Act that: (1) restrict payments from health savings accounts, Archer medical savings accounts, and health flexible spending and reimbursement arrangements for medications to prescription drugs and insulin only (thus allowing payments for over-the-counter medications); and (2) impose a $2,500 limitation on salary reduction contributions to a health flexible spending arrangement under a cafeteria plan.</summary>
+</bill>

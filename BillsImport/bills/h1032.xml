@@ -1,0 +1,43 @@
+<bill session="114" type="h" number="1032" updated="2015-04-04T06:25:35-04:00">
+  <state datetime="2015-02-24">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-24"/>
+  </status>
+  <introduced datetime="2015-02-24"/>
+  <titles>
+    <title type="short" as="introduced">No Homeland Security, No Pay Act</title>
+    <title type="official" as="introduced">To withhold the pay of Members of Congress in the event of a shutdown of the Department of Homeland Security.</title>
+  </titles>
+  <sponsor id="412642"/>
+  <cosponsors>
+    <cosponsor id="412512" joined="2015-02-24"/>
+    <cosponsor id="400081" joined="2015-02-25"/>
+    <cosponsor id="412505" joined="2015-03-02"/>
+    <cosponsor id="412620" joined="2015-02-24"/>
+    <cosponsor id="412523" joined="2015-02-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-24" state="REFERRED">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Appropriations"/>
+    <term name="Department of Homeland Security"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Members of Congress"/>
+  </subjects>
+  <amendments/>
+  <summary>2/24/2015--Introduced.
+No Homeland Security, No Pay Act
+
+Requires the appropriate payroll administrator of each house of Congress to withhold a portion of the pay of a Member of Congress during a shutdown of the Department of Homeland Security (DHS) equal to the product of one day's worth of pay under the annual rate and the number of 24-hour periods during which the DHS shutdown is in effect.
+
+Requires any amount of pay of a Member of Congress in the 114th Congress that is withheld due to a DHS shutdown to be held in escrow until the last day of the 114th Congress and released for payment to Members at that time.</summary>
+</bill>

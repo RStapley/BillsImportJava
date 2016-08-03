@@ -1,0 +1,65 @@
+<bill session="114" type="s" number="466" updated="2015-08-08T06:55:34-04:00">
+  <state datetime="2015-06-24">REPORTED</state>
+  <status>
+    <unknown datetime="2015-06-24"/>
+  </status>
+  <introduced datetime="2015-02-11"/>
+  <titles>
+    <title type="short" as="introduced">Quality Care for Moms and Babies Act</title>
+    <title type="short" as="reported to senate">Quality Care for Moms and Babies Act</title>
+    <title type="official" as="introduced">A bill to amend title XI of the Social Security Act to improve the quality, health outcomes, and value of maternity care under the Medicaid and CHIP programs by developing maternity care quality measures and supporting maternity care quality collaboratives.</title>
+  </titles>
+  <sponsor id="300093"/>
+  <cosponsors>
+    <cosponsor id="300011" joined="2015-02-11"/>
+    <cosponsor id="400050" joined="2015-02-12"/>
+    <cosponsor id="412246" joined="2015-02-11"/>
+    <cosponsor id="300048" joined="2015-02-11"/>
+    <cosponsor id="412281" joined="2015-02-11"/>
+    <cosponsor id="400272" joined="2015-02-12"/>
+    <cosponsor id="300081" joined="2015-02-11"/>
+    <cosponsor id="300087" joined="2015-02-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-11" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+    <calendar datetime="2015-06-24" state="REPORTED">
+      <text>Committee on Finance. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="2015-07-30">
+      <text>Committee on Finance. Reported by Senator Hatch with an amendment in the nature of a substitute. With written report No. 114-100.</text>
+    </action>
+    <calendar datetime="2015-07-30" calendar="Senate Legislative" under="General Orders" number="179">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 179.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Child health"/>
+    <term name="Government information and archives"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care quality"/>
+    <term name="Health facilities and institutions"/>
+    <term name="Health information and medical records"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Medicaid"/>
+    <term name="State and local government operations"/>
+    <term name="Women's health"/>
+  </subjects>
+  <amendments/>
+  <summary>2/11/2015--Introduced.
+Quality Care for Moms and Babies Act
+
+ Amends title XI of the Social Security Act (SSAct) to direct the Secretary of Health and Human Services, as part of the pediatric quality measures program and the Medicaid Quality Measurement Program (MQMP), to: (1) review certain quality measures endorsed under the Medicare program under SSAct XVIII that relate to the care of childbearing women and newborns, particularly with respect to their application to the programs under SSAct title XIX (Medicaid) and XXI (State Children's Health Insurance Program) (CHIP), identifying omissions and deficiencies in such applications; (2) develop and publish a set of maternity care quality measures for the Medicaid and CHIP programs in accordance with specified requirements; and (3) review the Mother and Infant Care (MIC) quality measures and develop, on an ongoing basis, any modifications of, or additions to, them that reflect the development, testing, validation, and consensus process.
+
+Directs the Secretary to enter into grants, contracts, or intergovernmental agreements with qualified measure development entities to: (1) identify quality of care issues that are not adequately addressed by the MIC quality measures; and (2) develop, test, and validate modifications of such measures.
+
+Requires a qualified measure development entity with such a grant, contract, or intergovernmental agreement to consult with voluntary consensus standards setting organizations and other organizations involved in the advancement of evidence-based measures of health to create, as part of the MIC quality measures, eMeasures (for which measurement data, including clinical data, will be collected electronically) aligned with the measures developed under the pediatric quality measures program and the MQMP. Requires the Agency for Healthcare Research and Quality to adapt the Consumer Assessment of Healthcare Providers and Systems program surveys of providers, facilities, and health plans to ensure that the adapted surveys are effective in measuring aspects of care that childbearing women and newborns experience.
+
+Authorizes the Secretary to make grants to eligible entities to support: (1) the development of new state and regional maternity care quality collaboratives; (2) expanded activities of existing maternity care quality collaboratives; and (3) maternity care initiatives within established state and regional quality collaboratives that are not focused exclusively on maternity care.</summary>
+</bill>

@@ -1,0 +1,42 @@
+<bill session="114" type="h" number="1500" updated="2015-07-22T04:58:57-04:00">
+  <state datetime="2015-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-19"/>
+  </status>
+  <introduced datetime="2015-03-19"/>
+  <titles>
+    <title type="official" as="introduced">To ensure that certain TRICARE program beneficiaries may enroll in TRICARE Prime regardless of the location of their residence.</title>
+  </titles>
+  <sponsor id="400224"/>
+  <cosponsors>
+    <cosponsor id="412639" joined="2015-03-19"/>
+    <cosponsor id="412532" joined="2015-03-25"/>
+    <cosponsor id="400160" joined="2015-03-23"/>
+    <cosponsor id="412460" joined="2015-03-19"/>
+    <cosponsor id="412256" joined="2015-03-19"/>
+    <cosponsor id="400259" joined="2015-04-28"/>
+    <cosponsor id="400279" joined="2015-06-11"/>
+    <cosponsor id="412303" joined="2015-03-19"/>
+    <cosponsor id="400316" joined="2015-03-19"/>
+    <cosponsor id="412570" joined="2015-07-21"/>
+    <cosponsor id="412214" joined="2015-03-25"/>
+    <cosponsor id="412525" joined="2015-03-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-19" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <summary>3/19/2015--Introduced.
+This bill amends the National Defense Authorization Act for Fiscal Year 2013 to permit an affected eligible beneficiary who was enrolled in TRICARE Prime as of September 30, 2013, and as of December 25, 2013, resided farther than 100 miles from a military medical treatment facility, to make the one-time election to continue TRICARE Prime coverage
+
+Makes this Act effective as if included in the enactment of the National Defense Authorization Act for Fiscal Year 2014.</summary>
+</bill>

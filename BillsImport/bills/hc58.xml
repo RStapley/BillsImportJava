@@ -1,0 +1,28 @@
+<bill session="114" type="hc" number="58" updated="2015-07-15T04:49:18-04:00">
+  <state datetime="2015-06-25">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-25"/>
+  </status>
+  <introduced datetime="2015-06-25"/>
+  <titles>
+    <title type="official" as="introduced">Supporting the designation of the week of September 11 to September 17 as "Patriot Week".</title>
+  </titles>
+  <sponsor id="412635"/>
+  <cosponsors>
+    <cosponsor id="412634" joined="2015-07-14"/>
+    <cosponsor id="412636" joined="2015-06-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-25" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social sciences and history"/>
+  </subjects>
+  <amendments/>
+</bill>

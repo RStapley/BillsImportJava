@@ -1,0 +1,33 @@
+<bill session="114" type="h" number="2195" updated="2015-07-04T06:36:57-04:00">
+  <state datetime="2015-05-01">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-01"/>
+  </status>
+  <introduced datetime="2015-05-01"/>
+  <titles>
+    <title type="short" as="introduced">Preserving National Guard Combat Readiness Act of 2015</title>
+    <title type="official" as="introduced">To amend the National Defense Authorization Act for Fiscal Year 2015 to eliminate exceptions to the limitations imposed on the authority of the Secretary of the Army to take certain actions in connection with the transfer of AH-64 Apache helicopters from the Army National Guard.</title>
+  </titles>
+  <sponsor id="412570"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-05-01" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Aviation and airports"/>
+    <term name="Military readiness"/>
+    <term name="National Guard and reserves"/>
+  </subjects>
+  <amendments/>
+  <summary>5/1/2015--Introduced.
+Preserving National Guard Combat Readiness Act of 2015
+
+This bill amends the National Defense Authorization Act for Fiscal Year 2015 to eliminate certain authority of the Secretary of Defense and the Secretary of the Army to prepare for and transfer up to 48 AH-64 Apache helicopters from the Army National Guard to the regular Army.</summary>
+</bill>

@@ -1,0 +1,61 @@
+<bill session="114" type="hc" number="8" updated="2015-03-26T04:47:27-04:00">
+  <state datetime="2015-01-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-21"/>
+  </status>
+  <introduced datetime="2015-01-21"/>
+  <titles>
+    <title type="official" as="introduced">Supporting the goals and ideals of No Name-Calling Week in bringing attention to name-calling of all kinds and providing schools with the tools and inspiration to launch an on-going dialogue about ways to eliminate name-calling and bullying in their communities.</title>
+  </titles>
+  <sponsor id="400344"/>
+  <cosponsors>
+    <cosponsor id="412571" joined="2015-01-21"/>
+    <cosponsor id="412470" joined="2015-01-21"/>
+    <cosponsor id="412221" joined="2015-01-21"/>
+    <cosponsor id="400097" joined="2015-01-21"/>
+    <cosponsor id="412505" joined="2015-01-21"/>
+    <cosponsor id="412215" joined="2015-01-21"/>
+    <cosponsor id="400162" joined="2015-01-22"/>
+    <cosponsor id="412282" joined="2015-01-22"/>
+    <cosponsor id="400185" joined="2015-01-21"/>
+    <cosponsor id="412511" joined="2015-03-25"/>
+    <cosponsor id="400230" joined="2015-01-22"/>
+    <cosponsor id="400237" joined="2015-01-21"/>
+    <cosponsor id="412209" joined="2015-01-22"/>
+    <cosponsor id="412521" joined="2015-01-21"/>
+    <cosponsor id="400251" joined="2015-01-21"/>
+    <cosponsor id="400295" joined="2015-01-21"/>
+    <cosponsor id="412585" joined="2015-01-21"/>
+    <cosponsor id="412308" joined="2015-01-22"/>
+    <cosponsor id="412331" joined="2015-01-21"/>
+    <cosponsor id="400333" joined="2015-01-22"/>
+    <cosponsor id="400355" joined="2015-01-21"/>
+    <cosponsor id="400356" joined="2015-01-21"/>
+    <cosponsor id="412186" joined="2015-01-21"/>
+    <cosponsor id="412259" joined="2015-01-21"/>
+    <cosponsor id="412514" joined="2015-01-22"/>
+    <cosponsor id="412520" joined="2015-01-21"/>
+    <cosponsor id="412318" joined="2015-01-21"/>
+    <cosponsor id="412412" joined="2015-01-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-21" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Assault and harassment offenses"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Sex, gender, sexual orientation discrimination"/>
+    <term name="Teaching, teachers, curricula"/>
+  </subjects>
+  <amendments/>
+  <summary>1/21/2015--Introduced.
+Expresses support for the goals and ideals of No Name-Calling Week.</summary>
+</bill>

@@ -1,0 +1,31 @@
+<bill session="114" type="s" number="1671" updated="2015-07-17T05:00:03-04:00">
+  <state datetime="2015-06-24">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-24"/>
+  </status>
+  <introduced datetime="2015-06-24"/>
+  <titles>
+    <title type="short" as="introduced">National Forest Foundation Reauthorization Act of 2015</title>
+    <title type="official" as="introduced">A bill to reauthorize the National Forest Foundation Act, and for other purposes.</title>
+  </titles>
+  <sponsor id="412330"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-06-24" state="REFERRED">
+      <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+    </action>
+    <action datetime="2015-07-16">
+      <text>Committee on Agriculture, Nutrition, and Forestry. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="2394"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+</bill>

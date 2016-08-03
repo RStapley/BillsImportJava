@@ -1,0 +1,29 @@
+<bill session="114" type="h" number="2961" updated="2015-07-11T06:43:29-04:00">
+  <state datetime="2015-07-07">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-07"/>
+  </status>
+  <introduced datetime="2015-07-07"/>
+  <titles>
+    <title type="official" as="introduced">To establish a research, development, and technology demonstration program to improve the efficiency of gas turbines used in combined cycle and simple cycle power generation systems.</title>
+  </titles>
+  <sponsor id="412319"/>
+  <cosponsors>
+    <cosponsor id="412487" joined="2015-07-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-07" state="REFERRED">
+      <text>Referred to the House Committee on Science, Space, and Technology.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science, Space, and Technology" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1806"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+  </subjects>
+  <amendments/>
+</bill>

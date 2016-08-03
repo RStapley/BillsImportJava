@@ -1,0 +1,89 @@
+<bill session="114" type="h" number="208" updated="2015-08-01T06:20:59-04:00">
+  <state datetime="2015-07-13T16:22:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2015-07-13T16:22:00-04:00"/>
+  </status>
+  <introduced datetime="2015-01-08"/>
+  <titles>
+    <title type="short" as="introduced">Superstorm Sandy Relief Act of 2015</title>
+    <title type="short" as="reported to house">Superstorm Sandy Relief and Disaster Loan Program Improvement Act of 2015</title>
+    <title type="short" as="passed house">Superstorm Sandy Relief and Disaster Loan Program Improvement Act of 2015</title>
+    <title type="official" as="introduced">To require the Administrator of the Small Business Administration to establish a program to make loans to certain businesses, homeowners, and renters affected by Superstorm Sandy.</title>
+    <title type="official" as="amended by house">To improve the disaster assistance programs of the Small Business Administration.</title>
+  </titles>
+  <sponsor id="400416"/>
+  <cosponsors>
+    <cosponsor id="400087" joined="2015-01-08"/>
+    <cosponsor id="412560" joined="2015-01-08"/>
+    <cosponsor id="400289" joined="2015-01-08"/>
+    <cosponsor id="400333" joined="2015-01-08"/>
+    <cosponsor id="400366" joined="2015-01-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-08" state="REFERRED">
+      <text>Referred to the House Committee on Small Business.</text>
+    </action>
+    <action datetime="2015-06-10">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-06-10" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+    <action datetime="2015-06-25T15:49:00-04:00">
+      <text>Reported (Amended) by the Committee on Small Business. H. Rept. 114-186.</text>
+    </action>
+    <calendar datetime="2015-06-25T15:50:00-04:00" calendar="Union" number="138">
+      <text>Placed on the Union Calendar, Calendar No. 138.</text>
+    </calendar>
+    <action datetime="2015-07-13T16:12:00-04:00">
+      <text>Mr. Chabot moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2015-07-13T16:12:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5096-5099" label="consideration"/>
+    </action>
+    <action datetime="2015-07-13T16:12:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 208.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2015-07-13T16:22:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H5096-5097" label="text"/>
+    </vote>
+    <action datetime="2015-07-13T16:22:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2015-07-13T16:22:00-04:00">
+      <text>The title of the measure was amended. Agreed to without objection.</text>
+    </action>
+    <action datetime="2015-07-14">
+      <text>Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSM" name="House Small Business" activity="Referral, Markup, Reporting"/>
+    <committee code="SSSB" name="Senate Small Business and Entrepreneurship" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="2397"/>
+    <bill relation="unknown" session="114" type="s" number="1811"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Connecticut"/>
+    <term name="Disaster relief and insurance"/>
+    <term name="Floods and storm protection"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Housing finance and home ownership"/>
+    <term name="Natural disasters"/>
+    <term name="New Jersey"/>
+    <term name="New York State"/>
+    <term name="Residential rehabilitation and home repair"/>
+    <term name="Rhode Island"/>
+    <term name="Small business"/>
+  </subjects>
+  <amendments/>
+  <summary>1/8/2015--Introduced.
+Superstorm Sandy Relief Act of 2015
+
+Requires the Administrator of the Small Business Administration to establish a loan program under which, for at least one year, a small business, homeowner, or renter that was located within a declared major disaster area during Superstorm Sandy in 2012 may apply for a loan to: (1) repair, rehabilitate, or replace property damaged or destroyed because of the storm; or (2) assist a small business that suffered substantial economic injury because of it.</summary>
+</bill>

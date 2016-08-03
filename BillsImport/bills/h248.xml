@@ -1,0 +1,70 @@
+<bill session="114" type="h" number="248" updated="2015-03-03T04:46:09-05:00">
+  <state datetime="2015-01-09">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-09"/>
+  </status>
+  <introduced datetime="2015-01-09"/>
+  <titles>
+    <title type="short" as="introduced">American Job Protection Act</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to repeal the employer health insurance mandate.</title>
+  </titles>
+  <sponsor id="400636"/>
+  <cosponsors>
+    <cosponsor id="412541" joined="2015-01-20"/>
+    <cosponsor id="412436" joined="2015-01-20"/>
+    <cosponsor id="412250" joined="2015-01-20"/>
+    <cosponsor id="400032" joined="2015-01-20"/>
+    <cosponsor id="400046" joined="2015-01-20"/>
+    <cosponsor id="400052" joined="2015-01-20"/>
+    <cosponsor id="412604" joined="2015-01-20"/>
+    <cosponsor id="400646" joined="2015-01-20"/>
+    <cosponsor id="400141" joined="2015-01-20"/>
+    <cosponsor id="412463" joined="2015-01-20"/>
+    <cosponsor id="412437" joined="2015-01-20"/>
+    <cosponsor id="412284" joined="2015-01-20"/>
+    <cosponsor id="412460" joined="2015-02-17"/>
+    <cosponsor id="400206" joined="2015-01-20"/>
+    <cosponsor id="400209" joined="2015-01-20"/>
+    <cosponsor id="400224" joined="2015-01-20"/>
+    <cosponsor id="412295" joined="2015-01-20"/>
+    <cosponsor id="412474" joined="2015-01-20"/>
+    <cosponsor id="412302" joined="2015-01-20"/>
+    <cosponsor id="412551" joined="2015-01-20"/>
+    <cosponsor id="400652" joined="2015-01-22"/>
+    <cosponsor id="412462" joined="2015-01-22"/>
+    <cosponsor id="412489" joined="2015-01-20"/>
+    <cosponsor id="412310" joined="2015-01-20"/>
+    <cosponsor id="412202" joined="2015-01-20"/>
+    <cosponsor id="412570" joined="2015-01-20"/>
+    <cosponsor id="400367" joined="2015-01-20"/>
+    <cosponsor id="412217" joined="2015-01-22"/>
+    <cosponsor id="412461" joined="2015-03-02"/>
+    <cosponsor id="400406" joined="2015-01-20"/>
+    <cosponsor id="412548" joined="2015-01-20"/>
+    <cosponsor id="400627" joined="2015-01-20"/>
+    <cosponsor id="412428" joined="2015-01-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-09" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="519"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Sales and excise taxes"/>
+  </subjects>
+  <amendments/>
+  <summary>1/9/2015--Introduced.
+American Job Protection Act 
+
+Amends the Internal Revenue Code to repeal provisions added by the Patient Protection and Affordable Care Act requiring certain employers who have a workforce of 50 or more full-time employees to provide health insurance coverage for their employees.</summary>
+</bill>

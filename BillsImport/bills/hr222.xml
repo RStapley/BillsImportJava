@@ -1,0 +1,33 @@
+<bill session="114" type="hr" number="222" updated="2015-05-22T04:48:01-04:00">
+  <state datetime="2015-04-28">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-28"/>
+  </status>
+  <introduced datetime="2015-04-28"/>
+  <titles>
+    <title type="official" as="introduced">Expressing the sense of the House of Representatives that any resolution to the Israeli-Palestinian conflict should come from direct bilateral negotiations without preconditions and without interference from the United Nations.</title>
+  </titles>
+  <sponsor id="412487"/>
+  <cosponsors>
+    <cosponsor id="412460" joined="2015-04-28"/>
+    <cosponsor id="412191" joined="2015-04-28"/>
+    <cosponsor id="412574" joined="2015-04-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-28" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2015-05-20">
+      <text>Referred to the Subcommittee on Middle East and North Africa.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSFA13" subcommittee="Middle East and North Africa" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <summary>4/28/2015--Introduced.
+It is the sense of the House of Representatives that a resolution to the Israeli-Palestinian conflict should come from direct bilateral negotiations without preconditions and without interference from the United Nations.</summary>
+</bill>

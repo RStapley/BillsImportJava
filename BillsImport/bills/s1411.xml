@@ -1,0 +1,37 @@
+<bill session="114" type="s" number="1411" updated="2015-07-11T06:59:05-04:00">
+  <state datetime="2015-05-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-21"/>
+  </status>
+  <introduced datetime="2015-05-21"/>
+  <titles>
+    <title type="short" as="introduced">Presidential Allowance Modernization Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend the Act of August 25, 1958, commonly known as the "Former Presidents Act of 1958", with respect to the monetary allowance payable to a former President, and for other purposes.</title>
+  </titles>
+  <sponsor id="412667"/>
+  <cosponsors>
+    <cosponsor id="400222" joined="2015-05-21"/>
+    <cosponsor id="412491" joined="2015-05-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1777"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+  </subjects>
+  <amendments/>
+  <summary>5/21/2015--Introduced.
+Presidential Allowance Modernization Act of 2015
+
+ Revises provisions relating to presidential pensions to&#160;allow former&#160;Presidents&#160;an annuity&#160;of $200,000&#160;and an additional monetary&#160;allowance&#160;of $200,000 per year. Reduces such pension by the amount that a President's adjusted gross income in a taxable year exceeds $400,000.&#160;
+
+Increases from $20,000 to $100,000 the annual annuity of a surviving spouse of a former President.</summary>
+</bill>

@@ -1,0 +1,113 @@
+<bill session="114" type="h" number="173" updated="2015-04-16T04:46:39-04:00">
+  <state datetime="2015-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-06"/>
+  </status>
+  <introduced datetime="2015-01-06"/>
+  <titles>
+    <title type="short" as="introduced">Death Tax Repeal Act</title>
+    <title type="official" as="introduced">To repeal the Federal estate and gift taxes.</title>
+  </titles>
+  <sponsor id="400404"/>
+  <cosponsors>
+    <cosponsor id="412625" joined="2015-01-21"/>
+    <cosponsor id="412655" joined="2015-02-13"/>
+    <cosponsor id="412541" joined="2015-01-09"/>
+    <cosponsor id="412436" joined="2015-01-07"/>
+    <cosponsor id="412250" joined="2015-01-06"/>
+    <cosponsor id="400029" joined="2015-02-10"/>
+    <cosponsor id="412627" joined="2015-01-14"/>
+    <cosponsor id="412567" joined="2015-01-07"/>
+    <cosponsor id="412395" joined="2015-01-20"/>
+    <cosponsor id="412427" joined="2015-01-07"/>
+    <cosponsor id="400052" joined="2015-03-19"/>
+    <cosponsor id="400057" joined="2015-01-09"/>
+    <cosponsor id="400077" joined="2015-01-07"/>
+    <cosponsor id="400655" joined="2015-01-06"/>
+    <cosponsor id="412513" joined="2015-01-06"/>
+    <cosponsor id="412555" joined="2015-01-06"/>
+    <cosponsor id="412400" joined="2015-03-18"/>
+    <cosponsor id="400089" joined="2015-01-06"/>
+    <cosponsor id="412472" joined="2015-01-09"/>
+    <cosponsor id="400116" joined="2015-01-07"/>
+    <cosponsor id="412482" joined="2015-02-02"/>
+    <cosponsor id="412480" joined="2015-01-14"/>
+    <cosponsor id="400137" joined="2015-01-28"/>
+    <cosponsor id="400141" joined="2015-01-06"/>
+    <cosponsor id="400142" joined="2015-01-08"/>
+    <cosponsor id="412463" joined="2015-01-26"/>
+    <cosponsor id="400154" joined="2015-01-06"/>
+    <cosponsor id="412397" joined="2015-01-06"/>
+    <cosponsor id="400157" joined="2015-01-06"/>
+    <cosponsor id="400158" joined="2015-03-16"/>
+    <cosponsor id="412645" joined="2015-02-27"/>
+    <cosponsor id="412444" joined="2015-01-07"/>
+    <cosponsor id="400175" joined="2015-02-11"/>
+    <cosponsor id="412623" joined="2015-01-26"/>
+    <cosponsor id="412609" joined="2015-02-13"/>
+    <cosponsor id="412550" joined="2015-01-08"/>
+    <cosponsor id="412437" joined="2015-01-06"/>
+    <cosponsor id="412283" joined="2015-01-09"/>
+    <cosponsor id="400196" joined="2015-01-07"/>
+    <cosponsor id="400209" joined="2015-01-06"/>
+    <cosponsor id="412226" joined="2015-01-12"/>
+    <cosponsor id="412510" joined="2015-01-06"/>
+    <cosponsor id="412290" joined="2015-01-06"/>
+    <cosponsor id="400247" joined="2015-01-09"/>
+    <cosponsor id="412292" joined="2015-01-14"/>
+    <cosponsor id="412503" joined="2015-01-06"/>
+    <cosponsor id="412295" joined="2015-01-06"/>
+    <cosponsor id="412487" joined="2015-01-07"/>
+    <cosponsor id="400279" joined="2015-01-06"/>
+    <cosponsor id="412568" joined="2015-01-14"/>
+    <cosponsor id="400441" joined="2015-02-04"/>
+    <cosponsor id="412660" joined="2015-01-26"/>
+    <cosponsor id="412409" joined="2015-01-09"/>
+    <cosponsor id="412302" joined="2015-01-06"/>
+    <cosponsor id="412443" joined="2015-04-15"/>
+    <cosponsor id="400313" joined="2015-01-07"/>
+    <cosponsor id="400652" joined="2015-01-09"/>
+    <cosponsor id="412633" joined="2015-02-02"/>
+    <cosponsor id="412431" joined="2015-01-09"/>
+    <cosponsor id="412309" joined="2015-02-04"/>
+    <cosponsor id="412653" joined="2015-01-20"/>
+    <cosponsor id="412489" joined="2015-01-07"/>
+    <cosponsor id="400340" joined="2015-01-09"/>
+    <cosponsor id="412641" joined="2015-01-27"/>
+    <cosponsor id="400607" joined="2015-01-26"/>
+    <cosponsor id="412399" joined="2015-01-09"/>
+    <cosponsor id="400365" joined="2015-01-07"/>
+    <cosponsor id="400367" joined="2015-01-06"/>
+    <cosponsor id="400381" joined="2015-01-08"/>
+    <cosponsor id="400411" joined="2015-01-06"/>
+    <cosponsor id="412538" joined="2015-01-14"/>
+    <cosponsor id="412610" joined="2015-01-12"/>
+    <cosponsor id="400627" joined="2015-01-26"/>
+    <cosponsor id="412578" joined="2015-01-08"/>
+    <cosponsor id="400433" joined="2015-01-06"/>
+    <cosponsor id="412255" joined="2015-01-26"/>
+    <cosponsor id="412402" joined="2015-01-06"/>
+    <cosponsor id="412525" joined="2015-01-06"/>
+    <cosponsor id="412640" joined="2015-01-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-06" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="186"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Transfer and inheritance taxes"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/2015--Introduced.
+Death Tax Repeal Act
+
+Repeals the federal estate, gift, and generation-skipping transfer taxes.</summary>
+</bill>

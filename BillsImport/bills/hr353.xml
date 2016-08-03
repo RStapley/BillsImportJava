@@ -1,0 +1,42 @@
+<bill session="114" type="hr" number="353" updated="2015-07-11T06:18:34-04:00">
+  <state datetime="2015-07-08">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-08"/>
+  </status>
+  <introduced datetime="2015-07-08"/>
+  <titles>
+    <title type="official" as="introduced">Honoring the accomplishments and legacy of Juan Felipe Herrera.</title>
+  </titles>
+  <sponsor id="412520"/>
+  <cosponsors>
+    <cosponsor id="412615" joined="2015-07-08"/>
+    <cosponsor id="412517" joined="2015-07-08"/>
+    <cosponsor id="412613" joined="2015-07-08"/>
+    <cosponsor id="400129" joined="2015-07-08"/>
+    <cosponsor id="400185" joined="2015-07-08"/>
+    <cosponsor id="400230" joined="2015-07-08"/>
+    <cosponsor id="400245" joined="2015-07-08"/>
+    <cosponsor id="412521" joined="2015-07-08"/>
+    <cosponsor id="400263" joined="2015-07-08"/>
+    <cosponsor id="400290" joined="2015-07-08"/>
+    <cosponsor id="412519" joined="2015-07-08"/>
+    <cosponsor id="400361" joined="2015-07-08"/>
+    <cosponsor id="400371" joined="2015-07-08"/>
+    <cosponsor id="412514" joined="2015-07-08"/>
+    <cosponsor id="400403" joined="2015-07-08"/>
+    <cosponsor id="412617" joined="2015-07-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-08" state="REFERRED">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Arts, culture, religion"/>
+  </subjects>
+  <amendments/>
+</bill>

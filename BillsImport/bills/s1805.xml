@@ -1,0 +1,26 @@
+<bill session="114" type="s" number="1805" updated="2015-07-24T12:47:16-04:00">
+  <state datetime="2015-07-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-21"/>
+  </status>
+  <introduced datetime="2015-07-21"/>
+  <titles>
+    <title type="short" as="introduced">School Lunch Price Protection Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend the Richard B. Russell National School Lunch Act to provide flexibility to school food authorities in establishing a price for paid school lunches.</title>
+  </titles>
+  <sponsor id="300055"/>
+  <cosponsors>
+    <cosponsor id="412545" joined="2015-07-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,53 @@
+<bill session="114" type="s" number="785" updated="2015-04-04T06:39:59-04:00">
+  <state datetime="2015-03-18">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-18"/>
+  </status>
+  <introduced datetime="2015-03-18"/>
+  <titles>
+    <title type="short" as="introduced">FRAC Act</title>
+    <title type="short" as="introduced">Fracturing Responsibility and Awareness of Chemicals Act</title>
+    <title type="official" as="introduced">A bill to amend the Safe Drinking Water Act to repeal a certain exemption for hydraulic fracturing, and for other purposes.</title>
+  </titles>
+  <sponsor id="412246"/>
+  <cosponsors>
+    <cosponsor id="400064" joined="2015-03-18"/>
+    <cosponsor id="300038" joined="2015-03-18"/>
+    <cosponsor id="300043" joined="2015-03-18"/>
+    <cosponsor id="412223" joined="2015-03-18"/>
+    <cosponsor id="412200" joined="2015-03-18"/>
+    <cosponsor id="400272" joined="2015-03-18"/>
+    <cosponsor id="412325" joined="2015-03-18"/>
+    <cosponsor id="300073" joined="2015-03-18"/>
+    <cosponsor id="300081" joined="2015-03-18"/>
+    <cosponsor id="300087" joined="2015-03-18"/>
+    <cosponsor id="412247" joined="2015-03-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-18" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1482"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Business records"/>
+    <term name="Emergency medical services and trauma care"/>
+    <term name="Environmental Protection Agency (EPA)"/>
+    <term name="Environmental regulatory procedures"/>
+    <term name="Government information and archives"/>
+    <term name="Hazardous wastes and toxic substances"/>
+    <term name="Health information and medical records"/>
+    <term name="Oil and gas"/>
+    <term name="State and local government operations"/>
+    <term name="Water quality"/>
+    <term name="Water use and supply"/>
+  </subjects>
+  <amendments/>
+</bill>

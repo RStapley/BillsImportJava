@@ -1,0 +1,35 @@
+<bill session="114" type="s" number="1724" updated="2015-08-22T07:06:10-04:00">
+  <state datetime="2015-07-09">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-09"/>
+  </status>
+  <introduced datetime="2015-07-09"/>
+  <titles>
+    <title type="short" as="introduced">Lake Tahoe Restoration Act of 2015</title>
+    <title type="official" as="introduced">A bill to provide for environmental restoration activities and forest management activities in the Lake Tahoe Basin, and for other purposes.</title>
+  </titles>
+  <sponsor id="412218"/>
+  <cosponsors>
+    <cosponsor id="300011" joined="2015-07-09"/>
+    <cosponsor id="300043" joined="2015-07-09"/>
+    <cosponsor id="300082" joined="2015-07-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-09" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="California"/>
+    <term name="Lakes and rivers"/>
+    <term name="Land transfers"/>
+    <term name="Nevada"/>
+    <term name="Water quality"/>
+  </subjects>
+  <amendments/>
+</bill>

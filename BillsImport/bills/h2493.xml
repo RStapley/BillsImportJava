@@ -1,0 +1,108 @@
+<bill session="114" type="h" number="2493" updated="2015-08-15T06:40:11-04:00">
+  <state datetime="2015-05-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-21"/>
+  </status>
+  <introduced datetime="2015-05-21"/>
+  <titles>
+    <title type="short" as="introduced">Wounded Warrior Service Dog Act of 2015</title>
+    <title type="official" as="introduced">To establish a grant program to encourage the use of assistance dogs by certain members of the Armed Forces and veterans.</title>
+  </titles>
+  <sponsor id="400263"/>
+  <cosponsors>
+    <cosponsor id="412607" joined="2015-07-09"/>
+    <cosponsor id="412565" joined="2015-06-12"/>
+    <cosponsor id="400063" joined="2015-06-01"/>
+    <cosponsor id="412571" joined="2015-06-12"/>
+    <cosponsor id="412195" joined="2015-06-23"/>
+    <cosponsor id="412379" joined="2015-06-16"/>
+    <cosponsor id="412600" joined="2015-05-21"/>
+    <cosponsor id="412221" joined="2015-05-21"/>
+    <cosponsor id="400639" joined="2015-05-21"/>
+    <cosponsor id="412236" joined="2015-07-29"/>
+    <cosponsor id="412272" joined="2015-06-12"/>
+    <cosponsor id="412555" joined="2015-06-12"/>
+    <cosponsor id="400100" joined="2015-05-21"/>
+    <cosponsor id="412544" joined="2015-05-21"/>
+    <cosponsor id="400103" joined="2015-06-12"/>
+    <cosponsor id="412385" joined="2015-06-12"/>
+    <cosponsor id="412529" joined="2015-06-23"/>
+    <cosponsor id="400162" joined="2015-05-21"/>
+    <cosponsor id="400163" joined="2015-07-07"/>
+    <cosponsor id="400170" joined="2015-05-21"/>
+    <cosponsor id="400179" joined="2015-06-23"/>
+    <cosponsor id="400185" joined="2015-05-21"/>
+    <cosponsor id="400195" joined="2015-06-12"/>
+    <cosponsor id="412603" joined="2015-07-09"/>
+    <cosponsor id="400209" joined="2015-06-12"/>
+    <cosponsor id="400211" joined="2015-07-07"/>
+    <cosponsor id="412435" joined="2015-06-12"/>
+    <cosponsor id="400233" joined="2015-05-22"/>
+    <cosponsor id="412638" joined="2015-06-09"/>
+    <cosponsor id="412616" joined="2015-06-12"/>
+    <cosponsor id="400630" joined="2015-05-21"/>
+    <cosponsor id="400244" joined="2015-06-01"/>
+    <cosponsor id="400245" joined="2015-06-25"/>
+    <cosponsor id="400246" joined="2015-07-07"/>
+    <cosponsor id="412293" joined="2015-06-01"/>
+    <cosponsor id="412562" joined="2015-06-23"/>
+    <cosponsor id="400663" joined="2015-07-09"/>
+    <cosponsor id="412611" joined="2015-07-22"/>
+    <cosponsor id="400661" joined="2015-05-21"/>
+    <cosponsor id="412632" joined="2015-07-22"/>
+    <cosponsor id="400290" joined="2015-06-23"/>
+    <cosponsor id="400291" joined="2015-05-21"/>
+    <cosponsor id="412575" joined="2015-07-13"/>
+    <cosponsor id="412523" joined="2015-07-13"/>
+    <cosponsor id="412659" joined="2015-06-12"/>
+    <cosponsor id="412585" joined="2015-05-21"/>
+    <cosponsor id="412308" joined="2015-06-16"/>
+    <cosponsor id="412331" joined="2015-05-21"/>
+    <cosponsor id="412212" joined="2015-06-12"/>
+    <cosponsor id="400360" joined="2015-07-07"/>
+    <cosponsor id="400361" joined="2015-05-21"/>
+    <cosponsor id="400371" joined="2015-07-22"/>
+    <cosponsor id="400378" joined="2015-06-12"/>
+    <cosponsor id="412520" joined="2015-06-16"/>
+    <cosponsor id="412318" joined="2015-05-21"/>
+    <cosponsor id="412254" joined="2015-05-21"/>
+    <cosponsor id="400415" joined="2015-06-09"/>
+    <cosponsor id="400416" joined="2015-07-07"/>
+    <cosponsor id="412646" joined="2015-06-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-21" state="REFERRED">
+      <text>Referred to the Committee on Armed Services, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-05-21">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2015-05-21">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2015-06-05">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Animal protection and human-animal relationships"/>
+    <term name="Disability and paralysis"/>
+    <term name="Disability assistance"/>
+    <term name="Hearing, speech, and vision care"/>
+    <term name="Neurological disorders"/>
+    <term name="Service animals"/>
+    <term name="Social work, volunteer service, charitable organizations"/>
+    <term name="Veterans' medical care"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>5/21/2015--Introduced.
+Wounded Warrior Service Dog Act of 2015 Directs the Secretaries of Defense and Veterans Affairs (VA) to jointly establish the K-9 Companion Corps program for the awarding of grants to assist nonprofit organizations in establishing, planning, designing, and/or operating programs to provide assistance dogs to certain members of the Armed Forces and veterans who have certain disabilities. Defines "assistance dog" to mean a dog specifically trained to perform physical tasks to mitigate the effects of such a disability, except that such term does not include a dog specifically trained for comfort or personal defense.</summary>
+</bill>

@@ -1,0 +1,25 @@
+<bill session="114" type="h" number="2779" updated="2015-06-27T07:07:41-04:00">
+  <state datetime="2015-06-15">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-15"/>
+  </status>
+  <introduced datetime="2015-06-15"/>
+  <titles>
+    <title type="official" as="introduced">To amend title II of the Social Security Act to repeal the 7-year restriction on eligibility for widow's and widower's insurance benefits based on disability.</title>
+  </titles>
+  <sponsor id="400246"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-06-15" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <summary>6/15/2015--Introduced.
+Amends title II (Old Age, Survivors and Disability Insurance) of the Social Security Act to repeal the seven-year restriction on eligibility for widow's and widower's insurance benefits based on disability.</summary>
+</bill>

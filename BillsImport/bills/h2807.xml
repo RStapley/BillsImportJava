@@ -1,0 +1,28 @@
+<bill session="114" type="h" number="2807" updated="2015-07-11T06:42:12-04:00">
+  <state datetime="2015-06-17">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-17"/>
+  </status>
+  <introduced datetime="2015-06-17"/>
+  <titles>
+    <title type="short" as="introduced">Sunshine on Government Act of 2015</title>
+    <title type="official" as="introduced">To create a centralized website on reports issued by the Inspectors General, and for other purposes.</title>
+  </titles>
+  <sponsor id="412400"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-06-17" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <summary>6/17/2015--Introduced.
+Sunshine on Government Act of 2015
+
+Requires the Office of Management and Budget (OMB) to create a separate website with a distinct URL, apart from the OMB website,&#160;about the reports issued by each Office of Inspector General. Requires such website to include: (1) a general description of the role of the&#160;Office of Inspector General, (2) a description of the types of reports issued by the Office of Inspector General, (3) a list of each federal agency that has an Office of Inspector General, and (4) a link to a website containing Inspector General reports.</summary>
+</bill>

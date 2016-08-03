@@ -1,0 +1,78 @@
+<bill session="114" type="h" number="404" updated="2015-06-06T06:21:27-04:00">
+  <state datetime="2015-06-01T15:05:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2015-06-01T15:05:00-04:00"/>
+  </status>
+  <introduced datetime="2015-01-16"/>
+  <titles>
+    <title type="official" as="introduced">To authorize early repayment of obligations to the Bureau of Reclamation within the Northport Irrigation District in the State of Nebraska.</title>
+  </titles>
+  <sponsor id="412217"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-01-16" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2015-03-02">
+      <text>Referred to the Subcommittee on Water, Power and Oceans.</text>
+    </action>
+    <action datetime="2015-03-24">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2015-03-25">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-03-25" state="REPORTED">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+    </calendar>
+    <action datetime="2015-03-25">
+      <text>Subcommittee on Water, Power and Oceans Discharged.</text>
+    </action>
+    <action datetime="2015-04-15T16:39:00-04:00">
+      <text>Reported by the Committee on Natural Resources. H. Rept. 114-76.</text>
+    </action>
+    <calendar datetime="2015-04-15T16:39:00-04:00" calendar="Union" number="55">
+      <text>Placed on the Union Calendar, Calendar No. 55.</text>
+    </calendar>
+    <action datetime="2015-06-01T15:00:00-04:00">
+      <text>Mr. Bishop (UT) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2015-06-01T15:00:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3586-3587" label="consideration"/>
+    </action>
+    <action datetime="2015-06-01T15:00:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 404.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2015-06-01T15:05:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H3586" label="text"/>
+    </vote>
+    <action datetime="2015-06-01T15:05:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2015-06-02">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSII13" subcommittee="Water, Power and Oceans" name="House Natural Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="1291"/>
+  </relatedbills>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Nebraska"/>
+    <term name="Water resources funding"/>
+    <term name="Water use and supply"/>
+  </subjects>
+  <amendments/>
+  <summary>6/1/2015--Passed House without amendment.
+(This measure has not been amended since it was introduced. The summary of that version is repeated here.)
+
+Authorizes any landowner within the Northport Irrigation District in Nebraska to repay, at any time, the construction costs of project facilities allocated to the landowner's land within the District. Provides that upon discharge in full of the obligation for repayment of all such costs, the parcels of land shall not be subject to the ownership and full-cost pricing limitations under federal reclamation law. Directs the Department of the Interior, upon request, to provide to the landowner who has repaid such costs in full a certificate acknowledging that the landholding is free of such limitations.</summary>
+</bill>

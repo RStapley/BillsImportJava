@@ -1,0 +1,37 @@
+<bill session="114" type="s" number="1413" updated="2015-07-18T06:59:59-04:00">
+  <state datetime="2015-05-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-21"/>
+  </status>
+  <introduced datetime="2015-05-21"/>
+  <titles>
+    <title type="short" as="introduced">Higher Education Tax Benefit Compliance Improvement Act</title>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to improve compliance in higher education tax benefits.</title>
+  </titles>
+  <sponsor id="402675"/>
+  <cosponsors>
+    <cosponsor id="300052" joined="2015-05-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Income tax credits"/>
+    <term name="Income tax deductions"/>
+    <term name="Student aid and college costs"/>
+    <term name="Tax administration and collection, taxpayers"/>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+  <summary>5/21/2015--Introduced.
+Higher Education Tax Benefit Compliance Improvement Act
+
+This bill amends the Internal Revenue Code to: (1) exempt an institution of higher education from tax penalties for failure to provide the tax identification number (TIN) of a person who claims a tax credit for tuition and related expenses if such institution certifies that it has complied with standards for obtaining the TIN, and (2) disallow the American Opportunity tax credit and the tax deduction for tuition and related expenses unless the taxpayer receives a payee statement containing the TIN of the individual claiming the credit or the deduction.</summary>
+</bill>

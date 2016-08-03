@@ -1,0 +1,32 @@
+<bill session="114" type="s" number="1642" updated="2015-07-11T07:01:01-04:00">
+  <state datetime="2015-06-22">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-22"/>
+  </status>
+  <introduced datetime="2015-06-22"/>
+  <titles>
+    <title type="short" as="introduced">Savings Act</title>
+    <title type="short" as="introduced">Water Supply Cost Savings Act</title>
+    <title type="official" as="introduced">A bill to reduce Federal, State, and local costs of providing high-quality drinking water to millions of people in the United States residing in rural communities by facilitating greater use of cost-effective alternative systems, including well water systems, and for other purposes.</title>
+  </titles>
+  <sponsor id="400040"/>
+  <cosponsors>
+    <cosponsor id="400064" joined="2015-06-22"/>
+    <cosponsor id="412244" joined="2015-06-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-22" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1160"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+  </subjects>
+  <amendments/>
+</bill>

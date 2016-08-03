@@ -1,0 +1,52 @@
+<bill session="114" type="h" number="2610" updated="2015-08-15T06:41:11-04:00">
+  <state datetime="2015-06-02">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-02"/>
+  </status>
+  <introduced datetime="2015-06-02"/>
+  <titles>
+    <title type="short" as="introduced">Harriet Tubman Tribute Act of 2015</title>
+    <title type="official" as="introduced">To require the Secretary of the Treasury to redesign Federal reserve notes so as to include a likeness of Harriet Tubman, and for other purposes.</title>
+  </titles>
+  <sponsor id="412649"/>
+  <cosponsors>
+    <cosponsor id="412539" joined="2015-06-02"/>
+    <cosponsor id="412619" joined="2015-06-02"/>
+    <cosponsor id="412658" joined="2015-06-19"/>
+    <cosponsor id="400090" joined="2015-06-02"/>
+    <cosponsor id="412621" joined="2015-06-09"/>
+    <cosponsor id="400108" joined="2015-06-19"/>
+    <cosponsor id="412453" joined="2015-06-02"/>
+    <cosponsor id="412620" joined="2015-06-02"/>
+    <cosponsor id="400162" joined="2015-06-16"/>
+    <cosponsor id="400641" joined="2015-06-09"/>
+    <cosponsor id="412654" joined="2015-06-02"/>
+    <cosponsor id="412557" joined="2015-07-08"/>
+    <cosponsor id="412611" joined="2015-06-02"/>
+    <cosponsor id="412393" joined="2015-06-19"/>
+    <cosponsor id="412647" joined="2015-06-02"/>
+    <cosponsor id="400344" joined="2015-06-19"/>
+    <cosponsor id="412648" joined="2015-06-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-02" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1508"/>
+    <bill relation="unknown" session="114" type="s" number="1633"/>
+    <bill relation="unknown" session="114" type="s" number="1720"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Currency"/>
+    <term name="U.S. history"/>
+    <term name="Women's rights"/>
+  </subjects>
+  <amendments/>
+</bill>

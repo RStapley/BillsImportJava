@@ -1,0 +1,121 @@
+<bill session="114" type="h" number="1853" updated="2015-07-23T04:48:20-04:00">
+  <state datetime="2015-05-21">REPORTED</state>
+  <status>
+    <unknown datetime="2015-05-21"/>
+  </status>
+  <introduced datetime="2015-04-16"/>
+  <titles>
+    <title type="official" as="introduced">To direct the President to develop a strategy to obtain observer status for Taiwan in the International Criminal Police Organization, and for other purposes.</title>
+  </titles>
+  <sponsor id="400606"/>
+  <cosponsors>
+    <cosponsor id="400004" joined="2015-06-09"/>
+    <cosponsor id="412655" joined="2015-06-09"/>
+    <cosponsor id="412250" joined="2015-05-14"/>
+    <cosponsor id="400029" joined="2015-06-24"/>
+    <cosponsor id="400032" joined="2015-06-02"/>
+    <cosponsor id="400041" joined="2015-05-14"/>
+    <cosponsor id="412567" joined="2015-06-23"/>
+    <cosponsor id="412516" joined="2015-06-12"/>
+    <cosponsor id="400052" joined="2015-06-09"/>
+    <cosponsor id="400063" joined="2015-05-19"/>
+    <cosponsor id="412258" joined="2015-06-09"/>
+    <cosponsor id="412571" joined="2015-06-18"/>
+    <cosponsor id="400071" joined="2015-05-14"/>
+    <cosponsor id="412379" joined="2015-07-08"/>
+    <cosponsor id="412470" joined="2015-05-19"/>
+    <cosponsor id="412531" joined="2015-06-09"/>
+    <cosponsor id="412272" joined="2015-04-30"/>
+    <cosponsor id="400080" joined="2015-05-14"/>
+    <cosponsor id="412513" joined="2015-05-14"/>
+    <cosponsor id="412505" joined="2015-07-08"/>
+    <cosponsor id="412526" joined="2015-05-19"/>
+    <cosponsor id="412477" joined="2015-05-19"/>
+    <cosponsor id="412385" joined="2015-05-19"/>
+    <cosponsor id="400108" joined="2015-04-30"/>
+    <cosponsor id="400122" joined="2015-04-16"/>
+    <cosponsor id="412482" joined="2015-04-30"/>
+    <cosponsor id="412480" joined="2015-05-20"/>
+    <cosponsor id="400137" joined="2015-05-19"/>
+    <cosponsor id="400643" joined="2015-05-14"/>
+    <cosponsor id="400145" joined="2015-05-19"/>
+    <cosponsor id="400160" joined="2015-05-20"/>
+    <cosponsor id="412661" joined="2015-06-12"/>
+    <cosponsor id="412447" joined="2015-07-14"/>
+    <cosponsor id="412454" joined="2015-05-20"/>
+    <cosponsor id="412280" joined="2015-05-12"/>
+    <cosponsor id="412434" joined="2015-07-08"/>
+    <cosponsor id="400170" joined="2015-05-19"/>
+    <cosponsor id="412429" joined="2015-06-12"/>
+    <cosponsor id="412460" joined="2015-07-22"/>
+    <cosponsor id="412290" joined="2015-06-12"/>
+    <cosponsor id="400230" joined="2015-06-02"/>
+    <cosponsor id="412638" joined="2015-06-09"/>
+    <cosponsor id="412616" joined="2015-06-18"/>
+    <cosponsor id="412521" joined="2015-05-19"/>
+    <cosponsor id="412643" joined="2015-06-18"/>
+    <cosponsor id="412468" joined="2015-05-19"/>
+    <cosponsor id="400654" joined="2015-04-30"/>
+    <cosponsor id="400263" joined="2015-05-20"/>
+    <cosponsor id="412540" joined="2015-06-09"/>
+    <cosponsor id="400279" joined="2015-07-08"/>
+    <cosponsor id="400290" joined="2015-05-14"/>
+    <cosponsor id="412302" joined="2015-04-30"/>
+    <cosponsor id="412569" joined="2015-05-14"/>
+    <cosponsor id="412551" joined="2015-06-23"/>
+    <cosponsor id="412308" joined="2015-06-09"/>
+    <cosponsor id="400626" joined="2015-06-18"/>
+    <cosponsor id="412331" joined="2015-07-08"/>
+    <cosponsor id="400333" joined="2015-04-30"/>
+    <cosponsor id="400344" joined="2015-06-24"/>
+    <cosponsor id="400348" joined="2015-04-16"/>
+    <cosponsor id="400350" joined="2015-06-12"/>
+    <cosponsor id="412650" joined="2015-07-08"/>
+    <cosponsor id="400352" joined="2015-05-12"/>
+    <cosponsor id="412417" joined="2015-06-04"/>
+    <cosponsor id="400365" joined="2015-04-30"/>
+    <cosponsor id="400367" joined="2015-04-30"/>
+    <cosponsor id="400371" joined="2015-04-16"/>
+    <cosponsor id="412186" joined="2015-04-30"/>
+    <cosponsor id="400380" joined="2015-06-02"/>
+    <cosponsor id="412259" joined="2015-05-12"/>
+    <cosponsor id="412636" joined="2015-06-23"/>
+    <cosponsor id="412574" joined="2015-05-14"/>
+    <cosponsor id="412640" joined="2015-06-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-16" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2015-05-13">
+      <text>Referred to the Subcommittee on Asia and the Pacific.</text>
+    </action>
+    <action datetime="2015-05-20">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2015-05-20">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text>
+    </action>
+    <action datetime="2015-05-21">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-05-21" state="REPORTED">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, Markup"/>
+    <committee activity="Referral, Markup, Reporting" code="HSFA05" subcommittee="Asia and the Pacific" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Asia"/>
+    <term name="International organizations and cooperation"/>
+    <term name="Law enforcement administration and funding"/>
+    <term name="Taiwan"/>
+  </subjects>
+  <amendments/>
+  <summary>4/16/2015--Introduced.
+This bill directs the President to: (1) develop a strategy to obtain observer status for Taiwan in the International Criminal Police Organization (INTERPOL) and at other related activities, and (2) instruct INTERPOL Washington to request observer status for Taiwan in INTERPOL and urge INTERPOL members to support Taiwan's observer status and participation.</summary>
+</bill>

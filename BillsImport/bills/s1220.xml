@@ -1,0 +1,42 @@
+<bill session="114" type="s" number="1220" updated="2015-06-20T06:55:37-04:00">
+  <state datetime="2015-05-06">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-06"/>
+  </status>
+  <introduced datetime="2015-05-06"/>
+  <titles>
+    <title type="short" as="introduced">Energy Distribution Act of 2015</title>
+    <title type="official" as="introduced">A bill to improve the distribution of energy in the United States.</title>
+  </titles>
+  <sponsor id="300075"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-05-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2015-05-14">
+      <text>Committee on Energy and Natural Resources. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="2369"/>
+    <bill relation="unknown" session="114" type="s" number="1312"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+  </subjects>
+  <amendments/>
+  <summary>5/6/2015--Introduced.
+Energy Distribution Act of 2015
+
+This bill requires the Department of Energy to collaborate with other federal agencies to improve the conceptual development of energy security, considering at a minimum:
+
+ development of flexible, transparent, and competitive energy markets, including natural gas and oil markets; diversification of energy fuels, sources, and routes; and encouragement of indigenous sources of energy supply. The Department must: (1) lead an interagency effort to improve and coordinate data collection and analytical and modeling capabilities for energy distribution on shared energy infrastructure; and (2) coordinate the training of, and enhanced dialogue among, technical staff in federal agencies responsible for cross-border energy projects evaluation and implementation.
+
+ The Administrator of the Energy Information Administration must collaborate with officials in Canada and Mexico to improve:
+
+ the quality and transparency of North American energy data through reconciliation of data on energy trade flows among the U.S., Canada, and Mexico; the extension of energy mapping capabilities in those countries; and the development of common energy data terminology among the three nations.</summary>
+</bill>

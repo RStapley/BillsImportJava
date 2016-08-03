@@ -1,0 +1,38 @@
+<bill session="114" type="s" number="120" updated="2015-01-24T06:21:33-05:00">
+  <state datetime="2015-01-08">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-08"/>
+  </status>
+  <introduced datetime="2015-01-08"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Water Resources Development Act of 2000 to authorize the Central Everglades Planning Project, Florida.</title>
+  </titles>
+  <sponsor id="300078"/>
+  <cosponsors>
+    <cosponsor id="412491" joined="2015-01-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-08" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="230"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Aquatic ecology"/>
+    <term name="Everglades"/>
+    <term name="Florida"/>
+    <term name="Water quality"/>
+    <term name="Water resources funding"/>
+    <term name="Water use and supply"/>
+    <term name="Wetlands"/>
+  </subjects>
+  <amendments/>
+  <summary>1/8/2015--Introduced.
+Amends the Water Resources Development Act of 2000 to authorize the Secretary of the Army to carry out the project for environmental restoration, CERP, Central Everglades Planning Project, Florida, in accordance with the plans and subject to the conditions recommended in the final report of the Chief of Engineers signed on December 23, 2014.</summary>
+</bill>

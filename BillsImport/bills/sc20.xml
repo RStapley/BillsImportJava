@@ -1,0 +1,103 @@
+<bill session="114" type="sc" number="20" updated="2015-08-15T06:51:46-04:00">
+  <state datetime="2015-07-28">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2015-07-28"/>
+  </status>
+  <introduced datetime="2015-07-28"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution recognizing and honoring the 25th anniversary of the date of enactment of the Americans with Disabilities Act of 1990.</title>
+  </titles>
+  <sponsor id="300052"/>
+  <cosponsors>
+    <cosponsor id="300002" joined="2015-07-28"/>
+    <cosponsor id="412493" joined="2015-07-28"/>
+    <cosponsor id="400013" joined="2015-07-28"/>
+    <cosponsor id="412330" joined="2015-07-28"/>
+    <cosponsor id="412490" joined="2015-07-28"/>
+    <cosponsor id="300011" joined="2015-07-28"/>
+    <cosponsor id="400050" joined="2015-07-28"/>
+    <cosponsor id="300018" joined="2015-07-28"/>
+    <cosponsor id="400064" joined="2015-07-28"/>
+    <cosponsor id="412246" joined="2015-07-28"/>
+    <cosponsor id="300023" joined="2015-07-28"/>
+    <cosponsor id="300025" joined="2015-07-28"/>
+    <cosponsor id="300038" joined="2015-07-28"/>
+    <cosponsor id="300043" joined="2015-07-28"/>
+    <cosponsor id="412378" joined="2015-07-28"/>
+    <cosponsor id="412554" joined="2015-07-28"/>
+    <cosponsor id="412200" joined="2015-07-28"/>
+    <cosponsor id="412582" joined="2015-07-28"/>
+    <cosponsor id="412545" joined="2015-07-28"/>
+    <cosponsor id="400222" joined="2015-07-28"/>
+    <cosponsor id="412242" joined="2015-07-28"/>
+    <cosponsor id="300065" joined="2015-07-28"/>
+    <cosponsor id="400253" joined="2015-07-28"/>
+    <cosponsor id="400272" joined="2015-07-28"/>
+    <cosponsor id="300073" joined="2015-07-28"/>
+    <cosponsor id="300075" joined="2015-07-28"/>
+    <cosponsor id="300076" joined="2015-07-28"/>
+    <cosponsor id="300081" joined="2015-07-28"/>
+    <cosponsor id="412669" joined="2015-07-28"/>
+    <cosponsor id="412491" joined="2015-07-28"/>
+    <cosponsor id="300087" joined="2015-07-28"/>
+    <cosponsor id="412323" joined="2015-07-28"/>
+    <cosponsor id="300093" joined="2015-07-28"/>
+    <cosponsor id="412542" joined="2015-07-28"/>
+    <cosponsor id="412247" joined="2015-07-28"/>
+  </cosponsors>
+  <actions>
+    <vote how="by Unanimous Consent" type="vote" datetime="2015-07-28" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S6087" label="consideration"/>
+      <reference ref="CR S6078" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2015-07-29T10:53:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Referred to the Committee on Education and the Workforce, and in addition to the Committees on Transportation and Infrastructure, the Judiciary, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW12" subcommittee="Highways and Transit" name="House Transportation and Infrastructure"/>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="hc" number="66"/>
+  </relatedbills>
+  <subjects>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="Disability and health-based discrimination"/>
+    <term name="Employment discrimination and employee rights"/>
+  </subjects>
+  <amendments/>
+  <summary>7/28/2015--Passed Senate without amendment.
+(This measure has not been amended since it was introduced. The summary of that version is repeated here.)
+
+Recognizes the 25th anniversary of the enactment of the Americans with Disabilities Act of 1990. Encourages celebration of the advancement of freedom and the expansion of opportunity made possible by its enactment.
+
+Pledges continued work on a bipartisan basis to support opportunity, independent living, economic self-sufficiency, and the full participation of individuals in the United States who have disabilities.</summary>
+</bill>

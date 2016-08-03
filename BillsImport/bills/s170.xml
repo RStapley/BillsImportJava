@@ -1,0 +1,50 @@
+<bill session="114" type="s" number="170" updated="2015-05-13T04:48:59-04:00">
+  <state datetime="2015-01-13">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-13"/>
+  </status>
+  <introduced datetime="2015-01-13"/>
+  <titles>
+    <title type="short" as="introduced">CHAMPVA Children's Care Protection Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend title 38, United States Code, to increase the maximum age for children eligible for medical care under the CHAMPVA program, and for other purposes.</title>
+  </titles>
+  <sponsor id="412244"/>
+  <cosponsors>
+    <cosponsor id="400013" joined="2015-03-23"/>
+    <cosponsor id="412330" joined="2015-02-25"/>
+    <cosponsor id="300011" joined="2015-01-16"/>
+    <cosponsor id="400050" joined="2015-01-27"/>
+    <cosponsor id="300038" joined="2015-03-18"/>
+    <cosponsor id="412223" joined="2015-04-28"/>
+    <cosponsor id="412218" joined="2015-01-13"/>
+    <cosponsor id="300076" joined="2015-01-13"/>
+    <cosponsor id="300087" joined="2015-01-21"/>
+    <cosponsor id="300093" joined="2015-05-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-13" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="220"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Child health"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>1/13/2015--Introduced.
+CHAMPVA Children's Care Protection Act of 2015
+
+Makes a child eligible for medical care under the Civilian Health and Medical Program of the Department of Veterans Affairs (CHAMPVA) eligible for such care until the child's 26th birthday, regardless of the child's marital status.
+
+Makes such provision inapplicable before January 1, 2016, to a child who is eligible to enroll in an employer-sponsored health care plan.</summary>
+</bill>

@@ -1,0 +1,57 @@
+<bill session="114" type="s" number="1599" updated="2015-07-25T07:02:35-04:00">
+  <state datetime="2015-07-22">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2015-07-22"/>
+  </status>
+  <introduced datetime="2015-06-17"/>
+  <titles>
+    <title type="short" as="introduced">Criminal Antitrust Anti-Retaliation Act of 2015</title>
+    <title type="short" as="reported to senate">Criminal Antitrust Anti-Retaliation Act of 2015</title>
+    <title type="short" as="passed senate">Criminal Antitrust Anti-Retaliation Act of 2015</title>
+    <title type="official" as="introduced">A bill to provide anti-retaliation protections for antitrust whistleblowers.</title>
+  </titles>
+  <sponsor id="300048"/>
+  <cosponsors>
+    <cosponsor id="300065" joined="2015-06-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-17">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S4252"/>
+    </action>
+    <action datetime="2015-06-17" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+    <calendar datetime="2015-07-16" state="REPORTED">
+      <text>Committee on the Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+    <action datetime="2015-07-16">
+      <text>Committee on the Judiciary. Reported by Senator Grassley with an amendment in the nature of a substitute. Without written report.</text>
+    </action>
+    <calendar datetime="2015-07-16" calendar="Senate Legislative" under="General Orders" number="151">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 151.</text>
+    </calendar>
+    <vote how="by Unanimous Consent" type="vote" datetime="2015-07-22" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+      <reference ref="CR S5474-5475" label="consideration"/>
+      <reference ref="CR S5474" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2015-07-23">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2015-07-23T10:19:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2015-07-23T16:43:00-04:00">
+      <text>Held at the desk.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+  </subjects>
+  <amendments/>
+</bill>

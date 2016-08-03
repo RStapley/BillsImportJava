@@ -1,0 +1,45 @@
+<bill session="114" type="s" number="1688" updated="2015-07-24T04:49:55-04:00">
+  <state datetime="2015-06-25">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-25"/>
+  </status>
+  <introduced datetime="2015-06-25"/>
+  <titles>
+    <title type="short" as="introduced">New Columbia Admission Act</title>
+    <title type="official" as="introduced">A bill to provide for the admission of the State of New Columbia into the Union.</title>
+  </titles>
+  <sponsor id="300019"/>
+  <cosponsors>
+    <cosponsor id="400013" joined="2015-06-25"/>
+    <cosponsor id="412598" joined="2015-06-25"/>
+    <cosponsor id="300011" joined="2015-06-25"/>
+    <cosponsor id="400050" joined="2015-06-25"/>
+    <cosponsor id="400064" joined="2015-06-25"/>
+    <cosponsor id="412390" joined="2015-06-25"/>
+    <cosponsor id="300038" joined="2015-06-25"/>
+    <cosponsor id="412378" joined="2015-06-25"/>
+    <cosponsor id="412223" joined="2015-06-25"/>
+    <cosponsor id="300065" joined="2015-06-25"/>
+    <cosponsor id="400253" joined="2015-06-25"/>
+    <cosponsor id="412243" joined="2015-07-23"/>
+    <cosponsor id="300073" joined="2015-06-25"/>
+    <cosponsor id="300076" joined="2015-06-25"/>
+    <cosponsor id="300082" joined="2015-06-25"/>
+    <cosponsor id="400357" joined="2015-06-25"/>
+    <cosponsor id="300087" joined="2015-06-25"/>
+    <cosponsor id="412542" joined="2015-06-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-25" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+  </subjects>
+  <amendments/>
+</bill>

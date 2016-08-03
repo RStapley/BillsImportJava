@@ -1,0 +1,53 @@
+<bill session="114" type="h" number="1622" updated="2015-07-30T04:48:49-04:00">
+  <state datetime="2015-03-25">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-25"/>
+  </status>
+  <introduced datetime="2015-03-25"/>
+  <titles>
+    <title type="short" as="introduced">National Fab Lab Network Act of 2015</title>
+    <title type="official" as="introduced">To provide a Federal charter to the Fab Foundation for the National Fab Lab Network, a national network of local digital fabrication facilities providing community access to advanced manufacturing tools for learning skills, developing inventions, creating businesses, and producing personalized products.</title>
+  </titles>
+  <sponsor id="412257"/>
+  <cosponsors>
+    <cosponsor id="412470" joined="2015-05-19"/>
+    <cosponsor id="412544" joined="2015-04-13"/>
+    <cosponsor id="412524" joined="2015-04-13"/>
+    <cosponsor id="400185" joined="2015-03-26"/>
+    <cosponsor id="412422" joined="2015-03-25"/>
+    <cosponsor id="412638" joined="2015-05-19"/>
+    <cosponsor id="412503" joined="2015-03-25"/>
+    <cosponsor id="400295" joined="2015-03-25"/>
+    <cosponsor id="412523" joined="2015-05-19"/>
+    <cosponsor id="412585" joined="2015-03-25"/>
+    <cosponsor id="412308" joined="2015-07-13"/>
+    <cosponsor id="400333" joined="2015-04-13"/>
+    <cosponsor id="400352" joined="2015-04-13"/>
+    <cosponsor id="400366" joined="2015-05-01"/>
+    <cosponsor id="400378" joined="2015-04-13"/>
+    <cosponsor id="412520" joined="2015-04-13"/>
+    <cosponsor id="400415" joined="2015-07-29"/>
+    <cosponsor id="400361" joined="2015-05-19" withdrawn="2015-05-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-25" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-04-29">
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration and Border Security" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+  </subjects>
+  <amendments/>
+  <summary>3/25/2015--Introduced.
+National Fab Lab Network Act of 2015
+
+ Grants a federal charter to the Fab Foundation for the National Fab Lab Network.</summary>
+</bill>

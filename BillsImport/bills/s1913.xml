@@ -1,0 +1,28 @@
+<bill session="114" type="s" number="1913" updated="2015-08-07T12:49:04-04:00">
+  <state datetime="2015-07-30">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-30"/>
+  </status>
+  <introduced datetime="2015-07-30"/>
+  <titles>
+    <title type="short" as="introduced">Stopping Medication Abuse and Protecting Seniors Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act to establish programs to prevent prescription drug abuse under the Medicare program, and for other purposes.</title>
+  </titles>
+  <sponsor id="400408"/>
+  <cosponsors>
+    <cosponsor id="400050" joined="2015-07-30"/>
+    <cosponsor id="412582" joined="2015-07-30"/>
+    <cosponsor id="400325" joined="2015-07-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-30" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

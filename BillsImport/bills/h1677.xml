@@ -1,0 +1,66 @@
+<bill session="114" type="h" number="1677" updated="2015-07-22T04:59:06-04:00">
+  <state datetime="2015-03-26">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-26"/>
+  </status>
+  <introduced datetime="2015-03-26"/>
+  <titles>
+    <title type="short" as="introduced">Dental Insurance Fairness Act of 2015</title>
+    <title type="official" as="introduced">To amend the Employee Retirement Income Security Act of 1974 to ensure health care coverage value and transparency for dental benefits under group health plans.</title>
+  </titles>
+  <sponsor id="412397"/>
+  <cosponsors>
+    <cosponsor id="412500" joined="2015-03-26"/>
+    <cosponsor id="412655" joined="2015-03-26"/>
+    <cosponsor id="400033" joined="2015-03-26"/>
+    <cosponsor id="400074" joined="2015-03-26"/>
+    <cosponsor id="400129" joined="2015-03-26"/>
+    <cosponsor id="400640" joined="2015-07-21"/>
+    <cosponsor id="412485" joined="2015-03-26"/>
+    <cosponsor id="412434" joined="2015-04-13"/>
+    <cosponsor id="412446" joined="2015-03-26"/>
+    <cosponsor id="412511" joined="2015-03-26"/>
+    <cosponsor id="400209" joined="2015-03-26"/>
+    <cosponsor id="412465" joined="2015-03-26"/>
+    <cosponsor id="412290" joined="2015-05-12"/>
+    <cosponsor id="412209" joined="2015-05-14"/>
+    <cosponsor id="400245" joined="2015-03-26"/>
+    <cosponsor id="412552" joined="2015-03-26"/>
+    <cosponsor id="412560" joined="2015-04-13"/>
+    <cosponsor id="412540" joined="2015-04-13"/>
+    <cosponsor id="412575" joined="2015-06-02"/>
+    <cosponsor id="412192" joined="2015-04-13"/>
+    <cosponsor id="400316" joined="2015-04-22"/>
+    <cosponsor id="412585" joined="2015-04-13"/>
+    <cosponsor id="412310" joined="2015-03-26"/>
+    <cosponsor id="400606" joined="2015-03-26"/>
+    <cosponsor id="400363" joined="2015-03-26"/>
+    <cosponsor id="412461" joined="2015-03-26"/>
+    <cosponsor id="412405" joined="2015-03-26"/>
+    <cosponsor id="400417" joined="2015-04-13"/>
+    <cosponsor id="412525" joined="2015-03-26"/>
+    <cosponsor id="412628" joined="2015-07-09"/>
+    <cosponsor id="400440" joined="2015-03-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-26" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Dental care"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+  </subjects>
+  <amendments/>
+  <summary>3/26/2015--Introduced.
+Dental Insurance Fairness Act of 2015
+
+ Amends the Employee Retirement Income Security Act of 1974 to prescribe certain health care coverage value requirements for dental benefits under self-insured group health plans.</summary>
+</bill>

@@ -1,0 +1,46 @@
+<bill session="114" type="h" number="477" updated="2015-03-28T06:20:59-04:00">
+  <state datetime="2015-01-22">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-22"/>
+  </status>
+  <introduced datetime="2015-01-22"/>
+  <titles>
+    <title type="official" as="introduced">To extend the authority to establish a commemorative work on Federal land in the District of Columbia and its environs to honor Brigadier General Francis Marion and his service.</title>
+  </titles>
+  <sponsor id="400433"/>
+  <cosponsors>
+    <cosponsor id="400075" joined="2015-01-22"/>
+    <cosponsor id="412472" joined="2015-01-22"/>
+    <cosponsor id="412473" joined="2015-01-22"/>
+    <cosponsor id="412609" joined="2015-01-22"/>
+    <cosponsor id="412474" joined="2015-01-22"/>
+    <cosponsor id="412572" joined="2015-01-22"/>
+    <cosponsor id="400607" joined="2015-01-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-22" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2015-03-02">
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="Federal Lands" name="House Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Conflicts and wars"/>
+    <term name="District of Columbia"/>
+    <term name="Europe"/>
+    <term name="Military history"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Monuments and memorials"/>
+    <term name="United Kingdom"/>
+  </subjects>
+  <amendments/>
+  <summary>1/22/2015--Introduced.
+Extends through May 8, 2018, the authority provided by the Consolidated Natural Resources Act of 2008 for the establishment of a commemorative work on federal land in the District of Columbia to honor Brigadier General Francis Marion and his service during the Revolutionary War.</summary>
+</bill>

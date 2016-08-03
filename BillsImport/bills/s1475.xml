@@ -1,0 +1,34 @@
+<bill session="114" type="s" number="1475" updated="2015-06-13T06:57:06-04:00">
+  <state datetime="2015-06-02">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-02"/>
+  </status>
+  <introduced datetime="2015-06-02"/>
+  <titles>
+    <title type="short" as="introduced">Saving Lives, Saving Costs Act</title>
+    <title type="official" as="introduced">A bill to provide for the creation of a safe harbor for defendants in medical malpractice actions who demonstrate adherence to clinical practice guidelines.</title>
+  </titles>
+  <sponsor id="412251"/>
+  <cosponsors>
+    <cosponsor id="400061" joined="2015-06-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-02" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-06-08">
+      <text>Committee on the Budget. Hearings held in Villanova, Pennsylvania.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral"/>
+    <committee code="SSBU" name="Senate Budget" activity="Hearings"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="2603"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+</bill>

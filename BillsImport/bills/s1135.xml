@@ -1,0 +1,48 @@
+<bill session="114" type="s" number="1135" updated="2015-07-16T04:48:59-04:00">
+  <state datetime="2015-04-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-29"/>
+  </status>
+  <introduced datetime="2015-04-29"/>
+  <titles>
+    <title type="short" as="introduced">Hospital Payment Fairness Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act to provide for fairness in hospital payments under the Medicare program.</title>
+  </titles>
+  <sponsor id="412243"/>
+  <cosponsors>
+    <cosponsor id="400034" joined="2015-06-16"/>
+    <cosponsor id="400054" joined="2015-04-29"/>
+    <cosponsor id="400061" joined="2015-05-05"/>
+    <cosponsor id="412508" joined="2015-05-05"/>
+    <cosponsor id="300072" joined="2015-05-05"/>
+    <cosponsor id="400284" joined="2015-06-22"/>
+    <cosponsor id="400325" joined="2015-05-05"/>
+    <cosponsor id="300083" joined="2015-05-11"/>
+    <cosponsor id="300088" joined="2015-05-18"/>
+    <cosponsor id="400432" joined="2015-07-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-29" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Health personnel"/>
+    <term name="Hospital care"/>
+    <term name="Medicare"/>
+    <term name="Rural conditions and development"/>
+    <term name="Wages and earnings"/>
+  </subjects>
+  <amendments/>
+  <summary>4/29/2015--Introduced.
+Hospital Payment Fairness Act of 2015
+
+ Amends the Patient Protection and Affordable Care Act (PPACA) to sunset on October 1, 2015, the application of budget neutrality on a national basis in the calculation of the Medicare hospital wage index floor.
+
+(PPACA requires application of the budget neutrality requirement associated with the effect of the imputed rural floor on the area wage index under the Balanced Budget Act of 1997 through a uniform national, instead of state-by-state, adjustment to the area hospital wage index floor.)</summary>
+</bill>

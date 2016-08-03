@@ -1,0 +1,41 @@
+<bill session="114" type="h" number="3107" updated="2015-07-30T04:50:26-04:00">
+  <state datetime="2015-07-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-16"/>
+  </status>
+  <introduced datetime="2015-07-16"/>
+  <titles>
+    <title type="short" as="introduced">Belarus Democracy and Sanctions Enforcement Act of 2015</title>
+    <title type="official" as="introduced">To require the continuation in effect of sanctions imposed with respect to Belarus, and for other purposes.</title>
+  </titles>
+  <sponsor id="400313"/>
+  <cosponsors>
+    <cosponsor id="412601" joined="2015-07-16"/>
+    <cosponsor id="412271" joined="2015-07-16"/>
+    <cosponsor id="412531" joined="2015-07-16"/>
+    <cosponsor id="412558" joined="2015-07-16"/>
+    <cosponsor id="412293" joined="2015-07-16"/>
+    <cosponsor id="400341" joined="2015-07-29"/>
+    <cosponsor id="412581" joined="2015-07-16"/>
+    <cosponsor id="412394" joined="2015-07-16" withdrawn="2015-07-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-16" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+  </subjects>
+  <amendments/>
+  <summary>7/16/2015--Introduced.
+Belarus Democracy and Sanctions Enforcement Act of 2015
+
+This bill requires that all U.S.-imposed sanctions with respect to Belarus remain in effect until the President certifies to Congress that the government of Belarus has met specified conditions under the Belarus Democracy Act of 2004.
+
+The President shall include the Joint Stock Company Belaruskali and the Joint Stock Company Belarusian Potash Company on the list of specially designated nationals and blocked persons maintained by the Office of Foreign Assets Control.</summary>
+</bill>

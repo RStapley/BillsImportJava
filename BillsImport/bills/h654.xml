@@ -1,0 +1,92 @@
+<bill session="114" type="h" number="654" updated="2015-05-15T04:47:26-04:00">
+  <state datetime="2015-02-02">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-02"/>
+  </status>
+  <introduced datetime="2015-02-02"/>
+  <titles>
+    <title type="short" as="introduced">Naval Station Guantanamo Bay Protection Act</title>
+    <title type="official" as="introduced">To prohibit the modification, termination, abandonment, or transfer of the lease by which the United States acquired the land and waters containing Naval Station, Guantanamo Bay, Cuba.</title>
+  </titles>
+  <sponsor id="412603"/>
+  <cosponsors>
+    <cosponsor id="412541" joined="2015-02-11"/>
+    <cosponsor id="412250" joined="2015-02-02"/>
+    <cosponsor id="400029" joined="2015-02-11"/>
+    <cosponsor id="412539" joined="2015-03-16"/>
+    <cosponsor id="400052" joined="2015-02-02"/>
+    <cosponsor id="412601" joined="2015-02-02"/>
+    <cosponsor id="412270" joined="2015-02-02"/>
+    <cosponsor id="412271" joined="2015-02-02"/>
+    <cosponsor id="412621" joined="2015-02-02"/>
+    <cosponsor id="412536" joined="2015-02-03"/>
+    <cosponsor id="400648" joined="2015-05-14"/>
+    <cosponsor id="412526" joined="2015-02-03"/>
+    <cosponsor id="400108" joined="2015-02-02"/>
+    <cosponsor id="412482" joined="2015-02-11"/>
+    <cosponsor id="412480" joined="2015-02-03"/>
+    <cosponsor id="400141" joined="2015-02-02"/>
+    <cosponsor id="400651" joined="2015-02-02"/>
+    <cosponsor id="412473" joined="2015-02-02"/>
+    <cosponsor id="412454" joined="2015-02-12"/>
+    <cosponsor id="412280" joined="2015-02-26"/>
+    <cosponsor id="412434" joined="2015-02-02"/>
+    <cosponsor id="412623" joined="2015-02-25"/>
+    <cosponsor id="412609" joined="2015-02-27"/>
+    <cosponsor id="412550" joined="2015-02-02"/>
+    <cosponsor id="412283" joined="2015-02-03"/>
+    <cosponsor id="400196" joined="2015-02-03"/>
+    <cosponsor id="412460" joined="2015-02-02"/>
+    <cosponsor id="400219" joined="2015-02-09"/>
+    <cosponsor id="412292" joined="2015-02-10"/>
+    <cosponsor id="400279" joined="2015-02-03"/>
+    <cosponsor id="412662" joined="2015-02-02"/>
+    <cosponsor id="400285" joined="2015-02-10"/>
+    <cosponsor id="412409" joined="2015-02-02"/>
+    <cosponsor id="412608" joined="2015-02-02"/>
+    <cosponsor id="412569" joined="2015-04-23"/>
+    <cosponsor id="412551" joined="2015-02-04"/>
+    <cosponsor id="412309" joined="2015-02-03"/>
+    <cosponsor id="400626" joined="2015-02-09"/>
+    <cosponsor id="412653" joined="2015-02-10"/>
+    <cosponsor id="412489" joined="2015-02-02"/>
+    <cosponsor id="412311" joined="2015-02-11"/>
+    <cosponsor id="400344" joined="2015-02-02"/>
+    <cosponsor id="412411" joined="2015-02-09"/>
+    <cosponsor id="412570" joined="2015-02-02"/>
+    <cosponsor id="400606" joined="2015-02-02"/>
+    <cosponsor id="412417" joined="2015-02-03"/>
+    <cosponsor id="400365" joined="2015-02-11"/>
+    <cosponsor id="412581" joined="2015-02-09"/>
+    <cosponsor id="412392" joined="2015-02-02"/>
+    <cosponsor id="412538" joined="2015-02-02"/>
+    <cosponsor id="412574" joined="2015-02-03"/>
+    <cosponsor id="412410" joined="2015-02-12"/>
+    <cosponsor id="412578" joined="2015-02-04"/>
+    <cosponsor id="400433" joined="2015-02-04"/>
+    <cosponsor id="412525" joined="2015-02-02"/>
+    <cosponsor id="412640" joined="2015-02-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-02" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Caribbean area"/>
+    <term name="Congressional oversight"/>
+    <term name="Cuba"/>
+    <term name="Latin America"/>
+    <term name="Military facilities and property"/>
+  </subjects>
+  <amendments/>
+  <summary>2/2/2015--Introduced.
+Naval Station Guantanamo Bay Protection Act
+
+This bill prohibits the President from modifying, terminating, abandoning, or transferring the lease with the government of Cuba by which the United States acquired 45-square miles of land and waters that currently contain Naval Station, Guantanamo Bay, Cuba, unless: (1) the President notifies Congress of the proposed lease change, and (2) afterwards Congress enacts a law authorizing the change.</summary>
+</bill>

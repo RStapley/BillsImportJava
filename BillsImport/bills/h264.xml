@@ -1,0 +1,57 @@
+<bill session="114" type="h" number="264" updated="2015-04-14T04:46:26-04:00">
+  <state datetime="2015-01-09">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-09"/>
+  </status>
+  <introduced datetime="2015-01-09"/>
+  <titles>
+    <title type="short" as="introduced">Peace Stamp for the Peace Corps Act</title>
+    <title type="official" as="introduced">To provide for the issuance of a semipostal to benefit the Peace Corps, and for other purposes.</title>
+  </titles>
+  <sponsor id="400237"/>
+  <cosponsors>
+    <cosponsor id="400041" joined="2015-01-20"/>
+    <cosponsor id="412272" joined="2015-01-20"/>
+    <cosponsor id="400129" joined="2015-01-22"/>
+    <cosponsor id="400259" joined="2015-01-27"/>
+    <cosponsor id="400263" joined="2015-01-22"/>
+    <cosponsor id="412189" joined="2015-01-27"/>
+    <cosponsor id="400271" joined="2015-01-20"/>
+    <cosponsor id="400661" joined="2015-01-20"/>
+    <cosponsor id="400295" joined="2015-01-20"/>
+    <cosponsor id="412585" joined="2015-01-20"/>
+    <cosponsor id="400350" joined="2015-01-20"/>
+    <cosponsor id="400363" joined="2015-02-13"/>
+    <cosponsor id="412186" joined="2015-04-13"/>
+    <cosponsor id="412412" joined="2015-01-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-09" state="REFERRED">
+      <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-01-09">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2015-01-09">
+      <text>Referred to House Foreign Affairs</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Peace Corps"/>
+    <term name="Postal service"/>
+    <term name="Social work, volunteer service, charitable organizations"/>
+  </subjects>
+  <amendments/>
+  <summary>1/9/2015--Introduced.
+Peace Stamp for the Peace Corps Act
+
+ Directs the U.S. Postal Service to issue a semipostal (a postage stamp sold at a premium in order to help provide funding for certain causes) to benefit the Peace Corps.</summary>
+</bill>

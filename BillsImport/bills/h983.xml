@@ -1,0 +1,41 @@
+<bill session="114" type="h" number="983" updated="2015-04-04T06:25:11-04:00">
+  <state datetime="2015-02-13">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-13"/>
+  </status>
+  <introduced datetime="2015-02-13"/>
+  <titles>
+    <title type="short" as="introduced">Safe And Fair Environment on Highways Achieved through Underwriting Levels Act of 2015</title>
+    <title type="short" as="introduced">SAFE HAUL Act of 2015</title>
+    <title type="official" as="introduced">To amend title 49, United States Code, with respect to minimum levels of financial responsibility for the transportation of property, and for other purposes.</title>
+  </titles>
+  <sponsor id="412571"/>
+  <cosponsors>
+    <cosponsor id="400047" joined="2015-02-13"/>
+    <cosponsor id="400130" joined="2015-02-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-13" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2015-02-17">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW12" subcommittee="Highways and Transit" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Civil actions and liability"/>
+    <term name="Life, casualty, property insurance"/>
+    <term name="Motor carriers"/>
+  </subjects>
+  <amendments/>
+  <summary>2/13/2015--Introduced.
+Safe And Fair Environment on Highways Achieved through Underwriting Levels Act of 2015 or SAFE HAUL Act of 2015
+
+ Revises certain minimum financial responsibility requirements to increase from $750,000 to $4,532,550 the minimum level of financial responsibility sufficient to satisfy established liability coverage for motor carriers or motor private carriers providing property transportation. Requires the Secretary of Transportation to adjust such amount annually for inflation relating to medical care.</summary>
+</bill>

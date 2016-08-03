@@ -1,0 +1,32 @@
+<bill session="114" type="h" number="2585" updated="2015-06-27T07:03:37-04:00">
+  <state datetime="2015-06-01">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-01"/>
+  </status>
+  <introduced datetime="2015-06-01"/>
+  <titles>
+    <title type="short" as="introduced">Sanchez-Young Social Security Disability Insurance for the Terminally Ill Act</title>
+    <title type="official" as="introduced">To amend title II of the Social Security Act to eliminate the five-month waiting period in the disability insurance program, and for other purposes.</title>
+  </titles>
+  <sponsor id="400195"/>
+  <cosponsors>
+    <cosponsor id="412558" joined="2015-06-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-01" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+  <summary>6/1/2015--Introduced.
+Sanchez-Young Social Security Disability Insurance for the Terminally Ill Act 
+
+ This bill amends title II (Old Age, Survivors and Disability Insurance) of the Social Security Act to eliminate the waiting period for disability insurance benefits for terminally ill individuals with a life expectancy of 12 months or less, as determined by a primary care provider, medical specialist, or other qualified provider, or who would otherwise suffer undue hardship by application of a waiting period.</summary>
+</bill>

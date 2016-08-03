@@ -1,0 +1,56 @@
+<bill session="114" type="s" number="898" updated="2015-08-04T04:47:26-04:00">
+  <state datetime="2015-04-13">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-13"/>
+  </status>
+  <introduced datetime="2015-04-13"/>
+  <titles>
+    <title type="short" as="introduced">National Health Service Corps Improvement Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend the Public Health Service Act to provide for the participation of optometrists in the National Health Service Corps scholarship and loan repayment programs, and for other purposes.</title>
+  </titles>
+  <sponsor id="400222"/>
+  <cosponsors>
+    <cosponsor id="412251" joined="2015-04-13"/>
+    <cosponsor id="412490" joined="2015-07-27"/>
+    <cosponsor id="400040" joined="2015-04-13"/>
+    <cosponsor id="412269" joined="2015-04-13"/>
+    <cosponsor id="412390" joined="2015-04-23"/>
+    <cosponsor id="300041" joined="2015-04-30"/>
+    <cosponsor id="412281" joined="2015-07-22"/>
+    <cosponsor id="412545" joined="2015-04-22"/>
+    <cosponsor id="412391" joined="2015-04-14"/>
+    <cosponsor id="300073" joined="2015-04-14"/>
+    <cosponsor id="300075" joined="2015-04-14"/>
+    <cosponsor id="412194" joined="2015-04-29"/>
+    <cosponsor id="412244" joined="2015-08-03"/>
+    <cosponsor id="400413" joined="2015-04-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-13" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="1312"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Education programs funding"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health personnel"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Hearing, speech, and vision care"/>
+    <term name="Medical education"/>
+    <term name="Student aid and college costs"/>
+  </subjects>
+  <amendments/>
+  <summary>4/13/2015--Introduced.
+National Health Service Corps Improvement Act of 2015
+
+This bill amends the Public Health Service Act to include optometry services in primary health services for purposes of the National Health Service Corps.
+
+Optometrists are eligible for the fellowship program for the delivery of primary health services in health professional shortage areas, the National Health Service Corps Scholarship Program, and the National Health Service Corps Loan Repayment Program.</summary>
+</bill>

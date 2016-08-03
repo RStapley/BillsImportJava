@@ -1,0 +1,37 @@
+<bill session="114" type="h" number="2819" updated="2015-08-11T04:48:16-04:00">
+  <state datetime="2015-06-18">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-18"/>
+  </status>
+  <introduced datetime="2015-06-18"/>
+  <titles>
+    <title type="short" as="introduced">Premium Reduction and Insurance Market Reform Act of 2015</title>
+    <title type="official" as="introduced">To amend the Public Health Service Act to make certain provisions relating to health insurance inapplicable in a State that does not have an exchange established by the State under section 1311 of the Patient Protection and Affordable Care Act.</title>
+  </titles>
+  <sponsor id="412397"/>
+  <cosponsors>
+    <cosponsor id="400032" joined="2015-06-18"/>
+    <cosponsor id="412477" joined="2015-06-18"/>
+    <cosponsor id="412275" joined="2015-06-18"/>
+    <cosponsor id="400141" joined="2015-06-18"/>
+    <cosponsor id="412623" joined="2015-06-18"/>
+    <cosponsor id="400279" joined="2015-06-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-18" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-06-19">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+</bill>

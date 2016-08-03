@@ -1,0 +1,55 @@
+<bill session="114" type="h" number="143" updated="2015-02-14T04:58:12-05:00">
+  <state datetime="2015-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-06"/>
+  </status>
+  <introduced datetime="2015-01-06"/>
+  <titles>
+    <title type="short" as="introduced">Patient Freedom Act of 2014</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to repeal the individual health insurance mandate.</title>
+  </titles>
+  <sponsor id="412603"/>
+  <cosponsors>
+    <cosponsor id="412655" joined="2015-02-13"/>
+    <cosponsor id="412601" joined="2015-01-12"/>
+    <cosponsor id="412604" joined="2015-01-21"/>
+    <cosponsor id="400116" joined="2015-01-13"/>
+    <cosponsor id="400141" joined="2015-01-21"/>
+    <cosponsor id="400209" joined="2015-01-12"/>
+    <cosponsor id="412649" joined="2015-02-03"/>
+    <cosponsor id="400220" joined="2015-01-13"/>
+    <cosponsor id="412292" joined="2015-01-13"/>
+    <cosponsor id="412634" joined="2015-01-12"/>
+    <cosponsor id="412568" joined="2015-01-21"/>
+    <cosponsor id="412474" joined="2015-01-12"/>
+    <cosponsor id="412409" joined="2015-01-12"/>
+    <cosponsor id="412442" joined="2015-01-13"/>
+    <cosponsor id="412633" joined="2015-02-10"/>
+    <cosponsor id="412489" joined="2015-01-12"/>
+    <cosponsor id="400343" joined="2015-01-13"/>
+    <cosponsor id="412574" joined="2015-02-13"/>
+    <cosponsor id="412610" joined="2015-01-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-06" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Comprehensive health care"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Sales and excise taxes"/>
+    <term name="Tax administration and collection, taxpayers"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/2015--Introduced.
+Patient Freedom Act of 2014 [sic]
+
+Amends the Internal Revenue Code to repeal, after 2013, the requirement that individuals maintain minimum essential health care coverage.</summary>
+</bill>

@@ -1,0 +1,67 @@
+<bill session="114" type="h" number="1959" updated="2015-05-19T04:47:23-04:00">
+  <state datetime="2015-04-22">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-22"/>
+  </status>
+  <introduced datetime="2015-04-22"/>
+  <titles>
+    <title type="short" as="introduced">College Options for DREAMers Act</title>
+    <title type="official" as="introduced">To provide Dreamer students with access to student financial aid.</title>
+  </titles>
+  <sponsor id="400179"/>
+  <cosponsors>
+    <cosponsor id="400616" joined="2015-04-22"/>
+    <cosponsor id="412379" joined="2015-04-22"/>
+    <cosponsor id="400618" joined="2015-04-30"/>
+    <cosponsor id="400657" joined="2015-04-29"/>
+    <cosponsor id="400093" joined="2015-04-29"/>
+    <cosponsor id="412327" joined="2015-04-22"/>
+    <cosponsor id="400160" joined="2015-04-29"/>
+    <cosponsor id="400162" joined="2015-04-30"/>
+    <cosponsor id="400163" joined="2015-04-30"/>
+    <cosponsor id="400204" joined="2015-04-29"/>
+    <cosponsor id="400218" joined="2015-04-22"/>
+    <cosponsor id="400271" joined="2015-04-29"/>
+    <cosponsor id="400290" joined="2015-04-29"/>
+    <cosponsor id="412312" joined="2015-04-30"/>
+    <cosponsor id="400355" joined="2015-04-22"/>
+    <cosponsor id="400364" joined="2015-04-22"/>
+    <cosponsor id="412396" joined="2015-04-29"/>
+    <cosponsor id="412186" joined="2015-04-30"/>
+    <cosponsor id="412522" joined="2015-04-30"/>
+    <cosponsor id="412580" joined="2015-04-29"/>
+    <cosponsor id="400416" joined="2015-04-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-22" state="REFERRED">
+      <text>Referred to the Committee on Education and the Workforce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-04-22">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+    <action datetime="2015-04-22">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2015-05-15">
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration and Border Security" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="1059"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Border security and unlawful immigration"/>
+    <term name="Department of Education"/>
+    <term name="Higher education"/>
+    <term name="Immigration status and procedures"/>
+    <term name="Student aid and college costs"/>
+  </subjects>
+  <amendments/>
+</bill>

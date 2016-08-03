@@ -1,0 +1,47 @@
+<bill session="114" type="hr" number="342" updated="2015-07-11T06:18:29-04:00">
+  <state datetime="2015-06-25">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-25"/>
+  </status>
+  <introduced datetime="2015-06-25"/>
+  <titles>
+    <title type="official" as="introduced">Expressing the sense of the House of Representatives regarding the enhancement of unity in America.</title>
+  </titles>
+  <sponsor id="400199"/>
+  <cosponsors>
+    <cosponsor id="412236" joined="2015-06-25"/>
+    <cosponsor id="400080" joined="2015-06-25"/>
+    <cosponsor id="412199" joined="2015-06-25"/>
+    <cosponsor id="400211" joined="2015-06-25"/>
+    <cosponsor id="400240" joined="2015-06-25"/>
+    <cosponsor id="400308" joined="2015-06-25"/>
+    <cosponsor id="400350" joined="2015-06-25"/>
+    <cosponsor id="412396" joined="2015-06-25"/>
+    <cosponsor id="412579" joined="2015-06-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-25" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-07-09">
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+    </action>
+    <action datetime="2015-07-09">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H4971"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU10" subcommittee="Constitution and Civil Justice" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Civil rights and liberties, minority issues"/>
+  </subjects>
+  <amendments/>
+  <summary>6/25/2015--Introduced.
+Expresses the sense of the House of Representatives that the United States can achieve a more perfect union:
+
+ through avoidance of "government speech" (as the state of Texas did in Walker III v. Texas Division, Sons of Confederate Veterans, Inc.) that promotes or displays symbols, signs, and vestiges of racism, oppression, and intimidation; by abating the use of government speech through signs, actions, and words that promote division and tear at the fabric of American society; and by taking actions to ensure that government speech does not foster division, disharmony, intolerance through government-issued or sponsored flags, signs, images, or other symbols.</summary>
+</bill>

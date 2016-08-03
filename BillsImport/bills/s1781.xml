@@ -1,0 +1,25 @@
+<bill session="114" type="s" number="1781" updated="2015-07-25T07:04:07-04:00">
+  <state datetime="2015-07-15">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-15"/>
+  </status>
+  <introduced datetime="2015-07-15"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 23, United States Code, to modify a provision relating to the obligation and release of funds.</title>
+  </titles>
+  <sponsor id="300052"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-15" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+</bill>

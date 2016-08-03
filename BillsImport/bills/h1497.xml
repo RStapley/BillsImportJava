@@ -1,0 +1,31 @@
+<bill session="114" type="h" number="1497" updated="2015-08-15T06:31:47-04:00">
+  <state datetime="2015-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-19"/>
+  </status>
+  <introduced datetime="2015-03-19"/>
+  <titles>
+    <title type="official" as="introduced">To amend title 31, United States Code, to require reporting by the Secretary of the Treasury of reduction measures being used to avoid defaulting on Government obligations in the event that the debt limit is reached, and for other purposes.</title>
+  </titles>
+  <sponsor id="412429"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-03-19" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Economics and public finance"/>
+  </subjects>
+  <amendments/>
+  <summary>3/19/2015--Introduced.
+This bill requires the Department of the Treasury to notify Congress when the debt of the U.S. government has reached the statutory limit and if Treasury has begun using reduction measures to avoid default. Treasury must also specify which reduction measures are currently being used.
+
+Reduction measures include the issuance of debt by the Federal Financing Bank to exchange debt that is subject to the limit; suspending investments in the Government Securities Investment Fund of the Thrift Savings Fund; suspending investments in the Exchange Stabilization Fund; suspending, redeeming, or selling investments in the Civil Service Retirement and Disability Fund or the Postal Service Retiree Health Benefits Fund; and other measures Treasury determines to be appropriate.
+
+For each day the debt is at the statutory limit, Treasury must publicly disclose reduction measures currently being used, the amounts that have been used and remain available for each measure, and the date on which Treasury estimates that all measures will be exhausted and the government will begin defaulting.</summary>
+</bill>

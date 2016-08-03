@@ -1,0 +1,178 @@
+<bill session="114" type="sj" number="8" updated="2015-05-16T06:38:34-04:00">
+  <state datetime="2015-03-31">PROV_KILL:VETO</state>
+  <status>
+    <unknown datetime="2015-03-31"/>
+  </status>
+  <introduced datetime="2015-02-09"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the National Labor Relations Board relating to representation case procedures.</title>
+  </titles>
+  <sponsor id="300002"/>
+  <cosponsors>
+    <cosponsor id="412493" joined="2015-02-09"/>
+    <cosponsor id="412251" joined="2015-02-09"/>
+    <cosponsor id="400034" joined="2015-02-09"/>
+    <cosponsor id="400040" joined="2015-02-09"/>
+    <cosponsor id="400054" joined="2015-02-09"/>
+    <cosponsor id="400061" joined="2015-02-09"/>
+    <cosponsor id="412269" joined="2015-02-09"/>
+    <cosponsor id="402675" joined="2015-02-09"/>
+    <cosponsor id="300023" joined="2015-02-09"/>
+    <cosponsor id="300025" joined="2015-02-09"/>
+    <cosponsor id="412248" joined="2015-02-09"/>
+    <cosponsor id="300027" joined="2015-02-09"/>
+    <cosponsor id="412508" joined="2015-02-09"/>
+    <cosponsor id="300030" joined="2015-02-11"/>
+    <cosponsor id="412573" joined="2015-02-09"/>
+    <cosponsor id="412549" joined="2015-02-09"/>
+    <cosponsor id="300041" joined="2015-02-09"/>
+    <cosponsor id="412667" joined="2015-02-09"/>
+    <cosponsor id="412556" joined="2015-02-09"/>
+    <cosponsor id="400134" joined="2015-02-09"/>
+    <cosponsor id="412406" joined="2015-02-09"/>
+    <cosponsor id="300047" joined="2015-02-09"/>
+    <cosponsor id="300048" joined="2015-02-09"/>
+    <cosponsor id="300052" joined="2015-02-09"/>
+    <cosponsor id="412218" joined="2015-02-09"/>
+    <cosponsor id="412494" joined="2015-02-09"/>
+    <cosponsor id="300055" joined="2015-02-09"/>
+    <cosponsor id="400194" joined="2015-02-09"/>
+    <cosponsor id="412496" joined="2015-02-09"/>
+    <cosponsor id="400222" joined="2015-02-09"/>
+    <cosponsor id="412464" joined="2015-02-09"/>
+    <cosponsor id="412495" joined="2015-02-11"/>
+    <cosponsor id="300071" joined="2015-02-09"/>
+    <cosponsor id="300072" joined="2015-02-09"/>
+    <cosponsor id="400284" joined="2015-02-09"/>
+    <cosponsor id="412492" joined="2015-02-09"/>
+    <cosponsor id="412666" joined="2015-02-09"/>
+    <cosponsor id="400325" joined="2015-02-12"/>
+    <cosponsor id="412322" joined="2015-02-09"/>
+    <cosponsor id="300083" joined="2015-02-09"/>
+    <cosponsor id="412669" joined="2015-02-12"/>
+    <cosponsor id="412491" joined="2015-02-09"/>
+    <cosponsor id="412671" joined="2015-02-12"/>
+    <cosponsor id="412471" joined="2015-02-09"/>
+    <cosponsor id="300088" joined="2015-02-09"/>
+    <cosponsor id="300089" joined="2015-02-09"/>
+    <cosponsor id="400546" joined="2015-02-09"/>
+    <cosponsor id="412668" joined="2015-02-12"/>
+    <cosponsor id="400408" joined="2015-02-11"/>
+    <cosponsor id="400418" joined="2015-02-09"/>
+    <cosponsor id="400432" joined="2015-02-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-09">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S862-863"/>
+    </action>
+    <action datetime="2015-02-09" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+    <action datetime="2015-02-23">
+      <text>Senate Committee on Health, Education, Labor, and Pensions discharged by petition pursuant to 5 U.S.C. 802(c).</text>
+      <reference ref="CR S1030" label="consideration"/>
+      <reference ref="CR 2/24/2015 S1072" label="text"/>
+    </action>
+    <calendar datetime="2015-02-23" state="REPORTED" calendar="Senate Legislative" under="General Orders" number="21">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 21.</text>
+    </calendar>
+    <action datetime="2015-03-03">
+      <text>Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 53 - 45. Record Vote Number: 66.</text>
+      <reference ref="CR S1229" label="consideration"/>
+    </action>
+    <action datetime="2015-03-03">
+      <text>Measure laid before Senate by motion.</text>
+      <reference ref="CR S1229-1244, S1257-1260, S1260-1261" label="consideration"/>
+    </action>
+    <action datetime="2015-03-04">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S1264-1274" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="67" datetime="2015-03-04" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Yea-Nay Vote. 53 - 46. Record Vote Number: 67.</text>
+      <reference ref="CR S1274" label="text"/>
+    </vote>
+    <action datetime="2015-03-04T13:45:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2015-03-04">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2015-03-04T14:22:00-05:00">
+      <text>Held at the desk.</text>
+    </action>
+    <action datetime="2015-03-17T16:21:00-04:00">
+      <text>Rules Committee Resolution H. Res. 152 Reported to House. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. The rule waives all point of order agains consideration of the resolu tions. The rule provides that the amendment printed in the report shall be adopted, and H.Res. 132, as amended shall be considered as read and shall not be subject to a demand for division of the question.</text>
+    </action>
+    <action datetime="2015-03-19T10:41:00-04:00">
+      <text>Rule H. Res. 152 passed House.</text>
+    </action>
+    <action datetime="2015-03-19T10:44:00-04:00">
+      <text>Considered under the provisions of rule H. Res. 152.</text>
+      <reference ref="CR H1782-1788" label="consideration"/>
+    </action>
+    <action datetime="2015-03-19T10:44:00-04:00">
+      <text>Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. The rule waives all point of order agains consideration of the resolu tions. The rule provides that the amendment printed in the report shall be adopted, and H.Res. 132, as amended shall be considered as read and shall not be subject to a demand for division of the question.</text>
+    </action>
+    <action datetime="2015-03-19T10:44:00-04:00">
+      <text>DEBATE - The House proceeded with one hour of debate on S.J. Res. 8.</text>
+    </action>
+    <action datetime="2015-03-19T11:37:00-04:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+      <reference ref="CR H1788" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote2" roll="128" datetime="2015-03-19T12:09:00-04:00" where="h" result="pass" state="PASSED:BILL">
+      <text>On passage Passed by the Yeas and Nays: 232 - 186 (Roll no. 128).</text>
+      <reference ref="CR H1782" label="text"/>
+    </vote>
+    <action datetime="2015-03-19T12:09:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="2015-03-27">
+      <text>Presented to President.</text>
+    </topresident>
+    <vetoed datetime="2015-03-31" state="PROV_KILL:VETO">
+      <text>Vetoed by President.</text>
+      <reference ref="CR 4/13/2015 S2094, S2107" label="text of veto message"/>
+    </vetoed>
+    <action datetime="2015-03-31">
+      <text>Veto message received in Senate. Ordered held at the desk.</text>
+    </action>
+    <action datetime="2015-04-30">
+      <text>Veto Message considered in Senate.</text>
+      <reference ref="CR S2549-2550" label="consideration"/>
+    </action>
+    <action datetime="2015-05-04">
+      <text>Veto Message considered in Senate.</text>
+      <reference ref="CR S2594, S2596-2597" label="consideration"/>
+    </action>
+    <action datetime="2015-05-05">
+      <text>Veto Message considered in Senate.</text>
+      <reference ref="CR S2613, S2644" label="consideration"/>
+    </action>
+    <action datetime="2015-05-05">
+      <text>Motion to table the veto message to accompany S. J. Res. 8 agreed to in Senate by Yea-Nay Vote. 96 - 3. Record Vote Number: 172.</text>
+      <reference ref="CR S2644" label="consideration"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="rule" session="114" type="hr" number="152"/>
+    <bill relation="identical" session="114" type="hj" number="29"/>
+  </relatedbills>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Congressional oversight"/>
+    <term name="Labor-management relations"/>
+    <term name="National Labor Relations Board (NLRB)"/>
+  </subjects>
+  <amendments/>
+  <summary>3/19/2015--Passed House without amendment.
+(This measure has not been amended since it was introduced. The summary of that version is repeated here.)
+
+Disapproves and nullifies the rule submitted by the National Labor Relations Board and published December 15, 2014, relating to representation case procedures.</summary>
+</bill>

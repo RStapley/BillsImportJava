@@ -1,0 +1,42 @@
+<bill session="114" type="s" number="1994" updated="2015-08-22T07:08:26-04:00">
+  <state datetime="2015-08-05">REFERRED</state>
+  <status>
+    <introduced datetime="2015-08-05"/>
+  </status>
+  <introduced datetime="2015-08-05"/>
+  <titles>
+    <title type="short" as="introduced">Tax Relief And #FixTheTrustFund For Infrastructure Certainty Act of 2015</title>
+    <title type="short" as="introduced">TRAFFIC Relief Act</title>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to increase certain fuel taxes and to strengthen the earned income tax credit and make permanent certain tax provisions under the American Recovery and Reinvestment Act of 2009.</title>
+  </titles>
+  <sponsor id="300019"/>
+  <cosponsors>
+    <cosponsor id="300038" joined="2015-08-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-08-05" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="680"/>
+    <bill relation="unknown" session="114" type="s" number="1012"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+  <summary>8/5/2015--Introduced.
+Tax Relief And #FixTheTrustFund For Infrastructure Certainty Act of 2015 or the TRAFFIC Relief Act
+
+This bill amends the Internal Revenue Code to phase in: (1) an increase of the excise tax rate on gasoline beginning in 2016 until such rate is 34.3 cents per gallon in calendar years beginning after 2018, and (2) a similar increase to 40.3 cents per gallon for diesel fuel and kerosene. The rates are to be adjusted for inflation for calendar years after 2019.
+
+The bill phases in increases in allocations of fuel excise tax amounts to the Mass Transit Account of the Highway Trust Fund for calender years beginning in 2015. Such increased allocations are to be adjusted for inflation for calendar years beginning after 2019.
+
+The bill makes permanent the increase in the refundable portion of the child tax credit and the increase in the earned income tax credit for families with three or more qualifying children.
+
+The earned income tax credit is also modified to: (1) allow an increase in such credit for individuals with no qualifying children, (2) revise tax credit eligibility rules for married individuals living apart and qualifying children claimed by another family member, and (3) repeal the denial of such credit for taxpayers with excess investment income.</summary>
+</bill>

@@ -1,0 +1,49 @@
+<bill session="114" type="h" number="1572" updated="2015-06-26T04:47:43-04:00">
+  <state datetime="2015-03-24">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-24"/>
+  </status>
+  <introduced datetime="2015-03-24"/>
+  <titles>
+    <title type="short" as="introduced">Boycott Our Enemies not Israel Act</title>
+    <title type="official" as="introduced">To require certifications by prospective contractors with the United States Government that they are not boycotting persons, and for other purposes.</title>
+  </titles>
+  <sponsor id="412191"/>
+  <cosponsors>
+    <cosponsor id="412604" joined="2015-04-23"/>
+    <cosponsor id="412531" joined="2015-05-21"/>
+    <cosponsor id="412526" joined="2015-03-24"/>
+    <cosponsor id="400141" joined="2015-04-22"/>
+    <cosponsor id="412460" joined="2015-06-25"/>
+    <cosponsor id="412290" joined="2015-04-23"/>
+    <cosponsor id="412487" joined="2015-04-29"/>
+    <cosponsor id="412569" joined="2015-06-04"/>
+    <cosponsor id="412399" joined="2015-04-23"/>
+    <cosponsor id="412538" joined="2015-06-09"/>
+    <cosponsor id="412574" joined="2015-04-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-24" state="REFERRED">
+      <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-03-24">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2015-03-24">
+      <text>Referred to House Foreign Affairs</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+  </subjects>
+  <amendments/>
+  <summary>3/24/2015--Introduced.
+Boycott Our Enemies not Israel Act
+
+Requires a revision to the Federal Acquisition Regulation to require a certification from each person that is a prospective government contractor that such person, and any person owned or controlled by such person, is not a boycotting person (a person who, with the intent to comply with or support a boycott against Israel, refuses to do business with or in Israel, with any Israeli national or resident, or with a business concern organized under Israeli law). Debars from eligibility for federal contracts for at least two years any person who submits a false certification.</summary>
+</bill>

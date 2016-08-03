@@ -1,0 +1,28 @@
+<bill session="114" type="h" number="3318" updated="2015-08-15T06:47:08-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">Reducing Tax Preparation Burdens for American Investments and Repairs Act</title>
+    <title type="official" as="introduced">To require the Secretary of the Treasury to modify regulations to increase the amount of the de minimis safe harbor election for exemption from capital expenditures for taxpayers without certain financial statements.</title>
+  </titles>
+  <sponsor id="412627"/>
+  <cosponsors>
+    <cosponsor id="412555" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+</bill>

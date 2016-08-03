@@ -1,0 +1,45 @@
+<bill session="114" type="s" number="1168" updated="2015-06-13T06:54:27-04:00">
+  <state datetime="2015-04-30">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-30"/>
+  </status>
+  <introduced datetime="2015-04-30"/>
+  <titles>
+    <title type="short" as="introduced">Preserving Rehabilitation Innovation Centers Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act to preserve access to rehabilitation innovation centers under the Medicare program.</title>
+  </titles>
+  <sponsor id="400222"/>
+  <cosponsors>
+    <cosponsor id="300038" joined="2015-04-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-30" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="2292"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Congressional oversight"/>
+    <term name="Government studies and investigations"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health facilities and institutions"/>
+    <term name="Long-term, rehabilitative, and terminal care"/>
+    <term name="Medicare"/>
+    <term name="Rural conditions and development"/>
+  </subjects>
+  <amendments/>
+  <summary>4/30/2015--Introduced.
+Preserving Rehabilitation Innovation Centers Act of 2015 
+
+ Amends title XVIII (Medicare) of the Social Security Act to direct the Secretary of Health and Human Services to study whether there should be an increase in the prospective payment rate for inpatient rehabilitation services that would otherwise be made to a rehabilitation innovation center to cover additional costs incurred in: (1) furnishing items and services to individuals conducting research, and (2) providing medical training.
+
+Requires the study also to specify the amount of such an increase if the Secretary determines that it is recommended.
+
+Directs the Secretary also to study the access by individuals to rehabilitation care in rural communities in states where there is no rehabilitation innovation center.</summary>
+</bill>

@@ -1,0 +1,38 @@
+<bill session="114" type="h" number="2965" updated="2015-07-24T04:48:50-04:00">
+  <state datetime="2015-07-08">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-08"/>
+  </status>
+  <introduced datetime="2015-07-08"/>
+  <titles>
+    <title type="short" as="introduced">Building on Local District Flexibility in IDEA Act</title>
+    <title type="official" as="introduced">To amend the Individuals with Disabilities Education Act to provide certain exceptions to the maintenance of effort requirement for local educational agencies, and for other purposes.</title>
+  </titles>
+  <sponsor id="412213"/>
+  <cosponsors>
+    <cosponsor id="412436" joined="2015-07-08"/>
+    <cosponsor id="412635" joined="2015-07-08"/>
+    <cosponsor id="412634" joined="2015-07-08"/>
+    <cosponsor id="412489" joined="2015-07-08"/>
+    <cosponsor id="400414" joined="2015-07-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-08" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Education programs funding"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Natural disasters"/>
+    <term name="Special education"/>
+    <term name="State and local finance"/>
+    <term name="Teaching, teachers, curricula"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,34 @@
+<bill session="114" type="h" number="2745" updated="2015-07-07T04:47:11-04:00">
+  <state datetime="2015-06-12">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-12"/>
+  </status>
+  <introduced datetime="2015-06-12"/>
+  <titles>
+    <title type="short" as="introduced">Standard Merger and Acquisition Reviews Through Equal Rules Act of 2015</title>
+    <title type="official" as="introduced">To amend the Clayton Act and the Federal Trade Commission Act to provide that the Federal Trade Commission shall exercise authority with respect to mergers only under the Clayton Act and only in the same procedural manner as the Attorney General exercises such authority.</title>
+  </titles>
+  <sponsor id="412482"/>
+  <cosponsors>
+    <cosponsor id="412531" joined="2015-06-18"/>
+    <cosponsor id="400154" joined="2015-06-12"/>
+    <cosponsor id="412468" joined="2015-06-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-12" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-07-01">
+      <text>Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU05" subcommittee="Regulatory Reform, Commercial And Antitrust Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+  </subjects>
+  <amendments/>
+</bill>

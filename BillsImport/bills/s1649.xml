@@ -1,0 +1,30 @@
+<bill session="114" type="s" number="1649" updated="2015-07-11T07:01:04-04:00">
+  <state datetime="2015-06-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-23"/>
+  </status>
+  <introduced datetime="2015-06-23"/>
+  <titles>
+    <title type="short" as="introduced">Sonoran Corridor Interstate Development Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend the Intermodal Surface Transportation Efficiency Act of 1991 to designate the Sonoran Corridor connecting Interstate 19 to Interstate 10 south of the Tucson International Airport, as a future part of the Interstate System.</title>
+  </titles>
+  <sponsor id="300071"/>
+  <cosponsors>
+    <cosponsor id="400134" joined="2015-06-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-23" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="2859"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+</bill>

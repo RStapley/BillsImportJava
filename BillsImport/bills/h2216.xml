@@ -1,0 +1,96 @@
+<bill session="114" type="h" number="2216" updated="2015-08-22T06:37:49-04:00">
+  <state datetime="2015-05-01">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-01"/>
+  </status>
+  <introduced datetime="2015-05-01"/>
+  <titles>
+    <title type="short" as="introduced">Protecting Domestic Violence and Stalking Victims Act</title>
+    <title type="official" as="introduced">To amend title 18, United States Code, to protect more victims of domestic violence by preventing their abusers from possessing or receiving firearms, and for other purposes.</title>
+  </titles>
+  <sponsor id="400062"/>
+  <cosponsors>
+    <cosponsor id="412607" joined="2015-06-03"/>
+    <cosponsor id="412657" joined="2015-06-15"/>
+    <cosponsor id="412652" joined="2015-05-01"/>
+    <cosponsor id="412516" joined="2015-06-11"/>
+    <cosponsor id="412537" joined="2015-06-23"/>
+    <cosponsor id="400063" joined="2015-06-10"/>
+    <cosponsor id="412379" joined="2015-06-03"/>
+    <cosponsor id="412470" joined="2015-05-01"/>
+    <cosponsor id="412600" joined="2015-05-01"/>
+    <cosponsor id="400080" joined="2015-05-12"/>
+    <cosponsor id="400093" joined="2015-06-10"/>
+    <cosponsor id="400103" joined="2015-06-01"/>
+    <cosponsor id="412263" joined="2015-06-10"/>
+    <cosponsor id="400124" joined="2015-06-11"/>
+    <cosponsor id="412524" joined="2015-05-01"/>
+    <cosponsor id="400129" joined="2015-05-01"/>
+    <cosponsor id="400130" joined="2015-05-29"/>
+    <cosponsor id="400162" joined="2015-05-01"/>
+    <cosponsor id="412498" joined="2015-06-03"/>
+    <cosponsor id="400170" joined="2015-05-01"/>
+    <cosponsor id="412282" joined="2015-05-01"/>
+    <cosponsor id="400185" joined="2015-05-12"/>
+    <cosponsor id="412511" joined="2015-06-10"/>
+    <cosponsor id="400199" joined="2015-06-03"/>
+    <cosponsor id="412595" joined="2015-05-01"/>
+    <cosponsor id="400232" joined="2015-05-01"/>
+    <cosponsor id="400237" joined="2015-05-12"/>
+    <cosponsor id="400238" joined="2015-06-23"/>
+    <cosponsor id="412616" joined="2015-05-01"/>
+    <cosponsor id="400245" joined="2015-06-03"/>
+    <cosponsor id="400251" joined="2015-05-01"/>
+    <cosponsor id="400259" joined="2015-05-01"/>
+    <cosponsor id="400263" joined="2015-06-04"/>
+    <cosponsor id="412189" joined="2015-05-18"/>
+    <cosponsor id="412560" joined="2015-07-28"/>
+    <cosponsor id="400661" joined="2015-05-01"/>
+    <cosponsor id="400289" joined="2015-06-03"/>
+    <cosponsor id="400290" joined="2015-05-01"/>
+    <cosponsor id="400295" joined="2015-05-18"/>
+    <cosponsor id="412575" joined="2015-06-10"/>
+    <cosponsor id="412585" joined="2015-06-11"/>
+    <cosponsor id="400326" joined="2015-06-24"/>
+    <cosponsor id="400360" joined="2015-05-01"/>
+    <cosponsor id="400361" joined="2015-06-11"/>
+    <cosponsor id="412186" joined="2015-06-04"/>
+    <cosponsor id="400378" joined="2015-05-01"/>
+    <cosponsor id="412514" joined="2015-06-04"/>
+    <cosponsor id="412626" joined="2015-06-17"/>
+    <cosponsor id="412520" joined="2015-05-01"/>
+    <cosponsor id="412318" joined="2015-06-04"/>
+    <cosponsor id="400415" joined="2015-06-01"/>
+    <cosponsor id="400416" joined="2015-06-03"/>
+    <cosponsor id="400623" joined="2015-05-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-01" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-06-01">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1834"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Assault and harassment offenses"/>
+    <term name="Domestic violence and child abuse"/>
+    <term name="Evidence and witnesses"/>
+    <term name="Firearms and explosives"/>
+  </subjects>
+  <amendments/>
+  <summary>5/1/2015--Introduced.
+Protecting Domestic Violence and Stalking Victims Act
+
+ Amends federal firearms provisions to expand the definition of: (1) "intimate partner" to include a dating partner or former dating partner; and (2) "misdemeanor crime of domestic violence" to include a misdemeanor offense that has, as an element, the use or attempted use of force, or the threatened use of a deadly weapon by a dating partner or former dating partner against the victim.
+
+Prohibits the sale or other disposition of a firearm or ammunition to, or the possession or receipt of a firearm by, a person who: (1) is subject to a court order, or an ex parte order, that restrains such person from harassing, stalking, threatening, or engaging in other conduct that would put an individual in reasonable fear of bodily injury, including an order issued at the request of an employer on behalf of its employee or at the request of an institution of higher education on behalf of its student, or from intimidating or dissuading a witness from testifying in court; or (2) has been convicted in any court of a misdemeanor crime of stalking under federal, state, territorial, or tribal law or of a crime that involves conduct that would be proscribed by prohibitions against stalking if committed within the special maritime and territorial jurisdiction of the United States.</summary>
+</bill>

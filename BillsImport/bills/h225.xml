@@ -1,0 +1,51 @@
+<bill session="114" type="h" number="225" updated="2015-07-10T04:47:11-04:00">
+  <state datetime="2015-01-08">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-08"/>
+  </status>
+  <introduced datetime="2015-01-08"/>
+  <titles>
+    <title type="short" as="introduced">Firearm Safety Act of 2015</title>
+    <title type="official" as="introduced">To amend the Consumer Product Safety Act to remove the exclusion of pistols, revolvers, and other firearms from the definition of consumer product in order to permit the issuance of safety standards for such articles by the Consumer Product Safety Commission.</title>
+  </titles>
+  <sponsor id="412595"/>
+  <cosponsors>
+    <cosponsor id="400080" joined="2015-01-16"/>
+    <cosponsor id="412263" joined="2015-01-16"/>
+    <cosponsor id="400129" joined="2015-07-09"/>
+    <cosponsor id="400170" joined="2015-05-14"/>
+    <cosponsor id="400185" joined="2015-01-16"/>
+    <cosponsor id="400199" joined="2015-01-16"/>
+    <cosponsor id="412521" joined="2015-07-09"/>
+    <cosponsor id="400271" joined="2015-05-14"/>
+    <cosponsor id="400295" joined="2015-01-16"/>
+    <cosponsor id="412331" joined="2015-01-30"/>
+    <cosponsor id="400333" joined="2015-05-14"/>
+    <cosponsor id="400378" joined="2015-07-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-08" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-01-09">
+      <text>Referred to the Subcommittee on Commerce, Manufacturing, and Trade.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF17" subcommittee="Commerce, Manufacturing, and Trade" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Consumer Product Safety Commission"/>
+    <term name="Firearms and explosives"/>
+    <term name="Product safety and quality"/>
+  </subjects>
+  <amendments/>
+  <summary>1/8/2015--Introduced.
+Firearm Safety Act of 2015
+
+Amends the Consumer Product Safety Act to remove from the definition of "consumer product" the exclusion for any article sold by a manufacturer, producer, or importer that would be subject to a firearms sales tax under the Internal Revenue Code for pistols, revolvers, and other firearms, including shells and cartridges, thereby permitting the Consumer Product Safety Commission to issue safety standards for such articles.</summary>
+</bill>

@@ -1,0 +1,78 @@
+<bill session="114" type="h" number="555" updated="2015-05-23T06:22:32-04:00">
+  <state datetime="2015-01-27">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-27"/>
+  </status>
+  <introduced datetime="2015-01-27"/>
+  <titles>
+    <title type="short" as="introduced">Federal Exchange Data Breach Notification Act of 2015</title>
+    <title type="official" as="introduced">To require an Exchange established under the Patient Protection and Affordable Care Act to notify individuals in the case that personal information of such individuals is known to have been acquired or accessed as a result of a breach of the security of any system maintained by the Exchange, and for other purposes.</title>
+  </titles>
+  <sponsor id="412478"/>
+  <cosponsors>
+    <cosponsor id="412629" joined="2015-02-03"/>
+    <cosponsor id="412196" joined="2015-02-09"/>
+    <cosponsor id="400052" joined="2015-02-13"/>
+    <cosponsor id="412513" joined="2015-02-03"/>
+    <cosponsor id="412555" joined="2015-02-09"/>
+    <cosponsor id="412477" joined="2015-02-03"/>
+    <cosponsor id="400116" joined="2015-02-11"/>
+    <cosponsor id="412280" joined="2015-02-03"/>
+    <cosponsor id="400175" joined="2015-02-11"/>
+    <cosponsor id="412429" joined="2015-02-09"/>
+    <cosponsor id="412437" joined="2015-02-03"/>
+    <cosponsor id="400206" joined="2015-02-03"/>
+    <cosponsor id="412510" joined="2015-02-03"/>
+    <cosponsor id="400656" joined="2015-02-25"/>
+    <cosponsor id="412295" joined="2015-02-25"/>
+    <cosponsor id="412466" joined="2015-01-27"/>
+    <cosponsor id="412475" joined="2015-05-19"/>
+    <cosponsor id="412409" joined="2015-02-03"/>
+    <cosponsor id="400313" joined="2015-02-03"/>
+    <cosponsor id="412309" joined="2015-02-03"/>
+    <cosponsor id="400626" joined="2015-02-11"/>
+    <cosponsor id="412310" joined="2015-02-11"/>
+    <cosponsor id="412426" joined="2015-02-11"/>
+    <cosponsor id="412202" joined="2015-02-09"/>
+    <cosponsor id="412314" joined="2015-02-09"/>
+    <cosponsor id="412399" joined="2015-02-11"/>
+    <cosponsor id="412217" joined="2015-02-09"/>
+    <cosponsor id="412596" joined="2015-02-09"/>
+    <cosponsor id="400406" joined="2015-02-03"/>
+    <cosponsor id="412538" joined="2015-04-28"/>
+    <cosponsor id="412618" joined="2015-02-11"/>
+    <cosponsor id="400627" joined="2015-02-03"/>
+    <cosponsor id="400433" joined="2015-02-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-27" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-01-30">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Comprehensive health care"/>
+    <term name="Computer security and identity theft"/>
+    <term name="Consumer affairs"/>
+    <term name="Government information and archives"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health information and medical records"/>
+    <term name="Right of privacy"/>
+  </subjects>
+  <amendments/>
+  <summary>1/27/2015--Introduced.
+Federal Exchange Data Breach Notification Act of 2015
+
+This bill requires a health insurance exchange to notify each individual whose personal information is known to have been acquired or accessed as a result of a breach of security of any system maintained by the exchange as soon as possible but not later than 60 days after discovery of the breach.
+
+A violation of this requirement is an unfair or deceptive act or practice under the Federal Trade Commission Act.</summary>
+</bill>

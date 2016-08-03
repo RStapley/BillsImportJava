@@ -1,0 +1,49 @@
+<bill session="114" type="s" number="1524" updated="2015-08-01T07:04:57-04:00">
+  <state datetime="2015-06-08">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-08"/>
+  </status>
+  <introduced datetime="2015-06-08"/>
+  <titles>
+    <title type="short" as="introduced">Concrete Masonry Products Research, Education, and Promotion Act</title>
+    <title type="official" as="introduced">A bill to enable concrete masonry products manufacturers to establish, finance, and carry out a coordinated program of research, education, and promotion to improve, maintain, and develop markets for concrete masonry products.</title>
+  </titles>
+  <sponsor id="400034"/>
+  <cosponsors>
+    <cosponsor id="400013" joined="2015-06-08"/>
+    <cosponsor id="400054" joined="2015-06-08"/>
+    <cosponsor id="400064" joined="2015-06-23"/>
+    <cosponsor id="300038" joined="2015-06-24"/>
+    <cosponsor id="400194" joined="2015-06-08"/>
+    <cosponsor id="412242" joined="2015-06-08"/>
+    <cosponsor id="412243" joined="2015-06-08"/>
+    <cosponsor id="400272" joined="2015-06-24"/>
+    <cosponsor id="400284" joined="2015-06-08"/>
+    <cosponsor id="300078" joined="2015-06-08"/>
+    <cosponsor id="300083" joined="2015-06-08"/>
+    <cosponsor id="412321" joined="2015-06-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-08" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="985"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commerce"/>
+  </subjects>
+  <amendments/>
+  <summary>6/8/2015--Introduced.
+Concrete Masonry Products Research, Education, and Promotion Act
+
+This bill directs the Secretary of Commerce to issue orders applicable to manufacturers of concrete masonry products. Any such order must provide for the establishment of a Concrete Masonry Products Board to carry out a program of promotion, research, and information regarding concrete masonry products. Manufacturers and importers shall maintain, and make available, specified records.
+
+An order must also provide that assessments be paid by concrete masonry product manufacturers with respect to concrete masonry products manufactured and marketed in the United States. Assessment rates are specified. At least 50% of the assessments paid by a manufacturer must be used to support research, education, and promotion plans and projects in support of the geographic region of the manufacturer. During the 60-day period preceding the proposed effective date of an order, the Secretary shall conduct a referendum for order approval among the manufacturers required to pay assessments under it. Referendum procedures are outlined.
+
+The bill allows petition and review of an order, and order enforcement through U.S. district courts. The Secretary: (1) may conduct appropriate investigations in order to administer this Act (with power of subpoena); and (2) must suspend or terminate any order or provision that obstructs or does not tend to effectuate the purposes of this Act, or that is not favored by persons voting in a referendum.</summary>
+</bill>

@@ -1,0 +1,31 @@
+<bill session="114" type="h" number="397" updated="2015-02-07T04:46:14-05:00">
+  <state datetime="2015-01-14">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-14"/>
+  </status>
+  <introduced datetime="2015-01-14"/>
+  <titles>
+    <title type="official" as="introduced">For the relief of Jeanette Vizguerra-Ramirez.</title>
+  </titles>
+  <sponsor id="412308"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-01-14" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-02-05">
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration and Border Security" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+  </subjects>
+  <amendments/>
+  <summary>1/14/2015--Introduced.
+Provides for the relief of Jeanette Vizguerra-Ramirez.</summary>
+</bill>

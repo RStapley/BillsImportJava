@@ -1,0 +1,137 @@
+<bill session="114" type="h" number="27" updated="2015-07-30T04:47:51-04:00">
+  <state datetime="2015-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-06"/>
+  </status>
+  <introduced datetime="2015-01-06"/>
+  <titles>
+    <title type="short" as="introduced">Tax Code Termination Act</title>
+    <title type="official" as="introduced">To terminate the Internal Revenue Code of 1986.</title>
+  </titles>
+  <sponsor id="400154"/>
+  <cosponsors>
+    <cosponsor id="412625" joined="2015-02-10"/>
+    <cosponsor id="412438" joined="2015-01-06"/>
+    <cosponsor id="412500" joined="2015-01-06"/>
+    <cosponsor id="412655" joined="2015-01-07"/>
+    <cosponsor id="412436" joined="2015-01-07"/>
+    <cosponsor id="412250" joined="2015-01-06"/>
+    <cosponsor id="400029" joined="2015-01-12"/>
+    <cosponsor id="400032" joined="2015-01-06"/>
+    <cosponsor id="412629" joined="2015-01-08"/>
+    <cosponsor id="400046" joined="2015-04-13"/>
+    <cosponsor id="412605" joined="2015-01-14"/>
+    <cosponsor id="412567" joined="2015-02-25"/>
+    <cosponsor id="400052" joined="2015-03-19"/>
+    <cosponsor id="400068" joined="2015-01-13"/>
+    <cosponsor id="400071" joined="2015-01-06"/>
+    <cosponsor id="412270" joined="2015-01-06"/>
+    <cosponsor id="400089" joined="2015-01-06"/>
+    <cosponsor id="412526" joined="2015-03-25"/>
+    <cosponsor id="400116" joined="2015-01-06"/>
+    <cosponsor id="412482" joined="2015-01-22"/>
+    <cosponsor id="412275" joined="2015-01-07"/>
+    <cosponsor id="412480" joined="2015-01-06"/>
+    <cosponsor id="400137" joined="2015-01-06"/>
+    <cosponsor id="400141" joined="2015-01-06"/>
+    <cosponsor id="400145" joined="2015-01-06"/>
+    <cosponsor id="412397" joined="2015-01-06"/>
+    <cosponsor id="412485" joined="2015-01-06"/>
+    <cosponsor id="412447" joined="2015-01-09"/>
+    <cosponsor id="400175" joined="2015-02-11"/>
+    <cosponsor id="412623" joined="2015-01-07"/>
+    <cosponsor id="412609" joined="2015-01-07"/>
+    <cosponsor id="412550" joined="2015-01-22"/>
+    <cosponsor id="412283" joined="2015-01-08"/>
+    <cosponsor id="412484" joined="2015-01-12"/>
+    <cosponsor id="400196" joined="2015-01-07"/>
+    <cosponsor id="412460" joined="2015-01-08"/>
+    <cosponsor id="400209" joined="2015-01-06"/>
+    <cosponsor id="412226" joined="2015-02-26"/>
+    <cosponsor id="412566" joined="2015-01-06"/>
+    <cosponsor id="400224" joined="2015-01-09"/>
+    <cosponsor id="412510" joined="2015-01-13"/>
+    <cosponsor id="412191" joined="2015-01-07"/>
+    <cosponsor id="412290" joined="2015-01-09"/>
+    <cosponsor id="412256" joined="2015-01-07"/>
+    <cosponsor id="412445" joined="2015-01-06"/>
+    <cosponsor id="400247" joined="2015-01-07"/>
+    <cosponsor id="412292" joined="2015-01-13"/>
+    <cosponsor id="412468" joined="2015-01-06"/>
+    <cosponsor id="400654" joined="2015-01-12"/>
+    <cosponsor id="400644" joined="2015-01-07"/>
+    <cosponsor id="400659" joined="2015-01-09"/>
+    <cosponsor id="412540" joined="2015-01-08"/>
+    <cosponsor id="400279" joined="2015-07-29"/>
+    <cosponsor id="412474" joined="2015-01-06"/>
+    <cosponsor id="400441" joined="2015-02-04"/>
+    <cosponsor id="412660" joined="2015-01-06"/>
+    <cosponsor id="412302" joined="2015-01-12"/>
+    <cosponsor id="412443" joined="2015-05-05"/>
+    <cosponsor id="400313" joined="2015-01-07"/>
+    <cosponsor id="400316" joined="2015-03-10"/>
+    <cosponsor id="412551" joined="2015-01-06"/>
+    <cosponsor id="400320" joined="2015-01-07"/>
+    <cosponsor id="400652" joined="2015-01-06"/>
+    <cosponsor id="412309" joined="2015-01-12"/>
+    <cosponsor id="412653" joined="2015-01-14"/>
+    <cosponsor id="412489" joined="2015-01-12"/>
+    <cosponsor id="412483" joined="2015-01-22"/>
+    <cosponsor id="412310" joined="2015-01-06"/>
+    <cosponsor id="412641" joined="2015-01-07"/>
+    <cosponsor id="412399" joined="2015-01-06"/>
+    <cosponsor id="400365" joined="2015-01-06"/>
+    <cosponsor id="400381" joined="2015-01-08"/>
+    <cosponsor id="412581" joined="2015-01-13"/>
+    <cosponsor id="412317" joined="2015-07-27"/>
+    <cosponsor id="412213" joined="2015-01-06"/>
+    <cosponsor id="400419" joined="2015-05-08"/>
+    <cosponsor id="412574" joined="2015-01-06"/>
+    <cosponsor id="412410" joined="2015-01-13"/>
+    <cosponsor id="400627" joined="2015-01-06"/>
+    <cosponsor id="400433" joined="2015-01-06"/>
+    <cosponsor id="412255" joined="2015-01-07"/>
+    <cosponsor id="412416" joined="2015-01-06"/>
+    <cosponsor id="412525" joined="2015-01-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-06">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1-2"/>
+    </action>
+    <action datetime="2015-01-06" state="REFERRED">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-01-06">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-01-06">
+      <text>Referred to House Rules</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee code="HSRU" name="House Rules" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Economic performance and conditions"/>
+    <term name="Employment taxes"/>
+    <term name="Financial services and investments"/>
+    <term name="Income tax rates"/>
+    <term name="Legislative rules and procedure"/>
+    <term name="Tax administration and collection, taxpayers"/>
+    <term name="Tax reform and tax simplification"/>
+    <term name="Tax treatment of families"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/2015--Introduced.
+Tax Code Termination Act
+
+Terminates the Internal Revenue Code of 1986 after December 31, 2019, except for self-employment taxes, Federal Insurance Contributions Act (FICA)&#160;taxes, and railroad retirement taxes. Requires a two-thirds majority vote in Congress to change such termination date.
+
+Declares that any new federal tax system should be a simple and fair system that: (1) applies a low rate to all Americans, (2) provides tax relief for working Americans, (3) protects the rights of taxpayers and reduces tax collection abuses, (4) eliminates the bias against savings and investment, (5) promotes economic growth and job creation, and (6) does not penalize marriage or families.
+
+Requires that the new federal tax system be approved by Congress in its final form by July 4, 2019.</summary>
+</bill>

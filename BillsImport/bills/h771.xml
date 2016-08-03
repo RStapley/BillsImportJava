@@ -1,0 +1,72 @@
+<bill session="114" type="h" number="771" updated="2015-08-05T04:47:02-04:00">
+  <state datetime="2015-02-05">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-05"/>
+  </status>
+  <introduced datetime="2015-02-05"/>
+  <titles>
+    <title type="short" as="introduced">Protecting Access to Diabetes Supplies Act of 2015</title>
+    <title type="official" as="introduced">To amend title XVIII of the Social Security Act in order to strengthen rules applied in case of competition for diabetic testing strips, and for other purposes.</title>
+  </titles>
+  <sponsor id="400101"/>
+  <cosponsors>
+    <cosponsor id="400030" joined="2015-03-04"/>
+    <cosponsor id="412539" joined="2015-06-18"/>
+    <cosponsor id="412571" joined="2015-04-22"/>
+    <cosponsor id="412457" joined="2015-04-14"/>
+    <cosponsor id="412278" joined="2015-05-13"/>
+    <cosponsor id="412561" joined="2015-07-08"/>
+    <cosponsor id="412460" joined="2015-08-04"/>
+    <cosponsor id="400259" joined="2015-06-24"/>
+    <cosponsor id="412302" joined="2015-03-04"/>
+    <cosponsor id="412303" joined="2015-04-14"/>
+    <cosponsor id="412523" joined="2015-04-21"/>
+    <cosponsor id="412431" joined="2015-07-29"/>
+    <cosponsor id="412393" joined="2015-02-05"/>
+    <cosponsor id="400350" joined="2015-03-04"/>
+    <cosponsor id="400431" joined="2015-02-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-05" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-02-05">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-02-05">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-02-06">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Digestive and metabolic diseases"/>
+    <term name="Health technology, devices, supplies"/>
+    <term name="Medical tests and diagnostic methods"/>
+    <term name="Medicare"/>
+    <term name="Public contracts and procurement"/>
+  </subjects>
+  <amendments/>
+  <summary>2/5/2015--Introduced.
+Protecting Access to Diabetes Supplies Act of 2015
+
+ Amends title XVIII (Medicare) of the Social Security Act to revise the special competitive acquisition program rule applied to diabetic testing strips to require the volume for such types of products to be determined through the use of multiple sources of data that measure consumption and utilization of such strips among individuals in the United States.
+
+Directs the Secretary of Health and Human Services to reject any bid submitted by an entity under the competitive acquisition program that does not demonstrate that it can furnish the types of strips included in its bid.
+
+Requires an entity to furnish to an individual the brand of strips compatible with the individual's home blood glucose monitor.
+
+Prohibits an entity from attempting to influence or incentivize an individual to switch the brand of glucose monitor or testing strips selected.
+
+Prohibits an entity from communicating directly to such an individual until it has given the individual verbally standardized information about the individual's rights with respect to the entity.
+
+Directs the Secretary to establish a process under which an individual furnished with diabetic testing strips under a competitive acquisition program may reject them by notifying the supplier and the Secretary. Permits the individual to obtain different strips from another supplier and have a new claim processed.</summary>
+</bill>

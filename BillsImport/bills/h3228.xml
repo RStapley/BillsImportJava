@@ -1,0 +1,36 @@
+<bill session="114" type="h" number="3228" updated="2015-08-22T04:47:16-04:00">
+  <state datetime="2015-07-27">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-27"/>
+  </status>
+  <introduced datetime="2015-07-27"/>
+  <titles>
+    <title type="official" as="introduced">To require that until a comprehensive study is completed, the volume of cellulosic biofuel mandated under the renewable fuel program be limited to what is commercially available, and for other purposes.</title>
+  </titles>
+  <sponsor id="400365"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-27" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-07-27">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-07-27">
+      <text>Referred to House Science, Space, and Technology</text>
+    </action>
+    <action datetime="2015-07-31">
+      <text>Referred to the Subcommittee on Energy and Power.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+    <committee code="HSSY" name="House Science, Space, and Technology" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+  </subjects>
+  <amendments/>
+</bill>

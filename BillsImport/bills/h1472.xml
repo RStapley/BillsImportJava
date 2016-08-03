@@ -1,0 +1,54 @@
+<bill session="114" type="h" number="1472" updated="2015-05-23T06:30:14-04:00">
+  <state datetime="2015-04-15">REPORTED</state>
+  <status>
+    <unknown datetime="2015-04-15"/>
+  </status>
+  <introduced datetime="2015-03-19"/>
+  <titles>
+    <title type="short" as="introduced">Integrated Public Alert and Warning System Modernization Act of 2015</title>
+    <title type="official" as="introduced">To establish a modernized national Integrated Public Alert and Warning System, and for other purposes.</title>
+  </titles>
+  <sponsor id="412469"/>
+  <cosponsors>
+    <cosponsor id="412258" joined="2015-03-19"/>
+    <cosponsor id="400100" joined="2015-03-19"/>
+    <cosponsor id="409888" joined="2015-03-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-19" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2015-03-20">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+    </action>
+    <action datetime="2015-04-15">
+      <text>Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.</text>
+    </action>
+    <action datetime="2015-04-15">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-04-15" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup"/>
+    <committee activity="Referral, Discharged" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1738"/>
+    <bill relation="unknown" session="114" type="s" number="1180"/>
+  </relatedbills>
+  <subjects>
+    <term name="Emergency management"/>
+  </subjects>
+  <amendments/>
+  <summary>3/19/2015--Introduced.
+Integrated Public Alert and Warning System Modernization Act of 2015
+
+ Directs the Federal Emergency Management Agency (FEMA) to modernize and implement the integrated public alert and warning system of the United States to ensure that the President is able, under all conditions, to alert governmental authorities and the civilian population in areas endangered by disasters, including by:
+
+ establishing common alerting and warning protocols, standards, terminology, and operating procedures for such system; including in such system the capability to adapt the distribution and content of communications on the basis of geographic location, risks, or personal user preferences and to alert individuals with disabilities and individuals with access and functional needs; ensuring that training, tests, and exercises are conducted for such system; establishing and integrating into the National Incident Management System a comprehensive and periodic training program to instruct and educate federal, state, tribal, and local government officials in the use of the Common Alerting Protocol enabled Emergency Alert System; and ensuring that the system is resilient, secure, and can withstand acts of terrorism and other external attacks. Requires the system to:
+
+ incorporate multiple communications technologies, be designed to incorporate future technologies for communicating directly with the public to provide alerts to the largest portion of the affected population feasible and to improve the ability of remote areas to receive alerts, promote local and regional partnerships to enhance community preparedness and response, provide redundant alert mechanisms, and protect individual privacy. Directs FEMA to: (1) submit a detailed plan to implement the system, including a time line, a spending plan, and recommendations for any additional authority necessary; and (2) establish the Integrated Public Alert and Warning System Advisory Committee to develop recommendations for the system.</summary>
+</bill>

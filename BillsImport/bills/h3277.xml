@@ -1,0 +1,26 @@
+<bill session="114" type="h" number="3277" updated="2015-08-04T09:47:15-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">Voter Access Protection Act of 2015</title>
+    <title type="official" as="introduced">To prohibit election officials from requiring individuals to provide photo identification as a condition of obtaining or casting a ballot in an election for Federal office or registering to vote in elections for Federal office, and for other purposes.</title>
+  </titles>
+  <sponsor id="412215"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+  </subjects>
+  <amendments/>
+</bill>

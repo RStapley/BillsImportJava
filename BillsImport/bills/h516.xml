@@ -1,0 +1,42 @@
+<bill session="114" type="h" number="516" updated="2015-02-28T06:20:43-05:00">
+  <state datetime="2015-01-22">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-22"/>
+  </status>
+  <introduced datetime="2015-01-22"/>
+  <titles>
+    <title type="short" as="introduced">Cents and Sensibility Act</title>
+    <title type="official" as="introduced">To amend title 31, United States Code, to save the American taxpayers money by immediately altering the metallic composition of the one-cent, five-cent, dime, and quarter dollar coins, and for other purposes.</title>
+  </titles>
+  <sponsor id="412461"/>
+  <cosponsors>
+    <cosponsor id="412565" joined="2015-02-12"/>
+    <cosponsor id="400352" joined="2015-01-22"/>
+    <cosponsor id="400406" joined="2015-01-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-22" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Buy American requirements"/>
+    <term name="Currency"/>
+    <term name="Metals"/>
+    <term name="Public contracts and procurement"/>
+  </subjects>
+  <amendments/>
+  <summary>1/22/2015--Introduced.
+Cents and Sensibility Act
+
+Requires that the one-cent, five-cent, dime, and quarter-dollar coins be: (1) produced primarily of steel, and (2) treated to impart a color so that their appearance is similar to coins produced before enactment of this Act.
+
+Directs the Secretary of the Treasury, in minting such coins, to use only steel produced in the United States unless: (1) the Secretary determines doing so would be inconsistent with the public interest, or (2) an adequate supply of the appropriate grade of steel is not produced in the United States in sufficient and reasonably available quantities.
+
+Prohibits the Secretary, in setting specifications for such coins, from: (1) requiring more than one change to coin-accepting and coin-handling equipment to accommodate all coins produced pursuant to this Act; (2) facilitating or allowing the use of a coin with a lesser value produced by another country, or the use of any token or other easily or regularly produced metal device of minimal value, in the place of a circulating coin produced by the Secretary; or (3) requiring non-trivial changes to coin-accepting or coin-handling equipment to easily accommodate continued co-circulation of both coins produced with the new specifications and coins produced on or before a specified date.</summary>
+</bill>

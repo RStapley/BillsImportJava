@@ -1,0 +1,31 @@
+<bill session="114" type="s" number="1462" updated="2015-06-27T07:31:22-04:00">
+  <state datetime="2015-05-22">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-22"/>
+  </status>
+  <introduced datetime="2015-05-22"/>
+  <titles>
+    <title type="short" as="introduced">Eliminating Dangerous Oil Cars and Ensuring Community Safety Act</title>
+    <title type="official" as="introduced">A bill to improve the safety of oil shipments by rail and for other purposes.</title>
+  </titles>
+  <sponsor id="300087"/>
+  <cosponsors>
+    <cosponsor id="300011" joined="2015-05-22"/>
+    <cosponsor id="300038" joined="2015-05-22"/>
+    <cosponsor id="300043" joined="2015-05-22"/>
+    <cosponsor id="412223" joined="2015-05-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-22" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+</bill>

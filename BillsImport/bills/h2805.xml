@@ -1,0 +1,65 @@
+<bill session="114" type="h" number="2805" updated="2015-08-15T06:42:49-04:00">
+  <state datetime="2015-06-17">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-17"/>
+  </status>
+  <introduced datetime="2015-06-17"/>
+  <titles>
+    <title type="short" as="introduced">Heroin and Prescription Opioid Abuse Prevention, Education, and Enforcement Act of 2015</title>
+    <title type="official" as="introduced">To address prescription opioid abuse and heroin use.</title>
+  </titles>
+  <sponsor id="412539"/>
+  <cosponsors>
+    <cosponsor id="412469" joined="2015-07-23"/>
+    <cosponsor id="412541" joined="2015-07-22"/>
+    <cosponsor id="412407" joined="2015-07-08"/>
+    <cosponsor id="412258" joined="2015-06-17"/>
+    <cosponsor id="412600" joined="2015-07-13"/>
+    <cosponsor id="412658" joined="2015-07-07"/>
+    <cosponsor id="412524" joined="2015-07-29"/>
+    <cosponsor id="412447" joined="2015-06-24"/>
+    <cosponsor id="412649" joined="2015-07-13"/>
+    <cosponsor id="412543" joined="2015-06-17"/>
+    <cosponsor id="412583" joined="2015-07-13"/>
+    <cosponsor id="412557" joined="2015-06-18"/>
+    <cosponsor id="412562" joined="2015-07-29"/>
+    <cosponsor id="400263" joined="2015-07-29"/>
+    <cosponsor id="412540" joined="2015-06-17"/>
+    <cosponsor id="412647" joined="2015-07-08"/>
+    <cosponsor id="412648" joined="2015-07-27"/>
+    <cosponsor id="412461" joined="2015-07-29"/>
+    <cosponsor id="412538" joined="2015-06-17"/>
+    <cosponsor id="400431" joined="2015-06-17"/>
+    <cosponsor id="412428" joined="2015-06-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-17" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-06-17">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-06-17">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2015-06-19">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2015-07-09">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1134"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+</bill>

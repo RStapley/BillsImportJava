@@ -1,0 +1,110 @@
+<bill session="114" type="h" number="1635" updated="2015-07-30T04:48:51-04:00">
+  <state datetime="2015-03-25">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-25"/>
+  </status>
+  <introduced datetime="2015-03-25"/>
+  <titles>
+    <title type="short" as="introduced">Charlotte's Web Medical Access Act of 2015</title>
+    <title type="official" as="introduced">To amend the Controlled Substances Act to exclude cannabidiol and cannabidiol-rich plants from the definition of marihuana, and for other purposes.</title>
+  </titles>
+  <sponsor id="412569"/>
+  <cosponsors>
+    <cosponsor id="412541" joined="2015-03-25"/>
+    <cosponsor id="400029" joined="2015-05-12"/>
+    <cosponsor id="412627" joined="2015-07-21"/>
+    <cosponsor id="400033" joined="2015-03-25"/>
+    <cosponsor id="412619" joined="2015-04-21"/>
+    <cosponsor id="400057" joined="2015-06-10"/>
+    <cosponsor id="412571" joined="2015-05-19"/>
+    <cosponsor id="412271" joined="2015-04-21"/>
+    <cosponsor id="412236" joined="2015-03-25"/>
+    <cosponsor id="400081" joined="2015-03-25"/>
+    <cosponsor id="412536" joined="2015-04-15"/>
+    <cosponsor id="412544" joined="2015-04-15"/>
+    <cosponsor id="412420" joined="2015-03-25"/>
+    <cosponsor id="400116" joined="2015-06-12"/>
+    <cosponsor id="412532" joined="2015-06-25"/>
+    <cosponsor id="412631" joined="2015-07-07"/>
+    <cosponsor id="412276" joined="2015-03-25"/>
+    <cosponsor id="400162" joined="2015-05-14"/>
+    <cosponsor id="412661" joined="2015-05-20"/>
+    <cosponsor id="412454" joined="2015-03-25"/>
+    <cosponsor id="400170" joined="2015-05-19"/>
+    <cosponsor id="412446" joined="2015-05-20"/>
+    <cosponsor id="412486" joined="2015-04-30"/>
+    <cosponsor id="400185" joined="2015-03-25"/>
+    <cosponsor id="412283" joined="2015-05-19"/>
+    <cosponsor id="400209" joined="2015-03-25"/>
+    <cosponsor id="412638" joined="2015-04-15"/>
+    <cosponsor id="412616" joined="2015-05-14"/>
+    <cosponsor id="400245" joined="2015-06-09"/>
+    <cosponsor id="412521" joined="2015-03-25"/>
+    <cosponsor id="412503" joined="2015-03-25"/>
+    <cosponsor id="412295" joined="2015-03-25"/>
+    <cosponsor id="412474" joined="2015-04-13"/>
+    <cosponsor id="400295" joined="2015-03-25"/>
+    <cosponsor id="412575" joined="2015-06-02"/>
+    <cosponsor id="412192" joined="2015-04-15"/>
+    <cosponsor id="412307" joined="2015-07-29"/>
+    <cosponsor id="412308" joined="2015-04-23"/>
+    <cosponsor id="400333" joined="2015-06-15"/>
+    <cosponsor id="412483" joined="2015-06-15"/>
+    <cosponsor id="400351" joined="2015-04-13"/>
+    <cosponsor id="400360" joined="2015-04-30"/>
+    <cosponsor id="400361" joined="2015-04-16"/>
+    <cosponsor id="412417" joined="2015-03-25"/>
+    <cosponsor id="400363" joined="2015-03-25"/>
+    <cosponsor id="412581" joined="2015-05-12"/>
+    <cosponsor id="400415" joined="2015-03-25"/>
+    <cosponsor id="412548" joined="2015-07-15"/>
+    <cosponsor id="412255" joined="2015-07-15"/>
+    <cosponsor id="412416" joined="2015-03-25"/>
+    <cosponsor id="412211" joined="2015-03-25"/>
+    <cosponsor id="412628" joined="2015-06-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-25" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-03-25">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-03-25">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2015-03-27">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2015-04-29">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="525"/>
+    <bill relation="unknown" session="114" type="s" number="1333"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Drug trafficking and controlled substances"/>
+    <term name="Horticulture and plants"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+  <summary>3/25/2015--Introduced.
+Charlotte's Web Medical Access Act of 2015
+
+ Amends the Controlled Substances Act (CSA) to exclude cannabidiol and cannabidiol-rich plants: (1) from the definition of "marihuana," and (2) from treatment as a controlled substance under such Act. Defines: (1) "cannabidiol-rich plant" to mean the plant Cannabis sativa L. and any part of such plant with a delta-9 tetrahydrocannabinol concentration of not more than 0.3% on a dry weight basis; and (2) "cannabidiol" to mean the substance cannabidiol, as derived from a cannabidiol-rich plant.
+
+Exempts cannabidiol or cannabidiol-rich plants from the Federal Food, Drug, and Cosmetic Act.
+
+Declares that nothing in this Act shall restrict any activities related to the use, production, or distribution of marihuana in a state in which such activities are legal under state law.
+
+Terminates this Act three years after its enactment.</summary>
+</bill>

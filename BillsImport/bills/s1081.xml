@@ -1,0 +1,52 @@
+<bill session="114" type="s" number="1081" updated="2015-08-15T07:00:47-04:00">
+  <state datetime="2015-04-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-23"/>
+  </status>
+  <introduced datetime="2015-04-23"/>
+  <titles>
+    <title type="short" as="introduced">Refuge from Cruel Trapping Act</title>
+    <title type="official" as="introduced">A bill to end the use of body-gripping traps in the National Wildlife Refuge System.</title>
+  </titles>
+  <sponsor id="412598"/>
+  <cosponsors>
+    <cosponsor id="400253" joined="2015-07-21"/>
+    <cosponsor id="412325" joined="2015-06-24"/>
+    <cosponsor id="300073" joined="2015-07-27"/>
+    <cosponsor id="412305" joined="2015-05-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-23" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+    <action datetime="2015-05-06">
+      <text>Committee on Environment and Public Works. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="2016"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Animal protection and human-animal relationships"/>
+    <term name="Crimes against animals and natural resources"/>
+    <term name="Legal fees and court costs"/>
+    <term name="Outdoor recreation"/>
+    <term name="Wilderness and natural areas, wildlife refuges, wild rivers, habitats"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+  <summary>4/23/2015--Introduced.
+Refuge from Cruel Trapping Act
+
+ Amends the National Wildlife Refuge System Administration Act of 1966 to prohibit the use or possession of body-gripping traps in the National Wildlife Refuge System.
+
+Imposes on persons who possess or use such traps in the System: (1) for a first offense, a civil fine of up to $500 for each body-gripping trap possessed or used; and (2) for subsequent offenses, a civil fine of up to $1,000 for each body-gripping trap possessed or used, imprisonment for up to 180 days, or both such a civil fine and imprisonment.
+
+Subjects to civil forfeiture any body-gripping traps that are possessed or used in violation of this Act, and any wildlife captured by the use of such traps, including the pelts and raw fur.
+
+Requires persons found to be in violation of such prohibition to pay all associated court costs.</summary>
+</bill>

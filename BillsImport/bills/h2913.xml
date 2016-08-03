@@ -1,0 +1,54 @@
+<bill session="114" type="h" number="2913" updated="2015-07-21T04:48:02-04:00">
+  <state datetime="2015-06-25">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-25"/>
+  </status>
+  <introduced datetime="2015-06-25"/>
+  <titles>
+    <title type="short" as="introduced">Sound Dollar Act of 2015</title>
+    <title type="official" as="introduced">To amend the Federal Reserve Act to improve the functioning and transparency of the Board of Governors of the Federal Reserve System and the Federal Open Market Committee, and for other purposes.</title>
+  </titles>
+  <sponsor id="400046"/>
+  <cosponsors>
+    <cosponsor id="412627" joined="2015-06-25"/>
+    <cosponsor id="412567" joined="2015-07-20"/>
+    <cosponsor id="400052" joined="2015-06-25"/>
+    <cosponsor id="400077" joined="2015-06-25"/>
+    <cosponsor id="412555" joined="2015-07-20"/>
+    <cosponsor id="412472" joined="2015-06-25"/>
+    <cosponsor id="412482" joined="2015-06-25"/>
+    <cosponsor id="412480" joined="2015-06-25"/>
+    <cosponsor id="400643" joined="2015-07-20"/>
+    <cosponsor id="400651" joined="2015-06-25"/>
+    <cosponsor id="412284" joined="2015-06-25"/>
+    <cosponsor id="400206" joined="2015-07-20"/>
+    <cosponsor id="400209" joined="2015-06-25"/>
+    <cosponsor id="412226" joined="2015-06-25"/>
+    <cosponsor id="412419" joined="2015-06-25"/>
+    <cosponsor id="412445" joined="2015-07-20"/>
+    <cosponsor id="412294" joined="2015-06-25"/>
+    <cosponsor id="412295" joined="2015-06-25"/>
+    <cosponsor id="412568" joined="2015-06-25"/>
+    <cosponsor id="412474" joined="2015-06-25"/>
+    <cosponsor id="400441" joined="2015-06-25"/>
+    <cosponsor id="412302" joined="2015-07-20"/>
+    <cosponsor id="400313" joined="2015-06-25"/>
+    <cosponsor id="412426" joined="2015-07-20"/>
+    <cosponsor id="400381" joined="2015-06-25"/>
+    <cosponsor id="412574" joined="2015-06-25"/>
+    <cosponsor id="412416" joined="2015-06-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-25" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+  </subjects>
+  <amendments/>
+</bill>

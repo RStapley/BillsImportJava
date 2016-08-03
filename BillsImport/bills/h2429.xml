@@ -1,0 +1,89 @@
+<bill session="114" type="h" number="2429" updated="2015-08-08T06:39:36-04:00">
+  <state datetime="2015-05-19">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-19"/>
+  </status>
+  <introduced datetime="2015-05-19"/>
+  <titles>
+    <title type="short" as="introduced">Student Loan Tax Debt Relief Act</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to exclude from gross income any discharge of income contingent and income-based student loan indebtedness.</title>
+  </titles>
+  <sponsor id="400262"/>
+  <cosponsors>
+    <cosponsor id="400033" joined="2015-05-19"/>
+    <cosponsor id="412501" joined="2015-07-08"/>
+    <cosponsor id="412652" joined="2015-05-19"/>
+    <cosponsor id="412516" joined="2015-05-19"/>
+    <cosponsor id="400062" joined="2015-05-19"/>
+    <cosponsor id="412517" joined="2015-05-19"/>
+    <cosponsor id="412470" joined="2015-05-19"/>
+    <cosponsor id="412600" joined="2015-05-19"/>
+    <cosponsor id="412236" joined="2015-07-08"/>
+    <cosponsor id="412272" joined="2015-06-02"/>
+    <cosponsor id="400080" joined="2015-05-19"/>
+    <cosponsor id="412193" joined="2015-05-20"/>
+    <cosponsor id="400090" joined="2015-05-19"/>
+    <cosponsor id="400093" joined="2015-05-19"/>
+    <cosponsor id="400100" joined="2015-05-19"/>
+    <cosponsor id="412505" joined="2015-05-20"/>
+    <cosponsor id="412613" joined="2015-05-19"/>
+    <cosponsor id="400111" joined="2015-05-19"/>
+    <cosponsor id="412263" joined="2015-05-21"/>
+    <cosponsor id="400162" joined="2015-05-19"/>
+    <cosponsor id="400163" joined="2015-05-19"/>
+    <cosponsor id="400170" joined="2015-05-19"/>
+    <cosponsor id="400179" joined="2015-05-19"/>
+    <cosponsor id="400185" joined="2015-05-19"/>
+    <cosponsor id="400211" joined="2015-05-19"/>
+    <cosponsor id="412583" joined="2015-06-17"/>
+    <cosponsor id="400218" joined="2015-05-19"/>
+    <cosponsor id="400230" joined="2015-05-19"/>
+    <cosponsor id="400232" joined="2015-05-19"/>
+    <cosponsor id="400233" joined="2015-05-19"/>
+    <cosponsor id="412638" joined="2015-05-22"/>
+    <cosponsor id="400237" joined="2015-07-08"/>
+    <cosponsor id="400245" joined="2015-07-15"/>
+    <cosponsor id="400263" joined="2015-05-22"/>
+    <cosponsor id="412189" joined="2015-05-19"/>
+    <cosponsor id="400271" joined="2015-05-19"/>
+    <cosponsor id="400661" joined="2015-05-19"/>
+    <cosponsor id="400290" joined="2015-06-18"/>
+    <cosponsor id="400295" joined="2015-05-19"/>
+    <cosponsor id="412523" joined="2015-07-15"/>
+    <cosponsor id="400333" joined="2015-05-19"/>
+    <cosponsor id="400350" joined="2015-05-19"/>
+    <cosponsor id="400352" joined="2015-06-10"/>
+    <cosponsor id="400360" joined="2015-05-19"/>
+    <cosponsor id="400361" joined="2015-07-22"/>
+    <cosponsor id="400379" joined="2015-05-19"/>
+    <cosponsor id="412514" joined="2015-06-04"/>
+    <cosponsor id="400415" joined="2015-05-19"/>
+    <cosponsor id="412522" joined="2015-05-19"/>
+    <cosponsor id="412239" joined="2015-05-19"/>
+    <cosponsor id="412412" joined="2015-07-07"/>
+    <cosponsor id="412211" joined="2015-05-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-19">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E751"/>
+    </action>
+    <action datetime="2015-05-19" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Income tax exclusion"/>
+    <term name="Student aid and college costs"/>
+  </subjects>
+  <amendments/>
+  <summary>5/19/2015--Introduced.
+Student Loan Tax Debt Relief Act
+
+Amends the Internal Revenue Code to expand the exclusion from gross income of income attributable to the discharge of student loan indebtedness to include indebtedness discharged pursuant to income-contingent and income-based repayment plans.</summary>
+</bill>

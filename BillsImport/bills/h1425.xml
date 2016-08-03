@@ -1,0 +1,38 @@
+<bill session="114" type="h" number="1425" updated="2015-05-09T06:33:08-04:00">
+  <state datetime="2015-03-18">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-18"/>
+  </status>
+  <introduced datetime="2015-03-18"/>
+  <titles>
+    <title type="short" as="introduced">Preserve and Protect God in Military Oaths Act of 2015</title>
+    <title type="official" as="introduced">To amend titles 10 and 32, United States Code, to require congressional approval before any change may be made to the oaths required for appointment as an officer in the Armed Forces, enlistment in the Armed Forces, or appointment as a cadet or midshipman at a military service academy, and for other purposes.</title>
+  </titles>
+  <sponsor id="400206"/>
+  <cosponsors>
+    <cosponsor id="412191" joined="2015-03-18"/>
+    <cosponsor id="412302" joined="2015-03-18"/>
+    <cosponsor id="400367" joined="2015-03-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-18">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H1730"/>
+    </action>
+    <action datetime="2015-03-18" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <summary>3/18/2015--Introduced.
+Preserve and Protect God in Military Oaths Act of 2015
+
+Prohibits any change from being made, except by Act of or authorization by Congress, to the military oaths required for: (1) original appointment as a regular commissioned officer, regular warrant officer, or reserve officer; (2) enlistment in the Armed Forces or National Guard; or (3) admission to a U.S. military service academy.</summary>
+</bill>

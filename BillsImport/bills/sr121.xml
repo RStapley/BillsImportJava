@@ -1,0 +1,40 @@
+<bill session="114" type="sr" number="121" updated="2015-04-25T06:36:07-04:00">
+  <state datetime="2015-03-27">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-27"/>
+  </status>
+  <introduced datetime="2015-03-26"/>
+  <titles>
+    <title type="official" as="introduced">A resolution amending rule XV of the Standing Rules of the Senate to provide for consideration of a minimum number of amendments.</title>
+  </titles>
+  <sponsor id="412325"/>
+  <cosponsors>
+    <cosponsor id="400413" joined="2015-03-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-27" state="REFERRED">
+      <text>Referred to the Committee on Rules and Administration.</text>
+      <reference ref="CR 3/26/2015 S2053" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSRA" name="Senate Rules and Administration" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Legislative rules and procedure"/>
+    <term name="Senate"/>
+  </subjects>
+  <amendments/>
+  <summary>3/26/2015--Introduced.
+Amends Rule XV (Standing Committees) of the Standing Rules of the Senate to make it in order in the Senate during the consideration of any bill, resolution, or other amendable matter to consider at least five germane amendments offered each by the majority and by the minority.
+
+Specifies a general procedure for the offering of these amendments if cloture is invoked before either the majority or the minority has offered all five of its minimum number of amendments.
+
+Allows exemption from this germaneness requirement for one amendment offered by a member of the majority and one amendment offered by a member of the minority, but only upon the agreement of three-fifths of all Senators.
+
+Authorizes the majority leader and minority leader, by mutual agreement, to call up additional germane amendments under this Rule in equal number by members of the majority and of the minority.
+
+Limits consideration of such an amendment by the Senate to two hours, divided equally between the majority and the minority.</summary>
+</bill>

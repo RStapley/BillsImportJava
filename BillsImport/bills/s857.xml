@@ -1,0 +1,78 @@
+<bill session="114" type="s" number="857" updated="2015-07-31T04:47:37-04:00">
+  <state datetime="2015-03-25">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-25"/>
+  </status>
+  <introduced datetime="2015-03-25"/>
+  <titles>
+    <title type="short" as="introduced">Health Outcomes, Planning, and Education (HOPE) for Alzheimer's Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act to provide for coverage under the Medicare program of an initial comprehensive care plan for Medicare beneficiaries newly diagnosed with Alzheimer's disease and related dementias, and for other purposes.</title>
+  </titles>
+  <sponsor id="300093"/>
+  <cosponsors>
+    <cosponsor id="400013" joined="2015-04-28"/>
+    <cosponsor id="412330" joined="2015-04-23"/>
+    <cosponsor id="412490" joined="2015-04-20"/>
+    <cosponsor id="300011" joined="2015-05-11"/>
+    <cosponsor id="400050" joined="2015-04-28"/>
+    <cosponsor id="400061" joined="2015-03-25"/>
+    <cosponsor id="400064" joined="2015-04-28"/>
+    <cosponsor id="300019" joined="2015-06-08"/>
+    <cosponsor id="300025" joined="2015-03-25"/>
+    <cosponsor id="412390" joined="2015-04-16"/>
+    <cosponsor id="412205" joined="2015-04-28"/>
+    <cosponsor id="300043" joined="2015-06-18"/>
+    <cosponsor id="412378" joined="2015-05-11"/>
+    <cosponsor id="412223" joined="2015-04-23"/>
+    <cosponsor id="300048" joined="2015-04-21"/>
+    <cosponsor id="412281" joined="2015-06-18"/>
+    <cosponsor id="412554" joined="2015-07-30"/>
+    <cosponsor id="412200" joined="2015-05-21"/>
+    <cosponsor id="412582" joined="2015-07-07"/>
+    <cosponsor id="412545" joined="2015-06-04"/>
+    <cosponsor id="400222" joined="2015-06-08"/>
+    <cosponsor id="412242" joined="2015-04-28"/>
+    <cosponsor id="412391" joined="2015-04-16"/>
+    <cosponsor id="400253" joined="2015-03-25"/>
+    <cosponsor id="400272" joined="2015-04-23"/>
+    <cosponsor id="412325" joined="2015-06-04"/>
+    <cosponsor id="300073" joined="2015-04-16"/>
+    <cosponsor id="400284" joined="2015-07-07"/>
+    <cosponsor id="300078" joined="2015-05-11"/>
+    <cosponsor id="412305" joined="2015-06-04"/>
+    <cosponsor id="400357" joined="2015-07-07"/>
+    <cosponsor id="412507" joined="2015-04-16"/>
+    <cosponsor id="412323" joined="2015-04-21"/>
+    <cosponsor id="412321" joined="2015-04-16"/>
+    <cosponsor id="412542" joined="2015-05-11"/>
+    <cosponsor id="412247" joined="2015-04-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-25" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1559"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Aging"/>
+    <term name="Congressional oversight"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health information and medical records"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="Long-term, rehabilitative, and terminal care"/>
+    <term name="Medical tests and diagnostic methods"/>
+    <term name="Medicare"/>
+    <term name="Neurological disorders"/>
+  </subjects>
+  <amendments/>
+  <summary>3/25/2015--Introduced.
+Health Outcomes, Planning, and Education (HOPE) for Alzheimer's Act of 2015
+
+This bill amends title XVIII (Medicare) of the Social Security Act to cover comprehensive Alzheimer's disease care planning services.</summary>
+</bill>

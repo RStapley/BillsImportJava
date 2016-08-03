@@ -1,0 +1,26 @@
+<bill session="114" type="h" number="3336" updated="2015-08-08T06:47:12-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">Colorado Wilderness Act of 2015</title>
+    <title type="official" as="introduced">To designate certain lands in the State of Colorado as components of the National Wilderness Preservation System, and for other purposes.</title>
+  </titles>
+  <sponsor id="400101"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+</bill>

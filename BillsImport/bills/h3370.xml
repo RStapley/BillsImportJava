@@ -1,0 +1,40 @@
+<bill session="114" type="h" number="3370" updated="2015-08-22T06:47:30-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">EB-JOBS Act of 2015</title>
+    <title type="short" as="introduced">Entrepreneurial Businesses Creating Jobs Act of 2015</title>
+    <title type="official" as="introduced">To amend the Immigration and Nationality Act to promote innovation, investment, and research in the United States, and for other purposes.</title>
+  </titles>
+  <sponsor id="400245"/>
+  <cosponsors>
+    <cosponsor id="400163" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committees on Education and the Workforce, and Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Referred to House Rules</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee code="HSRU" name="House Rules" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Immigration"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,29 @@
+<bill session="114" type="h" number="2765" updated="2015-07-11T04:47:27-04:00">
+  <state datetime="2015-06-12">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-12"/>
+  </status>
+  <introduced datetime="2015-06-12"/>
+  <titles>
+    <title type="official" as="introduced">To prohibit the National Science Foundation from obligating amounts for the Polar Learning and Responding Climate Change Educational Partnership.</title>
+  </titles>
+  <sponsor id="400606"/>
+  <cosponsors>
+    <cosponsor id="412397" joined="2015-07-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-12" state="REFERRED">
+      <text>Referred to the House Committee on Science, Space, and Technology.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science, Space, and Technology" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+  </subjects>
+  <amendments/>
+  <summary>6/12/2015--Introduced.
+This bill prohibits the National Science Foundation from obligating any amounts for the Polar Learning and Responding Climate Change Educational Partnership. (The Partnership uses novel educational approaches to engage adult learners and inform public understanding and response to climate change.)</summary>
+</bill>

@@ -1,0 +1,54 @@
+<bill session="114" type="h" number="1371" updated="2015-07-29T04:47:56-04:00">
+  <state datetime="2015-03-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-16"/>
+  </status>
+  <introduced datetime="2015-03-16"/>
+  <titles>
+    <title type="short" as="introduced">Safer Trucks and Buses Act of 2015</title>
+    <title type="official" as="introduced">To improve the Compliance, Safety, Accountability initiative of the Federal Motor Carrier Safety Administration, and for other purposes.</title>
+  </titles>
+  <sponsor id="412469"/>
+  <cosponsors>
+    <cosponsor id="412500" joined="2015-04-28"/>
+    <cosponsor id="412453" joined="2015-07-28"/>
+    <cosponsor id="412454" joined="2015-05-14"/>
+    <cosponsor id="412645" joined="2015-07-23"/>
+    <cosponsor id="412465" joined="2015-06-03"/>
+    <cosponsor id="412569" joined="2015-05-13"/>
+    <cosponsor id="400440" joined="2015-07-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-16" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2015-03-17">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW12" subcommittee="Highways and Transit" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Accidents"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Business records"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Transportation"/>
+    <term name="Government studies and investigations"/>
+    <term name="Motor carriers"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+  <summary>3/16/2015--Introduced.
+Safer Trucks and Buses Act of 2015
+
+The Department of Transportation (DOT) shall enter into an agreement with the National Academy of Public Administration to study how to improve the Compliance, Safety, Accountability initiative of the Federal Motor Carrier Safety Administration.
+
+ DOT must ensure that motor carrier safety data predictive of crashes which is generated under this initiative is not made available to the public (except law enforcement personnel) until the study findings and recommendations are reported to Congress.
+
+Such data may not be used used in a civil action for damages resulting from an incident involving a motor carrier.</summary>
+</bill>

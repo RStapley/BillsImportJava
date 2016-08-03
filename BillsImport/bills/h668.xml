@@ -1,0 +1,38 @@
+<bill session="114" type="h" number="668" updated="2015-03-28T06:22:34-04:00">
+  <state datetime="2015-02-03">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-03"/>
+  </status>
+  <introduced datetime="2015-02-03"/>
+  <titles>
+    <title type="short" as="introduced">Health and Human Services Hiree Clarification Act</title>
+    <title type="official" as="introduced">To make clear that an agency outside of the Department of Health and Human Services may not designate, appoint, or employ special consultants, fellows, or other employees under subsection (f) or (g) of section 207 of the Public Health Service Act.</title>
+  </titles>
+  <sponsor id="400052"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-02-03" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-02-06">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Health personnel"/>
+    <term name="Public contracts and procurement"/>
+  </subjects>
+  <amendments/>
+  <summary>2/3/2015--Introduced.
+Health and Human Services Hiree Clarification Act
+
+Amends the Public Health Service Act to state that provisions authorizing the appointment of special consultants or authorizing individual scientists to receive fellowships do not authorize the designation, appointment, or employment of any special consultant, fellow, or other employee by an agency outside of the Department of Health and Human Services.</summary>
+</bill>

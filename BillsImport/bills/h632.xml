@@ -1,0 +1,76 @@
+<bill session="114" type="h" number="632" updated="2015-07-08T04:47:23-04:00">
+  <state datetime="2015-01-30">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-30"/>
+  </status>
+  <introduced datetime="2015-01-30"/>
+  <titles>
+    <title type="short" as="introduced">U.S. Air Forces Escape and Evasion Society Recognition Act of 2015</title>
+    <title type="official" as="introduced">To award a gold medal on behalf of the Congress to the U.S. Air Forces Escape and Evasion Society, in recognition of the ceaseless efforts of American aircrew members to escape captivity and evade capture by the enemy forces in occupied countries during our foreign wars, and the brave resistance organizations and patriotic nationals of those foreign countries who assisted them.</title>
+  </titles>
+  <sponsor id="412254"/>
+  <cosponsors>
+    <cosponsor id="400030" joined="2015-02-27"/>
+    <cosponsor id="400033" joined="2015-04-14"/>
+    <cosponsor id="400041" joined="2015-01-30"/>
+    <cosponsor id="400063" joined="2015-04-14"/>
+    <cosponsor id="412600" joined="2015-01-30"/>
+    <cosponsor id="412221" joined="2015-04-14"/>
+    <cosponsor id="412604" joined="2015-01-30"/>
+    <cosponsor id="400639" joined="2015-05-20"/>
+    <cosponsor id="412555" joined="2015-01-30"/>
+    <cosponsor id="412482" joined="2015-01-30"/>
+    <cosponsor id="412382" joined="2015-01-30"/>
+    <cosponsor id="412453" joined="2015-01-30"/>
+    <cosponsor id="400185" joined="2015-04-14"/>
+    <cosponsor id="412460" joined="2015-07-07"/>
+    <cosponsor id="400206" joined="2015-05-20"/>
+    <cosponsor id="412603" joined="2015-01-30"/>
+    <cosponsor id="412435" joined="2015-06-09"/>
+    <cosponsor id="412543" joined="2015-01-30"/>
+    <cosponsor id="412209" joined="2015-04-14"/>
+    <cosponsor id="412292" joined="2015-04-14"/>
+    <cosponsor id="400249" joined="2015-06-09"/>
+    <cosponsor id="400263" joined="2015-01-30"/>
+    <cosponsor id="412632" joined="2015-04-14"/>
+    <cosponsor id="400291" joined="2015-04-14"/>
+    <cosponsor id="412409" joined="2015-01-30"/>
+    <cosponsor id="412411" joined="2015-04-14"/>
+    <cosponsor id="400352" joined="2015-01-30"/>
+    <cosponsor id="412417" joined="2015-01-30"/>
+    <cosponsor id="400378" joined="2015-01-30"/>
+    <cosponsor id="400403" joined="2015-06-09"/>
+    <cosponsor id="400406" joined="2015-01-30"/>
+    <cosponsor id="412319" joined="2015-01-30"/>
+    <cosponsor id="412214" joined="2015-01-30"/>
+    <cosponsor id="412239" joined="2015-01-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-30" state="REFERRED">
+      <text>Referred to the Committee on Financial Services, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-01-30">
+      <text>Referred to House Financial Services</text>
+    </action>
+    <action datetime="2015-01-30">
+      <text>Referred to House House Administration</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+    <committee code="HSHA" name="House Administration" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Congressional tributes"/>
+    <term name="Military operations and strategy"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Museums, exhibitions, cultural centers"/>
+  </subjects>
+  <amendments/>
+  <summary>1/30/2015--Introduced.
+U.S. Air Forces Escape and Evasion Society Recognition Act of 2015
+
+Directs the Speaker of the House of Representatives and the President pro tempore of the Senate to arrange for the presentation of a gold medal to the U.S. Air Forces Escape and Evasion Society, in recognition of the ceaseless efforts of American aircrew members to escape captivity and evade capture and the resistance organizations and nationals who assisted them.</summary>
+</bill>

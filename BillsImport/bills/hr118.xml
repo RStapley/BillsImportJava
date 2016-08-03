@@ -1,0 +1,61 @@
+<bill session="114" type="hr" number="118" updated="2015-05-19T04:46:17-04:00">
+  <state datetime="2015-02-13">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-13"/>
+  </status>
+  <introduced datetime="2015-02-13"/>
+  <titles>
+    <title type="official" as="introduced">Recognizing the significance of the 68th anniversary of the signing of Executive Order 9066 by President Franklin D. Roosevelt and supporting the goals of the Japanese American, German American, and Italian American communities in recognizing a National Day of Remembrance to increase public awareness of the events surrounding the restriction, exclusion, and incarceration of individuals and families during World War II.</title>
+  </titles>
+  <sponsor id="412520"/>
+  <cosponsors>
+    <cosponsor id="400021" joined="2015-02-13"/>
+    <cosponsor id="400041" joined="2015-02-13"/>
+    <cosponsor id="412379" joined="2015-02-13"/>
+    <cosponsor id="412613" joined="2015-02-13"/>
+    <cosponsor id="412276" joined="2015-02-13"/>
+    <cosponsor id="400162" joined="2015-02-13"/>
+    <cosponsor id="400185" joined="2015-02-13"/>
+    <cosponsor id="412583" joined="2015-02-13"/>
+    <cosponsor id="400237" joined="2015-02-13"/>
+    <cosponsor id="412616" joined="2015-02-27"/>
+    <cosponsor id="400245" joined="2015-05-18"/>
+    <cosponsor id="412521" joined="2015-03-17"/>
+    <cosponsor id="400663" joined="2015-02-13"/>
+    <cosponsor id="400262" joined="2015-02-13"/>
+    <cosponsor id="400263" joined="2015-02-13"/>
+    <cosponsor id="400271" joined="2015-04-15"/>
+    <cosponsor id="400661" joined="2015-02-13"/>
+    <cosponsor id="400333" joined="2015-02-13"/>
+    <cosponsor id="412259" joined="2015-02-13"/>
+    <cosponsor id="412514" joined="2015-02-13"/>
+    <cosponsor id="412626" joined="2015-02-13"/>
+    <cosponsor id="412522" joined="2015-02-13"/>
+    <cosponsor id="400422" joined="2015-02-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-13" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-03-17">
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU10" subcommittee="Constitution and Civil Justice" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Detention of persons"/>
+    <term name="Racial and ethnic relations"/>
+    <term name="U.S. history"/>
+  </subjects>
+  <amendments/>
+  <summary>2/13/2015--Introduced.
+Recognizes the historical significance of February 19, 1942, the date Executive Order 9066 was signed by President Roosevelt, restricting the freedom of Japanese Americans, German Americans, and Italian Americans, and legal resident aliens through required identification cards, travel restrictions, seizure of personal property, and incarceration.
+
+Expresses support for the goals of the Japanese American, German American, and Italian American communities in recognizing a National Day of Remembrance to increase public awareness of such events.</summary>
+</bill>

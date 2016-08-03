@@ -1,0 +1,52 @@
+<bill session="114" type="h" number="1102" updated="2015-06-06T06:27:17-04:00">
+  <state datetime="2015-02-26">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-26"/>
+  </status>
+  <introduced datetime="2015-02-26"/>
+  <titles>
+    <title type="short" as="introduced">Police Accountability Act of 2015</title>
+    <title type="official" as="introduced">To amend title 18, United States Code, to provide a penalty for assault or homicide committed by certain State or local law enforcement officers, and for other purposes.</title>
+  </titles>
+  <sponsor id="412199"/>
+  <cosponsors>
+    <cosponsor id="412404" joined="2015-02-26"/>
+    <cosponsor id="412379" joined="2015-02-26"/>
+    <cosponsor id="400074" joined="2015-02-26"/>
+    <cosponsor id="400639" joined="2015-02-26"/>
+    <cosponsor id="412215" joined="2015-02-26"/>
+    <cosponsor id="400162" joined="2015-03-04"/>
+    <cosponsor id="400237" joined="2015-02-26"/>
+    <cosponsor id="400295" joined="2015-02-26"/>
+    <cosponsor id="400333" joined="2015-02-26"/>
+    <cosponsor id="400350" joined="2015-02-26"/>
+    <cosponsor id="400402" joined="2015-02-26"/>
+    <cosponsor id="412412" joined="2015-02-26"/>
+    <cosponsor id="412192" joined="2015-02-26" withdrawn="2015-03-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-26" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-03-31">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Criminal procedure and sentencing"/>
+    <term name="Law enforcement administration and funding"/>
+    <term name="Law enforcement officers"/>
+    <term name="Violent crime"/>
+  </subjects>
+  <amendments/>
+  <summary>2/26/2015--Introduced.
+Police Accountability Act of 2015
+
+ Amends the federal criminal code to require a state or local law enforcement officer in a public agency which receives federal funding under the Edward Byrne Memorial Justice Assistance Grant Program, who engages in conduct in the line of duty that would constitute murder or manslaughter if it were to occur in the special maritime and territorial jurisdiction of the United States, to be punished as provided for that offense under federal law.</summary>
+</bill>

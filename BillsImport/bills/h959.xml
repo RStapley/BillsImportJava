@@ -1,0 +1,55 @@
+<bill session="114" type="h" number="959" updated="2015-07-10T04:47:26-04:00">
+  <state datetime="2015-07-09">REPORTED</state>
+  <status>
+    <unknown datetime="2015-07-09"/>
+  </status>
+  <introduced datetime="2015-02-12"/>
+  <titles>
+    <title type="short" as="introduced">Medgar Evers House Study Act</title>
+    <title type="official" as="introduced">To authorize the Secretary of the Interior to conduct a special resource study of the Medgar Evers House, located in Jackson, Mississippi, and for other purposes.</title>
+  </titles>
+  <sponsor id="400402"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-02-12" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2015-03-16">
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+    </action>
+    <action datetime="2015-06-16">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="2015-07-08">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2015-07-09">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-07-09" state="REPORTED">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+    </calendar>
+    <action datetime="2015-07-09">
+      <text>Subcommittee on Federal Lands Discharged.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII10" subcommittee="Federal Lands" name="House Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Government studies and investigations"/>
+    <term name="Historic sites and heritage areas"/>
+    <term name="Mississippi"/>
+    <term name="Racial and ethnic relations"/>
+  </subjects>
+  <amendments/>
+  <summary>2/12/2015--Introduced.
+Medgar Evers House Study Act
+
+ Directs the Department of the Interior to conduct a special resource study of the home of the late civil rights activist Medgar Evers, which is located at 2332 Margaret Walker Alexander Drive in Jackson, Mississippi.
+
+Requires Interior to evaluate the national significance of such site and determine the suitability and feasibility of designating it as a unit of the National Park System.</summary>
+</bill>

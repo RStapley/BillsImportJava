@@ -1,0 +1,50 @@
+<bill session="114" type="h" number="1033" updated="2015-07-11T06:27:15-04:00">
+  <state datetime="2015-02-24">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-24"/>
+  </status>
+  <introduced datetime="2015-02-24"/>
+  <titles>
+    <title type="short" as="introduced">John P. Parker House Study Act</title>
+    <title type="official" as="introduced">To direct the Secretary of the Interior to conduct a special resource study to determine the suitability and feasibility of establishing the John P. Parker House in Ripley, Ohio, as a unit of the National Park System.</title>
+  </titles>
+  <sponsor id="412565"/>
+  <cosponsors>
+    <cosponsor id="412327" joined="2015-02-24"/>
+    <cosponsor id="400199" joined="2015-03-06"/>
+    <cosponsor id="412566" joined="2015-02-24"/>
+    <cosponsor id="400211" joined="2015-02-24"/>
+    <cosponsor id="400295" joined="2015-02-24"/>
+    <cosponsor id="400333" joined="2015-02-24"/>
+    <cosponsor id="400352" joined="2015-02-24"/>
+    <cosponsor id="412461" joined="2015-02-24"/>
+    <cosponsor id="412412" joined="2015-04-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-24" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2015-03-16">
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="Federal Lands" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="541"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Government studies and investigations"/>
+    <term name="Historic sites and heritage areas"/>
+    <term name="Ohio"/>
+    <term name="Parks, recreation areas, trails"/>
+  </subjects>
+  <amendments/>
+  <summary>2/24/2015--Introduced.
+John P. Parker House Study Act
+
+ Directs the Department of the Interior to conduct a special resource study of the John P. Parker House in Ripley, Ohio, to determine the suitability and feasibility of establishing it as a unit of the National Park System.</summary>
+</bill>

@@ -1,0 +1,79 @@
+<bill session="114" type="h" number="1161" updated="2015-06-10T04:47:21-04:00">
+  <state datetime="2015-02-27">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-27"/>
+  </status>
+  <introduced datetime="2015-02-27"/>
+  <titles>
+    <title type="short" as="introduced">American Civil Rights Cities Act</title>
+    <title type="official" as="introduced">To direct the Secretary of the Interior to designate at least one city in the United States each year as an "American Civil Rights City", and for other purposes.</title>
+  </titles>
+  <sponsor id="412607"/>
+  <cosponsors>
+    <cosponsor id="412642" joined="2015-02-27"/>
+    <cosponsor id="400047" joined="2015-02-27"/>
+    <cosponsor id="400048" joined="2015-02-27"/>
+    <cosponsor id="412516" joined="2015-02-27"/>
+    <cosponsor id="400616" joined="2015-06-09"/>
+    <cosponsor id="412221" joined="2015-02-27"/>
+    <cosponsor id="412236" joined="2015-02-27"/>
+    <cosponsor id="412533" joined="2015-02-27"/>
+    <cosponsor id="412215" joined="2015-02-27"/>
+    <cosponsor id="400129" joined="2015-03-25"/>
+    <cosponsor id="400162" joined="2015-02-27"/>
+    <cosponsor id="400163" joined="2015-02-27"/>
+    <cosponsor id="400170" joined="2015-02-27"/>
+    <cosponsor id="400641" joined="2015-02-27"/>
+    <cosponsor id="400185" joined="2015-02-27"/>
+    <cosponsor id="400199" joined="2015-02-27"/>
+    <cosponsor id="412199" joined="2015-02-27"/>
+    <cosponsor id="400209" joined="2015-06-09"/>
+    <cosponsor id="400237" joined="2015-03-25"/>
+    <cosponsor id="412616" joined="2015-02-27"/>
+    <cosponsor id="400251" joined="2015-03-25"/>
+    <cosponsor id="400271" joined="2015-02-27"/>
+    <cosponsor id="400661" joined="2015-02-27"/>
+    <cosponsor id="412527" joined="2015-02-27"/>
+    <cosponsor id="412606" joined="2015-03-25"/>
+    <cosponsor id="412585" joined="2015-02-27"/>
+    <cosponsor id="412308" joined="2015-02-27"/>
+    <cosponsor id="400326" joined="2015-02-27"/>
+    <cosponsor id="412396" joined="2015-02-27"/>
+    <cosponsor id="412522" joined="2015-02-27"/>
+    <cosponsor id="412579" joined="2015-03-25"/>
+    <cosponsor id="412412" joined="2015-02-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-27" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2015-03-23">
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="Federal Lands" name="House Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Alabama"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Disability and health-based discrimination"/>
+    <term name="Historic sites and heritage areas"/>
+    <term name="Museums, exhibitions, cultural centers"/>
+    <term name="North Carolina"/>
+    <term name="Racial and ethnic relations"/>
+    <term name="Religion"/>
+    <term name="Sex, gender, sexual orientation discrimination"/>
+    <term name="U.S. history"/>
+  </subjects>
+  <amendments/>
+  <summary>2/27/2015--Introduced.
+American Civil Rights Cities Act
+
+Requires the National Park Service to designate at least one city in the United States each year as an "American Civil Rights City" based on the city's: (1) contributions to protect civil rights by preventing discrimination; and (2) efforts to highlight the struggle of the United States to secure civil rights and liberties through preservation and celebration, including the establishment of historical organizations or museums and recognition of civil rights leaders.
+
+Designates Greensboro, North Carolina, and Selma, Alabama, as the first cities to have that designation.</summary>
+</bill>

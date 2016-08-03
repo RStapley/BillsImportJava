@@ -1,0 +1,51 @@
+<bill session="114" type="h" number="1341" updated="2015-05-02T06:29:46-04:00">
+  <state datetime="2015-03-06">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-06"/>
+  </status>
+  <introduced datetime="2015-03-06"/>
+  <titles>
+    <title type="short" as="introduced">Fair Access to Health Care Act of 2015</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to adjust the phaseout of the health insurance tax credit for geographic variations in the cost-of-living.</title>
+  </titles>
+  <sponsor id="400403"/>
+  <cosponsors>
+    <cosponsor id="400062" joined="2015-03-06"/>
+    <cosponsor id="400124" joined="2015-03-06"/>
+    <cosponsor id="400129" joined="2015-03-06"/>
+    <cosponsor id="412382" joined="2015-03-06"/>
+    <cosponsor id="400185" joined="2015-03-06"/>
+    <cosponsor id="412511" joined="2015-03-06"/>
+    <cosponsor id="400195" joined="2015-03-06"/>
+    <cosponsor id="400233" joined="2015-03-06"/>
+    <cosponsor id="400237" joined="2015-03-16"/>
+    <cosponsor id="412616" joined="2015-03-06"/>
+    <cosponsor id="400245" joined="2015-03-06"/>
+    <cosponsor id="412521" joined="2015-03-06"/>
+    <cosponsor id="400246" joined="2015-03-06"/>
+    <cosponsor id="400663" joined="2015-03-06"/>
+    <cosponsor id="400289" joined="2015-03-06"/>
+    <cosponsor id="400361" joined="2015-03-06"/>
+    <cosponsor id="412259" joined="2015-03-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-06" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Income tax credits"/>
+    <term name="Inflation and prices"/>
+  </subjects>
+  <amendments/>
+  <summary>3/6/2015--Introduced.
+Fair Access to Health Care Act of 2015
+
+ This bill amends the Internal Revenue Code, with respect to the health care insurance premium assistance tax credit, to adjust by a specified percentage the poverty line cap used to determine the eligibility of low-income taxpayers whose principal residence is located in a high cost area for such credit. The bill defines "specified percentage" as the product of 400% (the current poverty line cap) and the Supplemental Poverty Measure for high cost areas as determined by the Bureau of the Census.</summary>
+</bill>

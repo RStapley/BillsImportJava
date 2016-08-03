@@ -1,0 +1,33 @@
+<bill session="114" type="h" number="3286" updated="2015-08-22T06:46:47-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">HIRE Vets Act</title>
+    <title type="short" as="introduced">Honoring Investments in Recruiting and Employing American Military Veterans Act of 2015</title>
+    <title type="official" as="introduced">To encourage effective, voluntary private sector investments to recruit, employ, and retain men and women who have served in the United States military with annual presidential awards to private sector employers recognizing such efforts, and for other purposes.</title>
+  </titles>
+  <sponsor id="412513"/>
+  <cosponsors>
+    <cosponsor id="412532" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-29">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1167"/>
+    </action>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+</bill>

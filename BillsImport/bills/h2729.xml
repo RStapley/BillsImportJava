@@ -1,0 +1,40 @@
+<bill session="114" type="h" number="2729" updated="2015-08-22T04:47:12-04:00">
+  <state datetime="2015-06-11">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-11"/>
+  </status>
+  <introduced datetime="2015-06-11"/>
+  <titles>
+    <title type="short" as="introduced">American Export Promotion Act of 2015</title>
+    <title type="official" as="introduced">To authorize appropriations to the Secretary of Commerce to establish public-private partnerships under the Market Development Cooperator Program of the International Trade Administration, and for other purposes.</title>
+  </titles>
+  <sponsor id="412652"/>
+  <cosponsors>
+    <cosponsor id="412466" joined="2015-06-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-11" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2015-08-20">
+      <text>Referred to the Subcommittee on Terrorism, Nonproliferation, and Trade.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSFA18" subcommittee="Terrorism, Nonproliferation, and Trade" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1570"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+  <summary>6/11/2015--Introduced.
+American Export Promotion Act of 2015
+
+ Authorizes appropriations for the Manufacturing and Services unit of the International Trade Administration (ITA) of the Department of Commerce for the ITA's Market Development Cooperator Program.
+
+Requires, in the use of such funds, a preference to be given to activities that:
+
+ assist small- and medium-sized U.S. businesses, and will create or sustain the greatest number of jobs or obtain the maximum return on investment.</summary>
+</bill>

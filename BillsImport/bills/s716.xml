@@ -1,0 +1,40 @@
+<bill session="114" type="s" number="716" updated="2015-03-28T06:39:25-04:00">
+  <state datetime="2015-03-11">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-11"/>
+  </status>
+  <introduced datetime="2015-03-11"/>
+  <titles>
+    <title type="short" as="introduced">Seniors' Tax Simplification Act of 2015</title>
+    <title type="official" as="introduced">A bill to allow seniors to file their Federal income tax on a new Form 1040SR.</title>
+  </titles>
+  <sponsor id="412491"/>
+  <cosponsors>
+    <cosponsor id="300019" joined="2015-03-11"/>
+    <cosponsor id="412390" joined="2015-03-11"/>
+    <cosponsor id="412218" joined="2015-03-11"/>
+    <cosponsor id="412495" joined="2015-03-16"/>
+    <cosponsor id="300078" joined="2015-03-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-11" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="1397"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Aging"/>
+    <term name="Tax administration and collection, taxpayers"/>
+  </subjects>
+  <amendments/>
+  <summary>3/11/2015--Introduced.
+Seniors' Tax Simplification Act of 2015 
+
+This bill directs the Internal Revenue Service to make available to taxpayers who have turned age 65 at the close of the taxable year&#160;a new federal income tax Form 1040SR (similar to the existing Form 1040EZ). Such taxpayers can use this new form even if their income includes: (1) social security benefits; (2) distributions from qualified retirement plans, annuities, or other such deferred payment arrangements; (3) interest and dividends; or (4) capital gains and losses.</summary>
+</bill>

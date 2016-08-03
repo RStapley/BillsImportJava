@@ -1,0 +1,48 @@
+<bill session="114" type="s" number="1893" updated="2015-08-07T04:47:45-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">Mental Health Awareness and Improvement Act of 2015</title>
+    <title type="official" as="introduced">A bill to reauthorize and improve programs related to mental health and substance use disorders.</title>
+  </titles>
+  <sponsor id="300002"/>
+  <cosponsors>
+    <cosponsor id="412493" joined="2015-07-29"/>
+    <cosponsor id="400013" joined="2015-07-29"/>
+    <cosponsor id="412330" joined="2015-07-29"/>
+    <cosponsor id="412490" joined="2015-07-29"/>
+    <cosponsor id="412246" joined="2015-07-29"/>
+    <cosponsor id="412269" joined="2015-07-29"/>
+    <cosponsor id="300025" joined="2015-07-30"/>
+    <cosponsor id="412205" joined="2015-08-06"/>
+    <cosponsor id="300038" joined="2015-07-29"/>
+    <cosponsor id="300041" joined="2015-07-29"/>
+    <cosponsor id="412378" joined="2015-07-29"/>
+    <cosponsor id="412554" joined="2015-07-29"/>
+    <cosponsor id="400194" joined="2015-07-29"/>
+    <cosponsor id="400222" joined="2015-07-29"/>
+    <cosponsor id="300073" joined="2015-07-29"/>
+    <cosponsor id="300075" joined="2015-08-03"/>
+    <cosponsor id="412194" joined="2015-07-29"/>
+    <cosponsor id="300076" joined="2015-07-29"/>
+    <cosponsor id="300083" joined="2015-07-29"/>
+    <cosponsor id="400413" joined="2015-07-29"/>
+    <cosponsor id="400432" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+</bill>

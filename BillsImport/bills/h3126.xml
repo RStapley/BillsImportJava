@@ -1,0 +1,42 @@
+<bill session="114" type="h" number="3126" updated="2015-07-30T04:50:29-04:00">
+  <state datetime="2015-07-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-21"/>
+  </status>
+  <introduced datetime="2015-07-21"/>
+  <titles>
+    <title type="official" as="introduced">To prohibit the Commissioner of Social Security from furnishing the name of any individual in a report to the National Instant Criminal Background Check System unless a Federal court has determined the individual to be mentally defective.</title>
+  </titles>
+  <sponsor id="412630"/>
+  <cosponsors>
+    <cosponsor id="412655" joined="2015-07-23"/>
+    <cosponsor id="412541" joined="2015-07-28"/>
+    <cosponsor id="412436" joined="2015-07-21"/>
+    <cosponsor id="400655" joined="2015-07-28"/>
+    <cosponsor id="412400" joined="2015-07-23"/>
+    <cosponsor id="412275" joined="2015-07-23"/>
+    <cosponsor id="412485" joined="2015-07-28"/>
+    <cosponsor id="412454" joined="2015-07-28"/>
+    <cosponsor id="412550" joined="2015-07-28"/>
+    <cosponsor id="400209" joined="2015-07-21"/>
+    <cosponsor id="412540" joined="2015-07-29"/>
+    <cosponsor id="412302" joined="2015-07-29"/>
+    <cosponsor id="412443" joined="2015-07-23"/>
+    <cosponsor id="412310" joined="2015-07-23"/>
+    <cosponsor id="400341" joined="2015-07-23"/>
+    <cosponsor id="400440" joined="2015-07-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-21" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+  </subjects>
+  <amendments/>
+</bill>

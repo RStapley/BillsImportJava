@@ -1,0 +1,118 @@
+<bill session="114" type="h" number="2449" updated="2015-07-30T04:49:27-04:00">
+  <state datetime="2015-05-19">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-19"/>
+  </status>
+  <introduced datetime="2015-05-19"/>
+  <titles>
+    <title type="short" as="introduced">Every Child Deserves a Family Act</title>
+    <title type="official" as="introduced">To prohibit discrimination in adoption or foster care placements based on the sexual orientation, gender identity, or marital status of any prospective adoptive or foster parent, or the sexual orientation or gender identity of the child involved.</title>
+  </titles>
+  <sponsor id="400240"/>
+  <cosponsors>
+    <cosponsor id="412607" joined="2015-06-12"/>
+    <cosponsor id="412615" joined="2015-07-29"/>
+    <cosponsor id="412404" joined="2015-05-19"/>
+    <cosponsor id="412565" joined="2015-05-21"/>
+    <cosponsor id="400021" joined="2015-05-19"/>
+    <cosponsor id="400033" joined="2015-05-19"/>
+    <cosponsor id="400062" joined="2015-05-19"/>
+    <cosponsor id="412517" joined="2015-05-19"/>
+    <cosponsor id="412571" joined="2015-05-19"/>
+    <cosponsor id="412470" joined="2015-05-19"/>
+    <cosponsor id="412600" joined="2015-05-19"/>
+    <cosponsor id="412236" joined="2015-06-23"/>
+    <cosponsor id="400080" joined="2015-05-19"/>
+    <cosponsor id="400087" joined="2015-05-19"/>
+    <cosponsor id="400093" joined="2015-06-12"/>
+    <cosponsor id="400097" joined="2015-05-19"/>
+    <cosponsor id="400100" joined="2015-06-23"/>
+    <cosponsor id="400101" joined="2015-05-19"/>
+    <cosponsor id="412544" joined="2015-05-19"/>
+    <cosponsor id="412505" joined="2015-05-19"/>
+    <cosponsor id="412613" joined="2015-07-08"/>
+    <cosponsor id="412385" joined="2015-05-19"/>
+    <cosponsor id="400111" joined="2015-05-19"/>
+    <cosponsor id="400114" joined="2015-05-19"/>
+    <cosponsor id="412533" joined="2015-05-19"/>
+    <cosponsor id="412263" joined="2015-05-19"/>
+    <cosponsor id="412215" joined="2015-06-12"/>
+    <cosponsor id="400122" joined="2015-05-21"/>
+    <cosponsor id="412529" joined="2015-06-12"/>
+    <cosponsor id="412327" joined="2015-05-21"/>
+    <cosponsor id="400162" joined="2015-06-12"/>
+    <cosponsor id="412584" joined="2015-05-21"/>
+    <cosponsor id="400641" joined="2015-07-16"/>
+    <cosponsor id="412282" joined="2015-07-08"/>
+    <cosponsor id="400195" joined="2015-07-08"/>
+    <cosponsor id="400199" joined="2015-05-19"/>
+    <cosponsor id="412435" joined="2015-07-08"/>
+    <cosponsor id="412557" joined="2015-05-19"/>
+    <cosponsor id="400230" joined="2015-07-08"/>
+    <cosponsor id="400232" joined="2015-07-08"/>
+    <cosponsor id="400233" joined="2015-07-08"/>
+    <cosponsor id="400238" joined="2015-05-19"/>
+    <cosponsor id="412616" joined="2015-05-19"/>
+    <cosponsor id="400245" joined="2015-07-08"/>
+    <cosponsor id="412521" joined="2015-05-19"/>
+    <cosponsor id="412562" joined="2015-05-19"/>
+    <cosponsor id="400663" joined="2015-07-16"/>
+    <cosponsor id="400259" joined="2015-05-19"/>
+    <cosponsor id="400262" joined="2015-05-19"/>
+    <cosponsor id="400271" joined="2015-05-19"/>
+    <cosponsor id="400661" joined="2015-07-08"/>
+    <cosponsor id="412527" joined="2015-05-19"/>
+    <cosponsor id="400289" joined="2015-05-19"/>
+    <cosponsor id="408211" joined="2015-06-23"/>
+    <cosponsor id="400295" joined="2015-05-19"/>
+    <cosponsor id="412575" joined="2015-07-16"/>
+    <cosponsor id="400309" joined="2015-05-19"/>
+    <cosponsor id="412192" joined="2015-06-23"/>
+    <cosponsor id="412523" joined="2015-05-19"/>
+    <cosponsor id="412307" joined="2015-05-19"/>
+    <cosponsor id="412585" joined="2015-05-21"/>
+    <cosponsor id="412308" joined="2015-05-19"/>
+    <cosponsor id="412331" joined="2015-06-12"/>
+    <cosponsor id="400333" joined="2015-05-19"/>
+    <cosponsor id="400344" joined="2015-05-19"/>
+    <cosponsor id="400347" joined="2015-07-16"/>
+    <cosponsor id="400360" joined="2015-05-19"/>
+    <cosponsor id="400361" joined="2015-05-19"/>
+    <cosponsor id="400379" joined="2015-07-08"/>
+    <cosponsor id="412514" joined="2015-05-19"/>
+    <cosponsor id="400403" joined="2015-05-19"/>
+    <cosponsor id="412318" joined="2015-05-19"/>
+    <cosponsor id="412254" joined="2015-05-19"/>
+    <cosponsor id="400415" joined="2015-05-19"/>
+    <cosponsor id="412522" joined="2015-05-19"/>
+    <cosponsor id="400623" joined="2015-07-16"/>
+    <cosponsor id="412644" joined="2015-05-19"/>
+    <cosponsor id="412412" joined="2015-06-12"/>
+    <cosponsor id="412211" joined="2015-05-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-19" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1382"/>
+  </relatedbills>
+  <subjects>
+    <term name="Families"/>
+  </subjects>
+  <amendments/>
+  <summary>5/19/2015--Introduced.
+Every Child Deserves a Family Act
+
+Prohibits adoption or foster care placement service entities that receive federal assistance (or that contract with entities receiving such assistance) from using the sexual orientation, gender identity, or marital status of a prospective adoptive or foster parent, or from using the sexual orientation or gender identity of the child, to: (1) deny a person the opportunity to become an adoptive or foster parent; (2) delay or deny the placement of a child for adoption or into foster care; or (3) require different or additional screenings or procedures for adoptive or foster placement decisions, including whether to seek the termination of birth parent rights or to make a child legally available for adoptive placement.
+
+Allows individuals aggrieved by a violation of this Act to bring an action seeking relief in federal court.
+
+Directs the Department of Health and Human Services (HHS) to publish guidance on legal compliance and to assist entities with casework practices, recruitment efforts, and cultural competency training.
+
+Allows HHS to withhold payments under part B (Child and Family Services) or part E (Foster Care and Adoption Assistance) of title IV of the Social Security Act to states that fail to comply with this Act.</summary>
+</bill>

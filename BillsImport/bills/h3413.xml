@@ -1,0 +1,29 @@
+<bill session="114" type="h" number="3413" updated="2015-08-15T06:47:55-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">Efficient Space Exploration Act</title>
+    <title type="official" as="introduced">To require a report on requirements and risks in connection with the use of radioisotopic power systems for space exploration beyond low-Earth orbit.</title>
+  </titles>
+  <sponsor id="412461"/>
+  <cosponsors>
+    <cosponsor id="412327" joined="2015-07-29"/>
+    <cosponsor id="412460" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the House Committee on Science, Space, and Technology.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science, Space, and Technology" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Science, technology, communications"/>
+  </subjects>
+  <amendments/>
+</bill>

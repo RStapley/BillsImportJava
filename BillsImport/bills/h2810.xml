@@ -1,0 +1,51 @@
+<bill session="114" type="h" number="2810" updated="2015-07-08T04:49:08-04:00">
+  <state datetime="2015-06-17">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-17"/>
+  </status>
+  <introduced datetime="2015-06-17"/>
+  <titles>
+    <title type="short" as="introduced">Stay in Place, Cut the Waste Act of 2015</title>
+    <title type="official" as="introduced">To provide for a review of efforts to reduce Federal agency travel expenses through the use of video conferencing and a plan to achieve additional reductions in such expenses through the use of video conferencing, to implement such plan through rescissions of appropriations, and for other purposes.</title>
+  </titles>
+  <sponsor id="400646"/>
+  <cosponsors>
+    <cosponsor id="412512" joined="2015-06-17"/>
+    <cosponsor id="412537" joined="2015-06-17"/>
+    <cosponsor id="412517" joined="2015-06-17"/>
+    <cosponsor id="412271" joined="2015-06-17"/>
+    <cosponsor id="412513" joined="2015-06-17"/>
+    <cosponsor id="400081" joined="2015-06-17"/>
+    <cosponsor id="412566" joined="2015-07-07"/>
+    <cosponsor id="412331" joined="2015-06-25"/>
+    <cosponsor id="412489" joined="2015-06-17"/>
+    <cosponsor id="412315" joined="2015-06-17"/>
+    <cosponsor id="412509" joined="2015-06-17"/>
+    <cosponsor id="412317" joined="2015-06-17"/>
+    <cosponsor id="412239" joined="2015-06-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-17" state="REFERRED">
+      <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Appropriations, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-06-17">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2015-06-17">
+      <text>Referred to House Appropriations</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+    <committee code="HSAP" name="House Appropriations" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+  </subjects>
+  <amendments/>
+  <summary>6/17/2015--Introduced.
+Stay in Place, Cut the Waste Act of 2015 
+
+This bill requires the Office of Management and Budget (OMB) to: (1) review the extent to which federal agencies have reduced travel expenses by using video conferencing, and (2) develop a plan to reduce federal agency travel expenses by 50% below FY2015 levels or the greatest reduction OMB considers feasible by FY2019. Beginning in FY2019, OMB must implement the plan by rescinding from agency budgets the amounts proposed for reduction by the plan.</summary>
+</bill>

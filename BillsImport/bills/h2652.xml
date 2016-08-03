@@ -1,0 +1,92 @@
+<bill session="114" type="h" number="2652" updated="2015-07-24T04:48:37-04:00">
+  <state datetime="2015-06-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-04"/>
+  </status>
+  <introduced datetime="2015-06-04"/>
+  <titles>
+    <title type="short" as="introduced">Protecting Patients and Physicians Against Coding Act of 2015</title>
+    <title type="official" as="introduced">To provide a 2-year grace period for physicians and other health care providers in transitioning from the use of ICD-9 to ICD-10.</title>
+  </titles>
+  <sponsor id="412608"/>
+  <cosponsors>
+    <cosponsor id="412630" joined="2015-07-23"/>
+    <cosponsor id="400004" joined="2015-06-04"/>
+    <cosponsor id="412625" joined="2015-06-10"/>
+    <cosponsor id="412655" joined="2015-06-04"/>
+    <cosponsor id="400018" joined="2015-06-04"/>
+    <cosponsor id="412635" joined="2015-06-04"/>
+    <cosponsor id="400032" joined="2015-06-08"/>
+    <cosponsor id="412627" joined="2015-06-04"/>
+    <cosponsor id="400636" joined="2015-06-04"/>
+    <cosponsor id="412567" joined="2015-06-04"/>
+    <cosponsor id="412395" joined="2015-06-04"/>
+    <cosponsor id="412619" joined="2015-06-04"/>
+    <cosponsor id="412601" joined="2015-06-04"/>
+    <cosponsor id="412622" joined="2015-06-04"/>
+    <cosponsor id="412472" joined="2015-06-04"/>
+    <cosponsor id="412480" joined="2015-06-17"/>
+    <cosponsor id="400640" joined="2015-06-17"/>
+    <cosponsor id="400141" joined="2015-06-04"/>
+    <cosponsor id="412485" joined="2015-06-04"/>
+    <cosponsor id="412661" joined="2015-06-12"/>
+    <cosponsor id="412434" joined="2015-06-10"/>
+    <cosponsor id="412444" joined="2015-06-04"/>
+    <cosponsor id="412486" joined="2015-06-04"/>
+    <cosponsor id="412609" joined="2015-06-08"/>
+    <cosponsor id="412663" joined="2015-07-23"/>
+    <cosponsor id="412465" joined="2015-06-04"/>
+    <cosponsor id="412191" joined="2015-06-04"/>
+    <cosponsor id="412624" joined="2015-06-04"/>
+    <cosponsor id="412656" joined="2015-06-04"/>
+    <cosponsor id="412294" joined="2015-06-04"/>
+    <cosponsor id="412611" joined="2015-07-23"/>
+    <cosponsor id="412540" joined="2015-06-08"/>
+    <cosponsor id="400626" joined="2015-06-04"/>
+    <cosponsor id="412653" joined="2015-06-04"/>
+    <cosponsor id="412572" joined="2015-06-04"/>
+    <cosponsor id="412310" joined="2015-06-12"/>
+    <cosponsor id="400341" joined="2015-06-04"/>
+    <cosponsor id="412426" joined="2015-06-23"/>
+    <cosponsor id="412650" joined="2015-06-12"/>
+    <cosponsor id="400606" joined="2015-06-04"/>
+    <cosponsor id="400607" joined="2015-06-04"/>
+    <cosponsor id="400367" joined="2015-06-04"/>
+    <cosponsor id="412392" joined="2015-06-04"/>
+    <cosponsor id="412670" joined="2015-06-04"/>
+    <cosponsor id="412610" joined="2015-06-04"/>
+    <cosponsor id="412578" joined="2015-06-15"/>
+    <cosponsor id="412628" joined="2015-06-24"/>
+    <cosponsor id="412640" joined="2015-06-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-04" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-06-04">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-06-04">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-06-05">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+  <summary>6/4/2015--Introduced.
+Protecting Patients and Physicians Against Coding Act of 2015 
+
+The Department of Health and Human Services (HHS), in carrying out regulations providing for the replacement of ICD-9 (International Classification of Diseases-9) with ICD-10 as a standard code set, shall provide for a two-year grace period during which physicians and other health care providers submitting claims and other documents using ICD-10 are not penalized for errors, mistakes, and malfunctions relating to the transition to such code set. HHS shall also give these practitioners assistance during the grace period.
+
+The Government Accountability Office shall study this transition for Congress.</summary>
+</bill>

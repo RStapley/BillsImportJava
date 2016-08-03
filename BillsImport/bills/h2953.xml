@@ -1,0 +1,26 @@
+<bill session="114" type="h" number="2953" updated="2015-07-25T06:43:40-04:00">
+  <state datetime="2015-07-07">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-07"/>
+  </status>
+  <introduced datetime="2015-07-07"/>
+  <titles>
+    <title type="short" as="introduced">Housing Assistance Reform Act of 2015</title>
+    <title type="official" as="introduced">To expand the Moving to Work and Rental Assistance demonstration programs of the Department of Housing and Urban Development, and for other purposes.</title>
+  </titles>
+  <sponsor id="412407"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-07" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Housing and community development funding"/>
+  </subjects>
+  <amendments/>
+</bill>

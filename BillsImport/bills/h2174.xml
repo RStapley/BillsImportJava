@@ -1,0 +1,51 @@
+<bill session="114" type="h" number="2174" updated="2015-06-13T06:36:40-04:00">
+  <state datetime="2015-04-30">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-30"/>
+  </status>
+  <introduced datetime="2015-04-30"/>
+  <titles>
+    <title type="short" as="introduced">Native American Languages Reauthorization Act of 2015</title>
+    <title type="official" as="introduced">To amend the Native American Programs Act of 1974 to provide flexibility and reauthorization to ensure the survival and continuing vitality of Native American languages.</title>
+  </titles>
+  <sponsor id="412293"/>
+  <cosponsors>
+    <cosponsor id="400077" joined="2015-04-30"/>
+    <cosponsor id="400162" joined="2015-04-30"/>
+    <cosponsor id="400185" joined="2015-04-30"/>
+    <cosponsor id="412511" joined="2015-05-12"/>
+    <cosponsor id="412558" joined="2015-05-12"/>
+    <cosponsor id="400259" joined="2015-04-30"/>
+    <cosponsor id="400313" joined="2015-04-30"/>
+    <cosponsor id="400347" joined="2015-04-30"/>
+    <cosponsor id="412519" joined="2015-04-30"/>
+    <cosponsor id="400440" joined="2015-04-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-30" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="1163"/>
+  </relatedbills>
+  <subjects>
+    <term name="Native Americans"/>
+    <term name="Department of the Interior"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Foreign language and bilingual programs"/>
+    <term name="Indian social and development programs"/>
+  </subjects>
+  <amendments/>
+  <summary>4/30/2015--Introduced.
+Native American Languages Reauthorization Act of 2015
+
+ Amends the Native American Programs Act of 1974 to reauthorize through FY2020 and revise a grant program administered by the Administration for Native Americans at the Department of Health and Human Services (HHS) to ensure the survival and continuing vitality of Native American languages.
+
+Decreases the required minimum number of enrollees in educational programs funded by the grant program from:
+
+ 10 to 5 enrollees in Native American language nests, and 15 to 10 enrollees in the Native American language survival schools. Changes the duration of grants provided under the program.</summary>
+</bill>

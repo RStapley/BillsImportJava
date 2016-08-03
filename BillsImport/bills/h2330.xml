@@ -1,0 +1,53 @@
+<bill session="114" type="h" number="2330" updated="2015-07-23T04:48:36-04:00">
+  <state datetime="2015-05-14">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-14"/>
+  </status>
+  <introduced datetime="2015-05-14"/>
+  <titles>
+    <title type="short" as="introduced">National Criminal Justice Commission Act of 2015</title>
+    <title type="official" as="introduced">To establish the National Criminal Justice Commission.</title>
+  </titles>
+  <sponsor id="412385"/>
+  <cosponsors>
+    <cosponsor id="412404" joined="2015-05-19"/>
+    <cosponsor id="412257" joined="2015-05-20"/>
+    <cosponsor id="400199" joined="2015-07-21"/>
+    <cosponsor id="412543" joined="2015-05-21"/>
+    <cosponsor id="412638" joined="2015-07-22"/>
+    <cosponsor id="412311" joined="2015-05-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-14" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-06-26">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="1119"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Advisory bodies"/>
+    <term name="Crime prevention"/>
+    <term name="Government studies and investigations"/>
+    <term name="Judicial procedure and administration"/>
+    <term name="Law enforcement administration and funding"/>
+    <term name="Violent crime"/>
+  </subjects>
+  <amendments/>
+  <summary>5/14/2015--Introduced.
+National Criminal Justice Commission Act of 2015
+
+ Establishes the National Criminal Justice Commission.
+
+Directs the Commission to: (1) undertake a comprehensive review of all areas of the criminal justice system, including federal, state, local, and tribal governments' criminal justice costs, practices, and policies; (2) submit to the President and Congress recommendations for changes in federal oversight, policies, practices, and laws designed to prevent, deter, and reduce crime and violence, reduce recidivism, improve cost-effectiveness, and ensure the interests of justice at every step of the criminal justice system; and (3) disseminate to the federal government and to state, local, and tribal governments a report that details its findings and supplemental guidance regarding the criminal justice system at all levels of government.
+
+Expresses the sense of Congress that the Commission should work toward unanimously supported findings and supplemental guidance.</summary>
+</bill>

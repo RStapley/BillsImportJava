@@ -1,0 +1,90 @@
+<bill session="114" type="h" number="918" updated="2015-08-01T04:50:29-04:00">
+  <state datetime="2015-02-12">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-12"/>
+  </status>
+  <introduced datetime="2015-02-12"/>
+  <titles>
+    <title type="short" as="introduced">Social Security Disability Insurance and Unemployment Benefits Double Dip Elimination Act</title>
+    <title type="official" as="introduced">To amend title II of the Social Security Act to prevent concurrent receipt of unemployment benefits and Social Security disability insurance, and for other purposes.</title>
+  </titles>
+  <sponsor id="400206"/>
+  <cosponsors>
+    <cosponsor id="412625" joined="2015-07-23"/>
+    <cosponsor id="412655" joined="2015-06-10"/>
+    <cosponsor id="412478" joined="2015-02-12"/>
+    <cosponsor id="400032" joined="2015-07-15"/>
+    <cosponsor id="400636" joined="2015-02-12"/>
+    <cosponsor id="400046" joined="2015-06-24"/>
+    <cosponsor id="412605" joined="2015-06-15"/>
+    <cosponsor id="400077" joined="2015-02-25"/>
+    <cosponsor id="412563" joined="2015-07-31"/>
+    <cosponsor id="412480" joined="2015-04-17"/>
+    <cosponsor id="400154" joined="2015-07-27"/>
+    <cosponsor id="412661" joined="2015-07-21"/>
+    <cosponsor id="412434" joined="2015-07-09"/>
+    <cosponsor id="400175" joined="2015-03-13"/>
+    <cosponsor id="412609" joined="2015-02-25"/>
+    <cosponsor id="412437" joined="2015-03-19"/>
+    <cosponsor id="400196" joined="2015-06-24"/>
+    <cosponsor id="412284" joined="2015-07-29"/>
+    <cosponsor id="412465" joined="2015-02-12"/>
+    <cosponsor id="400220" joined="2015-06-24"/>
+    <cosponsor id="412510" joined="2015-06-24"/>
+    <cosponsor id="412256" joined="2015-07-23"/>
+    <cosponsor id="400656" joined="2015-07-29"/>
+    <cosponsor id="412540" joined="2015-06-23"/>
+    <cosponsor id="412634" joined="2015-06-10"/>
+    <cosponsor id="412474" joined="2015-06-10"/>
+    <cosponsor id="412302" joined="2015-06-23"/>
+    <cosponsor id="412443" joined="2015-04-13"/>
+    <cosponsor id="412551" joined="2015-06-10"/>
+    <cosponsor id="412633" joined="2015-06-25"/>
+    <cosponsor id="412393" joined="2015-02-12"/>
+    <cosponsor id="400660" joined="2015-02-12"/>
+    <cosponsor id="412462" joined="2015-02-12"/>
+    <cosponsor id="412310" joined="2015-06-10"/>
+    <cosponsor id="412426" joined="2015-06-02"/>
+    <cosponsor id="412202" joined="2015-07-14"/>
+    <cosponsor id="400351" joined="2015-02-12"/>
+    <cosponsor id="400606" joined="2015-06-10"/>
+    <cosponsor id="412314" joined="2015-02-12"/>
+    <cosponsor id="412399" joined="2015-05-01"/>
+    <cosponsor id="412417" joined="2015-06-12"/>
+    <cosponsor id="412217" joined="2015-02-12"/>
+    <cosponsor id="412596" joined="2015-06-11"/>
+    <cosponsor id="412392" joined="2015-02-25"/>
+    <cosponsor id="400406" joined="2015-02-12"/>
+    <cosponsor id="412428" joined="2015-02-12"/>
+    <cosponsor id="412640" joined="2015-07-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-11">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H927"/>
+    </action>
+    <action datetime="2015-02-12" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="499"/>
+  </relatedbills>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Disability assistance"/>
+    <term name="Social security and elderly assistance"/>
+    <term name="Trade adjustment assistance"/>
+    <term name="Unemployment"/>
+  </subjects>
+  <amendments/>
+  <summary>2/12/2015--Introduced.
+Social Security Disability Insurance and Unemployment Benefits Double Dip Elimination Act
+
+ Amends title II (Old Age, Survivors and Disability Insurance) of the Social Security Act to declare that for any week in whole or in part within a month that an individual is paid or determined to be eligible for unemployment compensation he or she shall be deemed to have engaged in substantial gainful activity and so be disqualified from receiving Social Security disability benefits after a certain period has elapsed.
+
+States that, for purposes of determining services rendered by an individual during a period of trial work which will not disqualify the individual for disability benefits, the individual shall be deemed to have rendered services in a month if he or she is entitled to unemployment compensation or trade adjustment assistance for that month.</summary>
+</bill>

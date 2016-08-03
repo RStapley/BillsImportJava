@@ -1,0 +1,51 @@
+<bill session="114" type="h" number="2501" updated="2015-07-04T06:39:30-04:00">
+  <state datetime="2015-05-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-21"/>
+  </status>
+  <introduced datetime="2015-05-21"/>
+  <titles>
+    <title type="short" as="introduced">Citizens' Districts Preservation Act</title>
+    <title type="official" as="introduced">To require certain States to retain the Congressional redistricting plans in effect as of the first day of the One Hundred Fourteenth Congress until such States carry out a redistricting plan in response to the apportionment of Representatives resulting from the regular decennial census conducted in 2020.</title>
+  </titles>
+  <sponsor id="400343"/>
+  <cosponsors>
+    <cosponsor id="412516" joined="2015-05-21"/>
+    <cosponsor id="400057" joined="2015-05-21"/>
+    <cosponsor id="412513" joined="2015-05-21"/>
+    <cosponsor id="412529" joined="2015-06-23"/>
+    <cosponsor id="412612" joined="2015-05-21"/>
+    <cosponsor id="400162" joined="2015-05-21"/>
+    <cosponsor id="412511" joined="2015-05-21"/>
+    <cosponsor id="412283" joined="2015-05-21"/>
+    <cosponsor id="400196" joined="2015-05-21"/>
+    <cosponsor id="412286" joined="2015-05-21"/>
+    <cosponsor id="412614" joined="2015-05-21"/>
+    <cosponsor id="412616" joined="2015-05-21"/>
+    <cosponsor id="400245" joined="2015-05-21"/>
+    <cosponsor id="412521" joined="2015-05-21"/>
+    <cosponsor id="412295" joined="2015-05-21"/>
+    <cosponsor id="412514" joined="2015-05-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-21" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-06-16">
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU10" subcommittee="Constitution and Civil Justice" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+  </subjects>
+  <amendments/>
+  <summary>5/21/2015--Introduced.
+Citizens' Districts Preservation Act 
+
+Requires each of the states of Arizona, California, Hawaii, Idaho, New Jersey, and Washington to retain the congressional redistricting plan in effect in such state as of the first day of the 114th Congress until such state carries out a redistricting plan in response to the apportionment of Representatives resulting from the regular decennial census conducted in 2020.</summary>
+</bill>

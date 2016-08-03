@@ -1,0 +1,103 @@
+<bill session="114" type="h" number="348" updated="2015-08-01T06:22:10-04:00">
+  <state datetime="2015-03-24">REPORTED</state>
+  <status>
+    <unknown datetime="2015-03-24"/>
+  </status>
+  <introduced datetime="2015-01-14"/>
+  <titles>
+    <title type="short" as="introduced">RAPID Act</title>
+    <title type="short" as="introduced">Responsibly And Professionally Invigorating Development Act of 2015</title>
+    <title type="short" as="reported to house">RAPID Act</title>
+    <title type="short" as="reported to house">Responsibly And Professionally Invigorating Development Act of 2015</title>
+    <title type="official" as="introduced">To provide for improved coordination of agency actions in the preparation and adoption of environmental documents for permitting determinations, and for other purposes.</title>
+  </titles>
+  <sponsor id="412468"/>
+  <cosponsors>
+    <cosponsor id="412500" joined="2015-03-23"/>
+    <cosponsor id="412635" joined="2015-07-28"/>
+    <cosponsor id="412627" joined="2015-01-14"/>
+    <cosponsor id="412605" joined="2015-06-04"/>
+    <cosponsor id="412531" joined="2015-03-03"/>
+    <cosponsor id="412555" joined="2015-03-23"/>
+    <cosponsor id="412482" joined="2015-03-23"/>
+    <cosponsor id="400154" joined="2015-01-14"/>
+    <cosponsor id="400196" joined="2015-03-03"/>
+    <cosponsor id="412487" joined="2015-01-14"/>
+    <cosponsor id="412540" joined="2015-07-08"/>
+    <cosponsor id="400316" joined="2015-01-14"/>
+    <cosponsor id="412653" joined="2015-04-16"/>
+    <cosponsor id="412641" joined="2015-01-20"/>
+    <cosponsor id="412650" joined="2015-01-27"/>
+    <cosponsor id="412596" joined="2015-03-23"/>
+    <cosponsor id="400381" joined="2015-03-03"/>
+    <cosponsor id="412636" joined="2015-03-23"/>
+    <cosponsor id="412618" joined="2015-03-03"/>
+    <cosponsor id="400440" joined="2015-04-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-14" state="REFERRED">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-01-14">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2015-01-14">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2015-02-05">
+      <text>Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.</text>
+    </action>
+    <action datetime="2015-03-02">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="2015-03-23">
+      <text>Subcommittee on Regulatory Reform, Commercial And Antitrust Law Discharged.</text>
+    </action>
+    <action datetime="2015-03-24">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-03-24" state="REPORTED">
+      <text>Ordered to be Reported by the Yeas and Nays: 15 - 11.</text>
+    </calendar>
+    <action datetime="2015-07-27T12:29:00-04:00">
+      <text>Reported by the Committee on Judiciary. H. Rept. 114-228, Part I.</text>
+    </action>
+    <action datetime="2015-07-27T12:35:00-04:00">
+      <text>House Committee on Natural Resources Granted an extension for further consideration ending not later than Sept. 11, 2015.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSJU05" subcommittee="Regulatory Reform, Commercial And Antitrust Law" name="House Judiciary"/>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Congressional oversight"/>
+    <term name="Economic performance and conditions"/>
+    <term name="Environmental assessment, monitoring, research"/>
+    <term name="Executive Office of the President"/>
+    <term name="Judicial review and appeals"/>
+    <term name="Licensing and registrations"/>
+    <term name="Public participation and lobbying"/>
+  </subjects>
+  <amendments/>
+  <summary>1/14/2015--Introduced.
+Responsibly And Professionally Invigorating Development Act of 2015 or the RAPID Act
+
+ This bill establishes procedures to streamline the regulatory review, environmental decision making, and permitting process for major federal actions that are construction activities undertaken, reviewed, or funded by federal agencies.
+
+Upon the request of a lead agency responsible for preparing environmental review documents, a project sponsor is authorized to prepare environmental review documents for those activities if the agency furnishes oversight and independently evaluates, approves, and adopts the documents prior to taking action or making any approval based on the document.
+
+No more than one environmental impact statement and one environmental assessment for a project must be prepared under NEPA for a project, except for supplemental environmental documents prepared under NEPA or environmental documents prepared pursuant to a court order. After the lead agency issues a record of decision, federal agencies may only rely on the environmental document prepared by the lead agency.
+
+Projects may adopt certain environmental review documents of other projects located nearby or prepared by states under certain circumstances.
+
+The bill sets forth provisions concerning requirements for initiating and completing environmental review for a project, including for: (1) determining the range of alternatives to be considered in environmental review documents, and (2) a schedule and deadlines for completing the review.
+
+A lead agency may not use the social cost of carbon in the environmental review or environmental decision making process.
+
+Limitations are placed on claims arising under federal law seeking judicial review of a permit, license, or approval issued by a federal agency for an action subject to NEPA.</summary>
+</bill>

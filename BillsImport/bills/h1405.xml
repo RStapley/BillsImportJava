@@ -1,0 +1,48 @@
+<bill session="114" type="h" number="1405" updated="2015-05-09T06:32:57-04:00">
+  <state datetime="2015-03-17">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-17"/>
+  </status>
+  <introduced datetime="2015-03-17"/>
+  <titles>
+    <title type="short" as="introduced">RAILS Act</title>
+    <title type="short" as="introduced">Reassuring Adequate Investment in Lifesaving Systems Act</title>
+    <title type="official" as="introduced">To amend title 49, United States Code, to ensure railroad safety.</title>
+  </titles>
+  <sponsor id="400630"/>
+  <cosponsors>
+    <cosponsor id="400093" joined="2015-03-17"/>
+    <cosponsor id="412533" joined="2015-03-17"/>
+    <cosponsor id="400163" joined="2015-03-17"/>
+    <cosponsor id="412595" joined="2015-03-17"/>
+    <cosponsor id="412331" joined="2015-03-17"/>
+    <cosponsor id="400350" joined="2015-03-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-17" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2015-03-18">
+      <text>Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW14" subcommittee="Railroads, Pipelines, and Hazardous Materials" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Emergency communications systems"/>
+    <term name="Railroads"/>
+    <term name="Transportation programs funding"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+  <summary>3/17/2015--Introduced.
+Reassuring Adequate Investment in Lifesaving Systems Act or the RAILS Act
+
+This bill revises the railroad safety technology grants program. The program shall also provide for advanced communication methods for conveying hazard information between all parties in the transportation chain, spectrum acquisition, multifrequency broadband connectivity equipment, implementation and interoperability testing.
+
+The program is extended for FY2015-FY2020.</summary>
+</bill>

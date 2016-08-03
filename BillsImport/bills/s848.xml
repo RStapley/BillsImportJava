@@ -1,0 +1,35 @@
+<bill session="114" type="s" number="848" updated="2015-04-18T06:42:17-04:00">
+  <state datetime="2015-03-24">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-24"/>
+  </status>
+  <introduced datetime="2015-03-24"/>
+  <titles>
+    <title type="short" as="introduced">Resolving Environmental and Grid Reliability Conflicts Act of 2015</title>
+    <title type="official" as="introduced">A bill to clarify that compliance with an emergency order under the Federal Power Act may not be considered a violation of any Federal, State, or local environmental law or regulation, and for other purposes.</title>
+  </titles>
+  <sponsor id="412243"/>
+  <cosponsors>
+    <cosponsor id="400034" joined="2015-03-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-24" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1558"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Administrative remedies"/>
+    <term name="Electric power generation and transmission"/>
+    <term name="Emergency planning and evacuation"/>
+    <term name="Environmental regulatory procedures"/>
+    <term name="Federal Energy Regulatory Commission (FERC)"/>
+  </subjects>
+  <amendments/>
+</bill>

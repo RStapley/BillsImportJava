@@ -1,0 +1,30 @@
+<bill session="114" type="h" number="3076" updated="2015-07-29T04:49:05-04:00">
+  <state datetime="2015-07-15">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-15"/>
+  </status>
+  <introduced datetime="2015-07-15"/>
+  <titles>
+    <title type="short" as="introduced">Feeding America through Farm Flexibility Act of 2015</title>
+    <title type="official" as="introduced">To amend the Agricultural Act of 2014 to increase the number of base acres upon which agricultural producers are authorized to grow fruits and vegetables without a resulting reduction in payment acres on their farm when the resulting produce is used to help alleviate a food desert, and for other purposes.</title>
+  </titles>
+  <sponsor id="412595"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-15" state="REFERRED">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+    <action datetime="2015-07-28">
+      <text>Referred to the Subcommittee on General Farm Commodities and Risk Management.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee activity="Referral" code="HSAG16" subcommittee="General Farm Commodities and Risk Management" name="House Agriculture"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+  </subjects>
+  <amendments/>
+</bill>

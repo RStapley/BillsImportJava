@@ -1,0 +1,85 @@
+<bill session="114" type="h" number="2260" updated="2015-08-01T04:50:53-04:00">
+  <state datetime="2015-05-12">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-12"/>
+  </status>
+  <introduced datetime="2015-05-12"/>
+  <titles>
+    <title type="short" as="introduced">Parental Bereavement Act of 2015</title>
+    <title type="short" as="introduced">Sarah Grace-Farley-Kluger Act</title>
+    <title type="official" as="introduced">To amend the Family and Medical Leave Act of 1993 to provide leave because of the death of a son or daughter.</title>
+  </titles>
+  <sponsor id="400195"/>
+  <cosponsors>
+    <cosponsor id="412404" joined="2015-05-12"/>
+    <cosponsor id="412516" joined="2015-05-18"/>
+    <cosponsor id="400063" joined="2015-05-12"/>
+    <cosponsor id="412258" joined="2015-05-12"/>
+    <cosponsor id="412379" joined="2015-05-12"/>
+    <cosponsor id="412470" joined="2015-05-12"/>
+    <cosponsor id="412600" joined="2015-05-12"/>
+    <cosponsor id="412221" joined="2015-05-12"/>
+    <cosponsor id="412544" joined="2015-05-12"/>
+    <cosponsor id="400103" joined="2015-05-12"/>
+    <cosponsor id="412420" joined="2015-05-18"/>
+    <cosponsor id="412533" joined="2015-06-25"/>
+    <cosponsor id="412257" joined="2015-07-20"/>
+    <cosponsor id="412612" joined="2015-06-17"/>
+    <cosponsor id="412397" joined="2015-05-12"/>
+    <cosponsor id="400162" joined="2015-05-12"/>
+    <cosponsor id="400170" joined="2015-05-12"/>
+    <cosponsor id="400185" joined="2015-05-12"/>
+    <cosponsor id="412583" joined="2015-07-31"/>
+    <cosponsor id="400218" joined="2015-06-04"/>
+    <cosponsor id="400630" joined="2015-05-12"/>
+    <cosponsor id="400246" joined="2015-06-09"/>
+    <cosponsor id="400259" joined="2015-05-12"/>
+    <cosponsor id="400263" joined="2015-05-12"/>
+    <cosponsor id="412611" joined="2015-07-20"/>
+    <cosponsor id="400271" joined="2015-05-12"/>
+    <cosponsor id="400295" joined="2015-05-12"/>
+    <cosponsor id="412308" joined="2015-05-12"/>
+    <cosponsor id="400333" joined="2015-05-12"/>
+    <cosponsor id="400361" joined="2015-06-25"/>
+    <cosponsor id="412644" joined="2015-05-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-12" state="REFERRED">
+      <text>Referred to the Committee on Education and the Workforce, and in addition to the Committees on Oversight and Government Reform, and House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-05-12">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+    <action datetime="2015-05-12">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2015-05-12">
+      <text>Referred to House House Administration</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+    <committee code="HSHA" name="House Administration" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="473"/>
+    <bill relation="identical" session="114" type="s" number="1302"/>
+  </relatedbills>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Employee leave"/>
+    <term name="Family relationships"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Teaching, teachers, curricula"/>
+  </subjects>
+  <amendments/>
+  <summary>5/12/2015--Introduced.
+Parental Bereavement Act of 2015 or the Sarah Grace-Farley-Kluger Act
+
+Amends the Family and Medical Leave Act of 1993 to entitle an eligible employee to up to 12 workweeks of leave during any 12-month period because of the death of a son or daughter.
+
+Allows such an employee to substitute any available paid leave for any leave without pay.
+
+Applies the same leave entitlement to federal employees.</summary>
+</bill>

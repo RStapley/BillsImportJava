@@ -1,0 +1,44 @@
+<bill session="114" type="h" number="2408" updated="2015-08-01T06:39:39-04:00">
+  <state datetime="2015-05-19">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-19"/>
+  </status>
+  <introduced datetime="2015-05-19"/>
+  <titles>
+    <title type="short" as="introduced">Child Poverty Reduction Act of 2015</title>
+    <title type="official" as="introduced">To establish in the Administration for Children and Families of the Department of Health and Human Services the Federal Interagency Working Group on Reducing Child Poverty to develop a national strategy to eliminate child poverty in the United States, and for other purposes.</title>
+  </titles>
+  <sponsor id="400093"/>
+  <cosponsors>
+    <cosponsor id="400033" joined="2015-07-16"/>
+    <cosponsor id="412272" joined="2015-05-19"/>
+    <cosponsor id="400090" joined="2015-05-19"/>
+    <cosponsor id="412638" joined="2015-07-23"/>
+    <cosponsor id="400237" joined="2015-05-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-19" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Child safety and welfare"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Poverty and welfare assistance"/>
+  </subjects>
+  <amendments/>
+  <summary>5/19/2015--Introduced.
+Child Poverty Reduction Act of 2015
+
+This bill establishes in the Administration for Children and Families of the Department of Health and Human Services (HHS) the Federal Interagency Working Group on Reducing Child Poverty.
+
+The Working Group as its primary goal shall develop a national plan to reduce:
+
+ within 10 years the number of children living in poverty in the United States to half the number cited in the report of the U.S. Census Bureau on Income, Poverty, and Health Insurance Coverage in the United States: 2013; within the same 10 years the number of children living in extreme poverty in the United States to zero; and within 20 years the number of children living in poverty, extreme or otherwise, in the United States to zero. HHS shall enter into an agreement with the National Academy of Sciences for two public workshops to provide the Working Group with information to assist in the development of the plan.</summary>
+</bill>

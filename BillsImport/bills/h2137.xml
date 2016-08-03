@@ -1,0 +1,48 @@
+<bill session="114" type="h" number="2137" updated="2015-07-18T06:36:41-04:00">
+  <state datetime="2015-04-30">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-30"/>
+  </status>
+  <introduced datetime="2015-04-30"/>
+  <titles>
+    <title type="short" as="introduced">Federal Law Enforcement Self-Defense and Protection Act of 2015</title>
+    <title type="official" as="introduced">To ensure Federal law enforcement officers remain able to ensure their own safety, and the safety of their families, during a covered furlough.</title>
+  </titles>
+  <sponsor id="412531"/>
+  <cosponsors>
+    <cosponsor id="412635" joined="2015-05-14"/>
+    <cosponsor id="412532" joined="2015-04-30"/>
+    <cosponsor id="400309" joined="2015-04-30"/>
+    <cosponsor id="400660" joined="2015-04-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-30" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-05-15">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1162"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Appropriations"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Firearms and explosives"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Law enforcement officers"/>
+  </subjects>
+  <amendments/>
+  <summary>4/30/2015--Introduced.
+Federal Law Enforcement Self-Defense and Protection Act of 2015
+
+Grants covered federal law enforcement officers the same rights to carry a government-issued firearm during a covered furlough as they had before such furlough was in effect.
+
+Defines: (1) "covered federal law enforcement officer" to mean any agency employee who has the authority to make arrests or apprehensions for or prosecute violations of federal law and who, on the day before the applicable covered furlough begins, is authorized by the agency to carry a firearm in the course of official duties; and (2) "covered furlough" to mean a planned event by an agency during which employees are involuntarily furloughed due to downsizing, reduced funding, lack of work, or any budget situation, including a lapse in appropriations.</summary>
+</bill>

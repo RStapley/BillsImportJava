@@ -1,0 +1,75 @@
+<bill session="114" type="hr" number="344" updated="2015-07-10T04:47:04-04:00">
+  <state datetime="2015-06-25">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-25"/>
+  </status>
+  <introduced datetime="2015-06-25"/>
+  <titles>
+    <title type="official" as="introduced">Urging the discontinued use of the Confederate battle flag, which represents pain, humiliation, torture, and racial oppression, in remembrance of the Emanuel 9.</title>
+  </titles>
+  <sponsor id="400075"/>
+  <cosponsors>
+    <cosponsor id="412607" joined="2015-06-25"/>
+    <cosponsor id="412404" joined="2015-06-25"/>
+    <cosponsor id="412565" joined="2015-06-25"/>
+    <cosponsor id="400048" joined="2015-06-25"/>
+    <cosponsor id="400616" joined="2015-06-25"/>
+    <cosponsor id="412258" joined="2015-06-25"/>
+    <cosponsor id="412221" joined="2015-06-25"/>
+    <cosponsor id="400074" joined="2015-06-25"/>
+    <cosponsor id="400639" joined="2015-06-25"/>
+    <cosponsor id="400080" joined="2015-06-25"/>
+    <cosponsor id="400093" joined="2015-06-25"/>
+    <cosponsor id="412263" joined="2015-06-25"/>
+    <cosponsor id="400130" joined="2015-06-25"/>
+    <cosponsor id="412327" joined="2015-06-25"/>
+    <cosponsor id="400653" joined="2015-06-25"/>
+    <cosponsor id="400170" joined="2015-06-25"/>
+    <cosponsor id="400199" joined="2015-06-25"/>
+    <cosponsor id="412561" joined="2015-06-25"/>
+    <cosponsor id="400204" joined="2015-06-25"/>
+    <cosponsor id="412199" joined="2015-06-25"/>
+    <cosponsor id="412638" joined="2015-06-25"/>
+    <cosponsor id="400237" joined="2015-06-25"/>
+    <cosponsor id="400240" joined="2015-06-25"/>
+    <cosponsor id="400661" joined="2015-06-25"/>
+    <cosponsor id="400295" joined="2015-06-25"/>
+    <cosponsor id="412506" joined="2015-06-25"/>
+    <cosponsor id="412432" joined="2015-06-25"/>
+    <cosponsor id="400363" joined="2015-06-25"/>
+    <cosponsor id="400364" joined="2015-06-25"/>
+    <cosponsor id="400402" joined="2015-06-25"/>
+    <cosponsor id="400415" joined="2015-07-08"/>
+    <cosponsor id="412579" joined="2015-06-25"/>
+    <cosponsor id="400422" joined="2015-06-25"/>
+    <cosponsor id="412644" joined="2015-06-25"/>
+    <cosponsor id="412412" joined="2015-06-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-25" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-07-09">
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU10" subcommittee="Constitution and Civil Justice" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="First Amendment rights"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Motor vehicles"/>
+    <term name="National symbols"/>
+    <term name="Racial and ethnic relations"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+  <summary>6/25/2015--Introduced.
+Urges:
+
+ states hanging the Confederate battle flag in public and state locations to remove the flag; states to discontinue use of the Confederate battle flag and its likeness on any property deemed governmental speech, including license plates; businesses to discontinue selling Confederate battle flags and related merchandise; and states with flags that include depictions of and symbolic references to the Confederate battle flag to remove those depictions and references.</summary>
+</bill>

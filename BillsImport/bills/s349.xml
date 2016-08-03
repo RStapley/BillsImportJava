@@ -1,0 +1,52 @@
+<bill session="114" type="s" number="349" updated="2015-08-08T06:54:36-04:00">
+  <state datetime="2015-06-24">REPORTED</state>
+  <status>
+    <unknown datetime="2015-06-24"/>
+  </status>
+  <introduced datetime="2015-02-03"/>
+  <titles>
+    <title type="short" as="introduced">Special Needs Trust Fairness Act of 2015</title>
+    <title type="short" as="reported to senate">Special Needs Trust Fairness Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend title XIX of the Social Security Act to empower individuals with disabilities to establish their own supplemental needs trusts.</title>
+  </titles>
+  <sponsor id="300048"/>
+  <cosponsors>
+    <cosponsor id="300078" joined="2015-02-03"/>
+    <cosponsor id="300093" joined="2015-06-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-03" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+    <calendar datetime="2015-06-24" state="REPORTED">
+      <text>Committee on Finance. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="2015-07-30">
+      <text>Committee on Finance. Reported by Senator Hatch without amendment. With written report No. 114-99.</text>
+    </action>
+    <calendar datetime="2015-07-30" calendar="Senate Legislative" under="General Orders" number="178">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 178.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="670"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Disability and paralysis"/>
+    <term name="Health care coverage and access"/>
+    <term name="Medicaid"/>
+  </subjects>
+  <amendments/>
+  <summary>7/30/2015--Reported to Senate without amendment.
+(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)
+
+Special Needs Trust Fairness Act of 2015
+
+(Sec. 2) This bill amends title XIX (Medicaid) of the Social Security Act with respect to the treatment of revocable trusts for the benefit of an individual for purposes of meeting income requirements for Medicaid coverage.
+
+Extends the supplemental needs trust exemption from treatment of a trust as resources available to the individual to supplemental needs trusts for Medicaid beneficiaries established by those beneficiaries.</summary>
+</bill>

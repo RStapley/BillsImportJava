@@ -1,0 +1,36 @@
+<bill session="114" type="h" number="3142" updated="2015-07-30T04:50:33-04:00">
+  <state datetime="2015-07-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-21"/>
+  </status>
+  <introduced datetime="2015-07-21"/>
+  <titles>
+    <title type="short" as="introduced">Cruise Passenger Protection Act</title>
+    <title type="official" as="introduced">To improve passenger vessel security and safety, and for other purposes.</title>
+  </titles>
+  <sponsor id="400663"/>
+  <cosponsors>
+    <cosponsor id="412282" joined="2015-07-21"/>
+    <cosponsor id="400652" joined="2015-07-21"/>
+    <cosponsor id="412254" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-21" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2015-07-22">
+      <text>Referred to the Subcommittee on Coast Guard and Maritime Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW07" subcommittee="Coast Guard and Maritime Transportation" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1673"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+</bill>

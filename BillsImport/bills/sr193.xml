@@ -1,0 +1,62 @@
+<bill session="114" type="sr" number="193" updated="2015-08-08T06:51:01-04:00">
+  <state datetime="2015-06-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-04"/>
+  </status>
+  <introduced datetime="2015-06-04"/>
+  <titles>
+    <title type="official" as="introduced">A resolution celebrating the 50th anniversary of the historic Griswold v. Connecticut decision of the Supreme Court of the United States and expressing the sense of the Senate that the case was an important step forward in helping ensure that all people of the United States are able to use contraceptives to plan pregnancies and have healthier babies.</title>
+  </titles>
+  <sponsor id="412490"/>
+  <cosponsors>
+    <cosponsor id="400013" joined="2015-06-04"/>
+    <cosponsor id="412598" joined="2015-06-04"/>
+    <cosponsor id="300011" joined="2015-06-04"/>
+    <cosponsor id="400050" joined="2015-06-04"/>
+    <cosponsor id="412390" joined="2015-06-04"/>
+    <cosponsor id="300038" joined="2015-06-04"/>
+    <cosponsor id="300043" joined="2015-06-04"/>
+    <cosponsor id="412378" joined="2015-06-04"/>
+    <cosponsor id="412223" joined="2015-06-04"/>
+    <cosponsor id="412281" joined="2015-06-08"/>
+    <cosponsor id="412200" joined="2015-06-04"/>
+    <cosponsor id="412582" joined="2015-06-04"/>
+    <cosponsor id="412545" joined="2015-06-04"/>
+    <cosponsor id="412242" joined="2015-06-04"/>
+    <cosponsor id="400253" joined="2015-06-04"/>
+    <cosponsor id="400272" joined="2015-06-04"/>
+    <cosponsor id="412325" joined="2015-06-04"/>
+    <cosponsor id="412194" joined="2015-06-08"/>
+    <cosponsor id="300076" joined="2015-06-04"/>
+    <cosponsor id="400357" joined="2015-06-04"/>
+    <cosponsor id="412507" joined="2015-06-04"/>
+    <cosponsor id="300087" joined="2015-06-04"/>
+    <cosponsor id="412323" joined="2015-06-15"/>
+    <cosponsor id="300093" joined="2015-06-08"/>
+    <cosponsor id="412321" joined="2015-06-04"/>
+    <cosponsor id="412542" joined="2015-06-04"/>
+    <cosponsor id="412247" joined="2015-06-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-04" state="REFERRED">
+      <text>Referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <reference ref="CR S3780-3781" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+  <summary>6/4/2015--Introduced.
+Celebrates the 50th anniversary of the U.S. Supreme Court decision in Griswold v. Connecticut.
+
+Recognizes the value of the publicly funded family planning safety net in helping to realize the promise of Griswold and that: (1) birth control constitutes basic health care for women, (2) affordable contraceptives remain inaccessible to many poor and low-income women, and (3) investments in publicly funded family planning services help prevent unplanned pregnancies and abortions and help save taxpayer dollars.
+
+Encourages robust investment in publicly funded family planning services as a means to help women plan pregnancies and have healthier babies.
+
+Acknowledges that all women should have affordable access to the tools that help women plan and space their pregnancies.</summary>
+</bill>

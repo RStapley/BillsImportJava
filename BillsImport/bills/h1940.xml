@@ -1,0 +1,71 @@
+<bill session="114" type="h" number="1940" updated="2015-07-23T04:48:23-04:00">
+  <state datetime="2015-04-22">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-22"/>
+  </status>
+  <introduced datetime="2015-04-22"/>
+  <titles>
+    <title type="short" as="introduced">Respect State Marijuana Laws Act of 2015</title>
+    <title type="official" as="introduced">To amend the Controlled Substances Act to provide for a new rule regarding the application of the Act to marihuana, and for other purposes.</title>
+  </titles>
+  <sponsor id="400343"/>
+  <cosponsors>
+    <cosponsor id="412438" joined="2015-04-22"/>
+    <cosponsor id="400033" joined="2015-04-22"/>
+    <cosponsor id="412236" joined="2015-04-22"/>
+    <cosponsor id="412283" joined="2015-04-22"/>
+    <cosponsor id="400237" joined="2015-07-22"/>
+    <cosponsor id="412503" joined="2015-04-22"/>
+    <cosponsor id="412295" joined="2015-04-22"/>
+    <cosponsor id="412527" joined="2015-07-07"/>
+    <cosponsor id="412585" joined="2015-04-22"/>
+    <cosponsor id="412308" joined="2015-04-22"/>
+    <cosponsor id="400360" joined="2015-04-22"/>
+    <cosponsor id="412318" joined="2015-04-22"/>
+    <cosponsor id="412525" joined="2015-07-07"/>
+    <cosponsor id="400440" joined="2015-04-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-22">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H2459, H2461-2462"/>
+    </action>
+    <action datetime="2015-04-22" state="REFERRED">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-04-22">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2015-04-22">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-04-24">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2015-05-15">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1538"/>
+    <bill relation="unknown" session="114" type="s" number="683"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Alternative treatments"/>
+    <term name="Drug trafficking and controlled substances"/>
+    <term name="Drug, alcohol, tobacco use"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+  <summary>4/22/2015--Introduced.
+Respect State Marijuana Laws Act of 2015
+
+ Amends the Controlled Substances Act to provide that provisions of such Act related to marihuana shall not apply to any person acting in compliance with state laws relating to the production, possession, distribution, dispensation, administration, or delivery of marijuana.</summary>
+</bill>

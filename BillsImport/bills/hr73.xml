@@ -1,0 +1,46 @@
+<bill session="114" type="hr" number="73" updated="2015-03-14T06:16:30-04:00">
+  <state datetime="2015-02-02">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-02"/>
+  </status>
+  <introduced datetime="2015-02-02"/>
+  <titles>
+    <title type="official" as="introduced">Recognizing the importance of trade to the United States economy and the importance of completing free trade agreements with Pacific Rim countries and the European Union.</title>
+  </titles>
+  <sponsor id="400142"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-02-02" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Asia"/>
+    <term name="Australia"/>
+    <term name="Brunei"/>
+    <term name="Canada"/>
+    <term name="Chile"/>
+    <term name="Economic performance and conditions"/>
+    <term name="Europe"/>
+    <term name="European Union"/>
+    <term name="Free trade and trade barriers"/>
+    <term name="Japan"/>
+    <term name="Latin America"/>
+    <term name="Malaysia"/>
+    <term name="Mexico"/>
+    <term name="New Zealand"/>
+    <term name="Oceania"/>
+    <term name="Peru"/>
+    <term name="Singapore"/>
+    <term name="Trade agreements and negotiations"/>
+    <term name="Vietnam"/>
+  </subjects>
+  <amendments/>
+  <summary>2/2/2015--Introduced.
+Expresses the sense of the House of Representatives that completing free trade agreements with Pacific Rim countries and the European Union will promote economic development, create jobs, and solidify relations with trading partners.</summary>
+</bill>

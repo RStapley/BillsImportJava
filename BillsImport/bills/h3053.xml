@@ -1,0 +1,46 @@
+<bill session="114" type="h" number="3053" updated="2015-08-11T04:48:30-04:00">
+  <state datetime="2015-07-14">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-14"/>
+  </status>
+  <introduced datetime="2015-07-14"/>
+  <titles>
+    <title type="short" as="introduced">Medicare Ventricular Assist Device Access Act of 2015</title>
+    <title type="official" as="introduced">To ensure appropriate coverage of ventricular assist devices under the Medicare program under title XVIII of the Social Security Act, and for other purposes.</title>
+  </titles>
+  <sponsor id="412427"/>
+  <cosponsors>
+    <cosponsor id="400636" joined="2015-07-14"/>
+    <cosponsor id="412600" joined="2015-07-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-14" state="REFERRED">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-07-14">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-07-14">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-07-17">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+  <summary>7/14/2015--Introduced.
+Medicare Ventricular Assist Device Access Act of 2015
+
+ Directs the Department of Health and Human Services (HHS) to revise the Medicare national coverage determination relating to coverage of ventricular assist devices to extend the coverage of such devices under title XVIII (Medicare) of the Social Security Act for individuals approved for heart transplantation to apply also to: (1) individuals undergoing an evaluation to determine candidacy for heart transplantation; and (2) individuals who would be heart transplant candidates, but are not so eligible because of a contraindication that may be favorably modified by the use of a ventricular assist device.
+
+Directs HHS to use specified processes to revise its national coverage determination relating to ventricular assist devices to incorporate the requirements of this Act.</summary>
+</bill>

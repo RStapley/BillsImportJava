@@ -1,0 +1,38 @@
+<bill session="114" type="h" number="2921" updated="2015-07-23T04:49:02-04:00">
+  <state datetime="2015-06-25">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-25"/>
+  </status>
+  <introduced datetime="2015-06-25"/>
+  <titles>
+    <title type="short" as="introduced">Patients First Act of 2015</title>
+    <title type="official" as="introduced">To intensify stem cell research showing evidence of substantial clinical benefit to patients, and for other purposes.</title>
+  </titles>
+  <sponsor id="400137"/>
+  <cosponsors>
+    <cosponsor id="400175" joined="2015-07-22"/>
+    <cosponsor id="400630" joined="2015-06-25"/>
+    <cosponsor id="400279" joined="2015-07-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-25" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+  <summary>6/25/2015--Introduced.
+Patients First Act of 2015
+
+This bill amends the Public Health Service Act to require the Department of Health and Human Services (HHS) to conduct and support basic and applied research to develop techniques for the isolation, derivation, production, testing, and human clinical use of stem cells that may result in improved understanding of, or treatments for, diseases and other adverse health conditions, provided that the techniques will not involve: (1) the creation of a human embryo for research purposes; (2) the destruction or discarding of, or risk of injury to, a living human embryo; or (3) the use of any stem cell the derivation or provision of which would be inconsistent with this Act.
+
+HHS must issue guidelines to ensure that any research (including any clinical trial) supported under this Act: (1) is clearly consistent with the standards established in this Act, if conducted using human cells; and (2) is prioritized in terms of potential for near-term clinical benefit in human patients.
+
+HHS must report on peer reviewed stem cell research proposals that were not funded.</summary>
+</bill>

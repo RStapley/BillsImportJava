@@ -1,0 +1,35 @@
+<bill session="114" type="h" number="2473" updated="2015-08-15T06:40:01-04:00">
+  <state datetime="2015-05-20">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-20"/>
+  </status>
+  <introduced datetime="2015-05-20"/>
+  <titles>
+    <title type="short" as="introduced">Preserving Capital Access and Mortgage Liquidity Act of 2015</title>
+    <title type="official" as="introduced">To include credit unions as community financial institutions under the Federal Home Loan Bank Act.</title>
+  </titles>
+  <sponsor id="400074"/>
+  <cosponsors>
+    <cosponsor id="400209" joined="2015-07-29"/>
+    <cosponsor id="412474" joined="2015-07-29"/>
+    <cosponsor id="400441" joined="2015-05-20"/>
+    <cosponsor id="412331" joined="2015-07-29"/>
+    <cosponsor id="412641" joined="2015-07-29"/>
+    <cosponsor id="412617" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-20" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Banking and financial institutions regulation"/>
+    <term name="Housing finance and home ownership"/>
+  </subjects>
+  <amendments/>
+</bill>

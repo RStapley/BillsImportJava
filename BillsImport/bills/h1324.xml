@@ -1,0 +1,101 @@
+<bill session="114" type="h" number="1324" updated="2015-08-15T06:30:20-04:00">
+  <state datetime="2015-04-28T19:08:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2015-04-28T19:08:00-04:00"/>
+  </status>
+  <introduced datetime="2015-03-04"/>
+  <titles>
+    <title type="short" as="introduced">Arapaho National Forest Boundary Adjustment Act of 2015</title>
+    <title type="short" as="reported to house">Arapaho National Forest Boundary Adjustment Act of 2015</title>
+    <title type="short" as="passed house">Arapaho National Forest Boundary Adjustment Act of 2015</title>
+    <title type="official" as="introduced">To adjust the boundary of the Arapaho National Forest, Colorado, and for other purposes.</title>
+  </titles>
+  <sponsor id="412308"/>
+  <cosponsors>
+    <cosponsor id="412657" joined="2015-04-15"/>
+    <cosponsor id="412379" joined="2015-04-15"/>
+    <cosponsor id="412613" joined="2015-04-15"/>
+    <cosponsor id="412638" joined="2015-04-15"/>
+    <cosponsor id="412616" joined="2015-04-15"/>
+    <cosponsor id="400379" joined="2015-04-15"/>
+    <cosponsor id="412405" joined="2015-03-23"/>
+    <cosponsor id="412211" joined="2015-04-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-04" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2015-03-18">
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+    </action>
+    <action datetime="2015-03-24">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2015-03-25">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-03-25" state="REPORTED">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+    </calendar>
+    <action datetime="2015-03-25">
+      <text>Subcommittee on Federal Lands Discharged.</text>
+    </action>
+    <action datetime="2015-04-15T16:51:00-04:00">
+      <text>Reported by the Committee on Natural Resources. H. Rept. 114-80.</text>
+    </action>
+    <calendar datetime="2015-04-15T16:51:00-04:00" calendar="Union" number="59">
+      <text>Placed on the Union Calendar, Calendar No. 59.</text>
+    </calendar>
+    <action datetime="2015-04-28T16:57:00-04:00">
+      <text>Mr. Bishop (UT) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2015-04-28T16:58:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2488-2489" label="consideration"/>
+    </action>
+    <action datetime="2015-04-28T16:58:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1324.</text>
+    </action>
+    <action datetime="2015-04-28T17:03:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2015-04-28T18:59:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H2490" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="175" datetime="2015-04-28T19:08:00-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 381 - 30 (Roll no. 175).</text>
+      <reference ref="CR H2488" label="text"/>
+    </vote>
+    <action datetime="2015-04-28T19:08:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2015-04-29">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSII10" subcommittee="Federal Lands" name="House Natural Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1295"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Colorado"/>
+    <term name="Forests, forestry, trees"/>
+    <term name="Land transfers"/>
+    <term name="Motor vehicles"/>
+  </subjects>
+  <amendments/>
+  <summary>4/28/2015--Passed House without amendment.
+(This measure has not been amended since it was introduced. The expanded summary of the House reported version is repeated here.)
+
+Arapaho National Forest Boundary Adjustment Act of 2015
+
+Adjusts the boundary of the Arapaho National Forest in Colorado to incorporate approximately 92.95 acres of specified land. Requires the Secretary of Agriculture (USDA) to include all federal land within such boundary in the Bowen Gulch Protection Area established under the Colorado Wilderness Act of 1993.
+
+Declares that nothing in this Act opens privately owned lands within the boundary to public motorized use or denies motorized access through boundary lands for owners of any non-federal lands within the boundary who historically have had such access.</summary>
+</bill>

@@ -1,0 +1,54 @@
+<bill session="114" type="h" number="2681" updated="2015-07-07T04:47:08-04:00">
+  <state datetime="2015-06-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-04"/>
+  </status>
+  <introduced datetime="2015-06-04"/>
+  <titles>
+    <title type="short" as="introduced">Training Highly Skilled Americans Act of 2015</title>
+    <title type="official" as="introduced">To amend the Immigration and Nationality Act to establish the STEM Education and Training Account in order to enhance the economic competitiveness of the United States by providing funding for STEM education and training, and for other purposes.</title>
+  </titles>
+  <sponsor id="412318"/>
+  <cosponsors>
+    <cosponsor id="412516" joined="2015-06-04"/>
+    <cosponsor id="412638" joined="2015-06-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-04" state="REFERRED">
+      <text>Referred to the Committee on Education and the Workforce, and in addition to the Committees on the Judiciary, and Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-06-04">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+    <action datetime="2015-06-04">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2015-06-04">
+      <text>Referred to House Science, Space, and Technology</text>
+    </action>
+    <action datetime="2015-07-01">
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration and Border Security" name="House Judiciary"/>
+    <committee code="HSSY" name="House Science, Space, and Technology" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Immigration"/>
+  </subjects>
+  <amendments/>
+  <summary>6/4/2015--Introduced.
+Training Highly Skilled Americans Act of 2015 
+
+Amends the Immigration and Nationality Act to establish in the Treasury the STEM Education and Training Account.
+
+Requires employers to submit along with an application for a certification a $1,000 fee (to be deposited in the STEM Education and Training Account).
+
+Sets aside specified amounts for: (1) a low-income STEM scholarship program, (2) K-12 STEM education, and (3) STEM capacity building at minority-serving institutions.
+
+Authorizes grants to eligible entities for American Dream Accounts for a group of low-income students.</summary>
+</bill>

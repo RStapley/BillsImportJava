@@ -1,0 +1,35 @@
+<bill session="114" type="h" number="3122" updated="2015-08-22T06:45:25-04:00">
+  <state datetime="2015-07-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-21"/>
+  </status>
+  <introduced datetime="2015-07-21"/>
+  <titles>
+    <title type="short" as="introduced">VALOR Act of 2015</title>
+    <title type="short" as="introduced">Veterans Administration Legislative and Objective Review Act of 2015</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to direct the Secretary of Veterans Affairs to enter into a contract with a non-government entity for the conduct of biannual audits of Department of Veterans Affairs health care functions, and for other purposes.</title>
+  </titles>
+  <sponsor id="412484"/>
+  <cosponsors>
+    <cosponsor id="412609" joined="2015-07-31"/>
+    <cosponsor id="412310" joined="2015-07-21"/>
+    <cosponsor id="412214" joined="2015-07-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-21" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2015-08-05">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+</bill>

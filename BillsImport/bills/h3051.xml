@@ -1,0 +1,57 @@
+<bill session="114" type="h" number="3051" updated="2015-07-30T04:50:20-04:00">
+  <state datetime="2015-07-14">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-14"/>
+  </status>
+  <introduced datetime="2015-07-14"/>
+  <titles>
+    <title type="short" as="introduced">Background Check Completion Act</title>
+    <title type="official" as="introduced">To eliminate the requirement that a firearms dealer transfer a firearm if the national instant criminal background check system has been unable to complete a background check of the prospective transferee within 3 business days.</title>
+  </titles>
+  <sponsor id="400075"/>
+  <cosponsors>
+    <cosponsor id="412258" joined="2015-07-29"/>
+    <cosponsor id="412600" joined="2015-07-23"/>
+    <cosponsor id="412221" joined="2015-07-23"/>
+    <cosponsor id="412236" joined="2015-07-23"/>
+    <cosponsor id="400080" joined="2015-07-23"/>
+    <cosponsor id="412263" joined="2015-07-21"/>
+    <cosponsor id="400122" joined="2015-07-29"/>
+    <cosponsor id="412524" joined="2015-07-29"/>
+    <cosponsor id="400162" joined="2015-07-21"/>
+    <cosponsor id="400170" joined="2015-07-23"/>
+    <cosponsor id="400199" joined="2015-07-21"/>
+    <cosponsor id="412199" joined="2015-07-23"/>
+    <cosponsor id="400230" joined="2015-07-21"/>
+    <cosponsor id="400233" joined="2015-07-21"/>
+    <cosponsor id="400263" joined="2015-07-29"/>
+    <cosponsor id="400271" joined="2015-07-21"/>
+    <cosponsor id="400295" joined="2015-07-21"/>
+    <cosponsor id="412585" joined="2015-07-29"/>
+    <cosponsor id="400361" joined="2015-07-29"/>
+    <cosponsor id="400366" joined="2015-07-29"/>
+    <cosponsor id="400378" joined="2015-07-21"/>
+    <cosponsor id="400379" joined="2015-07-29"/>
+    <cosponsor id="412514" joined="2015-07-23"/>
+    <cosponsor id="412520" joined="2015-07-29"/>
+    <cosponsor id="400415" joined="2015-07-21"/>
+    <cosponsor id="412644" joined="2015-07-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-14" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+  </subjects>
+  <amendments/>
+</bill>

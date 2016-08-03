@@ -1,0 +1,57 @@
+<bill session="114" type="h" number="1770" updated="2015-06-06T06:32:58-04:00">
+  <state datetime="2015-04-15">REPORTED</state>
+  <status>
+    <unknown datetime="2015-04-15"/>
+  </status>
+  <introduced datetime="2015-04-14"/>
+  <titles>
+    <title type="short" as="introduced">Data Security and Breach Notification Act of 2015</title>
+    <title type="official" as="introduced">To require certain entities who collect and maintain personal information of individuals to secure such information and to provide notice to such individuals in the case of a breach of security involving such information, and for other purposes.</title>
+  </titles>
+  <sponsor id="400032"/>
+  <cosponsors>
+    <cosponsor id="400052" joined="2015-04-14"/>
+    <cosponsor id="400414" joined="2015-04-14"/>
+    <cosponsor id="412239" joined="2015-04-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-14" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-04-14">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2015-04-15">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-04-15" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 29 - 20.</text>
+    </calendar>
+    <action datetime="2015-04-17">
+      <text>Referred to the Subcommittee on Commerce, Manufacturing, and Trade.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup"/>
+    <committee activity="Referral" code="HSIF17" subcommittee="Commerce, Manufacturing, and Trade" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+  </subjects>
+  <amendments/>
+  <summary>4/14/2015--Introduced.
+Data Security and Breach Notification Act of 2015
+
+Requires certain commercial entities and non-profit organizations that use, access, transmit, store, dispose of, or collect unencrypted nonpublic personal information to restore the integrity, security, and confidentiality of their data systems following the discovery of a security breach.
+
+Requires notification to: (1) affected U.S. residents when there is a reasonable risk that such a breach has resulted in, or will result in, identity theft, economic harm, or financial fraud; (2) the Federal Trade Commission (FTC) and the U.S. Secret Service or the Federal Bureau of Investigation if an unauthorized person accesses or acquires the personal information of more than 10,000 individuals; and (3) consumer reporting agencies if notice must be provided to more than 10,000 individuals.
+
+Establishes special procedures to coordinate the notices that must be provided when: (1) a breached entity processes personal data on behalf of a non-breached entity; or (2) a provider of electronic data transmission, storage, or network connection services becomes aware of a breach.
+
+Provides authority to the FTC and states to enforce against violations of this Act.
+
+Directs the FTC to educate small businesses about data security and establish an Internet website containing non-binding best practices.
+
+Preempts state information security and notification laws, but does not exempt an entity from liability under common law. Provides for the requirements of this Act to apply to certain entities in place of security practices and notification standards currently enforced by the Federal Communications Commission (FCC), except for FCC regulations that pertain solely to 9-1-1 calls.</summary>
+</bill>

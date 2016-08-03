@@ -1,0 +1,39 @@
+<bill session="114" type="s" number="953" updated="2015-05-02T06:48:14-04:00">
+  <state datetime="2015-04-15">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-15"/>
+  </status>
+  <introduced datetime="2015-04-15"/>
+  <titles>
+    <title type="short" as="introduced">Eastern Nevada Land Implementation Improvement Act</title>
+    <title type="official" as="introduced">A bill to facilitate certain pinyon-juniper related projects in Lincoln County, Nevada, to modify the boundaries of certain wilderness areas in the State of Nevada, and to provide for the implementation of a conservation plan for the Virgin River, Nevada.</title>
+  </titles>
+  <sponsor id="412218"/>
+  <cosponsors>
+    <cosponsor id="300082" joined="2015-04-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-15" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1815"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Land transfers"/>
+    <term name="Land use and conservation"/>
+    <term name="Law enforcement administration and funding"/>
+    <term name="Nevada"/>
+    <term name="State and local government operations"/>
+    <term name="User charges and fees"/>
+    <term name="Wilderness and natural areas, wildlife refuges, wild rivers, habitats"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+</bill>

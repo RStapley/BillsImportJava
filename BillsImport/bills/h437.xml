@@ -1,0 +1,35 @@
+<bill session="114" type="h" number="437" updated="2015-03-28T06:20:39-04:00">
+  <state datetime="2015-01-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-21"/>
+  </status>
+  <introduced datetime="2015-01-21"/>
+  <titles>
+    <title type="official" as="introduced">To provide for the retention of the name of Mount McKinley.</title>
+  </titles>
+  <sponsor id="412463"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-01-21" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2015-03-02">
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="Federal Lands" name="House Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Alaska"/>
+    <term name="Parks, recreation areas, trails"/>
+    <term name="Presidential administrations"/>
+    <term name="Wilderness and natural areas, wildlife refuges, wild rivers, habitats"/>
+  </subjects>
+  <amendments/>
+  <summary>1/21/2015--Introduced.
+Requires retention of the name of Mount McKinley in Alaska.</summary>
+</bill>

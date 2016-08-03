@@ -1,0 +1,78 @@
+<bill session="114" type="hj" number="32" updated="2015-07-08T04:49:32-04:00">
+  <state datetime="2015-02-12">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-12"/>
+  </status>
+  <introduced datetime="2015-02-12"/>
+  <titles>
+    <title type="short" as="introduced">Marriage Protection Amendment</title>
+    <title type="official" as="introduced">Proposing an amendment to the Constitution of the United States relating to marriage.</title>
+  </titles>
+  <sponsor id="412429"/>
+  <cosponsors>
+    <cosponsor id="412625" joined="2015-02-12"/>
+    <cosponsor id="412655" joined="2015-02-12"/>
+    <cosponsor id="400068" joined="2015-04-13"/>
+    <cosponsor id="412531" joined="2015-07-07"/>
+    <cosponsor id="412472" joined="2015-02-12"/>
+    <cosponsor id="412275" joined="2015-02-12"/>
+    <cosponsor id="412480" joined="2015-02-12"/>
+    <cosponsor id="400137" joined="2015-02-24"/>
+    <cosponsor id="412463" joined="2015-02-12"/>
+    <cosponsor id="400651" joined="2015-02-12"/>
+    <cosponsor id="412661" joined="2015-02-12"/>
+    <cosponsor id="412434" joined="2015-02-12"/>
+    <cosponsor id="412623" joined="2015-02-12"/>
+    <cosponsor id="412550" joined="2015-02-12"/>
+    <cosponsor id="412422" joined="2015-02-12"/>
+    <cosponsor id="400206" joined="2015-02-12"/>
+    <cosponsor id="400209" joined="2015-02-12"/>
+    <cosponsor id="412226" joined="2015-02-12"/>
+    <cosponsor id="412465" joined="2015-02-12"/>
+    <cosponsor id="400220" joined="2015-02-12"/>
+    <cosponsor id="412510" joined="2015-02-12"/>
+    <cosponsor id="412256" joined="2015-02-12"/>
+    <cosponsor id="400441" joined="2015-02-12"/>
+    <cosponsor id="412409" joined="2015-06-03"/>
+    <cosponsor id="412302" joined="2015-03-03"/>
+    <cosponsor id="412443" joined="2015-02-12"/>
+    <cosponsor id="400313" joined="2015-02-12"/>
+    <cosponsor id="412551" joined="2015-02-12"/>
+    <cosponsor id="400320" joined="2015-02-12"/>
+    <cosponsor id="412570" joined="2015-02-12"/>
+    <cosponsor id="412641" joined="2015-02-20"/>
+    <cosponsor id="400606" joined="2015-03-10"/>
+    <cosponsor id="412213" joined="2015-02-12"/>
+    <cosponsor id="412574" joined="2015-02-12"/>
+    <cosponsor id="412610" joined="2015-02-12"/>
+    <cosponsor id="400627" joined="2015-06-17"/>
+    <cosponsor id="400433" joined="2015-02-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-12">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H1017"/>
+    </action>
+    <action datetime="2015-02-12" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Families"/>
+    <term name="Constitution and constitutional amendments"/>
+    <term name="Marriage and family status"/>
+    <term name="Sex, gender, sexual orientation discrimination"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+  <summary>2/12/2015--Introduced.
+Constitutional Amendment 
+
+ Marriage Protection Amendment 
+
+ Defines marriage in the United States as consisting only of the union of a man and a woman. Prohibits either the U.S. Constitution or the constitution of any state from being construed to require that marriage or the legal incidents of marriage be conferred upon any other union.</summary>
+</bill>

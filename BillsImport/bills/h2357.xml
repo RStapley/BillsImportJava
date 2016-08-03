@@ -1,0 +1,32 @@
+<bill session="114" type="h" number="2357" updated="2015-06-13T06:38:13-04:00">
+  <state datetime="2015-05-20">REPORTED</state>
+  <status>
+    <unknown datetime="2015-05-20"/>
+  </status>
+  <introduced datetime="2015-05-15"/>
+  <titles>
+    <title type="short" as="introduced">Accelerating Access to Capital Act of 2015</title>
+    <title type="official" as="introduced">To direct the Securities and Exchange Commission to revise Form S-3 so as to add listing and registration of a class of common equity securities on a national securities exchange as an additional basis for satisfying the requirements of General Instruction I.B.1. of such form and to remove such listing and registration as a requirement of General Instruction I.B.6. of such form.</title>
+  </titles>
+  <sponsor id="412548"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-05-15" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2015-05-20">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-05-20" state="REPORTED">
+      <text>Ordered to be Reported by the Yeas and Nays: 33 - 24.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+  </subjects>
+  <amendments/>
+</bill>

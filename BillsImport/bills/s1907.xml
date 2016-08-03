@@ -1,0 +1,47 @@
+<bill session="114" type="s" number="1907" updated="2015-08-18T18:46:58-04:00">
+  <state datetime="2015-07-30">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-30"/>
+  </status>
+  <introduced datetime="2015-07-30"/>
+  <titles>
+    <title type="short" as="introduced">Close Big Oil Tax Loopholes Act</title>
+    <title type="official" as="introduced">A bill to reduce the Federal budget deficit by closing big oil tax loopholes, and for other purposes.</title>
+  </titles>
+  <sponsor id="400272"/>
+  <cosponsors>
+    <cosponsor id="300011" joined="2015-07-30"/>
+    <cosponsor id="400064" joined="2015-07-30"/>
+    <cosponsor id="300038" joined="2015-07-30"/>
+    <cosponsor id="300043" joined="2015-07-30"/>
+    <cosponsor id="412378" joined="2015-07-30"/>
+    <cosponsor id="412242" joined="2015-07-30"/>
+    <cosponsor id="300065" joined="2015-07-30"/>
+    <cosponsor id="400253" joined="2015-07-30"/>
+    <cosponsor id="412325" joined="2015-07-30"/>
+    <cosponsor id="300073" joined="2015-07-30"/>
+    <cosponsor id="300076" joined="2015-07-30"/>
+    <cosponsor id="300078" joined="2015-07-30"/>
+    <cosponsor id="412305" joined="2015-07-30"/>
+    <cosponsor id="300081" joined="2015-07-30"/>
+    <cosponsor id="300087" joined="2015-07-30"/>
+    <cosponsor id="412323" joined="2015-07-30"/>
+    <cosponsor id="300093" joined="2015-07-30"/>
+    <cosponsor id="412247" joined="2015-07-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-30" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1533"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+  </subjects>
+  <amendments/>
+</bill>

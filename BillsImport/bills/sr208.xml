@@ -1,0 +1,32 @@
+<bill session="114" type="sr" number="208" updated="2015-08-08T06:51:08-04:00">
+  <state datetime="2015-06-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-23"/>
+  </status>
+  <introduced datetime="2015-06-23"/>
+  <titles>
+    <title type="official" as="introduced">A resolution expressing the sense of the Senate regarding the requested release of convicted terrorist Juvenal Ovidio Ricardo Palmera Pineda, also known as "Simon Trinidad", from prison in the United States as a part of the Colombian peace process.</title>
+  </titles>
+  <sponsor id="412491"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-06-23" state="REFERRED">
+      <text>Referred to the Committee on Foreign Relations.</text>
+      <reference ref="CR S4549" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+  </subjects>
+  <amendments/>
+  <summary>6/23/2015--Introduced.
+Opposes the Revolutionary Armed Forces of Colombia-People's Army (Fuerzas Armadas Revolucionarias de Colombia--Ejercito del Pueblo (FARC-EP)'s requested release of Juvenal Ovidio Ricardo Palmera Pineda (Simon Trinidad), who was convicted by a U.S. jury of plotting to hold three U.S. nationals hostage after they were captured in Colombia, and was sentenced to 60 years in prison.
+
+ Extends sympathies to family members of the victims of FARC-EP atrocities.
+
+Recognizes that this type of action would send a negative message to terrorist groups and undermines the U.S. judicial system.</summary>
+</bill>

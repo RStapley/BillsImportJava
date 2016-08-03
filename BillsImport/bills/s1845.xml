@@ -1,0 +1,27 @@
+<bill session="114" type="s" number="1845" updated="2015-08-15T07:07:15-04:00">
+  <state datetime="2015-07-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-23"/>
+  </status>
+  <introduced datetime="2015-07-23"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Wild Free-Roaming Horses and Burros Act to provide for State and tribal management and protection of wild free-roaming horses and burros, and for other purposes.</title>
+  </titles>
+  <sponsor id="300052"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-23" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="3172"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,203 @@
+<bill session="114" type="h" number="2042" updated="2015-07-11T06:35:49-04:00">
+  <state datetime="2015-06-24T17:19:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2015-06-24T17:19:00-04:00"/>
+  </status>
+  <introduced datetime="2015-04-28"/>
+  <titles>
+    <title type="short" as="introduced">Ratepayer Protection Act of 2015</title>
+    <title type="short" as="reported to house">Ratepayer Protection Act of 2015</title>
+    <title type="short" as="passed house">Ratepayer Protection Act of 2015</title>
+    <title type="official" as="introduced">To allow for judicial review of any final rule addressing carbon dioxide emissions from existing fossil fuel-fired electric utility generating units before requiring compliance with such rule, and to allow States to protect households and businesses from significant adverse effects on electricity ratepayers or reliability.</title>
+  </titles>
+  <sponsor id="400431"/>
+  <cosponsors>
+    <cosponsor id="412630" joined="2015-06-12"/>
+    <cosponsor id="412642" joined="2015-06-12"/>
+    <cosponsor id="412655" joined="2015-06-12"/>
+    <cosponsor id="412541" joined="2015-05-05"/>
+    <cosponsor id="400018" joined="2015-06-12"/>
+    <cosponsor id="412250" joined="2015-06-12"/>
+    <cosponsor id="400030" joined="2015-04-28"/>
+    <cosponsor id="412478" joined="2015-06-09"/>
+    <cosponsor id="412629" joined="2015-05-15"/>
+    <cosponsor id="412567" joined="2015-06-12"/>
+    <cosponsor id="412395" joined="2015-05-12"/>
+    <cosponsor id="412539" joined="2015-06-12"/>
+    <cosponsor id="412601" joined="2015-05-15"/>
+    <cosponsor id="412622" joined="2015-06-12"/>
+    <cosponsor id="412563" joined="2015-05-21"/>
+    <cosponsor id="412555" joined="2015-05-05"/>
+    <cosponsor id="412400" joined="2015-05-15"/>
+    <cosponsor id="400086" joined="2015-06-16"/>
+    <cosponsor id="412526" joined="2015-05-15"/>
+    <cosponsor id="412477" joined="2015-06-09"/>
+    <cosponsor id="400116" joined="2015-05-05"/>
+    <cosponsor id="412457" joined="2015-05-05"/>
+    <cosponsor id="412480" joined="2015-06-09"/>
+    <cosponsor id="400137" joined="2015-05-21"/>
+    <cosponsor id="412463" joined="2015-05-12"/>
+    <cosponsor id="412485" joined="2015-04-28"/>
+    <cosponsor id="412278" joined="2015-05-05"/>
+    <cosponsor id="412280" joined="2015-06-09"/>
+    <cosponsor id="412444" joined="2015-05-15"/>
+    <cosponsor id="412550" joined="2015-06-12"/>
+    <cosponsor id="412663" joined="2015-06-09"/>
+    <cosponsor id="412284" joined="2015-06-09"/>
+    <cosponsor id="412460" joined="2015-06-09"/>
+    <cosponsor id="412603" joined="2015-06-12"/>
+    <cosponsor id="400209" joined="2015-05-12"/>
+    <cosponsor id="412465" joined="2015-05-15"/>
+    <cosponsor id="400224" joined="2015-06-09"/>
+    <cosponsor id="412191" joined="2015-06-16"/>
+    <cosponsor id="412256" joined="2015-05-05"/>
+    <cosponsor id="412445" joined="2015-06-09"/>
+    <cosponsor id="412624" joined="2015-06-16"/>
+    <cosponsor id="412656" joined="2015-06-16"/>
+    <cosponsor id="412292" joined="2015-06-12"/>
+    <cosponsor id="412294" joined="2015-06-09"/>
+    <cosponsor id="400654" joined="2015-06-12"/>
+    <cosponsor id="412487" joined="2015-05-05"/>
+    <cosponsor id="412611" joined="2015-06-16"/>
+    <cosponsor id="412568" joined="2015-05-05"/>
+    <cosponsor id="400285" joined="2015-05-12"/>
+    <cosponsor id="412443" joined="2015-06-09"/>
+    <cosponsor id="400316" joined="2015-04-28"/>
+    <cosponsor id="412489" joined="2015-06-12"/>
+    <cosponsor id="412394" joined="2015-06-12"/>
+    <cosponsor id="412310" joined="2015-06-09"/>
+    <cosponsor id="400341" joined="2015-05-15"/>
+    <cosponsor id="412641" joined="2015-05-21"/>
+    <cosponsor id="400365" joined="2015-06-12"/>
+    <cosponsor id="400367" joined="2015-05-05"/>
+    <cosponsor id="412396" joined="2015-05-05"/>
+    <cosponsor id="409888" joined="2015-06-12"/>
+    <cosponsor id="400381" joined="2015-06-16"/>
+    <cosponsor id="412581" joined="2015-06-09"/>
+    <cosponsor id="412461" joined="2015-05-05"/>
+    <cosponsor id="412405" joined="2015-06-12"/>
+    <cosponsor id="412548" joined="2015-06-09"/>
+    <cosponsor id="412402" joined="2015-06-09"/>
+    <cosponsor id="412640" joined="2015-06-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-28" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-04-28">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2015-04-29">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-04-29" state="REPORTED">
+      <text>Ordered to be Reported by the Yeas and Nays: 28 - 22.</text>
+    </calendar>
+    <action datetime="2015-06-19T12:13:00-04:00">
+      <text>Reported by the Committee on Energy and Commerce. H. Rept. 114-171.</text>
+    </action>
+    <calendar datetime="2015-06-19T12:13:00-04:00" calendar="Union" number="126">
+      <text>Placed on the Union Calendar, Calendar No. 126.</text>
+    </calendar>
+    <action datetime="2015-06-23T19:27:00-04:00">
+      <text>Rules Committee Resolution H. Res. 333 Reported to House. Resolution provides for a modified open rule for H.R. 2822; a structured rule for H.R. 2042; and provides for proceedings of the House during the period from June 26, 2015, through July 6, 2015.</text>
+    </action>
+    <action datetime="2015-06-24T14:23:00-04:00">
+      <text>Rule H. Res. 333 passed House.</text>
+    </action>
+    <action datetime="2015-06-24T14:23:00-04:00">
+      <text>Considered under the provisions of rule H. Res. 333.</text>
+      <reference ref="CR H4617-4633" label="consideration"/>
+      <reference ref="text of amendment in the nature of a substitute CR H4624-4625"/>
+    </action>
+    <action datetime="2015-06-24T14:24:00-04:00">
+      <text>Resolution provides for a modified open rule for H.R. 2822; a structured rule for H.R. 2042; and provides for proceedings of the House during the period from June 26, 2015, through July 6, 2015.</text>
+    </action>
+    <action datetime="2015-06-24T14:24:00-04:00">
+      <text>House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 333 and Rule XVIII.</text>
+    </action>
+    <action datetime="2015-06-24T14:24:00-04:00">
+      <text>The Speaker designated the Honorable John J. Duncan, Jr. to act as Chairman of the Committee.</text>
+    </action>
+    <action datetime="2015-06-24T14:24:00-04:00">
+      <text>GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 2042.</text>
+    </action>
+    <action datetime="2015-06-24T15:36:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H.Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Pallone amendment No. 1.</text>
+    </action>
+    <action datetime="2015-06-24T15:44:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Pallone amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Pallone demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2015-06-24T15:46:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H.Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Rush amendment No. 2.</text>
+    </action>
+    <action datetime="2015-06-24T15:53:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Rush amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Rush demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2015-06-24T15:54:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Huizenga amendment No. 3.</text>
+    </action>
+    <action datetime="2015-06-24T16:02:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the McNerney amendment No. 4.</text>
+    </action>
+    <action datetime="2015-06-24T16:10:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the McNerney amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. McNerney demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2015-06-24T16:11:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 333, the Committee of the Whole proceeded with 10 minutes of debate on the Newhouse amendment No. 5.</text>
+    </action>
+    <action datetime="2015-06-24T17:02:00-04:00">
+      <text>The House rose from the Committee of the Whole House on the state of the Union to report H.R. 2042.</text>
+    </action>
+    <action datetime="2015-06-24T17:03:00-04:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+      <reference ref="CR H4632" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="384" datetime="2015-06-24T17:19:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by recorded vote: 247 - 180 (Roll no. 384).</text>
+    </vote>
+    <action datetime="2015-06-24T17:19:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2015-06-25">
+      <text>Received in the Senate.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="rule" session="114" type="hr" number="333"/>
+    <bill relation="unknown" session="114" type="s" number="1324"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Air quality"/>
+    <term name="Climate change and greenhouse gases"/>
+    <term name="Coal"/>
+    <term name="Electric power generation and transmission"/>
+    <term name="Environmental Protection Agency (EPA)"/>
+    <term name="Environmental regulatory procedures"/>
+    <term name="Judicial review and appeals"/>
+    <term name="Oil and gas"/>
+    <term name="Public utilities and utility rates"/>
+  </subjects>
+  <amendments>
+    <amendment number="h526"/>
+    <amendment number="h527"/>
+    <amendment number="h528"/>
+    <amendment number="h529"/>
+    <amendment number="h530"/>
+  </amendments>
+  <summary>4/28/2015--Introduced.
+Ratepayer Protection Act of 2015 
+
+This bill extends the deadline for mandatory compliance with final rules that target carbon dioxide emissions from existing sources that are fossil fuel-fired electric utility generating units under the Clean Air Act, including any final rule that succeeds either:
+
+ the proposed rule entitled "Carbon Pollution Emission Guidelines for Existing Stationary Sources: Electric Utility Generating Units," or the supplemental proposed rule entitled "Carbon Pollution Emission Guidelines for Existing Stationary Sources: EGUs in Indian Country and U.S. Territories; Multi-Jurisdictional Partnerships". The extension period begins 60 days after the notice of promulgation of a final rule appears in the Federal Register and ends following any judicial review, on the date a judgment becomes final, and no longer subject to further appeal or review, in all actions (including those under the Clean Air Act) that are filed during that 60-day period.
+
+A state is also shielded under the bill from:
+
+ being required to adopt or submit a state plan, and being subject to a federal plan under any federal final rule if the governor notifies the Administrator of the Environmental Protection Agency that implementation of either plan would have a significant adverse effect upon: (1) the state's residential, commercial, or industrial ratepayers; or (2) upon the reliability of the state's electricity system.</summary>
+</bill>

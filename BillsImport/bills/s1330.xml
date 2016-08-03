@@ -1,0 +1,52 @@
+<bill session="114" type="s" number="1330" updated="2015-07-25T07:00:20-04:00">
+  <state datetime="2015-05-13">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-13"/>
+  </status>
+  <introduced datetime="2015-05-13"/>
+  <titles>
+    <title type="short" as="introduced">Freedom from Discrimination in Credit Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend the Equal Credit Opportunity Act to prohibit discrimination on account of sexual orientation or gender identity when extending credit.</title>
+  </titles>
+  <sponsor id="300076"/>
+  <cosponsors>
+    <cosponsor id="400013" joined="2015-05-13"/>
+    <cosponsor id="412598" joined="2015-05-13"/>
+    <cosponsor id="300011" joined="2015-05-13"/>
+    <cosponsor id="300018" joined="2015-07-13"/>
+    <cosponsor id="300043" joined="2015-05-13"/>
+    <cosponsor id="412378" joined="2015-05-13"/>
+    <cosponsor id="412200" joined="2015-05-13"/>
+    <cosponsor id="400253" joined="2015-05-13"/>
+    <cosponsor id="412325" joined="2015-05-13"/>
+    <cosponsor id="412305" joined="2015-05-14"/>
+    <cosponsor id="412507" joined="2015-05-13"/>
+    <cosponsor id="412323" joined="2015-05-13"/>
+    <cosponsor id="412542" joined="2015-05-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-13" state="REFERRED">
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="2309"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Consumer credit"/>
+    <term name="Sex, gender, sexual orientation discrimination"/>
+  </subjects>
+  <amendments/>
+  <summary>5/13/2015--Introduced.
+Freedom from Discrimination in Credit Act of 2015
+
+Amends the Equal Credit Opportunity Act to expand the categories of prohibited discrimination when extending credit to include discrimination on account of sexual orientation or gender identity. (Currently, such discrimination in credit is prohibited only on the basis of race, color, religion, national origin, sex or marital status, or age.)
+
+Provides for such Act to apply whether the basis for certain prohibited forms of discrimination is actual or perceived.
+
+Defines: (1) "gender identity" as the gender-related identity, appearance, or mannerisms or other gender-related characteristics of an individual with or without regard to the individual's designated sex at birth; (2) "person" as a natural person, corporation, government or governmental subdivision or agency, trust, estate, partnership, cooperative, or association; and (3) "sexual orientation" as homosexuality, heterosexuality, or bisexuality.</summary>
+</bill>

@@ -1,0 +1,55 @@
+<bill session="114" type="sr" number="237" updated="2015-08-08T06:51:22-04:00">
+  <state datetime="2015-07-30">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-30"/>
+  </status>
+  <introduced datetime="2015-07-30"/>
+  <titles>
+    <title type="official" as="introduced">A resolution condemning Joseph Kony and the Lord's Resistance Army for continuing to perpetrate crimes against humanity, war crimes, and mass atrocities, and supporting ongoing efforts by the United States Government, the African Union, and governments and regional organizations in central Africa to remove Joseph Kony and Lord's Resistance Army commanders from the battlefield and promote protection and recovery of affected communities.</title>
+  </titles>
+  <sponsor id="400040"/>
+  <cosponsors>
+    <cosponsor id="400013" joined="2015-07-30"/>
+    <cosponsor id="300038" joined="2015-07-30"/>
+    <cosponsor id="300052" joined="2015-07-30"/>
+    <cosponsor id="300055" joined="2015-07-30"/>
+    <cosponsor id="400194" joined="2015-07-30"/>
+    <cosponsor id="400253" joined="2015-07-30"/>
+    <cosponsor id="412305" joined="2015-07-30"/>
+    <cosponsor id="412669" joined="2015-07-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-30" state="REFERRED">
+      <text>Referred to the Committee on Foreign Relations.</text>
+      <reference ref="CR S6192-6193" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="hr" number="394"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Africa"/>
+    <term name="Central African Republic"/>
+    <term name="Child safety and welfare"/>
+    <term name="Conflicts and wars"/>
+    <term name="Democratic Republic of the Congo"/>
+    <term name="Europe"/>
+    <term name="European Union"/>
+    <term name="Foreign aid and international relief"/>
+    <term name="International organizations and cooperation"/>
+    <term name="Military assistance, sales, and agreements"/>
+    <term name="Military operations and strategy"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Multilateral development programs"/>
+    <term name="South Sudan"/>
+    <term name="Sudan"/>
+    <term name="Uganda"/>
+    <term name="United Nations"/>
+    <term name="War crimes, genocide, crimes against humanity"/>
+  </subjects>
+  <amendments/>
+</bill>

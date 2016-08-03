@@ -1,0 +1,101 @@
+<bill session="114" type="h" number="1020" updated="2015-08-08T06:27:40-04:00">
+  <state datetime="2015-02-25T14:31:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2015-02-25T14:31:00-05:00"/>
+  </status>
+  <introduced datetime="2015-02-20"/>
+  <titles>
+    <title type="short" as="introduced">STEM Education Act of 2015</title>
+    <title type="short" as="passed house">STEM Education Act of 2015</title>
+    <title type="short" as="reported to senate">STEM Education Act of 2015</title>
+    <title type="official" as="introduced">To define STEM education to include computer science, and to support existing STEM education programs at the National Science Foundation.</title>
+  </titles>
+  <sponsor id="400381"/>
+  <cosponsors>
+    <cosponsor id="412427" joined="2015-02-20"/>
+    <cosponsor id="412563" joined="2015-02-20"/>
+    <cosponsor id="412658" joined="2015-02-20"/>
+    <cosponsor id="412524" joined="2015-02-20"/>
+    <cosponsor id="412486" joined="2015-02-24"/>
+    <cosponsor id="412422" joined="2015-02-20"/>
+    <cosponsor id="400630" joined="2015-02-20"/>
+    <cosponsor id="412487" joined="2015-02-24"/>
+    <cosponsor id="412634" joined="2015-02-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-20" state="REFERRED">
+      <text>Referred to the House Committee on Science, Space, and Technology.</text>
+    </action>
+    <action datetime="2015-02-24T16:27:00-05:00">
+      <text>Mr. Smith (TX) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2015-02-24T16:27:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1098-1100" label="consideration"/>
+    </action>
+    <action datetime="2015-02-24T16:27:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1020.</text>
+    </action>
+    <action datetime="2015-02-24T16:47:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2015-02-25T14:22:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H1135" label="consideration"/>
+    </action>
+    <action datetime="2015-02-25T14:31:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote how="roll" type="vote" roll="88" datetime="2015-02-25T14:31:00-05:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 412 - 8 (Roll no. 88).</text>
+      <reference ref="CR 2/24/2015 H1098-1100" label="text"/>
+    </vote>
+    <action datetime="2015-02-26">
+      <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+    <calendar datetime="2015-05-20">
+      <text>Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="2015-08-04">
+      <text>Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. With written report No. 114-115.</text>
+    </action>
+    <calendar datetime="2015-08-04" calendar="Senate Legislative" under="General Orders" number="195">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 195.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science, Space, and Technology" activity="Referral"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1806"/>
+    <bill relation="unknown" session="114" type="h" number="1898"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Computers and information technology"/>
+    <term name="Education programs funding"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Higher education"/>
+    <term name="Research administration and funding"/>
+    <term name="Research and development"/>
+    <term name="Science and engineering education"/>
+    <term name="Student aid and college costs"/>
+    <term name="Teaching, teachers, curricula"/>
+  </subjects>
+  <amendments/>
+  <summary>8/4/2015--Reported to Senate without amendment.
+(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)
+
+STEM Education Act of 2015
+
+ (Sec. 3) Requires the Director of the National Science Foundation (NSF) to continue to award competitive, merit-reviewed grants to support: (1) research and development of innovative out-of-school STEM (science, technology, engineering, and mathematics) learning and emerging STEM learning environments; and (2) research that advances the field of informal STEM education.
+
+Requires supported activities to include research and development that improves understanding of learning and engagement in informal environments and design and testing of innovative STEM resources for such environments to improve STEM learning outcomes and increase engagement for elementary and secondary school students and teachers and the public.
+
+(Sec. 4) Amends the National Science Foundation Authorization Act of 2002 to allow award of NSF Master Teaching Fellowships to mathematics and science teachers who possess a bachelor's degree in their field (currently limited to those with a master's degree).
+
+Requires fellowship grants to be used, in the case of Master Teaching Fellowships for teachers with bachelor's degrees in their field who are working toward a master's degree, to: (1) offer academic courses leading to a master's degree and leadership training to prepare individuals to become master teachers, and (2) offer programs both during and after matriculation to enable fellows to become highly effective mathematics and science teachers and to exchange ideas with others in their fields. Limits fellowship support during such a master's degree program to one year, with a prorated amount in the case of enrollment in a part-time program.
+
+Includes elementary or secondary school computer science teachers as mathematics and science teachers for purposes of the program of teacher recruiting and training grants known as the Robert Noyce Teacher Scholarship Program.</summary>
+</bill>

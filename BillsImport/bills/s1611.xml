@@ -1,0 +1,42 @@
+<bill session="114" type="s" number="1611" updated="2015-06-26T04:49:47-04:00">
+  <state datetime="2015-06-25">REPORTED</state>
+  <status>
+    <unknown datetime="2015-06-25"/>
+  </status>
+  <introduced datetime="2015-06-18"/>
+  <titles>
+    <title type="short" as="introduced">Coast Guard Authorization Act of 2015</title>
+    <title type="short" as="introduced" partial="1">Sport Fish Restoration and Recreational Boating Safety Act</title>
+    <title type="official" as="introduced">A bill to authorize appropriations for the Coast Guard for fiscal years 2016 and 2017, and for other purposes.</title>
+  </titles>
+  <sponsor id="400546"/>
+  <cosponsors>
+    <cosponsor id="412598" joined="2015-06-18"/>
+    <cosponsor id="300078" joined="2015-06-18"/>
+    <cosponsor id="412491" joined="2015-06-18"/>
+    <cosponsor id="412665" joined="2015-06-18"/>
+    <cosponsor id="400432" joined="2015-06-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-18" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+    <calendar datetime="2015-06-25" state="REPORTED">
+      <text>Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1402"/>
+    <bill relation="unknown" session="114" type="h" number="2038"/>
+    <bill relation="unknown" session="114" type="h" number="2284"/>
+    <bill relation="unknown" session="114" type="s" number="1191"/>
+    <bill relation="unknown" session="114" type="s" number="1316"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+</bill>

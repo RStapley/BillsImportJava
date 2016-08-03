@@ -1,0 +1,65 @@
+<bill session="114" type="h" number="1270" updated="2015-07-30T04:48:31-04:00">
+  <state datetime="2015-03-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-04"/>
+  </status>
+  <introduced datetime="2015-03-04"/>
+  <titles>
+    <title type="short" as="introduced">Restoring Access to Medication Act of 2015</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to repeal the amendments made by the Patient Protection and Affordable Care Act which disqualify expenses for over-the-counter drugs under health savings accounts and health flexible spending arrangements.</title>
+  </titles>
+  <sponsor id="412284"/>
+  <cosponsors>
+    <cosponsor id="412478" joined="2015-07-13"/>
+    <cosponsor id="400636" joined="2015-07-23"/>
+    <cosponsor id="400046" joined="2015-07-14"/>
+    <cosponsor id="400052" joined="2015-07-10"/>
+    <cosponsor id="400100" joined="2015-03-23"/>
+    <cosponsor id="412477" joined="2015-06-18"/>
+    <cosponsor id="412480" joined="2015-07-08"/>
+    <cosponsor id="400158" joined="2015-07-08"/>
+    <cosponsor id="412446" joined="2015-07-09"/>
+    <cosponsor id="412437" joined="2015-05-21"/>
+    <cosponsor id="412460" joined="2015-07-29"/>
+    <cosponsor id="412603" joined="2015-06-25"/>
+    <cosponsor id="400209" joined="2015-07-08"/>
+    <cosponsor id="412465" joined="2015-07-08"/>
+    <cosponsor id="400218" joined="2015-03-04"/>
+    <cosponsor id="412256" joined="2015-07-23"/>
+    <cosponsor id="412445" joined="2015-05-01"/>
+    <cosponsor id="412487" joined="2015-07-16"/>
+    <cosponsor id="400279" joined="2015-04-14"/>
+    <cosponsor id="412527" joined="2015-03-10"/>
+    <cosponsor id="412431" joined="2015-04-14"/>
+    <cosponsor id="412309" joined="2015-07-16"/>
+    <cosponsor id="412462" joined="2015-07-08"/>
+    <cosponsor id="412310" joined="2015-07-08"/>
+    <cosponsor id="412202" joined="2015-07-28"/>
+    <cosponsor id="412570" joined="2015-07-08"/>
+    <cosponsor id="400348" joined="2015-06-01"/>
+    <cosponsor id="400606" joined="2015-05-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-04" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="254"/>
+    <bill relation="identical" session="114" type="s" number="709"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Income tax deductions"/>
+    <term name="Prescription drugs"/>
+  </subjects>
+  <amendments/>
+  <summary>3/4/2015--Introduced.
+Restoring Access to Medication Act of 2015
+
+Repeals provisions of the Internal Revenue Code, as added by the Patient Protection and Affordable Care Act, that limit payments for medications from health savings accounts, medical savings accounts, and health flexible spending arrangements to only prescription drugs or insulin (thus allowing distributions from such accounts for over-the-counter drugs).</summary>
+</bill>

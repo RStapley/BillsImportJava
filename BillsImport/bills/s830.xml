@@ -1,0 +1,36 @@
+<bill session="114" type="s" number="830" updated="2015-04-11T06:40:37-04:00">
+  <state datetime="2015-03-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-23"/>
+  </status>
+  <introduced datetime="2015-03-23"/>
+  <titles>
+    <title type="short" as="introduced">LDRD Enhancement Act of 2015</title>
+    <title type="official" as="introduced">A bill to increase the maximum percentage of funds available to the Department of Energy for laboratory directed research and development.</title>
+  </titles>
+  <sponsor id="412281"/>
+  <cosponsors>
+    <cosponsor id="400413" joined="2015-03-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-23" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Appropriations"/>
+    <term name="Defense spending"/>
+    <term name="Department of Energy"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Military procurement, research, weapons development"/>
+    <term name="Nuclear weapons"/>
+    <term name="Research administration and funding"/>
+    <term name="Research and development"/>
+  </subjects>
+  <amendments/>
+</bill>

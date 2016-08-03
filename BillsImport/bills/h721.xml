@@ -1,0 +1,268 @@
+<bill session="114" type="h" number="721" updated="2015-08-01T04:50:24-04:00">
+  <state datetime="2015-02-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-04"/>
+  </status>
+  <introduced datetime="2015-02-04"/>
+  <titles>
+    <title type="short" as="introduced">Short Line Railroad Rehabilitation and Investment Act of 2015</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to extend and modify the railroad track maintenance credit.</title>
+  </titles>
+  <sponsor id="412284"/>
+  <cosponsors>
+    <cosponsor id="412630" joined="2015-03-17"/>
+    <cosponsor id="412625" joined="2015-04-13"/>
+    <cosponsor id="412500" joined="2015-03-23"/>
+    <cosponsor id="412469" joined="2015-02-26"/>
+    <cosponsor id="412541" joined="2015-04-13"/>
+    <cosponsor id="412436" joined="2015-03-16"/>
+    <cosponsor id="412512" joined="2015-06-09"/>
+    <cosponsor id="412657" joined="2015-03-24"/>
+    <cosponsor id="412635" joined="2015-06-10"/>
+    <cosponsor id="400029" joined="2015-04-29"/>
+    <cosponsor id="400030" joined="2015-03-03"/>
+    <cosponsor id="412478" joined="2015-03-19"/>
+    <cosponsor id="400033" joined="2015-02-04"/>
+    <cosponsor id="412501" joined="2015-05-12"/>
+    <cosponsor id="412629" joined="2015-03-03"/>
+    <cosponsor id="400636" joined="2015-02-13"/>
+    <cosponsor id="412652" joined="2015-07-29"/>
+    <cosponsor id="412395" joined="2015-02-26"/>
+    <cosponsor id="412539" joined="2015-06-25"/>
+    <cosponsor id="400048" joined="2015-03-03"/>
+    <cosponsor id="412516" joined="2015-05-08"/>
+    <cosponsor id="412427" joined="2015-02-26"/>
+    <cosponsor id="412537" joined="2015-04-13"/>
+    <cosponsor id="400616" joined="2015-06-09"/>
+    <cosponsor id="412601" joined="2015-06-10"/>
+    <cosponsor id="400062" joined="2015-06-12"/>
+    <cosponsor id="400063" joined="2015-06-09"/>
+    <cosponsor id="412517" joined="2015-06-18"/>
+    <cosponsor id="412258" joined="2015-04-28"/>
+    <cosponsor id="412622" joined="2015-03-19"/>
+    <cosponsor id="400068" joined="2015-03-04"/>
+    <cosponsor id="412571" joined="2015-02-24"/>
+    <cosponsor id="400071" joined="2015-03-19"/>
+    <cosponsor id="412470" joined="2015-06-12"/>
+    <cosponsor id="412271" joined="2015-02-27"/>
+    <cosponsor id="412236" joined="2015-07-10"/>
+    <cosponsor id="412563" joined="2015-02-13"/>
+    <cosponsor id="412531" joined="2015-03-04"/>
+    <cosponsor id="412658" joined="2015-02-13"/>
+    <cosponsor id="412272" joined="2015-05-01"/>
+    <cosponsor id="412513" joined="2015-06-09"/>
+    <cosponsor id="412651" joined="2015-02-24"/>
+    <cosponsor id="412193" joined="2015-05-20"/>
+    <cosponsor id="412555" joined="2015-04-21"/>
+    <cosponsor id="412400" joined="2015-04-22"/>
+    <cosponsor id="400086" joined="2015-02-26"/>
+    <cosponsor id="400087" joined="2015-04-13"/>
+    <cosponsor id="412536" joined="2015-02-04"/>
+    <cosponsor id="400100" joined="2015-03-03"/>
+    <cosponsor id="412544" joined="2015-03-10"/>
+    <cosponsor id="412505" joined="2015-06-09"/>
+    <cosponsor id="412403" joined="2015-02-26"/>
+    <cosponsor id="400648" joined="2015-02-27"/>
+    <cosponsor id="412477" joined="2015-02-26"/>
+    <cosponsor id="400108" joined="2015-02-27"/>
+    <cosponsor id="400114" joined="2015-02-26"/>
+    <cosponsor id="412533" joined="2015-05-29"/>
+    <cosponsor id="412488" joined="2015-06-10"/>
+    <cosponsor id="412472" joined="2015-02-26"/>
+    <cosponsor id="400116" joined="2015-03-03"/>
+    <cosponsor id="412457" joined="2015-04-21"/>
+    <cosponsor id="412639" joined="2015-02-26"/>
+    <cosponsor id="412524" joined="2015-03-10"/>
+    <cosponsor id="412482" joined="2015-02-26"/>
+    <cosponsor id="400130" joined="2015-05-08"/>
+    <cosponsor id="412479" joined="2015-07-10"/>
+    <cosponsor id="400646" joined="2015-07-23"/>
+    <cosponsor id="412476" joined="2015-02-26"/>
+    <cosponsor id="412480" joined="2015-07-27"/>
+    <cosponsor id="400137" joined="2015-05-05"/>
+    <cosponsor id="412257" joined="2015-05-14"/>
+    <cosponsor id="412529" joined="2015-03-04"/>
+    <cosponsor id="412382" joined="2015-06-04"/>
+    <cosponsor id="412463" joined="2015-06-25"/>
+    <cosponsor id="412453" joined="2015-02-13"/>
+    <cosponsor id="412397" joined="2015-03-03"/>
+    <cosponsor id="412620" joined="2015-04-13"/>
+    <cosponsor id="400157" joined="2015-02-27"/>
+    <cosponsor id="412631" joined="2015-06-12"/>
+    <cosponsor id="400158" joined="2015-02-26"/>
+    <cosponsor id="412388" joined="2015-02-27"/>
+    <cosponsor id="412485" joined="2015-02-27"/>
+    <cosponsor id="412661" joined="2015-06-18"/>
+    <cosponsor id="412447" joined="2015-06-01"/>
+    <cosponsor id="412278" joined="2015-03-10"/>
+    <cosponsor id="400163" joined="2015-04-28"/>
+    <cosponsor id="412498" joined="2015-05-29"/>
+    <cosponsor id="412454" joined="2015-02-13"/>
+    <cosponsor id="412645" joined="2015-06-01"/>
+    <cosponsor id="412280" joined="2015-03-17"/>
+    <cosponsor id="412434" joined="2015-03-06"/>
+    <cosponsor id="412444" joined="2015-03-03"/>
+    <cosponsor id="400170" joined="2015-02-26"/>
+    <cosponsor id="412584" joined="2015-02-26"/>
+    <cosponsor id="412623" joined="2015-03-06"/>
+    <cosponsor id="400641" joined="2015-02-13"/>
+    <cosponsor id="412609" joined="2015-05-19"/>
+    <cosponsor id="400179" joined="2015-02-26"/>
+    <cosponsor id="412550" joined="2015-03-03"/>
+    <cosponsor id="412429" joined="2015-02-26"/>
+    <cosponsor id="412437" joined="2015-02-11"/>
+    <cosponsor id="412422" joined="2015-03-19"/>
+    <cosponsor id="412283" joined="2015-07-29"/>
+    <cosponsor id="400195" joined="2015-05-08"/>
+    <cosponsor id="412460" joined="2015-06-25"/>
+    <cosponsor id="412199" joined="2015-03-06"/>
+    <cosponsor id="400209" joined="2015-02-26"/>
+    <cosponsor id="412566" joined="2015-02-26"/>
+    <cosponsor id="412649" joined="2015-03-23"/>
+    <cosponsor id="412465" joined="2015-02-13"/>
+    <cosponsor id="412595" joined="2015-03-24"/>
+    <cosponsor id="412546" joined="2015-04-29"/>
+    <cosponsor id="412583" joined="2015-03-17"/>
+    <cosponsor id="400218" joined="2015-03-24"/>
+    <cosponsor id="412421" joined="2015-03-04"/>
+    <cosponsor id="412286" joined="2015-02-24"/>
+    <cosponsor id="400224" joined="2015-04-21"/>
+    <cosponsor id="412557" joined="2015-03-25"/>
+    <cosponsor id="412510" joined="2015-02-27"/>
+    <cosponsor id="412290" joined="2015-06-09"/>
+    <cosponsor id="400230" joined="2015-03-10"/>
+    <cosponsor id="400233" joined="2015-07-21"/>
+    <cosponsor id="412638" joined="2015-03-10"/>
+    <cosponsor id="412616" joined="2015-04-28"/>
+    <cosponsor id="400630" joined="2015-02-04"/>
+    <cosponsor id="400244" joined="2015-06-12"/>
+    <cosponsor id="412209" joined="2015-03-23"/>
+    <cosponsor id="412445" joined="2015-05-12"/>
+    <cosponsor id="412521" joined="2015-03-03"/>
+    <cosponsor id="400247" joined="2015-03-24"/>
+    <cosponsor id="412292" joined="2015-06-12"/>
+    <cosponsor id="412294" joined="2015-04-21"/>
+    <cosponsor id="412562" joined="2015-02-24"/>
+    <cosponsor id="412468" joined="2015-02-24"/>
+    <cosponsor id="400663" joined="2015-03-04"/>
+    <cosponsor id="400654" joined="2015-03-06"/>
+    <cosponsor id="400259" joined="2015-04-21"/>
+    <cosponsor id="400263" joined="2015-02-13"/>
+    <cosponsor id="412487" joined="2015-02-26"/>
+    <cosponsor id="400659" joined="2015-04-28"/>
+    <cosponsor id="412189" joined="2015-04-13"/>
+    <cosponsor id="412552" joined="2015-02-11"/>
+    <cosponsor id="412466" joined="2015-02-26"/>
+    <cosponsor id="412540" joined="2015-03-16"/>
+    <cosponsor id="400273" joined="2015-02-27"/>
+    <cosponsor id="400276" joined="2015-02-26"/>
+    <cosponsor id="412634" joined="2015-04-21"/>
+    <cosponsor id="412632" joined="2015-06-10"/>
+    <cosponsor id="412568" joined="2015-04-21"/>
+    <cosponsor id="400285" joined="2015-02-26"/>
+    <cosponsor id="400289" joined="2015-03-03"/>
+    <cosponsor id="400291" joined="2015-03-19"/>
+    <cosponsor id="412660" joined="2015-04-13"/>
+    <cosponsor id="412475" joined="2015-02-27"/>
+    <cosponsor id="408211" joined="2015-05-21"/>
+    <cosponsor id="412606" joined="2015-07-21"/>
+    <cosponsor id="412409" joined="2015-03-10"/>
+    <cosponsor id="412443" joined="2015-04-15"/>
+    <cosponsor id="412303" joined="2015-02-27"/>
+    <cosponsor id="400313" joined="2015-03-10"/>
+    <cosponsor id="412192" joined="2015-07-31"/>
+    <cosponsor id="412569" joined="2015-03-17"/>
+    <cosponsor id="400316" joined="2015-02-27"/>
+    <cosponsor id="412307" joined="2015-07-29"/>
+    <cosponsor id="412551" joined="2015-02-26"/>
+    <cosponsor id="412585" joined="2015-04-15"/>
+    <cosponsor id="412633" joined="2015-06-18"/>
+    <cosponsor id="412308" joined="2015-07-10"/>
+    <cosponsor id="412431" joined="2015-04-23"/>
+    <cosponsor id="412309" joined="2015-03-10"/>
+    <cosponsor id="400326" joined="2015-06-09"/>
+    <cosponsor id="412331" joined="2015-06-10"/>
+    <cosponsor id="412393" joined="2015-02-26"/>
+    <cosponsor id="400660" joined="2015-03-03"/>
+    <cosponsor id="412572" joined="2015-03-03"/>
+    <cosponsor id="412394" joined="2015-04-15"/>
+    <cosponsor id="412310" joined="2015-04-22"/>
+    <cosponsor id="400340" joined="2015-06-09"/>
+    <cosponsor id="400341" joined="2015-05-12"/>
+    <cosponsor id="412426" joined="2015-05-12"/>
+    <cosponsor id="412311" joined="2015-06-09"/>
+    <cosponsor id="412411" joined="2015-03-03"/>
+    <cosponsor id="412570" joined="2015-02-26"/>
+    <cosponsor id="412641" joined="2015-06-10"/>
+    <cosponsor id="400349" joined="2015-06-09"/>
+    <cosponsor id="400350" joined="2015-03-17"/>
+    <cosponsor id="400352" joined="2015-04-13"/>
+    <cosponsor id="412314" joined="2015-02-13"/>
+    <cosponsor id="412315" joined="2015-06-12"/>
+    <cosponsor id="412417" joined="2015-05-08"/>
+    <cosponsor id="400364" joined="2015-05-20"/>
+    <cosponsor id="400367" joined="2015-02-26"/>
+    <cosponsor id="412396" joined="2015-04-13"/>
+    <cosponsor id="400376" joined="2015-07-21"/>
+    <cosponsor id="412186" joined="2015-03-03"/>
+    <cosponsor id="400378" joined="2015-03-17"/>
+    <cosponsor id="400379" joined="2015-05-20"/>
+    <cosponsor id="400380" joined="2015-04-13"/>
+    <cosponsor id="412596" joined="2015-07-27"/>
+    <cosponsor id="400381" joined="2015-03-16"/>
+    <cosponsor id="412461" joined="2015-04-28"/>
+    <cosponsor id="412514" joined="2015-06-09"/>
+    <cosponsor id="400402" joined="2015-04-29"/>
+    <cosponsor id="412317" joined="2015-02-13"/>
+    <cosponsor id="400403" joined="2015-03-03"/>
+    <cosponsor id="412405" joined="2015-02-26"/>
+    <cosponsor id="412318" joined="2015-02-13"/>
+    <cosponsor id="412319" joined="2015-06-18"/>
+    <cosponsor id="412636" joined="2015-06-25"/>
+    <cosponsor id="400411" joined="2015-06-18"/>
+    <cosponsor id="400414" joined="2015-05-08"/>
+    <cosponsor id="412515" joined="2015-03-03"/>
+    <cosponsor id="400415" joined="2015-04-21"/>
+    <cosponsor id="412580" joined="2015-03-04"/>
+    <cosponsor id="412213" joined="2015-02-27"/>
+    <cosponsor id="412618" joined="2015-04-13"/>
+    <cosponsor id="412214" joined="2015-03-17"/>
+    <cosponsor id="400623" joined="2015-07-16"/>
+    <cosponsor id="412410" joined="2015-02-26"/>
+    <cosponsor id="412239" joined="2015-02-24"/>
+    <cosponsor id="412610" joined="2015-05-14"/>
+    <cosponsor id="400627" joined="2015-03-04"/>
+    <cosponsor id="400431" joined="2015-02-26"/>
+    <cosponsor id="412578" joined="2015-02-27"/>
+    <cosponsor id="412412" joined="2015-04-13"/>
+    <cosponsor id="412255" joined="2015-05-14"/>
+    <cosponsor id="412402" joined="2015-02-26"/>
+    <cosponsor id="412211" joined="2015-05-18"/>
+    <cosponsor id="412430" joined="2015-02-26"/>
+    <cosponsor id="412525" joined="2015-06-09"/>
+    <cosponsor id="412628" joined="2015-06-25"/>
+    <cosponsor id="400440" joined="2015-02-11"/>
+    <cosponsor id="412640" joined="2015-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-04" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="637"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Income tax credits"/>
+    <term name="Railroads"/>
+  </subjects>
+  <amendments/>
+  <summary>2/4/2015--Introduced.
+Short Line Railroad Rehabilitation and Investment Act of 2015
+
+ Amends the Internal Revenue Code, with respect to the tax credit for railroad track maintenance, to: (1) expand the types of maintenance expenditures eligible for such credit, and (2) extend such credit through 2016.</summary>
+</bill>

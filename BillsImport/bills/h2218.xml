@@ -1,0 +1,54 @@
+<bill session="114" type="h" number="2218" updated="2015-07-15T04:48:36-04:00">
+  <state datetime="2015-05-01">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-01"/>
+  </status>
+  <introduced datetime="2015-05-01"/>
+  <titles>
+    <title type="short" as="introduced">Renovate and Enhance Veterans' Meeting Halls and Posts Act of 2015</title>
+    <title type="short" as="introduced">REVAMP Act of 2015</title>
+    <title type="official" as="introduced">To amend the Housing and Community Development Act of 1974 to set-aside community development block grant amounts in each fiscal year for grants to local chapters of veterans service organizations for rehabilitation of, and technology for, their facilities.</title>
+  </titles>
+  <sponsor id="412563"/>
+  <cosponsors>
+    <cosponsor id="412635" joined="2015-06-11"/>
+    <cosponsor id="400142" joined="2015-05-21"/>
+    <cosponsor id="400162" joined="2015-06-03"/>
+    <cosponsor id="400641" joined="2015-05-26"/>
+    <cosponsor id="400219" joined="2015-05-01"/>
+    <cosponsor id="412523" joined="2015-07-14"/>
+    <cosponsor id="412647" joined="2015-05-26"/>
+    <cosponsor id="412570" joined="2015-05-01"/>
+    <cosponsor id="412515" joined="2015-07-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-01" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Building construction"/>
+    <term name="Computers and information technology"/>
+    <term name="Housing and community development"/>
+    <term name="Housing and community development funding"/>
+    <term name="Veterans' organizations and recognition"/>
+  </subjects>
+  <amendments/>
+  <summary>5/1/2015--Introduced.
+Renovate and Enhance Veterans' Meeting Halls and Posts Act of 2015 or REVAMP Act of 2015
+
+ Amends the Housing and Community Development Act of 1974 to require the Department of Housing and Urban Development to make competitive grants to eligible veterans service organizations for: (1) repairs or rehabilitation of their existing facilities, and (2) acquiring or upgrading computers and technology for such facilities.
+
+Defines "eligible veterans service organization" as: (1) a tax-exempt entity organized on a local or area basis; and (2) a tax-exempt local or area chapter, post, or other unit of a national, regional, statewide, or other larger entity of which local or area chapters, posts, or units are members (but not any such national, regional, statewide, or other larger entity itself).
+
+ Prohibits an eligible veterans service organization from receiving such grant amounts, for any single fiscal year, in an amount exceeding the lesser of: (1) the aggregate cost of the proposed activities and uses for which the grant amounts will be used, or (2) $200,000.
+
+Makes a grant recipient ineligible to receive another such grant for any of the five succeeding fiscal years.
+
+Prohibits the use of such grants for construction or acquisition of a new facility.</summary>
+</bill>

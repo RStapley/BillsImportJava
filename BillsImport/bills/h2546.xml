@@ -1,0 +1,47 @@
+<bill session="114" type="h" number="2546" updated="2015-06-20T06:39:48-04:00">
+  <state datetime="2015-05-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-21"/>
+  </status>
+  <introduced datetime="2015-05-21"/>
+  <titles>
+    <title type="short" as="introduced">Firearm Risk Protection Act of 2015</title>
+    <title type="official" as="introduced">To prohibit the sale of a firearm to, and the purchase of a firearm by, a person who is not covered by appropriate liability insurance coverage.</title>
+  </titles>
+  <sponsor id="400251"/>
+  <cosponsors>
+    <cosponsor id="412600" joined="2015-05-21"/>
+    <cosponsor id="400162" joined="2015-05-21"/>
+    <cosponsor id="400249" joined="2015-05-21"/>
+    <cosponsor id="412254" joined="2015-05-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-21">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E775"/>
+    </action>
+    <action datetime="2015-05-21" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-06-16">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Firearms and explosives"/>
+    <term name="Life, casualty, property insurance"/>
+  </subjects>
+  <amendments/>
+  <summary>5/21/2015--Introduced.
+Firearm Risk Protection Act of 2015
+
+ Amends the Brady Handgun Violence Prevention Act to: (1) prohibit the purchase or sale of a firearm unless the purchaser presents proof to the seller and the seller verifies that the purchaser is covered by a qualified liability insurance policy, and (2) require any person who purchases a firearm on or after this Act's effective date to be covered by such a policy. Exempts the purchase or sale of a firearm for use by a federal, state, or local agency.
+
+Defines "qualified liability insurance policy" to mean a policy that: (1) provides liability insurance covering the purchaser specifically for losses resulting from use of the firearm while it is owned by the purchaser, and (2) is issued by an insurer licensed or authorized to provide the coverage by the state in which the purchaser resides.</summary>
+</bill>

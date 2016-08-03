@@ -1,0 +1,42 @@
+<bill session="114" type="hr" number="306" updated="2015-08-22T04:47:02-04:00">
+  <state datetime="2015-06-10">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-10"/>
+  </status>
+  <introduced datetime="2015-06-10"/>
+  <titles>
+    <title type="official" as="introduced">Recognizing the centennial of the wreck of the USS Memphis and encouraging the commemoration of such wreck with appropriate events and activities.</title>
+  </titles>
+  <sponsor id="412236"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-06-10" state="REFERRED">
+      <text>Referred to the Committee on Armed Services, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-06-10">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2015-06-10">
+      <text>Referred to House Foreign Affairs</text>
+    </action>
+    <action datetime="2015-08-20">
+      <text>Referred to the Subcommittee on the Western Hemisphere.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSFA07" subcommittee="Western Hemisphere" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <summary>6/10/2015--Introduced.
+Recognizes the centennial of the wreck of the USS Memphis and the memory of the 44 sailors who lost their lives, including three Medal of Honor recipients.
+
+ Encourages the Department of State, through its Embassy in Santo Domingo, Dominican Republic, to collaborate with appropriate entities of the Dominican Republic to commemorate this event.
+
+ Encourages the Tennessee State Museum, the Naval History and Heritage Command, Naval Support Activity Mid-South, and the U.S. Naval Institute to collaborate in appropriate commemoration and public awareness events in the United States as well as in the Dominican Republic.</summary>
+</bill>

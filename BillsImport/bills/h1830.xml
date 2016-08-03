@@ -1,0 +1,83 @@
+<bill session="114" type="h" number="1830" updated="2015-07-24T04:48:11-04:00">
+  <state datetime="2015-04-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-16"/>
+  </status>
+  <introduced datetime="2015-04-16"/>
+  <titles>
+    <title type="short" as="introduced">Water Rights Protection Act</title>
+    <title type="official" as="introduced">To prohibit the conditioning of any permit, lease, or other use agreement on the transfer of any water right to the United States by the Secretaries of the Interior and Agriculture, and to require the Secretaries of the Interior and Agriculture to develop water planning instruments consistent with State law.</title>
+  </titles>
+  <sponsor id="412405"/>
+  <cosponsors>
+    <cosponsor id="412500" joined="2015-04-16"/>
+    <cosponsor id="412655" joined="2015-06-03"/>
+    <cosponsor id="412619" joined="2015-04-16"/>
+    <cosponsor id="412270" joined="2015-04-16"/>
+    <cosponsor id="412271" joined="2015-04-16"/>
+    <cosponsor id="400141" joined="2015-04-16"/>
+    <cosponsor id="412397" joined="2015-04-16"/>
+    <cosponsor id="412645" joined="2015-06-03"/>
+    <cosponsor id="412465" joined="2015-04-16"/>
+    <cosponsor id="412419" joined="2015-04-16"/>
+    <cosponsor id="412510" joined="2015-04-16"/>
+    <cosponsor id="412191" joined="2015-04-16"/>
+    <cosponsor id="412656" joined="2015-04-16"/>
+    <cosponsor id="412294" joined="2015-04-16"/>
+    <cosponsor id="412295" joined="2015-04-16"/>
+    <cosponsor id="412660" joined="2015-05-21"/>
+    <cosponsor id="400313" joined="2015-04-16"/>
+    <cosponsor id="412393" joined="2015-04-16"/>
+    <cosponsor id="412489" joined="2015-04-16"/>
+    <cosponsor id="412399" joined="2015-07-23"/>
+    <cosponsor id="400376" joined="2015-04-16"/>
+    <cosponsor id="400381" joined="2015-04-16"/>
+    <cosponsor id="412581" joined="2015-04-16"/>
+    <cosponsor id="412317" joined="2015-04-16"/>
+    <cosponsor id="412610" joined="2015-04-16"/>
+    <cosponsor id="412640" joined="2015-04-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-16" state="REFERRED">
+      <text>Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-04-16">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2015-04-16">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2015-05-05">
+      <text>Referred to the Subcommittee on Conservation and Forestry.</text>
+    </action>
+    <action datetime="2015-05-07">
+      <text>Referred to the Subcommittee on Water, Power and Oceans.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII13" subcommittee="Water, Power and Oceans" name="House Natural Resources"/>
+    <committee code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee activity="Referral" code="HSAG15" subcommittee="Conservation and Forestry" name="House Agriculture"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="2898"/>
+    <bill relation="identical" session="114" type="s" number="982"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Indian lands and resources rights"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Land use and conservation"/>
+    <term name="Licensing and registrations"/>
+    <term name="State and local government operations"/>
+    <term name="Water use and supply"/>
+  </subjects>
+  <amendments/>
+  <summary>4/16/2015--Introduced.
+Water Rights Protection Act
+
+ Prohibits the Department of the Interior and the Department of Agriculture from:
+
+ conditioning or withholding the issuance, renewal, amendment, or extension of any permit, approval, license, lease, allotment, easement, right-of-way, or other land use or occupancy agreement (permit) on the limitation or encumbrance of any water right or the transfer of any water right to the United States or any other designee, or any other impairment of any water right under state law by federal or state action; requiring any water user (including a federally recognized Indian tribe) to apply for or acquire a water right in the name of the United States under state law as a condition of such a permit; asserting jurisdiction over groundwater withdrawals or impacts on groundwater resources, unless consistent with state groundwater resource laws, regulations, and policies; or infringing on the rights and obligations of a state in evaluating, allocating, and adjudicating state waters originating on or under, or flowing from, land owned or managed by the federal government.</summary>
+</bill>

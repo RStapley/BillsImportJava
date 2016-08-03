@@ -1,0 +1,54 @@
+<bill session="114" type="s" number="1013" updated="2015-07-08T04:49:54-04:00">
+  <state datetime="2015-04-20">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-20"/>
+  </status>
+  <introduced datetime="2015-04-20"/>
+  <titles>
+    <title type="short" as="introduced">Ensuring Access to Quality Complex Rehabilitation Technology Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act to provide for coverage and payment for complex rehabilitation technology items under the Medicare program, and for other purposes.</title>
+  </titles>
+  <sponsor id="300023"/>
+  <cosponsors>
+    <cosponsor id="412330" joined="2015-07-07"/>
+    <cosponsor id="400061" joined="2015-04-28"/>
+    <cosponsor id="412390" joined="2015-06-08"/>
+    <cosponsor id="412223" joined="2015-04-28"/>
+    <cosponsor id="400222" joined="2015-06-08"/>
+    <cosponsor id="412325" joined="2015-07-07"/>
+    <cosponsor id="400284" joined="2015-06-02"/>
+    <cosponsor id="300078" joined="2015-05-13"/>
+    <cosponsor id="300087" joined="2015-04-20"/>
+    <cosponsor id="300093" joined="2015-05-12"/>
+    <cosponsor id="400432" joined="2015-04-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-20" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="1516"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+  <summary>4/20/2015--Introduced.
+Ensuring Access to Quality Complex Rehabilitation Technology Act of 2015
+
+Amends title XVIII (Medicare) of the Social Security Act to cover, as medical and other health services, complex rehabilitation technology (CRT) items designed or individually configured for a specific qualified individual to meet that individual's unique: (1) medical, physical, or functional needs related to a medical condition; and (2) capacities for basic activities of daily living (ADLs) or instrumental ADLs.
+
+Directs the Secretary of Health and Human Services to: (1) designate CRT items (excluding adaptive equipment to operate motor vehicles or certain prosthetic devices and orthotics), and (2) establish eligibility criteria for them.
+
+Prescribes requirements for payments for CRT items.
+
+Directs the Secretary to establish standards for clinical conditions for CRT item payment as well as quality standards for suppliers of such items.
+
+Directs the Secretary to establish a formal process to allow submission of CRT code set modification requests by stakeholder groups for comprehensive coding changes related to entire policy groups.
+
+Requires payment for replacement of a CRT item (or any part of one), without regard to certain continuous use or useful lifetime restrictions established for items of durable medical equipment, if a qualified ordering practitioner determines that a replacement item (or part) is necessary.</summary>
+</bill>

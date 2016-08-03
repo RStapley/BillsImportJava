@@ -1,0 +1,72 @@
+<bill session="114" type="s" number="150" updated="2015-04-11T06:34:55-04:00">
+  <state datetime="2015-01-13">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-13"/>
+  </status>
+  <introduced datetime="2015-01-13"/>
+  <titles>
+    <title type="short" as="introduced">Biennial Budgeting and Appropriations Act</title>
+    <title type="official" as="introduced">A bill to provide for a biennial budget process and a biennial appropriations process and to enhance oversight and the performance of the Federal Government.</title>
+  </titles>
+  <sponsor id="400194"/>
+  <cosponsors>
+    <cosponsor id="300002" joined="2015-01-13"/>
+    <cosponsor id="412493" joined="2015-01-13"/>
+    <cosponsor id="412251" joined="2015-01-13"/>
+    <cosponsor id="300025" joined="2015-01-13"/>
+    <cosponsor id="300027" joined="2015-03-23"/>
+    <cosponsor id="300030" joined="2015-01-13"/>
+    <cosponsor id="300041" joined="2015-01-13"/>
+    <cosponsor id="412556" joined="2015-01-13"/>
+    <cosponsor id="300048" joined="2015-01-13"/>
+    <cosponsor id="412281" joined="2015-01-13"/>
+    <cosponsor id="412554" joined="2015-01-13"/>
+    <cosponsor id="412496" joined="2015-01-13"/>
+    <cosponsor id="412582" joined="2015-01-13"/>
+    <cosponsor id="412545" joined="2015-01-13"/>
+    <cosponsor id="412242" joined="2015-01-13"/>
+    <cosponsor id="412464" joined="2015-01-13"/>
+    <cosponsor id="412391" joined="2015-01-13"/>
+    <cosponsor id="300071" joined="2015-01-13"/>
+    <cosponsor id="300075" joined="2015-01-13"/>
+    <cosponsor id="412666" joined="2015-01-13"/>
+    <cosponsor id="400325" joined="2015-01-13"/>
+    <cosponsor id="412323" joined="2015-01-13"/>
+    <cosponsor id="400418" joined="2015-01-13"/>
+    <cosponsor id="412321" joined="2015-01-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-13">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S202"/>
+    </action>
+    <action datetime="2015-01-13" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Budget.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSBU" name="Senate Budget" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1456"/>
+    <bill relation="unknown" session="114" type="s" number="385"/>
+  </relatedbills>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Appropriations"/>
+    <term name="Budget process"/>
+    <term name="Financial crises and stabilization"/>
+    <term name="Homeland security"/>
+    <term name="Performance measurement"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>1/13/2015--Introduced.
+Biennial Budgeting and Appropriations Act 
+
+Amends the Congressional Budget Act of 1974 to require biennial (currently, annual) budget resolutions, biennial appropriations Acts, and biennial government strategic and performance plans.
+
+States that budget biennium is the two consecutive fiscal years beginning on October 1 of any odd-numbered year.
+
+Requires the Office of Management and Budget to report to Congress on the impact and feasibility of changing the definition of a fiscal year and the budget process based on that definition to a two-year fiscal period.</summary>
+</bill>

@@ -1,0 +1,62 @@
+<bill session="114" type="h" number="531" updated="2015-05-13T12:46:11-04:00">
+  <state datetime="2015-01-26">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-26"/>
+  </status>
+  <introduced datetime="2015-01-26"/>
+  <titles>
+    <title type="short" as="introduced">Accelerating Biomedical Research Act</title>
+    <title type="official" as="introduced">To prioritize funding for the National Institutes of Health to discover treatments and cures, to maintain global leadership in medical innovation, and to restore the purchasing power the NIH had after the historic doubling campaign that ended in fiscal year 2003.</title>
+  </titles>
+  <sponsor id="400103"/>
+  <cosponsors>
+    <cosponsor id="412565" joined="2015-02-04"/>
+    <cosponsor id="412501" joined="2015-03-19"/>
+    <cosponsor id="412571" joined="2015-03-03"/>
+    <cosponsor id="412236" joined="2015-02-10"/>
+    <cosponsor id="400093" joined="2015-03-13"/>
+    <cosponsor id="412613" joined="2015-03-23"/>
+    <cosponsor id="400160" joined="2015-04-21"/>
+    <cosponsor id="400170" joined="2015-02-03"/>
+    <cosponsor id="400641" joined="2015-01-26"/>
+    <cosponsor id="412511" joined="2015-05-13"/>
+    <cosponsor id="400219" joined="2015-01-26"/>
+    <cosponsor id="412638" joined="2015-04-13"/>
+    <cosponsor id="400237" joined="2015-02-03"/>
+    <cosponsor id="412616" joined="2015-04-13"/>
+    <cosponsor id="400263" joined="2015-02-03"/>
+    <cosponsor id="400289" joined="2015-02-10"/>
+    <cosponsor id="412523" joined="2015-03-18"/>
+    <cosponsor id="412585" joined="2015-02-03"/>
+    <cosponsor id="400333" joined="2015-03-16"/>
+    <cosponsor id="400350" joined="2015-02-03"/>
+    <cosponsor id="412520" joined="2015-03-16"/>
+    <cosponsor id="412522" joined="2015-03-16"/>
+    <cosponsor id="412580" joined="2015-03-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-26" state="REFERRED">
+      <text>Referred to the House Committee on the Budget.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBU" name="House Budget" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="318"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Medical research"/>
+    <term name="National Institutes of Health (NIH)"/>
+    <term name="Research administration and funding"/>
+  </subjects>
+  <amendments/>
+  <summary>1/26/2015--Introduced.
+Accelerating Biomedical Research Act 
+
+This bill amends the Balanced Budget and Emergency Deficit Control Act of 1985 to require certain adjustments to discretionary spending limits in FY2016-FY2021 to accommodate increases in appropriations to the National Institutes of Health at the Department of Health and Human Services.</summary>
+</bill>

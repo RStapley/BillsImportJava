@@ -1,0 +1,47 @@
+<bill session="114" type="s" number="461" updated="2015-03-14T06:40:58-04:00">
+  <state datetime="2015-02-11">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-11"/>
+  </status>
+  <introduced datetime="2015-02-11"/>
+  <titles>
+    <title type="short" as="introduced">Cross-Border Trade Enhancement Act of 2015</title>
+    <title type="official" as="introduced">A bill to provide for alternative financing arrangements for the provision of certain services and the construction and maintenance of infrastructure at land border ports of entry, and for other purposes.</title>
+  </titles>
+  <sponsor id="300027"/>
+  <cosponsors>
+    <cosponsor id="412242" joined="2015-02-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-11" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+      <reference ref="CR S931-932" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="875"/>
+    <bill relation="unknown" session="114" type="s" number="208"/>
+  </relatedbills>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Agricultural trade"/>
+    <term name="Border security and unlawful immigration"/>
+    <term name="Customs enforcement"/>
+    <term name="Department of Homeland Security"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Public contracts and procurement"/>
+    <term name="User charges and fees"/>
+  </subjects>
+  <amendments/>
+  <summary>2/11/2015--Introduced.
+Cross-Border Trade Enhancement Act of 2015 
+
+Authorizes the Commissioner of U.S. Customs and Border Protection (CBP) to enter into agreements with certain persons for the CBP to provide customs, agricultural processing, border security, or inspection-related immigration services at a land border port of entry, subject to payment of a fee to reimburse the CBP for providing such services.
+
+Authorizes the Commissioner and the Administrator of General Services (GSA) to:
+
+ enter into cost-sharing or reimbursement agreements with persons for the construction or maintenance of a new or existing CBP or GSA facility or other infrastructure at a land border port of entry; or accept donations from persons of real or personal property (including money) or nonpersonal services for use in the construction or maintenance of such facilities or infrastructure. Directs the Commissioner to issue procedures for evaluating a proposal submitted by a person for an agreement.</summary>
+</bill>

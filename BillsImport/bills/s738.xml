@@ -1,0 +1,41 @@
+<bill session="114" type="s" number="738" updated="2015-04-04T06:39:35-04:00">
+  <state datetime="2015-03-12">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-12"/>
+  </status>
+  <introduced datetime="2015-03-12"/>
+  <titles>
+    <title type="short" as="introduced">Genetically Engineered Salmon Risk Reduction Act</title>
+    <title type="official" as="introduced">A bill to reduce the risks associated with genetically altered salmon in the United States, and for other purposes.</title>
+  </titles>
+  <sponsor id="300075"/>
+  <cosponsors>
+    <cosponsor id="300018" joined="2015-03-12"/>
+    <cosponsor id="412281" joined="2015-03-12"/>
+    <cosponsor id="412325" joined="2015-03-12"/>
+    <cosponsor id="412665" joined="2015-03-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-12" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Alaska"/>
+    <term name="California"/>
+    <term name="Environmental assessment, monitoring, research"/>
+    <term name="Fishes"/>
+    <term name="Food supply, safety, and labeling"/>
+    <term name="Genetics"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Oregon"/>
+    <term name="Seafood"/>
+    <term name="Washington State"/>
+  </subjects>
+  <amendments/>
+</bill>

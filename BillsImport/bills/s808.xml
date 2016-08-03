@@ -1,0 +1,94 @@
+<bill session="114" type="s" number="808" updated="2015-07-07T04:47:25-04:00">
+  <state datetime="2015-06-18">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2015-06-18"/>
+  </status>
+  <introduced datetime="2015-03-19"/>
+  <titles>
+    <title type="short" as="introduced">Surface Transportation Board Reauthorization Act of 2015</title>
+    <title type="short" as="reported to senate">Surface Transportation Board Reauthorization Act of 2015</title>
+    <title type="short" as="passed senate">Surface Transportation Board Reauthorization Act of 2015</title>
+    <title type="official" as="introduced">A bill to establish the Surface Transportation Board as an independent establishment, and for other purposes.</title>
+  </titles>
+  <sponsor id="400546"/>
+  <cosponsors>
+    <cosponsor id="300078" joined="2015-03-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-19" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+    <calendar datetime="2015-03-25" state="REPORTED">
+      <text>Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="2015-05-21">
+      <text>Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. With written report No. 114-52.</text>
+    </action>
+    <calendar datetime="2015-05-21" calendar="Senate Legislative" under="General Orders" number="94">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 94.</text>
+    </calendar>
+    <vote how="by Unanimous Consent" type="vote" datetime="2015-06-18" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S4329-4331" label="consideration"/>
+      <reference ref="CR S4329-4331" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2015-06-19">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2015-06-23T14:03:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2015-06-23T14:20:00-04:00">
+      <text>Held at the desk.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Markup, Reporting"/>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Other Legislative Involvement"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Administrative remedies"/>
+    <term name="Alternative dispute resolution, mediation, arbitration"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Transportation"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Federal officials"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Motor carriers"/>
+    <term name="Public participation and lobbying"/>
+    <term name="Railroads"/>
+    <term name="Surface Transportation Board"/>
+    <term name="Transportation costs"/>
+  </subjects>
+  <amendments/>
+  <summary>3/19/2015--Introduced.
+Surface Transportation Board Reauthorization Act of 2015
+
+ Removes the Surface Transportation Board from the Department of Transportation (DOT) to establish it as an independent U.S. agency.
+
+Increases Board membership from three to five members.
+
+Prescribes requirements for discussions at Board meetings not open to the public.
+
+Requires the Board to:
+
+ establish a database of rail service complaints it has received, and post quarterly reports of such complaints as well as rail service complaints it has received on its website. Reauthorizes appropriations for FY2016-FY2020 for the Board.
+
+Grants the DOT Inspector General authority to review only the financial management, property management, and business operations of the Board to determine its compliance with federal laws, rules, and regulations.
+
+Requires the Board to:
+
+ maintain one or more simplified and expedited methods for determining the reasonableness of challenged rail rates in cases where a full stand-alone cost presentation is too costly, given the value of the case; and maintain procedures to ensure expeditious handling of challenges to the reasonableness of rail rates. Prescribes time limits for Board review of rail rate reasonableness cases.
+
+Repeals certain rail service contract limitations involving the transportation of agricultural commodities.
+
+Authorizes the Board to investigate rail carrier and pipeline carrier violations on its own initiative as well as on complaint (as under existing law). Prescribes requirements for investigations commenced on the Board's own initiative.
+
+Requires the Board to establish a voluntary binding arbitration process to resolve rail rate and practice disputes.
+
+Directs the Government Accountability Office to study rail rate contract proposals containing multiple origin-to-destination movements.</summary>
+</bill>

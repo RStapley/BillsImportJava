@@ -1,0 +1,43 @@
+<bill session="114" type="h" number="1501" updated="2015-05-09T06:33:46-04:00">
+  <state datetime="2015-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-19"/>
+  </status>
+  <introduced datetime="2015-03-19"/>
+  <titles>
+    <title type="short" as="introduced">Moratorium on United States Postal Facilities Act</title>
+    <title type="official" as="introduced">To amend title 39, United States Code, to provide that the United States Postal Service may not close, consolidate, or sell any historic postal facility without prior congressional approval, and for other purposes.</title>
+  </titles>
+  <sponsor id="400237"/>
+  <cosponsors>
+    <cosponsor id="400616" joined="2015-03-19"/>
+    <cosponsor id="412193" joined="2015-03-19"/>
+    <cosponsor id="400129" joined="2015-04-13"/>
+    <cosponsor id="412327" joined="2015-03-19"/>
+    <cosponsor id="400162" joined="2015-03-19"/>
+    <cosponsor id="400211" joined="2015-03-19"/>
+    <cosponsor id="412435" joined="2015-03-19"/>
+    <cosponsor id="412638" joined="2015-03-19"/>
+    <cosponsor id="412306" joined="2015-03-19"/>
+    <cosponsor id="412432" joined="2015-03-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-19" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+  </subjects>
+  <amendments/>
+  <summary>3/19/2015--Introduced.
+Moratorium on United States Postal Facilities Act
+
+Prohibits the U.S. Postal Service from closing, consolidating, selling, or otherwise disposing of any historic postal facility without prior written approval from the Committee on Oversight and Government Reform of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate.
+
+Defines "historic postal facility" as any postal facility listed, or eligible to be listed, in the National Register of Historic Places.</summary>
+</bill>

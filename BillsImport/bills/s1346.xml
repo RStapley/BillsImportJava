@@ -1,0 +1,29 @@
+<bill session="114" type="s" number="1346" updated="2015-08-01T07:03:26-04:00">
+  <state datetime="2015-05-14">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-14"/>
+  </status>
+  <introduced datetime="2015-05-14"/>
+  <titles>
+    <title type="short" as="introduced">E-Prize Competition Pilot Program Act of 2015</title>
+    <title type="official" as="introduced">A bill to require the Secretary of Energy to establish an e-prize competition pilot program to provide up to 4 financial awards to eligible entities that develop and verifiably demonstrate technology that reduces the cost of electricity or space heat in a high-cost region.</title>
+  </titles>
+  <sponsor id="300075"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-05-14" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2015-06-09">
+      <text>Committee on Energy and Natural Resources. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+  </subjects>
+  <amendments/>
+</bill>

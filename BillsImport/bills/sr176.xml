@@ -1,0 +1,44 @@
+<bill session="114" type="sr" number="176" updated="2015-08-04T04:47:19-04:00">
+  <state datetime="2015-05-11">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-11"/>
+  </status>
+  <introduced datetime="2015-05-11"/>
+  <titles>
+    <title type="official" as="introduced">A resolution designating September 2015 as "National Brain Aneurysm Awareness Month".</title>
+  </titles>
+  <sponsor id="400253"/>
+  <cosponsors>
+    <cosponsor id="412493" joined="2015-06-01"/>
+    <cosponsor id="400050" joined="2015-05-11"/>
+    <cosponsor id="412390" joined="2015-08-03"/>
+    <cosponsor id="300038" joined="2015-05-11"/>
+    <cosponsor id="412323" joined="2015-05-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-11" state="REFERRED">
+      <text>Referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S2762" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="hr" number="259"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Cardiovascular and respiratory health"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="Medical research"/>
+    <term name="Medical tests and diagnostic methods"/>
+    <term name="Neurological disorders"/>
+  </subjects>
+  <amendments/>
+  <summary>5/11/2015--Introduced.
+Designates September 2015 as National Brain Aneurysm Awareness Month.
+
+Expresses support for research to prevent, detect, and treat brain aneurysms.</summary>
+</bill>

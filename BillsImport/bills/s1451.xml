@@ -1,0 +1,32 @@
+<bill session="114" type="s" number="1451" updated="2015-06-20T06:57:34-04:00">
+  <state datetime="2015-05-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-21"/>
+  </status>
+  <introduced datetime="2015-05-21"/>
+  <titles>
+    <title type="short" as="introduced">Veterans' Survivors Claims Processing Automation Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend title 38, United States Code, to authorize the Secretary of Veterans Affairs to adjudicate and pay survivor's benefits without requiring the filing of a formal claim, and for other purposes.</title>
+  </titles>
+  <sponsor id="412200"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-05-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="2691"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <summary>5/21/2015--Introduced.
+Veterans' Survivors Claims Processing Automation Act of 2015
+
+This bill authorizes the Secretary of Veterans Affairs to pay benefits to a survivor of a veteran who has not filed a formal claim if the Secretary determines that the record contains sufficient evidence to establish the survivor's entitlement to such benefits.</summary>
+</bill>

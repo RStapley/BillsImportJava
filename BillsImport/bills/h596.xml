@@ -1,0 +1,263 @@
+<bill session="114" type="h" number="596" updated="2015-05-23T06:22:53-04:00">
+  <state datetime="2015-02-03T17:06:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2015-02-03T17:06:00-05:00"/>
+  </status>
+  <introduced datetime="2015-01-28"/>
+  <titles>
+    <title type="official" as="introduced">To repeal the Patient Protection and Affordable Care Act and health care-related provisions in the Health Care and Education Reconciliation Act of 2010, and for other purposes.</title>
+  </titles>
+  <sponsor id="412601"/>
+  <cosponsors>
+    <cosponsor id="400004" joined="2015-01-30"/>
+    <cosponsor id="412625" joined="2015-02-03"/>
+    <cosponsor id="412500" joined="2015-01-30"/>
+    <cosponsor id="412655" joined="2015-02-02"/>
+    <cosponsor id="412469" joined="2015-02-02"/>
+    <cosponsor id="412541" joined="2015-02-02"/>
+    <cosponsor id="412436" joined="2015-02-02"/>
+    <cosponsor id="412250" joined="2015-02-02"/>
+    <cosponsor id="412635" joined="2015-02-03"/>
+    <cosponsor id="400029" joined="2015-02-03"/>
+    <cosponsor id="412478" joined="2015-01-30"/>
+    <cosponsor id="400032" joined="2015-01-30"/>
+    <cosponsor id="400636" joined="2015-02-03"/>
+    <cosponsor id="412395" joined="2015-01-30"/>
+    <cosponsor id="412619" joined="2015-02-02"/>
+    <cosponsor id="400052" joined="2015-02-02"/>
+    <cosponsor id="400057" joined="2015-02-02"/>
+    <cosponsor id="400068" joined="2015-02-02"/>
+    <cosponsor id="412604" joined="2015-02-03"/>
+    <cosponsor id="412531" joined="2015-01-30"/>
+    <cosponsor id="412658" joined="2015-02-03"/>
+    <cosponsor id="400655" joined="2015-02-03"/>
+    <cosponsor id="412513" joined="2015-01-30"/>
+    <cosponsor id="412555" joined="2015-01-30"/>
+    <cosponsor id="412400" joined="2015-02-03"/>
+    <cosponsor id="400086" joined="2015-02-02"/>
+    <cosponsor id="400089" joined="2015-02-02"/>
+    <cosponsor id="412477" joined="2015-01-30"/>
+    <cosponsor id="412472" joined="2015-01-30"/>
+    <cosponsor id="400116" joined="2015-02-02"/>
+    <cosponsor id="412457" joined="2015-01-30"/>
+    <cosponsor id="412482" joined="2015-01-30"/>
+    <cosponsor id="412479" joined="2015-02-02"/>
+    <cosponsor id="412476" joined="2015-02-02"/>
+    <cosponsor id="412275" joined="2015-02-02"/>
+    <cosponsor id="400643" joined="2015-01-30"/>
+    <cosponsor id="400141" joined="2015-02-02"/>
+    <cosponsor id="412463" joined="2015-02-02"/>
+    <cosponsor id="400154" joined="2015-02-03"/>
+    <cosponsor id="412397" joined="2015-01-30"/>
+    <cosponsor id="400157" joined="2015-02-02"/>
+    <cosponsor id="400158" joined="2015-01-30"/>
+    <cosponsor id="412661" joined="2015-02-02"/>
+    <cosponsor id="412280" joined="2015-01-30"/>
+    <cosponsor id="412444" joined="2015-01-30"/>
+    <cosponsor id="400175" joined="2015-01-30"/>
+    <cosponsor id="412609" joined="2015-02-02"/>
+    <cosponsor id="412429" joined="2015-02-02"/>
+    <cosponsor id="412283" joined="2015-02-02"/>
+    <cosponsor id="412284" joined="2015-02-02"/>
+    <cosponsor id="400206" joined="2015-01-30"/>
+    <cosponsor id="412603" joined="2015-01-30"/>
+    <cosponsor id="412226" joined="2015-02-03"/>
+    <cosponsor id="412465" joined="2015-01-30"/>
+    <cosponsor id="412191" joined="2015-01-30"/>
+    <cosponsor id="412445" joined="2015-01-30"/>
+    <cosponsor id="412624" joined="2015-02-02"/>
+    <cosponsor id="412656" joined="2015-02-02"/>
+    <cosponsor id="400247" joined="2015-02-02"/>
+    <cosponsor id="412292" joined="2015-01-30"/>
+    <cosponsor id="412294" joined="2015-01-30"/>
+    <cosponsor id="412643" joined="2015-02-02"/>
+    <cosponsor id="400656" joined="2015-02-02"/>
+    <cosponsor id="412468" joined="2015-02-02"/>
+    <cosponsor id="400654" joined="2015-01-30"/>
+    <cosponsor id="412295" joined="2015-01-30"/>
+    <cosponsor id="400644" joined="2015-02-03"/>
+    <cosponsor id="412552" joined="2015-02-02"/>
+    <cosponsor id="412540" joined="2015-02-02"/>
+    <cosponsor id="400276" joined="2015-02-02"/>
+    <cosponsor id="400279" joined="2015-02-03"/>
+    <cosponsor id="412568" joined="2015-02-02"/>
+    <cosponsor id="412474" joined="2015-02-02"/>
+    <cosponsor id="400441" joined="2015-02-02"/>
+    <cosponsor id="412660" joined="2015-02-02"/>
+    <cosponsor id="412409" joined="2015-02-02"/>
+    <cosponsor id="412302" joined="2015-02-02"/>
+    <cosponsor id="412443" joined="2015-02-02"/>
+    <cosponsor id="412608" joined="2015-01-30"/>
+    <cosponsor id="400313" joined="2015-01-30"/>
+    <cosponsor id="412569" joined="2015-02-02"/>
+    <cosponsor id="412551" joined="2015-01-30"/>
+    <cosponsor id="412653" joined="2015-01-30"/>
+    <cosponsor id="412394" joined="2015-01-30"/>
+    <cosponsor id="412310" joined="2015-01-30"/>
+    <cosponsor id="400341" joined="2015-01-30"/>
+    <cosponsor id="400343" joined="2015-02-03"/>
+    <cosponsor id="412570" joined="2015-01-30"/>
+    <cosponsor id="412641" joined="2015-01-30"/>
+    <cosponsor id="412650" joined="2015-02-02"/>
+    <cosponsor id="400606" joined="2015-02-02"/>
+    <cosponsor id="412399" joined="2015-01-30"/>
+    <cosponsor id="412417" joined="2015-01-30"/>
+    <cosponsor id="400367" joined="2015-01-30"/>
+    <cosponsor id="412596" joined="2015-02-02"/>
+    <cosponsor id="412581" joined="2015-02-02"/>
+    <cosponsor id="400404" joined="2015-02-02"/>
+    <cosponsor id="412636" joined="2015-02-02"/>
+    <cosponsor id="412548" joined="2015-01-30"/>
+    <cosponsor id="412538" joined="2015-01-30"/>
+    <cosponsor id="412574" joined="2015-01-30"/>
+    <cosponsor id="412610" joined="2015-02-03"/>
+    <cosponsor id="400627" joined="2015-01-30"/>
+    <cosponsor id="400431" joined="2015-01-30"/>
+    <cosponsor id="412578" joined="2015-01-30"/>
+    <cosponsor id="400433" joined="2015-01-30"/>
+    <cosponsor id="412255" joined="2015-01-30"/>
+    <cosponsor id="412402" joined="2015-02-02"/>
+    <cosponsor id="412430" joined="2015-02-02"/>
+    <cosponsor id="412525" joined="2015-02-02"/>
+    <cosponsor id="400440" joined="2015-02-02"/>
+    <cosponsor id="412640" joined="2015-01-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-28" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Education and the Workforce, Ways and Means, the Judiciary, Natural Resources, Rules, House Administration, Appropriations, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-01-28">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-01-28">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+    <action datetime="2015-01-28">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-01-28">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2015-01-28">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2015-01-28">
+      <text>Referred to House Rules</text>
+    </action>
+    <action datetime="2015-01-28">
+      <text>Referred to House House Administration</text>
+    </action>
+    <action datetime="2015-01-28">
+      <text>Referred to House Appropriations</text>
+    </action>
+    <action datetime="2015-01-28">
+      <text>Referred to House Budget</text>
+    </action>
+    <action datetime="2015-01-30">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2015-02-02T19:25:00-05:00">
+      <text>Rules Committee Resolution H. Res. 70 Reported to House. Rule provides for consideration of H.R. 596 with 1 hour and 30 minutes of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. The amendment printed in the report of the Committee on Rules accompanying this resolution shall be considered as adopted.</text>
+    </action>
+    <action datetime="2015-02-03T14:14:00-05:00">
+      <text>Rule H. Res. 70 passed House.</text>
+    </action>
+    <action datetime="2015-02-03T14:22:00-05:00">
+      <text>Considered under the provisions of rule H. Res. 70.</text>
+      <reference ref="CR H723-742" label="consideration"/>
+    </action>
+    <action datetime="2015-02-03T14:22:00-05:00">
+      <text>Rule provides for consideration of H.R. 596 with 1 hour and 30 minutes of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. The amendment printed in the report of the Committee on Rules accompanying this resolution shall be considered as adopted.</text>
+    </action>
+    <action datetime="2015-02-03T14:22:00-05:00">
+      <text>DEBATE - The House proceeded with 90 minutes of debate on H.R. 596.</text>
+    </action>
+    <action datetime="2015-02-03T16:22:00-05:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+      <reference ref="CR H740" label="consideration"/>
+    </action>
+    <action datetime="2015-02-03T16:22:00-05:00">
+      <text>Mr. DeSaulnier moved to recommit with instructions to the Committee on Ways and Means.</text>
+      <reference ref="CR H740-741" label="consideration"/>
+      <reference ref="CR H740" label="text"/>
+    </action>
+    <action datetime="2015-02-03T16:23:00-05:00">
+      <text>DEBATE - The House proceeded with up to 10 minutes of debate on the DeSaulnier motion to recommit with instructions pending reservation of a point order. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to ensure that the Affordable Care Act cannot be repealed if: (1) insurance companies are once again allowed to discriminate based on pre-existing conditions or gender; (2) premiums or out-of-pocket costs increase for Medicare part D patients; or (3) middle class families are forced to pay a tax increase due to the loss of premium tax credits. Subsequently, the reservation of a point of order was withdrawn.</text>
+    </action>
+    <action datetime="2015-02-03T16:33:00-05:00">
+      <text>The previous question on the motion to recommit with instructions was ordered without objection.</text>
+      <reference ref="CR H741" label="consideration"/>
+    </action>
+    <action datetime="2015-02-03T16:59:00-05:00">
+      <text>On motion to recommit with instructions Failed by the Yeas and Nays: 179 - 241 (Roll no. 57).</text>
+    </action>
+    <vote how="roll" type="vote" roll="58" datetime="2015-02-03T17:06:00-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by recorded vote: 239 - 186 (Roll no. 58).</text>
+      <reference ref="CR H723" label="text"/>
+    </vote>
+    <action datetime="2015-02-03T17:06:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2015-02-04">
+      <text>Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text>
+    </action>
+    <calendar datetime="2015-02-05" calendar="Senate Legislative" under="General Orders" number="14">
+      <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 14.</text>
+    </calendar>
+    <action datetime="2015-03-02">
+      <text>Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.</text>
+    </action>
+    <action datetime="2015-04-29">
+      <text>Referred to the Subcommittee on Higher Education and Workforce Training.</text>
+    </action>
+    <action datetime="2015-04-29">
+      <text>Referred to the Subcommittee on Health, Employment, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee activity="Referral" code="HSED13" subcommittee="Higher Education and Workforce Training" name="House Education and the Workforce"/>
+    <committee activity="Referral" code="HSED02" subcommittee="Health, Employment, Labor, and Pensions" name="House Education and the Workforce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII24" subcommittee="Indian, Insular and Alaska Native Affairs" name="House Natural Resources"/>
+    <committee code="HSRU" name="House Rules" activity="Referral"/>
+    <committee code="HSHA" name="House Administration" activity="Referral"/>
+    <committee code="HSAP" name="House Appropriations" activity="Referral"/>
+    <committee code="HSBU" name="House Budget" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="rule" session="114" type="hr" number="70"/>
+    <bill relation="unknown" session="114" type="h" number="370"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Abortion"/>
+    <term name="Budget deficits and national debt"/>
+    <term name="Civil actions and liability"/>
+    <term name="Comprehensive health care"/>
+    <term name="Economic performance and conditions"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="General health and health care finance matters"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health personnel"/>
+    <term name="Medicaid"/>
+    <term name="Religion"/>
+    <term name="Tax administration and collection, taxpayers"/>
+  </subjects>
+  <amendments>
+    <amendment number="h11"/>
+  </amendments>
+  <summary>2/3/2015--Passed House amended.
+(Sec. 1) This bill repeals the Patient Protection and Affordable Care Act and the health care provisions of the Health Care and Education Reconciliation Act of 2010. The repeal is effective 180 days after enactment of this Act. Provisions of law amended by the repealed provisions are restored.
+
+(Sec. 2) The budgetary effects of this bill must not be entered on the PAYGO scorecards maintained by the Office of Management and Budget.
+
+(Sec. 3) The Committees on Education and the Workforce, Energy and Commerce, the Judiciary, and Ways and Means of the House of Representatives must report legislation within each committee's jurisdiction with provisions that:
+
+ foster economic growth and private sector job creation; lower health care premiums; preserve a patient's ability to keep their health plan; provide people with preexisting conditions access to affordable health coverage; reform the medical liability system to reduce unnecessary health care spending; increase the number of insured Americans; protect the doctor-patient relationship; provide states greater flexibility to administer Medicaid programs while reducing costs; expand incentives to encourage personal responsibility for health care coverage and costs; prohibit taxpayer funding of abortions and provide conscience protections for health care providers; eliminate duplicative government programs and wasteful spending; or do not accelerate the growth of entitlement programs or increase the tax burden on Americans.</summary>
+</bill>

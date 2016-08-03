@@ -1,0 +1,28 @@
+<bill session="114" type="s" number="1961" updated="2015-08-14T12:47:37-04:00">
+  <state datetime="2015-08-05">REFERRED</state>
+  <status>
+    <introduced datetime="2015-08-05"/>
+  </status>
+  <introduced datetime="2015-08-05"/>
+  <titles>
+    <title type="short" as="introduced">Improving the Treatment of the U.S. Territories Under Federal Health Programs Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend titles XVIII and XIX of the Social Security Act to make improvements to the treatment of the United States territories under the Medicare and Medicaid programs, and for other purposes.</title>
+  </titles>
+  <sponsor id="300087"/>
+  <cosponsors>
+    <cosponsor id="412490" joined="2015-08-05"/>
+    <cosponsor id="412223" joined="2015-08-05"/>
+    <cosponsor id="400272" joined="2015-08-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-08-05" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

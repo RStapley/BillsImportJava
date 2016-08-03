@@ -1,0 +1,32 @@
+<bill session="114" type="s" number="1560" updated="2015-06-27T07:32:24-04:00">
+  <state datetime="2015-06-11">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-11"/>
+  </status>
+  <introduced datetime="2015-06-11"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Commodity Exchange Act to provide end-users with a reasonable amount of time to meet their margin requirements and to repeal certain indemnification requirements for regulatory authorities to obtain access to swap data required to be provided by swaps entities.</title>
+  </titles>
+  <sponsor id="300083"/>
+  <cosponsors>
+    <cosponsor id="412554" joined="2015-06-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-11" state="REFERRED">
+      <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="37"/>
+    <bill relation="unknown" session="114" type="h" number="1847"/>
+    <bill relation="unknown" session="114" type="h" number="2289"/>
+    <bill relation="unknown" session="114" type="s" number="1484"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+  </subjects>
+  <amendments/>
+</bill>

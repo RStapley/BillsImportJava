@@ -1,0 +1,39 @@
+<bill session="114" type="s" number="53" updated="2015-03-21T06:31:35-04:00">
+  <state datetime="2015-01-07">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-07"/>
+  </status>
+  <introduced datetime="2015-01-07"/>
+  <titles>
+    <title type="short" as="introduced">Child Tax Credit Integrity Preservation Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to clarify eligibility for the child tax credit.</title>
+  </titles>
+  <sponsor id="400418"/>
+  <cosponsors>
+    <cosponsor id="400040" joined="2015-02-03"/>
+    <cosponsor id="412495" joined="2015-03-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-07" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1333"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Income tax credits"/>
+    <term name="Social security and elderly assistance"/>
+    <term name="Tax administration and collection, taxpayers"/>
+    <term name="Tax treatment of families"/>
+  </subjects>
+  <amendments/>
+  <summary>1/7/2015--Introduced.
+Child Tax Credit Integrity Preservation Act of 2015
+
+Amends the Internal Revenue Code to expand the identification requirements for the child tax credit to require taxpayers to provide a valid identification number (i.e., a Social Security account number issued by the Social Security Administration) on their tax returns in addition to the name and identification number of each qualifying child.</summary>
+</bill>

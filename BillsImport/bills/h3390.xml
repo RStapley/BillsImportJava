@@ -1,0 +1,29 @@
+<bill session="114" type="h" number="3390" updated="2015-08-15T06:47:44-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">Qualifying Renewable Chemical Production or Investment Tax Credit Act of 2015</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to provide credits for the production of renewable chemicals and investments in renewable chemical production facilities, and for other purposes.</title>
+  </titles>
+  <sponsor id="400309"/>
+  <cosponsors>
+    <cosponsor id="400646" joined="2015-07-29"/>
+    <cosponsor id="400291" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+</bill>

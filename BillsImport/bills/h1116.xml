@@ -1,0 +1,54 @@
+<bill session="114" type="h" number="1116" updated="2015-06-03T04:47:17-04:00">
+  <state datetime="2015-02-26">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-26"/>
+  </status>
+  <introduced datetime="2015-02-26"/>
+  <titles>
+    <title type="short" as="introduced">Medicare Audiology Services Enhancement Act of 2015</title>
+    <title type="official" as="introduced">To amend title XVIII of the Social Security Act to provide comprehensive audiology services to Medicare beneficiaries, and for other purposes.</title>
+  </titles>
+  <sponsor id="412250"/>
+  <cosponsors>
+    <cosponsor id="400616" joined="2015-02-26"/>
+    <cosponsor id="412278" joined="2015-05-13"/>
+    <cosponsor id="412283" joined="2015-05-13"/>
+    <cosponsor id="412460" joined="2015-06-02"/>
+    <cosponsor id="412209" joined="2015-05-13"/>
+    <cosponsor id="412487" joined="2015-05-13"/>
+    <cosponsor id="412213" joined="2015-05-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-26" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-02-26">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-02-26">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-02-27">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Health care coverage and access"/>
+    <term name="Hearing, speech, and vision care"/>
+    <term name="Medicare"/>
+  </subjects>
+  <amendments/>
+  <summary>2/26/2015--Introduced.
+Medicare Audiology Services Enhancement Act of 2015 
+
+ Amends title XVIII (Medicare) of the Social Security Act to:
+
+ limit covered auditory services to only auditory treatment, vestibular treatment, and intraoperative neurophysiologic monitoring services in addition to currently covered hearing and balance assessment services; exclude inter-operative neurophysiological monitoring provided by a physician or qualified audiologist in hospitals from covered inpatient hospital services; revise the requirements and procedure for payment of outpatient auditory services claims of service providers; include audiology services under the limitation on certain physician referrals for designated health services; and declare that nothing shall be construed to require a qualified audiologist to participate in Medicare.</summary>
+</bill>

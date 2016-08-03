@@ -1,0 +1,87 @@
+<bill session="114" type="h" number="2016" updated="2015-08-15T06:36:12-04:00">
+  <state datetime="2015-04-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-23"/>
+  </status>
+  <introduced datetime="2015-04-23"/>
+  <titles>
+    <title type="short" as="introduced">Refuge From Cruel Trapping Act</title>
+    <title type="official" as="introduced">To end the use of body-gripping traps in the National Wildlife Refuge System.</title>
+  </titles>
+  <sponsor id="400246"/>
+  <cosponsors>
+    <cosponsor id="412657" joined="2015-05-21"/>
+    <cosponsor id="400033" joined="2015-04-23"/>
+    <cosponsor id="400041" joined="2015-06-01"/>
+    <cosponsor id="400062" joined="2015-06-18"/>
+    <cosponsor id="400063" joined="2015-06-10"/>
+    <cosponsor id="412571" joined="2015-04-23"/>
+    <cosponsor id="412236" joined="2015-04-23"/>
+    <cosponsor id="412272" joined="2015-04-23"/>
+    <cosponsor id="412385" joined="2015-05-18"/>
+    <cosponsor id="400122" joined="2015-04-23"/>
+    <cosponsor id="400124" joined="2015-04-28"/>
+    <cosponsor id="400129" joined="2015-05-12"/>
+    <cosponsor id="412276" joined="2015-06-03"/>
+    <cosponsor id="400162" joined="2015-04-23"/>
+    <cosponsor id="400170" joined="2015-04-23"/>
+    <cosponsor id="400195" joined="2015-04-28"/>
+    <cosponsor id="400232" joined="2015-06-24"/>
+    <cosponsor id="400237" joined="2015-04-28"/>
+    <cosponsor id="412616" joined="2015-07-08"/>
+    <cosponsor id="400245" joined="2015-05-12"/>
+    <cosponsor id="400251" joined="2015-04-28"/>
+    <cosponsor id="400263" joined="2015-04-23"/>
+    <cosponsor id="412189" joined="2015-06-03"/>
+    <cosponsor id="400271" joined="2015-04-23"/>
+    <cosponsor id="400661" joined="2015-07-14"/>
+    <cosponsor id="412575" joined="2015-06-01"/>
+    <cosponsor id="412585" joined="2015-04-23"/>
+    <cosponsor id="400326" joined="2015-05-12"/>
+    <cosponsor id="412331" joined="2015-06-04"/>
+    <cosponsor id="400333" joined="2015-04-23"/>
+    <cosponsor id="400360" joined="2015-04-23"/>
+    <cosponsor id="400361" joined="2015-05-18"/>
+    <cosponsor id="400378" joined="2015-06-10"/>
+    <cosponsor id="400379" joined="2015-06-03"/>
+    <cosponsor id="412318" joined="2015-06-04"/>
+    <cosponsor id="412319" joined="2015-06-01"/>
+    <cosponsor id="400415" joined="2015-04-23"/>
+    <cosponsor id="412579" joined="2015-04-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-23" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2015-05-26">
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="Federal Lands" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1081"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Animal protection and human-animal relationships"/>
+    <term name="Crimes against animals and natural resources"/>
+    <term name="Legal fees and court costs"/>
+    <term name="Outdoor recreation"/>
+    <term name="Wilderness and natural areas, wildlife refuges, wild rivers, habitats"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+  <summary>4/23/2015--Introduced.
+Refuge From Cruel Trapping Act
+
+ Amends the National Wildlife Refuge System Administration Act of 1966 to prohibit the use or possession of body-gripping traps in the National Wildlife Refuge System.
+
+Imposes on persons who possess or use such traps in the System: (1) for a first offense, a civil fine of up to $500 for each body-gripping trap possessed or used; and (2) for subsequent offenses, a civil fine of up to $1,000 for each body-gripping trap possessed or used, imprisonment for up to 180 days, or both such a civil fine and imprisonment.
+
+Makes any body-gripping traps that are possessed or used in violation of this Act, and any wildlife captured by the use of such traps, including the pelts and raw fur, subject to civil forfeiture.
+
+Requires persons found to be in violation of such prohibition to pay all associated court costs.</summary>
+</bill>

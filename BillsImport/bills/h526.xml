@@ -1,0 +1,56 @@
+<bill session="114" type="h" number="526" updated="2015-05-15T04:47:21-04:00">
+  <state datetime="2015-05-14">REPORTED</state>
+  <status>
+    <unknown datetime="2015-05-14"/>
+  </status>
+  <introduced datetime="2015-01-26"/>
+  <titles>
+    <title type="short" as="introduced">Furthering Asbestos Claim Transparency (FACT) Act of 2015</title>
+    <title type="official" as="introduced">To amend title 11 of the United States Code to require the public disclosure by trusts established under section 524(g) of such title, of quarterly reports that contain detailed information regarding the receipt and disposition of claims for injuries based on exposure to asbestos; and for other purposes.</title>
+  </titles>
+  <sponsor id="412482"/>
+  <cosponsors>
+    <cosponsor id="400141" joined="2015-04-21"/>
+    <cosponsor id="412468" joined="2015-01-26"/>
+    <cosponsor id="412636" joined="2015-04-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-26" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-03-17">
+      <text>Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.</text>
+    </action>
+    <action datetime="2015-05-13">
+      <text>Subcommittee on Regulatory Reform, Commercial And Antitrust Law Discharged.</text>
+    </action>
+    <action datetime="2015-05-14">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-05-14" state="REPORTED">
+      <text>Ordered to be Reported by the Yeas and Nays: 19 - 9.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup"/>
+    <committee activity="Referral, Discharged" code="HSJU05" subcommittee="Regulatory Reform, Commercial And Antitrust Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="357"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Bankruptcy"/>
+    <term name="Civil actions and liability"/>
+    <term name="Hazardous wastes and toxic substances"/>
+  </subjects>
+  <amendments/>
+  <summary>1/26/2015--Introduced.
+Furthering Asbestos Claim Transparency (FACT) Act of 2015
+
+ Amends federal bankruptcy law concerning a trust formed under a reorganization plan following the discharge in bankruptcy of a debtor corporation in order to assume the debtor's liability with respect to claims seeking recovery for personal injury, wrongful death, or property damage allegedly caused by the presence of, or exposure to, asbestos or asbestos-containing products.
+
+Requires such a trust to file with the bankruptcy court quarterly reports, available on the public docket, which describe each demand the trust has received from a claimant and the basis for any payment made to that claimant (excluding any confidential medical record or the claimant's full Social Security number).
+
+Requires such reports, upon written request, and subject to payment (demanded at the option of the trust) for any reasonable cost incurred by it, to provide any information related to payment from, and demands for payment from, the trust to any party to any action in law or equity concerning liability for asbestos exposure.</summary>
+</bill>

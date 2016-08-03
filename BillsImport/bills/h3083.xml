@@ -1,0 +1,30 @@
+<bill session="114" type="h" number="3083" updated="2015-08-22T06:45:06-04:00">
+  <state datetime="2015-07-15">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-15"/>
+  </status>
+  <introduced datetime="2015-07-15"/>
+  <titles>
+    <title type="short" as="introduced">Bring Jobs Back to America Act of 2015</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to make permanent the dividends received deduction for repatriated foreign earnings, and for other purposes.</title>
+  </titles>
+  <sponsor id="412578"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-15" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+  <summary>7/15/2015--Introduced.
+Bring Jobs Back to America Act of 2015
+
+Amends the Internal Revenue Code to reduce the tax rate on current and accumulated foreign earnings of U.S. corporations reinvested in the United States from 35% to 5% and make such lower rate permanent.</summary>
+</bill>

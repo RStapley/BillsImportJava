@@ -1,0 +1,48 @@
+<bill session="114" type="h" number="910" updated="2015-08-15T06:26:48-04:00">
+  <state datetime="2015-02-12">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-12"/>
+  </status>
+  <introduced datetime="2015-02-12"/>
+  <titles>
+    <title type="short" as="introduced">Vehicle-to-Infrastructure Safety Technology Investment Flexibility Act of 2015</title>
+    <title type="official" as="introduced">To amend title 23, United States Code, to provide eligibility under certain highway programs for projects for the installation of vehicle-to-infrastructure communication equipment, and for other purposes.</title>
+  </titles>
+  <sponsor id="400276"/>
+  <cosponsors>
+    <cosponsor id="400033" joined="2015-03-13"/>
+    <cosponsor id="412637" joined="2015-06-23"/>
+    <cosponsor id="412482" joined="2015-05-14"/>
+    <cosponsor id="412638" joined="2015-02-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-12" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2015-02-13">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW12" subcommittee="Highways and Transit" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="1499"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Motor vehicles"/>
+    <term name="Roads and highways"/>
+    <term name="Telephone and wireless communication"/>
+    <term name="Transportation programs funding"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+  <summary>2/12/2015--Introduced.
+Vehicle-to-Infrastructure Safety Technology Investment Flexibility Act of 2015
+
+This bill makes eligible for funding under the National Highway Performance Program, the Surface Transportation Program, and the Highway Safety Improvement Program projects for the installation of vehicle-to-infrastructure communication equipment.
+
+"Vehicle-to-infrastructure communication equipment" means equipment that provides a wireless exchange of critical safety and operational data between highway infrastructure and vehicles in order to avoid or mitigate vehicle collisions and enable a wide range of other safety, mobility, and environmental benefits.</summary>
+</bill>

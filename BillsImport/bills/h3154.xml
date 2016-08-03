@@ -1,0 +1,46 @@
+<bill session="114" type="h" number="3154" updated="2015-08-15T06:45:46-04:00">
+  <state datetime="2015-07-29">REPORTED</state>
+  <status>
+    <unknown datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-22"/>
+  <titles>
+    <title type="short" as="introduced">E-Warranty Act of 2015</title>
+    <title type="official" as="introduced">To allow manufacturers to meet warranty and labeling requirements for consumer products by displaying the terms of warranties on Internet websites, and for other purposes.</title>
+  </titles>
+  <sponsor id="412568"/>
+  <cosponsors>
+    <cosponsor id="412209" joined="2015-07-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-22" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-07-24">
+      <text>Referred to the Subcommittee on Commerce, Manufacturing, and Trade.</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-07-29" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup"/>
+    <committee activity="Referral" code="HSIF17" subcommittee="Commerce, Manufacturing, and Trade" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1359"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commerce"/>
+  </subjects>
+  <amendments/>
+  <summary>7/22/2015--Introduced.
+E-Warranty Act of 2015
+
+Amends the Magnuson-Moss Warranty--Federal Trade Commission Improvement Act to require the Federal Trade Commission to revise its rules to allow manufacturers to satisfy requirements concerning the availability of written warranties on consumer products by making the terms accessible in a digital format on the manufacturer's Internet website. Requires the product, packaging, or product manual in the case of a warranty provided on a website in such manner to display to the consumer: (1) the website where the warranty terms can be obtained; and (2) a phone number, postal address, or other reasonable non-Internet based means of contacting the manufacturer to obtain and review such terms.
+
+Prohibits such Internet website warranties from satisfying any requirement that a warranty be made available prior to sale in a retail location, by catalog, or through door-to-door sales, unless the seller makes the warranty available, through electronic or other means, at the location of the sale before the purchase.</summary>
+</bill>

@@ -1,0 +1,88 @@
+<bill session="114" type="s" number="1300" updated="2015-07-18T06:59:02-04:00">
+  <state datetime="2015-07-14">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2015-07-14"/>
+  </status>
+  <introduced datetime="2015-05-12"/>
+  <titles>
+    <title type="short" as="introduced">Adoptive Family Relief Act</title>
+    <title type="short" as="reported to senate">Adoptive Family Relief Act</title>
+    <title type="short" as="passed senate">Adoptive Family Relief Act</title>
+    <title type="official" as="introduced">A bill to amend the section 221 of the Immigration and Nationality Act to provide relief for adoptive families from immigrant visa fees in certain situations.</title>
+  </titles>
+  <sponsor id="300043"/>
+  <cosponsors>
+    <cosponsor id="400013" joined="2015-06-01"/>
+    <cosponsor id="400034" joined="2015-05-19"/>
+    <cosponsor id="300011" joined="2015-05-12"/>
+    <cosponsor id="300018" joined="2015-05-20"/>
+    <cosponsor id="412246" joined="2015-07-14"/>
+    <cosponsor id="412390" joined="2015-07-09"/>
+    <cosponsor id="412248" joined="2015-05-12"/>
+    <cosponsor id="300027" joined="2015-06-24"/>
+    <cosponsor id="412573" joined="2015-05-20"/>
+    <cosponsor id="412205" joined="2015-05-19"/>
+    <cosponsor id="300041" joined="2015-05-20"/>
+    <cosponsor id="412556" joined="2015-06-02"/>
+    <cosponsor id="300047" joined="2015-07-08"/>
+    <cosponsor id="300048" joined="2015-05-12"/>
+    <cosponsor id="300055" joined="2015-07-09"/>
+    <cosponsor id="412496" joined="2015-05-12"/>
+    <cosponsor id="412242" joined="2015-05-12"/>
+    <cosponsor id="300072" joined="2015-05-12"/>
+    <cosponsor id="300076" joined="2015-07-13"/>
+    <cosponsor id="400325" joined="2015-05-20"/>
+    <cosponsor id="412491" joined="2015-05-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-12">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S2798"/>
+    </action>
+    <action datetime="2015-05-12" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+    <calendar datetime="2015-07-09" state="REPORTED">
+      <text>Committee on the Judiciary. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="2015-07-09">
+      <text>Committee on the Judiciary. Reported by Senator Grassley without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="2015-07-09" calendar="Senate Legislative" under="General Orders" number="145">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 145.</text>
+    </calendar>
+    <vote how="by Unanimous Consent" type="vote" datetime="2015-07-14" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S5057" label="consideration"/>
+      <reference ref="CR S5057" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2015-07-15">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2015-07-15T12:06:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2015-07-15T16:57:00-04:00">
+      <text>Held at the desk.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="2922"/>
+    <bill relation="unknown" session="114" type="s" number="1635"/>
+  </relatedbills>
+  <subjects>
+    <term name="Immigration"/>
+  </subjects>
+  <amendments/>
+  <summary>7/14/2015--Passed Senate without amendment.
+(This measure has not been amended since it was introduced. The expanded summary of the Senate reported version is repeated here.)
+
+Adoptive Family Relief Act
+
+(Sec. 2) This bill amends the Immigration and Nationality Act to declare that, if an immigrant visa was issued on or after March 27, 2013, for a child who has been lawfully adopted, or who is coming to the United States to be adopted, by a U.S. citizen, any statutory immigrant visa fees relating to a renewal or replacement of such visa may be waived or, if already paid, may be refunded if:
+
+ the child was unable to use the original immigrant visa during the period of its validity as a direct result of extraordinary circumstances, including the denial of an exit permit; and such inability was attributable to factors beyond the control of the adopting parent or parents.</summary>
+</bill>

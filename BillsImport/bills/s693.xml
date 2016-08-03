@@ -1,0 +1,47 @@
+<bill session="114" type="s" number="693" updated="2015-03-28T06:39:13-04:00">
+  <state datetime="2015-03-10">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-10"/>
+  </status>
+  <introduced datetime="2015-03-10"/>
+  <titles>
+    <title type="short" as="introduced">Lena Horne Recognition Act</title>
+    <title type="official" as="introduced">A bill to posthumously award a Congressional Gold Medal to Lena Horne in recognition of her achievements and contributions to American culture and the civil rights movement.</title>
+  </titles>
+  <sponsor id="300078"/>
+  <cosponsors>
+    <cosponsor id="300011" joined="2015-03-10"/>
+    <cosponsor id="300025" joined="2015-03-10"/>
+    <cosponsor id="300043" joined="2015-03-10"/>
+    <cosponsor id="412378" joined="2015-03-10"/>
+    <cosponsor id="412223" joined="2015-03-10"/>
+    <cosponsor id="412305" joined="2015-03-10"/>
+    <cosponsor id="300087" joined="2015-03-10"/>
+    <cosponsor id="412471" joined="2015-03-10"/>
+    <cosponsor id="412247" joined="2015-03-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-10" state="REFERRED">
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="839"/>
+  </relatedbills>
+  <subjects>
+    <term name="Arts, culture, religion"/>
+    <term name="Art, artists, authorship"/>
+    <term name="Congressional tributes"/>
+    <term name="Music"/>
+    <term name="Performing arts"/>
+    <term name="Racial and ethnic relations"/>
+  </subjects>
+  <amendments/>
+  <summary>3/10/2015--Introduced.
+Lena Horne Recognition Act
+
+Directs the Speaker of the House of Representatives and the President pro tempore of the Senate to arrange for the posthumous presentation of a Congressional Gold Medal in commemoration of Lena Horne in recognition of her achievements and contributions to American culture and the civil rights movement.</summary>
+</bill>

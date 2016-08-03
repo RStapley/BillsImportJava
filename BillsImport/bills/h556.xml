@@ -1,0 +1,117 @@
+<bill session="114" type="h" number="556" updated="2015-07-30T04:48:00-04:00">
+  <state datetime="2015-01-27">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-27"/>
+  </status>
+  <introduced datetime="2015-01-27"/>
+  <titles>
+    <title type="short" as="introduced">Prevent Interruptions in Physical Therapy Act of 2015</title>
+    <title type="official" as="introduced">To amend title XVIII of the Social Security Act to add physical therapists to the list of providers allowed to utilize locum tenens arrangements under Medicare, and for other purposes.</title>
+  </titles>
+  <sponsor id="412250"/>
+  <cosponsors>
+    <cosponsor id="412630" joined="2015-03-24"/>
+    <cosponsor id="412615" joined="2015-07-29"/>
+    <cosponsor id="412500" joined="2015-03-13"/>
+    <cosponsor id="412642" joined="2015-06-09"/>
+    <cosponsor id="412478" joined="2015-03-13"/>
+    <cosponsor id="412539" joined="2015-04-28"/>
+    <cosponsor id="412516" joined="2015-07-08"/>
+    <cosponsor id="400052" joined="2015-02-03"/>
+    <cosponsor id="412622" joined="2015-06-03"/>
+    <cosponsor id="412571" joined="2015-07-21"/>
+    <cosponsor id="412195" joined="2015-06-12"/>
+    <cosponsor id="412271" joined="2015-02-13"/>
+    <cosponsor id="412236" joined="2015-06-09"/>
+    <cosponsor id="412563" joined="2015-06-09"/>
+    <cosponsor id="400648" joined="2015-05-19"/>
+    <cosponsor id="400108" joined="2015-05-14"/>
+    <cosponsor id="400116" joined="2015-06-18"/>
+    <cosponsor id="412482" joined="2015-02-26"/>
+    <cosponsor id="412275" joined="2015-06-09"/>
+    <cosponsor id="400158" joined="2015-04-28"/>
+    <cosponsor id="400162" joined="2015-04-13"/>
+    <cosponsor id="412278" joined="2015-02-24"/>
+    <cosponsor id="412454" joined="2015-06-02"/>
+    <cosponsor id="400170" joined="2015-06-09"/>
+    <cosponsor id="412584" joined="2015-06-02"/>
+    <cosponsor id="400175" joined="2015-06-09"/>
+    <cosponsor id="412609" joined="2015-06-18"/>
+    <cosponsor id="400179" joined="2015-03-24"/>
+    <cosponsor id="412460" joined="2015-03-13"/>
+    <cosponsor id="412603" joined="2015-02-13"/>
+    <cosponsor id="412465" joined="2015-01-27"/>
+    <cosponsor id="400218" joined="2015-02-10"/>
+    <cosponsor id="400220" joined="2015-01-27"/>
+    <cosponsor id="412290" joined="2015-06-03"/>
+    <cosponsor id="400244" joined="2015-05-15"/>
+    <cosponsor id="400245" joined="2015-06-12"/>
+    <cosponsor id="412293" joined="2015-01-27"/>
+    <cosponsor id="412611" joined="2015-07-14"/>
+    <cosponsor id="412466" joined="2015-01-27"/>
+    <cosponsor id="412540" joined="2015-03-13"/>
+    <cosponsor id="400276" joined="2015-07-21"/>
+    <cosponsor id="412634" joined="2015-05-19"/>
+    <cosponsor id="400290" joined="2015-05-19"/>
+    <cosponsor id="408211" joined="2015-07-14"/>
+    <cosponsor id="412303" joined="2015-02-11"/>
+    <cosponsor id="412585" joined="2015-06-25"/>
+    <cosponsor id="412431" joined="2015-01-27"/>
+    <cosponsor id="412331" joined="2015-02-11"/>
+    <cosponsor id="400333" joined="2015-06-09"/>
+    <cosponsor id="412310" joined="2015-06-09"/>
+    <cosponsor id="412570" joined="2015-07-28"/>
+    <cosponsor id="412312" joined="2015-02-11"/>
+    <cosponsor id="400360" joined="2015-04-15"/>
+    <cosponsor id="409888" joined="2015-06-12"/>
+    <cosponsor id="400378" joined="2015-06-09"/>
+    <cosponsor id="400379" joined="2015-06-25"/>
+    <cosponsor id="412461" joined="2015-06-12"/>
+    <cosponsor id="412626" joined="2015-06-18"/>
+    <cosponsor id="412405" joined="2015-06-18"/>
+    <cosponsor id="412319" joined="2015-01-27"/>
+    <cosponsor id="412254" joined="2015-07-08"/>
+    <cosponsor id="412548" joined="2015-06-02"/>
+    <cosponsor id="412618" joined="2015-06-25"/>
+    <cosponsor id="412214" joined="2015-07-28"/>
+    <cosponsor id="412610" joined="2015-06-09"/>
+    <cosponsor id="412628" joined="2015-06-12"/>
+    <cosponsor id="412640" joined="2015-07-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-27" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-01-27">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-01-27">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-01-30">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="313"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Allied health services"/>
+    <term name="Contracts and agency"/>
+    <term name="Health personnel"/>
+    <term name="Medicare"/>
+  </subjects>
+  <amendments/>
+  <summary>1/27/2015--Introduced.
+Prevent Interruptions in Physical Therapy Act of 2015
+
+ Amends part B (Supplementary Medical Insurance) of title XVIII (Medicare) of the Social Security Act to require physical therapists furnishing outpatient physical therapy services to use specified locum tenens arrangements for payment purposes in the same manner as such arrangements are used to apply to physicians furnishing substitute physicians services for other physicians.
+
+(Locum tenens [place holder], or substitute, physicians usually assume professional practices in the absence of a regular physician for reasons such as illness, pregnancy, vacation, or continuing medical education.)</summary>
+</bill>

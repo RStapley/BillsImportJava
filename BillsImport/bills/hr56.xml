@@ -1,0 +1,91 @@
+<bill session="114" type="hr" number="56" updated="2015-07-29T04:47:05-04:00">
+  <state datetime="2015-01-27">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-27"/>
+  </status>
+  <introduced datetime="2015-01-27"/>
+  <titles>
+    <title type="official" as="introduced">Affirming the support of the United States for Macedonia's accession to the North Atlantic Treaty Organization (NATO).</title>
+  </titles>
+  <sponsor id="400276"/>
+  <cosponsors>
+    <cosponsor id="400004" joined="2015-04-23"/>
+    <cosponsor id="412635" joined="2015-04-30"/>
+    <cosponsor id="400041" joined="2015-01-27"/>
+    <cosponsor id="412652" joined="2015-06-23"/>
+    <cosponsor id="400071" joined="2015-04-21"/>
+    <cosponsor id="412604" joined="2015-02-24"/>
+    <cosponsor id="400639" joined="2015-05-13"/>
+    <cosponsor id="412272" joined="2015-01-27"/>
+    <cosponsor id="400080" joined="2015-04-21"/>
+    <cosponsor id="412513" joined="2015-01-27"/>
+    <cosponsor id="400141" joined="2015-02-04"/>
+    <cosponsor id="400170" joined="2015-01-27"/>
+    <cosponsor id="400204" joined="2015-02-02"/>
+    <cosponsor id="400211" joined="2015-06-02"/>
+    <cosponsor id="412421" joined="2015-01-27"/>
+    <cosponsor id="400224" joined="2015-05-13"/>
+    <cosponsor id="412445" joined="2015-02-02"/>
+    <cosponsor id="412468" joined="2015-04-21"/>
+    <cosponsor id="400309" joined="2015-01-27"/>
+    <cosponsor id="412569" joined="2015-05-20"/>
+    <cosponsor id="412306" joined="2015-02-24"/>
+    <cosponsor id="400652" joined="2015-01-27"/>
+    <cosponsor id="412664" joined="2015-07-21"/>
+    <cosponsor id="412399" joined="2015-07-28"/>
+    <cosponsor id="412417" joined="2015-02-27"/>
+    <cosponsor id="400380" joined="2015-01-27"/>
+    <cosponsor id="412581" joined="2015-04-27"/>
+    <cosponsor id="412461" joined="2015-01-27"/>
+    <cosponsor id="400402" joined="2015-01-27"/>
+    <cosponsor id="412636" joined="2015-04-30"/>
+    <cosponsor id="400411" joined="2015-01-27"/>
+    <cosponsor id="400417" joined="2015-07-09"/>
+    <cosponsor id="412214" joined="2015-04-22"/>
+    <cosponsor id="412574" joined="2015-05-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-27" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2015-02-11">
+      <text>Referred to the Subcommittee on Europe, Eurasia, and Emerging Threats.</text>
+    </action>
+    <action datetime="2015-03-03">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E295"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSFA14" subcommittee="Europe, Eurasia, and Emerging Threats" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Alliances"/>
+    <term name="Congressional tributes"/>
+    <term name="Economic development"/>
+    <term name="Europe"/>
+    <term name="Greece"/>
+    <term name="Macedonia"/>
+    <term name="Military assistance, sales, and agreements"/>
+    <term name="National Guard and reserves"/>
+    <term name="Political movements and philosophies"/>
+    <term name="Rule of law and government transparency"/>
+    <term name="Vermont"/>
+  </subjects>
+  <amendments/>
+  <summary>1/27/2015--Introduced.
+Supports Macedonia's aspirations to join the North Atlantic Treaty Organization (NATO).
+
+Recognizes the cooperation between Vermont and Macedonia and the joint military partnership between the Vermont National Guard and the Army of Macedonia.
+
+Recognizes the significant benefits of closer economic and political ties between NATO members and Macedonia.
+
+Appreciates Macedonia's efforts in advancing peace, democracy, and stability.
+
+Calls on the Administration, the Department of State, and European allies to work with Greece and NATO allies to ensure that bilateral disputes do not impede Macedonia's NATO accession.
+
+Urges NATO members to formally extend an invitation to Macedonia to join NATO at one of the next meetings of the North Atlantic Council or NATO Summit in Poland in 2016.</summary>
+</bill>

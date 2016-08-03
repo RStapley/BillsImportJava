@@ -1,0 +1,37 @@
+<bill session="114" type="h" number="2053" updated="2015-06-20T06:35:41-04:00">
+  <state datetime="2015-04-28">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-28"/>
+  </status>
+  <introduced datetime="2015-04-28"/>
+  <titles>
+    <title type="short" as="introduced">Military Reserve Survivor Benefit Equity Act</title>
+    <title type="official" as="introduced">To amend title 10, United States Code, to eliminate the different treatment under the Survivor Benefit Plan accorded members of the reserve components who die from an injury or illness incurred or aggravated in the line of duty during inactive-duty training compared to members of the Armed Forces who die in the line of duty while on active duty.</title>
+  </titles>
+  <sponsor id="412270"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-04-28" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Military education and training"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>4/28/2015--Introduced.
+Military Reserve Survivor Benefit Equity Act
+
+Makes the Survivor Benefit Plan (SBP) annuity for survivors of members of the reserves who die from an injury or illness incurred or aggravated in the line of duty during inactive-duty training the same as the annuity for survivors of members of the regular Armed Forces who die in the line of duty while on active duty.
+
+Prescribes the same increase with respect to the payment of an SBP annuity to a dependent child or children when there is no eligible surviving spouse.
+
+ Declares that, for any death that occurred before the date of enactment of this Act for which an annuity is being paid (or could be paid) to a surviving spouse, the Secretary concerned may, within six months of that date and in consultation with the surviving spouse, provide an annuity for the dependent children of the decedent instead of an annuity for the surviving spouse.</summary>
+</bill>

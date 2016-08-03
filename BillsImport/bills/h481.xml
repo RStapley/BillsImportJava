@@ -1,0 +1,36 @@
+<bill session="114" type="h" number="481" updated="2015-02-28T06:20:26-05:00">
+  <state datetime="2015-01-22">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-22"/>
+  </status>
+  <introduced datetime="2015-01-22"/>
+  <titles>
+    <title type="short" as="introduced">Long-Term Unemployed Hiring Incentive Act</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to allow the work opportunity credit for hiring the long-term unemployed.</title>
+  </titles>
+  <sponsor id="400309"/>
+  <cosponsors>
+    <cosponsor id="412393" joined="2015-01-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-22" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Employee hiring"/>
+    <term name="Income tax credits"/>
+    <term name="Unemployment"/>
+    <term name="Wages and earnings"/>
+  </subjects>
+  <amendments/>
+  <summary>1/22/2015--Introduced.
+Long-Term Unemployed Hiring Incentive Act 
+
+Amends the Internal Revenue Code to allow&#160;through December 31, 2017, a work opportunity tax credit for hiring a qualified long-term unemployed individual.&#160; Defines "qualified long-term unemployed individual" as any individual certified by the designated local agency as: (1) having exhausted, as of the hiring date, all rights to regular compensation under federal or state law; (2) having no rights to regular compensation with respect to the most recent week ending before the hiring date; and (3) not receiving compensation under the unemployment compensation law of Canada.</summary>
+</bill>

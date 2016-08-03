@@ -1,0 +1,48 @@
+<bill session="114" type="h" number="2878" updated="2015-08-15T06:43:27-04:00">
+  <state datetime="2015-06-24">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-24"/>
+  </status>
+  <introduced datetime="2015-06-24"/>
+  <titles>
+    <title type="official" as="introduced">To provide for the extension of the enforcement instruction on supervision requirements for outpatient therapeutic services in critical access and small rural hospitals through 2015.</title>
+  </titles>
+  <sponsor id="412284"/>
+  <cosponsors>
+    <cosponsor id="412429" joined="2015-07-08"/>
+    <cosponsor id="412209" joined="2015-06-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-24" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-06-24">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-06-24">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-06-26">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="1461"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Health personnel"/>
+    <term name="Home and outpatient care"/>
+    <term name="Hospital care"/>
+    <term name="Medicare"/>
+    <term name="Rural conditions and development"/>
+  </subjects>
+  <amendments/>
+  <summary>6/24/2015--Introduced.
+This bill requires the Department of Health and Human Services to continue to instruct Medicare contractors not to enforce requirements for direct physician supervision of outpatient therapeutic services in critical access and small rural hospitals through 2015.</summary>
+</bill>

@@ -1,0 +1,47 @@
+<bill session="114" type="s" number="822" updated="2015-05-20T04:49:58-04:00">
+  <state datetime="2015-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-19"/>
+  </status>
+  <introduced datetime="2015-03-19"/>
+  <titles>
+    <title type="short" as="introduced">Geothermal Production Expansion Act of 2015</title>
+    <title type="official" as="introduced">A bill to expand geothermal production, and for other purposes.</title>
+  </titles>
+  <sponsor id="300100"/>
+  <cosponsors>
+    <cosponsor id="300030" joined="2015-03-19"/>
+    <cosponsor id="412325" joined="2015-03-19"/>
+    <cosponsor id="300075" joined="2015-03-19"/>
+    <cosponsor id="412322" joined="2015-03-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-19">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S1667"/>
+    </action>
+    <action datetime="2015-03-19" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+      <reference ref="CR S1668" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2015-05-19">
+      <text>Committee on Energy and Natural Resources. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="1719"/>
+    <bill relation="unknown" session="114" type="s" number="1057"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Administrative remedies"/>
+    <term name="Alternative and renewable resources"/>
+    <term name="Department of the Interior"/>
+    <term name="Government information and archives"/>
+    <term name="Land use and conservation"/>
+  </subjects>
+  <amendments/>
+</bill>

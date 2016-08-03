@@ -1,0 +1,30 @@
+<bill session="114" type="s" number="1930" updated="2015-08-15T07:07:58-04:00">
+  <state datetime="2015-08-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-08-04"/>
+  </status>
+  <introduced datetime="2015-08-04"/>
+  <titles>
+    <title type="short" as="introduced">Kennesaw Mountain National Battlefield Park Boundary Adjustment Act of 2015</title>
+    <title type="official" as="introduced">A bill to adjust the boundary of the Kennesaw Mountain National Battlefield Park to include the Wallis House and Harriston Hill, and for other purposes.</title>
+  </titles>
+  <sponsor id="400194"/>
+  <cosponsors>
+    <cosponsor id="412666" joined="2015-08-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-08-04" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="3371"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+</bill>

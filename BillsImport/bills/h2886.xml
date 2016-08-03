@@ -1,0 +1,42 @@
+<bill session="114" type="h" number="2886" updated="2015-07-07T04:47:21-04:00">
+  <state datetime="2015-06-25">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-25"/>
+  </status>
+  <introduced datetime="2015-06-25"/>
+  <titles>
+    <title type="short" as="introduced">Future Transportation Research and Innovation for Prosperity Act</title>
+    <title type="short" as="introduced">Future TRIP Act</title>
+    <title type="official" as="introduced">To direct the Secretary of Transportation to establish an Automated and Connected Vehicle Research Initiative, and for other purposes.</title>
+  </titles>
+  <sponsor id="400630"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-06-25" state="REFERRED">
+      <text>Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-06-25">
+      <text>Referred to House Science, Space, and Technology</text>
+    </action>
+    <action datetime="2015-06-25">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2015-06-26">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+    </action>
+    <action datetime="2015-06-26">
+      <text>Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science, Space, and Technology" activity="Referral"/>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW12" subcommittee="Highways and Transit" name="House Transportation and Infrastructure"/>
+    <committee activity="Referral" code="HSPW14" subcommittee="Railroads, Pipelines, and Hazardous Materials" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+</bill>

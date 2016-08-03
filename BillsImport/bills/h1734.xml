@@ -1,0 +1,187 @@
+<bill session="114" type="h" number="1734" updated="2015-08-15T06:33:46-04:00">
+  <state datetime="2015-07-22T18:50:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2015-07-22T18:50:00-04:00"/>
+  </status>
+  <introduced datetime="2015-04-13"/>
+  <titles>
+    <title type="short" as="introduced">Improving Coal Combustion Residuals Regulation Act of 2015</title>
+    <title type="short" as="reported to house">Improving Coal Combustion Residuals Regulation Act of 2015</title>
+    <title type="short" as="passed house">Improving Coal Combustion Residuals Regulation Act of 2015</title>
+    <title type="official" as="introduced">To amend subtitle D of the Solid Waste Disposal Act to encourage recovery and beneficial use of coal combustion residuals and establish requirements for the proper management and disposal of coal combustion residuals that are protective of human health and the environment.</title>
+  </titles>
+  <sponsor id="412487"/>
+  <cosponsors>
+    <cosponsor id="412469" joined="2015-04-13"/>
+    <cosponsor id="412541" joined="2015-04-13"/>
+    <cosponsor id="412250" joined="2015-04-23"/>
+    <cosponsor id="400030" joined="2015-04-13"/>
+    <cosponsor id="400032" joined="2015-04-13"/>
+    <cosponsor id="412629" joined="2015-05-12"/>
+    <cosponsor id="412427" joined="2015-04-14"/>
+    <cosponsor id="412601" joined="2015-05-14"/>
+    <cosponsor id="412555" joined="2015-04-13"/>
+    <cosponsor id="412536" joined="2015-04-13"/>
+    <cosponsor id="400116" joined="2015-05-01"/>
+    <cosponsor id="400141" joined="2015-04-13"/>
+    <cosponsor id="412463" joined="2015-05-12"/>
+    <cosponsor id="412397" joined="2015-04-30"/>
+    <cosponsor id="412388" joined="2015-05-21"/>
+    <cosponsor id="412278" joined="2015-04-13"/>
+    <cosponsor id="412280" joined="2015-04-13"/>
+    <cosponsor id="412444" joined="2015-06-02"/>
+    <cosponsor id="412437" joined="2015-04-13"/>
+    <cosponsor id="412663" joined="2015-04-13"/>
+    <cosponsor id="412284" joined="2015-04-13"/>
+    <cosponsor id="412460" joined="2015-04-28"/>
+    <cosponsor id="412465" joined="2015-04-13"/>
+    <cosponsor id="400218" joined="2015-04-15"/>
+    <cosponsor id="400219" joined="2015-04-15"/>
+    <cosponsor id="400224" joined="2015-04-15"/>
+    <cosponsor id="412256" joined="2015-04-14"/>
+    <cosponsor id="412445" joined="2015-04-13"/>
+    <cosponsor id="412294" joined="2015-04-13"/>
+    <cosponsor id="400276" joined="2015-04-23"/>
+    <cosponsor id="412662" joined="2015-04-13"/>
+    <cosponsor id="400285" joined="2015-04-13"/>
+    <cosponsor id="412409" joined="2015-05-20"/>
+    <cosponsor id="412302" joined="2015-04-13"/>
+    <cosponsor id="400316" joined="2015-04-14"/>
+    <cosponsor id="412462" joined="2015-04-13"/>
+    <cosponsor id="400340" joined="2015-05-01"/>
+    <cosponsor id="400341" joined="2015-05-14"/>
+    <cosponsor id="400367" joined="2015-06-03"/>
+    <cosponsor id="400373" joined="2015-04-13"/>
+    <cosponsor id="412461" joined="2015-04-28"/>
+    <cosponsor id="400402" joined="2015-04-13"/>
+    <cosponsor id="400431" joined="2015-04-13"/>
+    <cosponsor id="412402" joined="2015-04-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-13" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-04-14">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2015-04-15">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-04-15" state="REPORTED">
+      <text>Ordered to be Reported by the Yeas and Nays: 32 - 19.</text>
+    </calendar>
+    <action datetime="2015-04-17">
+      <text>Referred to the Subcommittee on Environment and the Economy.</text>
+    </action>
+    <action datetime="2015-06-09T14:24:00-04:00">
+      <text>Reported by the Committee on Energy and Commerce. H. Rept. 114-143.</text>
+    </action>
+    <calendar datetime="2015-06-09T14:24:00-04:00" calendar="Union" number="103">
+      <text>Placed on the Union Calendar, Calendar No. 103.</text>
+    </calendar>
+    <action datetime="2015-07-21T19:34:00-04:00">
+      <text>Rules Committee Resolution H. Res. 369 Reported to House. Resolution provides for consideration of H.R. 1599 and H.R. 1734.</text>
+    </action>
+    <action datetime="2015-07-22T14:02:00-04:00">
+      <text>Rule H. Res. 369 passed House.</text>
+    </action>
+    <action datetime="2015-07-22T16:01:00-04:00">
+      <text>Considered under the provisions of rule H. Res. 369.</text>
+      <reference ref="H5358-5380" label="consideration"/>
+      <reference ref="text as reported CR H5365-5370"/>
+    </action>
+    <action datetime="2015-07-22T16:01:00-04:00">
+      <text>Resolution provides for consideration of H.R. 1599 and H.R. 1734.</text>
+    </action>
+    <action datetime="2015-07-22T16:01:00-04:00">
+      <text>House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 369 and Rule XVIII.</text>
+    </action>
+    <action datetime="2015-07-22T16:01:00-04:00">
+      <text>The Speaker designated the Honorable Randy Hultgren to act as Chairman of the Committee.</text>
+    </action>
+    <action datetime="2015-07-22T16:01:00-04:00">
+      <text>GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 1734.</text>
+    </action>
+    <action datetime="2015-07-22T16:58:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H.Res. 369, the Committee of the Whole proceeded with 10 minutes of debate on the Shimkus amendment No. 1.</text>
+    </action>
+    <action datetime="2015-07-22T17:01:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H.Res. 369, the Committee of the Whole proceeded with 10 minutes of debate on the Pallone amendment No. 2.</text>
+    </action>
+    <action datetime="2015-07-22T17:05:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Pallone amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Pallone demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2015-07-22T17:07:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H.Res. 369, the Committee of the Whole proceeded with 10 minutes of debate on the Castor (FL) amendment No. 3.</text>
+    </action>
+    <action datetime="2015-07-22T17:14:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H.Res. 369, the Committee of the Whole proceeded with 10 minutes of debate on the Connolly amendment No. 4.</text>
+    </action>
+    <action datetime="2015-07-22T17:21:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Connolly amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Connolly demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2015-07-22T17:22:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H.Res. 369, the Committee of the Whole proceeded with 10 minutes of debate on the Adams amendment No. 5.</text>
+    </action>
+    <action datetime="2015-07-22T17:30:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Adams amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Adams demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2015-07-22T17:31:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H.Res. 369, the Committee of the Whole proceeded with 10 minutes of debate on the Butterfield amendment No. 6.</text>
+    </action>
+    <action datetime="2015-07-22T17:38:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Butterfield amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Butterfield demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2015-07-22T18:26:00-04:00">
+      <text>The House rose from the Committee of the Whole House on the state of the Union to report H.R. 1734.</text>
+    </action>
+    <action datetime="2015-07-22T18:26:00-04:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+      <reference ref="CR H5378" label="consideration"/>
+    </action>
+    <action datetime="2015-07-22T18:28:00-04:00">
+      <text>Mr. Foster moved to recommit with instructions to the Committee on Energy and Commerce.</text>
+      <reference ref="H5378-5380" label="consideration"/>
+      <reference ref="CR H5378" label="text"/>
+    </action>
+    <action datetime="2015-07-22T18:28:00-04:00">
+      <text>DEBATE - The House proceeded with 10 minutes of debate on the Foster motion to recommit with instructions pending a reservation of a point of order. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to require an agency implementing any coal ash permit ensure that all disposal sites meet criteria for design, construction, operation, and maintenance sufficient to prevent contamination of groundwater and sources of drinking water, including the Great Lakes. Subsequently, the reservation was removed.</text>
+    </action>
+    <action datetime="2015-07-22T18:36:00-04:00">
+      <text>The previous question on the motion to recommit with instructions was ordered without objection.</text>
+      <reference ref="CR H5379" label="consideration"/>
+    </action>
+    <action datetime="2015-07-22T18:43:00-04:00">
+      <text>On motion to recommit with instructions Failed by recorded vote: 184 - 240 (Roll no. 457).</text>
+      <reference ref="CR H5379-5380" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="458" datetime="2015-07-22T18:50:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by recorded vote: 258 - 166 (Roll no. 458).</text>
+    </vote>
+    <action datetime="2015-07-22T18:50:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2015-07-23">
+      <text>Received in the Senate.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="HSIF18" subcommittee="Environment and the Economy" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="rule" session="114" type="hr" number="369"/>
+    <bill relation="unknown" session="114" type="s" number="1803"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+  </subjects>
+  <amendments>
+    <amendment number="h672"/>
+    <amendment number="h673"/>
+    <amendment number="h674"/>
+    <amendment number="h675"/>
+    <amendment number="h676"/>
+    <amendment number="h677"/>
+  </amendments>
+</bill>

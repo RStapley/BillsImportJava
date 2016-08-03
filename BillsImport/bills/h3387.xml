@@ -1,0 +1,30 @@
+<bill session="114" type="h" number="3387" updated="2015-08-15T06:47:42-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">Open and Transparent Smithsonian Act of 2015</title>
+    <title type="official" as="introduced">To amend the Freedom of Information Act, the Privacy Act, and the Federal Advisory Committee Act to apply the requirements of such Acts to the Smithsonian Institution, and for other purposes.</title>
+  </titles>
+  <sponsor id="400295"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-29">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1177"/>
+    </action>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+  </subjects>
+  <amendments/>
+</bill>

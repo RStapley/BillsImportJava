@@ -1,0 +1,46 @@
+<bill session="114" type="h" number="2046" updated="2015-06-19T04:47:35-04:00">
+  <state datetime="2015-04-28">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-28"/>
+  </status>
+  <introduced datetime="2015-04-28"/>
+  <titles>
+    <title type="short" as="introduced">Prescription Drug Accountability Act</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to improve the participation of the Department of Veterans Affairs in the prescription drug monitoring programs of the States.</title>
+  </titles>
+  <sponsor id="412488"/>
+  <cosponsors>
+    <cosponsor id="412661" joined="2015-06-18"/>
+    <cosponsor id="400218" joined="2015-05-19"/>
+    <cosponsor id="400661" joined="2015-05-29"/>
+    <cosponsor id="412585" joined="2015-05-29"/>
+    <cosponsor id="412489" joined="2015-05-13"/>
+    <cosponsor id="400351" joined="2015-06-16"/>
+    <cosponsor id="400365" joined="2015-05-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-28" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2015-05-11">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Drug trafficking and controlled substances"/>
+    <term name="Health information and medical records"/>
+    <term name="Prescription drugs"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>4/28/2015--Introduced.
+Prescription Drug Accountability Act
+
+This bill provides for Department of Veterans Affairs participation in state prescription drug monitoring programs.</summary>
+</bill>

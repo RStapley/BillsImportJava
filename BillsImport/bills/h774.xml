@@ -1,0 +1,163 @@
+<bill session="114" type="h" number="774" updated="2015-08-08T06:25:37-04:00">
+  <state datetime="2015-07-27T15:18:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2015-07-27T15:18:00-04:00"/>
+  </status>
+  <introduced datetime="2015-02-05"/>
+  <titles>
+    <title type="short" as="introduced">Illegal, Unreported, and Unregulated Fishing Enforcement Act of 2015</title>
+    <title type="short" as="introduced" partial="1">Antigua Convention Implementing Act of 2015</title>
+    <title type="short" as="introduced" partial="1">Port State Measures Agreement Act of 2015</title>
+    <title type="short" as="reported to house">Illegal, Unreported, and Unregulated Fishing Enforcement Act of 2015</title>
+    <title type="short" as="reported to house" partial="1">Antigua Convention Implementing Act of 2015</title>
+    <title type="short" as="reported to house" partial="1">Port State Measures Agreement Act of 2015</title>
+    <title type="short" as="passed house">Illegal, Unreported, and Unregulated Fishing Enforcement Act of 2015</title>
+    <title type="short" as="passed house" partial="1">Antigua Convention Implementing Act of 2015</title>
+    <title type="short" as="passed house" partial="1">Port State Measures Agreement Act of 2015</title>
+    <title type="official" as="introduced">To strengthen enforcement mechanisms to stop illegal, unreported, and unregulated fishing, to amend the Tuna Conventions Act of 1950 to implement the Antigua Convention, and for other purposes.</title>
+  </titles>
+  <sponsor id="400041"/>
+  <cosponsors>
+    <cosponsor id="412250" joined="2015-06-17"/>
+    <cosponsor id="412395" joined="2015-06-23"/>
+    <cosponsor id="412601" joined="2015-06-12"/>
+    <cosponsor id="400062" joined="2015-02-25"/>
+    <cosponsor id="412195" joined="2015-05-18"/>
+    <cosponsor id="412470" joined="2015-07-27"/>
+    <cosponsor id="412604" joined="2015-06-04"/>
+    <cosponsor id="412236" joined="2015-04-30"/>
+    <cosponsor id="400089" joined="2015-06-09"/>
+    <cosponsor id="412621" joined="2015-04-13"/>
+    <cosponsor id="400100" joined="2015-02-05"/>
+    <cosponsor id="400108" joined="2015-05-13"/>
+    <cosponsor id="412482" joined="2015-04-13"/>
+    <cosponsor id="412382" joined="2015-02-05"/>
+    <cosponsor id="400162" joined="2015-07-27"/>
+    <cosponsor id="400185" joined="2015-06-12"/>
+    <cosponsor id="412511" joined="2015-03-03"/>
+    <cosponsor id="412283" joined="2015-02-10"/>
+    <cosponsor id="412603" joined="2015-04-13"/>
+    <cosponsor id="412435" joined="2015-04-13"/>
+    <cosponsor id="412583" joined="2015-06-15"/>
+    <cosponsor id="412521" joined="2015-02-10"/>
+    <cosponsor id="400654" joined="2015-06-12"/>
+    <cosponsor id="412632" joined="2015-06-12"/>
+    <cosponsor id="400290" joined="2015-04-13"/>
+    <cosponsor id="412306" joined="2015-02-10"/>
+    <cosponsor id="400652" joined="2015-06-17"/>
+    <cosponsor id="412664" joined="2015-04-13"/>
+    <cosponsor id="400344" joined="2015-04-28"/>
+    <cosponsor id="400348" joined="2015-02-10"/>
+    <cosponsor id="412312" joined="2015-02-25"/>
+    <cosponsor id="400381" joined="2015-06-15"/>
+    <cosponsor id="412626" joined="2015-05-13"/>
+    <cosponsor id="400403" joined="2015-02-25"/>
+    <cosponsor id="400415" joined="2015-05-14"/>
+    <cosponsor id="412574" joined="2015-02-10"/>
+    <cosponsor id="412578" joined="2015-04-13"/>
+    <cosponsor id="412255" joined="2015-02-05"/>
+    <cosponsor id="400440" joined="2015-02-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-05">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E175"/>
+    </action>
+    <action datetime="2015-02-05" state="REFERRED">
+      <text>Referred to the Committee on Natural Resources, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-02-05">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2015-02-05">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2015-02-06">
+      <text>Referred to the Subcommittee on Coast Guard and Maritime Transportation.</text>
+    </action>
+    <action datetime="2015-03-16">
+      <text>Referred to the Subcommittee on Water, Power and Oceans.</text>
+    </action>
+    <action datetime="2015-04-29">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2015-04-30">
+      <text>Subcommittee on Water, Power and Oceans Discharged.</text>
+    </action>
+    <action datetime="2015-04-30">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-04-30" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Unanimous Consent.</text>
+    </calendar>
+    <action datetime="2015-07-20T14:16:00-04:00">
+      <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-212, Part I.</text>
+    </action>
+    <action datetime="2015-07-20T14:17:00-04:00">
+      <text>Committee on Transportation discharged.</text>
+    </action>
+    <action datetime="2015-07-20">
+      <text>Referred sequentially to the House Committee on the Judiciary for a period ending not later than July 30, 2015 for consideration of such provisions of the bill and amendment as fall within the jurisdiction of that committee pursuant to clause 1(l), rule X.</text>
+    </action>
+    <action datetime="2015-07-27T15:09:00-04:00">
+      <text>Mrs. Radewagen moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2015-07-27T15:09:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5478-5486" label="consideration"/>
+    </action>
+    <action datetime="2015-07-27T15:09:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 774.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2015-07-27T15:18:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H5479-5484" label="text"/>
+    </vote>
+    <action datetime="2015-07-27T15:18:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2015-07-28">
+      <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSII13" subcommittee="Water, Power and Oceans" name="House Natural Resources"/>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Discharged"/>
+    <committee activity="Referral" code="HSPW07" subcommittee="Coast Guard and Maritime Transportation" name="House Transportation and Infrastructure"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1334"/>
+    <bill relation="unknown" session="114" type="s" number="1334"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Advisory bodies"/>
+    <term name="Arctic and polar regions"/>
+    <term name="Assault and harassment offenses"/>
+    <term name="Atlantic Ocean"/>
+    <term name="Caribbean area"/>
+    <term name="Civil actions and liability"/>
+    <term name="Costa Rica"/>
+    <term name="Crimes against animals and natural resources"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Customs enforcement"/>
+    <term name="Department of Commerce"/>
+    <term name="Fishes"/>
+    <term name="Fraud offenses and financial crimes"/>
+    <term name="Government information and archives"/>
+    <term name="International law and treaties"/>
+    <term name="International organizations and cooperation"/>
+    <term name="Latin America"/>
+    <term name="Licensing and registrations"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Pacific Ocean"/>
+    <term name="Seafood"/>
+    <term name="Trade restrictions"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,36 @@
+<bill session="114" type="h" number="2443" updated="2015-08-08T06:39:43-04:00">
+  <state datetime="2015-05-19">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-19"/>
+  </status>
+  <introduced datetime="2015-05-19"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Federal Food, Drug, and Cosmetic Act with respect to CLIA waiver study design guidance for in vitro diagnostics.</title>
+  </titles>
+  <sponsor id="412278"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-05-19" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-05-22">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="6"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Drug safety, medical device, and laboratory regulation"/>
+  </subjects>
+  <amendments/>
+  <summary>5/19/2015--Introduced.
+This bill requires the Department of Health and Human Services to publish guidance that revises &#8220;Recommendations for Clinical Laboratory Improvement Amendments of 1988 (CLIA) Waiver Applications for Manufacturers of In Vitro Diagnostic Devices&#8221; and includes guidance on using comparable performance between types of users to demonstrate the accuracy of a medical device.</summary>
+</bill>

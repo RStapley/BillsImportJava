@@ -1,0 +1,281 @@
+<bill session="114" type="h" number="1994" updated="2015-07-31T04:47:15-04:00">
+  <state datetime="2015-07-29T18:02:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2015-07-29T18:02:00-04:00"/>
+  </status>
+  <introduced datetime="2015-04-23"/>
+  <titles>
+    <title type="short" as="introduced">VA Accountability Act of 2015</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to provide for the removal or demotion of employees of the Department of Veterans Affairs based on performance or misconduct, and for other purposes.</title>
+  </titles>
+  <sponsor id="400279"/>
+  <cosponsors>
+    <cosponsor id="412630" joined="2015-04-23"/>
+    <cosponsor id="412625" joined="2015-07-22"/>
+    <cosponsor id="412500" joined="2015-06-03"/>
+    <cosponsor id="412655" joined="2015-04-28"/>
+    <cosponsor id="412541" joined="2015-07-07"/>
+    <cosponsor id="412436" joined="2015-04-23"/>
+    <cosponsor id="412250" joined="2015-04-30"/>
+    <cosponsor id="412635" joined="2015-05-13"/>
+    <cosponsor id="412629" joined="2015-07-15"/>
+    <cosponsor id="400636" joined="2015-05-13"/>
+    <cosponsor id="412605" joined="2015-07-16"/>
+    <cosponsor id="412196" joined="2015-05-13"/>
+    <cosponsor id="412622" joined="2015-05-12"/>
+    <cosponsor id="400068" joined="2015-06-15"/>
+    <cosponsor id="412271" joined="2015-06-09"/>
+    <cosponsor id="412513" joined="2015-07-22"/>
+    <cosponsor id="412651" joined="2015-04-23"/>
+    <cosponsor id="412555" joined="2015-05-13"/>
+    <cosponsor id="400089" joined="2015-06-15"/>
+    <cosponsor id="412621" joined="2015-06-17"/>
+    <cosponsor id="400648" joined="2015-05-12"/>
+    <cosponsor id="412526" joined="2015-05-19"/>
+    <cosponsor id="412457" joined="2015-07-15"/>
+    <cosponsor id="412639" joined="2015-05-13"/>
+    <cosponsor id="412482" joined="2015-04-30"/>
+    <cosponsor id="412480" joined="2015-07-21"/>
+    <cosponsor id="400142" joined="2015-07-21"/>
+    <cosponsor id="400145" joined="2015-07-07"/>
+    <cosponsor id="412463" joined="2015-05-21"/>
+    <cosponsor id="412453" joined="2015-07-16"/>
+    <cosponsor id="400154" joined="2015-06-25"/>
+    <cosponsor id="412397" joined="2015-06-16"/>
+    <cosponsor id="400157" joined="2015-07-21"/>
+    <cosponsor id="412388" joined="2015-06-10"/>
+    <cosponsor id="412447" joined="2015-06-24"/>
+    <cosponsor id="400175" joined="2015-05-12"/>
+    <cosponsor id="412486" joined="2015-07-20"/>
+    <cosponsor id="412623" joined="2015-06-01"/>
+    <cosponsor id="412609" joined="2015-05-20"/>
+    <cosponsor id="412550" joined="2015-06-24"/>
+    <cosponsor id="412429" joined="2015-04-23"/>
+    <cosponsor id="412283" joined="2015-06-09"/>
+    <cosponsor id="412654" joined="2015-06-15"/>
+    <cosponsor id="412460" joined="2015-06-11"/>
+    <cosponsor id="400209" joined="2015-05-12"/>
+    <cosponsor id="412566" joined="2015-05-12"/>
+    <cosponsor id="412649" joined="2015-07-22"/>
+    <cosponsor id="400224" joined="2015-05-13"/>
+    <cosponsor id="412614" joined="2015-06-02"/>
+    <cosponsor id="412510" joined="2015-06-02"/>
+    <cosponsor id="412191" joined="2015-05-13"/>
+    <cosponsor id="412256" joined="2015-04-28"/>
+    <cosponsor id="412624" joined="2015-06-09"/>
+    <cosponsor id="412656" joined="2015-07-20"/>
+    <cosponsor id="412294" joined="2015-07-09"/>
+    <cosponsor id="412468" joined="2015-07-16"/>
+    <cosponsor id="400654" joined="2015-06-01"/>
+    <cosponsor id="400659" joined="2015-05-13"/>
+    <cosponsor id="412611" joined="2015-05-13"/>
+    <cosponsor id="412540" joined="2015-06-09"/>
+    <cosponsor id="400273" joined="2015-06-25"/>
+    <cosponsor id="400285" joined="2015-04-23"/>
+    <cosponsor id="412660" joined="2015-07-20"/>
+    <cosponsor id="412302" joined="2015-06-23"/>
+    <cosponsor id="412443" joined="2015-07-21"/>
+    <cosponsor id="400313" joined="2015-06-01"/>
+    <cosponsor id="412569" joined="2015-06-23"/>
+    <cosponsor id="412523" joined="2015-05-13"/>
+    <cosponsor id="412551" joined="2015-06-24"/>
+    <cosponsor id="400652" joined="2015-07-21"/>
+    <cosponsor id="400626" joined="2015-05-13"/>
+    <cosponsor id="412664" joined="2015-04-29"/>
+    <cosponsor id="412483" joined="2015-07-15"/>
+    <cosponsor id="412394" joined="2015-06-04"/>
+    <cosponsor id="412311" joined="2015-06-23"/>
+    <cosponsor id="412570" joined="2015-05-12"/>
+    <cosponsor id="412641" joined="2015-04-29"/>
+    <cosponsor id="400606" joined="2015-06-01"/>
+    <cosponsor id="400365" joined="2015-05-21"/>
+    <cosponsor id="400376" joined="2015-06-03"/>
+    <cosponsor id="412509" joined="2015-04-29"/>
+    <cosponsor id="400381" joined="2015-05-12"/>
+    <cosponsor id="412581" joined="2015-05-12"/>
+    <cosponsor id="412317" joined="2015-07-23"/>
+    <cosponsor id="400404" joined="2015-06-01"/>
+    <cosponsor id="412405" joined="2015-06-23"/>
+    <cosponsor id="412213" joined="2015-07-09"/>
+    <cosponsor id="412538" joined="2015-06-15"/>
+    <cosponsor id="412618" joined="2015-07-20"/>
+    <cosponsor id="412574" joined="2015-06-15"/>
+    <cosponsor id="412410" joined="2015-07-09"/>
+    <cosponsor id="400627" joined="2015-05-01"/>
+    <cosponsor id="412578" joined="2015-06-15"/>
+    <cosponsor id="412255" joined="2015-06-16"/>
+    <cosponsor id="412525" joined="2015-05-20"/>
+    <cosponsor id="412628" joined="2015-07-22"/>
+    <cosponsor id="412646" joined="2015-05-13"/>
+    <cosponsor id="412640" joined="2015-06-17"/>
+    <cosponsor id="412638" joined="2015-05-12" withdrawn="2015-06-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-23" state="REFERRED">
+      <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-04-23">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2015-04-23">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2015-05-11">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+    </action>
+    <action datetime="2015-06-02">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="2015-06-25">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2015-06-25">
+      <text>Forwarded by Subcommittee to Full Committee in the Nature of a Substitute (Amended) by Voice Vote .</text>
+    </action>
+    <action datetime="2015-07-15">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-07-15" state="REPORTED">
+      <text>Ordered to be Reported in the Nature of a Substitute (Amended) by Voice Vote.</text>
+    </calendar>
+    <action datetime="2015-07-23T16:42:00-04:00">
+      <text>Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 114-225, Part I.</text>
+    </action>
+    <action datetime="2015-07-23T16:42:00-04:00">
+      <text>Committee on Oversight and Government discharged.</text>
+    </action>
+    <calendar datetime="2015-07-23T16:42:00-04:00" calendar="Union" number="170">
+      <text>Placed on the Union Calendar, Calendar No. 170.</text>
+    </calendar>
+    <action datetime="2015-07-27T14:27:00-04:00">
+      <text>Supplemental report filed by the Committee on Veterans' Affairs, H. Rept. 114-225, Part II.</text>
+    </action>
+    <action datetime="2015-07-28T19:28:00-04:00">
+      <text>Rules Committee Resolution H. Res. 388 Reported to House. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. All points of order against consideration of the bills are waived. For H.R. 1994, The committee amendment in the nature of a substitute shall be considered as read. No amendment will be in order except those printed in the report accompanying the resolution .</text>
+    </action>
+    <action datetime="2015-07-29T14:37:00-04:00">
+      <text>Considered under the provisions of rule H. Res. 388.</text>
+      <reference ref="CR H5623-5627, H5627-5640" label="consideration"/>
+    </action>
+    <action datetime="2015-07-29T14:37:00-04:00">
+      <text>Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. All points of order against consideration of the bills are waived. For H.R. 1994, The committee amendment in the nature of a substitute shall be considered as read. No amendment will be in order except those printed in the report accompanying the resolution .</text>
+    </action>
+    <action datetime="2015-07-29T14:37:00-04:00">
+      <text>House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 388 and Rule XVIII.</text>
+    </action>
+    <action datetime="2015-07-29T14:37:00-04:00">
+      <text>The Speaker designated the Honorable Jeff Fortenberry to act as Chairman of the Committee.</text>
+    </action>
+    <action datetime="2015-07-29T14:38:00-04:00">
+      <text>GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 1994.</text>
+    </action>
+    <action datetime="2015-07-29T15:07:00-04:00">
+      <text>The Committee rose informally to recieve a message from the President.</text>
+    </action>
+    <action datetime="2015-07-29T15:07:00-04:00">
+      <text>GENERAL DEBATE - The Committee of the Whole resumed its sitting.</text>
+    </action>
+    <action datetime="2015-07-29T15:47:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 388, the Committee of the Whole proceeded with 10 minutes of debate on the Benishek amendment No. 1.</text>
+    </action>
+    <action datetime="2015-07-29T15:58:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 388, the Committee of the Whole proceeded with 20 minutes of debate on the Takano amendment in the nature of a substitute No. 2.</text>
+    </action>
+    <action datetime="2015-07-29T16:20:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Takano amendment in the nature of a substitute the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Takano demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2015-07-29T16:20:00-04:00">
+      <text>Mr. Miller (FL) moved that the Committee rise.</text>
+    </action>
+    <action datetime="2015-07-29T16:20:00-04:00">
+      <text>On motion that the Committee rise Agreed to by voice vote.</text>
+    </action>
+    <action datetime="2015-07-29T16:20:00-04:00">
+      <text>Committee of the Whole House on the state of the Union rises leaving H.R. 1994 as unfinished business.</text>
+    </action>
+    <action datetime="2015-07-29T17:32:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H5650-5653" label="consideration"/>
+    </action>
+    <action datetime="2015-07-29T17:32:00-04:00">
+      <text>The House resolved into Committee of the Whole House on the state of the Union for further consideration.</text>
+    </action>
+    <action datetime="2015-07-29T17:33:00-04:00">
+      <text>UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of an amendment which had been debated earlier and on which further proceedings were postponed.</text>
+    </action>
+    <action datetime="2015-07-29T17:38:00-04:00">
+      <text>The House rose from the Committee of the Whole House on the state of the Union to report H.R. 1994.</text>
+    </action>
+    <action datetime="2015-07-29T17:39:00-04:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+      <reference ref="CR H5651" label="consideration"/>
+    </action>
+    <action datetime="2015-07-29T17:39:00-04:00">
+      <text>The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union.</text>
+      <reference ref="CR H5631-5635" label="text of amendment in the nature of a substitute"/>
+    </action>
+    <action datetime="2015-07-29T17:40:00-04:00">
+      <text>Mr. Takano moved to recommit with instructions to the Committee on Veterans' Affairs.</text>
+      <reference ref="CR H5651-5653" label="consideration"/>
+      <reference ref="CR H5651" label="text"/>
+    </action>
+    <action datetime="2015-07-29T17:40:00-04:00">
+      <text>Floor summary: DEBATE - The House proceeded with 10 minutes of debate on the Takano motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to ensure that the Secretary of Veterans' Affairs may not remove or demote an individual that has filed a whistleblower complaint or sought corrective action from the Office of Special Counsel or the Inspector General regarding a threat to the health or safety of the public or regarding a prohibited personnel practice.</text>
+    </action>
+    <action datetime="2015-07-29T17:47:00-04:00">
+      <text>The previous question on the motion to recommit with instructions was ordered without objection.</text>
+      <reference ref="CR H5652" label="consideration"/>
+    </action>
+    <action datetime="2015-07-29T17:55:00-04:00">
+      <text>On motion to recommit with instructions Failed by recorded vote: 184 - 241 (Roll no. 488).</text>
+    </action>
+    <vote how="roll" type="vote" roll="489" datetime="2015-07-29T18:02:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by the Yeas and Nays: 256 - 170 (Roll no. 489).</text>
+    </vote>
+    <action datetime="2015-07-29T18:02:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2015-07-30">
+      <text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSVR10" subcommittee="Economic Opportunity" name="House Veterans' Affairs"/>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, Discharged"/>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="hr" number="388"/>
+    <bill relation="rule" session="114" type="hr" number="388"/>
+    <bill relation="unknown" session="114" type="s" number="1082"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Veterans Affairs"/>
+    <term name="Employee performance"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Government ethics and transparency, public corruption"/>
+    <term name="Government studies and investigations"/>
+    <term name="Labor-management relations"/>
+  </subjects>
+  <amendments>
+    <amendment number="h692"/>
+    <amendment number="h693"/>
+  </amendments>
+  <summary>4/23/2015--Introduced.
+VA Accountability Act of 2015
+
+This bill authorizes the Department of Veterans Affairs (VA) to remove or demote a VA employee based on performance or misconduct.
+
+The VA may also remove such individual from the civil service or demote the individual through a reduction in grade or annual pay rate.
+
+An employee shall have the right to an appeal before the Merit Systems Protection Board within seven days of removal or demotion. An administrative judge shall have to make a final decision within 45 days of such appeal or the original decision becomes final.
+
+The VA may not remove or demote an employee without the approval of the Special Counsel if the individual seeks corrective action from the Office of Special Counsel based on an alleged prohibited personnel practice.
+
+The appointment of an individual to a permanent position within the competitive service or as a career appointee within the Senior Executive Service shall become final after an 18-month probationary period, which the Secretary may extend. Final appointment to a permanent hire shall be made by the employee's supervisor.
+
+The Government Accountability Office shall study the amount of time spent by VA employees carrying out labor organizing activities and the amount of Department space used for such activities.</summary>
+</bill>

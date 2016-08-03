@@ -1,0 +1,47 @@
+<bill session="114" type="h" number="1486" updated="2015-07-11T04:47:00-04:00">
+  <state datetime="2015-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-19"/>
+  </status>
+  <introduced datetime="2015-03-19"/>
+  <titles>
+    <title type="short" as="introduced">TABS Act of 2015</title>
+    <title type="short" as="introduced">Taking Account of Bureaucrats' Spending Act of 2015</title>
+    <title type="official" as="introduced">To amend the Consumer Financial Protection Act of 2010 to bring the Bureau of Consumer Financial Protection into the regular appropriations process, and for other purposes.</title>
+  </titles>
+  <sponsor id="412541"/>
+  <cosponsors>
+    <cosponsor id="400086" joined="2015-05-20"/>
+    <cosponsor id="412488" joined="2015-03-19"/>
+    <cosponsor id="412479" joined="2015-07-10"/>
+    <cosponsor id="412447" joined="2015-03-24"/>
+    <cosponsor id="412437" joined="2015-06-01"/>
+    <cosponsor id="412422" joined="2015-03-19"/>
+    <cosponsor id="400441" joined="2015-03-19"/>
+    <cosponsor id="400313" joined="2015-03-19"/>
+    <cosponsor id="412551" joined="2015-05-01"/>
+    <cosponsor id="412570" joined="2015-04-21"/>
+    <cosponsor id="412461" joined="2015-03-19"/>
+    <cosponsor id="412405" joined="2015-03-24"/>
+    <cosponsor id="412628" joined="2015-05-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-19" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1261"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+  </subjects>
+  <amendments/>
+  <summary>3/19/2015--Introduced.
+Taking Account of Bureaucrats' Spending Act of 2015 or the TABS Act of 2015
+
+This bill amends the Consumer Financial Protection Act of 2010 to eliminate provisions that fund the Consumer Financial Protection Bureau (CFPB) using transfers from the earnings of the Federal Reserve System. The transfers under current law permit the CFPB to be funded outside of the annual appropriations process, and this bill brings the CFPB into the regular process.</summary>
+</bill>

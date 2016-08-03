@@ -1,0 +1,51 @@
+<bill session="114" type="s" number="435" updated="2015-03-07T06:32:56-05:00">
+  <state datetime="2015-02-10">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-10"/>
+  </status>
+  <introduced datetime="2015-02-10"/>
+  <titles>
+    <title type="short" as="introduced">State Marriage Defense Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend chapter 1 of title 1, United States Code, with regard to the definition of "marriage" and "spouse" for Federal purposes and to ensure respect for State regulation of marriage.</title>
+  </titles>
+  <sponsor id="412573"/>
+  <cosponsors>
+    <cosponsor id="400040" joined="2015-02-10"/>
+    <cosponsor id="412508" joined="2015-02-27"/>
+    <cosponsor id="300030" joined="2015-02-10"/>
+    <cosponsor id="412549" joined="2015-02-10"/>
+    <cosponsor id="300055" joined="2015-02-10"/>
+    <cosponsor id="412464" joined="2015-02-10"/>
+    <cosponsor id="412495" joined="2015-02-10"/>
+    <cosponsor id="412666" joined="2015-02-23"/>
+    <cosponsor id="300083" joined="2015-02-10"/>
+    <cosponsor id="412471" joined="2015-02-10"/>
+    <cosponsor id="300088" joined="2015-02-10"/>
+    <cosponsor id="300089" joined="2015-02-10"/>
+    <cosponsor id="400546" joined="2015-02-27"/>
+    <cosponsor id="400418" joined="2015-02-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-10" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="824"/>
+  </relatedbills>
+  <subjects>
+    <term name="Families"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Marriage and family status"/>
+    <term name="Sex, gender, sexual orientation discrimination"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+  <summary>2/10/2015--Introduced.
+State Marriage Defense Act of 2015
+
+Prohibits, for purposes of determining the meaning of any Act of Congress or of any ruling, regulation, or interpretation of U.S. administrative bureaus and agencies as applied with respect to individuals domiciled in a state or in any other territory or possession of the United States: (1) the term "marriage" from including any relationship that the state, territory, or possession does not recognize as a marriage; and (2) the term "spouse" from including an individual who is a party to a relationship that is not recognized as a marriage by that state, territory, or possession.</summary>
+</bill>

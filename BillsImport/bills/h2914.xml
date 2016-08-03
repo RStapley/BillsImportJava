@@ -1,0 +1,44 @@
+<bill session="114" type="h" number="2914" updated="2015-08-01T04:51:08-04:00">
+  <state datetime="2015-06-25">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-25"/>
+  </status>
+  <introduced datetime="2015-06-25"/>
+  <titles>
+    <title type="short" as="introduced">Build a Better VA Act</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to require congressional approval before the appropriation of funds for Department of Veterans Affairs major medical facility leases.</title>
+  </titles>
+  <sponsor id="412516"/>
+  <cosponsors>
+    <cosponsor id="412637" joined="2015-06-25"/>
+    <cosponsor id="412307" joined="2015-06-25"/>
+    <cosponsor id="412520" joined="2015-06-25"/>
+    <cosponsor id="400403" joined="2015-06-25"/>
+    <cosponsor id="412525" joined="2015-07-31"/>
+    <cosponsor id="412640" joined="2015-06-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-25" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2015-07-13">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2015-07-14">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral, Hearings" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <summary>6/25/2015--Introduced.
+Build a Better VA Act
+
+This bill prohibits funds from being appropriated for any fiscal year for a major medical facility lease unless the House and Senate Veterans Committees adopt resolutions approving the lease.</summary>
+</bill>

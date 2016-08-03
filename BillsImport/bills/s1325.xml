@@ -1,0 +1,39 @@
+<bill session="114" type="s" number="1325" updated="2015-07-25T07:00:17-04:00">
+  <state datetime="2015-05-13">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-13"/>
+  </status>
+  <introduced datetime="2015-05-13"/>
+  <titles>
+    <title type="official" as="introduced">A bill to designate the Department of Veterans Affairs community based outpatient clinic in Newark, Ohio, as the Daniel L. Kinnard Department of Veterans Affairs Community Based Outpatient Clinic.</title>
+  </titles>
+  <sponsor id="400325"/>
+  <cosponsors>
+    <cosponsor id="400050" joined="2015-05-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-13" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="960"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Congressional tributes"/>
+    <term name="Department of Veterans Affairs"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Health facilities and institutions"/>
+    <term name="Home and outpatient care"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Ohio"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>5/13/2015--Introduced.
+Designates the Department of Veterans Affairs community based outpatient clinic in Newark, Ohio, as the "Daniel L. Kinnard Department of Veterans Affairs Community Based Outpatient Clinic."</summary>
+</bill>

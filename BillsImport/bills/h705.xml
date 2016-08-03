@@ -1,0 +1,40 @@
+<bill session="114" type="h" number="705" updated="2015-03-14T06:25:32-04:00">
+  <state datetime="2015-02-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-04"/>
+  </status>
+  <introduced datetime="2015-02-04"/>
+  <titles>
+    <title type="short" as="introduced">Rail Crossings Safety Improvement Act</title>
+    <title type="official" as="introduced">To amend the authorization in title 49, United States Code, for capital grants for rail line relocation projects.</title>
+  </titles>
+  <sponsor id="412562"/>
+  <cosponsors>
+    <cosponsor id="400246" joined="2015-02-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-04" state="REFERRED">
+      <text>Referred to the House Committee on Transportation.</text>
+    </action>
+    <action datetime="2015-02-05">
+      <text>Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW14" subcommittee="Railroads, Pipelines, and Hazardous Materials" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Railroads"/>
+    <term name="Roads and highways"/>
+    <term name="Transportation programs funding"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+  <summary>2/4/2015--Introduced.
+Rail Crossings Safety Improvement Act 
+
+This bill reauthorizes appropriations to the Secretary of Transportation for FY2016-FY2019, at levels reduced from those for FY2006-FY2009, for capital grants to states for rail line relocation and improvement projects.</summary>
+</bill>

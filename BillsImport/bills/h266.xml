@@ -1,0 +1,49 @@
+<bill session="114" type="h" number="266" updated="2015-07-04T06:20:43-04:00">
+  <state datetime="2015-01-09">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-09"/>
+  </status>
+  <introduced datetime="2015-01-09"/>
+  <titles>
+    <title type="short" as="introduced">End Taxpayer Funded Cell Phones Act of 2015</title>
+    <title type="official" as="introduced">To prohibit universal service support of commercial mobile service and commercial mobile data service through the Lifeline program.</title>
+  </titles>
+  <sponsor id="412417"/>
+  <cosponsors>
+    <cosponsor id="400068" joined="2015-04-13"/>
+    <cosponsor id="412472" joined="2015-04-14"/>
+    <cosponsor id="400643" joined="2015-02-02"/>
+    <cosponsor id="412397" joined="2015-05-01"/>
+    <cosponsor id="412226" joined="2015-06-03"/>
+    <cosponsor id="412445" joined="2015-03-17"/>
+    <cosponsor id="400656" joined="2015-04-23"/>
+    <cosponsor id="412310" joined="2015-05-15"/>
+    <cosponsor id="400433" joined="2015-02-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-09" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-01-16">
+      <text>Referred to the Subcommittee on Communications and Technology.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF16" subcommittee="Communications and Technology" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="56"/>
+    <bill relation="unknown" session="114" type="s" number="1621"/>
+  </relatedbills>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="Telecommunication rates and fees"/>
+    <term name="Telephone and wireless communication"/>
+  </subjects>
+  <amendments/>
+  <summary>1/9/2015--Introduced.
+End Taxpayer Funded Cell Phones Act of 2015
+
+Prohibits a provider of commercial mobile service or commercial mobile data service from receiving universal service support under specified provisions of the Communications Act of 1934 for the provision of such service through the Federal Communications Commission's Lifeline program that provides discounts on monthly telephone service to qualifying low-income consumers.</summary>
+</bill>

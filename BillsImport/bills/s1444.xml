@@ -1,0 +1,38 @@
+<bill session="114" type="s" number="1444" updated="2015-07-04T06:58:24-04:00">
+  <state datetime="2015-05-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-21"/>
+  </status>
+  <introduced datetime="2015-05-21"/>
+  <titles>
+    <title type="short" as="introduced">Distillery Excise Tax Reform Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to reduce the rate of tax regarding the taxation of distilled spirits.</title>
+  </titles>
+  <sponsor id="412305"/>
+  <cosponsors>
+    <cosponsor id="412223" joined="2015-05-21"/>
+    <cosponsor id="300075" joined="2015-06-16"/>
+    <cosponsor id="412665" joined="2015-05-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1172"/>
+    <bill relation="unknown" session="114" type="h" number="2520"/>
+    <bill relation="unknown" session="114" type="s" number="1562"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+  <summary>5/21/2015--Introduced.
+Distillery Excise Tax Reform Act of 2015 
+
+Amends the Internal Revenue Code to reduce to $2.70 per proof gallon the excise tax rate on the first 100,000 proof gallons of distilled spirits that are removed in the calendar year and that have been distilled, processed, or bottled by a distilled spirits operation at a qualified facility in the United States. Makes this rate reduction applicable to&#160;a specified controlled group of corporations that is a distilled spirits operation.</summary>
+</bill>

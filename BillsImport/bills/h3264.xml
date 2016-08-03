@@ -1,0 +1,41 @@
+<bill session="114" type="h" number="3264" updated="2015-08-22T04:47:22-04:00">
+  <state datetime="2015-07-28">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-28"/>
+  </status>
+  <introduced datetime="2015-07-28"/>
+  <titles>
+    <title type="short" as="introduced">Helping Americans Save Act of 2015</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to expand the Saver's credit, and for other purposes.</title>
+  </titles>
+  <sponsor id="412318"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-28" state="REFERRED">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committees on Energy and Commerce, and Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-07-28">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-07-28">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-07-28">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+    <action datetime="2015-07-31">
+      <text>Referred to the Subcommittee on Energy and Power.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+</bill>

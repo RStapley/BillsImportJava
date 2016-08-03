@@ -1,0 +1,28 @@
+<bill session="114" type="s" number="2004" updated="2015-08-22T07:08:31-04:00">
+  <state datetime="2015-08-06">REFERRED</state>
+  <status>
+    <introduced datetime="2015-08-06"/>
+  </status>
+  <introduced datetime="2015-08-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend section 320301 of title 54, United States Code, to modify the authority of the President of the United States to declare national monuments, and for other purposes.</title>
+  </titles>
+  <sponsor id="412495"/>
+  <cosponsors>
+    <cosponsor id="412251" joined="2015-08-06"/>
+    <cosponsor id="300052" joined="2015-08-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-08-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+</bill>

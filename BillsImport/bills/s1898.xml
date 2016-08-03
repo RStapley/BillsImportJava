@@ -1,0 +1,28 @@
+<bill session="114" type="s" number="1898" updated="2015-08-15T07:07:42-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">Sanctuary Regulatory Fairness Act of 2015</title>
+    <title type="official" as="introduced">A bill to establish a program to assist in the importation and care of abused, injured, or abandoned nonhuman primates.</title>
+  </titles>
+  <sponsor id="412269"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="3294"/>
+  </relatedbills>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+  </subjects>
+  <amendments/>
+</bill>

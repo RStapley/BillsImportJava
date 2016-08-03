@@ -1,0 +1,26 @@
+<bill session="114" type="h" number="3153" updated="2015-07-31T09:48:39-04:00">
+  <state datetime="2015-07-22">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-22"/>
+  </status>
+  <introduced datetime="2015-07-22"/>
+  <titles>
+    <title type="short" as="introduced">Saint Francis Dam Disaster National Memorial and Castaic Wilderness Act</title>
+    <title type="official" as="introduced">To authorize a national memorial to commemorate those killed by the collapse of the Saint Francis Dam on March 12, 1928, and for other purposes.</title>
+  </titles>
+  <sponsor id="412614"/>
+  <cosponsors>
+    <cosponsor id="412516" joined="2015-07-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-22" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

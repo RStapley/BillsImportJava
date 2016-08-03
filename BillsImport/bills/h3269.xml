@@ -1,0 +1,26 @@
+<bill session="114" type="h" number="3269" updated="2015-08-08T06:46:39-04:00">
+  <state datetime="2015-07-28">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-28"/>
+  </status>
+  <introduced datetime="2015-07-28"/>
+  <titles>
+    <title type="short" as="introduced">North Pacific Fisheries Convention Implementation Act</title>
+    <title type="official" as="introduced">To implement the Convention on the Conservation and Management of the High Seas Fisheries Resources in the North Pacific Ocean, as adopted at Tokyo on February 24, 2012, and for other purposes.</title>
+  </titles>
+  <sponsor id="400440"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-28" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,40 @@
+<bill session="114" type="h" number="2848" updated="2015-07-10T04:48:32-04:00">
+  <state datetime="2015-06-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-23"/>
+  </status>
+  <introduced datetime="2015-06-23"/>
+  <titles>
+    <title type="short" as="introduced">Visa Overstay Enforcement Act of 2015</title>
+    <title type="official" as="introduced">To amend the Immigration and Nationality Act to penalize aliens who overstay their visas, and for other purposes.</title>
+  </titles>
+  <sponsor id="412469"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-06-23" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-07-09">
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration and Border Security" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Immigration"/>
+  </subjects>
+  <amendments/>
+  <summary>6/23/2015--Introduced.
+Visa Overstay Enforcement Act of 2015
+
+This bill amends the Immigration and Nationality Act to subject any alien who remains in the United States after any visa or status under which the alien is lawfully present has expired to: (1) a fine or imprisonment for up to six months, or both, for a first offense; and (2) a fine or imprisonment for up to two years, or both, for any subsequent offense.
+
+ Such penalties shall be waived if the overstay was due to medical necessity, public safety, or national security.
+
+An alien convicted of a first offense may not be: (1) admitted to the United States for 5 years, or (2) be granted a visa for 10 years.
+
+ An alien convicted of a subsequent offense may not be: (1) admitted to the United States at all, or (2) granted a visa.</summary>
+</bill>

@@ -1,0 +1,49 @@
+<bill session="114" type="s" number="332" updated="2015-03-28T06:36:13-04:00">
+  <state datetime="2015-02-02">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-02"/>
+  </status>
+  <introduced datetime="2015-02-02"/>
+  <titles>
+    <title type="short" as="introduced">Rural Hospital Access Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act to make permanent the extension of the Medicare-dependent hospital (MDH) program and the increased payments under the Medicare low-volume hospital program.</title>
+  </titles>
+  <sponsor id="300048"/>
+  <cosponsors>
+    <cosponsor id="400013" joined="2015-03-23"/>
+    <cosponsor id="400061" joined="2015-02-10"/>
+    <cosponsor id="300038" joined="2015-02-23"/>
+    <cosponsor id="400222" joined="2015-03-04"/>
+    <cosponsor id="300065" joined="2015-03-23"/>
+    <cosponsor id="412243" joined="2015-03-23"/>
+    <cosponsor id="412194" joined="2015-02-25"/>
+    <cosponsor id="300087" joined="2015-02-02"/>
+    <cosponsor id="412323" joined="2015-03-03"/>
+    <cosponsor id="300093" joined="2015-03-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-02" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="2"/>
+    <bill relation="identical" session="114" type="h" number="663"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Hospital care"/>
+    <term name="Medicare"/>
+    <term name="Rural conditions and development"/>
+  </subjects>
+  <amendments/>
+  <summary>2/2/2015--Introduced.
+Rural Hospital Access Act of 2015
+
+This bill amends title XVIII (Medicare) of the Social Security Act to make permanent the Medicare-dependent, small rural subsection (d) hospital program and increased payments under the Medicare low-volume hospital program.
+
+ (Generally, a subsection [d] hospital is an acute care hospital, particularly one that receives payments under Medicare's inpatient prospective payment system [IPPS] when providing covered inpatient services to eligible beneficiaries.)</summary>
+</bill>

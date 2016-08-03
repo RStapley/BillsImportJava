@@ -1,0 +1,45 @@
+<bill session="114" type="h" number="1277" updated="2015-07-16T04:47:30-04:00">
+  <state datetime="2015-03-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-04"/>
+  </status>
+  <introduced datetime="2015-03-04"/>
+  <titles>
+    <title type="short" as="introduced">Ocean Acidification Research Partnerships Act</title>
+    <title type="official" as="introduced">To provide for ocean acidification collaborative research grant opportunities.</title>
+  </titles>
+  <sponsor id="400062"/>
+  <cosponsors>
+    <cosponsor id="412501" joined="2015-07-13"/>
+    <cosponsor id="412505" joined="2015-06-01"/>
+    <cosponsor id="412511" joined="2015-06-01"/>
+    <cosponsor id="412435" joined="2015-04-21"/>
+    <cosponsor id="412583" joined="2015-07-15"/>
+    <cosponsor id="412521" joined="2015-04-21"/>
+    <cosponsor id="412307" joined="2015-04-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-04" state="REFERRED">
+      <text>Referred to the House Committee on Science, Space, and Technology.</text>
+    </action>
+    <action datetime="2015-03-10">
+      <text>Referred to the Subcommittee on Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science, Space, and Technology" activity="Referral"/>
+    <committee activity="Referral" code="HSSY18" subcommittee="Environment" name="House Science, Space, and Technology"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Air quality"/>
+    <term name="Aquatic ecology"/>
+    <term name="Food industry and services"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Marine pollution"/>
+    <term name="Research administration and funding"/>
+    <term name="Seafood"/>
+  </subjects>
+  <amendments/>
+</bill>

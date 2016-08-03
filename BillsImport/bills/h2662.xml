@@ -1,0 +1,44 @@
+<bill session="114" type="h" number="2662" updated="2015-07-22T04:59:42-04:00">
+  <state datetime="2015-06-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-04"/>
+  </status>
+  <introduced datetime="2015-06-04"/>
+  <titles>
+    <title type="short" as="introduced">Fallen Heroes Family Assistance Act</title>
+    <title type="official" as="introduced">To amend title 37, United States Code, to clarify the situations in which the United States will cover the cost of transportation for next of kin to attend the transfer ceremony of a member of the Armed Forces who dies overseas.</title>
+  </titles>
+  <sponsor id="400141"/>
+  <cosponsors>
+    <cosponsor id="400041" joined="2015-06-17"/>
+    <cosponsor id="400047" joined="2015-06-17"/>
+    <cosponsor id="400081" joined="2015-06-24"/>
+    <cosponsor id="400640" joined="2015-06-25"/>
+    <cosponsor id="412612" joined="2015-06-04"/>
+    <cosponsor id="412382" joined="2015-06-17"/>
+    <cosponsor id="412453" joined="2015-06-25"/>
+    <cosponsor id="400279" joined="2015-06-25"/>
+    <cosponsor id="412483" joined="2015-06-17"/>
+    <cosponsor id="400606" joined="2015-06-04"/>
+    <cosponsor id="412509" joined="2015-06-04"/>
+    <cosponsor id="412214" joined="2015-07-21"/>
+    <cosponsor id="412255" joined="2015-06-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-04" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <summary>6/4/2015--Introduced.
+Fallen Heroes Family Assistance Act
+
+The Secretary of the military department concerned is required to provide transportation for the next of kin to attend the transfer ceremony of a member of the U.S. Armed Forces who dies overseas in the line of duty in a combat or humanitarian relief operation or in combat zone designated by the Secretary of Defense.</summary>
+</bill>

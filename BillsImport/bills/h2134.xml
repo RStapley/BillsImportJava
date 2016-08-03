@@ -1,0 +1,36 @@
+<bill session="114" type="h" number="2134" updated="2015-07-16T04:47:57-04:00">
+  <state datetime="2015-04-30">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-30"/>
+  </status>
+  <introduced datetime="2015-04-30"/>
+  <titles>
+    <title type="short" as="introduced">Listing Reform Act</title>
+    <title type="official" as="introduced">To amend the Endangered Species Act of 1973 to require review of the economic cost of adding a species to the list of endangered species or threatened species, and for other purposes.</title>
+  </titles>
+  <sponsor id="412302"/>
+  <cosponsors>
+    <cosponsor id="412655" joined="2015-07-15"/>
+    <cosponsor id="412654" joined="2015-06-02"/>
+    <cosponsor id="400652" joined="2015-06-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-30" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Administrative remedies"/>
+    <term name="Department of Commerce"/>
+    <term name="Department of the Interior"/>
+    <term name="Economic performance and conditions"/>
+    <term name="Endangered and threatened species"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+</bill>

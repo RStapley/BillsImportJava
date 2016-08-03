@@ -1,0 +1,46 @@
+<bill session="114" type="h" number="652" updated="2015-03-14T06:24:55-04:00">
+  <state datetime="2015-02-02">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-02"/>
+  </status>
+  <introduced datetime="2015-02-02"/>
+  <titles>
+    <title type="short" as="introduced">State Transportation and Infrastructure Financing Innovation Act (STIFIA)</title>
+    <title type="official" as="introduced">To amend title 23, United States Code, to reauthorize the State infrastructure bank program.</title>
+  </titles>
+  <sponsor id="412454"/>
+  <cosponsors>
+    <cosponsor id="412544" joined="2015-02-03"/>
+    <cosponsor id="412498" joined="2015-02-02"/>
+    <cosponsor id="400440" joined="2015-02-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-02" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2015-02-03">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW12" subcommittee="Highways and Transit" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="206"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Public transit"/>
+    <term name="Railroads"/>
+    <term name="Roads and highways"/>
+    <term name="State and local finance"/>
+    <term name="Transportation programs funding"/>
+    <term name="Urban and suburban affairs and development"/>
+  </subjects>
+  <amendments/>
+  <summary>2/2/2015--Introduced.
+State Transportation and Infrastructure Financing Innovation Act (STIFIA) 
+
+ Revises and reauthorizes the state infrastructure bank program for FY2016-FY2020.</summary>
+</bill>

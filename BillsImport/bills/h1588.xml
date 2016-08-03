@@ -1,0 +1,55 @@
+<bill session="114" type="h" number="1588" updated="2015-04-23T04:47:23-04:00">
+  <state datetime="2015-03-24">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-24"/>
+  </status>
+  <introduced datetime="2015-03-24"/>
+  <titles>
+    <title type="short" as="introduced">Transnational Criminal Organization Illicit Spotter Prevention and Elimination Act</title>
+    <title type="official" as="introduced">To prohibit the intentional hindering of immigration, border, and customs controls, and for other purposes.</title>
+  </titles>
+  <sponsor id="412611"/>
+  <cosponsors>
+    <cosponsor id="400141" joined="2015-03-24"/>
+    <cosponsor id="412397" joined="2015-03-24"/>
+    <cosponsor id="400313" joined="2015-03-24"/>
+    <cosponsor id="400606" joined="2015-03-24"/>
+    <cosponsor id="412399" joined="2015-03-24"/>
+    <cosponsor id="412509" joined="2015-03-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-24" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-04-21">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+    <action datetime="2015-04-21">
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration and Border Security" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="847"/>
+  </relatedbills>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Border security and unlawful immigration"/>
+    <term name="Firearms and explosives"/>
+    <term name="Law enforcement administration and funding"/>
+    <term name="Smuggling and trafficking"/>
+  </subjects>
+  <amendments/>
+  <summary>3/24/2015--Introduced.
+Transnational Criminal Organization Illicit Spotter Prevention and Elimination Act
+
+Amends the Immigration and Nationality Act to make it a crime to: (1) transmit to another person the location, movement, or activities of law enforcement agents while intending to further a federal crime relating to U.S. immigration; and (2) destroy, alter, or damage any physical or electronic device used by the federal government to control the border or any port of entry.
+
+ Subjects a violator to fine, up to 10 years' imprisonment, or both.
+
+Prohibits the carrying or use of a firearm in an alien smuggling crime.</summary>
+</bill>

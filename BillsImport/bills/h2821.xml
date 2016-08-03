@@ -1,0 +1,40 @@
+<bill session="114" type="h" number="2821" updated="2015-08-15T06:42:57-04:00">
+  <state datetime="2015-06-18">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-18"/>
+  </status>
+  <introduced datetime="2015-06-18"/>
+  <titles>
+    <title type="short" as="introduced">Partnership Audit Simplification Act of 2015</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to reform partnership audit rules.</title>
+  </titles>
+  <sponsor id="412462"/>
+  <cosponsors>
+    <cosponsor id="400218" joined="2015-06-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-18" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+  <summary>6/18/2015--Introduced.
+Partnership Audit Simplification Act of 2015
+
+ Amends the Internal Revenue Code to revise rules for audits of large for-profit partnerships (partnerships with more than 100 partners). Repeals existing audit rules under Chapter 1 and Chapter 63 of the Internal Revenue Code. Allows partnerships with 100 or fewer partners to elect not to be covered by this provisions of this Act.
+
+Provides that items of partnership income, gain, loss, deductions, or credits shall be determined at the partnership level, instead of for each individual partner. Makes adjustments to partnership taxes applicable in the tax year in which such adjustments are finalized.
+
+Sets forth new procedures for notifying a partnership of an audit or an adjustment of partnership taxes. Requires partnerships to participate in an audit through a designated partnership representative.
+
+Allows partnerships to include audit adjustments on tax returns for the year in which such adjustments are finalized.&#160;Provides for the collection of&#160;additional taxes&#160;resulting from an audit and tax penalties from the partnership, instead of from individual partners.&#160;
+
+Permits partnerships to request judicial review of&#160;audit adjustments by filing a petition with the Tax Court, a district court, or the Court of Claims. Grants such courts jurisdiction to determine all items&#160;of income, gain, loss, deduction, or credit of the partnership. Establishes a three-year limitation period for making adjustments to partnership tax returns, except for a false or fraudulent partnership return with intent to evade tax or no return filed (no limitation).</summary>
+</bill>

@@ -1,0 +1,64 @@
+<bill session="114" type="h" number="1721" updated="2015-07-30T04:48:54-04:00">
+  <state datetime="2015-03-26">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-26"/>
+  </status>
+  <introduced datetime="2015-03-26"/>
+  <titles>
+    <title type="official" as="introduced">To reauthorize appropriations for the National Women's Rights History Project Act.</title>
+  </titles>
+  <sponsor id="400378"/>
+  <cosponsors>
+    <cosponsor id="412501" joined="2015-07-29"/>
+    <cosponsor id="412600" joined="2015-05-20"/>
+    <cosponsor id="412221" joined="2015-05-01"/>
+    <cosponsor id="412563" joined="2015-05-01"/>
+    <cosponsor id="400080" joined="2015-05-01"/>
+    <cosponsor id="400103" joined="2015-05-01"/>
+    <cosponsor id="400162" joined="2015-05-01"/>
+    <cosponsor id="412498" joined="2015-05-01"/>
+    <cosponsor id="412454" joined="2015-03-26"/>
+    <cosponsor id="400641" joined="2015-05-01"/>
+    <cosponsor id="412649" joined="2015-03-26"/>
+    <cosponsor id="400237" joined="2015-05-01"/>
+    <cosponsor id="400663" joined="2015-05-01"/>
+    <cosponsor id="412189" joined="2015-05-20"/>
+    <cosponsor id="400271" joined="2015-05-01"/>
+    <cosponsor id="400289" joined="2015-05-01"/>
+    <cosponsor id="400295" joined="2015-05-01"/>
+    <cosponsor id="400333" joined="2015-05-01"/>
+    <cosponsor id="412393" joined="2015-03-26"/>
+    <cosponsor id="412259" joined="2015-05-01"/>
+    <cosponsor id="412520" joined="2015-07-27"/>
+    <cosponsor id="412319" joined="2015-03-26"/>
+    <cosponsor id="400415" joined="2015-05-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-26">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E444"/>
+    </action>
+    <action datetime="2015-03-26" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2015-04-20">
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="Federal Lands" name="House Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Department of the Interior"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Historic sites and heritage areas"/>
+    <term name="Parks, recreation areas, trails"/>
+    <term name="Women's rights"/>
+  </subjects>
+  <amendments/>
+  <summary>3/26/2015--Introduced.
+This bill amends the Omnibus Public Land Management Act of 2009 to reauthorize the National Women's Rights History Project through FY2019. The Project preserves and promotes historic sites significant to the women's rights movement and will establish a Votes for Women Trail linking women's suffrage movement sites throughout New York.</summary>
+</bill>

@@ -1,0 +1,43 @@
+<bill session="114" type="h" number="2138" updated="2015-07-09T04:47:26-04:00">
+  <state datetime="2015-04-30">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-30"/>
+  </status>
+  <introduced datetime="2015-04-30"/>
+  <titles>
+    <title type="short" as="introduced">Medicare Access to Rural Anesthesiology Act of 2015</title>
+    <title type="official" as="introduced">To amend title XVIII of the Social Security Act to provide payment under part A of the Medicare Program on a reasonable cost basis for anesthesia services furnished by an anesthesiologist in certain rural hospitals in the same manner as payments are provided for anesthesia services furnished by anesthesiologist assistants and certified registered nurse anesthetists in such hospitals, and for other purposes.</title>
+  </titles>
+  <sponsor id="412284"/>
+  <cosponsors>
+    <cosponsor id="412516" joined="2015-05-14"/>
+    <cosponsor id="400639" joined="2015-04-30"/>
+    <cosponsor id="412536" joined="2015-06-04"/>
+    <cosponsor id="400158" joined="2015-05-14"/>
+    <cosponsor id="412445" joined="2015-05-14"/>
+    <cosponsor id="412292" joined="2015-05-14"/>
+    <cosponsor id="412596" joined="2015-05-14"/>
+    <cosponsor id="412548" joined="2015-07-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-30" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Health personnel"/>
+    <term name="Medicare"/>
+    <term name="Rural conditions and development"/>
+    <term name="Surgery and anesthesia"/>
+  </subjects>
+  <amendments/>
+  <summary>4/30/2015--Introduced.
+Medicare Access to Rural Anesthesiology Act of 2015
+
+ Amends title XVIII (Medicare) of the Social Security Act to provide payment under Medicare part A (Hospital Insurance) on a reasonable cost basis for anesthesia services furnished by a physician who is an anesthesiologist in certain rural hospitals in the same manner as payment is made for anesthesia services furnished by a certified registered nurse anesthetist in such hospitals.</summary>
+</bill>

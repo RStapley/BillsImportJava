@@ -1,0 +1,42 @@
+<bill session="114" type="s" number="164" updated="2015-07-08T04:49:40-04:00">
+  <state datetime="2015-01-13">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-13"/>
+  </status>
+  <introduced datetime="2015-01-13"/>
+  <titles>
+    <title type="short" as="introduced">FAIR Act</title>
+    <title type="short" as="introduced">Federal Adjustment of Income Rates Act of 2015</title>
+    <title type="official" as="introduced">A bill to increase the rates of pay under the General Schedule and other statutory pay systems and for prevailing rate employees by 3.8 percent, and for other purposes.</title>
+  </titles>
+  <sponsor id="412507"/>
+  <cosponsors>
+    <cosponsor id="400050" joined="2015-03-12"/>
+    <cosponsor id="400064" joined="2015-01-13"/>
+    <cosponsor id="412200" joined="2015-03-09"/>
+    <cosponsor id="400253" joined="2015-02-09"/>
+    <cosponsor id="412325" joined="2015-07-07"/>
+    <cosponsor id="300073" joined="2015-02-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-13" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="304"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Inflation and prices"/>
+  </subjects>
+  <amendments/>
+  <summary>1/13/2015--Introduced.
+Federal Adjustment of Income Rates Act of 2015 or the FAIR Act
+
+ Increases by 3.8% in FY2016 the rate of basic pay for federal employees under the statutory pay systems (relating to the General Schedule, the U.S. Foreign Service, and the Veterans Health Administration) and for prevailing rate employees.</summary>
+</bill>

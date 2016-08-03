@@ -1,0 +1,29 @@
+<bill session="114" type="s" number="1841" updated="2015-08-01T07:07:38-04:00">
+  <state datetime="2015-07-22">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-22"/>
+  </status>
+  <introduced datetime="2015-07-22"/>
+  <titles>
+    <title type="short" as="introduced">Taxpayer Protection and Responsible Resolution Act</title>
+    <title type="official" as="introduced">A bill to amend title 11, United States Code, to provide for the liquidation, reorganization, or recapitalization of a covered financial corporation, and for other purposes.</title>
+  </titles>
+  <sponsor id="300027"/>
+  <cosponsors>
+    <cosponsor id="400408" joined="2015-07-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-22" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S5464-5468" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+  </subjects>
+  <amendments/>
+</bill>

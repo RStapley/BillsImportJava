@@ -1,0 +1,44 @@
+<bill session="114" type="h" number="1380" updated="2015-07-10T04:47:41-04:00">
+  <state datetime="2015-03-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-16"/>
+  </status>
+  <introduced datetime="2015-03-16"/>
+  <titles>
+    <title type="official" as="introduced">To amend title 38, United States Code, to expand the eligibility for a medallion furnished by the Secretary of Veterans Affairs to signify the veteran status of a deceased individual.</title>
+  </titles>
+  <sponsor id="400279"/>
+  <cosponsors>
+    <cosponsor id="412292" joined="2015-04-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-16" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2015-03-27">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+    </action>
+    <action datetime="2015-06-24">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="2015-07-09">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2015-07-09">
+      <text>Forwarded by Subcommittee to Full Committee in the Nature of a Substitute (Amended) by Voice Vote .</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSVR09" subcommittee="Disability Assistance and Memorial Affairs" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Cemeteries and funerals"/>
+    <term name="Veterans' organizations and recognition"/>
+  </subjects>
+  <amendments/>
+  <summary>3/16/2015--Introduced.
+Authorizes the Secretary of Veterans Affairs to furnish a medallion or other device to signify the veteran status of a deceased individual, to be attached to a headstone or marker furnished at private expense, regardless of the date of death of such individual.</summary>
+</bill>

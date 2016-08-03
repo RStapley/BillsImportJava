@@ -1,0 +1,60 @@
+<bill session="114" type="h" number="1968" updated="2015-06-24T04:48:45-04:00">
+  <state datetime="2015-04-22">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-22"/>
+  </status>
+  <introduced datetime="2015-04-22"/>
+  <titles>
+    <title type="short" as="introduced">Restrain the Judges on Marriage Act of 2015</title>
+    <title type="official" as="introduced">To amend title 28, United States Code, to limit Federal court jurisdiction and funding over questions concerning the issue of marriage with respect to the Defense of Marriage Act and the Constitution, and for other purposes.</title>
+  </titles>
+  <sponsor id="400220"/>
+  <cosponsors>
+    <cosponsor id="412655" joined="2015-04-22"/>
+    <cosponsor id="412472" joined="2015-04-22"/>
+    <cosponsor id="400651" joined="2015-04-22"/>
+    <cosponsor id="400209" joined="2015-06-23"/>
+    <cosponsor id="412510" joined="2015-04-22"/>
+    <cosponsor id="412503" joined="2015-04-22"/>
+    <cosponsor id="412443" joined="2015-04-23"/>
+    <cosponsor id="412317" joined="2015-04-22"/>
+    <cosponsor id="412213" joined="2015-04-23"/>
+    <cosponsor id="412525" joined="2015-04-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-22" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-05-15">
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU10" subcommittee="Constitution and Civil Justice" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1080"/>
+  </relatedbills>
+  <subjects>
+    <term name="Law"/>
+    <term name="Civil actions and liability"/>
+    <term name="Constitution and constitutional amendments"/>
+    <term name="Federal appellate courts"/>
+    <term name="Federal district courts"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Judicial review and appeals"/>
+    <term name="Jurisdiction and venue"/>
+    <term name="Marriage and family status"/>
+    <term name="Sex, gender, sexual orientation discrimination"/>
+    <term name="State and local government operations"/>
+    <term name="Supreme Court"/>
+  </subjects>
+  <amendments/>
+  <summary>4/22/2015--Introduced.
+Restrain the Judges on Marriage Act of 2015
+
+Amends the federal judicial code to deny federal courts jurisdiction to hear or decide any question pertaining to the interpretation, or the validity under the Constitution, of: (1) any type of marriage, (2) the provision of the Defense of Marriage Act declaring that no state shall be required to give effect to any marriage between persons of the same sex under the laws of any other state, or (3) this Act.
+
+Prohibits federal funds from being used for: (1) litigation in federal courts on such questions, or (2) enforcement of federal court orders or judgments on such questions.</summary>
+</bill>

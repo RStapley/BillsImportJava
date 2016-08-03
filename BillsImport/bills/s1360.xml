@@ -1,0 +1,36 @@
+<bill session="114" type="s" number="1360" updated="2015-08-05T04:47:53-04:00">
+  <state datetime="2015-05-18">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-18"/>
+  </status>
+  <introduced datetime="2015-05-18"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the limitation on liability for passenger rail accidents or incidents under section 28103 of title 49, United States Code, and for other purposes.</title>
+  </titles>
+  <sponsor id="300078"/>
+  <cosponsors>
+    <cosponsor id="412490" joined="2015-05-19"/>
+    <cosponsor id="300011" joined="2015-05-18"/>
+    <cosponsor id="412246" joined="2015-08-04"/>
+    <cosponsor id="300043" joined="2015-05-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-18" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Accidents"/>
+    <term name="Civil actions and liability"/>
+    <term name="Life, casualty, property insurance"/>
+    <term name="Railroads"/>
+    <term name="Transportation programs funding"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+</bill>

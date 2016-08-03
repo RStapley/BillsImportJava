@@ -1,0 +1,28 @@
+<bill session="114" type="s" number="1738" updated="2015-07-18T07:02:42-04:00">
+  <state datetime="2015-07-09">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-09"/>
+  </status>
+  <introduced datetime="2015-07-09"/>
+  <titles>
+    <title type="short" as="introduced">Safer Communities Act of 2015</title>
+    <title type="official" as="introduced">A bill to protect individuals by strengthening the Nation's mental health infrastructure, improving the understanding of violence, strengthening firearm prohibitions and protections for at-risk individuals, and improving and expanding the reporting of mental health records to the National Instant Criminal Background Check System.</title>
+  </titles>
+  <sponsor id="412490"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-09" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="2994"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+  </subjects>
+  <amendments/>
+</bill>

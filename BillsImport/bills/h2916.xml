@@ -1,0 +1,74 @@
+<bill session="114" type="h" number="2916" updated="2015-07-22T05:00:02-04:00">
+  <state datetime="2015-06-25">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-25"/>
+  </status>
+  <introduced datetime="2015-06-25"/>
+  <titles>
+    <title type="short" as="introduced">Fire Sale Loophole Closing Act</title>
+    <title type="official" as="introduced">To amend chapter 44 of title 18, United States Code, to restrict the ability of a person whose Federal license to import, manufacture, or deal in firearms has been revoked, whose application to renew such a license has been denied, or who has received a license revocation or renewal denial notice, to transfer business inventory firearms, and for other purposes.</title>
+  </titles>
+  <sponsor id="412470"/>
+  <cosponsors>
+    <cosponsor id="400033" joined="2015-06-25"/>
+    <cosponsor id="412501" joined="2015-07-07"/>
+    <cosponsor id="412516" joined="2015-07-07"/>
+    <cosponsor id="400062" joined="2015-06-25"/>
+    <cosponsor id="412571" joined="2015-06-25"/>
+    <cosponsor id="412195" joined="2015-06-25"/>
+    <cosponsor id="412379" joined="2015-07-07"/>
+    <cosponsor id="412600" joined="2015-06-25"/>
+    <cosponsor id="400101" joined="2015-06-25"/>
+    <cosponsor id="400103" joined="2015-06-25"/>
+    <cosponsor id="400114" joined="2015-06-25"/>
+    <cosponsor id="412215" joined="2015-06-25"/>
+    <cosponsor id="400122" joined="2015-07-07"/>
+    <cosponsor id="412524" joined="2015-06-25"/>
+    <cosponsor id="400129" joined="2015-06-25"/>
+    <cosponsor id="412327" joined="2015-06-25"/>
+    <cosponsor id="400162" joined="2015-06-25"/>
+    <cosponsor id="412498" joined="2015-07-07"/>
+    <cosponsor id="412282" joined="2015-06-25"/>
+    <cosponsor id="400195" joined="2015-06-25"/>
+    <cosponsor id="412435" joined="2015-06-25"/>
+    <cosponsor id="400230" joined="2015-06-25"/>
+    <cosponsor id="400630" joined="2015-06-25"/>
+    <cosponsor id="400245" joined="2015-06-25"/>
+    <cosponsor id="400663" joined="2015-07-10"/>
+    <cosponsor id="400259" joined="2015-06-25"/>
+    <cosponsor id="400263" joined="2015-07-07"/>
+    <cosponsor id="400271" joined="2015-06-25"/>
+    <cosponsor id="412560" joined="2015-06-25"/>
+    <cosponsor id="400661" joined="2015-06-25"/>
+    <cosponsor id="400289" joined="2015-06-25"/>
+    <cosponsor id="400290" joined="2015-06-25"/>
+    <cosponsor id="400309" joined="2015-06-25"/>
+    <cosponsor id="412307" joined="2015-06-25"/>
+    <cosponsor id="412585" joined="2015-06-25"/>
+    <cosponsor id="400333" joined="2015-07-21"/>
+    <cosponsor id="412212" joined="2015-07-21"/>
+    <cosponsor id="400360" joined="2015-06-25"/>
+    <cosponsor id="400378" joined="2015-06-25"/>
+    <cosponsor id="412514" joined="2015-06-25"/>
+    <cosponsor id="412254" joined="2015-06-25"/>
+    <cosponsor id="400415" joined="2015-06-25"/>
+    <cosponsor id="412412" joined="2015-06-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-25" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-07-09">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+  </subjects>
+  <amendments/>
+</bill>

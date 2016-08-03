@@ -1,0 +1,37 @@
+<bill session="114" type="h" number="2590" updated="2015-07-08T18:47:30-04:00">
+  <state datetime="2015-06-01">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-01"/>
+  </status>
+  <introduced datetime="2015-06-01"/>
+  <titles>
+    <title type="short" as="introduced">Young Farmer Success Act of 2015</title>
+    <title type="official" as="introduced">To amend the Higher Education Act of 1965 to include certain individuals who work on farms or ranches as individuals who are employed in public service jobs for purposes of eligibility for loan forgiveness under the Federal Direct Loan program.</title>
+  </titles>
+  <sponsor id="412453"/>
+  <cosponsors>
+    <cosponsor id="412193" joined="2015-06-01"/>
+    <cosponsor id="412639" joined="2015-06-09"/>
+    <cosponsor id="400245" joined="2015-06-11"/>
+    <cosponsor id="412562" joined="2015-07-08"/>
+    <cosponsor id="412307" joined="2015-06-02"/>
+    <cosponsor id="412319" joined="2015-07-08"/>
+    <cosponsor id="412646" joined="2015-07-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-01" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Higher education"/>
+    <term name="Migrant, seasonal, agricultural labor"/>
+    <term name="Student aid and college costs"/>
+  </subjects>
+  <amendments/>
+</bill>

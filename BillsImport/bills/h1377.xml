@@ -1,0 +1,39 @@
+<bill session="114" type="h" number="1377" updated="2015-07-22T04:58:51-04:00">
+  <state datetime="2015-03-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-16"/>
+  </status>
+  <introduced datetime="2015-03-16"/>
+  <titles>
+    <title type="short" as="introduced">RAYS Act</title>
+    <title type="short" as="introduced">Roth Accounts for Youth Savings Act of 2015</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to provide for tax preferred savings accounts for dependent youth, and for other purposes.</title>
+  </titles>
+  <sponsor id="400179"/>
+  <cosponsors>
+    <cosponsor id="412571" joined="2015-07-21"/>
+    <cosponsor id="412633" joined="2015-07-21"/>
+    <cosponsor id="412461" joined="2015-03-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-16" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Income tax exclusion"/>
+    <term name="Poverty and welfare assistance"/>
+    <term name="Tax treatment of families"/>
+  </subjects>
+  <amendments/>
+  <summary>3/16/2015--Introduced.
+Roth Accounts for Youth Savings Act of 2015 or the RAYS Act 
+
+This bill amends the Internal Revenue Code to allow dependents of a taxpayer to establish a tax-preferred savings account similar to the existing Roth Individual Retirement Account, to be known as a Roth Account for Youth. Any amounts in such an account will be disregarded for purposes of determining elibility for benefits or assistance under a means-tested federal benefit program.</summary>
+</bill>

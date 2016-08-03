@@ -1,0 +1,125 @@
+<bill session="114" type="hc" number="49" updated="2015-07-29T04:49:48-04:00">
+  <state datetime="2015-05-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-21"/>
+  </status>
+  <introduced datetime="2015-05-21"/>
+  <titles>
+    <title type="official" as="introduced">Recognizing the daisy as the flower for military caregivers.</title>
+  </titles>
+  <sponsor id="412531"/>
+  <cosponsors>
+    <cosponsor id="412625" joined="2015-05-21"/>
+    <cosponsor id="412541" joined="2015-05-22"/>
+    <cosponsor id="400030" joined="2015-06-08"/>
+    <cosponsor id="412478" joined="2015-05-21"/>
+    <cosponsor id="400636" joined="2015-05-21"/>
+    <cosponsor id="412567" joined="2015-05-21"/>
+    <cosponsor id="412539" joined="2015-05-21"/>
+    <cosponsor id="412619" joined="2015-05-21"/>
+    <cosponsor id="400052" joined="2015-05-21"/>
+    <cosponsor id="412601" joined="2015-05-21"/>
+    <cosponsor id="412622" joined="2015-06-02"/>
+    <cosponsor id="412604" joined="2015-05-21"/>
+    <cosponsor id="400077" joined="2015-05-21"/>
+    <cosponsor id="412658" joined="2015-05-21"/>
+    <cosponsor id="412477" joined="2015-05-21"/>
+    <cosponsor id="412420" joined="2015-05-21"/>
+    <cosponsor id="412472" joined="2015-05-21"/>
+    <cosponsor id="412524" joined="2015-07-07"/>
+    <cosponsor id="412476" joined="2015-05-21"/>
+    <cosponsor id="412275" joined="2015-05-21"/>
+    <cosponsor id="400640" joined="2015-05-21"/>
+    <cosponsor id="400141" joined="2015-05-21"/>
+    <cosponsor id="412612" joined="2015-06-11"/>
+    <cosponsor id="412397" joined="2015-05-21"/>
+    <cosponsor id="412631" joined="2015-05-21"/>
+    <cosponsor id="412388" joined="2015-05-29"/>
+    <cosponsor id="412661" joined="2015-05-21"/>
+    <cosponsor id="412444" joined="2015-05-22"/>
+    <cosponsor id="412486" joined="2015-05-21"/>
+    <cosponsor id="412623" joined="2015-05-21"/>
+    <cosponsor id="412422" joined="2015-05-21"/>
+    <cosponsor id="400196" joined="2015-05-26"/>
+    <cosponsor id="412460" joined="2015-05-21"/>
+    <cosponsor id="412199" joined="2015-06-08"/>
+    <cosponsor id="412603" joined="2015-05-21"/>
+    <cosponsor id="412421" joined="2015-05-21"/>
+    <cosponsor id="412614" joined="2015-05-21"/>
+    <cosponsor id="412290" joined="2015-05-21"/>
+    <cosponsor id="400233" joined="2015-06-19"/>
+    <cosponsor id="400240" joined="2015-05-29"/>
+    <cosponsor id="412624" joined="2015-06-02"/>
+    <cosponsor id="412294" joined="2015-05-21"/>
+    <cosponsor id="412468" joined="2015-05-21"/>
+    <cosponsor id="400659" joined="2015-05-21"/>
+    <cosponsor id="412552" joined="2015-05-21"/>
+    <cosponsor id="400273" joined="2015-05-21"/>
+    <cosponsor id="400276" joined="2015-05-21"/>
+    <cosponsor id="400279" joined="2015-07-07"/>
+    <cosponsor id="412568" joined="2015-05-21"/>
+    <cosponsor id="400441" joined="2015-05-21"/>
+    <cosponsor id="412443" joined="2015-05-21"/>
+    <cosponsor id="400313" joined="2015-05-21"/>
+    <cosponsor id="412569" joined="2015-06-12"/>
+    <cosponsor id="412523" joined="2015-06-17"/>
+    <cosponsor id="400320" joined="2015-05-21"/>
+    <cosponsor id="412633" joined="2015-05-21"/>
+    <cosponsor id="400626" joined="2015-06-02"/>
+    <cosponsor id="412483" joined="2015-05-21"/>
+    <cosponsor id="412394" joined="2015-05-21"/>
+    <cosponsor id="400340" joined="2015-05-21"/>
+    <cosponsor id="412570" joined="2015-05-21"/>
+    <cosponsor id="412417" joined="2015-05-21"/>
+    <cosponsor id="400363" joined="2015-05-29"/>
+    <cosponsor id="400365" joined="2015-05-21"/>
+    <cosponsor id="400366" joined="2015-06-08"/>
+    <cosponsor id="400367" joined="2015-05-21"/>
+    <cosponsor id="400376" joined="2015-05-21"/>
+    <cosponsor id="400380" joined="2015-05-21"/>
+    <cosponsor id="412596" joined="2015-05-21"/>
+    <cosponsor id="412648" joined="2015-05-21"/>
+    <cosponsor id="412581" joined="2015-05-21"/>
+    <cosponsor id="412392" joined="2015-05-21"/>
+    <cosponsor id="400419" joined="2015-05-21"/>
+    <cosponsor id="412670" joined="2015-05-21"/>
+    <cosponsor id="412538" joined="2015-05-21"/>
+    <cosponsor id="412564" joined="2015-05-21"/>
+    <cosponsor id="400627" joined="2015-05-21"/>
+    <cosponsor id="412416" joined="2015-07-28"/>
+    <cosponsor id="412525" joined="2015-05-21"/>
+    <cosponsor id="412640" joined="2015-05-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-21" state="REFERRED">
+      <text>Referred to the Committee on Armed Services, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-05-21">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2015-05-21">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="sc" number="18"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Congressional tributes"/>
+    <term name="Horticulture and plants"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>5/21/2015--Introduced.
+Honors military caregivers of members of the Armed Forces and veterans for their service and sacrifice to the United States.
+
+Encourages the people of the United States to show support to military families and the sacrifices endured by those families in service to the United States.
+
+ Recognizes the daisy as the flower for military caregivers.</summary>
+</bill>

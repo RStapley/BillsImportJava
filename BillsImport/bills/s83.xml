@@ -1,0 +1,42 @@
+<bill session="114" type="s" number="83" updated="2015-04-11T06:34:21-04:00">
+  <state datetime="2015-01-07">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-07"/>
+  </status>
+  <introduced datetime="2015-01-07"/>
+  <titles>
+    <title type="short" as="introduced">End Pay Discrimination Through Information Act</title>
+    <title type="official" as="introduced">A bill to amend the Fair Labor Standards Act of 1938 to improve nonretaliation provisions relating to equal pay requirements.</title>
+  </titles>
+  <sponsor id="412218"/>
+  <cosponsors>
+    <cosponsor id="400061" joined="2015-02-11"/>
+    <cosponsor id="300025" joined="2015-01-07"/>
+    <cosponsor id="412545" joined="2015-01-07"/>
+    <cosponsor id="300075" joined="2015-01-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-07" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1619"/>
+    <bill relation="unknown" session="114" type="s" number="862"/>
+  </relatedbills>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Employment discrimination and employee rights"/>
+    <term name="Labor standards"/>
+    <term name="Sex, gender, sexual orientation discrimination"/>
+    <term name="Wages and earnings"/>
+  </subjects>
+  <amendments/>
+  <summary>1/7/2015--Introduced.
+End Pay Discrimination Through Information Act
+
+ Amends the Fair Labor Standards Act of 1938 to revise the prohibition against employer retaliation for employee complaints. Prohibits retaliation for inquiring about, discussing, or disclosing the wages of the employee or another employee in response to a sex discrimination complaint or charge, or in furtherance of a sex discrimination investigation, proceeding, hearing, or action, including an investigation conducted by the employer.</summary>
+</bill>

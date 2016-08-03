@@ -1,0 +1,42 @@
+<bill session="114" type="h" number="2397" updated="2015-08-01T06:39:34-04:00">
+  <state datetime="2015-05-18">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-18"/>
+  </status>
+  <introduced datetime="2015-05-18"/>
+  <titles>
+    <title type="short" as="introduced">Tornado Family Safety Act of 2015</title>
+    <title type="official" as="introduced">To amend the Small Business Act to allow the use of physical damage disaster loans for the construction of safe rooms, and for other purposes.</title>
+  </titles>
+  <sponsor id="400077"/>
+  <cosponsors>
+    <cosponsor id="412250" joined="2015-06-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-18" state="REFERRED">
+      <text>Referred to the House Committee on Small Business.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSM" name="House Small Business" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="208"/>
+    <bill relation="unknown" session="114" type="s" number="1811"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Atmospheric science and weather"/>
+    <term name="Building construction"/>
+    <term name="Disaster relief and insurance"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Natural disasters"/>
+    <term name="Residential rehabilitation and home repair"/>
+    <term name="Small business"/>
+  </subjects>
+  <amendments/>
+  <summary>5/18/2015--Introduced.
+Tornado Family Safety Act of 2015
+
+This bill amends the Small Business Act to allow Small Business Administration physical disaster loans to be used for the construction of safe rooms or similar storm shelters designed to protect property and occupants from tornadoes or other natural disasters.</summary>
+</bill>

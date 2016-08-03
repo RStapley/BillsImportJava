@@ -1,0 +1,105 @@
+<bill session="114" type="h" number="1336" updated="2015-07-28T05:08:42-04:00">
+  <state datetime="2015-03-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-04"/>
+  </status>
+  <introduced datetime="2015-03-04"/>
+  <titles>
+    <title type="short" as="introduced">Social Impact Partnership Act</title>
+    <title type="official" as="introduced">To encourage and support partnerships between the public and private sectors to improve our nation's social programs, and for other purposes.</title>
+  </titles>
+  <sponsor id="412428"/>
+  <cosponsors>
+    <cosponsor id="412642" joined="2015-04-13"/>
+    <cosponsor id="412541" joined="2015-07-27"/>
+    <cosponsor id="400033" joined="2015-03-23"/>
+    <cosponsor id="412539" joined="2015-07-27"/>
+    <cosponsor id="412407" joined="2015-07-27"/>
+    <cosponsor id="412258" joined="2015-07-27"/>
+    <cosponsor id="412470" joined="2015-06-01"/>
+    <cosponsor id="412544" joined="2015-03-04"/>
+    <cosponsor id="412420" joined="2015-03-04"/>
+    <cosponsor id="412543" joined="2015-03-04"/>
+    <cosponsor id="400233" joined="2015-03-04"/>
+    <cosponsor id="400263" joined="2015-04-13"/>
+    <cosponsor id="412466" joined="2015-05-15"/>
+    <cosponsor id="412192" joined="2015-04-15"/>
+    <cosponsor id="412308" joined="2015-03-04"/>
+    <cosponsor id="412393" joined="2015-03-04"/>
+    <cosponsor id="400660" joined="2015-03-04"/>
+    <cosponsor id="412411" joined="2015-03-23"/>
+    <cosponsor id="412314" joined="2015-03-04"/>
+    <cosponsor id="400406" joined="2015-07-07"/>
+    <cosponsor id="400415" joined="2015-04-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-04" state="REFERRED">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-03-04">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-03-04">
+      <text>Referred to House Financial Services</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1089"/>
+  </relatedbills>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Academic performance and assessments"/>
+    <term name="Adoption and foster care"/>
+    <term name="Advisory bodies"/>
+    <term name="Banking and financial institutions regulation"/>
+    <term name="Cardiovascular and respiratory health"/>
+    <term name="Child care and development"/>
+    <term name="Child safety and welfare"/>
+    <term name="Crime prevention"/>
+    <term name="Digestive and metabolic diseases"/>
+    <term name="Disability and paralysis"/>
+    <term name="Domestic violence and child abuse"/>
+    <term name="Education of the disadvantaged"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Employment and training programs"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="Homelessness and emergency shelter"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Mental health"/>
+    <term name="Performance measurement"/>
+    <term name="Poverty and welfare assistance"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Public-private cooperation"/>
+    <term name="Sex and reproductive health"/>
+    <term name="State and local government operations"/>
+    <term name="Teenage pregnancy"/>
+    <term name="Unemployment"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+    <term name="Wages and earnings"/>
+    <term name="Youth employment and child labor"/>
+  </subjects>
+  <amendments/>
+  <summary>3/4/2015--Introduced.
+Social Impact Partnership Act 
+
+ Amends title XX (Block Grants to States for Social Services and Elder Justice) of the Social Security Act to add a new part C (Social Impact Partnerships).
+
+Requires the Director of the Office of Management and Budget to publish in the Federal Register a request for proposals from states or local government for social impact partnership projects which produce measurable, clearly defined outcomes that result in social benefit, such as employment for the unemployed, high school graduation, and reduction of teen and unplanned pregnancies as well as incidences and adverse consequences of child abuse and neglect. Requires applications to include a feasibility study, funded under this Act, which contains specified information.
+
+Requires the Director to decide whether to enter into such a contract within six months after receiving an application.
+
+Requires independent evaluation to determine whether the state or local government project has met an outcome specified in the contract in order for such governments to receive outcome payments.
+
+Makes appropriations for 10 years to carry out this Act.
+
+Establishes the Federal Interagency Council on Social Impact Partnerships.
+
+Amends the Community Reinvestment Act of 1977 to require the appropriate federal financial supervisory agency to consider, in assessing and taking into account the record of a financial institution in meeting the credit needs of its entire community, its investments in social impact partnership projects.</summary>
+</bill>

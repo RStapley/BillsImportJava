@@ -1,0 +1,30 @@
+<bill session="114" type="s" number="1748" updated="2015-07-18T07:02:47-04:00">
+  <state datetime="2015-07-09">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-09"/>
+  </status>
+  <introduced datetime="2015-07-09"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide for improved investment in national transportation infrastructure.</title>
+  </titles>
+  <sponsor id="300076"/>
+  <cosponsors>
+    <cosponsor id="300025" joined="2015-07-09"/>
+    <cosponsor id="300038" joined="2015-07-09"/>
+    <cosponsor id="400253" joined="2015-07-13"/>
+    <cosponsor id="300081" joined="2015-07-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-09" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,56 @@
+<bill session="114" type="h" number="3378" updated="2015-08-22T04:47:34-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">Stop Deceptive Advertising for Women's Services Act</title>
+    <title type="official" as="introduced">To direct the Federal Trade Commission to prescribe rules prohibiting deceptive advertising of abortion services.</title>
+  </titles>
+  <sponsor id="400251"/>
+  <cosponsors>
+    <cosponsor id="412501" joined="2015-07-29"/>
+    <cosponsor id="400097" joined="2015-07-29"/>
+    <cosponsor id="412385" joined="2015-07-29"/>
+    <cosponsor id="412529" joined="2015-07-29"/>
+    <cosponsor id="400162" joined="2015-07-29"/>
+    <cosponsor id="400237" joined="2015-07-29"/>
+    <cosponsor id="412562" joined="2015-07-29"/>
+    <cosponsor id="400661" joined="2015-07-29"/>
+    <cosponsor id="400295" joined="2015-07-29"/>
+    <cosponsor id="400326" joined="2015-07-29"/>
+    <cosponsor id="400333" joined="2015-07-29"/>
+    <cosponsor id="400378" joined="2015-07-29"/>
+    <cosponsor id="412259" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-29">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1165"/>
+    </action>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-07-31">
+      <text>Referred to the Subcommittee on Commerce, Manufacturing, and Trade.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF17" subcommittee="Commerce, Manufacturing, and Trade" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+  </subjects>
+  <amendments/>
+  <summary>7/29/2015--Introduced.
+Stop Deceptive Advertising for Women's Services Act
+
+Requires the Federal Trade Commission (FTC) to promulgate rules to prohibit, as an unfair and deceptive act or practice, a person from advertising with the intent to deceptively create the impression that: (1) such person is a provider of abortion services if such person does not provide such services, or (2) such person is not a provider of abortion services if such person does provide such services.
+
+Defines "abortion services" as providing surgical and non-surgical procedures to terminate a pregnancy, or providing referrals for such procedures.
+
+Sets forth the enforcement authority of the FTC, including with respect to nonprofit organizations.</summary>
+</bill>

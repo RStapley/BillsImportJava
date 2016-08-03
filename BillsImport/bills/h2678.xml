@@ -1,0 +1,29 @@
+<bill session="114" type="h" number="2678" updated="2015-07-11T04:47:24-04:00">
+  <state datetime="2015-06-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-04"/>
+  </status>
+  <introduced datetime="2015-06-04"/>
+  <titles>
+    <title type="official" as="introduced">To prohibit United States contributions to the United Nations Population Fund.</title>
+  </titles>
+  <sponsor id="400606"/>
+  <cosponsors>
+    <cosponsor id="412397" joined="2015-07-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-04" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+  </subjects>
+  <amendments/>
+  <summary>6/4/2015--Introduced.
+Prohibits funds available to the Department of State or any other department or agency from being used to provide contributions to the United Nations Population Fund.</summary>
+</bill>

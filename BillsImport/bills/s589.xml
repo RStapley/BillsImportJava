@@ -1,0 +1,54 @@
+<bill session="114" type="s" number="589" updated="2015-03-21T06:36:05-04:00">
+  <state datetime="2015-02-26">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-26"/>
+  </status>
+  <introduced datetime="2015-02-26"/>
+  <titles>
+    <title type="short" as="introduced">Defending Our Great Lakes Act of 2015</title>
+    <title type="official" as="introduced">A bill to provide an immediate measure to control the spread of aquatic nuisance species from the Mississippi River basin to the Great Lakes basin and to inform long-term measures to prevent the Interbasin transfer of aquatic nuisance species.</title>
+  </titles>
+  <sponsor id="300093"/>
+  <cosponsors>
+    <cosponsor id="400013" joined="2015-02-26"/>
+    <cosponsor id="400050" joined="2015-02-26"/>
+    <cosponsor id="412378" joined="2015-02-26"/>
+    <cosponsor id="412242" joined="2015-02-26"/>
+    <cosponsor id="412305" joined="2015-02-26"/>
+    <cosponsor id="400325" joined="2015-02-26"/>
+    <cosponsor id="300087" joined="2015-02-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-26" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="1135"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Aquatic ecology"/>
+    <term name="Dams and canals"/>
+    <term name="Floods and storm protection"/>
+    <term name="Great Lakes"/>
+    <term name="Illinois"/>
+    <term name="Indiana"/>
+    <term name="Lakes and rivers"/>
+    <term name="Marine and inland water transportation"/>
+    <term name="Michigan"/>
+    <term name="Minnesota"/>
+    <term name="Mississippi River"/>
+    <term name="New York State"/>
+    <term name="Ohio"/>
+    <term name="Pennsylvania"/>
+    <term name="Water quality"/>
+    <term name="Water storage"/>
+    <term name="Watersheds"/>
+    <term name="Wisconsin"/>
+  </subjects>
+  <amendments/>
+</bill>

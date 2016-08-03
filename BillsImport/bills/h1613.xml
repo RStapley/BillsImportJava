@@ -1,0 +1,58 @@
+<bill session="114" type="h" number="1613" updated="2015-07-24T04:48:05-04:00">
+  <state datetime="2015-07-22">REPORTED</state>
+  <status>
+    <unknown datetime="2015-07-22"/>
+  </status>
+  <introduced datetime="2015-03-25"/>
+  <titles>
+    <title type="short" as="introduced">Federal Vehicle Repair Cost Savings Act of 2015</title>
+    <title type="official" as="introduced">To reduce the operation and maintenance costs associated with the Federal fleet by encouraging the use of remanufactured parts, and for other purposes.</title>
+  </titles>
+  <sponsor id="412437"/>
+  <cosponsors>
+    <cosponsor id="412642" joined="2015-03-25"/>
+    <cosponsor id="412436" joined="2015-04-29"/>
+    <cosponsor id="412652" joined="2015-06-16"/>
+    <cosponsor id="412539" joined="2015-04-13"/>
+    <cosponsor id="412601" joined="2015-04-22"/>
+    <cosponsor id="400196" joined="2015-04-29"/>
+    <cosponsor id="412460" joined="2015-04-29"/>
+    <cosponsor id="412465" joined="2015-06-18"/>
+    <cosponsor id="412445" joined="2015-04-22"/>
+    <cosponsor id="412540" joined="2015-04-17"/>
+    <cosponsor id="400276" joined="2015-04-22"/>
+    <cosponsor id="412551" joined="2015-04-29"/>
+    <cosponsor id="412426" joined="2015-04-29"/>
+    <cosponsor id="412581" joined="2015-04-28"/>
+    <cosponsor id="412538" joined="2015-07-21"/>
+    <cosponsor id="412525" joined="2015-04-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-25" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2015-07-22">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-07-22" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="565"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Motor vehicles"/>
+    <term name="Public contracts and procurement"/>
+  </subjects>
+  <amendments/>
+  <summary>3/25/2015--Introduced.
+Federal Vehicle Repair Cost Savings Act of 2015
+
+Requires the head of each federal agency to encourage the use of remanufactured vehicle components to mantain federal vehicles if using such components reduces the cost, while maintaining the quality, of such vehicles.</summary>
+</bill>

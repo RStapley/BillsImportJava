@@ -1,0 +1,32 @@
+<bill session="114" type="sc" number="15" updated="2015-06-06T06:43:34-04:00">
+  <state datetime="2015-05-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-04"/>
+  </status>
+  <introduced datetime="2015-05-04"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution commemorating the 100th Anniversary of the 1915 Panama-California Exposition and the establishment of Balboa Park in San Diego, California.</title>
+  </titles>
+  <sponsor id="300043"/>
+  <cosponsors>
+    <cosponsor id="300011" joined="2015-05-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-04" state="REFERRED">
+      <text>Referred to the Committee on Energy and Natural Resources.</text>
+      <reference ref="CR S2602" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="hc" number="44"/>
+  </relatedbills>
+  <subjects>
+    <term name="Social sciences and history"/>
+  </subjects>
+  <amendments/>
+  <summary>5/4/2015--Introduced.
+Commemorates the 100th anniversary of the Panama-California Exposition and the founding of Balboa Park in San Diego, California, on May 9, 2015.</summary>
+</bill>

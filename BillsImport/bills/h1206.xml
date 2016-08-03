@@ -1,0 +1,59 @@
+<bill session="114" type="h" number="1206" updated="2015-05-16T06:27:48-04:00">
+  <state datetime="2015-03-02">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-02"/>
+  </status>
+  <introduced datetime="2015-03-02"/>
+  <titles>
+    <title type="short" as="introduced">No Hires for the Delinquent IRS Act</title>
+    <title type="official" as="introduced">To prohibit the hiring of additional Internal Revenue Service employees until the Secretary of the Treasury certifies that no employee of the Internal Revenue Service has a seriously delinquent tax debt.</title>
+  </titles>
+  <sponsor id="412641"/>
+  <cosponsors>
+    <cosponsor id="412655" joined="2015-03-16"/>
+    <cosponsor id="412622" joined="2015-04-22"/>
+    <cosponsor id="412457" joined="2015-03-18"/>
+    <cosponsor id="412480" joined="2015-04-14"/>
+    <cosponsor id="412510" joined="2015-03-18"/>
+    <cosponsor id="400644" joined="2015-03-16"/>
+    <cosponsor id="412552" joined="2015-03-16"/>
+    <cosponsor id="412660" joined="2015-04-22"/>
+    <cosponsor id="412302" joined="2015-03-23"/>
+    <cosponsor id="400652" joined="2015-04-23"/>
+    <cosponsor id="412633" joined="2015-04-13"/>
+    <cosponsor id="412309" joined="2015-03-25"/>
+    <cosponsor id="412489" joined="2015-03-25"/>
+    <cosponsor id="412310" joined="2015-03-25"/>
+    <cosponsor id="412417" joined="2015-04-22"/>
+    <cosponsor id="412670" joined="2015-03-18"/>
+    <cosponsor id="400433" joined="2015-04-22"/>
+    <cosponsor id="412525" joined="2015-03-25"/>
+    <cosponsor id="412640" joined="2015-03-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-02" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="303"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Department of the Treasury"/>
+    <term name="Employee hiring"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Internal Revenue Service (IRS)"/>
+    <term name="Tax administration and collection, taxpayers"/>
+  </subjects>
+  <amendments/>
+  <summary>3/2/2015--Introduced.
+No Hires for the Delinquent IRS Act 
+
+This bill prohibits any federal officer or employer&#160;from extending an offer of employment in the Internal Revenue Service (IRS) to any individual until the IRS publicly issues a written certification that the IRS does not employ any individual who has a seriously delinquent tax debt.
+
+A seriously delinquent tax debt is an outstanding tax debt for which the IRS has filed a notice of lien in public records, excluding a tax debt: (1) that is being paid in a timely manner under an approved installment payment agreement or an offer-in-compromise, (2) for which a collection due process hearing has been requested or is pending, (3) for which a tax levy has been issued, or (4) with respect to which relief has been granted due to economic hardship.</summary>
+</bill>

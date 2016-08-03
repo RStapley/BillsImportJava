@@ -1,0 +1,43 @@
+<bill session="114" type="s" number="1792" updated="2015-08-22T07:06:44-04:00">
+  <state datetime="2015-07-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-16"/>
+  </status>
+  <introduced datetime="2015-07-16"/>
+  <titles>
+    <title type="short" as="introduced">Commuter Benefits Equity Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to equalize the exclusion from gross income of parking and transportation fringe benefits and to provide for a common cost-of-living adjustment, and for other purposes.</title>
+  </titles>
+  <sponsor id="300087"/>
+  <cosponsors>
+    <cosponsor id="412490" joined="2015-07-16"/>
+    <cosponsor id="412598" joined="2015-07-27"/>
+    <cosponsor id="400064" joined="2015-07-16"/>
+    <cosponsor id="300019" joined="2015-07-16"/>
+    <cosponsor id="412246" joined="2015-07-16"/>
+    <cosponsor id="412390" joined="2015-07-27"/>
+    <cosponsor id="412223" joined="2015-07-16"/>
+    <cosponsor id="400253" joined="2015-07-16"/>
+    <cosponsor id="400272" joined="2015-07-16"/>
+    <cosponsor id="412325" joined="2015-07-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-16" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+  <summary>7/16/2015--Introduced.
+Commuter Benefits Equity Act of 2015
+
+Amends the Internal Revenue Code to equalize and increase to $250, with a cost-of-living adjustment after 2015, the tax exclusion for both transportation and parking fringe benefits.
+
+Authorizes agencies to establish a program involving such benefits in lieu of transit passes to encourage commuting by federal employees by means other than single-occupancy motor vehicles.</summary>
+</bill>

@@ -1,0 +1,29 @@
+<bill session="114" type="hc" number="69" updated="2015-08-15T06:49:16-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="official" as="introduced">Expressing the sense of Congress that any reform or repeal of the last-in, first-out method of accounting for inventories (LIFO) would cause irreparable and unnecessary damage to United States businesses.</title>
+  </titles>
+  <sponsor id="412578"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Accounting and auditing"/>
+    <term name="Tax administration and collection, taxpayers"/>
+  </subjects>
+  <amendments/>
+  <summary>7/29/2015--Introduced.
+Expresses the sense of Congress that reform or repeal of provisions of the Internal Revenue Code relating to the last-in, first-out (LIFO) method of accounting for inventories would cause irreparable and unnecessary damage to U.S. businesses.</summary>
+</bill>

@@ -1,0 +1,28 @@
+<bill session="114" type="h" number="3205" updated="2015-07-28T15:58:47-04:00">
+  <state datetime="2015-07-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-23"/>
+  </status>
+  <introduced datetime="2015-07-23"/>
+  <titles>
+    <title type="short" as="introduced">History Is Learned from the Living Act</title>
+    <title type="official" as="introduced">To establish the History Is Learned from the Living grant program to enable communities to learn about historical movements in the United States in the past century through the oral histories of community members who participated in those movements, and for other purposes.</title>
+  </titles>
+  <sponsor id="400199"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-23" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social sciences and history"/>
+    <term name="Education programs funding"/>
+    <term name="U.S. history"/>
+  </subjects>
+  <amendments/>
+</bill>

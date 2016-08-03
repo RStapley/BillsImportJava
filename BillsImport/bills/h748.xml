@@ -1,0 +1,49 @@
+<bill session="114" type="h" number="748" updated="2015-07-28T05:08:23-04:00">
+  <state datetime="2015-02-05">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-05"/>
+  </status>
+  <introduced datetime="2015-02-05"/>
+  <titles>
+    <title type="short" as="introduced">GI Bill STEM Extension Act of 2015</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to authorize the Secretary of Veterans Affairs to provide additional educational assistance under the Post-9/11 Educational Assistance Program of the Department of Veterans Affairs to certain eligible individuals.</title>
+  </titles>
+  <sponsor id="412487"/>
+  <cosponsors>
+    <cosponsor id="412250" joined="2015-07-08"/>
+    <cosponsor id="400041" joined="2015-07-21"/>
+    <cosponsor id="412571" joined="2015-04-28"/>
+    <cosponsor id="400639" joined="2015-04-21"/>
+    <cosponsor id="400641" joined="2015-07-27"/>
+    <cosponsor id="412638" joined="2015-04-14"/>
+    <cosponsor id="412308" joined="2015-04-21"/>
+    <cosponsor id="400333" joined="2015-04-14"/>
+    <cosponsor id="412318" joined="2015-02-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-05" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2015-02-20">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR10" subcommittee="Economic Opportunity" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Higher education"/>
+    <term name="Medical education"/>
+    <term name="Science and engineering education"/>
+    <term name="Teaching, teachers, curricula"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+  </subjects>
+  <amendments/>
+  <summary>2/5/2015--Introduced.
+GI Bill STEM Extension Act of 2015
+
+Authorizes the Secretary of Veterans Affairs to pay up to nine months of additional Post-9/11 Educational Assistance to a veteran who has used all of the Post-9/11 Educational Assistance to which he or she was entitled and who: (1) is enrolled in a postsecondary education program that requires more than the standard 128 semester (or 192 quarter) credit hours for completion in a specified science, technology, engineering, or mathematics (STEM) field; or (2) has earned a postsecondary degree in one of those fields and is enrolled in a teaching certification program.</summary>
+</bill>

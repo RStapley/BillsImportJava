@@ -1,0 +1,51 @@
+<bill session="114" type="h" number="2133" updated="2015-07-25T06:36:49-04:00">
+  <state datetime="2015-04-30">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-30"/>
+  </status>
+  <introduced datetime="2015-04-30"/>
+  <titles>
+    <title type="short" as="introduced">Servicemembers' Choice in Transition Act</title>
+    <title type="official" as="introduced">To amend title 10, United States Code, to provide additional training opportunities under the Transition Assistance Program to members of the Armed Forces who are being separated from active duty.</title>
+  </titles>
+  <sponsor id="412480"/>
+  <cosponsors>
+    <cosponsor id="400068" joined="2015-04-30"/>
+    <cosponsor id="412651" joined="2015-04-30"/>
+    <cosponsor id="412524" joined="2015-06-10"/>
+    <cosponsor id="400209" joined="2015-07-07"/>
+    <cosponsor id="412186" joined="2015-04-30"/>
+    <cosponsor id="412520" joined="2015-04-30"/>
+    <cosponsor id="412564" joined="2015-04-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-30" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2015-06-02">
+      <text>Hearings Held by the Subcommittee on Economic Opportunity Prior to Referral.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+    <committee activity="Hearings" code="HSAS" subcommittee="Economic Opportunity" name="House Armed Services"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1735"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Business education"/>
+    <term name="Employment and training programs"/>
+    <term name="Higher education"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+    <term name="Vocational and technical education"/>
+  </subjects>
+  <amendments/>
+  <summary>4/30/2015--Introduced.
+Servicemembers' Choice in Transition Act
+
+Directs the Department of Defense (DOD) and the Department of Homeland Security (DHS) to permit members of the Armed Forces who are being separated from active duty and their spouses to elect to receive the following types of additional training under the Department of Labor's transition assistance program:
+
+ preparation for higher education or training, preparation for career or technical training, and preparation for entrepreneurship.</summary>
+</bill>

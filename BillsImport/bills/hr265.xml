@@ -1,0 +1,53 @@
+<bill session="114" type="hr" number="265" updated="2015-07-29T04:47:08-04:00">
+  <state datetime="2015-05-15">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-15"/>
+  </status>
+  <introduced datetime="2015-05-15"/>
+  <titles>
+    <title type="official" as="introduced">Recognizing the importance of a continued commitment to ending pediatric AIDS worldwide.</title>
+  </titles>
+  <sponsor id="400237"/>
+  <cosponsors>
+    <cosponsor id="412395" joined="2015-05-15"/>
+    <cosponsor id="412516" joined="2015-07-28"/>
+    <cosponsor id="400086" joined="2015-07-28"/>
+    <cosponsor id="412621" joined="2015-05-15"/>
+    <cosponsor id="412536" joined="2015-07-28"/>
+    <cosponsor id="400108" joined="2015-05-15"/>
+    <cosponsor id="412420" joined="2015-05-15"/>
+    <cosponsor id="400141" joined="2015-05-15"/>
+    <cosponsor id="400259" joined="2015-05-15"/>
+    <cosponsor id="400262" joined="2015-05-15"/>
+    <cosponsor id="412331" joined="2015-05-15"/>
+    <cosponsor id="400660" joined="2015-05-15"/>
+    <cosponsor id="400344" joined="2015-05-15"/>
+    <cosponsor id="400422" joined="2015-05-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-15" state="REFERRED">
+      <text>Referred to the Committee on Foreign Affairs, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-05-15">
+      <text>Referred to House Foreign Affairs</text>
+    </action>
+    <action datetime="2015-05-15">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-05-22">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <summary>5/15/2015--Introduced.
+Recognizes that prevention of mother-to-child transmission of HIV is critical to stopping the spread of HIV worldwide and that the fight to eliminate pediatric HIV worldwide has been a priority for more than 13 years.
+
+Supports providing women with HIV counseling and testing services and dramatically scaling up pediatric treatment of HIV.</summary>
+</bill>

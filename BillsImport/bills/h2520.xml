@@ -1,0 +1,43 @@
+<bill session="114" type="h" number="2520" updated="2015-07-09T04:47:37-04:00">
+  <state datetime="2015-05-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-21"/>
+  </status>
+  <introduced datetime="2015-05-21"/>
+  <titles>
+    <title type="short" as="introduced">Distillery Innovation and Excise Tax Reform Act</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to reduce the rate of excise tax on distilled spirits.</title>
+  </titles>
+  <sponsor id="412428"/>
+  <cosponsors>
+    <cosponsor id="412541" joined="2015-06-02"/>
+    <cosponsor id="400636" joined="2015-06-16"/>
+    <cosponsor id="400071" joined="2015-06-02"/>
+    <cosponsor id="412477" joined="2015-06-02"/>
+    <cosponsor id="400646" joined="2015-06-23"/>
+    <cosponsor id="412278" joined="2015-07-07"/>
+    <cosponsor id="412434" joined="2015-07-08"/>
+    <cosponsor id="400259" joined="2015-07-07"/>
+    <cosponsor id="412239" joined="2015-06-18"/>
+    <cosponsor id="412211" joined="2015-05-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-21" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1444"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+  <summary>5/21/2015--Introduced.
+Distillery Innovation and Excise Tax Reform Act of 2015 
+
+Amends the Internal Revenue Code to reduce the excise tax rate on distilled spirits produced in or imported into the United States from $13.50 to&#160;$9.00 per&#160;proof gallon&#160;and&#160;to $2.70 on the first 100,000 proof gallons. Makes the $2.70 per proof gallon rate applicable to&#160;a specified controlled group of corporations that is a distilled spirits operation.</summary>
+</bill>

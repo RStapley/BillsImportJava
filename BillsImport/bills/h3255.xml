@@ -1,0 +1,29 @@
+<bill session="114" type="h" number="3255" updated="2015-08-22T06:46:32-04:00">
+  <state datetime="2015-07-28">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-28"/>
+  </status>
+  <introduced datetime="2015-07-28"/>
+  <titles>
+    <title type="short" as="introduced">Student Agriculture Protection Act of 2015</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to exclude from gross income certain amounts realized on the disposition of property raised or produced by a student farmer, and for other purposes.</title>
+  </titles>
+  <sponsor id="400654"/>
+  <cosponsors>
+    <cosponsor id="400655" joined="2015-07-28"/>
+    <cosponsor id="400657" joined="2015-07-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-28" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+</bill>

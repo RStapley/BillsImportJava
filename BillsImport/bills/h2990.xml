@@ -1,0 +1,31 @@
+<bill session="114" type="h" number="2990" updated="2015-07-25T06:43:59-04:00">
+  <state datetime="2015-07-09">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-09"/>
+  </status>
+  <introduced datetime="2015-07-09"/>
+  <titles>
+    <title type="short" as="introduced">Accelerating Individuals into the Workforce Act</title>
+    <title type="official" as="introduced">To provide for the conduct of demonstration projects to test the effectiveness of subsidized employment for TANF recipients.</title>
+  </titles>
+  <sponsor id="412420"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-09" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Haiti"/>
+  </subjects>
+  <amendments/>
+  <summary>7/9/2015--Introduced.
+Accelerating Individuals into the Workforce Act 
+
+This bill amends part A (Temporary Assistance for Needy Families) (TANF) of title IV of the Social Security Act to direct the Department of Health and Human Services to make grants to states to conduct demonstration projects designed to implement and evaluate strategies that provide wage subsidies to enable low-income individuals to enter into and retain employment.</summary>
+</bill>

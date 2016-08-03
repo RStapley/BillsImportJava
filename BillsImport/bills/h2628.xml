@@ -1,0 +1,42 @@
+<bill session="114" type="h" number="2628" updated="2015-08-22T06:41:17-04:00">
+  <state datetime="2015-06-03">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-03"/>
+  </status>
+  <introduced datetime="2015-06-03"/>
+  <titles>
+    <title type="short" as="introduced">Tax Exemptions for American Medalists Act of 2015</title>
+    <title type="short" as="introduced">TEAM Act</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to exclude from gross income any prizes or awards won in competition in the Olympic Games.</title>
+  </titles>
+  <sponsor id="412482"/>
+  <cosponsors>
+    <cosponsor id="400616" joined="2015-06-03"/>
+    <cosponsor id="400068" joined="2015-06-08"/>
+    <cosponsor id="412540" joined="2015-06-08"/>
+    <cosponsor id="412551" joined="2015-06-08"/>
+    <cosponsor id="400652" joined="2015-06-08"/>
+    <cosponsor id="400367" joined="2015-06-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-03" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Athletes"/>
+    <term name="Disability and paralysis"/>
+    <term name="Income tax exclusion"/>
+    <term name="Olympic games"/>
+  </subjects>
+  <amendments/>
+  <summary>6/3/2015--Introduced.
+Tax Exemptions for American Medalists Act of 2015 or the TEAM Act
+
+ Amends the Internal Revenue Code to exclude from gross income, for income tax purposes, the value of any medal or prize money received on account of competition in the Olympic Games.</summary>
+</bill>

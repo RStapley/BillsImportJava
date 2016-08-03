@@ -1,0 +1,29 @@
+<bill session="114" type="h" number="2166" updated="2015-06-27T06:55:16-04:00">
+  <state datetime="2015-04-30">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-30"/>
+  </status>
+  <introduced datetime="2015-04-30"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to make permanent the exclusion from gross income of discharges of qualified principal residence indebtedness.</title>
+  </titles>
+  <sponsor id="412276"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-04-30" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Housing finance and home ownership"/>
+    <term name="Income tax exclusion"/>
+  </subjects>
+  <amendments/>
+  <summary>4/30/2015--Introduced.
+Amends the Internal Revenue Code to make permanent the exclusion from gross income of income attributable to the discharge of indebtedness on a principal residence.</summary>
+</bill>

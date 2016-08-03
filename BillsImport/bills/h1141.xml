@@ -1,0 +1,59 @@
+<bill session="114" type="h" number="1141" updated="2015-07-22T04:58:44-04:00">
+  <state datetime="2015-02-26">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-26"/>
+  </status>
+  <introduced datetime="2015-02-26"/>
+  <titles>
+    <title type="short" as="introduced">GI Bill Fairness Act of 2015</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to consider certain time spent by members of reserve components of the Armed Forces while receiving medical care from the Secretary of Defense as active duty for purposes of eligibility for Post-9/11 Educational Assistance, and for other purposes.</title>
+  </titles>
+  <sponsor id="412520"/>
+  <cosponsors>
+    <cosponsor id="412539" joined="2015-07-21"/>
+    <cosponsor id="412193" joined="2015-06-09"/>
+    <cosponsor id="412446" joined="2015-05-21"/>
+    <cosponsor id="412583" joined="2015-04-21"/>
+    <cosponsor id="400245" joined="2015-04-22"/>
+    <cosponsor id="400309" joined="2015-06-24"/>
+    <cosponsor id="412585" joined="2015-04-28"/>
+    <cosponsor id="400606" joined="2015-06-03"/>
+    <cosponsor id="412610" joined="2015-05-19"/>
+    <cosponsor id="412628" joined="2015-06-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-26" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2015-03-13">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+    </action>
+    <action datetime="2015-03-24">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="2015-04-16">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2015-04-16">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSVR10" subcommittee="Economic Opportunity" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="602"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Military medicine"/>
+    <term name="National Guard and reserves"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+  </subjects>
+  <amendments/>
+  <summary>2/26/2015--Introduced.
+GI Bill Fairness Act of 2015
+
+Includes as active duty for purposes of eligibility for post-9/11 veterans educational assistance service of a member of a reserve component ordered to active duty to receive authorized medical care, to be medically evaluated, or to complete a required Department of Defense health care study.</summary>
+</bill>

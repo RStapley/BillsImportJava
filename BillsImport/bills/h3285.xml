@@ -1,0 +1,58 @@
+<bill session="114" type="h" number="3285" updated="2015-08-22T04:47:24-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">Reducing Disparities Using Care Models and Education Act of 2015</title>
+    <title type="official" as="introduced">To provide for a study by the Institute of Medicine on health disparities, to direct the Secretary of Health and Human Services to develop guidelines on reducing health disparities, and for other purposes.</title>
+  </titles>
+  <sponsor id="400309"/>
+  <cosponsors>
+    <cosponsor id="400030" joined="2015-07-29"/>
+    <cosponsor id="400048" joined="2015-07-29"/>
+    <cosponsor id="400063" joined="2015-07-29"/>
+    <cosponsor id="412379" joined="2015-07-29"/>
+    <cosponsor id="412236" joined="2015-07-29"/>
+    <cosponsor id="400093" joined="2015-07-29"/>
+    <cosponsor id="412215" joined="2015-07-29"/>
+    <cosponsor id="400162" joined="2015-07-29"/>
+    <cosponsor id="400163" joined="2015-07-29"/>
+    <cosponsor id="400185" joined="2015-07-29"/>
+    <cosponsor id="400233" joined="2015-07-29"/>
+    <cosponsor id="400237" joined="2015-07-29"/>
+    <cosponsor id="412558" joined="2015-07-29"/>
+    <cosponsor id="412506" joined="2015-07-29"/>
+    <cosponsor id="412585" joined="2015-07-29"/>
+    <cosponsor id="400333" joined="2015-07-29"/>
+    <cosponsor id="400355" joined="2015-07-29"/>
+    <cosponsor id="400363" joined="2015-07-29"/>
+    <cosponsor id="412626" joined="2015-07-29"/>
+    <cosponsor id="400403" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-07-31">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+</bill>

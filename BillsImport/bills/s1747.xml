@@ -1,0 +1,56 @@
+<bill session="114" type="s" number="1747" updated="2015-08-22T07:06:21-04:00">
+  <state datetime="2015-07-09">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-09"/>
+  </status>
+  <introduced datetime="2015-07-09"/>
+  <titles>
+    <title type="short" as="introduced">North Korea Sanctions Enforcement Act of 2015</title>
+    <title type="official" as="introduced">A bill to improve the enforcement of sanctions against the Government of North Korea, and for other purposes.</title>
+  </titles>
+  <sponsor id="400272"/>
+  <cosponsors>
+    <cosponsor id="300047" joined="2015-07-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-09" state="REFERRED">
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Arms control and nonproliferation"/>
+    <term name="Asia"/>
+    <term name="Chemical and biological weapons"/>
+    <term name="Computer security and identity theft"/>
+    <term name="Computers and information technology"/>
+    <term name="Congressional oversight"/>
+    <term name="Currency"/>
+    <term name="Customs enforcement"/>
+    <term name="Detention of persons"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="Foreign and international banking"/>
+    <term name="Foreign property"/>
+    <term name="Fraud offenses and financial crimes"/>
+    <term name="Government studies and investigations"/>
+    <term name="Government trust funds"/>
+    <term name="Human rights"/>
+    <term name="International organizations and cooperation"/>
+    <term name="Licensing and registrations"/>
+    <term name="Military assistance, sales, and agreements"/>
+    <term name="North Korea"/>
+    <term name="Nuclear weapons"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Rule of law and government transparency"/>
+    <term name="Sanctions"/>
+    <term name="Terrorism"/>
+    <term name="Trade restrictions"/>
+    <term name="Travel and tourism"/>
+    <term name="United Nations"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,56 @@
+<bill session="114" type="s" number="389" updated="2015-07-08T04:49:42-04:00">
+  <state datetime="2015-02-05">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-05"/>
+  </status>
+  <introduced datetime="2015-02-05"/>
+  <titles>
+    <title type="short" as="introduced">All Students Count Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend section 1111(h)(1)(C)(i) of the Elementary and Secondary Education Act of 1965 to require that annual State report cards reflect the same race groups as the decennial census of population.</title>
+  </titles>
+  <sponsor id="412200"/>
+  <cosponsors>
+    <cosponsor id="400013" joined="2015-07-07"/>
+    <cosponsor id="300011" joined="2015-05-20"/>
+    <cosponsor id="300018" joined="2015-05-20"/>
+    <cosponsor id="412246" joined="2015-07-07"/>
+    <cosponsor id="300043" joined="2015-05-12"/>
+    <cosponsor id="412378" joined="2015-05-18"/>
+    <cosponsor id="400253" joined="2015-06-18"/>
+    <cosponsor id="300082" joined="2015-07-07"/>
+    <cosponsor id="412507" joined="2015-05-07"/>
+    <cosponsor id="412542" joined="2015-07-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-05" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="717"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Academic performance and assessments"/>
+    <term name="Disability and paralysis"/>
+    <term name="Education of the disadvantaged"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Government information and archives"/>
+    <term name="Minority education"/>
+    <term name="Racial and ethnic relations"/>
+    <term name="Special education"/>
+    <term name="Women's education"/>
+  </subjects>
+  <amendments/>
+  <summary>2/5/2015--Introduced.
+All Students Count Act of 2015
+
+Amends the Elementary and Secondary Education Act of 1965 to require information on the annual state report cards on student achievement at each proficiency level to be disaggregated by the same major racial groups as the decennial census of the population. (Currently, that information is to be disaggregated by race, but the racial groups are not specified.)
+
+Requires the proficiency information which is disaggregated by such racial groups and by ethnicity, gender, disability status, migrant status, and status as economically disadvantaged to be cross-tabulated across all of those subgroups by gender and by disability.
+
+Provides that such disaggregation and cross-tabulation shall not be required when the number of students in a subgroup is insufficient to yield statistically reliable information or the results would reveal personally identifiable information about an individual student.</summary>
+</bill>

@@ -1,0 +1,34 @@
+<bill session="114" type="s" number="1147" updated="2015-07-04T06:55:55-04:00">
+  <state datetime="2015-04-30">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-30"/>
+  </status>
+  <introduced datetime="2015-04-30"/>
+  <titles>
+    <title type="official" as="introduced">A bill to designate the Federal building and United States courthouse located at 83 Meeting Street in Charleston, South Carolina, as the "J. Waties Waring Judicial Center".</title>
+  </titles>
+  <sponsor id="300047"/>
+  <cosponsors>
+    <cosponsor id="412471" joined="2015-04-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-30" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="2131"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congressional tributes"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="South Carolina"/>
+  </subjects>
+  <amendments/>
+  <summary>4/30/2015--Introduced.
+Designates the federal building and U.S. courthouse located at 83 Meeting Street in Charleston, South Carolina, as the "J. Waties Waring Judicial Center."</summary>
+</bill>

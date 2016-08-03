@@ -1,0 +1,54 @@
+<bill session="114" type="h" number="733" updated="2015-05-23T06:24:01-04:00">
+  <state datetime="2015-02-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-04"/>
+  </status>
+  <introduced datetime="2015-02-04"/>
+  <titles>
+    <title type="short" as="introduced">SNAP Verify Act of 2015</title>
+    <title type="official" as="introduced">To amend the Food and Nutrition Act of 2008 to require households that receive supplemental nutrition assistance benefits to present photographic verification at the time food is purchased with such benefits.</title>
+  </titles>
+  <sponsor id="400606"/>
+  <cosponsors>
+    <cosponsor id="412655" joined="2015-02-20"/>
+    <cosponsor id="412567" joined="2015-02-04"/>
+    <cosponsor id="412395" joined="2015-02-05"/>
+    <cosponsor id="412555" joined="2015-02-20"/>
+    <cosponsor id="412526" joined="2015-02-04"/>
+    <cosponsor id="412472" joined="2015-02-05"/>
+    <cosponsor id="400640" joined="2015-02-10"/>
+    <cosponsor id="400141" joined="2015-02-04"/>
+    <cosponsor id="412397" joined="2015-02-04"/>
+    <cosponsor id="400175" joined="2015-03-23"/>
+    <cosponsor id="412419" joined="2015-02-05"/>
+    <cosponsor id="412445" joined="2015-02-04"/>
+    <cosponsor id="412294" joined="2015-02-04"/>
+    <cosponsor id="412474" joined="2015-02-10"/>
+    <cosponsor id="400652" joined="2015-02-04"/>
+    <cosponsor id="412399" joined="2015-02-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-04" state="REFERRED">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+    <action datetime="2015-02-27">
+      <text>Referred to the Subcommittee on Nutrition.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee activity="Referral" code="HSAG03" subcommittee="Nutrition" name="House Agriculture"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Food assistance and relief"/>
+    <term name="Photography and imaging"/>
+    <term name="Poverty and welfare assistance"/>
+  </subjects>
+  <amendments/>
+  <summary>2/4/2015--Introduced.
+SNAP Verify Act of 2015 
+
+This bill amends the Food and Nutrition Act of 2008 to require households to present photographic identification when using an electronic benefit card for Supplemental Nutrition Assistance Program (SNAP, formerly known as the food stamp program) transactions.</summary>
+</bill>

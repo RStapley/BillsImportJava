@@ -1,0 +1,43 @@
+<bill session="114" type="h" number="1022" updated="2015-06-06T06:26:36-04:00">
+  <state datetime="2015-02-24">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-24"/>
+  </status>
+  <introduced datetime="2015-02-24"/>
+  <titles>
+    <title type="short" as="introduced">Countering Violent Extremism Grants Act</title>
+    <title type="short" as="introduced">CVE Grants Act</title>
+    <title type="official" as="introduced">To amend the Homeland Security Act of 2002 to authorize the use of Urban Area Security Initiative and State Homeland Security Grant Program funding to counter violent extremism.</title>
+  </titles>
+  <sponsor id="412670"/>
+  <cosponsors>
+    <cosponsor id="412649" joined="2015-03-19"/>
+    <cosponsor id="400654" joined="2015-02-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-24" state="REFERRED">
+      <text>Referred to the House Committee on Homeland Security.</text>
+    </action>
+    <action datetime="2015-03-12">
+      <text>Referred to the Subcommittee on Emergency Preparedness, Response and Communications.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral"/>
+    <committee activity="Referral" code="HSHM12" subcommittee="Emergency Preparedness, Response, and Communications" name="House Homeland Security"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Emergency management"/>
+    <term name="Homeland security"/>
+    <term name="Law enforcement administration and funding"/>
+    <term name="Terrorism"/>
+  </subjects>
+  <amendments/>
+  <summary>2/24/2015--Introduced.
+Countering Violent Extremism Grants Act or the CVE Grants Act
+
+Amends the Homeland Security Act of 2002 to authorize the use of Urban Area Security Initiative and State Homeland Security Grant Program funding to prevent, prepare for, protect against, and respond to acts of terrorism by countering violent extremism, including through: (1) training programs; (2) the development, implementation, or expansion of programs to engage communities that may be targeted by violent extremist radicalization; and (3) the development and implementation of projects to partner with local communities to prevent radicalization to violence.
+
+Directs the Federal Emergency Management Agency (FEMA) to submit an annual report on the use of such funding to counter violent extremism, including a list of recipients of funds, the types of projects funded, and the amount of grant funding used for each project.</summary>
+</bill>

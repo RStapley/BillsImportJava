@@ -1,0 +1,28 @@
+<bill session="114" type="s" number="1867" updated="2015-08-08T07:07:22-04:00">
+  <state datetime="2015-07-27">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-27"/>
+  </status>
+  <introduced datetime="2015-07-27"/>
+  <titles>
+    <title type="official" as="introduced">A bill to protect children from exploitation by providing advance notice of intended travel by registered sex offenders outside the United States to the government of the country of destination, requesting foreign governments to notify the United States when a known sex offender is seeking to enter the United States, and for other purposes.</title>
+  </titles>
+  <sponsor id="300089"/>
+  <cosponsors>
+    <cosponsor id="400222" joined="2015-07-27"/>
+    <cosponsor id="300073" joined="2015-07-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-27" state="REFERRED">
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+  </subjects>
+  <amendments/>
+</bill>

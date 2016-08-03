@@ -1,0 +1,30 @@
+<bill session="114" type="h" number="3030" updated="2015-07-29T04:49:00-04:00">
+  <state datetime="2015-07-10">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-10"/>
+  </status>
+  <introduced datetime="2015-07-10"/>
+  <titles>
+    <title type="short" as="introduced">Baudette Coast Guard Housing Conveyance Act</title>
+    <title type="official" as="introduced">To direct the Commandant of the Coast Guard to convey certain property from the United States to the City of Baudette, Minnesota.</title>
+  </titles>
+  <sponsor id="400316"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-10" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2015-07-13">
+      <text>Referred to the Subcommittee on Coast Guard and Maritime Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW07" subcommittee="Coast Guard and Maritime Transportation" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Housing and community development"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,30 @@
+<bill session="114" type="h" number="3175" updated="2015-07-28T15:58:34-04:00">
+  <state datetime="2015-07-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-23"/>
+  </status>
+  <introduced datetime="2015-07-23"/>
+  <titles>
+    <title type="short" as="introduced">Assuring Contracting Equity Act of 2015</title>
+    <title type="official" as="introduced">To assure equity in contracting between the Federal Government and small business concerns, and for other purposes.</title>
+  </titles>
+  <sponsor id="412501"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-23">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1112"/>
+    </action>
+    <action datetime="2015-07-23" state="REFERRED">
+      <text>Referred to the House Committee on Small Business.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSM" name="House Small Business" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+  </subjects>
+  <amendments/>
+</bill>

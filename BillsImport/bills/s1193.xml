@@ -1,0 +1,60 @@
+<bill session="114" type="s" number="1193" updated="2015-06-20T06:55:24-04:00">
+  <state datetime="2015-05-05">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-05"/>
+  </status>
+  <introduced datetime="2015-05-05"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to make permanent and expand the temporary minimum credit rate for the low-income housing tax credit program.</title>
+  </titles>
+  <sponsor id="300018"/>
+  <cosponsors>
+    <cosponsor id="412490" joined="2015-05-05"/>
+    <cosponsor id="412598" joined="2015-05-05"/>
+    <cosponsor id="300011" joined="2015-05-05"/>
+    <cosponsor id="400064" joined="2015-05-05"/>
+    <cosponsor id="300023" joined="2015-05-22"/>
+    <cosponsor id="300025" joined="2015-05-18"/>
+    <cosponsor id="300030" joined="2015-05-05"/>
+    <cosponsor id="300043" joined="2015-05-05"/>
+    <cosponsor id="412378" joined="2015-05-05"/>
+    <cosponsor id="412223" joined="2015-05-05"/>
+    <cosponsor id="412554" joined="2015-06-10"/>
+    <cosponsor id="412200" joined="2015-05-05"/>
+    <cosponsor id="412545" joined="2015-05-05"/>
+    <cosponsor id="412242" joined="2015-05-05"/>
+    <cosponsor id="300065" joined="2015-05-05"/>
+    <cosponsor id="400272" joined="2015-05-05"/>
+    <cosponsor id="412325" joined="2015-06-02"/>
+    <cosponsor id="300076" joined="2015-05-05"/>
+    <cosponsor id="412305" joined="2015-06-03"/>
+    <cosponsor id="300083" joined="2015-05-05"/>
+    <cosponsor id="400357" joined="2015-05-05"/>
+    <cosponsor id="412507" joined="2015-05-06"/>
+    <cosponsor id="300087" joined="2015-05-05"/>
+    <cosponsor id="412323" joined="2015-05-05"/>
+    <cosponsor id="300093" joined="2015-05-05"/>
+    <cosponsor id="412542" joined="2015-05-05"/>
+    <cosponsor id="412247" joined="2015-05-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-05" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="1142"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Income tax credits"/>
+    <term name="Low- and moderate-income housing"/>
+    <term name="Real estate business"/>
+  </subjects>
+  <amendments/>
+  <summary>5/5/2015--Introduced.
+Amends the Internal Revenue Code, with respect to the low-income housing tax credit, to make permanent the minimum 9% credit rate for new buildings that are not federally-subsidized and to establish a minimum 4% credit rate for existing buildings that are not federally-subsidized.</summary>
+</bill>

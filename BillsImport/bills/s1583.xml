@@ -1,0 +1,29 @@
+<bill session="114" type="s" number="1583" updated="2015-06-27T07:32:35-04:00">
+  <state datetime="2015-06-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-16"/>
+  </status>
+  <introduced datetime="2015-06-16"/>
+  <titles>
+    <title type="official" as="introduced">A bill to authorize the expansion of an existing hydroelectric project.</title>
+  </titles>
+  <sponsor id="300075"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-06-16">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S4204-4205"/>
+    </action>
+    <action datetime="2015-06-16" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,45 @@
+<bill session="114" type="h" number="2733" updated="2015-08-01T06:42:26-04:00">
+  <state datetime="2015-06-11">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-11"/>
+  </status>
+  <introduced datetime="2015-06-11"/>
+  <titles>
+    <title type="short" as="introduced">Nevada Native Nations Land Act</title>
+    <title type="official" as="introduced">To require the Secretary of the Interior to take land into trust for certain Indian tribes, and for other purposes.</title>
+  </titles>
+  <sponsor id="412500"/>
+  <cosponsors>
+    <cosponsor id="412645" joined="2015-06-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-11" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2015-07-01">
+      <text>Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.</text>
+    </action>
+    <action datetime="2015-07-15">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral, Hearings" code="HSII24" subcommittee="Indian, Insular and Alaska Native Affairs" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="1436"/>
+  </relatedbills>
+  <subjects>
+    <term name="Native Americans"/>
+  </subjects>
+  <amendments/>
+  <summary>6/11/2015--Introduced.
+Nevada Native Nations Land Act
+
+This bill declares that the United States holds in trust the following lands for the benefit of:
+
+ the Fort McDermitt Paiute and Shoshone Tribe of the Fort McDermitt Indian Reservation, approximately 19,094 acres of Bureau of Land Management (BLM) land; the Shoshone-Paiute Tribes of the Duck Valley Indian Reservation, approximately 82 acres of Forest Service land; the Summit Lake Paiute Tribe, approximately 941 acres of BLM land; the Reno-Sparks Indian Colony, approximately 13,434 acres of BLM land; the Pyramid Lake Paiute Tribe, approximately 6,357 acres of BLM land; and the Duckwater Shoshone Tribe approximately 31,269 acres of BLM land. The lands held for such Tribes shall be part of their respective reservations.
+
+Lands held in trust under this Act shall not be eligible for Class II and class III gaming.</summary>
+</bill>

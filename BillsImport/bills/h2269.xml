@@ -1,0 +1,66 @@
+<bill session="114" type="h" number="2269" updated="2015-06-06T04:47:03-04:00">
+  <state datetime="2015-05-12">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-12"/>
+  </status>
+  <introduced datetime="2015-05-12"/>
+  <titles>
+    <title type="short" as="introduced">Wildlife VET Act</title>
+    <title type="short" as="introduced">Wildlife Veterinarians Employment and Training Act</title>
+    <title type="official" as="introduced">To expand the workforce of veterinarians specialized in the care and conservation of wild animals and their ecosystems, and to develop educational programs focused on wildlife and zoological veterinary medicine.</title>
+  </titles>
+  <sponsor id="400170"/>
+  <cosponsors>
+    <cosponsor id="400041" joined="2015-05-12"/>
+    <cosponsor id="412236" joined="2015-05-12"/>
+    <cosponsor id="400129" joined="2015-05-12"/>
+    <cosponsor id="400295" joined="2015-05-12"/>
+    <cosponsor id="412308" joined="2015-05-12"/>
+    <cosponsor id="412315" joined="2015-05-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-12">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E675"/>
+    </action>
+    <action datetime="2015-05-12" state="REFERRED">
+      <text>Referred to the Committee on Agriculture, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-05-12">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2015-05-12">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2015-05-27">
+      <text>Referred to the Subcommittee on Livestock and Foreign Agriculture.</text>
+    </action>
+    <action datetime="2015-06-05">
+      <text>Referred to the Subcommittee on Water, Power and Oceans.</text>
+    </action>
+    <action datetime="2015-06-05">
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee activity="Referral" code="HSAG29" subcommittee="Livestock and Foreign Agriculture" name="House Agriculture"/>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII13" subcommittee="Water, Power and Oceans" name="House Natural Resources"/>
+    <committee activity="Referral" code="HSII10" subcommittee="Federal Lands" name="House Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Animals"/>
+    <term name="Animal and plant health"/>
+    <term name="Education programs funding"/>
+    <term name="Endangered and threatened species"/>
+    <term name="Health personnel"/>
+    <term name="Medical education"/>
+    <term name="Medical research"/>
+    <term name="Student aid and college costs"/>
+    <term name="Veterinary medicine and animal diseases"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+</bill>

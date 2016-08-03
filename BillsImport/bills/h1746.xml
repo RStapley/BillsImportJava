@@ -1,0 +1,32 @@
+<bill session="114" type="h" number="1746" updated="2015-05-16T06:32:18-04:00">
+  <state datetime="2015-04-13">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-13"/>
+  </status>
+  <introduced datetime="2015-04-13"/>
+  <titles>
+    <title type="short" as="introduced">Truth in Employment Act of 2015</title>
+    <title type="official" as="introduced">To amend the National Labor Relations Act to protect employer rights.</title>
+  </titles>
+  <sponsor id="400220"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-04-13" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Employment discrimination and employee rights"/>
+    <term name="Labor-management relations"/>
+  </subjects>
+  <amendments/>
+  <summary>4/13/2015--Introduced.
+Truth in Employment Act of 2015 
+
+ Amends the National Labor Relations Act to provide that nothing in specified prohibitions against unfair labor practices by employers shall be construed as requiring an employer to employ any person who seeks or has sought employment with the employer in furtherance of other employment or agency status.</summary>
+</bill>

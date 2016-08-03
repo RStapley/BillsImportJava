@@ -1,0 +1,40 @@
+<bill session="114" type="s" number="1429" updated="2015-07-18T07:00:07-04:00">
+  <state datetime="2015-05-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-21"/>
+  </status>
+  <introduced datetime="2015-05-21"/>
+  <titles>
+    <title type="short" as="introduced">Charitable Agricultural Research Act</title>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to provide for the deductibility of charitable contributions to agricultural research organizations, and for other purposes.</title>
+  </titles>
+  <sponsor id="400546"/>
+  <cosponsors>
+    <cosponsor id="400034" joined="2015-05-21"/>
+    <cosponsor id="300018" joined="2015-07-13"/>
+    <cosponsor id="300023" joined="2015-05-21"/>
+    <cosponsor id="300055" joined="2015-05-21"/>
+    <cosponsor id="412242" joined="2015-05-21"/>
+    <cosponsor id="300093" joined="2015-05-21"/>
+    <cosponsor id="300100" joined="2015-05-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="2838"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+  <summary>5/21/2015--Introduced.
+Charitable Agricultural Research Act
+
+This bill amends the Internal Revenue Code to: (1) allow a tax deduction for charitable contributions to agricultural research organizations directly engaged in the continuous active conduct of research in conjunction with an agricultural college or university, and (2) extend to such organizations the prohibition against expenditures by public charities to influence legislation.</summary>
+</bill>

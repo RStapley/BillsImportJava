@@ -1,0 +1,78 @@
+<bill session="114" type="h" number="865" updated="2015-07-28T05:08:30-04:00">
+  <state datetime="2015-02-11">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-11"/>
+  </status>
+  <introduced datetime="2015-02-11"/>
+  <titles>
+    <title type="short" as="introduced">Good Samaritan Health Professionals Act of 2015</title>
+    <title type="official" as="introduced">To amend the Public Health Service Act to limit the liability of health care professionals who volunteer to provide health care services in response to a disaster.</title>
+  </titles>
+  <sponsor id="400032"/>
+  <cosponsors>
+    <cosponsor id="412625" joined="2015-05-13"/>
+    <cosponsor id="412436" joined="2015-02-11"/>
+    <cosponsor id="412250" joined="2015-02-11"/>
+    <cosponsor id="412427" joined="2015-04-16"/>
+    <cosponsor id="400052" joined="2015-02-11"/>
+    <cosponsor id="412622" joined="2015-06-23"/>
+    <cosponsor id="412555" joined="2015-07-07"/>
+    <cosponsor id="412482" joined="2015-07-21"/>
+    <cosponsor id="412476" joined="2015-02-11"/>
+    <cosponsor id="412485" joined="2015-02-11"/>
+    <cosponsor id="412278" joined="2015-02-11"/>
+    <cosponsor id="412446" joined="2015-04-15"/>
+    <cosponsor id="412460" joined="2015-06-18"/>
+    <cosponsor id="412421" joined="2015-07-27"/>
+    <cosponsor id="412568" joined="2015-06-09"/>
+    <cosponsor id="412475" joined="2015-07-15"/>
+    <cosponsor id="412431" joined="2015-06-23"/>
+    <cosponsor id="412310" joined="2015-02-11"/>
+    <cosponsor id="412314" joined="2015-02-11"/>
+    <cosponsor id="400363" joined="2015-02-11"/>
+    <cosponsor id="412461" joined="2015-06-09"/>
+    <cosponsor id="400440" joined="2015-02-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-11" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-02-11">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-02-11">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2015-02-13">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2015-03-16">
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU10" subcommittee="Constitution and Civil Justice" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Civil actions and liability"/>
+    <term name="Disaster relief and insurance"/>
+    <term name="Emergency medical services and trauma care"/>
+    <term name="Evidence and witnesses"/>
+    <term name="Federal preemption"/>
+    <term name="Health care quality"/>
+    <term name="Health personnel"/>
+    <term name="Social work, volunteer service, charitable organizations"/>
+  </subjects>
+  <amendments/>
+  <summary>2/11/2015--Introduced.
+Good Samaritan Health Professionals Act of 2015
+
+Amends the Public Health Service Act to shield a health care professional from liability under federal or state law for harm caused by any act or omission if: (1) the professional is serving as a volunteer in response to a disaster; and (2) the act or omission occurs during the period of the disaster, in the professional's capacity as a volunteer, and in a good faith belief that the individual being treated is in need of health care services.
+
+Makes exceptions where: (1) the harm was caused by an act or omission constituting willful or criminal misconduct, gross negligence, reckless misconduct, or a conscious flagrant indifference to the rights or safety of the individual harmed; or (2) the professional rendered the health care services under the influence of alcohol or an intoxicating drug.</summary>
+</bill>

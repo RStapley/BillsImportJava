@@ -1,0 +1,30 @@
+<bill session="114" type="h" number="2796" updated="2015-06-27T07:07:58-04:00">
+  <state datetime="2015-06-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-16"/>
+  </status>
+  <introduced datetime="2015-06-16"/>
+  <titles>
+    <title type="short" as="introduced">Youth Summer Jobs and Public Service Act of 2015</title>
+    <title type="official" as="introduced">To amend the Workforce Innovation and Opportunity Act to provide grants to States for summer employment programs for youth.</title>
+  </titles>
+  <sponsor id="412432"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-06-16" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Labor and employment"/>
+  </subjects>
+  <amendments/>
+  <summary>6/16/2015--Introduced.
+Youth Summer Jobs and Public Service Act of 2015
+
+ Amends the Workforce Innovation and Opportunity Act to direct the Department of Labor to award grants to states to help local areas with high concentrations of eligible youth to carry out summer employment programs to provide those youth with summer employment opportunities directly linked to academic and occupational learning.</summary>
+</bill>

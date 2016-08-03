@@ -1,0 +1,45 @@
+<bill session="114" type="h" number="2702" updated="2015-08-22T06:41:54-04:00">
+  <state datetime="2015-06-09">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-09"/>
+  </status>
+  <introduced datetime="2015-06-09"/>
+  <titles>
+    <title type="short" as="introduced">Safety Through Informed Consumers Act of 2015</title>
+    <title type="official" as="introduced">To amend title 49, United States Code, with respect to passenger motor vehicle crash avoidance information, and for other purposes.</title>
+  </titles>
+  <sponsor id="412426"/>
+  <cosponsors>
+    <cosponsor id="400033" joined="2015-06-09"/>
+    <cosponsor id="412575" joined="2015-07-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-09" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-06-12">
+      <text>Referred to the Subcommittee on Commerce, Manufacturing, and Trade.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF17" subcommittee="Commerce, Manufacturing, and Trade" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="1535"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Consumer affairs"/>
+    <term name="Motor vehicles"/>
+    <term name="Product safety and quality"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+  <summary>6/9/2015--Introduced.
+Safety Through Informed Consumers Act of 2015
+
+ Revises passenger motor vehicle information program requirements.
+
+Directs the Department of Transportation to ensure that passenger motor vehicle crash avoidance information is provided next to, and in the same format as, crashworthiness information at each place that the latter is made available to the public.</summary>
+</bill>

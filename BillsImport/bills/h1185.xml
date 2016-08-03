@@ -1,0 +1,85 @@
+<bill session="114" type="h" number="1185" updated="2015-07-28T05:08:38-04:00">
+  <state datetime="2015-02-27">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-27"/>
+  </status>
+  <introduced datetime="2015-02-27"/>
+  <titles>
+    <title type="short" as="introduced">Responsible Additions and Increases to Sustain Employee Health Benefits Act of 2015</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to provide the opportunity for responsible health savings to all American families.</title>
+  </titles>
+  <sponsor id="412461"/>
+  <cosponsors>
+    <cosponsor id="412500" joined="2015-05-05"/>
+    <cosponsor id="412642" joined="2015-02-27"/>
+    <cosponsor id="412655" joined="2015-02-27"/>
+    <cosponsor id="412541" joined="2015-05-05"/>
+    <cosponsor id="412565" joined="2015-05-05"/>
+    <cosponsor id="400029" joined="2015-05-05"/>
+    <cosponsor id="400032" joined="2015-02-27"/>
+    <cosponsor id="400052" joined="2015-03-03"/>
+    <cosponsor id="412537" joined="2015-05-05"/>
+    <cosponsor id="412622" joined="2015-05-14"/>
+    <cosponsor id="400071" joined="2015-02-27"/>
+    <cosponsor id="412236" joined="2015-07-09"/>
+    <cosponsor id="412658" joined="2015-05-05"/>
+    <cosponsor id="412651" joined="2015-05-05"/>
+    <cosponsor id="412555" joined="2015-02-27"/>
+    <cosponsor id="400100" joined="2015-05-14"/>
+    <cosponsor id="412544" joined="2015-02-27"/>
+    <cosponsor id="412477" joined="2015-05-05"/>
+    <cosponsor id="412488" joined="2015-03-18"/>
+    <cosponsor id="412524" joined="2015-06-01"/>
+    <cosponsor id="412479" joined="2015-02-27"/>
+    <cosponsor id="412327" joined="2015-02-27"/>
+    <cosponsor id="412397" joined="2015-02-27"/>
+    <cosponsor id="412454" joined="2015-02-27"/>
+    <cosponsor id="412280" joined="2015-02-27"/>
+    <cosponsor id="412511" joined="2015-06-01"/>
+    <cosponsor id="412422" joined="2015-02-27"/>
+    <cosponsor id="412460" joined="2015-05-05"/>
+    <cosponsor id="412603" joined="2015-05-05"/>
+    <cosponsor id="400209" joined="2015-05-05"/>
+    <cosponsor id="412566" joined="2015-06-01"/>
+    <cosponsor id="412465" joined="2015-02-27"/>
+    <cosponsor id="412558" joined="2015-02-27"/>
+    <cosponsor id="412503" joined="2015-05-14"/>
+    <cosponsor id="412487" joined="2015-05-05"/>
+    <cosponsor id="412466" joined="2015-05-05"/>
+    <cosponsor id="412568" joined="2015-05-14"/>
+    <cosponsor id="400316" joined="2015-02-27"/>
+    <cosponsor id="412633" joined="2015-02-27"/>
+    <cosponsor id="412489" joined="2015-03-03"/>
+    <cosponsor id="412310" joined="2015-07-27"/>
+    <cosponsor id="412314" joined="2015-02-27"/>
+    <cosponsor id="400365" joined="2015-05-05"/>
+    <cosponsor id="400376" joined="2015-02-27"/>
+    <cosponsor id="412509" joined="2015-02-27"/>
+    <cosponsor id="412648" joined="2015-06-09"/>
+    <cosponsor id="412514" joined="2015-06-09"/>
+    <cosponsor id="400402" joined="2015-05-05"/>
+    <cosponsor id="400406" joined="2015-02-27"/>
+    <cosponsor id="412405" joined="2015-06-23"/>
+    <cosponsor id="412640" joined="2015-02-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-27" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Income tax exclusion"/>
+  </subjects>
+  <amendments/>
+  <summary>2/27/2015--Introduced.
+Responsible Additions and Increases to Sustain Employee Health Benefits Act of 2015
+
+This bill amends the Internal Revenue Code, with respect to the tax exclusion for distributions from health flexible spending arrangements, to: (1) increase to $5,000, with an additional $500 for each additional employee dependent above two dependents, the maximum annual amount of funding for such plans, and (2) allow a carryforward into the next year for unused amounts in such plans.</summary>
+</bill>

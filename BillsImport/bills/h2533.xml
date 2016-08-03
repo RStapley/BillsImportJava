@@ -1,0 +1,31 @@
+<bill session="114" type="h" number="2533" updated="2015-06-20T06:39:41-04:00">
+  <state datetime="2015-05-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-21"/>
+  </status>
+  <introduced datetime="2015-05-21"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Foreign Relations Authorization Act, Fiscal Years 1990 and 1991 relating to local guard contracts abroad under the diplomatic security program, and for other purposes.</title>
+  </titles>
+  <sponsor id="412529"/>
+  <cosponsors>
+    <cosponsor id="412574" joined="2015-05-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-21" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+  </subjects>
+  <amendments/>
+  <summary>5/21/2015--Introduced.
+This bill amends the Foreign Relations Authorization Act, Fiscal Years 1990 and 1991 to:
+
+ authorize the Secretary of State to award a local guard contract abroad under the diplomatic security program on the basis of best value (as determined by a cost-technical trade off analysis); and report to Congress for each such contract providing the basis for the award and an explanation of the inability to satisfy the Department of State's needs by technically acceptable, lowest price evaluation award.</summary>
+</bill>

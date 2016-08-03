@@ -1,0 +1,38 @@
+<bill session="114" type="h" number="3167" updated="2015-08-01T04:51:15-04:00">
+  <state datetime="2015-07-22">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-22"/>
+  </status>
+  <introduced datetime="2015-07-22"/>
+  <titles>
+    <title type="short" as="introduced">Tax Administration Integrity Act</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to prohibit the designation of individuals who are not employees of the Internal Revenue Service to examine certain books and witnesses.</title>
+  </titles>
+  <sponsor id="412649"/>
+  <cosponsors>
+    <cosponsor id="412619" joined="2015-07-29"/>
+    <cosponsor id="412526" joined="2015-07-29"/>
+    <cosponsor id="400209" joined="2015-07-29"/>
+    <cosponsor id="412226" joined="2015-07-31"/>
+    <cosponsor id="412656" joined="2015-07-29"/>
+    <cosponsor id="412294" joined="2015-07-29"/>
+    <cosponsor id="412611" joined="2015-07-29"/>
+    <cosponsor id="412474" joined="2015-07-29"/>
+    <cosponsor id="400313" joined="2015-07-31"/>
+    <cosponsor id="412399" joined="2015-07-29"/>
+    <cosponsor id="412670" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-22" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+</bill>

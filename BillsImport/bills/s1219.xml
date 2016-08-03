@@ -1,0 +1,36 @@
+<bill session="114" type="s" number="1219" updated="2015-06-20T06:55:37-04:00">
+  <state datetime="2015-05-06">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-06"/>
+  </status>
+  <introduced datetime="2015-05-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Public Utility Regulatory Policies Act of 1978 to provide for the safe and reliable interconnection of distributed resources and to provide for the examination of the effects of net metering.</title>
+  </titles>
+  <sponsor id="300075"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-05-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2015-05-14">
+      <text>Committee on Energy and Natural Resources. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1213"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+  </subjects>
+  <amendments/>
+  <summary>5/6/2015--Introduced.
+This bill amends the Public Utility Regulatory Policies Act of 1978 to define "distributed resource" as an electric power source connected directly to the distribution network or on the customer side of the meter.
+
+State regulatory authorities shall by certain deadlines:
+
+ establish proceedings to examine the degree to which distributed resources contribute specified ancillary services, such as reactive supply, energy imbalance, and flexibility and ramping services, among others; prescribe measures to ensure adequate ancillary services so that grid interconnection for distributed resources is safe, reliable, and efficient; examine the effects of net metering and customer-owned distributed generation on resource planning of each electric utility, and determine whether electricity rates established for net metering service are just and reasonable and not unduly preferential or discriminatory.</summary>
+</bill>

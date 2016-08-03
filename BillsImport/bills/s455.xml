@@ -1,0 +1,45 @@
+<bill session="114" type="s" number="455" updated="2015-07-18T06:51:55-04:00">
+  <state datetime="2015-02-11">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-11"/>
+  </status>
+  <introduced datetime="2015-02-11"/>
+  <titles>
+    <title type="short" as="introduced">Innovators Job Creation Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to provide for special treatment of the research credit for certain startup companies, and for other purposes.</title>
+  </titles>
+  <sponsor id="300083"/>
+  <cosponsors>
+    <cosponsor id="412390" joined="2015-02-11"/>
+    <cosponsor id="300087" joined="2015-02-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-11" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="3058"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Employment taxes"/>
+    <term name="Income tax credits"/>
+    <term name="Research and development"/>
+    <term name="Small business"/>
+  </subjects>
+  <amendments/>
+  <summary>2/11/2015--Introduced.
+Innovators Job Creation Act of 2015
+
+Amends the Internal Revenue Code to allow a qualified small business to elect to use a portion of its tax credit for increasing research expenditures as an offset against its payroll tax liability under the Federal Insurance Contributions Act.
+
+Defines "qualified small business" as a corporation, a partnership, or a person other than a tax-exempt organization that had gross receipts of less than $5 million for the taxable year and that did not have gross receipts for any period preceding the five-taxable-year period ending with such taxable year.
+
+Limits: (1) the number of years a taxpayer may elect to offset payroll taxes under this Act to five, and (2) the annual amount of such offset to $250,000.
+
+Allows an offset of research tax credit amounts against&#160;alternative minimum tax liability.</summary>
+</bill>

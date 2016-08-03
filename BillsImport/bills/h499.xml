@@ -1,0 +1,46 @@
+<bill session="114" type="h" number="499" updated="2015-08-05T04:47:00-04:00">
+  <state datetime="2015-01-22">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-22"/>
+  </status>
+  <introduced datetime="2015-01-22"/>
+  <titles>
+    <title type="short" as="introduced">Sustainable Water Infrastructure Investment Act of 2015</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to provide that the volume cap for private activity bonds shall not apply to bonds for facilities for furnishing of water and sewage facilities.</title>
+  </titles>
+  <sponsor id="400116"/>
+  <cosponsors>
+    <cosponsor id="412469" joined="2015-06-03"/>
+    <cosponsor id="400648" joined="2015-08-04"/>
+    <cosponsor id="400160" joined="2015-06-03"/>
+    <cosponsor id="412454" joined="2015-03-25"/>
+    <cosponsor id="412511" joined="2015-04-28"/>
+    <cosponsor id="400309" joined="2015-01-22"/>
+    <cosponsor id="400333" joined="2015-03-25"/>
+    <cosponsor id="409888" joined="2015-07-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-22" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Infrastructure development"/>
+    <term name="Securities"/>
+    <term name="Solid waste and recycling"/>
+    <term name="State and local finance"/>
+    <term name="Water quality"/>
+    <term name="Water resources funding"/>
+    <term name="Water use and supply"/>
+  </subjects>
+  <amendments/>
+  <summary>1/22/2015--Introduced.
+Sustainable Water Infrastructure Investment Act of 2015
+
+Amends the Internal Revenue Code to exempt from state volume caps tax-exempt facility bonds for sewage and water supply facilities.</summary>
+</bill>

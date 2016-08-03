@@ -1,0 +1,27 @@
+<bill session="114" type="s" number="1882" updated="2015-08-05T15:46:56-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">Nepal Recovery Act</title>
+    <title type="official" as="introduced">A bill to support the sustainable recovery and rebuilding of Nepal following the recent, devastating earthquakes near Kathmandu.</title>
+  </titles>
+  <sponsor id="400064"/>
+  <cosponsors>
+    <cosponsor id="400222" joined="2015-07-29"/>
+    <cosponsor id="400253" joined="2015-08-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

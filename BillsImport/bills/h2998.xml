@@ -1,0 +1,41 @@
+<bill session="114" type="h" number="2998" updated="2015-07-30T04:50:11-04:00">
+  <state datetime="2015-07-09">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-09"/>
+  </status>
+  <introduced datetime="2015-07-09"/>
+  <titles>
+    <title type="short" as="introduced">CLAIM Act</title>
+    <title type="short" as="introduced">Claims Licensing Advancement for Interstate Matters Act</title>
+    <title type="official" as="introduced">To reform uniformity and reciprocity among States that license insurance claims adjusters and to facilitate prompt and efficient adjusting of insurance claims, and for other purposes.</title>
+  </titles>
+  <sponsor id="412479"/>
+  <cosponsors>
+    <cosponsor id="400032" joined="2015-07-09"/>
+    <cosponsor id="412533" joined="2015-07-21"/>
+    <cosponsor id="400116" joined="2015-07-29"/>
+    <cosponsor id="412257" joined="2015-07-09"/>
+    <cosponsor id="400195" joined="2015-07-09"/>
+    <cosponsor id="412310" joined="2015-07-09"/>
+    <cosponsor id="400348" joined="2015-07-09"/>
+    <cosponsor id="412461" joined="2015-07-09"/>
+    <cosponsor id="400406" joined="2015-07-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-09">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1027"/>
+    </action>
+    <action datetime="2015-07-09" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,41 @@
+<bill session="114" type="s" number="926" updated="2015-05-09T06:50:18-04:00">
+  <state datetime="2015-04-14">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-14"/>
+  </status>
+  <introduced datetime="2015-04-14"/>
+  <titles>
+    <title type="short" as="introduced">Grace Period Restoration Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend the patent law to promote basic research, to stimulate publication of scientific documents, to encourage collaboration in scientific endeavors, to improve the transfer of technology to the private sector, and for other purposes.</title>
+  </titles>
+  <sponsor id="400013"/>
+  <cosponsors>
+    <cosponsor id="400418" joined="2015-04-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-14" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="1791"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Intellectual property"/>
+  </subjects>
+  <amendments/>
+  <summary>4/14/2015--Introduced.
+Grace Period Restoration Act of 2015
+
+Amends federal patent law to revise the one-year grace period under the Leahy-Smith America Invents Act (AIA) that prohibits certain pre-filing disclosures made during the year preceding the effective filing date of a claimed invention from being considered prior art that would make the claim ineligible for a patent based on lack of novelty or obvious subject matter grounds. (A disclosure that is prior art generally means that a patent cannot be issued for a claimed invention because the invention was already patented, described in a printed publication, in public use, on sale, available to the public, or described in an issued patent or a previously filed application.)
+
+Prohibits an inventor's or any other person's pre-filing disclosure from barring the patentability of certain claims based on lack of novelty or obvious subject matter grounds if, before such disclosure and within the one-year period before the filing date, the claimed invention was already publicly disclosed in a printed publication by the inventor, a joint inventor, or another who obtained the claimed invention from the inventor or a joint inventor. Allows an inventor who discloses an invention in a printed publication in such a manner in the year before filing a patent claim for the invention to remain entitled to the patent, regardless of any subsequent disclosures by third parties.
+
+Excludes certain disclosures from being considered prior art under the revised grace period.
+
+Requires the amendments made by this Act to take effect as if enacted as part of the AIA.</summary>
+</bill>

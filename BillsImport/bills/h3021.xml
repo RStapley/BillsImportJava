@@ -1,0 +1,35 @@
+<bill session="114" type="h" number="3021" updated="2015-08-11T04:48:29-04:00">
+  <state datetime="2015-07-10">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-10"/>
+  </status>
+  <introduced datetime="2015-07-10"/>
+  <titles>
+    <title type="short" as="introduced">Aerial Infrastructure Route Survey Act of 2015</title>
+    <title type="short" as="introduced">AIR Survey Act of 2015</title>
+    <title type="official" as="introduced">To amend the Natural Gas Act to allow the use of aerial survey data for certain applications, and for other purposes.</title>
+  </titles>
+  <sponsor id="412431"/>
+  <cosponsors>
+    <cosponsor id="400271" joined="2015-07-10"/>
+    <cosponsor id="412568" joined="2015-07-10"/>
+    <cosponsor id="412315" joined="2015-07-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-10" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-07-17">
+      <text>Referred to the Subcommittee on Energy and Power.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,31 @@
+<bill session="114" type="h" number="3093" updated="2015-07-29T04:49:06-04:00">
+  <state datetime="2015-07-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-16"/>
+  </status>
+  <introduced datetime="2015-07-16"/>
+  <titles>
+    <title type="short" as="introduced">Correct the Safety Analysis Act</title>
+    <title type="official" as="introduced">To direct the Secretary of Transportation to make certain changes in the implementation of the Compliance, Safety, Accountability program of the Federal Motor Carrier Safety Administration, and for other purposes.</title>
+  </titles>
+  <sponsor id="412463"/>
+  <cosponsors>
+    <cosponsor id="400071" joined="2015-07-23"/>
+    <cosponsor id="412552" joined="2015-07-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-16" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2015-07-17">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW12" subcommittee="Highways and Transit" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,29 @@
+<bill session="114" type="s" number="1733" updated="2015-07-18T07:02:40-04:00">
+  <state datetime="2015-07-09">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-09"/>
+  </status>
+  <introduced datetime="2015-07-09"/>
+  <titles>
+    <title type="short" as="introduced">Forest Incentives Program Act of 2015</title>
+    <title type="official" as="introduced">A bill to require the Secretary of Agriculture to establish a forest incentives program to keep forests intact and sequester carbon on private forest land of the United States, and for other purposes.</title>
+  </titles>
+  <sponsor id="412323"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-09" state="REFERRED">
+      <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+    </action>
+    <action datetime="2015-07-16">
+      <text>Committee on Agriculture, Nutrition, and Forestry. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+</bill>

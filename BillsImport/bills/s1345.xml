@@ -1,0 +1,49 @@
+<bill session="114" type="s" number="1345" updated="2015-07-30T04:52:32-04:00">
+  <state datetime="2015-05-14">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-14"/>
+  </status>
+  <introduced datetime="2015-05-14"/>
+  <titles>
+    <title type="short" as="introduced">Access to Quality Diabetes Education Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act to improve access to diabetes self-management training by authorizing certified diabetes educators to provide diabetes self-management training services, including as part of telehealth services, under part B of the Medicare program.</title>
+  </titles>
+  <sponsor id="412323"/>
+  <cosponsors>
+    <cosponsor id="400061" joined="2015-07-28"/>
+    <cosponsor id="412205" joined="2015-05-14"/>
+    <cosponsor id="412378" joined="2015-05-14"/>
+    <cosponsor id="400222" joined="2015-05-20"/>
+    <cosponsor id="412242" joined="2015-05-14"/>
+    <cosponsor id="300093" joined="2015-07-29"/>
+    <cosponsor id="412244" joined="2015-07-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-14" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="1726"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Congressional oversight"/>
+    <term name="Digestive and metabolic diseases"/>
+    <term name="Drug therapy"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="Medicare"/>
+  </subjects>
+  <amendments/>
+  <summary>5/14/2015--Introduced.
+Access to Quality Diabetes Education Act of 2015 
+
+Amends title XVIII (Medicare) of the Social Security Act to recognize state-licensed or -registered certified diabetes educators or state-licensed or -registered health care professionals who specialize in teaching individuals with diabetes to develop the necessary skills and knowledge to manage the individual's diabetic condition and are certified as a diabetes educator by a recognized certifying body.
+
+Directs the Government Accountability Office to study the barriers that exist for Medicare beneficiaries with diabetes in accessing diabetes self-management training services under the Medicare program.
+
+Requires the Director of the Agency for Health Care Research and Quality of the Department of Health and Human Services to develop a series of recommendations on effective outreach methods to educate primary care physicians and other health care providers as well as the public about the benefits of diabetes self-management training.</summary>
+</bill>

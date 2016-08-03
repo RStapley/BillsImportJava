@@ -1,0 +1,95 @@
+<bill session="114" type="h" number="1739" updated="2015-06-26T04:47:55-04:00">
+  <state datetime="2015-04-13">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-13"/>
+  </status>
+  <introduced datetime="2015-04-13"/>
+  <titles>
+    <title type="short" as="introduced">FIREARM Act</title>
+    <title type="official" as="introduced">To prohibit the Federal Government from requiring race or ethnicity to be disclosed in connection with the transfer of a firearm.</title>
+  </titles>
+  <sponsor id="412478"/>
+  <cosponsors>
+    <cosponsor id="412630" joined="2015-04-30"/>
+    <cosponsor id="412625" joined="2015-04-29"/>
+    <cosponsor id="412655" joined="2015-04-21"/>
+    <cosponsor id="400029" joined="2015-06-04"/>
+    <cosponsor id="400032" joined="2015-04-13"/>
+    <cosponsor id="412619" joined="2015-05-19"/>
+    <cosponsor id="400068" joined="2015-04-30"/>
+    <cosponsor id="400655" joined="2015-04-30"/>
+    <cosponsor id="412555" joined="2015-04-13"/>
+    <cosponsor id="400089" joined="2015-04-30"/>
+    <cosponsor id="400116" joined="2015-04-13"/>
+    <cosponsor id="412482" joined="2015-04-13"/>
+    <cosponsor id="412479" joined="2015-04-13"/>
+    <cosponsor id="412476" joined="2015-04-13"/>
+    <cosponsor id="412480" joined="2015-04-30"/>
+    <cosponsor id="400651" joined="2015-05-05"/>
+    <cosponsor id="412397" joined="2015-04-13"/>
+    <cosponsor id="400157" joined="2015-05-05"/>
+    <cosponsor id="412434" joined="2015-06-04"/>
+    <cosponsor id="400175" joined="2015-04-22"/>
+    <cosponsor id="412623" joined="2015-06-08"/>
+    <cosponsor id="412429" joined="2015-04-13"/>
+    <cosponsor id="412460" joined="2015-06-25"/>
+    <cosponsor id="400206" joined="2015-04-30"/>
+    <cosponsor id="412419" joined="2015-06-04"/>
+    <cosponsor id="412510" joined="2015-04-30"/>
+    <cosponsor id="412191" joined="2015-04-14"/>
+    <cosponsor id="412292" joined="2015-06-18"/>
+    <cosponsor id="412294" joined="2015-04-30"/>
+    <cosponsor id="400279" joined="2015-06-08"/>
+    <cosponsor id="412568" joined="2015-04-30"/>
+    <cosponsor id="400441" joined="2015-05-19"/>
+    <cosponsor id="412660" joined="2015-05-12"/>
+    <cosponsor id="412409" joined="2015-05-19"/>
+    <cosponsor id="412302" joined="2015-04-30"/>
+    <cosponsor id="412551" joined="2015-06-23"/>
+    <cosponsor id="400652" joined="2015-04-13"/>
+    <cosponsor id="412633" joined="2015-05-05"/>
+    <cosponsor id="412309" joined="2015-05-19"/>
+    <cosponsor id="412489" joined="2015-05-20"/>
+    <cosponsor id="412310" joined="2015-04-30"/>
+    <cosponsor id="400341" joined="2015-05-20"/>
+    <cosponsor id="412641" joined="2015-04-30"/>
+    <cosponsor id="400606" joined="2015-05-20"/>
+    <cosponsor id="400367" joined="2015-04-13"/>
+    <cosponsor id="412217" joined="2015-04-30"/>
+    <cosponsor id="412392" joined="2015-04-30"/>
+    <cosponsor id="412548" joined="2015-05-26"/>
+    <cosponsor id="412213" joined="2015-04-30"/>
+    <cosponsor id="412574" joined="2015-04-30"/>
+    <cosponsor id="412410" joined="2015-06-04"/>
+    <cosponsor id="400627" joined="2015-04-30"/>
+    <cosponsor id="412578" joined="2015-04-30"/>
+    <cosponsor id="400433" joined="2015-05-20"/>
+    <cosponsor id="412402" joined="2015-05-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-13" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-05-15">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1385"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Criminal justice information and records"/>
+    <term name="Firearms and explosives"/>
+    <term name="Racial and ethnic relations"/>
+  </subjects>
+  <amendments/>
+  <summary>4/13/2015--Introduced.
+FIREARM Act
+
+ Prohibits the federal government from requiring disclosure of the race or ethnicity of a person to whom a firearm is transferred.</summary>
+</bill>

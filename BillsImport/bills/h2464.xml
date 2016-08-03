@@ -1,0 +1,58 @@
+<bill session="114" type="h" number="2464" updated="2015-08-01T06:40:08-04:00">
+  <state datetime="2015-05-20">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-20"/>
+  </status>
+  <introduced datetime="2015-05-20"/>
+  <titles>
+    <title type="short" as="introduced">Demanding Accountability for Veterans Act of 2015</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to improve the accountability of the Secretary of Veterans Affairs to the Inspector General of the Department of Veterans Affairs.</title>
+  </titles>
+  <sponsor id="412436"/>
+  <cosponsors>
+    <cosponsor id="412630" joined="2015-07-10"/>
+    <cosponsor id="400636" joined="2015-07-16"/>
+    <cosponsor id="412271" joined="2015-07-21"/>
+    <cosponsor id="412651" joined="2015-07-10"/>
+    <cosponsor id="412555" joined="2015-07-15"/>
+    <cosponsor id="412457" joined="2015-07-21"/>
+    <cosponsor id="400209" joined="2015-07-16"/>
+    <cosponsor id="412641" joined="2015-07-13"/>
+    <cosponsor id="412509" joined="2015-05-20"/>
+    <cosponsor id="412525" joined="2015-07-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-20" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2015-06-11">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2015-07-14">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="2015-07-22">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2015-07-22">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <summary>5/20/2015--Introduced.
+Demanding Accountability for Veterans Act of 2015
+
+ Requires the Inspector General (IG) of the Department of Veterans Affairs (VA), at the same time the IG submits a report to the VA, to submit a copy of such report to the House and Senate Committees on Veterans' Affairs, including: (1) an explanation of any changes to the report recommended by the VA Secretary, and (2) a list of each manager responsible for an issue in a report that recommends actions to address to a public health or safety issue in the VA.
+
+Requires the VA: (1) within seven days after such submission, to notify each such manager of such issue; (2) to direct such manager to resolve the issue, (3) to provide the manager with appropriate counseling and a mitigation plan for resolving the issue; and (4) to ensure that the manager's performance review includes an evaluation of actions taken regarding such issue.
+
+Prohibits the Secretary from paying a bonus or award to any such manager if such issue remains unresolved.</summary>
+</bill>

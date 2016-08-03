@@ -1,0 +1,46 @@
+<bill session="114" type="h" number="1502" updated="2015-06-25T04:47:26-04:00">
+  <state datetime="2015-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-19"/>
+  </status>
+  <introduced datetime="2015-03-19"/>
+  <titles>
+    <title type="short" as="introduced">Medicaid Parity Act of 2015</title>
+    <title type="official" as="introduced">To amend title XIX of the Social Security Act to extend for 5 years payment parity with Medicare for primary care services furnished under the Medicaid program, and for other purposes.</title>
+  </titles>
+  <sponsor id="400240"/>
+  <cosponsors>
+    <cosponsor id="412236" joined="2015-03-24"/>
+    <cosponsor id="400100" joined="2015-03-19"/>
+    <cosponsor id="400162" joined="2015-03-19"/>
+    <cosponsor id="400170" joined="2015-03-19"/>
+    <cosponsor id="400237" joined="2015-03-19"/>
+    <cosponsor id="400259" joined="2015-06-24"/>
+    <cosponsor id="400262" joined="2015-03-19"/>
+    <cosponsor id="412585" joined="2015-03-25"/>
+    <cosponsor id="400333" joined="2015-03-19"/>
+    <cosponsor id="400360" joined="2015-03-19"/>
+    <cosponsor id="400363" joined="2015-03-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-19" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-03-20">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+  <summary>3/19/2015--Introduced.
+Medicaid Parity Act of 2015
+
+ Amends title XIX (Medicaid) of the Social Security Act to extend through 2019: (1) Medicaid payment parity with Medicare for primary care services furnished under the Medicaid program, and (2) the increased (to 100%) federal medical assistance percentage (FMAP, or federal matching rate) for additional payments for primary care services.</summary>
+</bill>

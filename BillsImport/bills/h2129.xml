@@ -1,0 +1,33 @@
+<bill session="114" type="h" number="2129" updated="2015-06-27T06:54:33-04:00">
+  <state datetime="2015-04-30">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-30"/>
+  </status>
+  <introduced datetime="2015-04-30"/>
+  <titles>
+    <title type="short" as="introduced">Online Credit Card Disclosure Act of 2015</title>
+    <title type="official" as="introduced">To strengthen the disclosure requirements for creditors under the Truth in Lending Act.</title>
+  </titles>
+  <sponsor id="400326"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-04-30" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Consumer affairs"/>
+    <term name="Consumer credit"/>
+    <term name="Internet and video services"/>
+  </subjects>
+  <amendments/>
+  <summary>4/30/2015--Introduced.
+Online Credit Card Disclosure Act of 2015
+
+Amends the Truth in Lending Act to require the billing statement of a consumer's account under an open end online credit plan to make specified disclosures in a conspicuous and prominent location on its webpage with each billing cycle.</summary>
+</bill>

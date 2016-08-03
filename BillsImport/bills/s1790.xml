@@ -1,0 +1,47 @@
+<bill session="114" type="s" number="1790" updated="2015-07-25T07:04:11-04:00">
+  <state datetime="2015-07-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-16"/>
+  </status>
+  <introduced datetime="2015-07-16"/>
+  <titles>
+    <title type="short" as="introduced">Safe and Affordable Prescription Drugs Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend the Federal Food, Drug, and Cosmetic Act to allow for the personal importation of safe and affordable prescription drugs from approved pharmacies.</title>
+  </titles>
+  <sponsor id="400418"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-16" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="122"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Africa"/>
+    <term name="Asia"/>
+    <term name="Australia"/>
+    <term name="Canada"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Drug safety, medical device, and laboratory regulation"/>
+    <term name="Europe"/>
+    <term name="European Union"/>
+    <term name="Government information and archives"/>
+    <term name="Israel"/>
+    <term name="Japan"/>
+    <term name="Middle East"/>
+    <term name="New Zealand"/>
+    <term name="Oceania"/>
+    <term name="Prescription drugs"/>
+    <term name="South Africa"/>
+    <term name="Switzerland"/>
+    <term name="Trade restrictions"/>
+  </subjects>
+  <amendments/>
+</bill>

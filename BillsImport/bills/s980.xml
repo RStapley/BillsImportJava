@@ -1,0 +1,49 @@
+<bill session="114" type="s" number="980" updated="2015-05-15T04:49:22-04:00">
+  <state datetime="2015-04-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-16"/>
+  </status>
+  <introduced datetime="2015-04-16"/>
+  <titles>
+    <title type="short" as="introduced">Defense of Environment and Property Act of 2015</title>
+    <title type="official" as="introduced">A bill to clarify the definition of navigable waters, and for other purposes.</title>
+  </titles>
+  <sponsor id="412492"/>
+  <cosponsors>
+    <cosponsor id="412573" joined="2015-04-16"/>
+    <cosponsor id="300048" joined="2015-05-14"/>
+    <cosponsor id="300052" joined="2015-04-16"/>
+    <cosponsor id="412495" joined="2015-04-16"/>
+    <cosponsor id="300072" joined="2015-04-16"/>
+    <cosponsor id="412491" joined="2015-04-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-16" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Administrative remedies"/>
+    <term name="Army Corps of Engineers"/>
+    <term name="Dams and canals"/>
+    <term name="Environmental Protection Agency (EPA)"/>
+    <term name="Environmental regulatory procedures"/>
+    <term name="Government liability"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Judicial review and appeals"/>
+    <term name="Land use and conservation"/>
+    <term name="Navigation, waterways, harbors"/>
+    <term name="Property rights"/>
+    <term name="State and local government operations"/>
+    <term name="Water quality"/>
+    <term name="Water use and supply"/>
+    <term name="Wetlands"/>
+  </subjects>
+  <amendments/>
+</bill>

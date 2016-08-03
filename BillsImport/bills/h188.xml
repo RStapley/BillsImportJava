@@ -1,0 +1,83 @@
+<bill session="114" type="h" number="188" updated="2015-07-29T04:47:25-04:00">
+  <state datetime="2015-01-07">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-07"/>
+  </status>
+  <introduced datetime="2015-01-07"/>
+  <titles>
+    <title type="short" as="introduced">TIME Act</title>
+    <title type="short" as="introduced">Transitioning to Integrated and Meaningful Employment Act</title>
+    <title type="official" as="introduced">To phase out special wage certificates under the Fair Labor Standards Act of 1938 under which individuals with disabilities may be employed at subminimum wage rates.</title>
+  </titles>
+  <sponsor id="412280"/>
+  <cosponsors>
+    <cosponsor id="412630" joined="2015-02-25"/>
+    <cosponsor id="412250" joined="2015-01-07"/>
+    <cosponsor id="400030" joined="2015-02-03"/>
+    <cosponsor id="400032" joined="2015-01-14"/>
+    <cosponsor id="400047" joined="2015-02-03"/>
+    <cosponsor id="400077" joined="2015-04-28"/>
+    <cosponsor id="400081" joined="2015-02-11"/>
+    <cosponsor id="412457" joined="2015-04-28"/>
+    <cosponsor id="400646" joined="2015-02-03"/>
+    <cosponsor id="400640" joined="2015-02-11"/>
+    <cosponsor id="412327" joined="2015-05-12"/>
+    <cosponsor id="400163" joined="2015-06-23"/>
+    <cosponsor id="400170" joined="2015-02-25"/>
+    <cosponsor id="412486" joined="2015-01-26"/>
+    <cosponsor id="400219" joined="2015-01-28"/>
+    <cosponsor id="412557" joined="2015-02-27"/>
+    <cosponsor id="400246" joined="2015-02-11"/>
+    <cosponsor id="412294" joined="2015-01-28"/>
+    <cosponsor id="412468" joined="2015-01-28"/>
+    <cosponsor id="400263" joined="2015-02-11"/>
+    <cosponsor id="412189" joined="2015-02-11"/>
+    <cosponsor id="412568" joined="2015-03-19"/>
+    <cosponsor id="400291" joined="2015-02-11"/>
+    <cosponsor id="412306" joined="2015-02-25"/>
+    <cosponsor id="400326" joined="2015-02-11"/>
+    <cosponsor id="400660" joined="2015-01-28"/>
+    <cosponsor id="412647" joined="2015-03-17"/>
+    <cosponsor id="412519" joined="2015-02-11"/>
+    <cosponsor id="400360" joined="2015-07-28"/>
+    <cosponsor id="400378" joined="2015-02-25"/>
+    <cosponsor id="412259" joined="2015-02-11"/>
+    <cosponsor id="412514" joined="2015-02-11"/>
+    <cosponsor id="400402" joined="2015-02-03"/>
+    <cosponsor id="412636" joined="2015-02-27"/>
+    <cosponsor id="400414" joined="2015-01-28"/>
+    <cosponsor id="400415" joined="2015-02-03"/>
+    <cosponsor id="400417" joined="2015-02-11"/>
+    <cosponsor id="412410" joined="2015-01-26"/>
+    <cosponsor id="412239" joined="2015-02-11"/>
+    <cosponsor id="412255" joined="2015-02-03"/>
+    <cosponsor id="412628" joined="2015-02-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-07" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+    <action datetime="2015-04-29">
+      <text>Referred to the Subcommittee on Workforce Protections.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee activity="Referral" code="HSED10" subcommittee="Workforce Protections" name="House Education and the Workforce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Disability and paralysis"/>
+    <term name="Wages and earnings"/>
+  </subjects>
+  <amendments/>
+  <summary>1/7/2015--Introduced.
+Transitioning to Integrated and Meaningful Employment Act or the TIME Act
+
+Directs the Secretary of Labor to discontinue issuing to any new profit or non-profit or governmental entity special wage certificates (which permit individuals with disabilities, including individuals employed in agriculture, to be paid at lower than minimum wages).
+
+Prescribes requirements for a three-year phase-out of all certificates.
+
+Amends the Fair Labor Standards Act of 1938 to repeal authority and requirements for the issuance of such certificates three years after enactment of this Act. Requires revocation of any certificates remaining at that time.</summary>
+</bill>

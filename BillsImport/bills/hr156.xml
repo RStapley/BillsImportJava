@@ -1,0 +1,57 @@
+<bill session="114" type="hr" number="156" updated="2015-05-09T06:20:26-04:00">
+  <state datetime="2015-03-18">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-18"/>
+  </status>
+  <introduced datetime="2015-03-18"/>
+  <titles>
+    <title type="official" as="introduced">Recognizing the cultural and historical significance of Nowruz.</title>
+  </titles>
+  <sponsor id="400185"/>
+  <cosponsors>
+    <cosponsor id="412258" joined="2015-03-18"/>
+    <cosponsor id="412379" joined="2015-03-18"/>
+    <cosponsor id="412272" joined="2015-03-18"/>
+    <cosponsor id="400080" joined="2015-03-18"/>
+    <cosponsor id="412263" joined="2015-03-18"/>
+    <cosponsor id="400199" joined="2015-03-18"/>
+    <cosponsor id="412616" joined="2015-03-18"/>
+    <cosponsor id="400245" joined="2015-04-13"/>
+    <cosponsor id="412521" joined="2015-03-18"/>
+    <cosponsor id="400251" joined="2015-03-18"/>
+    <cosponsor id="400273" joined="2015-03-18"/>
+    <cosponsor id="412523" joined="2015-03-18"/>
+    <cosponsor id="400379" joined="2015-03-18"/>
+    <cosponsor id="412514" joined="2015-03-25"/>
+    <cosponsor id="412644" joined="2015-03-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-18" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Arts, culture, religion"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="Historical and cultural resources"/>
+    <term name="Human rights"/>
+    <term name="Iran"/>
+    <term name="Middle East"/>
+    <term name="Racial and ethnic relations"/>
+    <term name="Religion"/>
+  </subjects>
+  <amendments/>
+  <summary>3/18/2015--Introduced.
+Recognizes the cultural and historical significance of Nowruz.
+
+ Expresses appreciation for the contributions of Iranian-Americans to U.S. society in observance of Nowruz.
+
+ Recognizes the aspirations of all people, including the people of Iran, for human rights and religious tolerance as embodied in the spirit of Nowruz.
+
+Wishes Iranian-Americans, the people of Iran, and all those who observe this holiday a prosperous new year.</summary>
+</bill>

@@ -1,0 +1,83 @@
+<bill session="114" type="s" number="713" updated="2015-07-31T04:47:35-04:00">
+  <state datetime="2015-03-11">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-11"/>
+  </status>
+  <introduced datetime="2015-03-11"/>
+  <titles>
+    <title type="short" as="introduced">International Violence Against Women Act of 2015</title>
+    <title type="official" as="introduced">A bill to prevent international violence against women, and for other purposes.</title>
+  </titles>
+  <sponsor id="300011"/>
+  <cosponsors>
+    <cosponsor id="400013" joined="2015-05-21"/>
+    <cosponsor id="412490" joined="2015-06-10"/>
+    <cosponsor id="412598" joined="2015-05-12"/>
+    <cosponsor id="300018" joined="2015-04-29"/>
+    <cosponsor id="300025" joined="2015-03-11"/>
+    <cosponsor id="412390" joined="2015-04-15"/>
+    <cosponsor id="300038" joined="2015-06-24"/>
+    <cosponsor id="300043" joined="2015-06-08"/>
+    <cosponsor id="412223" joined="2015-03-16"/>
+    <cosponsor id="412200" joined="2015-04-13"/>
+    <cosponsor id="400222" joined="2015-03-11"/>
+    <cosponsor id="412242" joined="2015-05-13"/>
+    <cosponsor id="400253" joined="2015-05-12"/>
+    <cosponsor id="400272" joined="2015-03-11"/>
+    <cosponsor id="412325" joined="2015-06-01"/>
+    <cosponsor id="412194" joined="2015-07-21"/>
+    <cosponsor id="300076" joined="2015-05-13"/>
+    <cosponsor id="412305" joined="2015-07-30"/>
+    <cosponsor id="400357" joined="2015-03-16"/>
+    <cosponsor id="412323" joined="2015-03-11"/>
+    <cosponsor id="300093" joined="2015-04-20"/>
+    <cosponsor id="400413" joined="2015-05-20"/>
+    <cosponsor id="412247" joined="2015-05-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-11" state="REFERRED">
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1340"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Congressional oversight"/>
+    <term name="Crime prevention"/>
+    <term name="Crimes against children"/>
+    <term name="Crimes against women"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Criminal justice information and records"/>
+    <term name="Department of State"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Foreign aid and international relief"/>
+    <term name="Government information and archives"/>
+    <term name="Human rights"/>
+    <term name="Human trafficking"/>
+    <term name="Law enforcement officers"/>
+    <term name="Marriage and family status"/>
+    <term name="Performance measurement"/>
+    <term name="Sex offenses"/>
+    <term name="U.S. Agency for International Development (USAID)"/>
+    <term name="Violent crime"/>
+    <term name="Women in business"/>
+    <term name="Women's education"/>
+    <term name="Women's rights"/>
+  </subjects>
+  <amendments/>
+  <summary>3/11/2015--Introduced.
+International Violence Against Women Act of 2015
+
+Directs the Secretary of State to establish an Office of Global Women's Issues which shall be headed by an Ambassador-at-Large for Global Women's Issues.
+
+Establishes in the U.S. Agency for International Development (USAID) a Senior Coordinator for Gender Equality and Women's Empowerment who shall direct USAID activities, policies, programs, and funding relating to gender equality and women's empowerment.
+
+Directs the Ambassador-at-Large to: (1) develop or update annually for five years (after the 2012 United States Strategy to Prevent and Respond to Gender-Based Violence Globally which shall be deemed to be the first required strategy) a U.S. global strategy to prevent and respond to violence against women and girls, and (2) coordinate U.S. government efforts regarding gender integration and advancing the status of women and girls in U.S. foreign policy.
+
+Directs the Ambassador-at-Large and Senior Coordinator to: (1) include in each strategy an analysis of best practices for preventing and addressing violence against women and girls internationally; and (2) develop a plan for monitoring programs, projects, and activities carried out under this Act.</summary>
+</bill>

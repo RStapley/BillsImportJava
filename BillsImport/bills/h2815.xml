@@ -1,0 +1,36 @@
+<bill session="114" type="h" number="2815" updated="2015-07-08T18:47:33-04:00">
+  <state datetime="2015-06-17">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-17"/>
+  </status>
+  <introduced datetime="2015-06-17"/>
+  <titles>
+    <title type="short" as="introduced">Assuring Quality Outcomes in Higher Education Act of 2015</title>
+    <title type="official" as="introduced">To require the Secretary of Education to complete a data analysis study on the impacts of all income- or employment-based outcome measures of quality in higher education before issuing or implementing regulations utilizing such metrics, and for other purposes.</title>
+  </titles>
+  <sponsor id="400606"/>
+  <cosponsors>
+    <cosponsor id="400141" joined="2015-06-17"/>
+    <cosponsor id="412620" joined="2015-06-23"/>
+    <cosponsor id="412276" joined="2015-07-08"/>
+    <cosponsor id="400170" joined="2015-06-17"/>
+    <cosponsor id="412283" joined="2015-06-17"/>
+    <cosponsor id="412465" joined="2015-06-17"/>
+    <cosponsor id="412426" joined="2015-06-17"/>
+    <cosponsor id="400356" joined="2015-06-23"/>
+    <cosponsor id="412509" joined="2015-06-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-17" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+  </subjects>
+  <amendments/>
+</bill>

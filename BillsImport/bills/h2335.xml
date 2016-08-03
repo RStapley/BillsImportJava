@@ -1,0 +1,47 @@
+<bill session="114" type="h" number="2335" updated="2015-07-25T06:38:30-04:00">
+  <state datetime="2015-05-14">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-14"/>
+  </status>
+  <introduced datetime="2015-05-14"/>
+  <titles>
+    <title type="short" as="introduced">Stop Tampering of Prescription Pills Act of 2015</title>
+    <title type="official" as="introduced">To amend the Federal Food, Drug, and Cosmetic Act to incentivize the development of abuse-deterrent drugs.</title>
+  </titles>
+  <sponsor id="412435"/>
+  <cosponsors>
+    <cosponsor id="400004" joined="2015-05-14"/>
+    <cosponsor id="412196" joined="2015-05-14"/>
+    <cosponsor id="412600" joined="2015-07-08"/>
+    <cosponsor id="412543" joined="2015-05-14"/>
+    <cosponsor id="400249" joined="2015-05-14"/>
+    <cosponsor id="400263" joined="2015-05-14"/>
+    <cosponsor id="400340" joined="2015-05-14"/>
+    <cosponsor id="412311" joined="2015-05-14"/>
+    <cosponsor id="400360" joined="2015-05-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-14" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-05-15">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Administrative remedies"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Drug safety, medical device, and laboratory regulation"/>
+    <term name="Drug, alcohol, tobacco use"/>
+    <term name="Food and Drug Administration (FDA)"/>
+    <term name="Prescription drugs"/>
+  </subjects>
+  <amendments/>
+</bill>

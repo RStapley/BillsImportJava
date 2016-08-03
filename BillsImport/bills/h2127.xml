@@ -1,0 +1,77 @@
+<bill session="114" type="h" number="2127" updated="2015-08-01T06:37:17-04:00">
+  <state datetime="2015-07-27T16:55:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2015-07-27T16:55:00-04:00"/>
+  </status>
+  <introduced datetime="2015-04-30"/>
+  <titles>
+    <title type="short" as="introduced">Securing Expedited Screening Act</title>
+    <title type="short" as="reported to house">Securing Expedited Screening Act</title>
+    <title type="short" as="passed house">Securing Expedited Screening Act</title>
+    <title type="official" as="introduced">To direct the Administrator of the Transportation Security Administration to limit access to expedited airport security screening at an airport security checkpoint to participants of the PreCheck program and other known low-risk passengers, and for other purposes.</title>
+  </titles>
+  <sponsor id="400402"/>
+  <cosponsors>
+    <cosponsor id="412649" joined="2015-04-30"/>
+    <cosponsor id="412647" joined="2015-04-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-30" state="REFERRED">
+      <text>Referred to the House Committee on Homeland Security.</text>
+    </action>
+    <action datetime="2015-05-15">
+      <text>Referred to the Subcommittee on Transportation Security.</text>
+    </action>
+    <action datetime="2015-06-25">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-06-25" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+    <action datetime="2015-07-22T15:25:00-04:00">
+      <text>Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-220.</text>
+    </action>
+    <calendar datetime="2015-07-22T15:25:00-04:00" calendar="Union" number="166">
+      <text>Placed on the Union Calendar, Calendar No. 166.</text>
+    </calendar>
+    <action datetime="2015-07-27T16:49:00-04:00">
+      <text>Mr. Katko moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2015-07-27T16:49:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5502-5504" label="consideration"/>
+    </action>
+    <action datetime="2015-07-27T16:49:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2127.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2015-07-27T16:55:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H5502-5503" label="text"/>
+    </vote>
+    <action datetime="2015-07-27T16:55:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2015-07-28">
+      <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="HSHM07" subcommittee="Transportation Security" name="House Homeland Security"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Aviation and airports"/>
+    <term name="Congressional oversight"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+  <summary>4/30/2015--Introduced.
+Securing Expedited Screening Act
+
+The Transportation Security Administration (TSA) of the Department of Homeland Security shall limit access to expedited airport security screening at airport security checkpoints to only a passenger who:
+
+ voluntarily submits biographic and biometric information for a security risk assessment and has an approved PreCheck program application; is traveling as air transportation security or a member of the Armed Forces, including any accompanying family member; has been designated by the TSA as known and low-risk; or is 75 years or older, or 12 years or younger and traveling with a parent or guardian who is a participant in the PreCheck program. The TSA may provide access to expedited airport security screening to additional passengers through an alternate method upon submission to Congress of an independent assessment of its security effectiveness.</summary>
+</bill>

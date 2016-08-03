@@ -1,0 +1,48 @@
+<bill session="114" type="s" number="391" updated="2015-05-19T04:48:11-04:00">
+  <state datetime="2015-02-05">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-05"/>
+  </status>
+  <introduced datetime="2015-02-05"/>
+  <titles>
+    <title type="short" as="introduced">National Right-to-Work Act</title>
+    <title type="official" as="introduced">A bill to preserve and protect the free choice of individual employees to form, join, or assist labor organizations, or to refrain from such activities.</title>
+  </titles>
+  <sponsor id="412492"/>
+  <cosponsors>
+    <cosponsor id="412251" joined="2015-02-05"/>
+    <cosponsor id="400040" joined="2015-02-05"/>
+    <cosponsor id="300023" joined="2015-02-05"/>
+    <cosponsor id="300027" joined="2015-02-05"/>
+    <cosponsor id="412573" joined="2015-02-05"/>
+    <cosponsor id="412406" joined="2015-02-12"/>
+    <cosponsor id="300047" joined="2015-05-18"/>
+    <cosponsor id="300052" joined="2015-02-05"/>
+    <cosponsor id="412218" joined="2015-02-05"/>
+    <cosponsor id="412495" joined="2015-02-05"/>
+    <cosponsor id="300072" joined="2015-02-05"/>
+    <cosponsor id="412322" joined="2015-02-05"/>
+    <cosponsor id="300083" joined="2015-02-05"/>
+    <cosponsor id="412471" joined="2015-02-05"/>
+    <cosponsor id="400418" joined="2015-02-05"/>
+    <cosponsor id="400432" joined="2015-02-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-05" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Labor-management relations"/>
+  </subjects>
+  <amendments/>
+  <summary>2/5/2015--Introduced.
+National Right-to-Work Act 
+
+ Amends the National Labor Relations Act and the Railway Labor Act to repeal those provisions that permit employers, pursuant to a collective bargaining agreement that is a union security agreement, to require employees to join a union as a condition of employment (including provisions permitting railroad carriers to require, pursuant to such an agreement, payroll deduction of union dues or fees as a condition of employment).</summary>
+</bill>

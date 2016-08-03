@@ -1,0 +1,30 @@
+<bill session="114" type="s" number="1827" updated="2015-08-01T07:07:31-04:00">
+  <state datetime="2015-07-22">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-22"/>
+  </status>
+  <introduced datetime="2015-07-22"/>
+  <titles>
+    <title type="short" as="introduced">Small Business Tax Compliance Relief Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to improve the tax treatment of small businesses.</title>
+  </titles>
+  <sponsor id="400418"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-22" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+    <action datetime="2015-07-22">
+      <text>Committee on Small Business and Entrepreneurship. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+    <committee code="SSSB" name="Senate Small Business and Entrepreneurship" activity="Hearings"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,248 @@
+<bill session="114" type="hr" number="367" updated="2015-08-05T04:46:56-04:00">
+  <state datetime="2015-07-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-16"/>
+  </status>
+  <introduced datetime="2015-07-16"/>
+  <titles>
+    <title type="official" as="introduced">Expressing the sense of the House of Representatives in disapproval of the Joint Comprehensive Plan of Action agreed to by the P5+1 and Iran on July 14, 2015.</title>
+  </titles>
+  <sponsor id="412202"/>
+  <cosponsors>
+    <cosponsor id="412630" joined="2015-07-16"/>
+    <cosponsor id="400004" joined="2015-07-16"/>
+    <cosponsor id="412625" joined="2015-07-16"/>
+    <cosponsor id="412500" joined="2015-07-16"/>
+    <cosponsor id="412655" joined="2015-07-16"/>
+    <cosponsor id="412469" joined="2015-07-28"/>
+    <cosponsor id="412541" joined="2015-07-16"/>
+    <cosponsor id="400018" joined="2015-07-16"/>
+    <cosponsor id="412436" joined="2015-07-16"/>
+    <cosponsor id="412250" joined="2015-07-16"/>
+    <cosponsor id="412635" joined="2015-07-16"/>
+    <cosponsor id="400029" joined="2015-07-16"/>
+    <cosponsor id="412478" joined="2015-07-16"/>
+    <cosponsor id="400032" joined="2015-07-16"/>
+    <cosponsor id="412627" joined="2015-07-16"/>
+    <cosponsor id="412629" joined="2015-07-16"/>
+    <cosponsor id="400636" joined="2015-07-29"/>
+    <cosponsor id="400046" joined="2015-07-16"/>
+    <cosponsor id="412605" joined="2015-07-16"/>
+    <cosponsor id="412567" joined="2015-07-16"/>
+    <cosponsor id="412539" joined="2015-07-16"/>
+    <cosponsor id="412196" joined="2015-07-16"/>
+    <cosponsor id="412619" joined="2015-07-27"/>
+    <cosponsor id="412427" joined="2015-07-16"/>
+    <cosponsor id="400052" joined="2015-07-16"/>
+    <cosponsor id="412601" joined="2015-07-16"/>
+    <cosponsor id="400057" joined="2015-07-20"/>
+    <cosponsor id="412622" joined="2015-07-20"/>
+    <cosponsor id="400068" joined="2015-07-16"/>
+    <cosponsor id="400071" joined="2015-07-16"/>
+    <cosponsor id="412270" joined="2015-07-16"/>
+    <cosponsor id="412604" joined="2015-07-31"/>
+    <cosponsor id="412271" joined="2015-07-20"/>
+    <cosponsor id="412563" joined="2015-07-16"/>
+    <cosponsor id="412531" joined="2015-07-16"/>
+    <cosponsor id="412658" joined="2015-07-16"/>
+    <cosponsor id="400655" joined="2015-07-16"/>
+    <cosponsor id="412513" joined="2015-07-16"/>
+    <cosponsor id="412555" joined="2015-07-16"/>
+    <cosponsor id="412400" joined="2015-07-21"/>
+    <cosponsor id="400086" joined="2015-07-27"/>
+    <cosponsor id="400089" joined="2015-07-27"/>
+    <cosponsor id="412621" joined="2015-07-16"/>
+    <cosponsor id="412536" joined="2015-07-16"/>
+    <cosponsor id="412403" joined="2015-07-16"/>
+    <cosponsor id="412526" joined="2015-07-16"/>
+    <cosponsor id="412477" joined="2015-07-16"/>
+    <cosponsor id="400108" joined="2015-07-28"/>
+    <cosponsor id="412420" joined="2015-07-16"/>
+    <cosponsor id="412672" joined="2015-07-16"/>
+    <cosponsor id="412488" joined="2015-07-27"/>
+    <cosponsor id="412472" joined="2015-07-16"/>
+    <cosponsor id="412457" joined="2015-07-16"/>
+    <cosponsor id="412639" joined="2015-07-16"/>
+    <cosponsor id="412482" joined="2015-07-16"/>
+    <cosponsor id="412479" joined="2015-07-16"/>
+    <cosponsor id="412476" joined="2015-07-28"/>
+    <cosponsor id="412480" joined="2015-07-16"/>
+    <cosponsor id="400137" joined="2015-07-20"/>
+    <cosponsor id="400141" joined="2015-07-16"/>
+    <cosponsor id="400142" joined="2015-07-16"/>
+    <cosponsor id="412463" joined="2015-07-16"/>
+    <cosponsor id="412453" joined="2015-07-16"/>
+    <cosponsor id="400651" joined="2015-07-16"/>
+    <cosponsor id="400154" joined="2015-07-27"/>
+    <cosponsor id="412397" joined="2015-07-16"/>
+    <cosponsor id="412473" joined="2015-07-16"/>
+    <cosponsor id="400157" joined="2015-07-27"/>
+    <cosponsor id="400158" joined="2015-07-27"/>
+    <cosponsor id="412388" joined="2015-07-16"/>
+    <cosponsor id="412485" joined="2015-07-27"/>
+    <cosponsor id="412661" joined="2015-07-22"/>
+    <cosponsor id="412447" joined="2015-07-16"/>
+    <cosponsor id="412278" joined="2015-07-27"/>
+    <cosponsor id="412645" joined="2015-07-23"/>
+    <cosponsor id="412280" joined="2015-07-16"/>
+    <cosponsor id="412434" joined="2015-07-16"/>
+    <cosponsor id="412444" joined="2015-07-20"/>
+    <cosponsor id="412446" joined="2015-07-20"/>
+    <cosponsor id="400175" joined="2015-07-16"/>
+    <cosponsor id="412623" joined="2015-07-16"/>
+    <cosponsor id="412609" joined="2015-07-16"/>
+    <cosponsor id="412553" joined="2015-07-16"/>
+    <cosponsor id="412550" joined="2015-07-16"/>
+    <cosponsor id="412437" joined="2015-07-16"/>
+    <cosponsor id="412422" joined="2015-07-16"/>
+    <cosponsor id="412283" joined="2015-07-16"/>
+    <cosponsor id="412654" joined="2015-07-16"/>
+    <cosponsor id="412484" joined="2015-07-16"/>
+    <cosponsor id="400196" joined="2015-07-16"/>
+    <cosponsor id="412663" joined="2015-07-16"/>
+    <cosponsor id="412284" joined="2015-07-16"/>
+    <cosponsor id="412460" joined="2015-07-23"/>
+    <cosponsor id="400206" joined="2015-07-16"/>
+    <cosponsor id="412603" joined="2015-07-28"/>
+    <cosponsor id="412226" joined="2015-07-16"/>
+    <cosponsor id="412566" joined="2015-07-16"/>
+    <cosponsor id="412649" joined="2015-07-27"/>
+    <cosponsor id="412465" joined="2015-07-16"/>
+    <cosponsor id="412673" joined="2015-07-31"/>
+    <cosponsor id="400219" joined="2015-07-16"/>
+    <cosponsor id="400220" joined="2015-07-16"/>
+    <cosponsor id="412421" joined="2015-07-16"/>
+    <cosponsor id="400224" joined="2015-07-16"/>
+    <cosponsor id="412614" joined="2015-07-16"/>
+    <cosponsor id="412510" joined="2015-07-16"/>
+    <cosponsor id="412191" joined="2015-07-16"/>
+    <cosponsor id="412290" joined="2015-07-16"/>
+    <cosponsor id="412256" joined="2015-07-16"/>
+    <cosponsor id="400244" joined="2015-07-23"/>
+    <cosponsor id="412445" joined="2015-07-16"/>
+    <cosponsor id="412624" joined="2015-07-16"/>
+    <cosponsor id="412656" joined="2015-07-16"/>
+    <cosponsor id="400247" joined="2015-07-29"/>
+    <cosponsor id="412292" joined="2015-07-16"/>
+    <cosponsor id="412294" joined="2015-07-27"/>
+    <cosponsor id="412643" joined="2015-07-16"/>
+    <cosponsor id="400656" joined="2015-07-16"/>
+    <cosponsor id="412468" joined="2015-07-23"/>
+    <cosponsor id="400654" joined="2015-07-27"/>
+    <cosponsor id="412295" joined="2015-07-16"/>
+    <cosponsor id="400644" joined="2015-07-20"/>
+    <cosponsor id="412487" joined="2015-07-16"/>
+    <cosponsor id="412611" joined="2015-07-20"/>
+    <cosponsor id="412552" joined="2015-07-16"/>
+    <cosponsor id="412466" joined="2015-07-29"/>
+    <cosponsor id="412540" joined="2015-07-16"/>
+    <cosponsor id="400273" joined="2015-07-27"/>
+    <cosponsor id="400276" joined="2015-07-16"/>
+    <cosponsor id="400279" joined="2015-07-16"/>
+    <cosponsor id="412634" joined="2015-07-16"/>
+    <cosponsor id="412662" joined="2015-07-16"/>
+    <cosponsor id="412568" joined="2015-07-28"/>
+    <cosponsor id="412474" joined="2015-07-16"/>
+    <cosponsor id="400285" joined="2015-07-16"/>
+    <cosponsor id="400441" joined="2015-07-16"/>
+    <cosponsor id="412660" joined="2015-07-29"/>
+    <cosponsor id="412475" joined="2015-07-16"/>
+    <cosponsor id="412409" joined="2015-07-27"/>
+    <cosponsor id="400297" joined="2015-07-16"/>
+    <cosponsor id="412302" joined="2015-07-16"/>
+    <cosponsor id="412443" joined="2015-07-16"/>
+    <cosponsor id="412608" joined="2015-07-16"/>
+    <cosponsor id="400313" joined="2015-07-16"/>
+    <cosponsor id="412569" joined="2015-07-16"/>
+    <cosponsor id="412551" joined="2015-07-16"/>
+    <cosponsor id="400320" joined="2015-07-16"/>
+    <cosponsor id="400652" joined="2015-07-16"/>
+    <cosponsor id="412633" joined="2015-07-29"/>
+    <cosponsor id="412431" joined="2015-07-16"/>
+    <cosponsor id="412309" joined="2015-07-16"/>
+    <cosponsor id="400626" joined="2015-07-16"/>
+    <cosponsor id="412664" joined="2015-07-16"/>
+    <cosponsor id="412653" joined="2015-07-16"/>
+    <cosponsor id="412393" joined="2015-07-20"/>
+    <cosponsor id="400660" joined="2015-07-16"/>
+    <cosponsor id="412462" joined="2015-07-16"/>
+    <cosponsor id="412489" joined="2015-07-16"/>
+    <cosponsor id="412572" joined="2015-07-16"/>
+    <cosponsor id="412483" joined="2015-07-23"/>
+    <cosponsor id="412394" joined="2015-07-16"/>
+    <cosponsor id="412310" joined="2015-07-16"/>
+    <cosponsor id="400340" joined="2015-08-04"/>
+    <cosponsor id="400341" joined="2015-07-16"/>
+    <cosponsor id="400343" joined="2015-07-27"/>
+    <cosponsor id="412426" joined="2015-07-16"/>
+    <cosponsor id="412311" joined="2015-07-16"/>
+    <cosponsor id="400344" joined="2015-07-16"/>
+    <cosponsor id="412411" joined="2015-07-16"/>
+    <cosponsor id="412570" joined="2015-07-16"/>
+    <cosponsor id="412641" joined="2015-07-16"/>
+    <cosponsor id="400351" joined="2015-07-27"/>
+    <cosponsor id="400606" joined="2015-07-16"/>
+    <cosponsor id="400607" joined="2015-07-16"/>
+    <cosponsor id="412399" joined="2015-07-16"/>
+    <cosponsor id="412417" joined="2015-07-16"/>
+    <cosponsor id="400365" joined="2015-07-16"/>
+    <cosponsor id="400367" joined="2015-07-16"/>
+    <cosponsor id="400373" joined="2015-07-16"/>
+    <cosponsor id="409888" joined="2015-07-16"/>
+    <cosponsor id="400376" joined="2015-07-27"/>
+    <cosponsor id="412217" joined="2015-07-16"/>
+    <cosponsor id="400380" joined="2015-07-16"/>
+    <cosponsor id="412596" joined="2015-07-27"/>
+    <cosponsor id="400381" joined="2015-07-16"/>
+    <cosponsor id="412648" joined="2015-07-16"/>
+    <cosponsor id="412581" joined="2015-07-16"/>
+    <cosponsor id="412461" joined="2015-07-16"/>
+    <cosponsor id="412392" joined="2015-07-16"/>
+    <cosponsor id="412317" joined="2015-07-16"/>
+    <cosponsor id="400404" joined="2015-07-31"/>
+    <cosponsor id="400406" joined="2015-07-16"/>
+    <cosponsor id="412405" joined="2015-07-16"/>
+    <cosponsor id="412636" joined="2015-07-27"/>
+    <cosponsor id="400411" joined="2015-07-16"/>
+    <cosponsor id="412515" joined="2015-07-16"/>
+    <cosponsor id="412548" joined="2015-07-16"/>
+    <cosponsor id="412213" joined="2015-07-16"/>
+    <cosponsor id="400419" joined="2015-07-28"/>
+    <cosponsor id="412670" joined="2015-07-16"/>
+    <cosponsor id="412538" joined="2015-07-16"/>
+    <cosponsor id="412618" joined="2015-07-16"/>
+    <cosponsor id="412574" joined="2015-07-16"/>
+    <cosponsor id="412410" joined="2015-07-16"/>
+    <cosponsor id="412564" joined="2015-07-16"/>
+    <cosponsor id="412610" joined="2015-07-16"/>
+    <cosponsor id="400627" joined="2015-07-16"/>
+    <cosponsor id="412578" joined="2015-07-16"/>
+    <cosponsor id="400433" joined="2015-07-16"/>
+    <cosponsor id="412255" joined="2015-07-29"/>
+    <cosponsor id="412402" joined="2015-07-16"/>
+    <cosponsor id="412416" joined="2015-07-16"/>
+    <cosponsor id="412430" joined="2015-07-16"/>
+    <cosponsor id="412525" joined="2015-07-16"/>
+    <cosponsor id="400440" joined="2015-07-28"/>
+    <cosponsor id="412428" joined="2015-07-20"/>
+    <cosponsor id="412646" joined="2015-07-16"/>
+    <cosponsor id="412640" joined="2015-07-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-16" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+  </subjects>
+  <amendments/>
+  <summary>7/16/2015--Introduced.
+Expresses disapproval of the Joint Comprehensive Plan of Action agreed to by the P5+1 and Iran on July 14, 2015.
+
+ Reaffirms the commitment of the House of Representatives to: (1) prevent Iran from ever acquiring a nuclear weapons capability, and (2) encourage global stability and security by strongly supporting strategic regional allies.</summary>
+</bill>

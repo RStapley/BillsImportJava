@@ -1,0 +1,26 @@
+<bill session="114" type="s" number="1734" updated="2015-07-16T09:47:23-04:00">
+  <state datetime="2015-07-09">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-09"/>
+  </status>
+  <introduced datetime="2015-07-09"/>
+  <titles>
+    <title type="short" as="introduced">Expedite Transit Act of 2015</title>
+    <title type="official" as="introduced">A bill to authorize the Secretary of Transportation to waive the state of good repair certification requirement for participants in the pilot program for expedited project delivery.</title>
+  </titles>
+  <sponsor id="400222"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-09" state="REFERRED">
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+</bill>

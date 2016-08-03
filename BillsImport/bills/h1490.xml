@@ -1,0 +1,66 @@
+<bill session="114" type="h" number="1490" updated="2015-07-29T04:48:01-04:00">
+  <state datetime="2015-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-19"/>
+  </status>
+  <introduced datetime="2015-03-19"/>
+  <titles>
+    <title type="short" as="introduced">SOS Campus Act</title>
+    <title type="short" as="introduced">Survivor Outreach and Support Campus Act</title>
+    <title type="official" as="introduced">To amend the Higher Education Act of 1965 to require institutions of higher education to have an independent advocate for campus sexual assault prevention and response.</title>
+  </titles>
+  <sponsor id="400097"/>
+  <cosponsors>
+    <cosponsor id="412607" joined="2015-03-19"/>
+    <cosponsor id="400048" joined="2015-03-19"/>
+    <cosponsor id="412379" joined="2015-03-19"/>
+    <cosponsor id="412236" joined="2015-07-09"/>
+    <cosponsor id="412382" joined="2015-04-13"/>
+    <cosponsor id="400162" joined="2015-06-15"/>
+    <cosponsor id="412511" joined="2015-03-19"/>
+    <cosponsor id="400211" joined="2015-03-19"/>
+    <cosponsor id="412286" joined="2015-07-14"/>
+    <cosponsor id="400663" joined="2015-03-19"/>
+    <cosponsor id="400295" joined="2015-03-19"/>
+    <cosponsor id="400356" joined="2015-06-11"/>
+    <cosponsor id="412520" joined="2015-07-28"/>
+    <cosponsor id="400402" joined="2015-07-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-19" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="706"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Assault and harassment offenses"/>
+    <term name="Crime prevention"/>
+    <term name="Crime victims"/>
+    <term name="Crimes against women"/>
+    <term name="Education programs funding"/>
+    <term name="Emergency medical services and trauma care"/>
+    <term name="Evidence and witnesses"/>
+    <term name="Higher education"/>
+    <term name="Medical tests and diagnostic methods"/>
+    <term name="Right of privacy"/>
+    <term name="School administration"/>
+    <term name="Sex offenses"/>
+  </subjects>
+  <amendments/>
+  <summary>3/19/2015--Introduced.
+Survivor Outreach and Support Campus Act or the SOS Campus Act
+
+Amends the Higher Education Act of 1965 to require each institution of higher education (IHE) that participates in any program under title IV (Student Assistance) to designate an independent advocate for campus sexual assault prevention and response (Advocate) with experience in providing sexual assault victim services.
+
+Requires each Advocate to: (1) report to an individual outside the body responsible for investigating and adjudicating sexual assault complaints at the IHE, (2) submit to such individual an annual report summarizing how the resources supplied to the Advocate were used, (3) represent the interests of each student victim without regard to whether they conflict with the IHE's interests, and (4) be appointed in such manner as the Secretary of Education deems appropriate.
+
+Directs each Advocate to:
+
+ ensure that sexual assault victims at the IHE are able to receive, at their election, specified information and services; guide sexual assault victims who request assistance through the reporting, counseling, administrative, medical and health, academic accommodations, or legal processes of the IHE or local law enforcement; attend, at the request of a sexual assault victim, any administrative or IHE-based adjudication proceeding related to such assault as an advocate for the victim; maintain the privacy and confidentiality of the victim and any witness to such sexual assault and to not notify the IHE or any other person of the identity of the victim or of any such witness or the alleged circumstances surrounding the reported sexual assault except as otherwise required by state law or, with respect to the identity of the victim or witness, with the consent of such victim or witness; and conduct a public information campaign to inform the students enrolled at the IHE of the existence of, contact information for, and services provided by the Advocate. Prohibits IHEs from retaliating against: (1) Advocates for representing the interests of a student victims, or (2) student victims for reporting sexual assaults to Advocates.</summary>
+</bill>

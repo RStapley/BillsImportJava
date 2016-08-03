@@ -1,0 +1,93 @@
+<bill session="114" type="hr" number="220" updated="2015-08-05T04:46:55-04:00">
+  <state datetime="2015-04-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-23"/>
+  </status>
+  <introduced datetime="2015-04-23"/>
+  <titles>
+    <title type="official" as="introduced">Condemning the Government of Iran's state-sponsored persecution of its Baha'i minority and its continued violation of the International Covenants on Human Rights.</title>
+  </titles>
+  <sponsor id="400344"/>
+  <cosponsors>
+    <cosponsor id="412657" joined="2015-07-13"/>
+    <cosponsor id="412250" joined="2015-05-22"/>
+    <cosponsor id="412516" joined="2015-06-17"/>
+    <cosponsor id="412537" joined="2015-06-17"/>
+    <cosponsor id="400071" joined="2015-04-23"/>
+    <cosponsor id="412658" joined="2015-05-15"/>
+    <cosponsor id="412272" joined="2015-05-29"/>
+    <cosponsor id="400087" joined="2015-07-13"/>
+    <cosponsor id="412621" joined="2015-07-22"/>
+    <cosponsor id="412536" joined="2015-06-17"/>
+    <cosponsor id="412505" joined="2015-05-29"/>
+    <cosponsor id="412385" joined="2015-04-23"/>
+    <cosponsor id="412420" joined="2015-04-23"/>
+    <cosponsor id="412472" joined="2015-07-22"/>
+    <cosponsor id="400116" joined="2015-05-13"/>
+    <cosponsor id="400122" joined="2015-04-23"/>
+    <cosponsor id="400640" joined="2015-05-29"/>
+    <cosponsor id="412529" joined="2015-05-22"/>
+    <cosponsor id="412453" joined="2015-07-22"/>
+    <cosponsor id="400175" joined="2015-06-17"/>
+    <cosponsor id="400179" joined="2015-08-04"/>
+    <cosponsor id="412511" joined="2015-05-22"/>
+    <cosponsor id="412561" joined="2015-07-13"/>
+    <cosponsor id="412284" joined="2015-05-15"/>
+    <cosponsor id="400224" joined="2015-06-17"/>
+    <cosponsor id="412616" joined="2015-05-22"/>
+    <cosponsor id="400249" joined="2015-05-15"/>
+    <cosponsor id="412468" joined="2015-07-22"/>
+    <cosponsor id="412295" joined="2015-05-15"/>
+    <cosponsor id="400659" joined="2015-07-27"/>
+    <cosponsor id="412466" joined="2015-05-15"/>
+    <cosponsor id="412560" joined="2015-07-31"/>
+    <cosponsor id="412540" joined="2015-07-31"/>
+    <cosponsor id="412523" joined="2015-06-17"/>
+    <cosponsor id="412307" joined="2015-06-17"/>
+    <cosponsor id="400326" joined="2015-05-22"/>
+    <cosponsor id="400343" joined="2015-07-13"/>
+    <cosponsor id="400606" joined="2015-05-22"/>
+    <cosponsor id="400360" joined="2015-04-23"/>
+    <cosponsor id="400380" joined="2015-07-13"/>
+    <cosponsor id="412461" joined="2015-06-17"/>
+    <cosponsor id="400403" joined="2015-07-13"/>
+    <cosponsor id="400415" joined="2015-05-22"/>
+    <cosponsor id="400419" joined="2015-05-29"/>
+    <cosponsor id="400440" joined="2015-05-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-23" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2015-05-20">
+      <text>Referred to the Subcommittee on Africa, Global Health, Global Human Rights and International Organizations.</text>
+    </action>
+    <action datetime="2015-05-20">
+      <text>Referred to the Subcommittee on Middle East and North Africa.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSFA16" subcommittee="Africa, Global Health, Global Human Rights and International Organizations" name="House Foreign Affairs"/>
+    <committee activity="Referral" code="HSFA13" subcommittee="Middle East and North Africa" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="sr" number="148"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Detention of persons"/>
+    <term name="Human rights"/>
+    <term name="Iran"/>
+    <term name="Middle East"/>
+    <term name="Religion"/>
+    <term name="Sanctions"/>
+  </subjects>
+  <amendments/>
+  <summary>4/23/2015--Introduced.
+Condemns the government of Iran's state-sponsored persecution of its Baha'i minority and its continued violation of the International Covenants on Human Rights.
+
+ Calls on the government of Iran to release the 7 imprisoned Baha'i leaders, the 12 imprisoned Baha'i educators, and all other prisoners held on account of their religion.
+
+Urges the President and the Secretary of State to utilize available authorities, including the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010, to impose sanctions on officials of the government of Iran and other individuals directly responsible for serious human rights abuses, including abuses against the Baha'i community.</summary>
+</bill>

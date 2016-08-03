@@ -1,0 +1,53 @@
+<bill session="114" type="s" number="1664" updated="2015-07-17T05:00:02-04:00">
+  <state datetime="2015-06-24">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-24"/>
+  </status>
+  <introduced datetime="2015-06-24"/>
+  <titles>
+    <title type="short" as="introduced">Military and Veterans Education Protection Act</title>
+    <title type="official" as="introduced">A bill to count revenues from military and veteran education programs toward the limit on Federal revenues that certain proprietary institutions of higher education are allowed to receive for purposes of section 487 of the Higher Education Act of 1965, and for other purposes.</title>
+  </titles>
+  <sponsor id="300019"/>
+  <cosponsors>
+    <cosponsor id="400013" joined="2015-06-24"/>
+    <cosponsor id="412490" joined="2015-06-24"/>
+    <cosponsor id="300011" joined="2015-06-24"/>
+    <cosponsor id="400050" joined="2015-06-24"/>
+    <cosponsor id="400064" joined="2015-06-24"/>
+    <cosponsor id="412390" joined="2015-06-24"/>
+    <cosponsor id="300038" joined="2015-06-24"/>
+    <cosponsor id="300043" joined="2015-06-24"/>
+    <cosponsor id="412378" joined="2015-06-24"/>
+    <cosponsor id="412223" joined="2015-06-24"/>
+    <cosponsor id="412200" joined="2015-06-24"/>
+    <cosponsor id="400253" joined="2015-06-24"/>
+    <cosponsor id="412243" joined="2015-06-24"/>
+    <cosponsor id="400272" joined="2015-06-24"/>
+    <cosponsor id="412325" joined="2015-06-24"/>
+    <cosponsor id="300073" joined="2015-07-16"/>
+    <cosponsor id="412194" joined="2015-06-24"/>
+    <cosponsor id="300076" joined="2015-06-24"/>
+    <cosponsor id="412305" joined="2015-06-24"/>
+    <cosponsor id="300081" joined="2015-06-24"/>
+    <cosponsor id="412507" joined="2015-06-24"/>
+    <cosponsor id="300087" joined="2015-06-24"/>
+    <cosponsor id="412323" joined="2015-06-24"/>
+    <cosponsor id="300093" joined="2015-06-24"/>
+    <cosponsor id="412542" joined="2015-06-24"/>
+    <cosponsor id="412247" joined="2015-06-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-24" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+  </subjects>
+  <amendments/>
+</bill>

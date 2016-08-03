@@ -1,0 +1,34 @@
+<bill session="114" type="h" number="2204" updated="2015-07-04T06:37:01-04:00">
+  <state datetime="2015-05-01">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-01"/>
+  </status>
+  <introduced datetime="2015-05-01"/>
+  <titles>
+    <title type="short" as="introduced">Safe Communities Act of 2015</title>
+    <title type="official" as="introduced">To clarify the authority of States and political subdivisions thereof to regulate liquefied petroleum gas rail transload facilities that are owned or operated by or on behalf of a rail carrier.</title>
+  </titles>
+  <sponsor id="400263"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-05-01" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2015-05-04">
+      <text>Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW14" subcommittee="Railroads, Pipelines, and Hazardous Materials" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Oil and gas"/>
+    <term name="Railroads"/>
+    <term name="Surface Transportation Board"/>
+  </subjects>
+  <amendments/>
+</bill>

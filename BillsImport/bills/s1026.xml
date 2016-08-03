@@ -1,0 +1,34 @@
+<bill session="114" type="s" number="1026" updated="2015-05-20T04:50:00-04:00">
+  <state datetime="2015-04-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-21"/>
+  </status>
+  <introduced datetime="2015-04-21"/>
+  <titles>
+    <title type="short" as="introduced">North American Alternative Fuels Act</title>
+    <title type="official" as="introduced">A bill to amend the Energy Independence and Security Act of 2007 to repeal a provision prohibiting Federal agencies from procuring alternative fuels.</title>
+  </titles>
+  <sponsor id="412251"/>
+  <cosponsors>
+    <cosponsor id="300041" joined="2015-04-21"/>
+    <cosponsor id="412554" joined="2015-04-21"/>
+    <cosponsor id="412494" joined="2015-04-21"/>
+    <cosponsor id="412391" joined="2015-04-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2015-05-19">
+      <text>Committee on Energy and Natural Resources. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+  </subjects>
+  <amendments/>
+</bill>

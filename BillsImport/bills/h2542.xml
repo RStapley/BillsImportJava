@@ -1,0 +1,26 @@
+<bill session="114" type="h" number="2542" updated="2015-06-13T06:39:47-04:00">
+  <state datetime="2015-05-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-21"/>
+  </status>
+  <introduced datetime="2015-05-21"/>
+  <titles>
+    <title type="short" as="introduced">Bereaved Borrowers' Bill of Rights Act of 2015</title>
+    <title type="official" as="introduced">To amend the Truth in Lending Act to establish requirements for releasing a cosigner from obligations of a private education loan, for the treatment of the loan upon the death or bankruptcy of a cosigner of the loan, and for other purposes.</title>
+  </titles>
+  <sponsor id="400232"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-05-21" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+  </subjects>
+  <amendments/>
+</bill>

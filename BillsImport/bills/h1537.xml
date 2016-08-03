@@ -1,0 +1,42 @@
+<bill session="114" type="h" number="1537" updated="2015-08-08T06:32:03-04:00">
+  <state datetime="2015-03-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-23"/>
+  </status>
+  <introduced datetime="2015-03-23"/>
+  <titles>
+    <title type="short" as="introduced">Advancing Hope Act of 2015</title>
+    <title type="official" as="introduced">To amend the Federal Food, Drug, and Cosmetic Act to reauthorize a program of priority review to encourage treatments for rare pediatric diseases, and for other purposes.</title>
+  </titles>
+  <sponsor id="400616"/>
+  <cosponsors>
+    <cosponsor id="412250" joined="2015-04-28"/>
+    <cosponsor id="412517" joined="2015-05-15"/>
+    <cosponsor id="412236" joined="2015-03-23"/>
+    <cosponsor id="412420" joined="2015-06-10"/>
+    <cosponsor id="400170" joined="2015-05-21"/>
+    <cosponsor id="412465" joined="2015-03-23"/>
+    <cosponsor id="400654" joined="2015-03-23"/>
+    <cosponsor id="400333" joined="2015-04-28"/>
+    <cosponsor id="400415" joined="2015-03-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-23" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-03-27">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1878"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+</bill>

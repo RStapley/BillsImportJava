@@ -1,0 +1,48 @@
+<bill session="114" type="h" number="1402" updated="2015-08-15T06:30:59-04:00">
+  <state datetime="2015-03-17">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-17"/>
+  </status>
+  <introduced datetime="2015-03-17"/>
+  <titles>
+    <title type="short" as="introduced">Point Reyes Coast Guard Housing Conveyance Act</title>
+    <title type="official" as="introduced">To direct the Commandant of the Coast Guard to convey certain property from the United States to the County of Marin, California.</title>
+  </titles>
+  <sponsor id="412511"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-03-17" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2015-03-18">
+      <text>Referred to the Subcommittee on Coast Guard and Maritime Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW07" subcommittee="Coast Guard and Maritime Transportation" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="1191"/>
+    <bill relation="unknown" session="114" type="s" number="1611"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="California"/>
+    <term name="Coast guard"/>
+    <term name="Department of Homeland Security"/>
+    <term name="Land transfers"/>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+  <summary>3/17/2015--Introduced.
+Point Reyes Coast Guard Housing Conveyance Act
+
+This bill directs the Coast Guard to convey 32 acres of federal land (including all buildings, structures, utilities, and facilities on the land) known as CAMSPAC Housing in Point Reyes Station to Marin County, California, to be used for affordable housing or to provide a public benefit approved by the County.
+
+The property must be sold at fair market value.
+
+The Coast Guard may deposit the proceeds in the Coast Guard Housing Fund.
+
+The Coast Guard's authority to convey the property expires after four years.</summary>
+</bill>

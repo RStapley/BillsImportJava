@@ -1,0 +1,54 @@
+<bill session="114" type="h" number="2583" updated="2015-07-11T06:40:20-04:00">
+  <state datetime="2015-06-03">REPORTED</state>
+  <status>
+    <unknown datetime="2015-06-03"/>
+  </status>
+  <introduced datetime="2015-05-29"/>
+  <titles>
+    <title type="short" as="introduced">Federal Communications Commission Process Reform Act of 2015</title>
+    <title type="official" as="introduced">To amend the Communications Act of 1934 to provide for greater transparency and efficiency in the procedures followed by the Federal Communications Commission, and for other purposes.</title>
+  </titles>
+  <sponsor id="400419"/>
+  <cosponsors>
+    <cosponsor id="412421" joined="2015-05-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-29" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-06-02">
+      <text>Committee Hearings Held.</text>
+    </action>
+    <action datetime="2015-06-02">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2015-06-03">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-06-03" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Hearings, Markup"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="421"/>
+  </relatedbills>
+  <subjects>
+    <term name="Science, technology, communications"/>
+  </subjects>
+  <amendments/>
+  <summary>5/29/2015--Introduced.
+Federal Communications Commission Process Reform Act of 2015
+
+Amends the Communications Act of 1934 to require the Federal Communications Commission (FCC) to: (1) adopt rules concerning rulemaking comment and reply periods, public notices, petition dispositions, the specific language of proposed rules or amendments to be included in proposed rulemaking notices, and performance measures to be included in certain proposed rulemakings or orders that would create or substantially change a program activity; (2) seek public comments regarding a bipartisan majority of commissioners' authority to place items on an open meeting agenda, deadlines for the disposition of certain license applications, and whether to publish orders, decisions, reports, and actions within 30 days after adoption; and (3) initiate a new rulemaking proceeding every five years to continue consideration of procedural rule changes.
+
+Allows a bipartisan majority of commissioners to hold a nonpublic meeting under specified conditions if: (1) no votes or actions are taken, (2) an attorney from the FCC's Office of General Counsel is present, and (3) the meeting is disclosed subsequently within two business days.
+
+Establishes requirements concerning: (1) the budgets, agency documents, and consumer complaint information required to be made publicly available on the FCC website; (2) Federal Register publications; (3) the FCC's performance in meeting Freedom of Information Act disclosure requirements; and (4) reports to Congress.
+
+Prohibits the FCC, in compiling its quarterly report with respect to informal consumer inquiries and complaints, from categorizing an inquiry or complaint under the Telephone Consumer Protection Act of 1991 (places restrictions on telephone solicitations and automatic dialing systems) as a wireline or wireless inquiry or complaint unless a wireline or wireless carrier was the subject of the inquiry or complaint.
+
+Amends the Universal Service Antideficiency Temporary Suspension Act to extend through December 31, 2020, the waiver of certain limitations on: (1) expending, obligating, or apportioning appropriations with respect to federal universal service contributions collected or received under the Communications Act of 1934; and (2) expending or obligating funds attributable to such contributions for universal service support programs.</summary>
+</bill>

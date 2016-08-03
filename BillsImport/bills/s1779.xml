@@ -1,0 +1,30 @@
+<bill session="114" type="s" number="1779" updated="2015-08-01T07:07:06-04:00">
+  <state datetime="2015-07-15">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-15"/>
+  </status>
+  <introduced datetime="2015-07-15"/>
+  <titles>
+    <title type="short" as="introduced">Financial Services Conflict of Interest Act</title>
+    <title type="official" as="introduced">A bill to prevent conflicts of interest that stem from executive Government employees receiving bonuses or other compensation arrangements from nongovernment sources, from the revolving door that raises concerns about the independence of financial services regulators, and from the revolving door that casts aspersions over the awarding of Government contracts and other financial benefits.</title>
+  </titles>
+  <sponsor id="400013"/>
+  <cosponsors>
+    <cosponsor id="400357" joined="2015-07-21"/>
+    <cosponsor id="412507" joined="2015-07-15"/>
+    <cosponsor id="412542" joined="2015-07-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-15" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+  </subjects>
+  <amendments/>
+</bill>

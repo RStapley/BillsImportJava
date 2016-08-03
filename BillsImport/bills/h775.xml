@@ -1,0 +1,209 @@
+<bill session="114" type="h" number="775" updated="2015-08-01T04:50:26-04:00">
+  <state datetime="2015-02-05">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-05"/>
+  </status>
+  <introduced datetime="2015-02-05"/>
+  <titles>
+    <title type="short" as="introduced">Medicare Access to Rehabilitation Services Act of 2015</title>
+    <title type="official" as="introduced">To amend title XVIII of the Social Security Act to repeal the Medicare outpatient rehabilitation therapy caps, and for other purposes.</title>
+  </titles>
+  <sponsor id="400636"/>
+  <cosponsors>
+    <cosponsor id="412630" joined="2015-06-02"/>
+    <cosponsor id="412615" joined="2015-07-29"/>
+    <cosponsor id="412500" joined="2015-03-02"/>
+    <cosponsor id="412469" joined="2015-03-04"/>
+    <cosponsor id="412565" joined="2015-02-05"/>
+    <cosponsor id="400021" joined="2015-02-05"/>
+    <cosponsor id="412512" joined="2015-04-29"/>
+    <cosponsor id="412657" joined="2015-07-23"/>
+    <cosponsor id="400029" joined="2015-02-05"/>
+    <cosponsor id="400032" joined="2015-02-05"/>
+    <cosponsor id="400033" joined="2015-02-05"/>
+    <cosponsor id="412501" joined="2015-03-03"/>
+    <cosponsor id="412539" joined="2015-04-29"/>
+    <cosponsor id="400048" joined="2015-03-03"/>
+    <cosponsor id="412516" joined="2015-02-05"/>
+    <cosponsor id="400052" joined="2015-02-05"/>
+    <cosponsor id="400062" joined="2015-02-05"/>
+    <cosponsor id="412517" joined="2015-07-31"/>
+    <cosponsor id="412622" joined="2015-06-09"/>
+    <cosponsor id="412571" joined="2015-03-03"/>
+    <cosponsor id="412195" joined="2015-06-09"/>
+    <cosponsor id="400071" joined="2015-04-13"/>
+    <cosponsor id="412236" joined="2015-06-09"/>
+    <cosponsor id="400077" joined="2015-02-05"/>
+    <cosponsor id="412658" joined="2015-06-04"/>
+    <cosponsor id="412651" joined="2015-02-05"/>
+    <cosponsor id="412193" joined="2015-05-14"/>
+    <cosponsor id="412536" joined="2015-06-24"/>
+    <cosponsor id="400100" joined="2015-03-02"/>
+    <cosponsor id="412544" joined="2015-04-13"/>
+    <cosponsor id="400103" joined="2015-07-29"/>
+    <cosponsor id="412505" joined="2015-07-10"/>
+    <cosponsor id="412526" joined="2015-03-03"/>
+    <cosponsor id="400108" joined="2015-06-09"/>
+    <cosponsor id="412533" joined="2015-02-05"/>
+    <cosponsor id="412472" joined="2015-07-23"/>
+    <cosponsor id="400116" joined="2015-06-16"/>
+    <cosponsor id="412215" joined="2015-02-05"/>
+    <cosponsor id="412524" joined="2015-04-21"/>
+    <cosponsor id="412482" joined="2015-02-05"/>
+    <cosponsor id="400129" joined="2015-04-13"/>
+    <cosponsor id="412479" joined="2015-03-02"/>
+    <cosponsor id="400646" joined="2015-03-02"/>
+    <cosponsor id="412257" joined="2015-02-05"/>
+    <cosponsor id="412529" joined="2015-02-05"/>
+    <cosponsor id="412612" joined="2015-03-02"/>
+    <cosponsor id="412463" joined="2015-07-07"/>
+    <cosponsor id="400157" joined="2015-03-04"/>
+    <cosponsor id="400158" joined="2015-02-24"/>
+    <cosponsor id="400162" joined="2015-02-05"/>
+    <cosponsor id="412278" joined="2015-02-24"/>
+    <cosponsor id="412280" joined="2015-02-05"/>
+    <cosponsor id="400170" joined="2015-02-05"/>
+    <cosponsor id="412584" joined="2015-03-02"/>
+    <cosponsor id="412446" joined="2015-02-05"/>
+    <cosponsor id="412486" joined="2015-06-09"/>
+    <cosponsor id="400641" joined="2015-03-16"/>
+    <cosponsor id="412609" joined="2015-02-10"/>
+    <cosponsor id="400185" joined="2015-02-05"/>
+    <cosponsor id="412511" joined="2015-02-05"/>
+    <cosponsor id="400195" joined="2015-02-24"/>
+    <cosponsor id="412284" joined="2015-02-05"/>
+    <cosponsor id="412460" joined="2015-02-17"/>
+    <cosponsor id="400204" joined="2015-02-05"/>
+    <cosponsor id="412199" joined="2015-03-02"/>
+    <cosponsor id="400206" joined="2015-03-19"/>
+    <cosponsor id="412603" joined="2015-07-23"/>
+    <cosponsor id="400209" joined="2015-04-21"/>
+    <cosponsor id="412566" joined="2015-02-05"/>
+    <cosponsor id="412465" joined="2015-02-05"/>
+    <cosponsor id="412546" joined="2015-03-02"/>
+    <cosponsor id="412583" joined="2015-03-03"/>
+    <cosponsor id="400218" joined="2015-07-16"/>
+    <cosponsor id="400219" joined="2015-02-05"/>
+    <cosponsor id="412286" joined="2015-02-05"/>
+    <cosponsor id="412557" joined="2015-04-13"/>
+    <cosponsor id="400230" joined="2015-02-05"/>
+    <cosponsor id="400232" joined="2015-02-17"/>
+    <cosponsor id="400233" joined="2015-02-05"/>
+    <cosponsor id="400238" joined="2015-02-24"/>
+    <cosponsor id="400240" joined="2015-03-03"/>
+    <cosponsor id="400630" joined="2015-02-24"/>
+    <cosponsor id="400244" joined="2015-03-19"/>
+    <cosponsor id="412209" joined="2015-02-05"/>
+    <cosponsor id="400245" joined="2015-04-15"/>
+    <cosponsor id="412445" joined="2015-02-05"/>
+    <cosponsor id="412521" joined="2015-03-16"/>
+    <cosponsor id="400246" joined="2015-02-05"/>
+    <cosponsor id="412558" joined="2015-02-05"/>
+    <cosponsor id="412293" joined="2015-02-05"/>
+    <cosponsor id="412562" joined="2015-03-02"/>
+    <cosponsor id="412468" joined="2015-07-21"/>
+    <cosponsor id="400663" joined="2015-06-24"/>
+    <cosponsor id="400654" joined="2015-03-02"/>
+    <cosponsor id="400259" joined="2015-03-16"/>
+    <cosponsor id="400262" joined="2015-03-19"/>
+    <cosponsor id="400263" joined="2015-03-16"/>
+    <cosponsor id="412487" joined="2015-03-16"/>
+    <cosponsor id="412611" joined="2015-07-10"/>
+    <cosponsor id="412466" joined="2015-02-05"/>
+    <cosponsor id="412560" joined="2015-07-21"/>
+    <cosponsor id="412540" joined="2015-07-29"/>
+    <cosponsor id="400276" joined="2015-07-10"/>
+    <cosponsor id="400279" joined="2015-07-07"/>
+    <cosponsor id="400661" joined="2015-07-10"/>
+    <cosponsor id="412568" joined="2015-06-24"/>
+    <cosponsor id="400285" joined="2015-02-05"/>
+    <cosponsor id="400290" joined="2015-02-05"/>
+    <cosponsor id="408211" joined="2015-02-05"/>
+    <cosponsor id="400295" joined="2015-03-02"/>
+    <cosponsor id="412409" joined="2015-06-09"/>
+    <cosponsor id="412442" joined="2015-02-05"/>
+    <cosponsor id="412575" joined="2015-02-24"/>
+    <cosponsor id="412302" joined="2015-02-05"/>
+    <cosponsor id="400309" joined="2015-03-02"/>
+    <cosponsor id="412303" joined="2015-02-17"/>
+    <cosponsor id="400313" joined="2015-07-23"/>
+    <cosponsor id="412523" joined="2015-03-19"/>
+    <cosponsor id="400316" joined="2015-03-16"/>
+    <cosponsor id="412307" joined="2015-03-16"/>
+    <cosponsor id="412585" joined="2015-02-24"/>
+    <cosponsor id="412431" joined="2015-02-10"/>
+    <cosponsor id="400326" joined="2015-03-04"/>
+    <cosponsor id="412331" joined="2015-03-19"/>
+    <cosponsor id="400333" joined="2015-02-05"/>
+    <cosponsor id="412432" joined="2015-02-05"/>
+    <cosponsor id="400340" joined="2015-03-04"/>
+    <cosponsor id="412311" joined="2015-07-27"/>
+    <cosponsor id="412202" joined="2015-02-05"/>
+    <cosponsor id="412570" joined="2015-03-19"/>
+    <cosponsor id="400349" joined="2015-02-05"/>
+    <cosponsor id="400352" joined="2015-02-05"/>
+    <cosponsor id="412312" joined="2015-02-17"/>
+    <cosponsor id="400360" joined="2015-02-05"/>
+    <cosponsor id="400361" joined="2015-06-18"/>
+    <cosponsor id="400367" joined="2015-02-05"/>
+    <cosponsor id="412186" joined="2015-06-16"/>
+    <cosponsor id="400378" joined="2015-06-16"/>
+    <cosponsor id="400379" joined="2015-06-24"/>
+    <cosponsor id="400380" joined="2015-03-02"/>
+    <cosponsor id="412259" joined="2015-03-19"/>
+    <cosponsor id="412581" joined="2015-03-02"/>
+    <cosponsor id="412461" joined="2015-06-16"/>
+    <cosponsor id="412317" joined="2015-02-05"/>
+    <cosponsor id="400404" joined="2015-03-16"/>
+    <cosponsor id="412405" joined="2015-07-21"/>
+    <cosponsor id="412319" joined="2015-03-03"/>
+    <cosponsor id="412254" joined="2015-02-05"/>
+    <cosponsor id="400411" joined="2015-02-05"/>
+    <cosponsor id="412515" joined="2015-06-24"/>
+    <cosponsor id="400415" joined="2015-06-09"/>
+    <cosponsor id="412548" joined="2015-02-05"/>
+    <cosponsor id="412538" joined="2015-02-05"/>
+    <cosponsor id="412618" joined="2015-02-24"/>
+    <cosponsor id="412214" joined="2015-03-16"/>
+    <cosponsor id="400623" joined="2015-06-24"/>
+    <cosponsor id="412239" joined="2015-06-18"/>
+    <cosponsor id="400431" joined="2015-02-17"/>
+    <cosponsor id="400433" joined="2015-02-05"/>
+    <cosponsor id="412255" joined="2015-03-19"/>
+    <cosponsor id="412211" joined="2015-02-05"/>
+    <cosponsor id="400440" joined="2015-04-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-05" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-02-05">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-02-05">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-02-06">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="539"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Home and outpatient care"/>
+    <term name="Long-term, rehabilitative, and terminal care"/>
+    <term name="Medicare"/>
+  </subjects>
+  <amendments/>
+  <summary>2/5/2015--Introduced.
+Medicare Access to Rehabilitation Services Act of 2015
+
+ Amends title XVIII (Medicare) of the Social Security Act to repeal the caps on Medicare outpatient rehabilitation physical therapy services and speech-language pathology services.</summary>
+</bill>

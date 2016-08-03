@@ -1,0 +1,98 @@
+<bill session="114" type="h" number="970" updated="2015-06-18T04:47:28-04:00">
+  <state datetime="2015-02-13">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-13"/>
+  </status>
+  <introduced datetime="2015-02-13"/>
+  <titles>
+    <title type="short" as="introduced">Supporting Academic Freedom through Regulatory Relief Act</title>
+    <title type="official" as="introduced">To prohibit the Secretary of Education from engaging in regulatory overreach with regard to institutional eligibility under title IV of the Higher Education Act of 1965, and for other purposes.</title>
+  </titles>
+  <sponsor id="400643"/>
+  <cosponsors>
+    <cosponsor id="412625" joined="2015-04-13"/>
+    <cosponsor id="412469" joined="2015-05-05"/>
+    <cosponsor id="400029" joined="2015-04-21"/>
+    <cosponsor id="400032" joined="2015-04-13"/>
+    <cosponsor id="412427" joined="2015-03-23"/>
+    <cosponsor id="412622" joined="2015-04-16"/>
+    <cosponsor id="400071" joined="2015-03-23"/>
+    <cosponsor id="412658" joined="2015-03-16"/>
+    <cosponsor id="412477" joined="2015-03-16"/>
+    <cosponsor id="400141" joined="2015-03-02"/>
+    <cosponsor id="400154" joined="2015-03-23"/>
+    <cosponsor id="400157" joined="2015-05-13"/>
+    <cosponsor id="412661" joined="2015-04-13"/>
+    <cosponsor id="400170" joined="2015-02-13"/>
+    <cosponsor id="412446" joined="2015-03-23"/>
+    <cosponsor id="412609" joined="2015-03-06"/>
+    <cosponsor id="412460" joined="2015-04-13"/>
+    <cosponsor id="412465" joined="2015-03-06"/>
+    <cosponsor id="400224" joined="2015-02-13"/>
+    <cosponsor id="412256" joined="2015-05-05"/>
+    <cosponsor id="400630" joined="2015-03-06"/>
+    <cosponsor id="412656" joined="2015-04-16"/>
+    <cosponsor id="412540" joined="2015-04-13"/>
+    <cosponsor id="400285" joined="2015-04-13"/>
+    <cosponsor id="400441" joined="2015-04-13"/>
+    <cosponsor id="412489" joined="2015-04-13"/>
+    <cosponsor id="412394" joined="2015-04-16"/>
+    <cosponsor id="412310" joined="2015-05-05"/>
+    <cosponsor id="412426" joined="2015-03-06"/>
+    <cosponsor id="400606" joined="2015-02-13"/>
+    <cosponsor id="412392" joined="2015-03-23"/>
+    <cosponsor id="412317" joined="2015-04-13"/>
+    <cosponsor id="400404" joined="2015-04-16"/>
+    <cosponsor id="412213" joined="2015-05-21"/>
+    <cosponsor id="400433" joined="2015-05-05"/>
+    <cosponsor id="412628" joined="2015-06-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-13" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+    <action datetime="2015-04-29">
+      <text>Referred to the Subcommittee on Higher Education and Workforce Training.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee activity="Referral" code="HSED13" subcommittee="Higher Education and Workforce Training" name="House Education and the Workforce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="559"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Business ethics"/>
+    <term name="Consumer affairs"/>
+    <term name="Contracts and agency"/>
+    <term name="Department of Education"/>
+    <term name="Education programs funding"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Higher education"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Performance measurement"/>
+    <term name="Right of privacy"/>
+    <term name="School administration"/>
+    <term name="State and local government operations"/>
+    <term name="Student aid and college costs"/>
+    <term name="Teaching, teachers, curricula"/>
+    <term name="Vocational and technical education"/>
+    <term name="Wages and earnings"/>
+  </subjects>
+  <amendments/>
+  <summary>2/13/2015--Introduced.
+Supporting Academic Freedom through Regulatory Relief Act
+
+Repeals certain Department of Education (ED) regulations that for purposes of determining whether a school is eligible to participate in programs under the Higher Education Act of 1965 (HEA): (1) require institutions of higher education (IHEs) and postsecondary vocational institutions (except religious schools) to be legally authorized by the state in which they are situated, (2) delineate what such legal authorization requires of states and schools, (3) impose standards and disclosure requirements on programs that prepare students for gainful employment in a recognized occupation, and (4) define "credit hour."
+
+Prohibits ED from promulgating or enforcing any regulation or rule not in effect on the date of this Act's enactment regarding: (1) the state authorization for IHEs to operate within a state, (2) the definition or application of the term "gainful employment," or (3) a teacher preparation program accountability system. Ends that prohibition when a law is enacted that extends by at least two fiscal years the authorization or duration of one or more programs under the HEA.
+
+Prohibits ED from promulgating or enforcing any regulation or rule that defines "credit hour" for any purpose under the HEA.
+
+Prohibits ED from carrying out, developing, refining, promulgating, publishing, implementing, administering, or enforcing a postsecondary institution ratings system or any other performance system to rate IHEs.
+
+Amends title IV (Student Assistance) of the HEA to authorize nonprofit IHEs to make payments to third-party entities for services that include student recruitment and are based on the amount of tuition that the IHE generates from student enrollment if the third-party entity: (1) is not affiliated with the IHE, (2) does not provide incentive payments to its employees for their success in enrolling students or securing financial aid for them, (3) is not paid by the IHE solely or separately for student recruitment services, and (4) will not make student recruitment information available to any other person or entity.</summary>
+</bill>

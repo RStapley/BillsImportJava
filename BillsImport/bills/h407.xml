@@ -1,0 +1,45 @@
+<bill session="114" type="h" number="407" updated="2015-07-29T04:47:30-04:00">
+  <state datetime="2015-01-20">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-20"/>
+  </status>
+  <introduced datetime="2015-01-20"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Act of June 18, 1934, to reaffirm the authority of the Secretary of the Interior to take land into trust for Indian tribes.</title>
+  </titles>
+  <sponsor id="400259"/>
+  <cosponsors>
+    <cosponsor id="400077" joined="2015-01-20"/>
+    <cosponsor id="412584" joined="2015-07-20"/>
+    <cosponsor id="412583" joined="2015-03-16"/>
+    <cosponsor id="412293" joined="2015-03-16"/>
+    <cosponsor id="400661" joined="2015-03-16"/>
+    <cosponsor id="412617" joined="2015-07-28"/>
+    <cosponsor id="400623" joined="2015-07-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-20" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2015-03-02">
+      <text>Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII24" subcommittee="Indian, Insular and Alaska Native Affairs" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="732"/>
+  </relatedbills>
+  <subjects>
+    <term name="Native Americans"/>
+    <term name="Federal-Indian relations"/>
+    <term name="Indian lands and resources rights"/>
+  </subjects>
+  <amendments/>
+  <summary>1/20/2015--Introduced.
+Amends the Indian Reorganization Act to apply the Act to all federally recognized Indian tribes, regardless of when any tribe became recognized. (This effectively overrules the Supreme Court's decision in Carcieri v. Salazar, which held that the Secretary of the Interior could not take land into trust for a specified tribe because that tribe had not been under federal jurisdiction when the Act was enacted.)
+
+Ratifies and confirms any action taken by the Secretary pursuant to such Act for any Indian tribe that was federally recognized on the date of that action.</summary>
+</bill>

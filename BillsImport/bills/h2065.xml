@@ -1,0 +1,49 @@
+<bill session="114" type="h" number="2065" updated="2015-07-30T04:49:09-04:00">
+  <state datetime="2015-04-28">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-28"/>
+  </status>
+  <introduced datetime="2015-04-28"/>
+  <titles>
+    <title type="short" as="introduced">Go to High School, Go to College Act</title>
+    <title type="official" as="introduced">To amend the Higher Education Act of 1965 to allow the Secretary of Education to award Early College Federal Pell Grants.</title>
+  </titles>
+  <sponsor id="412327"/>
+  <cosponsors>
+    <cosponsor id="412672" joined="2015-07-29"/>
+    <cosponsor id="412453" joined="2015-04-28"/>
+    <cosponsor id="412649" joined="2015-07-29"/>
+    <cosponsor id="400219" joined="2015-07-29"/>
+    <cosponsor id="412506" joined="2015-07-29"/>
+    <cosponsor id="400333" joined="2015-07-29"/>
+    <cosponsor id="412319" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-28" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1106"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Higher education"/>
+    <term name="Student aid and college costs"/>
+  </subjects>
+  <amendments/>
+  <summary>4/28/2015--Introduced.
+Go to High School, Go to College Act
+
+This bill amends title IV (Student Assistance) of the Higher Education Act of 1965 to direct the Department of Education to carry out (from July 1, 2016, through June 30, 2022) a program awarding Early College Federal Pell Grants to students to support their enrollment in, and completion of, postsecondary courses offered through early college high schools.
+
+Students who would be eligible for a Federal Pell Grant if not for their enrollment in secondary school are deemed eligible for an Early College Federal Pell Grant upon their completion of a full-time postsecondary semester or its equivalent.
+
+Students may receive Early College Federal Pell Grants in an amount equal to the cost of not more than four full-time postsecondary semesters or the equivalent while enrolled in postsecondary courses offered by an early college high school.
+
+Early College Federal Pell Grants shall count toward the 12-semester, or equivalent, limit on a student's receipt of Federal Pell Grants.</summary>
+</bill>

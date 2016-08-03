@@ -1,0 +1,31 @@
+<bill session="114" type="s" number="1773" updated="2015-08-01T07:07:03-04:00">
+  <state datetime="2015-07-15">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-15"/>
+  </status>
+  <introduced datetime="2015-07-15"/>
+  <titles>
+    <title type="short" as="introduced">Consumer Reporting Fairness Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend title 11, United States Code, to require creditors to inform consumer reporting agencies that certain debts have been discharged in bankruptcy cases.</title>
+  </titles>
+  <sponsor id="400050"/>
+  <cosponsors>
+    <cosponsor id="412490" joined="2015-07-15"/>
+    <cosponsor id="300038" joined="2015-07-15"/>
+    <cosponsor id="412378" joined="2015-07-15"/>
+    <cosponsor id="412325" joined="2015-07-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-15" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+  </subjects>
+  <amendments/>
+</bill>

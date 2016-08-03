@@ -1,0 +1,33 @@
+<bill session="114" type="h" number="1109" updated="2015-04-11T06:26:31-04:00">
+  <state datetime="2015-02-26">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-26"/>
+  </status>
+  <introduced datetime="2015-02-26"/>
+  <titles>
+    <title type="short" as="introduced">Social Security Lump-Sum Death Benefit Improvement and Modernization Act of 2015</title>
+    <title type="official" as="introduced">To amend title II of the Social Security Act to increase the maximum amount of the lump-sum death benefit.</title>
+  </titles>
+  <sponsor id="412618"/>
+  <cosponsors>
+    <cosponsor id="400030" joined="2015-03-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-26" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Social security and elderly assistance"/>
+  </subjects>
+  <amendments/>
+  <summary>2/26/2015--Introduced.
+Social Security Lump-Sum Death Benefit Improvement and Modernization Act of 2015
+
+This bill amends title II (Old Age, Survivors and Disability Insurance) of the Social Security Act to increase from $255 to $1,000 the lump-sum death payment.</summary>
+</bill>

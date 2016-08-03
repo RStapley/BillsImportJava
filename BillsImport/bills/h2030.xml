@@ -1,0 +1,61 @@
+<bill session="114" type="h" number="2030" updated="2015-08-01T04:50:50-04:00">
+  <state datetime="2015-04-27">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-27"/>
+  </status>
+  <introduced datetime="2015-04-27"/>
+  <titles>
+    <title type="short" as="introduced">READ Act</title>
+    <title type="short" as="introduced">Reducing Exposure to Asbestos Database Act of 2015</title>
+    <title type="official" as="introduced">To amend the Asbestos Information Act of 1988 to establish a public database of asbestos-containing products, to require public disclosure of information pertaining to the manufacture, processing, distribution, and use of asbestos-containing products in the United States, and for other purposes.</title>
+  </titles>
+  <sponsor id="412505"/>
+  <cosponsors>
+    <cosponsor id="412571" joined="2015-07-20"/>
+    <cosponsor id="412195" joined="2015-07-20"/>
+    <cosponsor id="412236" joined="2015-07-20"/>
+    <cosponsor id="400160" joined="2015-04-27"/>
+    <cosponsor id="400163" joined="2015-07-07"/>
+    <cosponsor id="400195" joined="2015-07-22"/>
+    <cosponsor id="412209" joined="2015-06-25"/>
+    <cosponsor id="400245" joined="2015-07-22"/>
+    <cosponsor id="412521" joined="2015-07-31"/>
+    <cosponsor id="412293" joined="2015-07-10"/>
+    <cosponsor id="400295" joined="2015-06-25"/>
+    <cosponsor id="412523" joined="2015-07-15"/>
+    <cosponsor id="412308" joined="2015-07-31"/>
+    <cosponsor id="412331" joined="2015-07-22"/>
+    <cosponsor id="400333" joined="2015-07-08"/>
+    <cosponsor id="412579" joined="2015-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-27" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-05-01">
+      <text>Referred to the Subcommittee on Environment and the Economy.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF18" subcommittee="Environment and the Economy" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="700"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Business records"/>
+    <term name="Civil actions and liability"/>
+    <term name="Congressional oversight"/>
+    <term name="Consumer affairs"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Hazardous wastes and toxic substances"/>
+    <term name="Manufacturing"/>
+    <term name="Product safety and quality"/>
+    <term name="Trade restrictions"/>
+    <term name="Worker safety and health"/>
+  </subjects>
+  <amendments/>
+</bill>

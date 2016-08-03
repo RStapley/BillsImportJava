@@ -1,0 +1,58 @@
+<bill session="114" type="h" number="2786" updated="2015-08-01T06:42:55-04:00">
+  <state datetime="2015-06-25">REPORTED</state>
+  <status>
+    <unknown datetime="2015-06-25"/>
+  </status>
+  <introduced datetime="2015-06-15"/>
+  <titles>
+    <title type="short" as="introduced">Cross-Border Rail Security Act of 2015</title>
+    <title type="short" as="reported to house">Cross-Border Rail Security Act of 2015</title>
+    <title type="official" as="introduced">To require the Commissioner of U.S. Customs and Border Protection to submit a report on cross-border rail security, and for other purposes.</title>
+  </titles>
+  <sponsor id="412580"/>
+  <cosponsors>
+    <cosponsor id="400276" joined="2015-06-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-15" state="REFERRED">
+      <text>Referred to the House Committee on Homeland Security.</text>
+    </action>
+    <action datetime="2015-06-23">
+      <text>Referred to the Subcommittee on Border and Maritime Security.</text>
+    </action>
+    <action datetime="2015-06-23">
+      <text>Referred to the Subcommittee on Transportation Security.</text>
+    </action>
+    <action datetime="2015-06-25">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-06-25" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </calendar>
+    <action datetime="2015-07-28T14:22:00-04:00">
+      <text>Reported by the Committee on Homeland Security. H. Rept. 114-233.</text>
+    </action>
+    <calendar datetime="2015-07-28T14:22:00-04:00" calendar="Union" number="176">
+      <text>Placed on the Union Calendar, Calendar No. 176.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="HSHM11" subcommittee="Border and Maritime Security" name="House Homeland Security"/>
+    <committee activity="Referral" code="HSHM07" subcommittee="Transportation Security" name="House Homeland Security"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Canada"/>
+    <term name="Congressional oversight"/>
+    <term name="Customs enforcement"/>
+    <term name="Government studies and investigations"/>
+    <term name="Latin America"/>
+    <term name="Mexico"/>
+    <term name="Radiation"/>
+    <term name="Railroads"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,48 @@
+<bill session="114" type="h" number="2560" updated="2015-08-15T06:40:45-04:00">
+  <state datetime="2015-05-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-21"/>
+  </status>
+  <introduced datetime="2015-05-21"/>
+  <titles>
+    <title type="short" as="introduced">Common Sense Waiver Act of 2015</title>
+    <title type="official" as="introduced">To authorize the Administrator of the Environmental Protection Agency to waive any emission standard or other requirement under section 112 of the Clean Air Act (42 U.S.C. 7412) applicable to the control of asbestos emissions in the demolition or renovation of a condemned building for which there is a reasonable expectation of structural failure.</title>
+  </titles>
+  <sponsor id="412648"/>
+  <cosponsors>
+    <cosponsor id="412563" joined="2015-06-25"/>
+    <cosponsor id="412453" joined="2015-06-23"/>
+    <cosponsor id="412454" joined="2015-06-02"/>
+    <cosponsor id="400219" joined="2015-06-24"/>
+    <cosponsor id="412660" joined="2015-05-21"/>
+    <cosponsor id="412608" joined="2015-06-17"/>
+    <cosponsor id="412310" joined="2015-06-24"/>
+    <cosponsor id="412650" joined="2015-06-10"/>
+    <cosponsor id="412405" joined="2015-06-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-21" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-05-22">
+      <text>Referred to the Subcommittee on Energy and Power.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Administrative remedies"/>
+    <term name="Air quality"/>
+    <term name="Building construction"/>
+    <term name="Environmental Protection Agency (EPA)"/>
+    <term name="Environmental regulatory procedures"/>
+    <term name="Hazardous wastes and toxic substances"/>
+    <term name="Industrial facilities"/>
+    <term name="Residential rehabilitation and home repair"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,30 @@
+<bill session="114" type="s" number="1564" updated="2015-06-22T09:46:26-04:00">
+  <state datetime="2015-06-11">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-11"/>
+  </status>
+  <introduced datetime="2015-06-11"/>
+  <titles>
+    <title type="short" as="introduced">Guaranteed Paid Vacation Act</title>
+    <title type="official" as="introduced">A bill to require that employers provide not less than 10 days of paid vacation time to eligible employees, and for other purposes.</title>
+  </titles>
+  <sponsor id="400357"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-06-11">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S4108-4109"/>
+    </action>
+    <action datetime="2015-06-11" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Labor and employment"/>
+  </subjects>
+  <amendments/>
+</bill>

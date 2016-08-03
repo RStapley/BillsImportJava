@@ -1,0 +1,57 @@
+<bill session="114" type="s" number="1118" updated="2015-08-22T07:01:01-04:00">
+  <state datetime="2015-04-28">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-28"/>
+  </status>
+  <introduced datetime="2015-04-28"/>
+  <titles>
+    <title type="short" as="introduced">National Defense Authorization Act for Fiscal Year 2016</title>
+    <title type="short" as="introduced" partial="1">Defense Base Closure and Realignment Act of 2015</title>
+    <title type="short" as="introduced" partial="1">Military Construction Authorization Act for Fiscal Year 2016</title>
+    <title type="official" as="introduced">A bill to authorize appropriations for fiscal year 2016 for military activities of the Department of Defense and for military construction, to prescribe military personnel strengths for such fiscal year, and for other purposes.</title>
+  </titles>
+  <sponsor id="300071"/>
+  <cosponsors>
+    <cosponsor id="300081" joined="2015-04-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-28">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S2478"/>
+    </action>
+    <action datetime="2015-04-28" state="REFERRED">
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1735"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Defense spending"/>
+    <term name="Department of Defense"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Military facilities and property"/>
+    <term name="Military personnel and dependents"/>
+  </subjects>
+  <amendments/>
+  <summary>4/28/2015--Introduced.
+National Defense Authorization Act for Fiscal Year 2016 
+
+This bill authorizes FY2016 appropriations and sets forth policies regarding the military activities of the Department of Defense (DOD) and military construction. The bill authorizes appropriations, but does not provide budget authority for discretionary programs, which is included in subsequent appropriations legislation.
+
+The bill authorizes appropriations to DOD for Procurement; Research, Development, Test, and Evaluation; Operation and Maintenance; the Revolving and Working Capital Funds; the Joint Urgent Operational Needs Fund; Chemical Agents and Munitions Destruction; Defense-Wide Drug Interdiction and Counter-Drug Activities; the Defense Inspector General; the Defense Health Program; and Overseas Contingency Operations.
+
+The bill also authorizes the FY2016 personnel strengths for active duty and reserve forces and sets forth policies regarding military personnel, compensation and other personnel benefits, health care, acquisition policy and management, DOD organization and management, civilian personnel matters, and matters relating to foreign nations.
+
+Military Construction Authorization Act for Fiscal Year 2016 
+
+The bill authorizes appropriations and sets forth policies regarding military construction for the Army, Navy, Air Force, defense agencies, the North Atlantic Treaty Organization Security Investment Program, and Guard and Reserve Forces facilities. The bill also authorizes appropriations for base realignment and closure activities.
+
+Defense Base Closure and Realignment Act of 2015 
+
+The bill establishes a Defense Base Closure and Realignment Commission and sets forth procedures for the closure and realignment of certain military installations in the United States.</summary>
+</bill>

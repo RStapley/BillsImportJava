@@ -1,0 +1,240 @@
+<bill session="114" type="h" number="1105" updated="2015-08-01T06:28:34-04:00">
+  <state datetime="2015-04-16T12:11:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2015-04-16T12:11:00-04:00"/>
+  </status>
+  <introduced datetime="2015-02-26"/>
+  <titles>
+    <title type="short" as="introduced">Death Tax Repeal Act of 2015</title>
+    <title type="short" as="reported to house">Death Tax Repeal Act of 2015</title>
+    <title type="short" as="passed house">Death Tax Repeal Act of 2015</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to repeal the estate and generation-skipping transfer taxes, and for other purposes.</title>
+  </titles>
+  <sponsor id="400046"/>
+  <cosponsors>
+    <cosponsor id="412630" joined="2015-03-25"/>
+    <cosponsor id="400004" joined="2015-03-17"/>
+    <cosponsor id="412625" joined="2015-03-24"/>
+    <cosponsor id="412469" joined="2015-03-24"/>
+    <cosponsor id="412541" joined="2015-03-23"/>
+    <cosponsor id="412436" joined="2015-03-25"/>
+    <cosponsor id="400029" joined="2015-03-24"/>
+    <cosponsor id="400030" joined="2015-02-26"/>
+    <cosponsor id="412478" joined="2015-03-03"/>
+    <cosponsor id="400032" joined="2015-03-13"/>
+    <cosponsor id="412627" joined="2015-03-03"/>
+    <cosponsor id="412629" joined="2015-03-17"/>
+    <cosponsor id="400636" joined="2015-03-23"/>
+    <cosponsor id="412395" joined="2015-03-19"/>
+    <cosponsor id="412196" joined="2015-03-23"/>
+    <cosponsor id="412619" joined="2015-03-03"/>
+    <cosponsor id="412601" joined="2015-03-17"/>
+    <cosponsor id="400057" joined="2015-03-23"/>
+    <cosponsor id="412622" joined="2015-03-19"/>
+    <cosponsor id="400071" joined="2015-03-19"/>
+    <cosponsor id="412271" joined="2015-03-25"/>
+    <cosponsor id="412563" joined="2015-03-13"/>
+    <cosponsor id="412531" joined="2015-03-17"/>
+    <cosponsor id="412658" joined="2015-03-03"/>
+    <cosponsor id="400655" joined="2015-03-13"/>
+    <cosponsor id="412513" joined="2015-03-03"/>
+    <cosponsor id="412651" joined="2015-03-23"/>
+    <cosponsor id="412555" joined="2015-03-03"/>
+    <cosponsor id="412400" joined="2015-03-17"/>
+    <cosponsor id="400086" joined="2015-03-19"/>
+    <cosponsor id="400089" joined="2015-03-19"/>
+    <cosponsor id="412621" joined="2015-03-25"/>
+    <cosponsor id="412536" joined="2015-03-17"/>
+    <cosponsor id="412403" joined="2015-03-03"/>
+    <cosponsor id="412526" joined="2015-03-17"/>
+    <cosponsor id="412420" joined="2015-03-26"/>
+    <cosponsor id="412488" joined="2015-03-03"/>
+    <cosponsor id="400116" joined="2015-03-17"/>
+    <cosponsor id="412639" joined="2015-03-24"/>
+    <cosponsor id="412482" joined="2015-03-17"/>
+    <cosponsor id="412480" joined="2015-03-23"/>
+    <cosponsor id="400141" joined="2015-03-25"/>
+    <cosponsor id="400142" joined="2015-03-24"/>
+    <cosponsor id="412463" joined="2015-03-23"/>
+    <cosponsor id="400154" joined="2015-03-24"/>
+    <cosponsor id="412397" joined="2015-03-04"/>
+    <cosponsor id="412473" joined="2015-03-23"/>
+    <cosponsor id="400158" joined="2015-03-17"/>
+    <cosponsor id="412661" joined="2015-03-17"/>
+    <cosponsor id="412447" joined="2015-03-19"/>
+    <cosponsor id="412278" joined="2015-03-23"/>
+    <cosponsor id="412645" joined="2015-03-25"/>
+    <cosponsor id="412280" joined="2015-03-03"/>
+    <cosponsor id="400175" joined="2015-03-23"/>
+    <cosponsor id="412623" joined="2015-03-25"/>
+    <cosponsor id="412609" joined="2015-03-23"/>
+    <cosponsor id="412553" joined="2015-03-04"/>
+    <cosponsor id="412550" joined="2015-03-24"/>
+    <cosponsor id="412429" joined="2015-03-24"/>
+    <cosponsor id="412437" joined="2015-03-24"/>
+    <cosponsor id="412422" joined="2015-03-03"/>
+    <cosponsor id="412654" joined="2015-03-23"/>
+    <cosponsor id="412484" joined="2015-03-23"/>
+    <cosponsor id="412284" joined="2015-03-13"/>
+    <cosponsor id="400206" joined="2015-03-04"/>
+    <cosponsor id="412603" joined="2015-03-19"/>
+    <cosponsor id="400209" joined="2015-03-03"/>
+    <cosponsor id="412465" joined="2015-03-18"/>
+    <cosponsor id="400220" joined="2015-03-17"/>
+    <cosponsor id="412421" joined="2015-03-17"/>
+    <cosponsor id="400224" joined="2015-03-23"/>
+    <cosponsor id="412510" joined="2015-03-03"/>
+    <cosponsor id="412191" joined="2015-03-19"/>
+    <cosponsor id="412290" joined="2015-03-23"/>
+    <cosponsor id="412256" joined="2015-03-17"/>
+    <cosponsor id="412445" joined="2015-03-23"/>
+    <cosponsor id="412294" joined="2015-03-13"/>
+    <cosponsor id="400656" joined="2015-03-03"/>
+    <cosponsor id="412503" joined="2015-03-03"/>
+    <cosponsor id="400654" joined="2015-03-03"/>
+    <cosponsor id="412295" joined="2015-03-24"/>
+    <cosponsor id="412552" joined="2015-03-23"/>
+    <cosponsor id="412466" joined="2015-03-03"/>
+    <cosponsor id="412540" joined="2015-03-04"/>
+    <cosponsor id="412568" joined="2015-03-03"/>
+    <cosponsor id="400441" joined="2015-03-18"/>
+    <cosponsor id="412660" joined="2015-03-25"/>
+    <cosponsor id="412475" joined="2015-02-26"/>
+    <cosponsor id="412409" joined="2015-03-24"/>
+    <cosponsor id="400297" joined="2015-02-26"/>
+    <cosponsor id="412302" joined="2015-03-17"/>
+    <cosponsor id="412303" joined="2015-03-03"/>
+    <cosponsor id="400313" joined="2015-03-23"/>
+    <cosponsor id="412569" joined="2015-03-23"/>
+    <cosponsor id="400652" joined="2015-03-23"/>
+    <cosponsor id="412633" joined="2015-03-24"/>
+    <cosponsor id="412431" joined="2015-03-25"/>
+    <cosponsor id="412393" joined="2015-03-17"/>
+    <cosponsor id="400660" joined="2015-03-17"/>
+    <cosponsor id="412462" joined="2015-03-23"/>
+    <cosponsor id="412489" joined="2015-03-13"/>
+    <cosponsor id="412394" joined="2015-03-26"/>
+    <cosponsor id="412310" joined="2015-03-17"/>
+    <cosponsor id="400341" joined="2015-03-17"/>
+    <cosponsor id="412411" joined="2015-03-17"/>
+    <cosponsor id="412570" joined="2015-03-19"/>
+    <cosponsor id="412314" joined="2015-03-03"/>
+    <cosponsor id="412399" joined="2015-03-24"/>
+    <cosponsor id="412417" joined="2015-03-26"/>
+    <cosponsor id="400373" joined="2015-03-17"/>
+    <cosponsor id="412217" joined="2015-03-17"/>
+    <cosponsor id="400380" joined="2015-03-24"/>
+    <cosponsor id="412596" joined="2015-03-13"/>
+    <cosponsor id="412648" joined="2015-03-25"/>
+    <cosponsor id="412581" joined="2015-03-03"/>
+    <cosponsor id="412461" joined="2015-03-25"/>
+    <cosponsor id="412317" joined="2015-03-23"/>
+    <cosponsor id="400404" joined="2015-03-23"/>
+    <cosponsor id="412405" joined="2015-03-04"/>
+    <cosponsor id="412636" joined="2015-03-23"/>
+    <cosponsor id="412515" joined="2015-03-17"/>
+    <cosponsor id="412548" joined="2015-03-17"/>
+    <cosponsor id="412213" joined="2015-03-13"/>
+    <cosponsor id="412574" joined="2015-03-17"/>
+    <cosponsor id="412410" joined="2015-03-24"/>
+    <cosponsor id="412564" joined="2015-03-23"/>
+    <cosponsor id="400627" joined="2015-03-03"/>
+    <cosponsor id="412578" joined="2015-03-13"/>
+    <cosponsor id="400433" joined="2015-03-25"/>
+    <cosponsor id="412402" joined="2015-03-26"/>
+    <cosponsor id="412430" joined="2015-03-23"/>
+    <cosponsor id="412628" joined="2015-03-19"/>
+    <cosponsor id="400440" joined="2015-03-03"/>
+    <cosponsor id="412428" joined="2015-03-03"/>
+    <cosponsor id="412640" joined="2015-03-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-26" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="2015-03-25">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-03-25" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 22 - 10.</text>
+    </calendar>
+    <action datetime="2015-04-06T14:06:00-04:00">
+      <text>Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-52.</text>
+    </action>
+    <calendar datetime="2015-04-06T14:07:00-04:00" calendar="Union" number="33">
+      <text>Placed on the Union Calendar, Calendar No. 33.</text>
+    </calendar>
+    <action datetime="2015-04-16T09:16:00-04:00">
+      <text>Considered under the provisions of rule H. Res. 200.</text>
+      <reference ref="CR H2275-2286" label="consideration"/>
+    </action>
+    <action datetime="2015-04-16T09:16:00-04:00">
+      <text>This resolution provides for consideration of H.R. 622, H.R. 1105, and H.R. 1195.</text>
+    </action>
+    <action datetime="2015-04-16T09:16:00-04:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.R. 1105.</text>
+    </action>
+    <action datetime="2015-04-16T10:33:00-04:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+      <reference ref="CR H2285" label="consideration"/>
+    </action>
+    <action datetime="2015-04-16T10:33:00-04:00">
+      <text>Mr. Nolan moved to recommit with instructions to the Committee on Ways and Means.</text>
+      <reference ref="CR H2285-2286" label="consideration"/>
+      <reference ref="CR H2285" label="text"/>
+    </action>
+    <action datetime="2015-04-16T10:35:00-04:00">
+      <text>DEBATE - The House proceeded with 10 minutes of debate on the motion to recommit with instructions, pending a reservation of a point of order. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to add a section at the end of the bill titled Benefits Disallowed in Cases of Gift and Estate Tax Evasion. Subsequently, the reservation of a point of order was withdrawn.</text>
+    </action>
+    <action datetime="2015-04-16T10:43:00-04:00">
+      <text>The previous question on the motion to recommit with instructions was ordered without objection.</text>
+      <reference ref="CR H2286" label="consideration"/>
+    </action>
+    <action datetime="2015-04-16T10:43:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the motion to recommit with instructions, the Chair put the question on adopting the motion and by voice vote, announced that the noes had prevailed. Mr. Nolan demanded the yeas and nays and pursuant to the order of the House of today, the Chair postponed further proceedings on the question of adoption until a time to be announced.</text>
+    </action>
+    <action datetime="2015-04-16T11:56:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H2290-2292" label="consideration"/>
+    </action>
+    <action datetime="2015-04-16T12:03:00-04:00">
+      <text>On motion to recommit with instructions Failed by the Yeas and Nays: 186 - 232 (Roll no. 160).</text>
+      <reference ref="CR H2290-2291" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="161" datetime="2015-04-16T12:11:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by recorded vote: 240 - 179 (Roll no. 161).</text>
+      <reference ref="CR H2275-2276" label="text"/>
+    </vote>
+    <action datetime="2015-04-16T12:11:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2015-04-20">
+      <text>Received in the Senate.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="hr" number="200"/>
+    <bill relation="identical" session="114" type="s" number="860"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Inflation and prices"/>
+    <term name="Transfer and inheritance taxes"/>
+  </subjects>
+  <amendments>
+    <amendment number="h88"/>
+  </amendments>
+  <summary>4/16/2015--Passed House amended.
+Death Tax Repeal Act of 2015 
+
+(Sec. 2) This bill amends the Internal Revenue Code to repeal the estate and generation-skipping transfer taxes for estates of decedents dying or for transfers made on or after the enactment date of this Act. In the case of assets placed in a qualified domestic trust by a decedent who dies prior to the enactment of this Act, the current estate tax will not apply to: (1) distributions from such trust before the death of a surviving spouse made more than 10 years after the enactment date of this Act, and (2) assets remaining in such trust upon the death of the surviving spouse.
+
+(Sec. 3) This section revises gift tax rates to lower the top rate to 35% and deems a transfer in trust to be a taxable gift unless the trust is treated as wholly-owned by the donor or the donor's spouse.
+
+ The lifetime exemption for gifts is set at $5 million with a cost-of-living adjustment for calendar years beginning after 2011. The adjusted exemption amount in 2015 is $5.43 million.
+
+(Sec. 4) The budgetary effects of this Act are exempted from entry on either PAYGO scorecard maintained under the Statutory Pay-As-You-Go Act of 2010.</summary>
+</bill>

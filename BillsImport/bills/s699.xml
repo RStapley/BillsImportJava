@@ -1,0 +1,50 @@
+<bill session="114" type="s" number="699" updated="2015-04-11T06:39:32-04:00">
+  <state datetime="2015-03-10">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-10"/>
+  </status>
+  <introduced datetime="2015-03-10"/>
+  <titles>
+    <title type="short" as="introduced">American Opportunity Tax Credit Permanence and Consolidation Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to extend and modify the American Opportunity Tax Credit, and for other purposes.</title>
+  </titles>
+  <sponsor id="300087"/>
+  <cosponsors>
+    <cosponsor id="400050" joined="2015-03-10"/>
+    <cosponsor id="400064" joined="2015-03-10"/>
+    <cosponsor id="412246" joined="2015-03-26"/>
+    <cosponsor id="300038" joined="2015-03-10"/>
+    <cosponsor id="400272" joined="2015-03-10"/>
+    <cosponsor id="300076" joined="2015-03-10"/>
+    <cosponsor id="300082" joined="2015-03-10"/>
+    <cosponsor id="412323" joined="2015-03-10"/>
+    <cosponsor id="300093" joined="2015-03-10"/>
+    <cosponsor id="412247" joined="2015-03-10"/>
+    <cosponsor id="300100" joined="2015-03-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-10" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1260"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Computers and information technology"/>
+    <term name="Educational technology and distance education"/>
+    <term name="Higher education"/>
+    <term name="Income tax credits"/>
+    <term name="Income tax exclusion"/>
+    <term name="Student aid and college costs"/>
+  </subjects>
+  <amendments/>
+  <summary>3/10/2015--Introduced.
+American Opportunity Tax Credit Permanence and Consolidation Act of 2015
+
+Amends the Internal Revenue Code to replace the Hope Scholarship and Lifetime Learning tax credits with a new American Opportunity Tax Credit that: (1) allows an income tax credit of up to $3,000 of the qualified tuition and related expenses of a student who is carrying at least one half of a normal course load, (2) increases the income threshold for reductions in the credit amount based upon modified adjusted gross income, (3) imposes a lifetime dollar limitation on such credit of $15,000 for all taxable years, and (4) makes a portion of the credit refundable. Allows an exclusion from gross income of any amount received as a Federal Pell Grant.</summary>
+</bill>

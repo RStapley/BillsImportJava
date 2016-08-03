@@ -1,0 +1,53 @@
+<bill session="114" type="h" number="3094" updated="2015-08-05T04:47:31-04:00">
+  <state datetime="2015-07-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-16"/>
+  </status>
+  <introduced datetime="2015-07-16"/>
+  <titles>
+    <title type="short" as="introduced">Gulf States Red Snapper Management Authority Act</title>
+    <title type="official" as="introduced">To amend the Magnuson-Stevens Fishery Conservation and Management Act to transfer to States the authority to manage red snapper fisheries in the Gulf of Mexico.</title>
+  </titles>
+  <sponsor id="412631"/>
+  <cosponsors>
+    <cosponsor id="412630" joined="2015-07-16"/>
+    <cosponsor id="412655" joined="2015-07-16"/>
+    <cosponsor id="412436" joined="2015-07-16"/>
+    <cosponsor id="400636" joined="2015-07-16"/>
+    <cosponsor id="412622" joined="2015-07-16"/>
+    <cosponsor id="412513" joined="2015-07-16"/>
+    <cosponsor id="412472" joined="2015-07-16"/>
+    <cosponsor id="400160" joined="2015-07-16"/>
+    <cosponsor id="412623" joined="2015-07-16"/>
+    <cosponsor id="412510" joined="2015-07-16"/>
+    <cosponsor id="412256" joined="2015-07-16"/>
+    <cosponsor id="412445" joined="2015-07-16"/>
+    <cosponsor id="400279" joined="2015-07-16"/>
+    <cosponsor id="412302" joined="2015-07-16"/>
+    <cosponsor id="412443" joined="2015-07-16"/>
+    <cosponsor id="400626" joined="2015-07-29"/>
+    <cosponsor id="412432" joined="2015-07-16"/>
+    <cosponsor id="412417" joined="2015-07-16"/>
+    <cosponsor id="400402" joined="2015-07-16"/>
+    <cosponsor id="412214" joined="2015-07-16"/>
+    <cosponsor id="400627" joined="2015-07-16"/>
+    <cosponsor id="412255" joined="2015-07-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-16" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2015-08-04">
+      <text>Referred to the Subcommittee on Water, Power and Oceans.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII13" subcommittee="Water, Power and Oceans" name="House Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+</bill>

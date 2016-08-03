@@ -1,0 +1,47 @@
+<bill session="114" type="h" number="2954" updated="2015-07-29T04:48:57-04:00">
+  <state datetime="2015-07-23">REPORTED</state>
+  <status>
+    <unknown datetime="2015-07-23"/>
+  </status>
+  <introduced datetime="2015-07-07"/>
+  <titles>
+    <title type="official" as="introduced">To designate the Federal building located at 617 Walnut Street in Helena, Arkansas, as the "Jacob Trieber Federal Building, United States Post Office, and United States Court House".</title>
+  </titles>
+  <sponsor id="412400"/>
+  <cosponsors>
+    <cosponsor id="412236" joined="2015-07-23"/>
+    <cosponsor id="412609" joined="2015-07-07"/>
+    <cosponsor id="412610" joined="2015-07-07"/>
+    <cosponsor id="412402" joined="2015-07-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-07" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2015-07-08">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+    </action>
+    <action datetime="2015-07-23">
+      <text>Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.</text>
+    </action>
+    <action datetime="2015-07-23">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-07-23" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup"/>
+    <committee activity="Referral, Discharged" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="1707"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+  </subjects>
+  <amendments/>
+  <summary>7/7/2015--Introduced.
+Designates the federal building located at 617 Walnut Street in Helena, Arkansas, as the "Jacob Trieber Federal Building, United States Post Office, and United States Court House."</summary>
+</bill>

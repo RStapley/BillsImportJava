@@ -1,0 +1,33 @@
+<bill session="114" type="h" number="3433" updated="2015-08-15T06:48:05-04:00">
+  <state datetime="2015-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-31"/>
+  </status>
+  <introduced datetime="2015-07-31"/>
+  <titles>
+    <title type="short" as="introduced">PORTS Act</title>
+    <title type="short" as="introduced">Protecting Orderly and Responsible Transit of Shipments Act of 2015</title>
+    <title type="official" as="introduced">To amend the Labor Management Relations Act, 1947, to address slow-downs, strikes, and lock-outs occurring at ports in the United States, and for other purposes.</title>
+  </titles>
+  <sponsor id="400660"/>
+  <cosponsors>
+    <cosponsor id="412271" joined="2015-07-31"/>
+    <cosponsor id="412660" joined="2015-07-31"/>
+    <cosponsor id="412664" joined="2015-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-31" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1519"/>
+  </relatedbills>
+  <subjects>
+    <term name="Labor and employment"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,87 @@
+<bill session="114" type="h" number="1282" updated="2015-08-05T04:47:11-04:00">
+  <state datetime="2015-03-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-04"/>
+  </status>
+  <introduced datetime="2015-03-04"/>
+  <titles>
+    <title type="short" as="introduced">Horse Transportation Safety Act of 2015</title>
+    <title type="official" as="introduced">To amend title 49, United States Code, to prohibit the transportation of horses in interstate transportation in a motor vehicle containing 2 or more levels stacked on top of one another.</title>
+  </titles>
+  <sponsor id="412236"/>
+  <cosponsors>
+    <cosponsor id="412565" joined="2015-06-08"/>
+    <cosponsor id="400063" joined="2015-03-13"/>
+    <cosponsor id="412379" joined="2015-03-23"/>
+    <cosponsor id="412600" joined="2015-03-04"/>
+    <cosponsor id="412221" joined="2015-03-04"/>
+    <cosponsor id="412272" joined="2015-03-04"/>
+    <cosponsor id="412385" joined="2015-03-13"/>
+    <cosponsor id="412524" joined="2015-04-30"/>
+    <cosponsor id="400129" joined="2015-03-13"/>
+    <cosponsor id="400646" joined="2015-03-23"/>
+    <cosponsor id="400162" joined="2015-03-19"/>
+    <cosponsor id="412447" joined="2015-03-04"/>
+    <cosponsor id="412434" joined="2015-03-25"/>
+    <cosponsor id="412282" joined="2015-03-04"/>
+    <cosponsor id="400209" joined="2015-03-04"/>
+    <cosponsor id="412435" joined="2015-03-04"/>
+    <cosponsor id="412583" joined="2015-04-20"/>
+    <cosponsor id="400219" joined="2015-08-04"/>
+    <cosponsor id="412616" joined="2015-06-08"/>
+    <cosponsor id="400245" joined="2015-04-20"/>
+    <cosponsor id="412521" joined="2015-03-04"/>
+    <cosponsor id="400246" joined="2015-03-19"/>
+    <cosponsor id="400263" joined="2015-06-18"/>
+    <cosponsor id="412189" joined="2015-04-20"/>
+    <cosponsor id="412611" joined="2015-07-29"/>
+    <cosponsor id="400290" joined="2015-06-08"/>
+    <cosponsor id="400295" joined="2015-03-13"/>
+    <cosponsor id="412585" joined="2015-03-04"/>
+    <cosponsor id="412308" joined="2015-03-25"/>
+    <cosponsor id="412331" joined="2015-03-19"/>
+    <cosponsor id="400333" joined="2015-03-13"/>
+    <cosponsor id="400361" joined="2015-03-13"/>
+    <cosponsor id="412186" joined="2015-03-13"/>
+    <cosponsor id="400378" joined="2015-03-04"/>
+    <cosponsor id="400379" joined="2015-06-08"/>
+    <cosponsor id="412318" joined="2015-03-04"/>
+    <cosponsor id="412254" joined="2015-04-20"/>
+    <cosponsor id="412239" joined="2015-03-13"/>
+    <cosponsor id="400431" joined="2015-03-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-04">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E310"/>
+    </action>
+    <action datetime="2015-03-04" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2015-03-05">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW12" subcommittee="Highways and Transit" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="850"/>
+    <bill relation="unknown" session="114" type="s" number="946"/>
+  </relatedbills>
+  <subjects>
+    <term name="Animals"/>
+    <term name="Animal protection and human-animal relationships"/>
+    <term name="Civil actions and liability"/>
+    <term name="Mammals"/>
+    <term name="Motor carriers"/>
+    <term name="Motor vehicles"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+  <summary>3/4/2015--Introduced.
+Horse Transportation Safety Act of 2015 
+
+ Prohibits a person from transporting a horse in interstate commerce in a motor vehicle (except a vehicle operated exclusively on rail or rails) containing two or more levels stacked on top of one another. Prescribes civil penalties for persons who knowingly violate such prohibition.</summary>
+</bill>

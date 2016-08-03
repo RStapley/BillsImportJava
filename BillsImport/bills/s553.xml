@@ -1,0 +1,68 @@
+<bill session="114" type="s" number="553" updated="2015-06-23T04:47:10-04:00">
+  <state datetime="2015-02-26">REPORTED</state>
+  <status>
+    <unknown datetime="2015-02-26"/>
+  </status>
+  <introduced datetime="2015-02-24"/>
+  <titles>
+    <title type="short" as="introduced">End Modern Slavery Initiative Act of 2015</title>
+    <title type="official" as="introduced">A bill to marshal resources to undertake a concerted, transformative effort that seeks to bring an end to modern slavery, and for other purposes.</title>
+  </titles>
+  <sponsor id="412248"/>
+  <cosponsors>
+    <cosponsor id="300002" joined="2015-02-24"/>
+    <cosponsor id="412493" joined="2015-02-24"/>
+    <cosponsor id="412490" joined="2015-02-24"/>
+    <cosponsor id="400064" joined="2015-02-24"/>
+    <cosponsor id="300023" joined="2015-03-04"/>
+    <cosponsor id="412390" joined="2015-02-24"/>
+    <cosponsor id="412554" joined="2015-04-23"/>
+    <cosponsor id="400194" joined="2015-02-25"/>
+    <cosponsor id="400222" joined="2015-02-24"/>
+    <cosponsor id="300071" joined="2015-02-24"/>
+    <cosponsor id="400272" joined="2015-02-24"/>
+    <cosponsor id="412305" joined="2015-04-23"/>
+    <cosponsor id="400325" joined="2015-02-24"/>
+    <cosponsor id="412491" joined="2015-02-24"/>
+    <cosponsor id="412507" joined="2015-06-01"/>
+    <cosponsor id="412323" joined="2015-02-24"/>
+    <cosponsor id="400413" joined="2015-04-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-24" state="REFERRED">
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+    <calendar datetime="2015-02-26" state="REPORTED">
+      <text>Committee on Foreign Relations. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Congressional oversight"/>
+    <term name="Crime victims"/>
+    <term name="Crimes against children"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="Employment discrimination and employee rights"/>
+    <term name="Foreign aid and international relief"/>
+    <term name="Human rights"/>
+    <term name="Human trafficking"/>
+    <term name="International organizations and cooperation"/>
+    <term name="Rule of law and government transparency"/>
+    <term name="Sex offenses"/>
+    <term name="Social work, volunteer service, charitable organizations"/>
+    <term name="Youth employment and child labor"/>
+  </subjects>
+  <amendments/>
+  <summary>2/24/2015--Introduced.
+End Modern Slavery Initiative Act of 2015
+
+This bill expresses the sense of Congress that:
+
+ the United States has a long history of domestic and international engagement in preventing and responding to modern slavery; modern slavery involves extensive criminal activity and demands U.S. attention and commitment; there is a need for international public and private cooperation to increase resources for programs to reduce the prevalence of modern slavery by building the capacity of foreign governments to deter perpetrators of modern slavery; and countries that fall within the first and second tiers of the Department of State's annual Trafficking in Persons report could qualify as partner countries for the purposes of this Act, and many countries that fall within the Tier 2 watch list may also qualify, and therefore should be eligible for funding as partner countries under this Act, along with key jurisdictions of other countries, such as Tier 3 countries. The End Modern Slavery Initiative Foundation is established to work with government, civil society, and private institutions in partner countries and key jurisdictions of other countries supported by the Foundation with a high prevalence of modern slavery to identify and fund successful strategies to combat modern slavery.
+
+The U.S. government shall seek other foreign governments providing Foundation support to provide additional support for projects in partner countries.</summary>
+</bill>

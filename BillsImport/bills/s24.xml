@@ -1,0 +1,40 @@
+<bill session="114" type="s" number="24" updated="2015-03-14T06:35:32-04:00">
+  <state datetime="2015-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-06"/>
+  </status>
+  <introduced datetime="2015-01-06"/>
+  <titles>
+    <title type="short" as="introduced">Due Process Guarantee Act of 2015</title>
+    <title type="official" as="introduced">A bill to clarify that an authorization to use military force, a declaration of war, or any similar authority shall not authorize the detention without charge or trial of a citizen or lawful permanent resident of the United States.</title>
+  </titles>
+  <sponsor id="300043"/>
+  <cosponsors>
+    <cosponsor id="412495" joined="2015-01-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-06">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S13-14"/>
+    </action>
+    <action datetime="2015-01-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Conflicts and wars"/>
+    <term name="Criminal procedure and sentencing"/>
+    <term name="Detention of persons"/>
+    <term name="War and emergency powers"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/2015--Introduced.
+Due Process Guarantee Act of 2015
+
+Amends the federal criminal code to expand provisions prohibiting the United States from imprisoning or otherwise detaining a citizen except pursuant to an Act of Congress, to: (1) prohibit such imprisonment or detention of a U.S. citizen or a lawful permanent resident except consistent with the Constitution and pursuant to an Act of Congress that expressly authorizes such imprisonment or detention; and (2) prohibit construing a general authorization to use military force, a declaration of war, or any similar authority, on its own, to authorize the imprisonment or detention without charge or trial of a U.S. citizen or lawful permanent resident apprehended in the United States.</summary>
+</bill>

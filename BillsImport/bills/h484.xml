@@ -1,0 +1,77 @@
+<bill session="114" type="h" number="484" updated="2015-06-03T04:46:57-04:00">
+  <state datetime="2015-01-22">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-22"/>
+  </status>
+  <introduced datetime="2015-01-22"/>
+  <titles>
+    <title type="short" as="introduced">Duplication Elimination Act of 2015</title>
+    <title type="official" as="introduced">To amend the Pay-As-You-Go-Act of 2010 to create an expedited procedure to enact recommendations of the Government Accountability Office for consolidation and elimination to reduce duplication.</title>
+  </titles>
+  <sponsor id="400648"/>
+  <cosponsors>
+    <cosponsor id="412512" joined="2015-04-21"/>
+    <cosponsor id="412539" joined="2015-01-26"/>
+    <cosponsor id="412537" joined="2015-04-28"/>
+    <cosponsor id="400081" joined="2015-01-22"/>
+    <cosponsor id="412651" joined="2015-04-14"/>
+    <cosponsor id="412621" joined="2015-01-22"/>
+    <cosponsor id="412544" joined="2015-04-29"/>
+    <cosponsor id="400646" joined="2015-06-02"/>
+    <cosponsor id="412453" joined="2015-01-22"/>
+    <cosponsor id="412661" joined="2015-01-22"/>
+    <cosponsor id="412454" joined="2015-01-22"/>
+    <cosponsor id="412284" joined="2015-01-26"/>
+    <cosponsor id="412603" joined="2015-01-22"/>
+    <cosponsor id="412583" joined="2015-04-29"/>
+    <cosponsor id="400630" joined="2015-04-21"/>
+    <cosponsor id="412521" joined="2015-03-19"/>
+    <cosponsor id="400644" joined="2015-01-27"/>
+    <cosponsor id="412540" joined="2015-01-26"/>
+    <cosponsor id="412527" joined="2015-01-22"/>
+    <cosponsor id="412606" joined="2015-03-19"/>
+    <cosponsor id="412523" joined="2015-01-22"/>
+    <cosponsor id="412489" joined="2015-01-22"/>
+    <cosponsor id="412315" joined="2015-01-22"/>
+    <cosponsor id="400365" joined="2015-01-22"/>
+    <cosponsor id="412509" joined="2015-02-13"/>
+    <cosponsor id="412317" joined="2015-01-22"/>
+    <cosponsor id="412239" joined="2015-04-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-22" state="REFERRED">
+      <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-01-22">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2015-01-22">
+      <text>Referred to House Rules</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+    <committee code="HSRU" name="House Rules" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="236"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Budget deficits and national debt"/>
+    <term name="Congressional oversight"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Legislative rules and procedure"/>
+  </subjects>
+  <amendments/>
+  <summary>1/22/2015--Introduced.
+Duplication Elimination Act of 2015
+
+This bill requires the President to send Congress a proposed joint resolution and a special message within 90 days of publication of the annual Government Accountability Office (GAO) report on duplicative government programs.
+
+The joint resolution is limited to one that: (1) makes legislative changes needed to carry out the recommendations contained in the GAO report and included by the President, and (2) requires savings from the legislative changes to be transferred to the Treasury for deficit reduction.
+
+The bill requires the special message to specify:
+
+ the GAO recommendations that are excluded from the proposed joint resolution, why the recommendations were excluded, and the GAO recommendations included in the joint resolution. The bill sets forth expedited procedures for congressional consideration of the joint resolution.</summary>
+</bill>

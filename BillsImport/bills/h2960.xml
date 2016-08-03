@@ -1,0 +1,53 @@
+<bill session="114" type="h" number="2960" updated="2015-07-17T04:58:53-04:00">
+  <state datetime="2015-07-07">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-07"/>
+  </status>
+  <introduced datetime="2015-07-07"/>
+  <titles>
+    <title type="short" as="introduced">TALENT Act</title>
+    <title type="short" as="introduced">To Aid Gifted and High-Ability Learners by Empowering the Nation's Teachers Act</title>
+    <title type="official" as="introduced">To amend the Elementary and Secondary Education Act of 1965 to aid gifted and talented and high-ability learners by empowering the Nation's teachers, and for other purposes.</title>
+  </titles>
+  <sponsor id="412308"/>
+  <cosponsors>
+    <cosponsor id="400052" joined="2015-07-16"/>
+    <cosponsor id="412628" joined="2015-07-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-07" state="REFERRED">
+      <text>Referred to the Committee on Education and the Workforce, and in addition to the Committee on Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-07-07">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+    <action datetime="2015-07-07">
+      <text>Referred to House Science, Space, and Technology</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee code="HSSY" name="House Science, Space, and Technology" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="363"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Academic performance and assessments"/>
+    <term name="Census and government statistics"/>
+    <term name="Disability and paralysis"/>
+    <term name="Education of the disadvantaged"/>
+    <term name="Education programs funding"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Foreign language and bilingual programs"/>
+    <term name="Government information and archives"/>
+    <term name="Higher education"/>
+    <term name="Research and development"/>
+    <term name="Rural conditions and development"/>
+    <term name="Science and engineering education"/>
+    <term name="Special education"/>
+    <term name="Teaching, teachers, curricula"/>
+  </subjects>
+  <amendments/>
+</bill>

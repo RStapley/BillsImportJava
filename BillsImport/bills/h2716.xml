@@ -1,0 +1,82 @@
+<bill session="114" type="h" number="2716" updated="2015-07-30T04:49:42-04:00">
+  <state datetime="2015-06-10">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-10"/>
+  </status>
+  <introduced datetime="2015-06-10"/>
+  <titles>
+    <title type="short" as="introduced">Transportation Empowerment Act</title>
+    <title type="official" as="introduced">To empower States with authority for most taxing and spending for highway programs and mass transit programs, and for other purposes.</title>
+  </titles>
+  <sponsor id="412526"/>
+  <cosponsors>
+    <cosponsor id="412438" joined="2015-06-10"/>
+    <cosponsor id="412395" joined="2015-07-13"/>
+    <cosponsor id="412619" joined="2015-06-10"/>
+    <cosponsor id="412270" joined="2015-07-15"/>
+    <cosponsor id="412604" joined="2015-07-13"/>
+    <cosponsor id="412531" joined="2015-07-07"/>
+    <cosponsor id="412477" joined="2015-07-15"/>
+    <cosponsor id="412482" joined="2015-07-13"/>
+    <cosponsor id="412480" joined="2015-06-10"/>
+    <cosponsor id="400141" joined="2015-07-07"/>
+    <cosponsor id="412397" joined="2015-07-13"/>
+    <cosponsor id="412473" joined="2015-07-10"/>
+    <cosponsor id="412388" joined="2015-06-10"/>
+    <cosponsor id="412434" joined="2015-07-09"/>
+    <cosponsor id="400175" joined="2015-06-23"/>
+    <cosponsor id="412623" joined="2015-07-15"/>
+    <cosponsor id="412550" joined="2015-06-18"/>
+    <cosponsor id="412437" joined="2015-07-21"/>
+    <cosponsor id="412603" joined="2015-06-10"/>
+    <cosponsor id="400209" joined="2015-07-09"/>
+    <cosponsor id="412226" joined="2015-07-07"/>
+    <cosponsor id="412419" joined="2015-06-17"/>
+    <cosponsor id="412624" joined="2015-07-07"/>
+    <cosponsor id="400656" joined="2015-07-09"/>
+    <cosponsor id="400654" joined="2015-07-09"/>
+    <cosponsor id="412302" joined="2015-07-20"/>
+    <cosponsor id="412608" joined="2015-07-09"/>
+    <cosponsor id="412551" joined="2015-06-11"/>
+    <cosponsor id="412653" joined="2015-07-29"/>
+    <cosponsor id="400606" joined="2015-06-10"/>
+    <cosponsor id="412417" joined="2015-07-09"/>
+    <cosponsor id="400381" joined="2015-06-11"/>
+    <cosponsor id="412392" joined="2015-06-10"/>
+    <cosponsor id="412574" joined="2015-07-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-10" state="REFERRED">
+      <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Ways and Means, the Budget, and Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-06-10">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2015-06-10">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-06-10">
+      <text>Referred to House Budget</text>
+    </action>
+    <action datetime="2015-06-10">
+      <text>Referred to House Rules</text>
+    </action>
+    <action datetime="2015-06-11">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW12" subcommittee="Highways and Transit" name="House Transportation and Infrastructure"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee code="HSBU" name="House Budget" activity="Referral"/>
+    <committee code="HSRU" name="House Rules" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1541"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+</bill>

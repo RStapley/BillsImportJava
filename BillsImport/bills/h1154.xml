@@ -1,0 +1,43 @@
+<bill session="114" type="h" number="1154" updated="2015-04-18T06:26:51-04:00">
+  <state datetime="2015-02-27">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-27"/>
+  </status>
+  <introduced datetime="2015-02-27"/>
+  <titles>
+    <title type="short" as="introduced">FFOCUS Act of 2015</title>
+    <title type="short" as="introduced">Focusing the Fed on the Currency of the United States Act of 2015</title>
+    <title type="official" as="introduced">To amend the Federal Reserve Act to remove the mandate on the Board of Governors of the Federal Reserve System and the Federal Open Market Committee to focus on maximum employment.</title>
+  </titles>
+  <sponsor id="412392"/>
+  <cosponsors>
+    <cosponsor id="412427" joined="2015-03-04"/>
+    <cosponsor id="412397" joined="2015-03-04"/>
+    <cosponsor id="400209" joined="2015-02-27"/>
+    <cosponsor id="412226" joined="2015-04-14"/>
+    <cosponsor id="412295" joined="2015-02-27"/>
+    <cosponsor id="412474" joined="2015-02-27"/>
+    <cosponsor id="400627" joined="2015-02-27"/>
+    <cosponsor id="412428" joined="2015-03-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-27" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Inflation and prices"/>
+    <term name="Monetary policy"/>
+    <term name="Unemployment"/>
+  </subjects>
+  <amendments/>
+  <summary>2/27/2015--Introduced.
+Focusing the Fed on the Currency of the United States Act of 2015 or the FFOCUS Act of 2015
+
+ Amends the Federal Reserve Act to repeal the joint mandate on the Board of Governors of the Federal Reserve System and the Federal Open Market Committee to make maximum employment one of the goals of their duty to maintain long run growth of the monetary and credit aggregates commensurate with the U.S. economy's long run potential to increase production.</summary>
+</bill>

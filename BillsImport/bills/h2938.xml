@@ -1,0 +1,33 @@
+<bill session="114" type="h" number="2938" updated="2015-07-25T06:43:33-04:00">
+  <state datetime="2015-06-25">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-25"/>
+  </status>
+  <introduced datetime="2015-06-25"/>
+  <titles>
+    <title type="short" as="introduced">National Design Services Act of 2015</title>
+    <title type="official" as="introduced">To amend the Housing and Community Development Act of 1974 to authorize the Secretary of Housing and Urban Development to carry out a loan repayment program for certain architects, and for other purposes.</title>
+  </titles>
+  <sponsor id="412192"/>
+  <cosponsors>
+    <cosponsor id="412642" joined="2015-06-25"/>
+    <cosponsor id="412583" joined="2015-07-07"/>
+    <cosponsor id="400661" joined="2015-06-25"/>
+    <cosponsor id="408211" joined="2015-06-25"/>
+    <cosponsor id="412411" joined="2015-06-25"/>
+    <cosponsor id="412186" joined="2015-06-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-25" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Housing and community development"/>
+  </subjects>
+  <amendments/>
+</bill>

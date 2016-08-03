@@ -1,0 +1,51 @@
+<bill session="114" type="s" number="629" updated="2015-06-12T04:52:54-04:00">
+  <state datetime="2015-03-03">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-03"/>
+  </status>
+  <introduced datetime="2015-03-03"/>
+  <titles>
+    <title type="short" as="introduced">Making the Education of Nurses Dependable for Schools Act</title>
+    <title type="short" as="introduced">MEND Act</title>
+    <title type="official" as="introduced">A bill to enable hospital-based nursing programs that are affiliated with a hospital to maintain payments under the Medicare program to hospitals for the costs of such programs.</title>
+  </titles>
+  <sponsor id="400325"/>
+  <cosponsors>
+    <cosponsor id="400013" joined="2015-03-03"/>
+    <cosponsor id="400034" joined="2015-03-03"/>
+    <cosponsor id="400050" joined="2015-03-03"/>
+    <cosponsor id="400054" joined="2015-06-11"/>
+    <cosponsor id="412556" joined="2015-03-03"/>
+    <cosponsor id="300048" joined="2015-03-19"/>
+    <cosponsor id="400222" joined="2015-03-03"/>
+    <cosponsor id="412243" joined="2015-03-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-03" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="977"/>
+    <bill relation="identical" session="114" type="h" number="1784"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Allied health services"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Medical education"/>
+    <term name="Medicare"/>
+    <term name="Nursing"/>
+  </subjects>
+  <amendments/>
+  <summary>3/3/2015--Introduced.
+Making the Education of Nurses Dependable for Schools Act or the MEND Act 
+
+Requires the Secretary of Health and Human Services, for any reimbursements to providers under title XVIII (Medicare) of the Social Security Act for the costs of nursing and allied health education activities, to apply the regulation establishing the payment methodology for such reimbursements by treating a provider as meeting the requirements:
+
+for consideration as operating an approved nursing or allied health education program if the provider or a wholly owned subsidiary educational institution singly or collectively meets all such requirements; for payment for certain nonprovider-operated programs at wholly owned subsidiary educational institutions if the provider meets all such requirements except that the transfer of a nursing or allied health education program to that wholly owned subsidiary educational institution to meet accreditation standards occurred after October 1, 2003, and if the provider or its wholly owned subsidary educational institution has been in continuous operation since October 1, 2003. Defines "wholly owned subsidiary educational institution" as one that: (1) is organized as a legal entity distinct from the provider, (2) has the provider as its sole owner or sole member, and (3) is organized in the same state in which the provider is organized or registered to do business.</summary>
+</bill>

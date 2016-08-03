@@ -1,0 +1,35 @@
+<bill session="114" type="h" number="954" updated="2015-04-04T06:24:56-04:00">
+  <state datetime="2015-02-12">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-12"/>
+  </status>
+  <introduced datetime="2015-02-12"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to exempt from the individual mandate certain individuals who had coverage under a terminated qualified health plan funded through the Consumer Operated and Oriented Plan (CO-OP) program.</title>
+  </titles>
+  <sponsor id="412217"/>
+  <cosponsors>
+    <cosponsor id="412627" joined="2015-02-27"/>
+    <cosponsor id="400640" joined="2015-02-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-12" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Comprehensive health care"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Sales and excise taxes"/>
+    <term name="Tax administration and collection, taxpayers"/>
+  </subjects>
+  <amendments/>
+  <summary>2/12/2015--Introduced.
+This bill temporarily exempts from penalties for failing to purchase and maintain minimum essential health care coverage individuals whose coverage under a plan offered by a qualified nonprofit health insurance issuer receiving funds through the Consumer Operated and Oriented Plan program was terminated or otherwise discontinued.</summary>
+</bill>

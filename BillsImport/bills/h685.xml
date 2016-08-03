@@ -1,0 +1,138 @@
+<bill session="114" type="h" number="685" updated="2015-04-23T04:46:32-04:00">
+  <state datetime="2015-04-14T18:04:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2015-04-14T18:04:00-04:00"/>
+  </status>
+  <introduced datetime="2015-02-03"/>
+  <titles>
+    <title type="short" as="introduced">Mortgage Choice Act of 2015</title>
+    <title type="short" as="passed house">Mortgage Choice Act of 2015</title>
+    <title type="official" as="introduced">To amend the Truth in Lending Act to improve upon the definitions provided for points and fees in connection with a mortgage transaction.</title>
+  </titles>
+  <sponsor id="412437"/>
+  <cosponsors>
+    <cosponsor id="412436" joined="2015-03-16"/>
+    <cosponsor id="412627" joined="2015-03-16"/>
+    <cosponsor id="412395" joined="2015-03-24"/>
+    <cosponsor id="412601" joined="2015-03-19"/>
+    <cosponsor id="412622" joined="2015-03-24"/>
+    <cosponsor id="400639" joined="2015-03-24"/>
+    <cosponsor id="412651" joined="2015-03-26"/>
+    <cosponsor id="400114" joined="2015-02-03"/>
+    <cosponsor id="412488" joined="2015-02-26"/>
+    <cosponsor id="412479" joined="2015-02-03"/>
+    <cosponsor id="400646" joined="2015-03-25"/>
+    <cosponsor id="400137" joined="2015-03-16"/>
+    <cosponsor id="412278" joined="2015-03-16"/>
+    <cosponsor id="412454" joined="2015-03-19"/>
+    <cosponsor id="412566" joined="2015-02-03"/>
+    <cosponsor id="400219" joined="2015-03-19"/>
+    <cosponsor id="400224" joined="2015-03-04"/>
+    <cosponsor id="400259" joined="2015-02-03"/>
+    <cosponsor id="400644" joined="2015-03-19"/>
+    <cosponsor id="400271" joined="2015-02-03"/>
+    <cosponsor id="412474" joined="2015-03-16"/>
+    <cosponsor id="412527" joined="2015-02-03"/>
+    <cosponsor id="412303" joined="2015-02-24"/>
+    <cosponsor id="412551" joined="2015-03-16"/>
+    <cosponsor id="412411" joined="2015-03-16"/>
+    <cosponsor id="412570" joined="2015-02-24"/>
+    <cosponsor id="400348" joined="2015-02-03"/>
+    <cosponsor id="412314" joined="2015-03-16"/>
+    <cosponsor id="400363" joined="2015-02-03"/>
+    <cosponsor id="400365" joined="2015-03-19"/>
+    <cosponsor id="412461" joined="2015-02-03"/>
+    <cosponsor id="412405" joined="2015-03-19"/>
+    <cosponsor id="412636" joined="2015-03-25"/>
+    <cosponsor id="400417" joined="2015-02-27"/>
+    <cosponsor id="412548" joined="2015-03-16"/>
+    <cosponsor id="412213" joined="2015-02-27"/>
+    <cosponsor id="412578" joined="2015-03-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-03" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2015-03-25">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2015-03-26">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-03-26" state="REPORTED">
+      <text>Ordered to be Reported by the Yeas and Nays: 43 - 12.</text>
+    </calendar>
+    <action datetime="2015-04-06T16:53:00-04:00">
+      <text>Reported by the Committee on Financial Services. H. Rept. 114-54.</text>
+    </action>
+    <calendar datetime="2015-04-06T16:53:00-04:00" calendar="Union" number="35">
+      <text>Placed on the Union Calendar, Calendar No. 35.</text>
+    </calendar>
+    <action datetime="2015-04-13T19:32:00-04:00">
+      <text>Rules Committee Resolution H. Res. 189 Reported to House. Resolution provides for consideration of 3 measures: H.R. 650; H.R. 685; and S. Con. Res. 11.</text>
+    </action>
+    <action datetime="2015-04-14T16:11:00-04:00">
+      <text>Considered under the provisions of rule H. Res. 189.</text>
+      <reference ref="CR H2188-2194" label="consideration"/>
+    </action>
+    <action datetime="2015-04-14T16:11:00-04:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.R. 685.</text>
+    </action>
+    <action datetime="2015-04-14T17:11:00-04:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+      <reference ref="CR H2194" label="consideration"/>
+    </action>
+    <action datetime="2015-04-14T17:12:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 685, the Chair put the question on adoption of the bill, and by voice vote announced that the ayes had prevailed. Ms. Waters (CA) demanded the yeas and nays, and the Chair postponed further proceedings on adoption until later in the legislative day.</text>
+    </action>
+    <action datetime="2015-04-14T17:56:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H2197" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="152" datetime="2015-04-14T18:04:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by the Yeas and Nays: 286 - 140 (Roll no. 152).</text>
+      <reference ref="CR H2188" label="text"/>
+    </vote>
+    <action datetime="2015-04-14T18:04:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2015-04-15">
+      <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+    <action datetime="2015-04-16">
+      <text>Committee on Banking, Housing, and Urban Affairs. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, Markup, Reporting"/>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="hr" number="189"/>
+    <bill relation="rule" session="114" type="hr" number="189"/>
+  </relatedbills>
+  <subjects>
+    <term name="Housing and community development"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Consumer Financial Protection Bureau"/>
+    <term name="Housing finance and home ownership"/>
+    <term name="User charges and fees"/>
+  </subjects>
+  <amendments/>
+  <summary>4/14/2015--Passed House without amendment.
+(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)
+
+Mortgage Choice Act of 2015
+
+ (Sec. 2) Amends the Truth in Lending Act with respect to requirements for disclosure to a consumer of points and fees information about a consumer credit transaction, secured by the consumer's principal dwelling, but which is not a residential mortgage transaction, a reverse mortgage transaction, or a transaction under an open end credit plan, when the total points and fees the consumer must pay at or before closing will exceed 8% of the total loan amount or $400, whichever is greater. (Such consumer credit transactions might include an equity credit line to which consumer purchases or leases may be charged.)
+
+Excludes from the computation of such points and fees any escrow for future payment of insurance.
+
+Modifies the criteria for exclusion from the computation of points and fees of certain reasonable charges elsewhere exempted from the computation of the finance charge in extensions of credit secured by an interest in real property. Excludes from points and fees any such reasonable charges even though a creditor receives compensation, but only in so far as the creditor or its affiliate retains the compensation as a result of their participation in an affiliated business arrangement.
+
+(An "affiliated business arrangement" is one in which: (1) a person who is in a position to refer business incident to or a part of a real estate settlement service involving a federally related mortgage loan, or an associate of such person, has either an affiliate relationship with or a direct or beneficial ownership interest of more than 1% in a provider of settlement services; and (2) either of such persons directly or indirectly refers such business to that provider or affirmatively influences the provider's selection.)
+
+Revises the additional requirement that such a reasonable charge be paid to a third party unaffiliated with the creditor. Requires the charge to be: (1) a bona fide third party charge not retained by the mortgage originator, creditor, or an affiliate; or (2) a fee or premium for title examination, title insurance, or similar purposes.
+
+Modifies the conditions under which federal departments and agencies may exempt refinancings under a streamlined refinancing from an income verification requirement that, at the time a refinancing is consummated, the consumer has a reasonable ability to repay the loan and all applicable taxes, insurance, and assessments. Repeals the exception for bona fide third party charges not retained by the mortgage originator, creditor, or an affiliate from the requirement that total points and fees not exceed 3% of the total new loan amount. (Thus subjects such charges to the same 3% ceiling.)</summary>
+</bill>

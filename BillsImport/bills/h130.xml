@@ -1,0 +1,41 @@
+<bill session="114" type="h" number="130" updated="2015-05-01T04:46:55-04:00">
+  <state datetime="2015-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-06"/>
+  </status>
+  <introduced datetime="2015-01-06"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Black Lung Benefits Act to provide equity for certain eligible survivors, and for other purposes.</title>
+  </titles>
+  <sponsor id="412485"/>
+  <cosponsors>
+    <cosponsor id="412663" joined="2015-03-02"/>
+    <cosponsor id="412460" joined="2015-01-06"/>
+    <cosponsor id="412310" joined="2015-01-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-06" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+    <action datetime="2015-04-29">
+      <text>Referred to the Subcommittee on Workforce Protections.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee activity="Referral" code="HSED10" subcommittee="Workforce Protections" name="House Education and the Workforce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Cardiovascular and respiratory health"/>
+    <term name="Coal"/>
+    <term name="Disability assistance"/>
+    <term name="Mining"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/2015--Introduced.
+Amends the Black Lung Benefits Act, with respect to claims filed on or after the effective date of the Black Lung Benefits Amendments of 1981, to eliminate exceptions to: (1) the applicability of certain provisions regarding rebuttable presumptions; and (2) the prohibition against requiring eligible survivors of a miner determined to be eligible for black lung benefits to file a new claim or refile or otherwise revalidate the miner's claim.
+
+Applies the amendments made by this Act to claims filed after January 1, 2005, that were pending on or after March 23, 2010.</summary>
+</bill>

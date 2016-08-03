@@ -1,0 +1,39 @@
+<bill session="114" type="h" number="1303" updated="2015-05-02T06:29:25-04:00">
+  <state datetime="2015-03-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-04"/>
+  </status>
+  <introduced datetime="2015-03-04"/>
+  <titles>
+    <title type="short" as="introduced">Repeal of the Authorization for Use of Military Force</title>
+    <title type="official" as="introduced">To repeal Public Law 107-40.</title>
+  </titles>
+  <sponsor id="400237"/>
+  <cosponsors>
+    <cosponsor id="400185" joined="2015-03-04"/>
+    <cosponsor id="400209" joined="2015-03-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-04" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Congressional oversight"/>
+    <term name="Presidents and presidential powers"/>
+    <term name="Terrorism"/>
+    <term name="War and emergency powers"/>
+  </subjects>
+  <amendments/>
+  <summary>3/4/2015--Introduced.
+Repeal of the Authorization for Use of Military Force
+
+States that the Authorization for Use of Military Force (P.L. 107-40) has been used to justify an open-ended authorization for the use of military force and such an interpretation is inconsistent with the authority of Congress to declare war and make all laws for executing powers vested by the Constitution in the U.S. government.
+
+Repeals the Authorization for Use of Military Force, effective 180 days after the date of enactment of this Act.</summary>
+</bill>

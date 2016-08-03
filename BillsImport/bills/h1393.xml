@@ -1,0 +1,67 @@
+<bill session="114" type="h" number="1393" updated="2015-08-01T04:50:41-04:00">
+  <state datetime="2015-03-17">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-17"/>
+  </status>
+  <introduced datetime="2015-03-17"/>
+  <titles>
+    <title type="short" as="introduced">Innovation in Surface Transportation Act of 2015</title>
+    <title type="official" as="introduced">To amend title 23, United States Code, to direct the Secretary of Transportation to establish an innovation in surface transportation program, and for other purposes.</title>
+  </titles>
+  <sponsor id="412536"/>
+  <cosponsors>
+    <cosponsor id="400033" joined="2015-04-29"/>
+    <cosponsor id="412537" joined="2015-03-17"/>
+    <cosponsor id="412571" joined="2015-03-17"/>
+    <cosponsor id="412529" joined="2015-07-31"/>
+    <cosponsor id="412280" joined="2015-03-17"/>
+    <cosponsor id="400630" joined="2015-03-17"/>
+    <cosponsor id="412209" joined="2015-07-31"/>
+    <cosponsor id="412314" joined="2015-03-17"/>
+    <cosponsor id="412186" joined="2015-05-19"/>
+    <cosponsor id="412514" joined="2015-06-25"/>
+    <cosponsor id="412318" joined="2015-03-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-17" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2015-03-18">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW12" subcommittee="Highways and Transit" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="762"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Air quality"/>
+    <term name="Economic development"/>
+    <term name="Government information and archives"/>
+    <term name="Pedestrians and bicycling"/>
+    <term name="Public transit"/>
+    <term name="Railroads"/>
+    <term name="Roads and highways"/>
+    <term name="Rural conditions and development"/>
+    <term name="State and local government operations"/>
+    <term name="Transportation programs funding"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+  <summary>3/17/2015--Introduced.
+Innovation in Surface Transportation Act of 2015
+
+ Directs the Secretary of Transportation , in coordination with state transportation departments, to establish an innovation in surface transportation program.
+
+Requires states to make competitive grants for innovative surface transportation projects to eligible entities, including local governments, metropolitan planning organizations, regional transportation authorities, transit agencies, tribal governments, private providers of public transportation, nonprofit transportation organizations, port authorities, joint power authorities, and local rail authorities.
+
+Requires each state to establish an innovation in surface transportation selection panel to formulate criteria for selecting projects.
+
+Requires a state to reserve certain percentages of federal funds apportioned for the national highway performance, the highway safety improvement, the congestion mitigation and air quality improvement, surface transportation, and transportation alternatives programs in order to fund related projects under state innovative surface transportation grants.
+
+Authorizes states to reserve a certain percentage of such funds for a fiscal year to meet specific requests for project application support from eligible rural local governments.</summary>
+</bill>

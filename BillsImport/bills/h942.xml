@@ -1,0 +1,63 @@
+<bill session="114" type="h" number="942" updated="2015-07-04T06:26:22-04:00">
+  <state datetime="2015-02-12">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-12"/>
+  </status>
+  <introduced datetime="2015-02-12"/>
+  <titles>
+    <title type="short" as="introduced">Audit the Pentagon Act of 2015</title>
+    <title type="official" as="introduced">To reduce by one-half of one percent the discretionary budget authority of any Federal agency for a fiscal year if the financial statement of the agency for the previous fiscal year does not receive a qualified or unqualified audit opinion by an external independent auditor, and for other purposes.</title>
+  </titles>
+  <sponsor id="400237"/>
+  <cosponsors>
+    <cosponsor id="400033" joined="2015-02-12"/>
+    <cosponsor id="400052" joined="2015-02-12"/>
+    <cosponsor id="400080" joined="2015-02-12"/>
+    <cosponsor id="412533" joined="2015-04-23"/>
+    <cosponsor id="412215" joined="2015-05-14"/>
+    <cosponsor id="400209" joined="2015-02-12"/>
+    <cosponsor id="412585" joined="2015-02-12"/>
+    <cosponsor id="400360" joined="2015-02-12"/>
+    <cosponsor id="412259" joined="2015-02-12"/>
+    <cosponsor id="412239" joined="2015-02-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-12" state="REFERRED">
+      <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-02-12">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2015-02-12">
+      <text>Referred to House Armed Services</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Accounting and auditing"/>
+    <term name="Budget deficits and national debt"/>
+    <term name="Congressional oversight"/>
+    <term name="Defense spending"/>
+    <term name="Department of Defense"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Government information and archives"/>
+    <term name="Military medicine"/>
+    <term name="Military personnel and dependents"/>
+  </subjects>
+  <amendments/>
+  <summary>2/12/2015--Introduced.
+Audit the Pentagon Act of 2015 
+
+This bill reduces discretionary spending by 0.5% for federal agencies that have either not submitted a financial statement for a fiscal year or have submitted a financial statement that has not received an unqualified or a qualified audit opinion by an independent external auditor.
+
+The bill excludes specified Department of Defense (DOD) accounts for personnel and the Defense Health Program from the reductions.
+
+The President may waive the reductions for any account by certifying that the cuts would harm national security or members of the Armed Forces who are in combat.
+
+The bill establishes reporting requirements for the Office of Management and Budget and DOD.</summary>
+</bill>

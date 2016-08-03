@@ -1,0 +1,34 @@
+<bill session="114" type="s" number="1992" updated="2015-08-22T07:08:25-04:00">
+  <state datetime="2015-08-05">REFERRED</state>
+  <status>
+    <introduced datetime="2015-08-05"/>
+  </status>
+  <introduced datetime="2015-08-05"/>
+  <titles>
+    <title type="short" as="introduced">Protect Our Military Families' 2nd Amendment Rights Act</title>
+    <title type="official" as="introduced">A bill to amend chapter 44 of title 18, United States Code, to provide that a member of the Armed Forces and the spouse of that member shall have the same rights regarding the receipt of firearms at the location of any duty station of the member.</title>
+  </titles>
+  <sponsor id="412669"/>
+  <cosponsors>
+    <cosponsor id="300030" joined="2015-08-05"/>
+    <cosponsor id="412549" joined="2015-08-05"/>
+    <cosponsor id="300041" joined="2015-08-05"/>
+    <cosponsor id="300055" joined="2015-08-05"/>
+    <cosponsor id="400546" joined="2015-08-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-08-05" state="REFERRED">
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="2259"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+  </subjects>
+  <amendments/>
+</bill>

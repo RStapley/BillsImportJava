@@ -1,0 +1,36 @@
+<bill session="114" type="h" number="2084" updated="2015-06-20T06:35:56-04:00">
+  <state datetime="2015-04-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-29"/>
+  </status>
+  <introduced datetime="2015-04-29"/>
+  <titles>
+    <title type="official" as="introduced">To amend title 18, United States Code, to add certain tax-related crimes to the definition of aggravated identity theft, and for other purposes.</title>
+  </titles>
+  <sponsor id="400656"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-04-29" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-05-15">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Computer security and identity theft"/>
+    <term name="Fraud offenses and financial crimes"/>
+    <term name="Tax administration and collection, taxpayers"/>
+  </subjects>
+  <amendments/>
+  <summary>4/29/2015--Introduced.
+Taxpayer Identity Theft Prevention and Enforcement Act of 2015
+
+ Amends the federal criminal code to include certain felony violations under the Internal Revenue Code as aggravated identity theft, including the following offenses when committed in connection with the filing of a tax return: (1) conspiracy to defraud the government with respect to claims; (2) false, fictitious or fraudulent claims; and (3) conspiracy to commit any offense against, or to defraud, the United States.</summary>
+</bill>

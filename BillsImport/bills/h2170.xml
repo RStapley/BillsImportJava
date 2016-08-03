@@ -1,0 +1,70 @@
+<bill session="114" type="h" number="2170" updated="2015-07-30T04:49:16-04:00">
+  <state datetime="2015-04-30">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-30"/>
+  </status>
+  <introduced datetime="2015-04-30"/>
+  <titles>
+    <title type="short" as="introduced">Ghost Army Congressional Gold Medal Act</title>
+    <title type="official" as="introduced">To award a Congressional Gold Medal to the 23rd Headquarters Special Troops, known as the "Ghost Army", collectively, in recognition of its unique and incredible service during World War II.</title>
+  </titles>
+  <sponsor id="412557"/>
+  <cosponsors>
+    <cosponsor id="412537" joined="2015-06-03"/>
+    <cosponsor id="412193" joined="2015-05-18"/>
+    <cosponsor id="412613" joined="2015-05-18"/>
+    <cosponsor id="400122" joined="2015-05-18"/>
+    <cosponsor id="400124" joined="2015-05-18"/>
+    <cosponsor id="400160" joined="2015-07-29"/>
+    <cosponsor id="412511" joined="2015-05-18"/>
+    <cosponsor id="412435" joined="2015-05-20"/>
+    <cosponsor id="412595" joined="2015-05-18"/>
+    <cosponsor id="400219" joined="2015-04-30"/>
+    <cosponsor id="412286" joined="2015-05-18"/>
+    <cosponsor id="412616" joined="2015-05-15"/>
+    <cosponsor id="400663" joined="2015-05-18"/>
+    <cosponsor id="400262" joined="2015-05-20"/>
+    <cosponsor id="408211" joined="2015-05-18"/>
+    <cosponsor id="400363" joined="2015-05-18"/>
+    <cosponsor id="400378" joined="2015-05-15"/>
+    <cosponsor id="400403" joined="2015-05-18"/>
+    <cosponsor id="412318" joined="2015-05-18"/>
+    <cosponsor id="412580" joined="2015-05-18"/>
+    <cosponsor id="412239" joined="2015-06-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-30" state="REFERRED">
+      <text>Referred to the Committee on Financial Services, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-04-30">
+      <text>Referred to House Financial Services</text>
+    </action>
+    <action datetime="2015-04-30">
+      <text>Referred to House House Administration</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+    <committee code="HSHA" name="House Administration" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Conflicts and wars"/>
+    <term name="Congressional tributes"/>
+    <term name="Military history"/>
+    <term name="Military operations and strategy"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Museums, exhibitions, cultural centers"/>
+    <term name="Smithsonian Institution"/>
+  </subjects>
+  <amendments/>
+  <summary>4/30/2015--Introduced.
+Ghost Army Congressional Gold Medal Act
+
+Directs the Speaker of the House of Representatives and the President pro tempore of the Senate to award a Congressional Gold Medal to the 23rd Headquarters Special Troops, known collectively as the "Ghost Army," in recognition of its service during World War II.
+
+Expresses the sense of the Congress that the Smithsonian Institution should make the medal available for display elsewhere, particularly at appropriate locations associated with the Ghost Army, and that preference should be given to locations affiliated with the Smithsonian.
+
+Authorizes Treasury to strike and sell duplicates in bronze at a price sufficient to cover the costs of the medal.</summary>
+</bill>

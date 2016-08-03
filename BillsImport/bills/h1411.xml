@@ -1,0 +1,47 @@
+<bill session="114" type="h" number="1411" updated="2015-06-12T04:51:55-04:00">
+  <state datetime="2015-03-17">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-17"/>
+  </status>
+  <introduced datetime="2015-03-17"/>
+  <titles>
+    <title type="short" as="introduced">ENRICH Act</title>
+    <title type="short" as="introduced">Expanding Nutrition's Role in Curricula and Healthcare Act</title>
+    <title type="official" as="introduced">To provide for a grants program to develop and enhance integrated nutrition and physical activity curricula in medical schools.</title>
+  </titles>
+  <sponsor id="400352"/>
+  <cosponsors>
+    <cosponsor id="400033" joined="2015-04-13"/>
+    <cosponsor id="412221" joined="2015-06-11"/>
+    <cosponsor id="412236" joined="2015-04-29"/>
+    <cosponsor id="400100" joined="2015-06-11"/>
+    <cosponsor id="400162" joined="2015-03-19"/>
+    <cosponsor id="400195" joined="2015-03-18"/>
+    <cosponsor id="400238" joined="2015-04-28"/>
+    <cosponsor id="400263" joined="2015-04-13"/>
+    <cosponsor id="412307" joined="2015-05-15"/>
+    <cosponsor id="400333" joined="2015-03-19"/>
+    <cosponsor id="400360" joined="2015-03-23"/>
+    <cosponsor id="400379" joined="2015-03-19"/>
+    <cosponsor id="400406" joined="2015-03-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-17" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+  <summary>3/17/2015--Introduced.
+Expanding Nutrition's Role in Curricula and Healthcare Act or the ENRICH Act
+
+This bill requires the Health Resources and Services Administration to establish a program of three-year competitive grants to accredited medical schools for the development or expansion of an integrated nutrition and physical activity curriculum.
+
+The curriculum must: (1) be designed to improve communication and provider preparedness in the prevention, management, and reversal of obesity, cardiovascular disease, diabetes, and cancer; and (2) address additional topics regarding individuals in at-risk populations, as practicable, including physical activity and training programs, food insecurity, and malnutrition.</summary>
+</bill>

@@ -1,0 +1,29 @@
+<bill session="114" type="h" number="2717" updated="2015-06-20T06:41:14-04:00">
+  <state datetime="2015-06-10">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-10"/>
+  </status>
+  <introduced datetime="2015-06-10"/>
+  <titles>
+    <title type="short" as="introduced">Federal Ocean Acidification Research and Monitoring Act of 2015</title>
+    <title type="official" as="introduced">To modify the Federal Ocean Acidification Research and Monitoring Act of 2009, and for other purposes.</title>
+  </titles>
+  <sponsor id="400129"/>
+  <cosponsors>
+    <cosponsor id="400062" joined="2015-06-10"/>
+    <cosponsor id="400440" joined="2015-06-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-10" state="REFERRED">
+      <text>Referred to the House Committee on Science, Space, and Technology.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science, Space, and Technology" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+</bill>

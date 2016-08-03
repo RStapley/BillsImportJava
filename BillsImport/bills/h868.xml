@@ -1,0 +1,132 @@
+<bill session="114" type="h" number="868" updated="2015-07-29T04:47:42-04:00">
+  <state datetime="2015-02-11">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-11"/>
+  </status>
+  <introduced datetime="2015-02-11"/>
+  <titles>
+    <title type="short" as="introduced">Veterans TRICARE Choice Act</title>
+    <title type="official" as="introduced">To provide for coordination between the TRICARE program and eligibility for making contributions to a health savings account, and for other purposes.</title>
+  </titles>
+  <sponsor id="412581"/>
+  <cosponsors>
+    <cosponsor id="412630" joined="2015-03-25"/>
+    <cosponsor id="412500" joined="2015-06-03"/>
+    <cosponsor id="412655" joined="2015-03-19"/>
+    <cosponsor id="412541" joined="2015-03-04"/>
+    <cosponsor id="400029" joined="2015-02-26"/>
+    <cosponsor id="400030" joined="2015-06-09"/>
+    <cosponsor id="400032" joined="2015-02-13"/>
+    <cosponsor id="400033" joined="2015-02-24"/>
+    <cosponsor id="400041" joined="2015-02-24"/>
+    <cosponsor id="400636" joined="2015-03-19"/>
+    <cosponsor id="400047" joined="2015-07-14"/>
+    <cosponsor id="412567" joined="2015-07-13"/>
+    <cosponsor id="412539" joined="2015-05-13"/>
+    <cosponsor id="412516" joined="2015-02-24"/>
+    <cosponsor id="412258" joined="2015-06-09"/>
+    <cosponsor id="412571" joined="2015-05-13"/>
+    <cosponsor id="412271" joined="2015-03-19"/>
+    <cosponsor id="412236" joined="2015-02-27"/>
+    <cosponsor id="412563" joined="2015-04-30"/>
+    <cosponsor id="400081" joined="2015-04-14"/>
+    <cosponsor id="400618" joined="2015-06-10"/>
+    <cosponsor id="412651" joined="2015-05-12"/>
+    <cosponsor id="412555" joined="2015-02-13"/>
+    <cosponsor id="400100" joined="2015-03-02"/>
+    <cosponsor id="412526" joined="2015-03-04"/>
+    <cosponsor id="412488" joined="2015-04-28"/>
+    <cosponsor id="400116" joined="2015-05-20"/>
+    <cosponsor id="412524" joined="2015-02-24"/>
+    <cosponsor id="412482" joined="2015-02-24"/>
+    <cosponsor id="400640" joined="2015-03-02"/>
+    <cosponsor id="412532" joined="2015-02-11"/>
+    <cosponsor id="412382" joined="2015-04-22"/>
+    <cosponsor id="412453" joined="2015-04-14"/>
+    <cosponsor id="412661" joined="2015-03-17"/>
+    <cosponsor id="400179" joined="2015-05-15"/>
+    <cosponsor id="400185" joined="2015-07-15"/>
+    <cosponsor id="412663" joined="2015-07-28"/>
+    <cosponsor id="412460" joined="2015-02-26"/>
+    <cosponsor id="412199" joined="2015-04-13"/>
+    <cosponsor id="412603" joined="2015-03-04"/>
+    <cosponsor id="400209" joined="2015-02-24"/>
+    <cosponsor id="412566" joined="2015-02-24"/>
+    <cosponsor id="412583" joined="2015-04-15"/>
+    <cosponsor id="400218" joined="2015-06-18"/>
+    <cosponsor id="400219" joined="2015-04-15"/>
+    <cosponsor id="412421" joined="2015-06-09"/>
+    <cosponsor id="412510" joined="2015-03-25"/>
+    <cosponsor id="412638" joined="2015-04-13"/>
+    <cosponsor id="412616" joined="2015-05-18"/>
+    <cosponsor id="400630" joined="2015-02-13"/>
+    <cosponsor id="412656" joined="2015-03-04"/>
+    <cosponsor id="412558" joined="2015-02-24"/>
+    <cosponsor id="412643" joined="2015-07-21"/>
+    <cosponsor id="412503" joined="2015-02-24"/>
+    <cosponsor id="412540" joined="2015-04-13"/>
+    <cosponsor id="400273" joined="2015-03-17"/>
+    <cosponsor id="400279" joined="2015-04-16"/>
+    <cosponsor id="412474" joined="2015-06-16"/>
+    <cosponsor id="412660" joined="2015-03-04"/>
+    <cosponsor id="412475" joined="2015-03-17"/>
+    <cosponsor id="408211" joined="2015-03-04"/>
+    <cosponsor id="400297" joined="2015-06-09"/>
+    <cosponsor id="412443" joined="2015-04-15"/>
+    <cosponsor id="400309" joined="2015-03-04"/>
+    <cosponsor id="400313" joined="2015-06-03"/>
+    <cosponsor id="412569" joined="2015-06-25"/>
+    <cosponsor id="400652" joined="2015-06-16"/>
+    <cosponsor id="412633" joined="2015-03-24"/>
+    <cosponsor id="412489" joined="2015-02-24"/>
+    <cosponsor id="412202" joined="2015-07-28"/>
+    <cosponsor id="412570" joined="2015-02-26"/>
+    <cosponsor id="400350" joined="2015-05-20"/>
+    <cosponsor id="400366" joined="2015-02-24"/>
+    <cosponsor id="400367" joined="2015-02-13"/>
+    <cosponsor id="412596" joined="2015-04-13"/>
+    <cosponsor id="400381" joined="2015-04-30"/>
+    <cosponsor id="412461" joined="2015-06-09"/>
+    <cosponsor id="412392" joined="2015-03-17"/>
+    <cosponsor id="412317" joined="2015-02-13"/>
+    <cosponsor id="412579" joined="2015-04-14"/>
+    <cosponsor id="412574" joined="2015-07-15"/>
+    <cosponsor id="412525" joined="2015-04-14"/>
+    <cosponsor id="412640" joined="2015-02-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-11" state="REFERRED">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-02-11">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-02-11">
+      <text>Referred to House Armed Services</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="448"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Congressional oversight"/>
+    <term name="Government information and archives"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Income tax deductions"/>
+    <term name="Income tax exclusion"/>
+    <term name="Military medicine"/>
+    <term name="Military personnel and dependents"/>
+  </subjects>
+  <amendments/>
+  <summary>2/11/2015--Introduced.
+Veterans TRICARE Choice Act
+
+ Allows an individual who is eligible to participate in the TRICARE program (a Department of Defense [DOD] managed health care program) to: (1) elect to be ineligible to enroll in such program, (2) make tax deductible contributions to a health savings account during the period such individual elects to be ineligible for TRICARE coverage, and (3) enroll in the TRICARE program at a later date during a special enrollment period.
+
+Requires DOD to: (1) submit to the Internal Revenue Service information on each TRICARE-eligible individual who makes such election for purposes of determining such individual's eligibility for a health savings account; and (2) report to Congress, annually, on elections by TRICARE-eligible individuals under this Act.</summary>
+</bill>

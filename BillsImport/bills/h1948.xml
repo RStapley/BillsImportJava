@@ -1,0 +1,70 @@
+<bill session="114" type="h" number="1948" updated="2015-07-30T04:49:05-04:00">
+  <state datetime="2015-04-22">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-22"/>
+  </status>
+  <introduced datetime="2015-04-22"/>
+  <titles>
+    <title type="short" as="introduced">Veterans' Access to Child Care Act</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to direct the Secretary of Veterans Affairs to provide child care assistance to veterans receiving certain medical services provided by the Department of Veterans Affairs.</title>
+  </titles>
+  <sponsor id="412516"/>
+  <cosponsors>
+    <cosponsor id="400041" joined="2015-04-28"/>
+    <cosponsor id="400048" joined="2015-04-22"/>
+    <cosponsor id="412600" joined="2015-07-29"/>
+    <cosponsor id="412236" joined="2015-06-16"/>
+    <cosponsor id="412532" joined="2015-05-12"/>
+    <cosponsor id="400641" joined="2015-04-28"/>
+    <cosponsor id="400185" joined="2015-05-12"/>
+    <cosponsor id="400195" joined="2015-05-13"/>
+    <cosponsor id="412557" joined="2015-04-22"/>
+    <cosponsor id="400230" joined="2015-06-01"/>
+    <cosponsor id="412638" joined="2015-04-28"/>
+    <cosponsor id="400245" joined="2015-05-13"/>
+    <cosponsor id="400246" joined="2015-06-01"/>
+    <cosponsor id="412189" joined="2015-04-22"/>
+    <cosponsor id="412575" joined="2015-04-28"/>
+    <cosponsor id="412523" joined="2015-06-01"/>
+    <cosponsor id="400333" joined="2015-04-28"/>
+    <cosponsor id="412647" joined="2015-04-22"/>
+    <cosponsor id="412519" joined="2015-04-22"/>
+    <cosponsor id="412520" joined="2015-04-22"/>
+    <cosponsor id="412318" joined="2015-04-22"/>
+    <cosponsor id="412214" joined="2015-04-22"/>
+    <cosponsor id="412239" joined="2015-06-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-22" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2015-05-11">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1496"/>
+    <bill relation="unknown" session="114" type="s" number="469"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Child care and development"/>
+    <term name="Mental health"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>4/22/2015--Introduced.
+Veterans' Access to Child Care Act
+
+Directs the Department of Veterans Affairs (VA) to provide child care assistance to an eligible veteran for any period that the veteran: (1) receives covered health care services at a VA facility, and (2) is required to travel to and return from such facility for the receipt of such services.
+
+Defines: (1) "covered health care services" to mean regular mental health care services, intensive mental health care services, or such other intensive health care services to which the VA determines that provision of child care assistance would improve the veteran's access; and (2) "eligible veteran" as a veteran who is the primary caretaker of a child and who is receiving covered health care services from the VA or who is in need of, and who would receive, such services from the VA but for lack of child care.
+
+Includes among child care assistance to be provided under this Act:
+
+ a stipend for the payment of the full cost of child care offered by a licensed child care center, which shall be modeled after the VA's Child Care Subsidy Program; direct provision of child care at an on-site VA facility; a payment made directly to a private child care agency; and collaboration with a facility or program of another federal department or agency.</summary>
+</bill>

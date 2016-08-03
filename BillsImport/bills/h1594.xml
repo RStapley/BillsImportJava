@@ -1,0 +1,189 @@
+<bill session="114" type="h" number="1594" updated="2015-08-01T04:50:46-04:00">
+  <state datetime="2015-03-24">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-24"/>
+  </status>
+  <introduced datetime="2015-03-24"/>
+  <titles>
+    <title type="short" as="introduced">Military Surviving Spouses Equity Act</title>
+    <title type="official" as="introduced">To amend title 10, United States Code, to repeal the requirement for reduction of survivor annuities under the Survivor Benefit Plan for military surviving spouses to offset the receipt of veterans dependency and indemnity compensation.</title>
+  </titles>
+  <sponsor id="400433"/>
+  <cosponsors>
+    <cosponsor id="412630" joined="2015-07-31"/>
+    <cosponsor id="412500" joined="2015-03-24"/>
+    <cosponsor id="412642" joined="2015-07-14"/>
+    <cosponsor id="412469" joined="2015-03-24"/>
+    <cosponsor id="412565" joined="2015-04-22"/>
+    <cosponsor id="412436" joined="2015-07-16"/>
+    <cosponsor id="412657" joined="2015-03-24"/>
+    <cosponsor id="400029" joined="2015-04-22"/>
+    <cosponsor id="400030" joined="2015-03-24"/>
+    <cosponsor id="412478" joined="2015-04-22"/>
+    <cosponsor id="400032" joined="2015-06-24"/>
+    <cosponsor id="400033" joined="2015-07-10"/>
+    <cosponsor id="412501" joined="2015-07-27"/>
+    <cosponsor id="400041" joined="2015-03-24"/>
+    <cosponsor id="400636" joined="2015-07-10"/>
+    <cosponsor id="412567" joined="2015-07-23"/>
+    <cosponsor id="412395" joined="2015-07-31"/>
+    <cosponsor id="412516" joined="2015-03-24"/>
+    <cosponsor id="412196" joined="2015-04-22"/>
+    <cosponsor id="400052" joined="2015-03-24"/>
+    <cosponsor id="412537" joined="2015-03-24"/>
+    <cosponsor id="400057" joined="2015-07-15"/>
+    <cosponsor id="412258" joined="2015-07-27"/>
+    <cosponsor id="400068" joined="2015-03-24"/>
+    <cosponsor id="412571" joined="2015-03-24"/>
+    <cosponsor id="412604" joined="2015-07-14"/>
+    <cosponsor id="412271" joined="2015-03-24"/>
+    <cosponsor id="412236" joined="2015-07-29"/>
+    <cosponsor id="400077" joined="2015-03-24"/>
+    <cosponsor id="412658" joined="2015-03-26"/>
+    <cosponsor id="412272" joined="2015-03-24"/>
+    <cosponsor id="400080" joined="2015-07-31"/>
+    <cosponsor id="400081" joined="2015-04-22"/>
+    <cosponsor id="412193" joined="2015-04-22"/>
+    <cosponsor id="412555" joined="2015-03-24"/>
+    <cosponsor id="412400" joined="2015-05-05"/>
+    <cosponsor id="400086" joined="2015-07-31"/>
+    <cosponsor id="400090" joined="2015-07-23"/>
+    <cosponsor id="400097" joined="2015-04-22"/>
+    <cosponsor id="412505" joined="2015-03-24"/>
+    <cosponsor id="412526" joined="2015-07-27"/>
+    <cosponsor id="412477" joined="2015-03-24"/>
+    <cosponsor id="412385" joined="2015-03-24"/>
+    <cosponsor id="412215" joined="2015-03-24"/>
+    <cosponsor id="412457" joined="2015-07-10"/>
+    <cosponsor id="400122" joined="2015-07-16"/>
+    <cosponsor id="400124" joined="2015-07-15"/>
+    <cosponsor id="412524" joined="2015-03-24"/>
+    <cosponsor id="412482" joined="2015-03-24"/>
+    <cosponsor id="400129" joined="2015-03-24"/>
+    <cosponsor id="400646" joined="2015-07-27"/>
+    <cosponsor id="400137" joined="2015-03-24"/>
+    <cosponsor id="412257" joined="2015-07-10"/>
+    <cosponsor id="412532" joined="2015-03-24"/>
+    <cosponsor id="412453" joined="2015-03-24"/>
+    <cosponsor id="400154" joined="2015-04-22"/>
+    <cosponsor id="400157" joined="2015-03-24"/>
+    <cosponsor id="412485" joined="2015-03-24"/>
+    <cosponsor id="400162" joined="2015-03-24"/>
+    <cosponsor id="412278" joined="2015-07-29"/>
+    <cosponsor id="412454" joined="2015-03-24"/>
+    <cosponsor id="412645" joined="2015-06-02"/>
+    <cosponsor id="412444" joined="2015-04-29"/>
+    <cosponsor id="412282" joined="2015-05-13"/>
+    <cosponsor id="400179" joined="2015-07-20"/>
+    <cosponsor id="412283" joined="2015-04-22"/>
+    <cosponsor id="412484" joined="2015-03-24"/>
+    <cosponsor id="400195" joined="2015-03-24"/>
+    <cosponsor id="412284" joined="2015-07-27"/>
+    <cosponsor id="412460" joined="2015-06-24"/>
+    <cosponsor id="412603" joined="2015-03-24"/>
+    <cosponsor id="400209" joined="2015-05-29"/>
+    <cosponsor id="412649" joined="2015-07-31"/>
+    <cosponsor id="412595" joined="2015-04-22"/>
+    <cosponsor id="412583" joined="2015-07-29"/>
+    <cosponsor id="400218" joined="2015-05-29"/>
+    <cosponsor id="400219" joined="2015-03-24"/>
+    <cosponsor id="412286" joined="2015-04-22"/>
+    <cosponsor id="400224" joined="2015-07-10"/>
+    <cosponsor id="412638" joined="2015-07-20"/>
+    <cosponsor id="412616" joined="2015-07-29"/>
+    <cosponsor id="400244" joined="2015-04-22"/>
+    <cosponsor id="412209" joined="2015-03-24"/>
+    <cosponsor id="400245" joined="2015-03-24"/>
+    <cosponsor id="400246" joined="2015-03-24"/>
+    <cosponsor id="412292" joined="2015-03-24"/>
+    <cosponsor id="412558" joined="2015-07-27"/>
+    <cosponsor id="412643" joined="2015-06-02"/>
+    <cosponsor id="412562" joined="2015-03-24"/>
+    <cosponsor id="400259" joined="2015-04-22"/>
+    <cosponsor id="412487" joined="2015-07-29"/>
+    <cosponsor id="412611" joined="2015-05-13"/>
+    <cosponsor id="400273" joined="2015-07-23"/>
+    <cosponsor id="400279" joined="2015-05-29"/>
+    <cosponsor id="412527" joined="2015-07-31"/>
+    <cosponsor id="400285" joined="2015-07-29"/>
+    <cosponsor id="400290" joined="2015-05-13"/>
+    <cosponsor id="412606" joined="2015-07-21"/>
+    <cosponsor id="412409" joined="2015-04-22"/>
+    <cosponsor id="412443" joined="2015-04-22"/>
+    <cosponsor id="400313" joined="2015-03-24"/>
+    <cosponsor id="412192" joined="2015-07-31"/>
+    <cosponsor id="412523" joined="2015-03-24"/>
+    <cosponsor id="412306" joined="2015-03-24"/>
+    <cosponsor id="412307" joined="2015-03-24"/>
+    <cosponsor id="412551" joined="2015-07-29"/>
+    <cosponsor id="412585" joined="2015-07-27"/>
+    <cosponsor id="412633" joined="2015-04-29"/>
+    <cosponsor id="412308" joined="2015-03-24"/>
+    <cosponsor id="412309" joined="2015-06-02"/>
+    <cosponsor id="400326" joined="2015-07-29"/>
+    <cosponsor id="412393" joined="2015-07-29"/>
+    <cosponsor id="412462" joined="2015-07-29"/>
+    <cosponsor id="412489" joined="2015-07-29"/>
+    <cosponsor id="412483" joined="2015-03-24"/>
+    <cosponsor id="412394" joined="2015-05-05"/>
+    <cosponsor id="412411" joined="2015-03-24"/>
+    <cosponsor id="412570" joined="2015-07-21"/>
+    <cosponsor id="400347" joined="2015-07-31"/>
+    <cosponsor id="412519" joined="2015-06-24"/>
+    <cosponsor id="400350" joined="2015-03-24"/>
+    <cosponsor id="400352" joined="2015-03-24"/>
+    <cosponsor id="400606" joined="2015-03-24"/>
+    <cosponsor id="412212" joined="2015-04-22"/>
+    <cosponsor id="412314" joined="2015-03-24"/>
+    <cosponsor id="412417" joined="2015-03-24"/>
+    <cosponsor id="400364" joined="2015-03-24"/>
+    <cosponsor id="400373" joined="2015-07-29"/>
+    <cosponsor id="412509" joined="2015-07-10"/>
+    <cosponsor id="400380" joined="2015-03-24"/>
+    <cosponsor id="400381" joined="2015-05-05"/>
+    <cosponsor id="412648" joined="2015-07-29"/>
+    <cosponsor id="412461" joined="2015-07-23"/>
+    <cosponsor id="412626" joined="2015-03-26"/>
+    <cosponsor id="412520" joined="2015-03-24"/>
+    <cosponsor id="412317" joined="2015-03-24"/>
+    <cosponsor id="400403" joined="2015-05-13"/>
+    <cosponsor id="412318" joined="2015-05-29"/>
+    <cosponsor id="412254" joined="2015-03-24"/>
+    <cosponsor id="400411" joined="2015-07-20"/>
+    <cosponsor id="400414" joined="2015-07-31"/>
+    <cosponsor id="412515" joined="2015-05-15"/>
+    <cosponsor id="400415" joined="2015-03-24"/>
+    <cosponsor id="412579" joined="2015-07-20"/>
+    <cosponsor id="412580" joined="2015-07-14"/>
+    <cosponsor id="412548" joined="2015-03-24"/>
+    <cosponsor id="412214" joined="2015-04-22"/>
+    <cosponsor id="412239" joined="2015-07-16"/>
+    <cosponsor id="412412" joined="2015-07-29"/>
+    <cosponsor id="412255" joined="2015-03-24"/>
+    <cosponsor id="412402" joined="2015-07-29"/>
+    <cosponsor id="412211" joined="2015-03-24"/>
+    <cosponsor id="412628" joined="2015-07-23"/>
+    <cosponsor id="400440" joined="2015-07-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-24" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="979"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <summary>3/24/2015--Introduced.
+Military Surviving Spouses Equity Act
+
+Repeals certain provisions which require the offset of amounts paid in dependency and indemnity compensation from Survivor Benefit Plan (SBP) annuities for the surviving spouses of former military personnel who are entitled to military retired pay or who would be entitled to retired pay except for being under 60 years of age.
+
+ Prohibits requiring repayment of certain amounts previously paid to SBP recipients in the form of a retired pay refund. Repeals the optional authority of (and instead requires) the Secretary of the military department concerned to pay an annuity to a member's dependent children when there is no eligible surviving spouse. Directs the Secretary concerned to restore annuity eligibility to a surviving spouse who earlier agreed to transfer such eligibility to a surviving child or children of a member.</summary>
+</bill>

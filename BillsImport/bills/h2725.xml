@@ -1,0 +1,47 @@
+<bill session="114" type="h" number="2725" updated="2015-07-11T04:47:26-04:00">
+  <state datetime="2015-06-10">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-10"/>
+  </status>
+  <introduced datetime="2015-06-10"/>
+  <titles>
+    <title type="short" as="introduced">21st Century Care for Military and Veterans Act</title>
+    <title type="official" as="introduced">To amend titles 10 and 38, United States Code, to expand the use of telehealth under the TRICARE program and in the Department of Veterans Affairs, and for other purposes.</title>
+  </titles>
+  <sponsor id="412523"/>
+  <cosponsors>
+    <cosponsor id="412613" joined="2015-07-10"/>
+    <cosponsor id="400185" joined="2015-06-10"/>
+    <cosponsor id="400209" joined="2015-06-10"/>
+    <cosponsor id="412585" joined="2015-07-10"/>
+    <cosponsor id="412308" joined="2015-06-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-10" state="REFERRED">
+      <text>Referred to the Committee on Armed Services, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-06-10">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2015-06-10">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2015-06-30">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <summary>6/10/2015--Introduced.
+21st Century Care for Military and Veterans Act
+
+Permits the use of a telecommunications system to provide an item or service to current and former members of the uniformed services and their dependents under the TRICARE plan of health care benefits administered by the Department of Defense and to veterans receiving health care benefits under plans administered by the Department of Veterans Affairs.</summary>
+</bill>

@@ -1,0 +1,53 @@
+<bill session="114" type="h" number="1014" updated="2015-04-04T06:25:26-04:00">
+  <state datetime="2015-02-20">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-20"/>
+  </status>
+  <introduced datetime="2015-02-20"/>
+  <titles>
+    <title type="short" as="introduced">Marijuana Tax Revenue Act of 2015</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to provide for the taxation of marijuana, and for other purposes.</title>
+  </titles>
+  <sponsor id="400033"/>
+  <cosponsors>
+    <cosponsor id="412236" joined="2015-02-20"/>
+    <cosponsor id="400237" joined="2015-02-20"/>
+    <cosponsor id="400295" joined="2015-02-20"/>
+    <cosponsor id="412307" joined="2015-02-20"/>
+    <cosponsor id="412585" joined="2015-02-20"/>
+    <cosponsor id="412308" joined="2015-02-20"/>
+    <cosponsor id="412514" joined="2015-02-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-20">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E227"/>
+    </action>
+    <action datetime="2015-02-20" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Alternative treatments"/>
+    <term name="Civil actions and liability"/>
+    <term name="Drug trafficking and controlled substances"/>
+    <term name="Government studies and investigations"/>
+    <term name="Licensing and registrations"/>
+    <term name="Sales and excise taxes"/>
+    <term name="Tax administration and collection, taxpayers"/>
+  </subjects>
+  <amendments/>
+  <summary>2/20/2015--Introduced.
+Marijuana Tax Revenue Act of 2015 
+
+This bill amends the Internal Revenue Code to impose an excise tax on: (1) the sale of marijuana by producers or importers, and (2) each person who is engaged in a marijuana enterprise. Defines "marijuana enterprise" to mean a producer, importer, manufacturer, distributor, retailer or any person who transports, stores, displays, or otherwise participates in any business activity that handles marijuana or marijuana products.
+
+Any person who engages in a marijuana enterprise must obtain a permit to engage in such an enterprise.
+
+The bill imposes civil penalties for failure to comply with the requirements of this Act and criminal penalties for engaging in a marijuana enterprise without a permit, failing to keep or make required records or for making false records, or refusing to pay or evading a tax imposed by this Act and for other offenses related to the sale of marijuana.</summary>
+</bill>

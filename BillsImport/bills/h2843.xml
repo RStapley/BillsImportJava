@@ -1,0 +1,68 @@
+<bill session="114" type="h" number="2843" updated="2015-08-01T06:43:25-04:00">
+  <state datetime="2015-07-27T16:49:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2015-07-27T16:49:00-04:00"/>
+  </status>
+  <introduced datetime="2015-06-19"/>
+  <titles>
+    <title type="short" as="introduced">TSA PreCheck Expansion Act</title>
+    <title type="short" as="reported to house">TSA PreCheck Expansion Act</title>
+    <title type="short" as="passed house">TSA PreCheck Expansion Act</title>
+    <title type="official" as="introduced">To require certain improvements in the Transportation Security Administration's PreCheck expedited screening program, and for other purposes.</title>
+  </titles>
+  <sponsor id="412649"/>
+  <cosponsors>
+    <cosponsor id="400654" joined="2015-06-19"/>
+    <cosponsor id="400341" joined="2015-06-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-19" state="REFERRED">
+      <text>Referred to the House Committee on Homeland Security.</text>
+    </action>
+    <action datetime="2015-06-23">
+      <text>Referred to the Subcommittee on Transportation Security.</text>
+    </action>
+    <action datetime="2015-06-25">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-06-25" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+    <action datetime="2015-07-22T15:27:00-04:00">
+      <text>Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-221.</text>
+    </action>
+    <calendar datetime="2015-07-22T15:27:00-04:00" calendar="Union" number="167">
+      <text>Placed on the Union Calendar, Calendar No. 167.</text>
+    </calendar>
+    <action datetime="2015-07-27T16:42:00-04:00">
+      <text>Mr. Katko moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2015-07-27T16:42:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5501-5502" label="consideration"/>
+    </action>
+    <action datetime="2015-07-27T16:42:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2843.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2015-07-27T16:49:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H5501" label="text"/>
+    </vote>
+    <action datetime="2015-07-27T16:49:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2015-07-28">
+      <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="HSHM07" subcommittee="Transportation Security" name="House Homeland Security"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,40 @@
+<bill session="114" type="s" number="1437" updated="2015-06-13T06:56:46-04:00">
+  <state datetime="2015-05-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-21"/>
+  </status>
+  <introduced datetime="2015-05-21"/>
+  <titles>
+    <title type="short" as="introduced">Modular Airborne Firefighting System Flexibility Act</title>
+    <title type="official" as="introduced">A bill to amend title 32, United States Code, to authorize and provide flexibility for the use of the National Guard for support of civilian firefighting activities.</title>
+  </titles>
+  <sponsor id="412251"/>
+  <cosponsors>
+    <cosponsor id="300011" joined="2015-05-21"/>
+    <cosponsor id="400054" joined="2015-05-21"/>
+    <cosponsor id="300041" joined="2015-05-21"/>
+    <cosponsor id="300043" joined="2015-05-21"/>
+    <cosponsor id="412668" joined="2015-05-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1735"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <summary>5/21/2015--Introduced.
+Modular Airborne Firefighting System Flexibility Act 
+
+This bill authorizes the National Guard to provide assistance to support federal, state, or other civilian authority firefighting operations or activities, including aerial firefighting employment of the Modular Airborne Firefighting System.
+
+Such authority is based on a recognition of the basic premises of the National Incident Management System and the National Response Framework that: (1) incidents are typically managed at the local level first; and (2) local jurisdictions retain command, control, and authority over response activities for their jurisdictional areas.</summary>
+</bill>

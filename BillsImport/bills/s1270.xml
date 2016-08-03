@@ -1,0 +1,38 @@
+<bill session="114" type="s" number="1270" updated="2015-06-27T07:29:26-04:00">
+  <state datetime="2015-05-11">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-11"/>
+  </status>
+  <introduced datetime="2015-05-11"/>
+  <titles>
+    <title type="short" as="introduced">Reliable Investment in Vital Energy Reauthorization Act</title>
+    <title type="short" as="introduced">RIVER Act</title>
+    <title type="official" as="introduced">A bill to amend the Energy Policy Act of 2005 to reauthorize hydroelectric production incentives and hydroelectric efficiency improvement incentives, and for other purposes.</title>
+  </titles>
+  <sponsor id="412406"/>
+  <cosponsors>
+    <cosponsor id="412269" joined="2015-06-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-11" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2015-05-19">
+      <text>Committee on Energy and Natural Resources. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="2724"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+  </subjects>
+  <amendments/>
+  <summary>5/11/2015--Introduced.
+Reliable Investment in Vital Energy Reauthorization Act or the RIVER Act
+
+This bill amends the Energy Policy Act of 2005 to extend through FY2025 appropriations for hydroelectric production incentives and for incentive payments to the owners or operators of hydroelectric facilities at existing dams to make capital improvements directly related to improving efficiency.</summary>
+</bill>

@@ -1,0 +1,58 @@
+<bill session="114" type="h" number="1676" updated="2015-06-11T04:47:37-04:00">
+  <state datetime="2015-03-26">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-26"/>
+  </status>
+  <introduced datetime="2015-03-26"/>
+  <titles>
+    <title type="short" as="introduced">Weekends Without Hunger Act</title>
+    <title type="official" as="introduced">To amend the Richard B. Russell National School Lunch Act to establish a weekend and holiday feeding program to provide nutritious food to at-risk school children on weekends and during extended school holidays during the school year.</title>
+  </titles>
+  <sponsor id="412318"/>
+  <cosponsors>
+    <cosponsor id="412379" joined="2015-04-14"/>
+    <cosponsor id="412600" joined="2015-06-10"/>
+    <cosponsor id="412236" joined="2015-04-28"/>
+    <cosponsor id="400080" joined="2015-06-02"/>
+    <cosponsor id="412613" joined="2015-04-16"/>
+    <cosponsor id="412385" joined="2015-03-26"/>
+    <cosponsor id="412327" joined="2015-03-26"/>
+    <cosponsor id="400162" joined="2015-03-26"/>
+    <cosponsor id="412638" joined="2015-03-26"/>
+    <cosponsor id="400263" joined="2015-04-14"/>
+    <cosponsor id="400661" joined="2015-03-26"/>
+    <cosponsor id="400295" joined="2015-03-26"/>
+    <cosponsor id="400333" joined="2015-03-26"/>
+    <cosponsor id="400350" joined="2015-03-26"/>
+    <cosponsor id="412396" joined="2015-03-26"/>
+    <cosponsor id="412522" joined="2015-03-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-26" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Food assistance and relief"/>
+    <term name="Poverty and welfare assistance"/>
+  </subjects>
+  <amendments/>
+  <summary>3/26/2015--Introduced.
+Weekends Without Hunger Act
+
+Amends the Richard B. Russell National School Lunch Act to direct the Secretary of Agriculture, subject to the availability of appropriations, to implement a pilot program providing commodities, on a competitive basis, to nonprofits for the provision of nutritious food to at-risk school children on weekends and during extended school holidays during the school year. (At-risk school children are those who participate in the school lunch program and reside in an area served by a school in which at least 50% of the students receive free or reduced price meals under the school lunch or breakfast programs.)
+
+Includes elementary and secondary schools, school food authorities, food banks or pantries, homeless shelters, and other Secretary-approved emergency feeding agencies as eligible nonprofit recipients of such commodities.
+
+Requires commodity recipients to satisfy safe food storage, handling, and delivery standards established by the Secretary.
+
+Directs the Secretary to: (1) complete an interim evaluation of the pilot program by November 30, 2018, and (2) submit a final report to Congress by December 31, 2020, that contains an evaluation of such program and any recommendations the Secretary may have for legislative action.
+
+Authorizes appropriations for the pilot program.</summary>
+</bill>

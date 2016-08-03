@@ -1,0 +1,52 @@
+<bill session="114" type="h" number="2571" updated="2015-06-27T07:03:13-04:00">
+  <state datetime="2015-05-22">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-22"/>
+  </status>
+  <introduced datetime="2015-05-22"/>
+  <titles>
+    <title type="short" as="introduced">M-CORE Act</title>
+    <title type="short" as="introduced">Millennium Compacts for Regional Economic Integration Act</title>
+    <title type="official" as="introduced">To amend the Millennium Challenge Act of 2003 to authorize concurrent compacts for purposes of regional economic integration and cross-border collaborations, and for other purposes.</title>
+  </titles>
+  <sponsor id="412404"/>
+  <cosponsors>
+    <cosponsor id="412470" joined="2015-06-11"/>
+    <cosponsor id="400086" joined="2015-05-22"/>
+    <cosponsor id="400108" joined="2015-06-18"/>
+    <cosponsor id="400122" joined="2015-05-22"/>
+    <cosponsor id="400640" joined="2015-06-18"/>
+    <cosponsor id="412199" joined="2015-06-18"/>
+    <cosponsor id="400237" joined="2015-06-11"/>
+    <cosponsor id="400262" joined="2015-06-11"/>
+    <cosponsor id="400348" joined="2015-05-22"/>
+    <cosponsor id="400350" joined="2015-06-11"/>
+    <cosponsor id="400606" joined="2015-06-11"/>
+    <cosponsor id="400379" joined="2015-05-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-22" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1605"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+  </subjects>
+  <amendments/>
+  <summary>5/22/2015--Introduced.
+Millennium Compacts for Regional Economic Integration Act or the M-CORE Act
+
+This bill amends the Millennium Challenge Act of 2003 to establish beginning with FY2013 new assistance criteria for a low-income or a lower middle income candidate country eligible to enter into a Millennium Challenge Compact with the United States. Such a country must:
+
+ have a per capita income equal to or less than the lower middle income country threshold established by the International Bank for Reconstruction and Development for the fiscal year; be among the 75 countries identified by the Bank as having the lowest per capita income; and not be ineligible to receive U.S. economic assistance under part I of the Foreign Assistance Act of 1961. Reclassification limits are set forth as follows:
+
+ if the per capita income of a low-income candidate country changes during the fiscal year so that it would be reclassified as a lower middle income country, it shall be deemed to continue to meet the per capita income requirements for that fiscal year and the two subsequent fiscal years; and if the per capita income of a lower middle income candidate country changes during the fiscal year so that it would be reclassified as a low-income country, it shall be deemed to continue to meet the per capita income requirements for that fiscal year and the two subsequent fiscal years. An eligible country that has entered into and has in effect a Millennium Challenge Compact may enter into and have in effect at the same time not more than one additional Compact if:
+
+ one or both of the Compacts are or will be for purposes of regional economic integration, increased regional trade, or cross-border collaborations; and the country is making considerable and demonstrable progress in implementing the terms of the existing Compact. Congressional and public notification and disclosure provisions are revised.</summary>
+</bill>

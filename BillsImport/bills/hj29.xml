@@ -1,0 +1,59 @@
+<bill session="114" type="hj" number="29" updated="2015-03-19T04:47:52-04:00">
+  <state datetime="2015-02-09">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-09"/>
+  </status>
+  <introduced datetime="2015-02-09"/>
+  <titles>
+    <title type="official" as="introduced">Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the National Labor Relations Board relating to representation case procedures.</title>
+  </titles>
+  <sponsor id="400224"/>
+  <cosponsors>
+    <cosponsor id="412625" joined="2015-02-20"/>
+    <cosponsor id="412601" joined="2015-02-20"/>
+    <cosponsor id="412658" joined="2015-02-24"/>
+    <cosponsor id="412526" joined="2015-03-03"/>
+    <cosponsor id="400643" joined="2015-03-16"/>
+    <cosponsor id="400154" joined="2015-02-27"/>
+    <cosponsor id="412661" joined="2015-02-20"/>
+    <cosponsor id="412446" joined="2015-03-16"/>
+    <cosponsor id="412284" joined="2015-02-20"/>
+    <cosponsor id="412540" joined="2015-03-16"/>
+    <cosponsor id="412310" joined="2015-02-09"/>
+    <cosponsor id="412426" joined="2015-03-16"/>
+    <cosponsor id="412650" joined="2015-03-18"/>
+    <cosponsor id="400606" joined="2015-02-20"/>
+    <cosponsor id="412217" joined="2015-02-27"/>
+    <cosponsor id="412317" joined="2015-03-17"/>
+    <cosponsor id="412213" joined="2015-02-20"/>
+    <cosponsor id="400433" joined="2015-03-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-09" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+    <action datetime="2015-03-04">
+      <text>Referred to the Subcommittee on Health, Employment, Labor, and Pensions.</text>
+    </action>
+    <action datetime="2015-03-04">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee activity="Referral, Hearings" code="HSED02" subcommittee="Health, Employment, Labor, and Pensions" name="House Education and the Workforce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="sj" number="8"/>
+  </relatedbills>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Congressional oversight"/>
+    <term name="Labor-management relations"/>
+    <term name="National Labor Relations Board (NLRB)"/>
+  </subjects>
+  <amendments/>
+  <summary>2/9/2015--Introduced.
+Disapproves and nullifies the rule submitted by the National Labor Relations Board and published December 15, 2014, relating to representation case procedures.</summary>
+</bill>

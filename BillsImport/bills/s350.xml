@@ -1,0 +1,40 @@
+<bill session="114" type="s" number="350" updated="2015-05-23T06:45:17-04:00">
+  <state datetime="2015-02-03">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-03"/>
+  </status>
+  <introduced datetime="2015-02-03"/>
+  <titles>
+    <title type="short" as="introduced">Judgment Fund Transparency Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend title 31, United States Code, to provide for transparency of payments made from the Judgment Fund.</title>
+  </titles>
+  <sponsor id="412556"/>
+  <cosponsors>
+    <cosponsor id="300030" joined="2015-02-03"/>
+    <cosponsor id="412406" joined="2015-02-03"/>
+    <cosponsor id="300048" joined="2015-02-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-03" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="1669"/>
+    <bill relation="unknown" session="114" type="s" number="405"/>
+    <bill relation="unknown" session="114" type="s" number="556"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Government information and archives"/>
+    <term name="Government liability"/>
+  </subjects>
+  <amendments/>
+  <summary>2/3/2015--Introduced.
+Judgment Fund Transparency Act of 2015 
+
+This bill requires the Department of the Treasury to disclose details after payments are made from the Judgment Fund. The Judgment Fund is a permanent and indefinite appropriation to pay judgments against the United States. Unless the disclosure is prohibited by law or a court order, Treasury is required to make available to the public on a website: the agency or entity whose actions gave rise to the claim or judgment, the plaintiff or claimant, the counsel for the plaintiff or claimant, the amount paid, a description of the facts that gave rise to the claim, and the agency that submitted the claim.</summary>
+</bill>

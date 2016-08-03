@@ -1,0 +1,50 @@
+<bill session="114" type="s" number="766" updated="2015-08-22T06:58:05-04:00">
+  <state datetime="2015-03-25">REPORTED</state>
+  <status>
+    <unknown datetime="2015-03-25"/>
+  </status>
+  <introduced datetime="2015-03-17"/>
+  <titles>
+    <title type="short" as="introduced">Driver Privacy Act of 2015</title>
+    <title type="official" as="introduced">A bill to limit the retrieval of data from vehicle event data recorders, and for other purposes.</title>
+  </titles>
+  <sponsor id="412494"/>
+  <cosponsors>
+    <cosponsor id="400040" joined="2015-07-08"/>
+    <cosponsor id="412545" joined="2015-04-29"/>
+    <cosponsor id="412242" joined="2015-03-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-17" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+    <calendar datetime="2015-03-25" state="REPORTED">
+      <text>Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1732"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Transportation"/>
+    <term name="Government studies and investigations"/>
+    <term name="Motor vehicles"/>
+    <term name="Right of privacy"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+  <summary>3/17/2015--Introduced.
+Driver Privacy Act of 2015
+
+Declares that any data in an event data recorder required to be installed in a passenger motor vehicle (as provided for under Department of Transportation [DOT] regulations concerning the collection, storage, and retrievability of onboard motor vehicle crash event data) is the property of the owner or lessee of the vehicle in which the recorder is installed, regardless of when the vehicle was manufactured.
+
+Prohibits a person, other than the owner or lessee of the motor vehicle, from accessing data recorded or transmitted by such a recorder unless:
+
+ a court or other judicial or administrative authority authorizes the retrieval of such data subject to admissibility of evidence standards; an owner or lessee consents to such retrieval for any purpose, including vehicle diagnosis, service, or repair; the data is retrieved pursuant to certain authorized investigations or inspections of the National Transportation Safety Board or DOT; the data is retrieved to determine the appropriate emergency medical response to a motor vehicle crash; or the data is retrieved for traffic safety research, and the owner's or lessee's personally identifiable information and the vehicle identification number are not disclosed. Directs the National Highway Traffic Safety Administration, after completing a study and submitting a report to Congress, to promulgate regulations concerning the amount of time event data recorders installed in passenger motor vehicles may capture and record vehicle-related data to provide accident investigators with pertinent crash-related information.</summary>
+</bill>

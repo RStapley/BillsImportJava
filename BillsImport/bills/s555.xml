@@ -1,0 +1,49 @@
+<bill session="114" type="s" number="555" updated="2015-04-18T06:39:50-04:00">
+  <state datetime="2015-02-25">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-25"/>
+  </status>
+  <introduced datetime="2015-02-25"/>
+  <titles>
+    <title type="short" as="introduced">Bringing Terrorists to Justice Act of 2015</title>
+    <title type="official" as="introduced">A bill to require the Secretary of State to offer rewards for information on the kidnapping and murder of James Foley, Peter Kassig, Steven Sotloff, Kayla Mueller, or any other United States citizen by a foreign terrorist organization.</title>
+  </titles>
+  <sponsor id="412491"/>
+  <cosponsors>
+    <cosponsor id="412493" joined="2015-02-25"/>
+    <cosponsor id="402675" joined="2015-02-25"/>
+    <cosponsor id="412573" joined="2015-02-25"/>
+    <cosponsor id="412205" joined="2015-02-25"/>
+    <cosponsor id="400134" joined="2015-02-25"/>
+    <cosponsor id="300071" joined="2015-02-25"/>
+    <cosponsor id="300078" joined="2015-02-25"/>
+    <cosponsor id="412323" joined="2015-02-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-25" state="REFERRED">
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="751"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Criminal justice information and records"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="Evidence and witnesses"/>
+    <term name="Terrorism"/>
+    <term name="Violent crime"/>
+  </subjects>
+  <amendments/>
+  <summary>2/25/2015--Introduced.
+Bringing Terrorists to Justice Act of 2015
+
+Directs the Department of State, in accordance with the Rewards for Justice program authorized under the State Department Basic Authorities Act of 1956, to offer a reward to any individual who furnishes information leading to the arrest or conviction in any country of any individual for committing, conspiring or attempting to commit, or aiding or abetting in the commission of the kidnapping and murder of James Foley, Peter Kassig, Steven Sotloff, or Kayla Mueller, or the kidnapping and murder of any other U.S. citizen by a foreign terrorist organization. Limits to $5 million the total amount of rewards offered in connection with the kidnapping and murder of any one such individual.
+
+Prohibits such Department from offering a reward under this Act in connection with the kidnapping and murder of any U.S. citizen determined to have been affiliated with or supportive of a foreign terrorist organization.</summary>
+</bill>

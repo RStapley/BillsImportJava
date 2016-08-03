@@ -1,0 +1,53 @@
+<bill session="114" type="s" number="624" updated="2015-07-28T05:10:30-04:00">
+  <state datetime="2015-03-03">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-03"/>
+  </status>
+  <introduced datetime="2015-03-03"/>
+  <titles>
+    <title type="short" as="introduced">Removing Barriers to Colorectal Cancer Screening Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act to waive coinsurance under Medicare for colorectal cancer screening tests, regardless of whether therapeutic intervention is required during the screening.</title>
+  </titles>
+  <sponsor id="400050"/>
+  <cosponsors>
+    <cosponsor id="412330" joined="2015-04-13"/>
+    <cosponsor id="300011" joined="2015-04-15"/>
+    <cosponsor id="400064" joined="2015-03-03"/>
+    <cosponsor id="300019" joined="2015-07-13"/>
+    <cosponsor id="300023" joined="2015-07-07"/>
+    <cosponsor id="300025" joined="2015-03-03"/>
+    <cosponsor id="412390" joined="2015-03-19"/>
+    <cosponsor id="412205" joined="2015-04-28"/>
+    <cosponsor id="300043" joined="2015-05-14"/>
+    <cosponsor id="412223" joined="2015-05-19"/>
+    <cosponsor id="412243" joined="2015-05-04"/>
+    <cosponsor id="300081" joined="2015-03-19"/>
+    <cosponsor id="300087" joined="2015-04-21"/>
+    <cosponsor id="412323" joined="2015-04-21"/>
+    <cosponsor id="300093" joined="2015-07-27"/>
+    <cosponsor id="400432" joined="2015-03-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-03" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="1220"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Cancer"/>
+    <term name="Digestive and metabolic diseases"/>
+    <term name="Medical tests and diagnostic methods"/>
+    <term name="Medicare"/>
+  </subjects>
+  <amendments/>
+  <summary>3/3/2015--Introduced.
+Removing Barriers to Colorectal Cancer Screening Act of 2015 
+
+ This bill amends title XVIII (Medicare) of the Social Security Act to waive coinsurance for colorectal cancer screening tests (in order to cover 100% of their cost under Medicare part B [Supplementary Medical Insurance Benefits for the Aged and Disabled]), regardless of the code billed for a diagnosis as a result of a test, or for the removal of tissue or other procedure furnished in connection with, as a result of, and in the same clinical encounter as the screening test.</summary>
+</bill>

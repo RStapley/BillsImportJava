@@ -1,0 +1,62 @@
+<bill session="114" type="h" number="600" updated="2015-07-17T04:57:44-04:00">
+  <state datetime="2015-01-28">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-28"/>
+  </status>
+  <introduced datetime="2015-01-28"/>
+  <titles>
+    <title type="short" as="introduced">CIDER Act</title>
+    <title type="short" as="introduced">Cider Industry Deserves Equal Regulation Act</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to modify the taxation of hard cider.</title>
+  </titles>
+  <sponsor id="400033"/>
+  <cosponsors>
+    <cosponsor id="412436" joined="2015-04-17"/>
+    <cosponsor id="412563" joined="2015-01-28"/>
+    <cosponsor id="412651" joined="2015-06-17"/>
+    <cosponsor id="400100" joined="2015-02-24"/>
+    <cosponsor id="412505" joined="2015-04-21"/>
+    <cosponsor id="412454" joined="2015-02-24"/>
+    <cosponsor id="412584" joined="2015-02-25"/>
+    <cosponsor id="412486" joined="2015-04-14"/>
+    <cosponsor id="412437" joined="2015-06-04"/>
+    <cosponsor id="412484" joined="2015-07-13"/>
+    <cosponsor id="412465" joined="2015-05-29"/>
+    <cosponsor id="412562" joined="2015-04-29"/>
+    <cosponsor id="412634" joined="2015-05-05"/>
+    <cosponsor id="400291" joined="2015-06-18"/>
+    <cosponsor id="412660" joined="2015-05-22"/>
+    <cosponsor id="400333" joined="2015-02-25"/>
+    <cosponsor id="412648" joined="2015-07-16"/>
+    <cosponsor id="412319" joined="2015-05-05"/>
+    <cosponsor id="400414" joined="2015-04-14"/>
+    <cosponsor id="412239" joined="2015-07-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-28">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E131-132"/>
+    </action>
+    <action datetime="2015-01-28" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="906"/>
+    <bill relation="unknown" session="114" type="s" number="1459"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Alcoholic beverages"/>
+    <term name="Fruit and vegetables"/>
+    <term name="Sales and excise taxes"/>
+  </subjects>
+  <amendments/>
+  <summary>1/28/2015--Introduced.
+Cider Industry Deserves Equal Regulation Act or the CIDER Act&#160;
+
+Amends the Internal Revenue to revise the definition of "hard cider," for purposes of the excise tax on distilled spirits, wines, and beer, to mean any wine: (1) the carbonation level of which does not exceed 6.4 grams per liter; (2) which is derived primarily from apples, apple juice concentrate and water, pears, or pear juice concentrate and water; (3) which contains no fruit product or fruit flavoring other than apple or pear; and (4) which contains at least one-half of 1% and less than 8.5% alcohol by volume.</summary>
+</bill>

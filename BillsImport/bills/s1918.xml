@@ -1,0 +1,31 @@
+<bill session="114" type="s" number="1918" updated="2015-08-07T12:49:06-04:00">
+  <state datetime="2015-08-03">REFERRED</state>
+  <status>
+    <introduced datetime="2015-08-03"/>
+  </status>
+  <introduced datetime="2015-08-03"/>
+  <titles>
+    <title type="short" as="introduced">Conserving Ecosystems by Ceasing the Importation of Large (CECIL) Animal Trophies Act</title>
+    <title type="official" as="introduced">A bill to amend the Endangered Species Act of 1973 to extend the import- and export-related provision of that Act to species proposed for listing as threatened or endangered under that Act.</title>
+  </titles>
+  <sponsor id="400272"/>
+  <cosponsors>
+    <cosponsor id="412490" joined="2015-08-03"/>
+    <cosponsor id="412598" joined="2015-08-03"/>
+    <cosponsor id="400064" joined="2015-08-03"/>
+    <cosponsor id="400253" joined="2015-08-03"/>
+    <cosponsor id="300073" joined="2015-08-03"/>
+    <cosponsor id="412305" joined="2015-08-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-08-03" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

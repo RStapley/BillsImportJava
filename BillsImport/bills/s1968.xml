@@ -1,0 +1,30 @@
+<bill session="114" type="s" number="1968" updated="2015-08-15T07:08:17-04:00">
+  <state datetime="2015-08-05">REFERRED</state>
+  <status>
+    <introduced datetime="2015-08-05"/>
+  </status>
+  <introduced datetime="2015-08-05"/>
+  <titles>
+    <title type="short" as="introduced">Business Supply Chain Transparency on Trafficking and Slavery Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend the Securities Exchange Act of 1934 to require certain companies to disclose information describing any measures the company has taken to identify and address conditions of forced labor, slavery, human trafficking, and the worst forms of child labor within the company's supply chains.</title>
+  </titles>
+  <sponsor id="412490"/>
+  <cosponsors>
+    <cosponsor id="400253" joined="2015-08-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-08-05" state="REFERRED">
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="3226"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+  </subjects>
+  <amendments/>
+</bill>

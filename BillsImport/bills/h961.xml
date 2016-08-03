@@ -1,0 +1,50 @@
+<bill session="114" type="h" number="961" updated="2015-08-01T04:50:30-04:00">
+  <state datetime="2015-02-12">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-12"/>
+  </status>
+  <introduced datetime="2015-02-12"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to permanently extend the subpart F exemption for active financing income.</title>
+  </titles>
+  <sponsor id="400406"/>
+  <cosponsors>
+    <cosponsor id="400636" joined="2015-02-12"/>
+    <cosponsor id="400206" joined="2015-07-15"/>
+    <cosponsor id="400218" joined="2015-02-12"/>
+    <cosponsor id="400233" joined="2015-02-12"/>
+    <cosponsor id="400656" joined="2015-07-22"/>
+    <cosponsor id="400291" joined="2015-02-12"/>
+    <cosponsor id="412475" joined="2015-07-28"/>
+    <cosponsor id="400309" joined="2015-02-12"/>
+    <cosponsor id="412303" joined="2015-07-31"/>
+    <cosponsor id="412393" joined="2015-02-12"/>
+    <cosponsor id="412202" joined="2015-02-12"/>
+    <cosponsor id="400355" joined="2015-02-13"/>
+    <cosponsor id="412314" joined="2015-02-24"/>
+    <cosponsor id="412217" joined="2015-07-16"/>
+    <cosponsor id="400403" joined="2015-02-12"/>
+    <cosponsor id="412428" joined="2015-02-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-12" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Financial services and investments"/>
+    <term name="Foreign and international banking"/>
+    <term name="Foreign and international corporations"/>
+    <term name="Income tax exclusion"/>
+    <term name="Insurance industry and regulation"/>
+    <term name="Taxation of foreign income"/>
+  </subjects>
+  <amendments/>
+  <summary>2/12/2015--Introduced.
+Amends the Internal Revenue Code to make permanent the subpart F foreign personal holding company income exemption for income that is derived in the active conduct of a banking, financing, or similar business, as a securities dealer, or in the conduct of an insurance business.</summary>
+</bill>

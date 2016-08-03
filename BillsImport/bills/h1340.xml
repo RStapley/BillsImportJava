@@ -1,0 +1,101 @@
+<bill session="114" type="h" number="1340" updated="2015-08-01T04:50:39-04:00">
+  <state datetime="2015-03-06">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-06"/>
+  </status>
+  <introduced datetime="2015-03-06"/>
+  <titles>
+    <title type="short" as="introduced">International Violence Against Women Act of 2015</title>
+    <title type="official" as="introduced">To prevent international violence against women, and for other purposes.</title>
+  </titles>
+  <sponsor id="400360"/>
+  <cosponsors>
+    <cosponsor id="412539" joined="2015-03-06"/>
+    <cosponsor id="412470" joined="2015-03-06"/>
+    <cosponsor id="412271" joined="2015-06-01"/>
+    <cosponsor id="412563" joined="2015-03-06"/>
+    <cosponsor id="412403" joined="2015-03-06"/>
+    <cosponsor id="400648" joined="2015-03-25"/>
+    <cosponsor id="412385" joined="2015-03-06"/>
+    <cosponsor id="400111" joined="2015-03-25"/>
+    <cosponsor id="412420" joined="2015-04-21"/>
+    <cosponsor id="412672" joined="2015-07-31"/>
+    <cosponsor id="400122" joined="2015-03-06"/>
+    <cosponsor id="400129" joined="2015-06-01"/>
+    <cosponsor id="400142" joined="2015-03-25"/>
+    <cosponsor id="412453" joined="2015-03-06"/>
+    <cosponsor id="412454" joined="2015-03-06"/>
+    <cosponsor id="412446" joined="2015-03-06"/>
+    <cosponsor id="412649" joined="2015-07-28"/>
+    <cosponsor id="412290" joined="2015-03-06"/>
+    <cosponsor id="400237" joined="2015-05-12"/>
+    <cosponsor id="400240" joined="2015-06-10"/>
+    <cosponsor id="412521" joined="2015-07-28"/>
+    <cosponsor id="400246" joined="2015-03-06"/>
+    <cosponsor id="400663" joined="2015-03-25"/>
+    <cosponsor id="400263" joined="2015-06-01"/>
+    <cosponsor id="412466" joined="2015-03-06"/>
+    <cosponsor id="400661" joined="2015-03-06"/>
+    <cosponsor id="412475" joined="2015-06-10"/>
+    <cosponsor id="412575" joined="2015-07-28"/>
+    <cosponsor id="400326" joined="2015-07-31"/>
+    <cosponsor id="412393" joined="2015-06-01"/>
+    <cosponsor id="400361" joined="2015-04-21"/>
+    <cosponsor id="412314" joined="2015-03-06"/>
+    <cosponsor id="400379" joined="2015-03-06"/>
+    <cosponsor id="412254" joined="2015-03-06"/>
+    <cosponsor id="400416" joined="2015-05-12"/>
+    <cosponsor id="400623" joined="2015-03-06"/>
+    <cosponsor id="412646" joined="2015-07-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-06" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2015-03-20">
+      <text>Referred to the Subcommittee on Africa, Global Health, Global Human Rights and International Organizations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSFA16" subcommittee="Africa, Global Health, Global Human Rights and International Organizations" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="713"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Congressional oversight"/>
+    <term name="Crime prevention"/>
+    <term name="Crimes against children"/>
+    <term name="Crimes against women"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Criminal justice information and records"/>
+    <term name="Department of State"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Foreign aid and international relief"/>
+    <term name="Government information and archives"/>
+    <term name="Human rights"/>
+    <term name="Human trafficking"/>
+    <term name="Law enforcement officers"/>
+    <term name="Marriage and family status"/>
+    <term name="Performance measurement"/>
+    <term name="Sex offenses"/>
+    <term name="U.S. Agency for International Development (USAID)"/>
+    <term name="Violent crime"/>
+    <term name="Women in business"/>
+    <term name="Women's education"/>
+    <term name="Women's rights"/>
+  </subjects>
+  <amendments/>
+  <summary>3/6/2015--Introduced.
+International Violence Against Women Act of 2015
+
+Directs the Secretary of State to establish an Office of Global Women's Issues which shall be headed by an Ambassador-at-Large for Global Women's Issues.
+
+Establishes in the U.S. Agency for International Development (USAID) a Senior Coordinator for Gender Equality and Women's Empowerment who shall direct USAID activities, policies, programs, and funding relating to gender equality and women's empowerment.
+
+Directs the Ambassador-at-Large to: (1) develop or update annually for five years (after the 2012 United States Strategy to Prevent and Respond to Gender-Based Violence Globally which shall be deemed to be the first required strategy) a U.S. global strategy to prevent and respond to violence against women and girls, and (2) coordinate U.S. government efforts regarding gender integration and advancing the status of women and girls in U.S. foreign policy.
+
+Directs the Ambassador-at-Large and Senior Coordinator to: (1) include in each strategy an analysis of best practices for preventing and addressing violence against women and girls internationally; and (2) develop a plan for monitoring programs, projects, and activities carried out under this Act.</summary>
+</bill>

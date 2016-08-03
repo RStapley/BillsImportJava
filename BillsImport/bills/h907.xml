@@ -1,0 +1,92 @@
+<bill session="114" type="h" number="907" updated="2015-08-22T06:26:43-04:00">
+  <state datetime="2015-07-07T14:28:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2015-07-07T14:28:00-04:00"/>
+  </status>
+  <introduced datetime="2015-02-12"/>
+  <titles>
+    <title type="short" as="introduced">United States-Jordan Defense Cooperation Act of 2015</title>
+    <title type="short" as="passed house">United States-Jordan Defense Cooperation Act of 2015</title>
+    <title type="official" as="introduced">To improve defense cooperation between the United States and the Hashemite Kingdom of Jordan.</title>
+  </titles>
+  <sponsor id="400344"/>
+  <cosponsors>
+    <cosponsor id="400071" joined="2015-04-23"/>
+    <cosponsor id="412470" joined="2015-04-29"/>
+    <cosponsor id="412385" joined="2015-02-12"/>
+    <cosponsor id="412532" joined="2015-04-23"/>
+    <cosponsor id="400157" joined="2015-02-12"/>
+    <cosponsor id="400224" joined="2015-07-07"/>
+    <cosponsor id="412191" joined="2015-07-07"/>
+    <cosponsor id="400246" joined="2015-02-12"/>
+    <cosponsor id="400652" joined="2015-04-22"/>
+    <cosponsor id="400348" joined="2015-04-27"/>
+    <cosponsor id="412417" joined="2015-04-23"/>
+    <cosponsor id="400371" joined="2015-04-23"/>
+    <cosponsor id="412186" joined="2015-04-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-12" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2015-04-23">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-04-23" state="REPORTED">
+      <text>Ordered to be Reported in the Nature of a Substitute (Amended) by Unanimous Consent.</text>
+    </calendar>
+    <action datetime="2015-07-07T14:16:00-04:00">
+      <text>Ms. Ros-Lehtinen moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2015-07-07T14:16:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4779-4781" label="consideration"/>
+    </action>
+    <action datetime="2015-07-07T14:16:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 907.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2015-07-07T14:28:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H4799" label="text"/>
+    </vote>
+    <action datetime="2015-07-07T14:28:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2015-07-08">
+      <text>Received in the Senate and Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, Markup"/>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1789"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Arms control and nonproliferation"/>
+    <term name="Conflicts and wars"/>
+    <term name="Congressional oversight"/>
+    <term name="Foreign aid and international relief"/>
+    <term name="Iraq"/>
+    <term name="Jordan"/>
+    <term name="Middle East"/>
+    <term name="Military assistance, sales, and agreements"/>
+    <term name="Military education and training"/>
+    <term name="Refugees, asylum, displaced persons"/>
+    <term name="Syria"/>
+    <term name="Terrorism"/>
+  </subjects>
+  <amendments/>
+  <summary>7/7/2015--Passed House amended.
+United States-Jordan Defense Cooperation Act of 2015
+
+(Sec. 3) States that it should be U.S. policy to support the Hashemite Kingdom of Jordan in its response to the Syrian refugee crisis, cooperate with Jordan to combat the terrorist threat from the Islamic State of Iraq and the Levant (ISIL) or other terrorist organizations, and help secure Jordan's borders with Syria and Iraq.
+
+(Sec. 4) Expresses the sense of Congress that expeditious consideration of certifications of letters of offer to sell defense articles, defense services, design and construction services, and major defense equipment to Jordan is fully consistent with U.S. security and foreign policy interests and the objectives of world peace and security.
+
+(Sec. 5) Includes Jordan for three years among the countries eligible for certain streamlined defense sales, licensing agreements, and technical assistance under the Arms Export Control Act.
+
+(Sec. 6) Authorizes the Department of State to enter into a Memorandum of Understanding with Jordan to increase military cooperation, including joint military exercises, personnel exchanges, support for international peacekeeping missions, and enhanced strategic dialogue.</summary>
+</bill>

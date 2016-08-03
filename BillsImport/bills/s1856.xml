@@ -1,0 +1,48 @@
+<bill session="114" type="s" number="1856" updated="2015-08-22T07:07:16-04:00">
+  <state datetime="2015-07-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-23"/>
+  </status>
+  <introduced datetime="2015-02-23"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 38, United States Code, to provide for suspension and removal of employees of the Department of Veterans Affairs for performance or misconduct that is a threat to public health or safety and to improve accountability of employees of the Department, and for other purposes.</title>
+  </titles>
+  <sponsor id="412490"/>
+  <cosponsors>
+    <cosponsor id="400013" joined="2015-08-05"/>
+    <cosponsor id="412330" joined="2015-08-05"/>
+    <cosponsor id="400050" joined="2015-07-23"/>
+    <cosponsor id="300018" joined="2015-08-06"/>
+    <cosponsor id="400064" joined="2015-08-06"/>
+    <cosponsor id="412246" joined="2015-08-05"/>
+    <cosponsor id="300038" joined="2015-08-05"/>
+    <cosponsor id="412200" joined="2015-07-23"/>
+    <cosponsor id="412582" joined="2015-08-05"/>
+    <cosponsor id="300065" joined="2015-08-06"/>
+    <cosponsor id="400253" joined="2015-07-30"/>
+    <cosponsor id="400272" joined="2015-08-05"/>
+    <cosponsor id="300076" joined="2015-07-23"/>
+    <cosponsor id="400357" joined="2015-07-23"/>
+    <cosponsor id="300087" joined="2015-08-06"/>
+    <cosponsor id="412244" joined="2015-07-23"/>
+    <cosponsor id="400413" joined="2015-08-05"/>
+    <cosponsor id="412542" joined="2015-08-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-23">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S5528-5530"/>
+    </action>
+    <action datetime="2015-07-23" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+</bill>

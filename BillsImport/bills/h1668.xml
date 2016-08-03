@@ -1,0 +1,32 @@
+<bill session="114" type="h" number="1668" updated="2015-05-16T06:31:39-04:00">
+  <state datetime="2015-03-26">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-26"/>
+  </status>
+  <introduced datetime="2015-03-26"/>
+  <titles>
+    <title type="short" as="introduced">Save Our Water Act</title>
+    <title type="official" as="introduced">To amend the Endangered Species Act of 1973 to provide for suspension of application of the Act to water releases by Federal and State agencies in river basins that are affected by drought, and for other purposes.</title>
+  </titles>
+  <sponsor id="412295"/>
+  <cosponsors>
+    <cosponsor id="400343" joined="2015-04-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-26" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2015-04-22">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H2362"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+  </subjects>
+  <amendments/>
+</bill>

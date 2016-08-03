@@ -1,0 +1,71 @@
+<bill session="114" type="h" number="989" updated="2015-07-08T04:47:41-04:00">
+  <state datetime="2015-02-13">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-13"/>
+  </status>
+  <introduced datetime="2015-02-13"/>
+  <titles>
+    <title type="short" as="introduced">Capital Access for Small Businesses and Jobs Act</title>
+    <title type="official" as="introduced">To clarify the National Credit Union Administration authority to improve credit union safety and soundness.</title>
+  </titles>
+  <sponsor id="400219"/>
+  <cosponsors>
+    <cosponsor id="412615" joined="2015-03-04"/>
+    <cosponsor id="412436" joined="2015-02-26"/>
+    <cosponsor id="400033" joined="2015-02-13"/>
+    <cosponsor id="412501" joined="2015-03-19"/>
+    <cosponsor id="400071" joined="2015-04-29"/>
+    <cosponsor id="412563" joined="2015-02-13"/>
+    <cosponsor id="412505" joined="2015-03-04"/>
+    <cosponsor id="412454" joined="2015-02-13"/>
+    <cosponsor id="412584" joined="2015-02-13"/>
+    <cosponsor id="412511" joined="2015-02-13"/>
+    <cosponsor id="400195" joined="2015-02-13"/>
+    <cosponsor id="400209" joined="2015-02-13"/>
+    <cosponsor id="400211" joined="2015-06-09"/>
+    <cosponsor id="412583" joined="2015-04-30"/>
+    <cosponsor id="412209" joined="2015-03-04"/>
+    <cosponsor id="412295" joined="2015-04-13"/>
+    <cosponsor id="400271" joined="2015-02-13"/>
+    <cosponsor id="400290" joined="2015-02-13"/>
+    <cosponsor id="408211" joined="2015-04-13"/>
+    <cosponsor id="400295" joined="2015-02-13"/>
+    <cosponsor id="412307" joined="2015-02-13"/>
+    <cosponsor id="400652" joined="2015-02-26"/>
+    <cosponsor id="412308" joined="2015-04-29"/>
+    <cosponsor id="412309" joined="2015-02-13"/>
+    <cosponsor id="400352" joined="2015-07-07"/>
+    <cosponsor id="400361" joined="2015-02-13"/>
+    <cosponsor id="400371" joined="2015-02-13"/>
+    <cosponsor id="412626" joined="2015-03-19"/>
+    <cosponsor id="412520" joined="2015-02-13"/>
+    <cosponsor id="412319" joined="2015-03-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-13" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Bank accounts, deposits, capital"/>
+    <term name="Banking and financial institutions regulation"/>
+    <term name="National Credit Union Administration"/>
+  </subjects>
+  <amendments/>
+  <summary>2/13/2015--Introduced.
+Capital Access for Small Businesses and Jobs Act 
+
+ Amends the Federal Credit Union Act to empower federal credit unions to receive payments on certain uninsured non-share accounts, subject to such terms, rates, and conditions as may be established by the board of directors, within limitations prescribed by the National Credit Union Administration Board (Board).
+
+Requires any Board-prescribed system of prompt corrective action to take into account that credit unions rely predominantly (under current law, must rely) upon retained earnings to build net worth.
+
+Redefines "net worth" with respect to any insured credit union (other than a low-income credit union) to include uninsured non-share capital accounts that:
+
+ do not alter the cooperative nature of the credit union; are subordinate to all other claims against the credit union, including the claims of creditors, shareholders, and the National Credit Union Share Insurance Fund; are available to cover operating losses in excess of retained earnings and, to the extent so applied, will not be replenished; if they have a stated maturity, have an initial maturity of at least five years, and their net worth may be discounted at the Board's discretion when the remaining maturity is less than five years; are subject to disclosure and consumer protection requirements as determined by the Board; are offered by a credit union that is sufficiently capitalized and well-managed; and are subject to such rules and regulations as the Board may establish.</summary>
+</bill>

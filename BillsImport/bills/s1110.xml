@@ -1,0 +1,56 @@
+<bill session="114" type="s" number="1110" updated="2015-08-15T07:01:02-04:00">
+  <state datetime="2015-04-28">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-28"/>
+  </status>
+  <introduced datetime="2015-04-28"/>
+  <titles>
+    <title type="short" as="introduced">National Forest System Trails Stewardship Act</title>
+    <title type="official" as="introduced">A bill to direct the Secretary of Agriculture to publish in the Federal Register a strategy to significantly increase the role of volunteers and partners in National Forest System trail maintenance, and for other purposes.</title>
+  </titles>
+  <sponsor id="300041"/>
+  <cosponsors>
+    <cosponsor id="412251" joined="2015-05-21"/>
+    <cosponsor id="412330" joined="2015-04-28"/>
+    <cosponsor id="412549" joined="2015-06-04"/>
+    <cosponsor id="412325" joined="2015-07-29"/>
+    <cosponsor id="412244" joined="2015-06-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-28" state="REFERRED">
+      <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+    </action>
+    <action datetime="2015-07-16">
+      <text>Committee on Agriculture, Nutrition, and Forestry. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="845"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Forests, forestry, trees"/>
+    <term name="Licensing and registrations"/>
+    <term name="Parks, recreation areas, trails"/>
+    <term name="Social work, volunteer service, charitable organizations"/>
+    <term name="User charges and fees"/>
+  </subjects>
+  <amendments/>
+  <summary>4/28/2015--Introduced.
+National Forest System Trails Stewardship Act
+
+ Directs the Department of Agriculture (USDA) to publish a national strategy to significantly increase the role of volunteers and partners in trail maintenance.
+
+Requires the strategy to: (1) augment and support the capabilities of federal employees to carry out or contribute to trail maintenance; (2) provide opportunities for volunteers and partners to carry out trail maintenance in each region of the Forest Service; (3) address the barriers to increased volunteerism and partnerships; (4) prioritize increased volunteerism and partnerships in those regions with the most severe trail maintenance needs, and where backlogs are jeopardizing access to national forest lands; and (5) aim to increase trail maintenance by volunteers and partners by 100% within 5 years.
+
+Directs USDA to study opportunities to improve trail maintenance by addressing opportunities to use fire crews in trail maintenance activities.
+
+Deems a volunteer with a partner organization to be considered a federal employee for the purposes of civil claims relating to damage to, or loss of, personal property of a volunteer incident to volunteer services.
+
+Sets forth provisions for the selection of priority areas for increased trail maintenance accomplishments.
+
+Directs USDA to establish a pilot program to offset all or part of the land use fee for outfitting and guiding permits.</summary>
+</bill>

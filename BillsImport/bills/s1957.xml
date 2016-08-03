@@ -1,0 +1,39 @@
+<bill session="114" type="s" number="1957" updated="2015-08-22T07:08:08-04:00">
+  <state datetime="2015-08-05">REFERRED</state>
+  <status>
+    <introduced datetime="2015-08-05"/>
+  </status>
+  <introduced datetime="2015-08-05"/>
+  <titles>
+    <title type="short" as="introduced">State Licensing Efficiency Act of 2015</title>
+    <title type="official" as="introduced">A bill to require the Attorney General to provide State officials with access to criminal history information with respect to certain financial service providers required to undergo State criminal background checks, and for other purposes.</title>
+  </titles>
+  <sponsor id="300043"/>
+  <cosponsors>
+    <cosponsor id="400061" joined="2015-08-05"/>
+    <cosponsor id="412508" joined="2015-08-05"/>
+    <cosponsor id="300030" joined="2015-08-05"/>
+    <cosponsor id="412464" joined="2015-08-05"/>
+    <cosponsor id="300065" joined="2015-08-05"/>
+    <cosponsor id="412325" joined="2015-08-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-08-05">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S6385-6386"/>
+    </action>
+    <action datetime="2015-08-05" state="REFERRED">
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="2643"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+  </subjects>
+  <amendments/>
+</bill>

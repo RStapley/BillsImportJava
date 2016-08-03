@@ -1,0 +1,44 @@
+<bill session="114" type="h" number="1887" updated="2015-08-22T06:35:03-04:00">
+  <state datetime="2015-04-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-16"/>
+  </status>
+  <introduced datetime="2015-04-16"/>
+  <titles>
+    <title type="official" as="introduced">To amend certain appropriation Acts to repeal the requirement directing the Administrator of General Services to sell Federal property and assets that support the operations of the Plum Island Animal Disease Center in Plum Island, New York, and for other purposes.</title>
+  </titles>
+  <sponsor id="412646"/>
+  <cosponsors>
+    <cosponsor id="412193" joined="2015-04-21"/>
+    <cosponsor id="400103" joined="2015-05-05"/>
+    <cosponsor id="412672" joined="2015-07-16"/>
+    <cosponsor id="412524" joined="2015-04-29"/>
+    <cosponsor id="412282" joined="2015-05-05"/>
+    <cosponsor id="400195" joined="2015-05-05"/>
+    <cosponsor id="400219" joined="2015-07-09"/>
+    <cosponsor id="412647" joined="2015-07-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-16" state="REFERRED">
+      <text>Referred to the House Committee on Homeland Security.</text>
+    </action>
+    <action datetime="2015-04-29">
+      <text>Referred to the Subcommittee on Cybersecurity, Infrastructure Protection, and Security Technologies.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral"/>
+    <committee activity="Referral" code="HSHM08" subcommittee="Cybersecurity, Infrastructure Protection, and Security Technologies" name="House Homeland Security"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Land transfers"/>
+    <term name="New York State"/>
+    <term name="Research administration and funding"/>
+  </subjects>
+  <amendments/>
+  <summary>4/16/2015--Introduced.
+This bill amends the Consolidated Security, Disaster Assistance, and Continuing Appropriations Act, 2009 and the Consolidated Appropriations Act, 2012 to repeal provisions providing for the sale of federal property and assets supporting the Department of Homeland Security's Plum Island Animal Disease Center in New York.</summary>
+</bill>

@@ -1,0 +1,60 @@
+<bill session="114" type="h" number="3296" updated="2015-08-22T06:46:53-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">Restore the Oath of Allegiance Act</title>
+    <title type="official" as="introduced">To clarify that the oath of allegiance to the United States administered in the naturalization process may not be altered.</title>
+  </titles>
+  <sponsor id="412478"/>
+  <cosponsors>
+    <cosponsor id="412655" joined="2015-07-29"/>
+    <cosponsor id="412469" joined="2015-07-29"/>
+    <cosponsor id="400032" joined="2015-07-29"/>
+    <cosponsor id="400071" joined="2015-07-29"/>
+    <cosponsor id="412531" joined="2015-07-29"/>
+    <cosponsor id="400655" joined="2015-07-29"/>
+    <cosponsor id="400089" joined="2015-07-31"/>
+    <cosponsor id="412621" joined="2015-07-29"/>
+    <cosponsor id="412526" joined="2015-07-31"/>
+    <cosponsor id="412477" joined="2015-08-04"/>
+    <cosponsor id="412672" joined="2015-07-29"/>
+    <cosponsor id="412472" joined="2015-07-31"/>
+    <cosponsor id="400116" joined="2015-07-29"/>
+    <cosponsor id="412479" joined="2015-07-29"/>
+    <cosponsor id="412476" joined="2015-07-29"/>
+    <cosponsor id="400651" joined="2015-07-29"/>
+    <cosponsor id="412280" joined="2015-07-29"/>
+    <cosponsor id="412663" joined="2015-07-31"/>
+    <cosponsor id="412284" joined="2015-07-29"/>
+    <cosponsor id="412510" joined="2015-07-29"/>
+    <cosponsor id="412295" joined="2015-07-29"/>
+    <cosponsor id="400279" joined="2015-07-29"/>
+    <cosponsor id="412475" joined="2015-07-31"/>
+    <cosponsor id="412409" joined="2015-07-29"/>
+    <cosponsor id="412302" joined="2015-07-29"/>
+    <cosponsor id="412443" joined="2015-07-31"/>
+    <cosponsor id="400313" joined="2015-07-29"/>
+    <cosponsor id="400652" joined="2015-07-29"/>
+    <cosponsor id="412641" joined="2015-07-29"/>
+    <cosponsor id="400606" joined="2015-07-29"/>
+    <cosponsor id="412581" joined="2015-07-31"/>
+    <cosponsor id="400627" joined="2015-07-29"/>
+    <cosponsor id="400440" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Immigration"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,42 @@
+<bill session="114" type="s" number="597" updated="2015-03-21T06:36:09-04:00">
+  <state datetime="2015-02-26">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-26"/>
+  </status>
+  <introduced datetime="2015-02-26"/>
+  <titles>
+    <title type="short" as="introduced">States' Rights Municipal Broadband Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend section 706 of the Telecommunications Act of 1996 to provide that such section does not authorize the Federal Communications Commission to preempt the laws of certain States relating to the regulation of municipal broadband, and for other purposes.</title>
+  </titles>
+  <sponsor id="412668"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-02-26">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S1166"/>
+    </action>
+    <action datetime="2015-02-26" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="1106"/>
+  </relatedbills>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Federal Communications Commission (FCC)"/>
+    <term name="Federal preemption"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Internet and video services"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+  <summary>2/26/2015--Introduced.
+States' Rights Municipal Broadband Act of 2015
+
+Amends the Telecommunications Act of 1996 to declare that the Federal Communications Commission's (FCC's) authority to take actions to accelerate deployment of advanced telecommunications capabilities shall not be construed to authorize the FCC to prevent states from implementing state laws regarding the provision of broadband Internet access service by states, municipalities, or political subdivisions.</summary>
+</bill>

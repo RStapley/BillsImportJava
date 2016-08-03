@@ -1,0 +1,210 @@
+<bill session="114" type="h" number="2406" updated="2015-08-22T06:39:24-04:00">
+  <state datetime="2015-05-19">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-19"/>
+  </status>
+  <introduced datetime="2015-05-19"/>
+  <titles>
+    <title type="short" as="introduced">SHARE Act</title>
+    <title type="short" as="introduced">Sportsmen's Heritage and Recreational Enhancement Act of 2015</title>
+    <title type="short" as="introduced" partial="1">African Elephant Conservation and Legal Ivory Possession Act of 2015</title>
+    <title type="short" as="introduced" partial="1">Federal Land Transaction Facilitation Act Reauthorization of 2015</title>
+    <title type="short" as="introduced" partial="1">Hunter and Farmer Protection Act</title>
+    <title type="short" as="introduced" partial="1">Hunting, Fishing, and Recreational Shooting Protection Act</title>
+    <title type="short" as="introduced" partial="1">Polar Bear Conservation and Fairness Act of 2015</title>
+    <title type="short" as="introduced" partial="1">Recreational Fishing and Hunting Heritage and Opportunities Act</title>
+    <title type="short" as="introduced" partial="1">Recreational Lands Self-Defense Act of 2015</title>
+    <title type="short" as="introduced" partial="1">Target Practice and Marksmanship Training Support Act</title>
+    <title type="official" as="introduced">To protect and enhance opportunities for recreational hunting, fishing, and shooting, and for other purposes.</title>
+  </titles>
+  <sponsor id="412255"/>
+  <cosponsors>
+    <cosponsor id="412655" joined="2015-06-02"/>
+    <cosponsor id="412436" joined="2015-06-10"/>
+    <cosponsor id="400068" joined="2015-06-16"/>
+    <cosponsor id="400077" joined="2015-06-03"/>
+    <cosponsor id="412563" joined="2015-07-31"/>
+    <cosponsor id="412477" joined="2015-06-10"/>
+    <cosponsor id="412472" joined="2015-05-19"/>
+    <cosponsor id="412639" joined="2015-06-24"/>
+    <cosponsor id="412482" joined="2015-06-03"/>
+    <cosponsor id="412397" joined="2015-06-03"/>
+    <cosponsor id="400160" joined="2015-05-19"/>
+    <cosponsor id="412623" joined="2015-06-16"/>
+    <cosponsor id="412429" joined="2015-06-10"/>
+    <cosponsor id="412437" joined="2015-06-10"/>
+    <cosponsor id="400224" joined="2015-06-10"/>
+    <cosponsor id="412256" joined="2015-06-10"/>
+    <cosponsor id="412292" joined="2015-06-16"/>
+    <cosponsor id="412295" joined="2015-07-09"/>
+    <cosponsor id="412540" joined="2015-06-10"/>
+    <cosponsor id="400276" joined="2015-06-24"/>
+    <cosponsor id="400316" joined="2015-06-10"/>
+    <cosponsor id="412483" joined="2015-06-03"/>
+    <cosponsor id="412310" joined="2015-06-10"/>
+    <cosponsor id="400341" joined="2015-06-10"/>
+    <cosponsor id="400367" joined="2015-06-24"/>
+    <cosponsor id="412405" joined="2015-06-10"/>
+    <cosponsor id="412213" joined="2015-06-11"/>
+    <cosponsor id="412214" joined="2015-05-19"/>
+    <cosponsor id="400627" joined="2015-06-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-19" state="REFERRED">
+      <text>Referred to the Committee on Natural Resources, and in addition to the Committees on Agriculture, Energy and Commerce, Transportation and Infrastructure, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-05-19">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2015-05-19">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2015-05-19">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-05-19">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2015-05-19">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2015-05-20">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+    </action>
+    <action datetime="2015-05-20">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+    </action>
+    <action datetime="2015-05-22">
+      <text>Referred to the Subcommittee on Environment and the Economy.</text>
+    </action>
+    <action datetime="2015-06-08">
+      <text>Referred to the Subcommittee on Conservation and Forestry.</text>
+    </action>
+    <action datetime="2015-06-10">
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+    </action>
+    <action datetime="2015-06-10">
+      <text>Referred to the Subcommittee on Water, Power and Oceans.</text>
+    </action>
+    <action datetime="2015-06-16">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="Federal Lands" name="House Natural Resources"/>
+    <committee activity="Referral" code="HSII13" subcommittee="Water, Power and Oceans" name="House Natural Resources"/>
+    <committee code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee activity="Referral" code="HSAG15" subcommittee="Conservation and Forestry" name="House Agriculture"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF18" subcommittee="Environment and the Economy" name="House Energy and Commerce"/>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+    <committee activity="Referral" code="HSPW02" subcommittee="Water Resources and Environment" name="House Transportation and Infrastructure"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="327"/>
+    <bill relation="unknown" session="114" type="h" number="528"/>
+    <bill relation="unknown" session="114" type="h" number="578"/>
+    <bill relation="unknown" session="114" type="h" number="697"/>
+    <bill relation="unknown" session="114" type="h" number="1099"/>
+    <bill relation="unknown" session="114" type="h" number="1651"/>
+    <bill relation="unknown" session="114" type="h" number="2345"/>
+    <bill relation="unknown" session="114" type="h" number="2399"/>
+    <bill relation="unknown" session="114" type="h" number="2401"/>
+    <bill relation="unknown" session="114" type="s" number="225"/>
+    <bill relation="unknown" session="114" type="s" number="263"/>
+    <bill relation="unknown" session="114" type="s" number="405"/>
+    <bill relation="unknown" session="114" type="s" number="561"/>
+    <bill relation="unknown" session="114" type="s" number="595"/>
+    <bill relation="unknown" session="114" type="s" number="659"/>
+    <bill relation="unknown" session="114" type="s" number="721"/>
+    <bill relation="unknown" session="114" type="s" number="722"/>
+    <bill relation="unknown" session="114" type="s" number="1769"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Advisory bodies"/>
+    <term name="Africa"/>
+    <term name="Agricultural practices and innovations"/>
+    <term name="Animal protection and human-animal relationships"/>
+    <term name="Army Corps of Engineers"/>
+    <term name="Art, artists, authorship"/>
+    <term name="Birds"/>
+    <term name="Budget deficits and national debt"/>
+    <term name="Canada"/>
+    <term name="Crimes against animals and natural resources"/>
+    <term name="Department of the Interior"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="Endangered and threatened species"/>
+    <term name="Firearms and explosives"/>
+    <term name="Foreign aid and international relief"/>
+    <term name="Forests, forestry, trees"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Government information and archives"/>
+    <term name="Hazardous wastes and toxic substances"/>
+    <term name="Hunting and fishing"/>
+    <term name="International law and treaties"/>
+    <term name="Lakes and rivers"/>
+    <term name="Land transfers"/>
+    <term name="Land use and conservation"/>
+    <term name="Law enforcement officers"/>
+    <term name="Licensing and registrations"/>
+    <term name="Mammals"/>
+    <term name="Materials"/>
+    <term name="Museums, exhibitions, cultural centers"/>
+    <term name="Outdoor recreation"/>
+    <term name="Parks, recreation areas, trails"/>
+    <term name="Solid waste and recycling"/>
+    <term name="Television and film"/>
+    <term name="Trade restrictions"/>
+    <term name="User charges and fees"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+  <summary>5/19/2015--Introduced.
+Sportsmen's Heritage and Recreational Enhancement Act of 2015 or the SHARE Act
+
+This bill revises a variety of existing programs to expand access to, and opportunities for, hunting, fishing, and recreational shooting.
+
+Hunting, Fishing, and Recreational Shooting Protection Act
+
+Components of firearms and ammunition and sport fishing equipment and its components (such as lead sinkers) are exempted from regulations of chemical substances under the Toxic Substances Control Act. The authority of the Department of the Interior and the Department of Agriculture (USDA) to regulate the use of ammunition and fishing tackle based on its lead content is limited.
+
+Target Practice and Marksmanship Training Support Act
+
+The Pittman-Robertson Wildlife Restoration Act is amended to: (1) increase the proportion of funding from the Act that states may use for acquiring land for public target ranges, and (2) delay by 10 years until 2026 the date after which interest from the wildlife conservation and restoration fund is available for apportionment.
+
+Polar Bear Conservation and Fairness Act of 2015
+
+Interior must issue permits to allow a hunter to import polar bear parts (other than internal organs) if p the bear was legally harvested in Canada from an approved population before the May 15, 2008, listing of the polar bear as threatened.
+
+Recreational Lands Self-Defense Act of 2015
+
+The U.S. Army Corps of Engineers may not prohibit individuals from possessing a firearm in public areas of a water resources development project.
+
+ Recreational Fishing and Hunting Heritage and Opportunities Act
+
+Federal public land management officials must facilitate hunting, fishing, and recreational shooting on certain federal public land.
+
+Hunter and Farmer Protection Act
+
+The bill revises standards for determining what a baited area is for purposes of the prohibition on taking migratory game birds.
+
+The National Park Service (NPS) may not prohibit individuals from transporting bows and crossbows if certain requirements are met.
+
+The NPS may establish hunter access corridors.
+
+Federal Land Transaction Facilitation Act Reauthorization of 2015
+
+This bill revises the Federal Land Transaction Facilitation Act to extend the authority provided to Interior under the Act.
+
+African Elephant Conservation and Legal Ivory Possession Act of 2015
+
+This bill revises and reauthorizes the African Elephant Conservation Act through FY2020.
+
+This bill provides special rules to expand access to federal land and waterways for film crews of five people or fewer.</summary>
+</bill>

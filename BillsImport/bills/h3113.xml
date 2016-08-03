@@ -1,0 +1,45 @@
+<bill session="114" type="h" number="3113" updated="2015-08-22T06:45:21-04:00">
+  <state datetime="2015-07-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-16"/>
+  </status>
+  <introduced datetime="2015-07-16"/>
+  <titles>
+    <title type="short" as="introduced">Empowering Our Veterans Act of 2015</title>
+    <title type="official" as="introduced">To prohibit the Secretary of Veterans Affairs from obligating or expending funds for alternative energy generation projects unless specifically authorized by law, and for other purposes.</title>
+  </titles>
+  <sponsor id="412574"/>
+  <cosponsors>
+    <cosponsor id="412655" joined="2015-07-16"/>
+    <cosponsor id="400052" joined="2015-07-16"/>
+    <cosponsor id="412555" joined="2015-07-16"/>
+    <cosponsor id="412482" joined="2015-07-16"/>
+    <cosponsor id="412663" joined="2015-07-16"/>
+    <cosponsor id="412302" joined="2015-07-16"/>
+    <cosponsor id="412489" joined="2015-07-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-16" state="REFERRED">
+      <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Appropriations, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-07-16">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2015-07-16">
+      <text>Referred to House Appropriations</text>
+    </action>
+    <action datetime="2015-08-05">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+    <committee code="HSAP" name="House Appropriations" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+</bill>

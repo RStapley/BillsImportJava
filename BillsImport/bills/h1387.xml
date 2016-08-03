@@ -1,0 +1,63 @@
+<bill session="114" type="h" number="1387" updated="2015-07-24T04:47:56-04:00">
+  <state datetime="2015-03-17">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-17"/>
+  </status>
+  <introduced datetime="2015-03-17"/>
+  <titles>
+    <title type="short" as="introduced">Fairness for Farmers Act of 2015</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to provide for the determination of the employer mandate under the Patient Protection and Affordable Care Act without regard to alien agricultural seasonal workers.</title>
+  </titles>
+  <sponsor id="412457"/>
+  <cosponsors>
+    <cosponsor id="412630" joined="2015-03-26"/>
+    <cosponsor id="412539" joined="2015-06-15"/>
+    <cosponsor id="412427" joined="2015-04-21"/>
+    <cosponsor id="412622" joined="2015-04-14"/>
+    <cosponsor id="412555" joined="2015-04-23"/>
+    <cosponsor id="412536" joined="2015-06-15"/>
+    <cosponsor id="412403" joined="2015-07-23"/>
+    <cosponsor id="400141" joined="2015-06-03"/>
+    <cosponsor id="412463" joined="2015-03-17"/>
+    <cosponsor id="412453" joined="2015-06-15"/>
+    <cosponsor id="412661" joined="2015-04-23"/>
+    <cosponsor id="412444" joined="2015-05-15"/>
+    <cosponsor id="412422" joined="2015-06-03"/>
+    <cosponsor id="412484" joined="2015-03-17"/>
+    <cosponsor id="400209" joined="2015-03-17"/>
+    <cosponsor id="412510" joined="2015-03-17"/>
+    <cosponsor id="400644" joined="2015-03-26"/>
+    <cosponsor id="412540" joined="2015-04-14"/>
+    <cosponsor id="400273" joined="2015-06-16"/>
+    <cosponsor id="412302" joined="2015-06-23"/>
+    <cosponsor id="412311" joined="2015-04-23"/>
+    <cosponsor id="412641" joined="2015-03-17"/>
+    <cosponsor id="412648" joined="2015-04-21"/>
+    <cosponsor id="412405" joined="2015-03-17"/>
+    <cosponsor id="400431" joined="2015-03-17"/>
+    <cosponsor id="412640" joined="2015-06-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-17" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Foreign labor"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Migrant, seasonal, agricultural labor"/>
+    <term name="Sales and excise taxes"/>
+  </subjects>
+  <amendments/>
+  <summary>3/17/2015--Introduced.
+Fairness for Farmers Act of 2015
+
+Amends the Internal Revenue Code to exclude nonimmigrant agricultural seasonal workers from the definition of "full-time employee" for purposes of the employer mandate to provide employees with minimum essential health care coverage.</summary>
+</bill>

@@ -1,0 +1,32 @@
+<bill session="114" type="h" number="3389" updated="2015-08-15T06:47:43-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">National Monument Designation Transparency Act</title>
+    <title type="official" as="introduced">To amend section 320301 of title 54, United States Code, to require certain procedures for designating national monuments, and for other purposes.</title>
+  </titles>
+  <sponsor id="400297"/>
+  <cosponsors>
+    <cosponsor id="412513" joined="2015-07-29"/>
+    <cosponsor id="400224" joined="2015-07-29"/>
+    <cosponsor id="412510" joined="2015-07-29"/>
+    <cosponsor id="412515" joined="2015-07-29"/>
+    <cosponsor id="412618" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+</bill>

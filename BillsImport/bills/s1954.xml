@@ -1,0 +1,29 @@
+<bill session="114" type="s" number="1954" updated="2015-08-14T12:47:35-04:00">
+  <state datetime="2015-08-05">REFERRED</state>
+  <status>
+    <introduced datetime="2015-08-05"/>
+  </status>
+  <introduced datetime="2015-08-05"/>
+  <titles>
+    <title type="short" as="introduced">I Teach Act of 2015</title>
+    <title type="short" as="introduced">Incentives to Educate American Children Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to provide a tax incentive to individuals teaching in public elementary and secondary schools located in rural or high unemployment areas and to individuals who achieve certification from the National Board for Professional Teaching Standards, and for other purposes.</title>
+  </titles>
+  <sponsor id="300100"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-08-05" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="138"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+</bill>

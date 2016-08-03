@@ -1,0 +1,32 @@
+<bill session="114" type="h" number="3260" updated="2015-08-15T06:46:39-04:00">
+  <state datetime="2015-07-28">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-28"/>
+  </status>
+  <introduced datetime="2015-07-28"/>
+  <titles>
+    <title type="short" as="introduced">Eleanor Smith Inclusive Home Design Act of 2015</title>
+    <title type="official" as="introduced">To require all newly constructed, federally assisted, single-family houses and town houses to meet minimum standards of visitability for persons with disabilities.</title>
+  </titles>
+  <sponsor id="400360"/>
+  <cosponsors>
+    <cosponsor id="400074" joined="2015-07-28"/>
+    <cosponsor id="412215" joined="2015-07-28"/>
+    <cosponsor id="400661" joined="2015-07-28"/>
+    <cosponsor id="400295" joined="2015-07-28"/>
+    <cosponsor id="400333" joined="2015-07-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-28" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Housing and community development"/>
+  </subjects>
+  <amendments/>
+</bill>

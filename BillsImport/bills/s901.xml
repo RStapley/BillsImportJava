@@ -1,0 +1,76 @@
+<bill session="114" type="s" number="901" updated="2015-08-06T04:48:33-04:00">
+  <state datetime="2015-04-13">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-13"/>
+  </status>
+  <introduced datetime="2015-04-13"/>
+  <titles>
+    <title type="short" as="introduced">Toxic Exposure Research Act of 2015</title>
+    <title type="official" as="introduced">A bill to establish in the Department of Veterans Affairs a national center for research on the diagnosis and treatment of health conditions of the descendants of veterans exposed to toxic substances during service in the Armed Forces that are related to that exposure, to establish an advisory board on such health conditions, and for other purposes.</title>
+  </titles>
+  <sponsor id="400284"/>
+  <cosponsors>
+    <cosponsor id="412490" joined="2015-04-13"/>
+    <cosponsor id="400034" joined="2015-07-30"/>
+    <cosponsor id="400050" joined="2015-06-10"/>
+    <cosponsor id="412246" joined="2015-08-05"/>
+    <cosponsor id="300030" joined="2015-06-23"/>
+    <cosponsor id="412549" joined="2015-04-27"/>
+    <cosponsor id="300038" joined="2015-05-14"/>
+    <cosponsor id="412223" joined="2015-04-20"/>
+    <cosponsor id="412391" joined="2015-06-10"/>
+    <cosponsor id="412325" joined="2015-06-10"/>
+    <cosponsor id="412305" joined="2015-08-05"/>
+    <cosponsor id="300083" joined="2015-06-22"/>
+    <cosponsor id="300087" joined="2015-06-09"/>
+    <cosponsor id="412323" joined="2015-08-05"/>
+    <cosponsor id="300093" joined="2015-07-07"/>
+    <cosponsor id="412244" joined="2015-04-15"/>
+    <cosponsor id="300100" joined="2015-06-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-13" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2015-06-24">
+      <text>Committee on Veterans' Affairs. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="1769"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Advisory bodies"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Veterans Affairs"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Hazardous wastes and toxic substances"/>
+    <term name="Health facilities and institutions"/>
+    <term name="Health information and medical records"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="Intelligence activities, surveillance, classified information"/>
+    <term name="Medical research"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Transportation costs"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>4/13/2015--Introduced.
+Toxic Exposure Research Act of 2015
+
+Directs the Department of Veterans Affairs (VA) to select a VA medical center to serve as the national center for research on the diagnosis and treatment of health conditions of the biological children, grandchildren, or great-grandchildren of individuals exposed to toxic substances while serving as members of the Armed Forces that are related to such exposure.
+
+Requires: (1) the Department of Defense (DOD) or the head of a federal agency to make available to the VA for review records held by DOD, an Armed Force, or that federal agency that might assist the VA in making determinations regarding individuals and descendents afflicted with a health condition as a result of such exposure; (2) the VA and DOD or such agency head to jointly establish a mechanism for the availability and review of records by the VA; and (3) the national center to employ at least one licensed clinical social worker to coordinate access of individuals to appropriate social and health care programs and to handle case management.
+
+Establishes an Advisory Board to oversee and assess the national center and to advise the VA regarding the center's work.
+
+Directs DOD to declassify documents (other than documents that would materially and immediately threaten national security) related to any known incident in which at least 100 members of the Armed Forces were exposed to a toxic substance that resulted in at least one case of an associated disability.
+
+Directs the VA to conduct a national outreach and education campaign directed toward members of the Armed Forces, veterans, and their family members to communicate information on: (1) incidents of exposure of members of the Armed Forces to toxic substances, health conditions resulting from such exposure, and the potential long-term effects; and (2) the national center. Requires DOD and the Department of Health and Human Services to assist the VA in implementing such campaign.</summary>
+</bill>

@@ -1,0 +1,30 @@
+<bill session="114" type="h" number="3075" updated="2015-07-23T04:49:11-04:00">
+  <state datetime="2015-07-15">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-15"/>
+  </status>
+  <introduced datetime="2015-07-15"/>
+  <titles>
+    <title type="short" as="introduced">Countering Violent Extremism Grant Program Act of 2015</title>
+    <title type="official" as="introduced">To amend the Homeland Security Act of 2002 to establish a grant program to establish counter-messaging campaigns targeting terrorist propaganda.</title>
+  </titles>
+  <sponsor id="412649"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-15" state="REFERRED">
+      <text>Referred to the House Committee on Homeland Security.</text>
+    </action>
+    <action datetime="2015-07-21">
+      <text>Referred to the Subcommittee on Counterterrorism and Intelligence.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral"/>
+    <committee activity="Referral" code="HSHM05" subcommittee="Counterterrorism and Intelligence" name="House Homeland Security"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Emergency management"/>
+  </subjects>
+  <amendments/>
+</bill>

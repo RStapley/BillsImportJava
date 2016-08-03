@@ -1,0 +1,41 @@
+<bill session="114" type="h" number="1357" updated="2015-05-09T06:32:33-04:00">
+  <state datetime="2015-03-13">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-13"/>
+  </status>
+  <introduced datetime="2015-03-13"/>
+  <titles>
+    <title type="short" as="introduced">Veterans Beneficiary Fraud Enforcement Act</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to limit the designation of certain Department of Veterans Affairs employees as beneficiaries under Veterans' Group Life Insurance, and for other purposes.</title>
+  </titles>
+  <sponsor id="412271"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-03-13" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2015-03-27">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR09" subcommittee="Disability Assistance and Memorial Affairs" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Department of Veterans Affairs"/>
+    <term name="Fraud offenses and financial crimes"/>
+    <term name="Government ethics and transparency, public corruption"/>
+    <term name="Life, casualty, property insurance"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>3/13/2015--Introduced.
+Veterans Beneficiary Fraud Enforcement Act
+
+This bill prohibits a Veterans' Group Life Insurance insuree from designating as a beneficiary any Department of Veterans Affairs (VA) employee who is in a position of trust with the insured. (Such prohibition includes any doctor, caregiver, or caseworker working directly with the insured, unless such employee is the insured's spouse, child, parent, or other next of kin.)
+
+The VA shall refer to an appropriate legal authority any incident of suspected or alleged fraud relating to a beneficiary designation under any Veterans' Group Life Insurance.</summary>
+</bill>

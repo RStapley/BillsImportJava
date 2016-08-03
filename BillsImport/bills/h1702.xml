@@ -1,0 +1,37 @@
+<bill session="114" type="h" number="1702" updated="2015-05-16T06:31:56-04:00">
+  <state datetime="2015-03-26">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-26"/>
+  </status>
+  <introduced datetime="2015-03-26"/>
+  <titles>
+    <title type="short" as="introduced">LEO Fair Retirement Act of 2015</title>
+    <title type="official" as="introduced">To amend title 5, United States Code, to provide that for purposes of computing the annuity of certain law enforcement officers, any hours worked in excess of the limitation applicable to law enforcement availability pay and administratively uncontrollable overtime shall be included in such computation, and for other purposes.</title>
+  </titles>
+  <sponsor id="400219"/>
+  <cosponsors>
+    <cosponsor id="400646" joined="2015-03-26"/>
+    <cosponsor id="400244" joined="2015-03-26"/>
+    <cosponsor id="400309" joined="2015-03-26"/>
+    <cosponsor id="412306" joined="2015-03-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-26" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Law enforcement officers"/>
+  </subjects>
+  <amendments/>
+  <summary>3/26/2015--Introduced.
+LEO Fair Retirement Act of 2015
+
+ Provides that for purposes of computing the annuity of a federal&#160;law enforcement employee&#160;under the Civil Service Retirement System and the Federal Employees Retirement System,&#160;the law enforcement availability pay and administratively uncontrollable overtime pay earned by such employee in excess of limitations imposed on such pay shall be included in the average pay of such employee.</summary>
+</bill>

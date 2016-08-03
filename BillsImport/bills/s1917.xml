@@ -1,0 +1,36 @@
+<bill session="114" type="s" number="1917" updated="2015-08-22T07:07:48-04:00">
+  <state datetime="2015-08-03">REFERRED</state>
+  <status>
+    <introduced datetime="2015-08-03"/>
+  </status>
+  <introduced datetime="2015-08-03"/>
+  <titles>
+    <title type="official" as="introduced">A bill to prohibit the provision of Federal funds to an entity that receives compensation for facilitating the donation of fetal tissue derived from an abortion.</title>
+  </titles>
+  <sponsor id="300025"/>
+  <cosponsors>
+    <cosponsor id="400222" joined="2015-08-03"/>
+    <cosponsor id="300075" joined="2015-08-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-08-03">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S6241-6242"/>
+    </action>
+    <action datetime="2015-08-03" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+  <summary>8/3/2015--Introduced.
+This bill prohibits federal funding of any affiliate, subsidiary, successor, or clinic of Planned Parenthood Federation of America that receives compensation for facilitating the donation of fetal tissue from an abortion.
+
+Not later than 90 days after enactment of this Act, the Department of Justice must investigate whether Planned Parenthood Federation of America or any of its affiliates, subsidiaries, successors, or clinics has engaged in illegal activity pertaining to fetal tissue products.</summary>
+</bill>

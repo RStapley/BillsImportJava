@@ -1,0 +1,52 @@
+<bill session="114" type="s" number="779" updated="2015-08-05T04:47:49-04:00">
+  <state datetime="2015-07-29">REPORTED</state>
+  <status>
+    <unknown datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-03-18"/>
+  <titles>
+    <title type="short" as="introduced">Fair Access to Science and Technology Research Act of 2015</title>
+    <title type="official" as="introduced">A bill to provide for Federal agencies to develop public access policies relating to research conducted by employees of that agency or from funds administered by that agency.</title>
+  </titles>
+  <sponsor id="300027"/>
+  <cosponsors>
+    <cosponsor id="412496" joined="2015-08-04"/>
+    <cosponsor id="400253" joined="2015-07-22"/>
+    <cosponsor id="412507" joined="2015-07-22"/>
+    <cosponsor id="300100" joined="2015-03-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-18" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+      <reference ref="CR S1630-1631" label="text of measure as introduced"/>
+    </action>
+    <calendar datetime="2015-07-29" state="REPORTED">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="1477"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congressional oversight"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Intellectual property"/>
+    <term name="Internet and video services"/>
+    <term name="Research administration and funding"/>
+  </subjects>
+  <amendments/>
+  <summary>3/18/2015--Introduced.
+Fair Access to Science and Technology Research Act of 2015
+
+Requires each federal agency with extramural research expenditures of over $100 million to develop a federal research public access policy that is consistent with, and that advances, the purposes of the agency and that follows common procedures for the collection and depositing of research papers.
+
+Makes each federal research public access policy applicable to: (1) researchers employed by the federal agency whose works remain in the public domain, and (2) researchers funded by the agency. Specifies exclusions.
+
+Requires each federal agency to submit an annual report on its federal research public access policy to specified congressional committees.</summary>
+</bill>

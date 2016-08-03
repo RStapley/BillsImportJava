@@ -1,0 +1,54 @@
+<bill session="114" type="h" number="956" updated="2015-04-15T04:47:26-04:00">
+  <state datetime="2015-02-12">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-12"/>
+  </status>
+  <introduced datetime="2015-02-12"/>
+  <titles>
+    <title type="short" as="introduced">Military TRAC Act</title>
+    <title type="short" as="introduced">Military Track Register and Alert Communities Act of 2015</title>
+    <title type="official" as="introduced">To amend the Adam Walsh Child Protection and Safety Act of 2006 to require the Secretary of Defense maintain a registry of sex offenders.</title>
+  </titles>
+  <sponsor id="412259"/>
+  <cosponsors>
+    <cosponsor id="412379" joined="2015-04-14"/>
+    <cosponsor id="412271" joined="2015-02-12"/>
+    <cosponsor id="412199" joined="2015-02-12"/>
+    <cosponsor id="412643" joined="2015-04-14"/>
+    <cosponsor id="412466" joined="2015-02-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-12" state="REFERRED">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-02-12">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2015-02-12">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2015-03-16">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Criminal justice information and records"/>
+    <term name="Government information and archives"/>
+    <term name="Licensing and registrations"/>
+    <term name="Military law"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Sex offenses"/>
+  </subjects>
+  <amendments/>
+  <summary>2/12/2015--Introduced.
+Military Track Register and Alert Communities Act of 2015 or the Military TRAC Act 
+
+Amends the Adam Walsh Child Protection and Safety Act of 2006 to require the Department of Defense to&#160;maintain a sex offender registry of individuals convicted of certain sex offenses under the Uniform Code of Military Justice or&#160;of other military offenses&#160;appropriate for&#160;sex offender registration purposes.</summary>
+</bill>

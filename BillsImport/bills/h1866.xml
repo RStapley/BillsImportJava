@@ -1,0 +1,76 @@
+<bill session="114" type="h" number="1866" updated="2015-05-30T06:33:33-04:00">
+  <state datetime="2015-04-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-16"/>
+  </status>
+  <introduced datetime="2015-04-16"/>
+  <titles>
+    <title type="short" as="introduced">Young Americans Financial Literacy Act</title>
+    <title type="official" as="introduced">To establish a grant program in the Bureau of Consumer Financial Protection to fund the establishment of centers of excellence to support research, development and planning, implementation, and evaluation of effective programs in financial literacy education for young people and families ages 8 through 24 years old, and for other purposes.</title>
+  </titles>
+  <sponsor id="412258"/>
+  <cosponsors>
+    <cosponsor id="412565" joined="2015-04-16"/>
+    <cosponsor id="400041" joined="2015-04-16"/>
+    <cosponsor id="412379" joined="2015-04-16"/>
+    <cosponsor id="400074" joined="2015-04-16"/>
+    <cosponsor id="400080" joined="2015-04-16"/>
+    <cosponsor id="412263" joined="2015-04-16"/>
+    <cosponsor id="400163" joined="2015-04-16"/>
+    <cosponsor id="400170" joined="2015-04-16"/>
+    <cosponsor id="400179" joined="2015-04-16"/>
+    <cosponsor id="400185" joined="2015-04-16"/>
+    <cosponsor id="412199" joined="2015-04-16"/>
+    <cosponsor id="400211" joined="2015-04-16"/>
+    <cosponsor id="412638" joined="2015-04-16"/>
+    <cosponsor id="400237" joined="2015-04-16"/>
+    <cosponsor id="412616" joined="2015-04-16"/>
+    <cosponsor id="400271" joined="2015-04-16"/>
+    <cosponsor id="400661" joined="2015-04-16"/>
+    <cosponsor id="400295" joined="2015-04-16"/>
+    <cosponsor id="400333" joined="2015-04-16"/>
+    <cosponsor id="412432" joined="2015-04-16"/>
+    <cosponsor id="400361" joined="2015-04-16"/>
+    <cosponsor id="412509" joined="2015-04-21"/>
+    <cosponsor id="412318" joined="2015-04-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-16">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E520-521"/>
+    </action>
+    <action datetime="2015-04-16" state="REFERRED">
+      <text>Referred to the Committee on Financial Services, and in addition to the Committee on Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-04-16">
+      <text>Referred to House Financial Services</text>
+    </action>
+    <action datetime="2015-04-16">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Adult education and literacy"/>
+    <term name="Education programs funding"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Financial literacy"/>
+    <term name="Higher education"/>
+    <term name="Research administration and funding"/>
+    <term name="Teaching, teachers, curricula"/>
+  </subjects>
+  <amendments/>
+  <summary>4/16/2015--Introduced.
+Young Americans Financial Literacy Act
+
+ Authorizes the Director of the Consumer Financial Protection Bureau to make competitive grants to, and enter agreements with, eligible institutions to establish centers of excellence to support research, development and planning, implementation, and evaluation of effective programs in financial literacy education for young people and families ages 8-24 years old.
+
+Limits the aggregate amount of grants made under this Act during any fiscal year. Sunsets the grant program at the end of FY2018.
+
+Defines "eligible institution" as a partnership of two or more of the following: (1) an institution of higher education; (2) a local educational agency; (3) a nonprofit agency, organization, or association; or (4) a financial institution.</summary>
+</bill>

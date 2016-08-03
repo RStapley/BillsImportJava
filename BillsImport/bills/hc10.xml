@@ -1,0 +1,39 @@
+<bill session="114" type="hc" number="10" updated="2015-03-07T06:28:11-05:00">
+  <state datetime="2015-01-27">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-27"/>
+  </status>
+  <introduced datetime="2015-01-27"/>
+  <titles>
+    <title type="official" as="introduced">Recognizing the challenges and burdens associated with the rising costs of a college education.</title>
+  </titles>
+  <sponsor id="400130"/>
+  <cosponsors>
+    <cosponsor id="400238" joined="2015-02-13"/>
+    <cosponsor id="412522" joined="2015-01-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-27" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Higher education"/>
+    <term name="Student aid and college costs"/>
+    <term name="Vocational and technical education"/>
+  </subjects>
+  <amendments/>
+  <summary>1/27/2015--Introduced.
+Recognizes the challenges and burdens associated with rising college costs.
+
+Acknowledges the benefits of community colleges in providing an affordable and cost-effective way to obtain a college degree.
+
+ Expresses support for the goals and ideals of the America's College Promise proposal.
+
+Expresses a commitment to pursuing strategies in the 114th Congress that will make college more affordable and accessible for all students.</summary>
+</bill>

@@ -1,0 +1,52 @@
+<bill session="114" type="s" number="725" updated="2015-04-16T04:48:45-04:00">
+  <state datetime="2015-03-12">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-12"/>
+  </status>
+  <introduced datetime="2015-03-12"/>
+  <titles>
+    <title type="short" as="introduced">Alan Reinstein and Trevor Schaefer Toxic Chemical Protection Act</title>
+    <title type="official" as="introduced">A bill to amend the Toxic Substances Control Act, and for other purposes.</title>
+  </titles>
+  <sponsor id="300011"/>
+  <cosponsors>
+    <cosponsor id="412490" joined="2015-03-23"/>
+    <cosponsor id="412223" joined="2015-03-23"/>
+    <cosponsor id="400253" joined="2015-03-12"/>
+    <cosponsor id="300073" joined="2015-04-15"/>
+    <cosponsor id="400357" joined="2015-03-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-12" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="697"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Administrative remedies"/>
+    <term name="Advisory bodies"/>
+    <term name="Child health"/>
+    <term name="Congressional oversight"/>
+    <term name="Environmental Protection Agency (EPA)"/>
+    <term name="Environmental assessment, monitoring, research"/>
+    <term name="Environmental health"/>
+    <term name="Environmental regulatory procedures"/>
+    <term name="Government information and archives"/>
+    <term name="Hazardous wastes and toxic substances"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="Judicial review and appeals"/>
+    <term name="Manufacturing"/>
+    <term name="Public participation and lobbying"/>
+    <term name="Women's health"/>
+    <term name="Worker safety and health"/>
+  </subjects>
+  <amendments/>
+</bill>

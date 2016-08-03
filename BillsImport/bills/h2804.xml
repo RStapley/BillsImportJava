@@ -1,0 +1,62 @@
+<bill session="114" type="h" number="2804" updated="2015-08-08T06:42:45-04:00">
+  <state datetime="2015-06-17">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-17"/>
+  </status>
+  <introduced datetime="2015-06-17"/>
+  <titles>
+    <title type="short" as="introduced">SAFE Act</title>
+    <title type="short" as="introduced">Safeguarding America's Future and Environment Act</title>
+    <title type="official" as="introduced">To establish an integrated national approach to respond to ongoing and expected effects of extreme weather and climate change by protecting, managing, and conserving the fish, wildlife, and plants of the United States, and to maximize Government efficiency and reduce costs, in cooperation with State, local, and tribal governments and other entities, and for other purposes.</title>
+  </titles>
+  <sponsor id="412571"/>
+  <cosponsors>
+    <cosponsor id="412272" joined="2015-06-17"/>
+    <cosponsor id="412215" joined="2015-06-17"/>
+    <cosponsor id="400185" joined="2015-06-17"/>
+    <cosponsor id="412511" joined="2015-06-17"/>
+    <cosponsor id="400230" joined="2015-06-17"/>
+    <cosponsor id="400237" joined="2015-07-31"/>
+    <cosponsor id="412521" joined="2015-06-17"/>
+    <cosponsor id="400295" joined="2015-06-17"/>
+    <cosponsor id="412585" joined="2015-06-17"/>
+    <cosponsor id="412308" joined="2015-06-17"/>
+    <cosponsor id="412331" joined="2015-06-17"/>
+    <cosponsor id="400361" joined="2015-07-13"/>
+    <cosponsor id="412254" joined="2015-06-17"/>
+    <cosponsor id="412579" joined="2015-07-31"/>
+    <cosponsor id="412214" joined="2015-06-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-17" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2015-07-01">
+      <text>Referred to the Subcommittee on Energy and Mineral Resources.</text>
+    </action>
+    <action datetime="2015-07-01">
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+    </action>
+    <action datetime="2015-07-01">
+      <text>Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.</text>
+    </action>
+    <action datetime="2015-07-01">
+      <text>Referred to the Subcommittee on Water, Power and Oceans.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII06" subcommittee="Energy and Mineral Resources" name="House Natural Resources"/>
+    <committee activity="Referral" code="HSII10" subcommittee="Federal Lands" name="House Natural Resources"/>
+    <committee activity="Referral" code="HSII24" subcommittee="Indian, Insular and Alaska Native Affairs" name="House Natural Resources"/>
+    <committee activity="Referral" code="HSII13" subcommittee="Water, Power and Oceans" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1601"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Science, technology, communications"/>
+  </subjects>
+  <amendments/>
+</bill>

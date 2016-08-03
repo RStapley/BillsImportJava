@@ -1,0 +1,50 @@
+<bill session="114" type="h" number="2091" updated="2015-07-31T04:47:15-04:00">
+  <state datetime="2015-07-29">REPORTED</state>
+  <status>
+    <unknown datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-04-29"/>
+  <titles>
+    <title type="short" as="introduced">Child Support Assistance Act of 2015</title>
+    <title type="official" as="introduced">To amend the Fair Credit Reporting Act to clarify the ability to request consumer reports in certain cases to establish and enforce child support payments and awards.</title>
+  </titles>
+  <sponsor id="412633"/>
+  <cosponsors>
+    <cosponsor id="412488" joined="2015-04-29"/>
+    <cosponsor id="412215" joined="2015-04-29"/>
+    <cosponsor id="412527" joined="2015-04-29"/>
+    <cosponsor id="400363" joined="2015-04-29"/>
+    <cosponsor id="412548" joined="2015-04-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-29" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2015-07-28">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-07-29" state="REPORTED">
+      <text>Ordered to be Reported by the Yeas and Nays: 56 - 2.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Consumer credit"/>
+    <term name="Separation, divorce, custody, support"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+  <summary>4/29/2015--Introduced.
+Child Support Assistance Act of 2015
+
+ Amends the Fair Credit Reporting Act, with respect to the permissible purposes of consumer reports, to authorize a consumer reporting agency to furnish a consumer report in response to a request by the head of a state or local child support enforcement agency (or an authorized state or local government official), if the requester certifies that the report is needed for enforcing a child support order, award, agreement, or judgment.
+
+Repeals the requirement for 10 days' prior notice to a consumer whose report is requested.</summary>
+</bill>

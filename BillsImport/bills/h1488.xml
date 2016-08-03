@@ -1,0 +1,45 @@
+<bill session="114" type="h" number="1488" updated="2015-05-09T06:33:39-04:00">
+  <state datetime="2015-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-19"/>
+  </status>
+  <introduced datetime="2015-03-19"/>
+  <titles>
+    <title type="short" as="introduced">Protecting Gun Owners in Bankruptcy Act of 2015</title>
+    <title type="official" as="introduced">To amend title 11 of the United States Code to include firearms in the types of property allowable under the alternative provision for exempting property from the estate.</title>
+  </titles>
+  <sponsor id="412563"/>
+  <cosponsors>
+    <cosponsor id="412630" joined="2015-03-19"/>
+    <cosponsor id="412655" joined="2015-03-25"/>
+    <cosponsor id="400141" joined="2015-03-19"/>
+    <cosponsor id="412284" joined="2015-03-19"/>
+    <cosponsor id="400209" joined="2015-03-19"/>
+    <cosponsor id="412256" joined="2015-03-19"/>
+    <cosponsor id="412431" joined="2015-03-19"/>
+    <cosponsor id="400341" joined="2015-03-19"/>
+    <cosponsor id="400367" joined="2015-03-19"/>
+    <cosponsor id="400440" joined="2015-03-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-19" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-04-21">
+      <text>Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU05" subcommittee="Regulatory Reform, Commercial And Antitrust Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+  </subjects>
+  <amendments/>
+  <summary>3/19/2015--Introduced.
+Protecting Gun Owners in Bankruptcy Act of 2015
+
+ Amends federal bankruptcy law to permit an individual debtor to exempt from the property of the estate in bankruptcy the debtor's aggregate interest, not to exceed $3,000, in a single firearm or firearms.</summary>
+</bill>

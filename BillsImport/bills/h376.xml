@@ -1,0 +1,52 @@
+<bill session="114" type="h" number="376" updated="2015-07-08T04:47:16-04:00">
+  <state datetime="2015-01-14">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-14"/>
+  </status>
+  <introduced datetime="2015-01-14"/>
+  <titles>
+    <title type="short" as="introduced">Home-Assembled Firearms Restriction Act of 2015</title>
+    <title type="official" as="introduced">To prohibit the sale, offering for sale, manufacture for sale, distribution in commerce, or import into the United States of certain firearm receiver castings or blanks, assault weapon parts kits, and machinegun parts kits and to prohibit the marketing or advertising of such castings or blanks and kits on any medium of electronic communications.</title>
+  </titles>
+  <sponsor id="400185"/>
+  <cosponsors>
+    <cosponsor id="412404" joined="2015-02-27"/>
+    <cosponsor id="400062" joined="2015-01-14"/>
+    <cosponsor id="412470" joined="2015-02-27"/>
+    <cosponsor id="400080" joined="2015-01-14"/>
+    <cosponsor id="400093" joined="2015-01-14"/>
+    <cosponsor id="400170" joined="2015-01-14"/>
+    <cosponsor id="400195" joined="2015-07-07"/>
+    <cosponsor id="412595" joined="2015-01-14"/>
+    <cosponsor id="400237" joined="2015-02-27"/>
+    <cosponsor id="400663" joined="2015-01-14"/>
+    <cosponsor id="400360" joined="2015-01-14"/>
+    <cosponsor id="412514" joined="2015-02-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-14" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-01-16">
+      <text>Referred to the Subcommittee on Commerce, Manufacturing, and Trade.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF17" subcommittee="Commerce, Manufacturing, and Trade" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Firearms and explosives"/>
+    <term name="Marketing and advertising"/>
+    <term name="Product safety and quality"/>
+  </subjects>
+  <amendments/>
+  <summary>1/14/2015--Introduced.
+Home-Assembled Firearms Restriction Act of 2015
+
+Considers as a banned hazardous product under the Consumer Product Safety Act: (1) any firearm receiver casting or firearm receiver blank (do-it-yourself assault weapon) that does not meet the definition of a firearm under the federal criminal code at the point of sale but that can be completed after purchase by the consumer to function as a firearm frame or receiver for a semiautomatic assault weapon or machine gun, or (2) an assault weapon parts kit or machine gun parts kit.
+
+Makes it unlawful to market or advertise any of such weapons for sale on any medium of electronic communications, including over the Internet. Requires marketing or advertising violations to be treated as unfair or deceptive acts or practices under the Federal Trade Commission Act.</summary>
+</bill>

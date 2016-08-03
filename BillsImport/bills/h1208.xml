@@ -1,0 +1,50 @@
+<bill session="114" type="h" number="1208" updated="2015-03-24T04:49:39-04:00">
+  <state datetime="2015-03-03">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-03"/>
+  </status>
+  <introduced datetime="2015-03-03"/>
+  <titles>
+    <title type="short" as="introduced">Sacramento-San Joaquin Delta National Heritage Area Establishment Act</title>
+    <title type="official" as="introduced">To establish the Sacramento-San Joaquin Delta National Heritage Area.</title>
+  </titles>
+  <sponsor id="412382"/>
+  <cosponsors>
+    <cosponsor id="412613" joined="2015-03-03"/>
+    <cosponsor id="400663" joined="2015-03-03"/>
+    <cosponsor id="412189" joined="2015-03-03"/>
+    <cosponsor id="400403" joined="2015-03-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-03" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2015-03-23">
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="Federal Lands" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="630"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="California"/>
+    <term name="Historic sites and heritage areas"/>
+    <term name="Lakes and rivers"/>
+  </subjects>
+  <amendments/>
+  <summary>3/3/2015--Introduced.
+Sacramento-San Joaquin Delta National Heritage Area Establishment Act
+
+Establishes the Sacramento-San Joaquin Delta National Heritage Area in California.
+
+Designates the Delta Protection Commission as the local coordinating entity for the Heritage Area.
+
+Requires the Commission to submit a proposed management plan for the Heritage Area to the Department of the Interior for approval.
+
+Bars approval of the management plan until Interior has received certification from the Commission that the Delta Stewardship Council has reviewed such plan for consistency with the plan adopted by the Council pursuant to state law.</summary>
+</bill>

@@ -1,0 +1,28 @@
+<bill session="114" type="s" number="2009" updated="2015-08-19T15:46:34-04:00">
+  <state datetime="2015-08-06">REFERRED</state>
+  <status>
+    <introduced datetime="2015-08-06"/>
+  </status>
+  <introduced datetime="2015-08-06"/>
+  <titles>
+    <title type="short" as="introduced">Bahrain Independent Commission of Inquiry (BICI) Accountability Act of 2015</title>
+    <title type="official" as="introduced">A bill to prohibit the sale of arms to Bahrain.</title>
+  </titles>
+  <sponsor id="300100"/>
+  <cosponsors>
+    <cosponsor id="412491" joined="2015-08-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-08-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+  </subjects>
+  <amendments/>
+</bill>

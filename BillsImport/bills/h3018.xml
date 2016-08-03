@@ -1,0 +1,43 @@
+<bill session="114" type="h" number="3018" updated="2015-08-11T04:48:28-04:00">
+  <state datetime="2015-07-10">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-10"/>
+  </status>
+  <introduced datetime="2015-07-10"/>
+  <titles>
+    <title type="short" as="introduced">Code-FLEX Act of 2015</title>
+    <title type="short" as="introduced">Coding Flexibility in Healthcare Act of 2015</title>
+    <title type="official" as="introduced">To provide for a safe harbor period for the transition from the ICD-9 to the ICD-10 standard for health care claims.</title>
+  </titles>
+  <sponsor id="400032"/>
+  <cosponsors>
+    <cosponsor id="400626" joined="2015-07-10"/>
+    <cosponsor id="412310" joined="2015-07-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-10" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-07-10">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-07-10">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-07-17">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+  <summary>7/10/2015--Introduced.
+This bill requires that health care claims submitted with ICD-9 codes (the code set currently used in health care transactions to identify diagnoses and procedures) continue to be paid during the transition from the ICD-9 code set to the ICD-10 code set.</summary>
+</bill>

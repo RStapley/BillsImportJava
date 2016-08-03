@@ -1,0 +1,38 @@
+<bill session="114" type="s" number="225" updated="2015-06-06T06:45:28-04:00">
+  <state datetime="2015-01-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-21"/>
+  </status>
+  <introduced datetime="2015-01-21"/>
+  <titles>
+    <title type="short" as="introduced">Hunting, Fishing, and Recreational Shooting Protection Act</title>
+    <title type="official" as="introduced">A bill to amend the Toxic Substances Control Act to clarify the jurisdiction of the Environmental Protection Agency with respect to certain sporting good articles, and to exempt those articles from a definition under that Act.</title>
+  </titles>
+  <sponsor id="400546"/>
+  <cosponsors>
+    <cosponsor id="412242" joined="2015-01-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="2406"/>
+    <bill relation="unknown" session="114" type="s" number="659"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Hazardous wastes and toxic substances"/>
+    <term name="Hunting and fishing"/>
+    <term name="Outdoor recreation"/>
+  </subjects>
+  <amendments/>
+  <summary>1/21/2015--Introduced.
+Hunting, Fishing, and Recreational Shooting Protection Act
+
+This bill exempts components of firearms and ammunition and sport fishing equipment and its components (such as lead sinkers) from regulations on chemical substances under the Toxic Substances Control Act.</summary>
+</bill>

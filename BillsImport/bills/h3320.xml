@@ -1,0 +1,24 @@
+<bill session="114" type="h" number="3320" updated="2015-08-06T09:47:52-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">Timely Payment for Veterans' Medical Care Act</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to authorize the Secretary of Veterans Affairs to enter into contracts with administrative contractors for the processing of claims for hospital care and medical services furnished in non-Department of Veterans Affairs facilities.</title>
+  </titles>
+  <sponsor id="400636"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

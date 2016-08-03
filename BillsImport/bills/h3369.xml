@@ -1,0 +1,32 @@
+<bill session="114" type="h" number="3369" updated="2015-08-06T12:47:32-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">Restructuring Underutilized Resources for Advancing Learning Act</title>
+    <title type="short" as="introduced">RURAL Act</title>
+    <title type="official" as="introduced">To establish an Office of Rural Education Policy in the Department of Education, make other modifications to Federal law to improve rural schools, and for other purposes.</title>
+  </titles>
+  <sponsor id="412209"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the Committee on Education and the Workforce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Referred to House Ways and Means</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

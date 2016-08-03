@@ -1,0 +1,57 @@
+<bill session="114" type="h" number="377" updated="2015-02-28T04:49:55-05:00">
+  <state datetime="2015-01-14">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-14"/>
+  </status>
+  <introduced datetime="2015-01-14"/>
+  <titles>
+    <title type="short" as="introduced">Homemade Firearms Accountability Act of 2015</title>
+    <title type="official" as="introduced">To amend chapter 44 of title 18, United States Code, to require homemade firearms to have serial numbers, and for other purposes.</title>
+  </titles>
+  <sponsor id="400185"/>
+  <cosponsors>
+    <cosponsor id="412470" joined="2015-02-27"/>
+    <cosponsor id="400080" joined="2015-01-14"/>
+    <cosponsor id="400093" joined="2015-01-14"/>
+    <cosponsor id="400162" joined="2015-02-27"/>
+    <cosponsor id="400170" joined="2015-01-14"/>
+    <cosponsor id="412595" joined="2015-01-14"/>
+    <cosponsor id="400237" joined="2015-02-27"/>
+    <cosponsor id="412521" joined="2015-01-14"/>
+    <cosponsor id="400360" joined="2015-01-14"/>
+    <cosponsor id="412514" joined="2015-01-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-14" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-02-05">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Firearms and explosives"/>
+    <term name="Government information and archives"/>
+    <term name="Licensing and registrations"/>
+    <term name="User charges and fees"/>
+  </subjects>
+  <amendments/>
+  <summary>1/14/2015--Introduced.
+Homemade Firearms Accountability Act of 2015
+
+ Amends the federal criminal code to authorize a person who has attained age 18 and desires to make a handgun, or to obtain a unique serial number or other identifying mark for a handgun made by the person after 1968, to request a licensed firearms dealer to issue such serial number or identifying mark for such handgun. Treats such request as a proposed transfer of the firearm from the dealer to the applicant for purposes of National Instant Criminal Background Check System provisions.
+
+Allows a licensed dealer to: (1) issue such serial number and identifying mark if federal firearms provisions would not prohibit the dealer from transferring the firearm to the applicant, and (2) charge an applicant a fee for the costs of issuing each serial number and identifying mark and contacting the System.
+
+Prohibits a person from: (1) making a firearm unless the person has obtained a serial number and identifying mark under this Act, or (2) possessing or transferring a firearm made by the person after 1968 (with exceptions) unless a serial number and identifying mark have been issued under this Act and are stamped on or otherwise permanently affixed to the firearm within 10 days after issuance. Requires any such firearm that is made from polymer plastic to be imbedded with 3.7 ounces of material type 17-4 PH stainless steel on which the serial number or identifying mark is permanently affixed.
+
+Directs the Attorney General to maintain, and make available on request, information on: (1) the number of serial numbers and identifying marks issued under this Act, and (2) the number of arrests for violations of this Act.
+
+Sets penalties for violating this Act.</summary>
+</bill>

@@ -1,0 +1,38 @@
+<bill session="114" type="h" number="1430" updated="2015-05-09T06:33:10-04:00">
+  <state datetime="2015-03-18">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-18"/>
+  </status>
+  <introduced datetime="2015-03-18"/>
+  <titles>
+    <title type="short" as="introduced">Permanent CFC Look-Through Act of 2015</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to make permanent the look-through treatment of payments between related controlled foreign corporations.</title>
+  </titles>
+  <sponsor id="400636"/>
+  <cosponsors>
+    <cosponsor id="400218" joined="2015-03-18"/>
+    <cosponsor id="400233" joined="2015-03-18"/>
+    <cosponsor id="400291" joined="2015-03-18"/>
+    <cosponsor id="400309" joined="2015-03-18"/>
+    <cosponsor id="412393" joined="2015-03-18"/>
+    <cosponsor id="412314" joined="2015-03-18"/>
+    <cosponsor id="400406" joined="2015-03-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-18" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+  <summary>3/18/2015--Introduced.
+Permanent CFC Look-Through Act of 2015
+
+Amends the Internal Revenue Code to make permanent the tax rule exempting dividends, interest, rents, and royalties received or accrued from certain controlled foreign corporations by a related entity from treatment as foreign holding company income (thus permitting tax deferral of such income).</summary>
+</bill>

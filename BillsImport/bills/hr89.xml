@@ -1,0 +1,40 @@
+<bill session="114" type="hr" number="89" updated="2015-03-14T06:16:39-04:00">
+  <state datetime="2015-02-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-04"/>
+  </status>
+  <introduced datetime="2015-02-04"/>
+  <titles>
+    <title type="official" as="introduced">Supporting "United States Foreign Service Day" in recognition of the men and women who have served, or are presently serving, in the Foreign Service of the United States, and to honor those in the Foreign Service who have given their lives in the line of duty.</title>
+  </titles>
+  <sponsor id="412522"/>
+  <cosponsors>
+    <cosponsor id="412532" joined="2015-02-24"/>
+    <cosponsor id="400262" joined="2015-02-24"/>
+    <cosponsor id="400263" joined="2015-02-24"/>
+    <cosponsor id="400271" joined="2015-02-24"/>
+    <cosponsor id="400333" joined="2015-02-24"/>
+    <cosponsor id="400361" joined="2015-02-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-04" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="Department of State"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+  </subjects>
+  <amendments/>
+  <summary>2/4/2015--Introduced.
+Honors the men and women who have served, or are presently serving, in the Foreign Service for their dedicated and important service to country.
+
+ Supports a United States Foreign Service Day to commemorate the 91st anniversary of the Foreign Service.</summary>
+</bill>

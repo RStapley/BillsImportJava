@@ -1,0 +1,61 @@
+<bill session="114" type="h" number="637" updated="2015-04-24T04:46:44-04:00">
+  <state datetime="2015-02-04">REPORTED</state>
+  <status>
+    <unknown datetime="2015-02-04"/>
+  </status>
+  <introduced datetime="2015-02-02"/>
+  <titles>
+    <title type="short" as="reported to house">Permanent IRA Charitable Contribution Act of 2015</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to make permanent the rule allowing certain tax-free distributions from individual retirement accounts for charitable purposes.</title>
+  </titles>
+  <sponsor id="412314"/>
+  <cosponsors>
+    <cosponsor id="400033" joined="2015-02-02"/>
+    <cosponsor id="412651" joined="2015-02-03"/>
+    <cosponsor id="412393" joined="2015-02-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-02" state="REFERRED">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-02-02">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-02-02">
+      <text>Referred to House Budget</text>
+    </action>
+    <calendar datetime="2015-02-04" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 24 - 14.</text>
+    </calendar>
+    <action datetime="2015-02-09T13:57:00-05:00">
+      <text>Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-20, Part I.</text>
+    </action>
+    <action datetime="2015-02-09T13:58:00-05:00">
+      <text>Committee on the Budget discharged.</text>
+    </action>
+    <calendar datetime="2015-02-09T13:58:00-05:00" calendar="Union" number="14">
+      <text>Placed on the Union Calendar, Calendar No. 14.</text>
+    </calendar>
+    <action datetime="2015-04-23T12:06:00-04:00">
+      <text>COSPONSOR AUTHORITY - Mr. Paulsen asked unanimous consent that he may hereafter be considered as the first sponsor of H.R. 637, a bill originally introduced by Rep. Schock of Illinois, for the purpose of adding cosponsors and requesting reprintings pursuant to clause 7 of rule XII. Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, Reporting"/>
+    <committee code="HSBU" name="House Budget" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Charitable contributions"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Income tax exclusion"/>
+  </subjects>
+  <amendments/>
+  <summary>2/9/2015--Reported to House amended, Part I.
+Permanent IRA Charitable Contribution Act of 2015
+
+(Sec. 2) This bill amends the Internal Revenue Code to make permanent the exclusion from gross income of distributions from individual retirement accounts made for charitable purposes.
+
+(Sec. 3) This provision exempts the budgetary effects of this Act from entry on PAYGO scorecards under the Statutory Pay-As-You-Go Act of 2010.</summary>
+</bill>

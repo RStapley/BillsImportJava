@@ -1,0 +1,88 @@
+<bill session="114" type="h" number="1156" updated="2015-08-15T06:28:52-04:00">
+  <state datetime="2015-05-19T18:14:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2015-05-19T18:14:00-04:00"/>
+  </status>
+  <introduced datetime="2015-02-27"/>
+  <titles>
+    <title type="short" as="introduced">International Science and Technology Cooperation Act of 2015</title>
+    <title type="short" as="reported to house">International Science and Technology Cooperation Act of 2015</title>
+    <title type="official" as="introduced">To authorize the establishment of a body under the National Science and Technology Council to identify and coordinate international science and technology cooperation opportunities.</title>
+    <title type="official" as="amended by house">To authorize the establishment or designation of a working group under the National Science and Technology Council to identify and coordinate international science and technology cooperation opportunities.</title>
+  </titles>
+  <sponsor id="400630"/>
+  <cosponsors>
+    <cosponsor id="412524" joined="2015-02-27"/>
+    <cosponsor id="412422" joined="2015-02-27"/>
+    <cosponsor id="400204" joined="2015-02-27"/>
+    <cosponsor id="412634" joined="2015-02-27"/>
+    <cosponsor id="400381" joined="2015-02-27"/>
+    <cosponsor id="412514" joined="2015-02-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-27" state="REFERRED">
+      <text>Referred to the House Committee on Science, Space, and Technology.</text>
+    </action>
+    <action datetime="2015-03-04">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-03-04" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </calendar>
+    <action datetime="2015-05-19T17:53:00-04:00">
+      <text>Reported by the Committee on Science, Space, and Technology. H. Rept. 114-123.</text>
+    </action>
+    <calendar datetime="2015-05-19T17:54:00-04:00" calendar="Union" number="88">
+      <text>Placed on the Union Calendar, Calendar No. 88.</text>
+    </calendar>
+    <action datetime="2015-05-19T18:06:00-04:00">
+      <text>Mr. Smith (TX) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2015-05-19T18:08:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3366-3367" label="consideration"/>
+    </action>
+    <action datetime="2015-05-19T18:08:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1156.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2015-05-19T18:14:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H3366" label="text"/>
+    </vote>
+    <action datetime="2015-05-19T18:14:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2015-05-19T18:14:00-04:00">
+      <text>The title of the measure was amended. Agreed to without objection.</text>
+    </action>
+    <action datetime="2015-05-20">
+      <text>Received in the Senate and Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science, Space, and Technology" activity="Referral, Markup, Reporting"/>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1806"/>
+    <bill relation="unknown" session="114" type="h" number="1898"/>
+  </relatedbills>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Government information and archives"/>
+    <term name="International scientific cooperation"/>
+    <term name="Office of Science and Technology Policy"/>
+  </subjects>
+  <amendments/>
+  <summary>5/19/2015--Passed House amended.
+International Science and Technology Cooperation Act of 2015 
+
+ Directs the Office of Science and Technology Policy (OSTP) to establish or designate a working group under the National Science and Technology Council that has the responsibility of identifying and coordinating international science and technology cooperation that can strengthen U.S. science and technology enterprise, improve economic and national security, and support U.S. foreign policy goals.
+
+Requires the working group to be co-chaired by officials from OSTP and the Department of State.
+
+Requires the working group to: (1) coordinate interagency international science and technology cooperative research and training activities and partnerships supported or managed by federal agencies; (2) establish federal priorities and policies for aligning such international research, training, and partnerships with U.S. foreign policy goals; (3) identify opportunities for new international research and training partnerships that advance science and technology and U.S. foreign policy priorities; (4) solicit recommendations from non-federal science and technology stakeholders; and (5) identify broad issues that influence the ability of U.S. scientists and engineers to collaborate with foreign counterparts.
+
+Requires the Director to report every two years on the working group's activities.</summary>
+</bill>

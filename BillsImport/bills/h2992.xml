@@ -1,0 +1,40 @@
+<bill session="114" type="h" number="2992" updated="2015-07-28T05:09:49-04:00">
+  <state datetime="2015-07-09">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-09"/>
+  </status>
+  <introduced datetime="2015-07-09"/>
+  <titles>
+    <title type="short" as="introduced">Merchant Marine of World War II Congressional Gold Medal Act</title>
+    <title type="official" as="introduced">To award a Congressional Gold Medal, collectively, to the U.S. Merchant Marine of World War II, in recognition of their dedicated and vital service during World War II.</title>
+  </titles>
+  <sponsor id="412539"/>
+  <cosponsors>
+    <cosponsor id="412541" joined="2015-07-23"/>
+    <cosponsor id="400041" joined="2015-07-16"/>
+    <cosponsor id="412427" joined="2015-07-23"/>
+    <cosponsor id="412407" joined="2015-07-23"/>
+    <cosponsor id="412544" joined="2015-07-23"/>
+    <cosponsor id="412498" joined="2015-07-09"/>
+    <cosponsor id="412562" joined="2015-07-23"/>
+    <cosponsor id="412523" joined="2015-07-23"/>
+    <cosponsor id="412462" joined="2015-07-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-09" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <summary>7/9/2015--Introduced.
+Merchant Marine of World War II Congressional Gold Medal Act
+
+The Speaker of the House of Representatives and the President pro tempore of the Senate shall arrange for the award, on behalf of the Congress, of a single gold medal to the U.S. Merchant Marine of World War II, in recognition of their dedicated and vital service during World War II.</summary>
+</bill>

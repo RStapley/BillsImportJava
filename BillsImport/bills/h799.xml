@@ -1,0 +1,59 @@
+<bill session="114" type="h" number="799" updated="2015-07-24T04:47:37-04:00">
+  <state datetime="2015-02-05">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-05"/>
+  </status>
+  <introduced datetime="2015-02-05"/>
+  <titles>
+    <title type="short" as="introduced">North Country National Scenic Trail Route Adjustment Act</title>
+    <title type="official" as="introduced">To revise the authorized route of the North Country National Scenic Trail in northeastern Minnesota and to extend the trail into Vermont to connect with the Appalachian National Scenic Trail, and for other purposes.</title>
+  </titles>
+  <sponsor id="408211"/>
+  <cosponsors>
+    <cosponsor id="412436" joined="2015-04-14"/>
+    <cosponsor id="400033" joined="2015-02-05"/>
+    <cosponsor id="400071" joined="2015-07-14"/>
+    <cosponsor id="412600" joined="2015-04-30"/>
+    <cosponsor id="412563" joined="2015-07-08"/>
+    <cosponsor id="412272" joined="2015-02-05"/>
+    <cosponsor id="412555" joined="2015-05-01"/>
+    <cosponsor id="412215" joined="2015-02-05"/>
+    <cosponsor id="412454" joined="2015-04-30"/>
+    <cosponsor id="412465" joined="2015-02-27"/>
+    <cosponsor id="412546" joined="2015-05-20"/>
+    <cosponsor id="400259" joined="2015-02-05"/>
+    <cosponsor id="400271" joined="2015-02-05"/>
+    <cosponsor id="412303" joined="2015-02-05"/>
+    <cosponsor id="400316" joined="2015-02-05"/>
+    <cosponsor id="400352" joined="2015-07-22"/>
+    <cosponsor id="400414" joined="2015-07-23"/>
+    <cosponsor id="412214" joined="2015-02-05"/>
+    <cosponsor id="412239" joined="2015-02-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-05" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2015-03-16">
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="Federal Lands" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="403"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Outdoor recreation"/>
+    <term name="Parks, recreation areas, trails"/>
+    <term name="Vermont"/>
+  </subjects>
+  <amendments/>
+  <summary>2/5/2015--Introduced.
+North Country National Scenic Trail Route Adjustment Act
+
+ Amends the National Trails System Act to extend the North Country National Scenic Trail into Vermont.</summary>
+</bill>

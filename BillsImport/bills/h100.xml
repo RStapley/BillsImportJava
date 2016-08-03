@@ -1,0 +1,55 @@
+<bill session="114" type="h" number="100" updated="2015-04-04T06:17:49-04:00">
+	<state datetime="2015-01-06">REFERRED</state>
+	<status>
+		<introduced datetime="2015-01-06" />
+	</status>
+	<introduced datetime="2015-01-06" />
+	<titles>
+		<title type="short" as="introduced">Stopping Abusive Student Loan Collection Practices in Bankruptcy Act of 2015</title>
+		<title type="official" as="introduced">To amend title 11 of the United States
+			Code to stop abusive student loan collection practices in bankruptcy
+			cases.</title>
+	</titles>
+	<sponsor id="400080" />
+	<cosponsors>
+		<cosponsor id="412236" joined="2015-01-06" />
+		<cosponsor id="412199" joined="2015-01-06" />
+	</cosponsors>
+	<actions>
+		<action datetime="2015-01-06">
+			<text>Sponsor introductory remarks on measure.</text>
+			<reference ref="CR E2" />
+		</action>
+		<action datetime="2015-01-06" state="REFERRED">
+			<text>Referred to the House Committee on the Judiciary.</text>
+		</action>
+		<action datetime="2015-02-02">
+			<text>Referred to the Subcommittee on Regulatory Reform, Commercial
+				And Antitrust Law.</text>
+		</action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral" />
+		<committee activity="Referral" code="HSJU05"
+			subcommittee="Regulatory Reform, Commercial And Antitrust Law" name="House Judiciary" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="114" type="h" number="1674" />
+	</relatedbills>
+	<subjects>
+		<term name="Finance and financial sector" />
+		<term name="Bankruptcy" />
+		<term name="Higher education" />
+		<term name="Student aid and college costs" />
+	</subjects>
+	<amendments />
+	<summary>1/6/2015--Introduced.
+		Stopping Abusive Student Loan Collection Practices in Bankruptcy Act of 2015
+
+		Amends federal bankruptcy law to allow an individual whose student
+		loan debt is discharged due to undue hardship to recover the costs of,
+		and a reasonable attorney's fee for, the discharge proceeding if the
+		court finds that the position of the creditor was not substantially
+		justified.
+	</summary>
+</bill>

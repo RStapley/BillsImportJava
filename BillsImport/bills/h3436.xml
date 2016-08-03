@@ -1,0 +1,23 @@
+<bill session="114" type="h" number="3436" updated="2015-08-01T04:51:27-04:00">
+  <state datetime="2015-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-31"/>
+  </status>
+  <introduced datetime="2015-07-31"/>
+  <titles>
+    <title type="official" as="introduced">To provide discretionary authority to an immigration judge to determine that an alien parent of a United States citizen child should not be ordered removed, deported, or excluded from the United States.</title>
+  </titles>
+  <sponsor id="400366"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-31" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

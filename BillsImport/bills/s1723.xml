@@ -1,0 +1,26 @@
+<bill session="114" type="s" number="1723" updated="2015-07-18T07:02:35-04:00">
+  <state datetime="2015-07-09">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-09"/>
+  </status>
+  <introduced datetime="2015-07-09"/>
+  <titles>
+    <title type="short" as="introduced">Promoting Renewable Energy with Shared Solar Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend the Public Utility Regulatory Policies Act of 1978 to promote safe and reliable interconnection and net billing for community solar facilities.</title>
+  </titles>
+  <sponsor id="412281"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-09" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+  </subjects>
+  <amendments/>
+</bill>

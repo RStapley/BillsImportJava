@@ -1,0 +1,39 @@
+<bill session="114" type="s" number="1418" updated="2015-06-27T07:30:53-04:00">
+  <state datetime="2015-05-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-21"/>
+  </status>
+  <introduced datetime="2015-05-21"/>
+  <titles>
+    <title type="short" as="introduced">Judicial Transparency and Ethics Enhancement Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend title 28, United States Code, to provide an Inspector General for the judicial branch, and for other purposes.</title>
+  </titles>
+  <sponsor id="300048"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-05-21">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S3240-3241"/>
+    </action>
+    <action datetime="2015-05-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S3241" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Law"/>
+  </subjects>
+  <amendments/>
+  <summary>5/21/2015--Introduced.
+Judicial Transparency and Ethics Enhancement Act of 2015
+
+Amends the federal judicial code to establish the Office of Inspector General for the Judicial Branch, to be headed by an inspector general appointed by the Chief Justice. Sets a term of four years, which may be extended by additional reappointments. Authorizes the Chief Justice to remove an inspector general from office.
+
+Requires the office to: (1) conduct investigations of alleged misconduct in the judicial branch, including the Supreme Court; (2) conduct and supervise audits and investigations; and (3) prevent and detect waste, fraud, and abuse.
+
+Provides for whistleblower protection.</summary>
+</bill>

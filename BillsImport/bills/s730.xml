@@ -1,0 +1,43 @@
+<bill session="114" type="s" number="730" updated="2015-04-30T04:48:10-04:00">
+  <state datetime="2015-03-12">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-12"/>
+  </status>
+  <introduced datetime="2015-03-12"/>
+  <titles>
+    <title type="short" as="introduced">Permanently Protecting Tenants at Foreclosure Act of 2015</title>
+    <title type="official" as="introduced">A bill to permanently extend the Protecting Tenants at Foreclosure Act of 2009.</title>
+  </titles>
+  <sponsor id="412490"/>
+  <cosponsors>
+    <cosponsor id="412378" joined="2015-03-12"/>
+    <cosponsor id="400272" joined="2015-04-29"/>
+    <cosponsor id="300081" joined="2015-03-12"/>
+    <cosponsor id="300093" joined="2015-03-12"/>
+    <cosponsor id="412542" joined="2015-03-12"/>
+    <cosponsor id="412247" joined="2015-03-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-12" state="REFERRED">
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="1354"/>
+  </relatedbills>
+  <subjects>
+    <term name="Housing and community development"/>
+    <term name="Housing finance and home ownership"/>
+    <term name="Low- and moderate-income housing"/>
+  </subjects>
+  <amendments/>
+  <summary>3/12/2015--Introduced.
+Permanently Protecting Tenants at Foreclosure Act of 2015
+
+This bill amends the Protecting Tenants at Foreclosure Act of 2009 to repeal its sunset date December 31, 2014 (thus making the Act permanent).
+
+This bill restores and revives such Act, the provisions of law amended or repealed by it, and any regulations promulgated pursuant to it, as were in effect on December 31, 2014, as if the sunset had not taken effect.</summary>
+</bill>

@@ -1,0 +1,25 @@
+<bill session="114" type="h" number="3204" updated="2015-07-28T15:58:46-04:00">
+  <state datetime="2015-07-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-23"/>
+  </status>
+  <introduced datetime="2015-07-23"/>
+  <titles>
+    <title type="short" as="introduced">Tackling Excessive Standardized Testing Act of 2015</title>
+    <title type="short" as="introduced">TEST Act of 2015</title>
+    <title type="official" as="introduced">To amend the Elementary and Secondary Education Act of 1965 to reduce the testing requirements for part A of title I of such Act, and for other purposes.</title>
+  </titles>
+  <sponsor id="400195"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-23" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

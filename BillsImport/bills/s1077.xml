@@ -1,0 +1,33 @@
+<bill session="114" type="s" number="1077" updated="2015-05-23T06:51:22-04:00">
+  <state datetime="2015-04-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-23"/>
+  </status>
+  <introduced datetime="2015-04-23"/>
+  <titles>
+    <title type="short" as="introduced">Advancing Breakthrough Devices for Patients Act of 2015</title>
+    <title type="official" as="introduced">A bill to provide for expedited development of and priority review for breakthrough devices.</title>
+  </titles>
+  <sponsor id="400054"/>
+  <cosponsors>
+    <cosponsor id="412330" joined="2015-04-23"/>
+    <cosponsor id="300052" joined="2015-04-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-23" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="2337"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Drug safety, medical device, and laboratory regulation"/>
+    <term name="Health technology, devices, supplies"/>
+  </subjects>
+  <amendments/>
+</bill>

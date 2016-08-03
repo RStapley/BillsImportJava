@@ -1,0 +1,51 @@
+<bill session="114" type="h" number="1428" updated="2015-06-27T06:43:09-04:00">
+  <state datetime="2015-03-18">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-18"/>
+  </status>
+  <introduced datetime="2015-03-18"/>
+  <titles>
+    <title type="short" as="introduced">Judicial Redress Act of 2015</title>
+    <title type="official" as="introduced">To extend Privacy Act remedies to citizens of certified states, and for other purposes.</title>
+  </titles>
+  <sponsor id="400365"/>
+  <cosponsors>
+    <cosponsor id="400080" joined="2015-03-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-18" state="REFERRED">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-03-18">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2015-03-18">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2015-04-29">
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU10" subcommittee="Constitution and Civil Justice" name="House Judiciary"/>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="1600"/>
+  </relatedbills>
+  <subjects>
+    <term name="Law"/>
+  </subjects>
+  <amendments/>
+  <summary>3/18/2015--Introduced.
+Judicial Redress Act of 2015
+
+Authorizes the Department of Justice (DOJ) to designate foreign countries or regional economic integration organizations whose natural citizens may bring civil actions under the Privacy Act of 1974 against certain U.S. government agencies for purposes of accessing, amending, or redressing unlawful disclosures of records maintained by an agency.
+
+Allows DOJ, with the concurrence of the Department of State, the Department of the Treasury, and the Department of Homeland Security, to designate countries or organizations whose citizens may pursue such civil remedies if the person's country or organization has appropriate privacy protections for sharing information with the United States to prevent, investigate, detect, or prosecute criminal offenses.
+
+Exempts DOJ's designations from judicial or administrative review.
+
+Grants the U.S. District Court for the District of Columbia exclusive jurisdiction over any claim arising under this Act.</summary>
+</bill>

@@ -1,0 +1,26 @@
+<bill session="114" type="h" number="3374" updated="2015-08-22T06:47:32-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">Wounded Warrior Assistance Act of 2015</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to provide for the payment of childcare assistance to certain single parents who are participating in a Department of Veterans Affairs vocational rehabilitation program, and for other purposes.</title>
+  </titles>
+  <sponsor id="412521"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+</bill>

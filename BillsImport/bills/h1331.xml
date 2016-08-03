@@ -1,0 +1,75 @@
+<bill session="114" type="h" number="1331" updated="2015-06-17T04:49:34-04:00">
+  <state datetime="2015-03-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-04"/>
+  </status>
+  <introduced datetime="2015-03-04"/>
+  <titles>
+    <title type="short" as="introduced">Quicker Veterans Benefits Delivery Act of 2015</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to improve the treatment of medical evidence provided by non-Department of Veterans Affairs medical professionals in support of claims for disability compensation under the laws administered by the Secretary of Veterans Affairs, and for other purposes.</title>
+  </titles>
+  <sponsor id="412214"/>
+  <cosponsors>
+    <cosponsor id="412630" joined="2015-03-10"/>
+    <cosponsor id="412642" joined="2015-03-26"/>
+    <cosponsor id="400041" joined="2015-05-13"/>
+    <cosponsor id="412651" joined="2015-05-12"/>
+    <cosponsor id="412621" joined="2015-04-30"/>
+    <cosponsor id="412403" joined="2015-03-04"/>
+    <cosponsor id="400641" joined="2015-03-10"/>
+    <cosponsor id="412460" joined="2015-04-23"/>
+    <cosponsor id="412603" joined="2015-03-13"/>
+    <cosponsor id="412614" joined="2015-06-16"/>
+    <cosponsor id="400230" joined="2015-05-22"/>
+    <cosponsor id="412638" joined="2015-04-14"/>
+    <cosponsor id="412521" joined="2015-05-13"/>
+    <cosponsor id="400259" joined="2015-04-21"/>
+    <cosponsor id="412575" joined="2015-05-13"/>
+    <cosponsor id="412489" joined="2015-04-14"/>
+    <cosponsor id="412520" joined="2015-05-20"/>
+    <cosponsor id="412255" joined="2015-05-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-04" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2015-03-19">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+    </action>
+    <action datetime="2015-04-14">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="2015-05-14">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2015-05-14">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSVR09" subcommittee="Disability Assistance and Memorial Affairs" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="666"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Veterans Affairs"/>
+    <term name="Disability assistance"/>
+    <term name="Evidence and witnesses"/>
+    <term name="Health information and medical records"/>
+    <term name="Medical tests and diagnostic methods"/>
+    <term name="Veterans' medical care"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>3/4/2015--Introduced.
+Quicker Veterans Benefits Delivery Act of 2015
+
+Requires (current law authorizes) the Department of Veterans Affairs (VA) to accept, for purposes of establishing a claim for veterans disability benefits, a report of a medical examination administered by a private physician without requiring confirmation by a Veterans Health Administration physician if the report is sufficiently complete. Defines "sufficiently complete" as competent, credible, probative, and containing such information as required to make a decision on the claim for which the report is provided.
+
+Requires the Secretary to submit: (1) a report on the progress of the VA's Acceptable Clinical Evidence initiative in reducing the necessity for in-person disability examinations, and (2) an annual report for each VA regional office regarding claims for which private medical evidence was determined to be unacceptable.</summary>
+</bill>

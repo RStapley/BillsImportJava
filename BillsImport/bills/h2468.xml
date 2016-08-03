@@ -1,0 +1,45 @@
+<bill session="114" type="h" number="2468" updated="2015-08-15T06:39:59-04:00">
+  <state datetime="2015-05-20">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-20"/>
+  </status>
+  <introduced datetime="2015-05-20"/>
+  <titles>
+    <title type="short" as="introduced">Minority Inclusion in Clinical Trials Act of 2015</title>
+    <title type="official" as="introduced">To improve minority inclusion in clinical trials.</title>
+  </titles>
+  <sponsor id="400350"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-05-20" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-05-22">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Child health"/>
+    <term name="Disability and health-based discrimination"/>
+    <term name="Education programs funding"/>
+    <term name="Health care quality"/>
+    <term name="Health information and medical records"/>
+    <term name="Health personnel"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Medical education"/>
+    <term name="Medical research"/>
+    <term name="Minority education"/>
+    <term name="Minority health"/>
+    <term name="Performance measurement"/>
+    <term name="Racial and ethnic relations"/>
+    <term name="Sex, gender, sexual orientation discrimination"/>
+    <term name="Women's health"/>
+  </subjects>
+  <amendments/>
+</bill>

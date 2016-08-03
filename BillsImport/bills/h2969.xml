@@ -1,0 +1,37 @@
+<bill session="114" type="h" number="2969" updated="2015-08-01T06:44:33-04:00">
+  <state datetime="2015-07-08">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-08"/>
+  </status>
+  <introduced datetime="2015-07-08"/>
+  <titles>
+    <title type="short" as="introduced">TANF Marriage Penalty Elimination Act</title>
+    <title type="official" as="introduced">To eliminate the separate participation rate for 2-parent families receiving TANF assistance.</title>
+  </titles>
+  <sponsor id="412553"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-08" state="REFERRED">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-07-08">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-07-08">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+  </subjects>
+  <amendments/>
+  <summary>7/8/2015--Introduced.
+TANF Marriage Penalty Elimination Act
+
+This bill amends part A (Temporary Assistance for Needy Families) (TANF) of title IV of the Social Security Act with respect to mandatory work requirements to repeal the separate participation rate for two-parent families receiving TANF assistance.</summary>
+</bill>

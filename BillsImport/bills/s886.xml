@@ -1,0 +1,35 @@
+<bill session="114" type="s" number="886" updated="2015-08-01T06:59:28-04:00">
+  <state datetime="2015-03-26">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-26"/>
+  </status>
+  <introduced datetime="2015-03-26"/>
+  <titles>
+    <title type="short" as="introduced">Smart Energy and Water Efficiency Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend the Energy Policy Act of 2005 to provide for a smart energy and water efficiency pilot program.</title>
+  </titles>
+  <sponsor id="400413"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-03-26" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2015-04-30">
+      <text>Committee on Energy and Natural Resources. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="3143"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Energy efficiency and conservation"/>
+    <term name="Environmental technology"/>
+    <term name="Water resources funding"/>
+    <term name="Water use and supply"/>
+  </subjects>
+  <amendments/>
+</bill>

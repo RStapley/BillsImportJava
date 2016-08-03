@@ -1,0 +1,57 @@
+<bill session="114" type="h" number="3310" updated="2015-08-08T06:46:59-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">Preserving Public Access to Public Waters Act</title>
+    <title type="official" as="introduced">To preserve access to public waters and maintain the vital role of States in fisheries management decisions.</title>
+  </titles>
+  <sponsor id="400344"/>
+  <cosponsors>
+    <cosponsor id="412630" joined="2015-07-29"/>
+    <cosponsor id="412250" joined="2015-07-29"/>
+    <cosponsor id="400636" joined="2015-07-29"/>
+    <cosponsor id="412196" joined="2015-07-29"/>
+    <cosponsor id="412622" joined="2015-07-29"/>
+    <cosponsor id="400086" joined="2015-07-29"/>
+    <cosponsor id="412621" joined="2015-07-29"/>
+    <cosponsor id="412526" joined="2015-07-29"/>
+    <cosponsor id="400108" joined="2015-07-29"/>
+    <cosponsor id="412472" joined="2015-07-29"/>
+    <cosponsor id="412620" joined="2015-07-29"/>
+    <cosponsor id="412631" joined="2015-07-29"/>
+    <cosponsor id="412661" joined="2015-07-29"/>
+    <cosponsor id="412447" joined="2015-07-29"/>
+    <cosponsor id="412603" joined="2015-07-29"/>
+    <cosponsor id="400209" joined="2015-07-29"/>
+    <cosponsor id="412510" joined="2015-07-29"/>
+    <cosponsor id="400273" joined="2015-07-29"/>
+    <cosponsor id="400279" joined="2015-07-29"/>
+    <cosponsor id="412409" joined="2015-07-29"/>
+    <cosponsor id="412309" joined="2015-07-29"/>
+    <cosponsor id="412664" joined="2015-07-29"/>
+    <cosponsor id="412311" joined="2015-07-29"/>
+    <cosponsor id="412411" joined="2015-07-29"/>
+    <cosponsor id="412417" joined="2015-07-29"/>
+    <cosponsor id="400365" joined="2015-07-29"/>
+    <cosponsor id="412538" joined="2015-07-29"/>
+    <cosponsor id="412410" joined="2015-07-29"/>
+    <cosponsor id="412255" joined="2015-07-29"/>
+    <cosponsor id="412525" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+</bill>

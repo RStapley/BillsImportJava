@@ -1,0 +1,42 @@
+<bill session="114" type="s" number="1239" updated="2015-07-08T04:49:57-04:00">
+  <state datetime="2015-05-07">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-07"/>
+  </status>
+  <introduced datetime="2015-05-07"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Clean Air Act with respect to the ethanol waiver for the Reid vapor pressure limitations under that Act.</title>
+  </titles>
+  <sponsor id="412205"/>
+  <cosponsors>
+    <cosponsor id="412556" joined="2015-05-07"/>
+    <cosponsor id="412378" joined="2015-07-07"/>
+    <cosponsor id="300048" joined="2015-05-07"/>
+    <cosponsor id="412554" joined="2015-06-10"/>
+    <cosponsor id="412494" joined="2015-05-20"/>
+    <cosponsor id="400222" joined="2015-06-01"/>
+    <cosponsor id="412242" joined="2015-06-16"/>
+    <cosponsor id="412671" joined="2015-06-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-07" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="1736"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Air quality"/>
+    <term name="Alternative and renewable resources"/>
+    <term name="Environmental Protection Agency (EPA)"/>
+    <term name="Environmental regulatory procedures"/>
+    <term name="Motor fuels"/>
+  </subjects>
+  <amendments/>
+</bill>

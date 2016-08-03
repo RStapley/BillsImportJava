@@ -1,0 +1,70 @@
+<bill session="114" type="s" number="1238" updated="2015-06-27T07:29:07-04:00">
+  <state datetime="2015-05-07">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-07"/>
+  </status>
+  <introduced datetime="2015-05-07"/>
+  <titles>
+    <title type="short" as="introduced">Annual Report on United States Contributions to the United Nations Act</title>
+    <title type="official" as="introduced">A bill to provide for an accounting of total United States contributions to the United Nations.</title>
+  </titles>
+  <sponsor id="412495"/>
+  <cosponsors>
+    <cosponsor id="412493" joined="2015-05-07"/>
+    <cosponsor id="412251" joined="2015-05-07"/>
+    <cosponsor id="400034" joined="2015-05-13"/>
+    <cosponsor id="300027" joined="2015-05-07"/>
+    <cosponsor id="412508" joined="2015-05-07"/>
+    <cosponsor id="300030" joined="2015-05-07"/>
+    <cosponsor id="412573" joined="2015-05-07"/>
+    <cosponsor id="412549" joined="2015-05-07"/>
+    <cosponsor id="300041" joined="2015-05-07"/>
+    <cosponsor id="300048" joined="2015-05-07"/>
+    <cosponsor id="300052" joined="2015-05-07"/>
+    <cosponsor id="300055" joined="2015-05-07"/>
+    <cosponsor id="400194" joined="2015-05-07"/>
+    <cosponsor id="412496" joined="2015-05-07"/>
+    <cosponsor id="400222" joined="2015-05-07"/>
+    <cosponsor id="412666" joined="2015-05-07"/>
+    <cosponsor id="400325" joined="2015-05-07"/>
+    <cosponsor id="412322" joined="2015-05-07"/>
+    <cosponsor id="300083" joined="2015-05-07"/>
+    <cosponsor id="412671" joined="2015-05-07"/>
+    <cosponsor id="412471" joined="2015-05-07"/>
+    <cosponsor id="300088" joined="2015-05-07"/>
+    <cosponsor id="412665" joined="2015-05-07"/>
+    <cosponsor id="400546" joined="2015-05-07"/>
+    <cosponsor id="412668" joined="2015-05-07"/>
+    <cosponsor id="400418" joined="2015-05-07"/>
+    <cosponsor id="400432" joined="2015-05-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-07" state="REFERRED">
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1034"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Congressional oversight"/>
+    <term name="Foreign aid and international relief"/>
+    <term name="Government information and archives"/>
+    <term name="United Nations"/>
+  </subjects>
+  <amendments/>
+  <summary>5/7/2015--Introduced.
+Annual Report on United States Contributions to the United Nations Act
+
+Requires the Director of the Office of Management and Budget (OMB) to report annually to Congress regarding all assessed and voluntary U.S. contributions to the United Nations (U.N.) and its affiliated agencies and related bodies during the previous fiscal year.
+
+Requires the report to include:
+
+ the total amount of all assessed and voluntary U.S. contributions to the U.N. and its affiliated agencies and related bodies; the approximate percentage of U.S. contributions to each such agency or body in a fiscal year when compared with all such contributions in that fiscal year; and the amount, description, and purpose of each contribution, the identity of the donating U.S. department or agency, and the identity of the recipient U.N. agency or body. Requires the first report to include information for the previous five fiscal years.
+
+Requires OMB to post a public version of the report on a publicly available Internet website.</summary>
+</bill>

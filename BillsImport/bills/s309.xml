@@ -1,0 +1,52 @@
+<bill session="114" type="s" number="309" updated="2015-02-14T06:37:05-05:00">
+  <state datetime="2015-01-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-29"/>
+  </status>
+  <introduced datetime="2015-01-29"/>
+  <titles>
+    <title type="short" as="introduced">Earmark Elimination Act of 2015</title>
+    <title type="official" as="introduced">A bill to prohibit earmarks.</title>
+  </titles>
+  <sponsor id="400408"/>
+  <cosponsors>
+    <cosponsor id="412493" joined="2015-01-29"/>
+    <cosponsor id="412667" joined="2015-02-09"/>
+    <cosponsor id="400134" joined="2015-01-29"/>
+    <cosponsor id="412496" joined="2015-01-29"/>
+    <cosponsor id="400222" joined="2015-02-03"/>
+    <cosponsor id="412495" joined="2015-01-29"/>
+    <cosponsor id="412243" joined="2015-01-29"/>
+    <cosponsor id="400325" joined="2015-01-29"/>
+    <cosponsor id="412491" joined="2015-01-29"/>
+    <cosponsor id="400418" joined="2015-02-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-29" state="REFERRED">
+      <text>Read twice and referred to the Committee on Rules and Administration.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSRA" name="Senate Rules and Administration" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Appropriations"/>
+    <term name="Income tax credits"/>
+    <term name="Income tax deductions"/>
+    <term name="Income tax exclusion"/>
+    <term name="Legislative rules and procedure"/>
+    <term name="Senate"/>
+    <term name="Tariffs"/>
+  </subjects>
+  <amendments/>
+  <summary>1/29/2015--Introduced.
+Earmark Elimination Act of 2015
+
+ Makes it out of order in the Senate to consider a bill or resolution introduced in either chamber or any other measure that includes an earmark.
+
+Permits waiver of a point of order against an earmark only by an affirmative vote of two-thirds of the Senators.
+
+Makes this Act inapplicable to any authorization of appropriations to a federal entity if the authorization is not specifically targeted to a state, locality, or congressional district.</summary>
+</bill>

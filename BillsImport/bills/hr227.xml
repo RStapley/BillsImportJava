@@ -1,0 +1,52 @@
+<bill session="114" type="hr" number="227" updated="2015-06-25T04:46:38-04:00">
+  <state datetime="2015-04-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-29"/>
+  </status>
+  <introduced datetime="2015-04-29"/>
+  <titles>
+    <title type="official" as="introduced">Condemning the murder of Boris Nemtsov, offering condolences to his family, friends, and colleagues, expressing solidarity with the people of Russia, and calling for an international investigation into this crime.</title>
+  </titles>
+  <sponsor id="400122"/>
+  <cosponsors>
+    <cosponsor id="412470" joined="2015-05-12"/>
+    <cosponsor id="412236" joined="2015-06-23"/>
+    <cosponsor id="412272" joined="2015-05-20"/>
+    <cosponsor id="400646" joined="2015-05-12"/>
+    <cosponsor id="400170" joined="2015-05-12"/>
+    <cosponsor id="400211" joined="2015-05-12"/>
+    <cosponsor id="412435" joined="2015-05-12"/>
+    <cosponsor id="400238" joined="2015-05-20"/>
+    <cosponsor id="400263" joined="2015-05-12"/>
+    <cosponsor id="412560" joined="2015-05-20"/>
+    <cosponsor id="400309" joined="2015-06-24"/>
+    <cosponsor id="400380" joined="2015-04-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-29" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2015-05-20">
+      <text>Referred to the Subcommittee on Europe, Eurasia, and Emerging Threats.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSFA14" subcommittee="Europe, Eurasia, and Emerging Threats" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <summary>4/29/2015--Introduced.
+Condemns the murder of Boris Nemtsov and the climate of fear, hatred, and impunity that surrounds this and other political murders in Russia.
+
+ Offers condolences to the family, friends, and colleagues of Boris Nemtsov.
+
+Expresses solidarity with the people of Russia who are struggling against great odds to build a freer, more just, and prosperous future.
+
+Reaffirms the U.S. commitment to support Russia's democratic opposition.
+
+Calls on:
+
+ the President to make greater use of the Sergei Magnitsky Rule of Law Accountability Act, the Organization for Security and Co-operation in Europe to invoke the Moscow Mechanism and conduct an international investigation into Boris Nemtsov's murder, and the government of Russia to establish a Commission of Inquiry consistent with U.N. guidelines and to cooperate with any international investigation or assessment of Boris Nemtsov's murder.</summary>
+</bill>

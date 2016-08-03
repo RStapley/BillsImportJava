@@ -1,0 +1,28 @@
+<bill session="114" type="s" number="1953" updated="2015-08-22T07:08:06-04:00">
+  <state datetime="2015-08-05">REFERRED</state>
+  <status>
+    <introduced datetime="2015-08-05"/>
+  </status>
+  <introduced datetime="2015-08-05"/>
+  <titles>
+    <title type="short" as="introduced">TRASH Act</title>
+    <title type="short" as="introduced">Trash Reduction and Sensible Handling Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend the Solid Waste Disposal Act to authorize States to restrict interstate waste imports and impose a higher fee on out-of-State waste.</title>
+  </titles>
+  <sponsor id="412246"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-08-05" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Foreign trade and international finance"/>
+  </subjects>
+  <amendments/>
+</bill>

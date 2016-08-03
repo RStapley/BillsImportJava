@@ -1,0 +1,35 @@
+<bill session="114" type="s" number="1604" updated="2015-07-04T06:59:44-04:00">
+  <state datetime="2015-06-18">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-18"/>
+  </status>
+  <introduced datetime="2015-06-18"/>
+  <titles>
+    <title type="short" as="introduced">Transition to Independence Act</title>
+    <title type="official" as="introduced">A bill to establish the Transition to Independence Medicaid Buy-In Option demonstration program.</title>
+  </titles>
+  <sponsor id="300048"/>
+  <cosponsors>
+    <cosponsor id="412246" joined="2015-06-18"/>
+    <cosponsor id="300100" joined="2015-06-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-18" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+  <summary>6/18/2015--Introduced.
+Transition to Independence Act
+
+This bill directs the Secretary of Health and Human Services to establish a demonstration program over five fiscal years, beginning with FY2017, under which a Medicaid Buy-In-State meeting certain criteria may receive bonus payments for:
+
+ meeting specific measurable benchmarks in expanding individual integrated employment and reducing subminimum wage work, congregate setting work, or facility-based day habilitation placements for working-age individuals with a disability receiving Medicaid-funded home or community-based services; and taking other actions conducive to expanding employment opportunities for individuals with disabilities within the state.</summary>
+</bill>

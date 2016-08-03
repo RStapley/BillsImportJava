@@ -1,0 +1,62 @@
+<bill session="114" type="h" number="3037" updated="2015-08-08T06:44:43-04:00">
+  <state datetime="2015-07-13">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-13"/>
+  </status>
+  <introduced datetime="2015-07-13"/>
+  <titles>
+    <title type="short" as="introduced">Hospice Care Access Improvement Act of 2015</title>
+    <title type="official" as="introduced">To amend title XVIII of the Social Security Act to improve access to hospice care under the Medicare program, and for other purposes.</title>
+  </titles>
+  <sponsor id="412393"/>
+  <cosponsors>
+    <cosponsor id="412541" joined="2015-07-21"/>
+    <cosponsor id="400090" joined="2015-07-21"/>
+    <cosponsor id="400646" joined="2015-07-15"/>
+    <cosponsor id="400640" joined="2015-07-29"/>
+    <cosponsor id="412485" joined="2015-07-29"/>
+    <cosponsor id="400170" joined="2015-07-15"/>
+    <cosponsor id="412603" joined="2015-07-28"/>
+    <cosponsor id="412649" joined="2015-07-22"/>
+    <cosponsor id="412286" joined="2015-07-16"/>
+    <cosponsor id="412558" joined="2015-07-31"/>
+    <cosponsor id="400297" joined="2015-07-31"/>
+    <cosponsor id="400340" joined="2015-07-29"/>
+    <cosponsor id="412648" joined="2015-07-28"/>
+    <cosponsor id="400403" joined="2015-07-13"/>
+    <cosponsor id="412538" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-13" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+  <summary>7/13/2015--Introduced.
+Hospice Care Access Improvement Act of 2015
+
+The Department of Health and Human Services (HHS) shall select one Medicare administrative contractor to conduct a one-year demonstration program during FY2016 in all hospice programs under the contractor's jurisdiction to test revisions to the methodology for determining hospice payment rates under title XVIII (Medicare) of the Social Security Act contained in the "Fiscal Year 2016 Hospice Wage Index and Payment Rate Update and Hospice Quality Reporting Requirements," published on May 5, 2015, by the Centers for Medicare &amp; Medicaid Services.
+
+No revisions to the hospice payment methodology may be made for FY2016-FY2017, except for demonstration program purposes. HHS shall implement the proposed hospice payment methodology revisions beginning with FY2018 after:
+
+ taking into account an evaluation of the demonstration program, and making any necessary changes to the revisions. HHS shall implement a process for the medical review of hospice care furnished by a hospice program identified according to certain multiple factors, such as the percentage of patients discharged after receiving hospice care for between 120 and 180 days and who were alive upon discharge.
+
+HHS shall also develop and publish guidance for hospice programs to develop interventions to reduce hospital admissions and visits to hospital emergency departments by hospice patients.
+
+Medicare shall now cover pre-hospice evaluation and counseling services performed by a registered nurse employed by a hospice program.
+
+A skilled nursing facility (SNF) shall make a good faith effort to contract with more than one hospice program participating in the Medicare program that provides services in the area served by the SNF, if more than one hospice program is available to serve SNF residents.
+
+SNF residents shall have the right to be fully informed of any financial interest the SNF has in any hospice program to which a resident is referred,
+
+Any hospital discharge planning evaluation must now evaluate, for an individual likely to need hospice care, the availability of such care through hospice programs that:
+
+ participate in the Medicare program and serve the area in which the patient resides, and request to be listed by the hospital as available.</summary>
+</bill>

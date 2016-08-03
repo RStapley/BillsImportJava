@@ -1,0 +1,74 @@
+<bill session="114" type="h" number="2237" updated="2015-07-18T06:37:31-04:00">
+  <state datetime="2015-05-05">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-05"/>
+  </status>
+  <introduced datetime="2015-05-05"/>
+  <titles>
+    <title type="short" as="introduced">Helping Veterans Exposed to Burn Pits Act</title>
+    <title type="official" as="introduced">To direct the Secretary of Veterans to establish within the Department of Veterans Affairs a center of excellence in the prevention, diagnosis, mitigation, treatment, and rehabilitation of health conditions relating to exposure to burn pits.</title>
+  </titles>
+  <sponsor id="412524"/>
+  <cosponsors>
+    <cosponsor id="412271" joined="2015-07-07"/>
+    <cosponsor id="400657" joined="2015-05-14"/>
+    <cosponsor id="400219" joined="2015-05-08"/>
+    <cosponsor id="400262" joined="2015-05-05"/>
+    <cosponsor id="412664" joined="2015-06-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-05" state="REFERRED">
+      <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-05-05">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2015-05-05">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2015-05-26">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Afghanistan"/>
+    <term name="Asia"/>
+    <term name="Cardiovascular and respiratory health"/>
+    <term name="Department of Veterans Affairs"/>
+    <term name="Environmental assessment, monitoring, research"/>
+    <term name="Environmental health"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Hazardous wastes and toxic substances"/>
+    <term name="Health facilities and institutions"/>
+    <term name="Health information and medical records"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="Iraq"/>
+    <term name="Medical education"/>
+    <term name="Medical research"/>
+    <term name="Middle East"/>
+    <term name="Military medicine"/>
+    <term name="Military operations and strategy"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Research administration and funding"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>5/5/2015--Introduced.
+Helping Veterans Exposed to Burn Pits Act
+
+ Directs the Department of Veterans Affairs (VA) to establish a center of excellence in the prevention, diagnosis, mitigation, treatment, and rehabilitation of health conditions relating to exposure to open burn pits and other environmental exposures in Afghanistan or Iraq.
+
+Requires the VA, in selecting the site for the center, to consider entities that:
+
+ are equipped with the specialized equipment needed to study, diagnose, and treat health conditions relating to such exposure; have a publication track record of post-deployment health exposures among veterans who served in support of Operation Iraqi Freedom and Operation Enduring Freedom; have collaborated with a geosciences department that has a medical geology division; have developed animal models and in vitro models of dust immunology and lung injury consistent with the injuries of members of the Armed Forces who served in support of such Operations; and have expertise in allergy and immunology, pulmonary diseases, and industrial and management engineering. Directs the VA to ensure that the center collaborates with the Department of Defense (DOD), institutions of higher education, and other appropriate public and private entities to:
+
+ provide for dissemination within the VA of best practices for the treatment of such conditions and the training of health professionals; provide guidance for the VA and DOD health systems in determining the personnel required to provide quality health care for members of the Armed Forces and veterans with such conditions; establish, implement, and oversee a comprehensive program to train VA and DOD health professionals in the treatment of such conditions; facilitate advancements in the study of the short-term and long-term effects of such exposure; conduct basic science and translational research on such conditions for the purposes of understanding the etiology of such conditions and developing preventive interventions and new treatments; and provide medical treatment to all veterans identified as part of the burn pits registry established under the Dignified Burial and Other Veterans' Benefits Improvement Act of 2012. Requires the center to have access to and make use of the data accumulated by such registry.</summary>
+</bill>

@@ -1,0 +1,58 @@
+<bill session="114" type="s" number="1695" updated="2015-07-18T07:02:21-04:00">
+  <state datetime="2015-06-25">REPORTED</state>
+  <status>
+    <unknown datetime="2015-06-25"/>
+  </status>
+  <introduced datetime="2015-06-25"/>
+  <titles>
+    <title type="short" as="introduced">Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2016</title>
+    <title type="short" as="introduced" partial="1">Department of Education Appropriations Act, 2016</title>
+    <title type="short" as="introduced" partial="1">Department of Health and Human Services Appropriations Act, 2016</title>
+    <title type="short" as="introduced" partial="1">Department of Labor Appropriations Act, 2016</title>
+    <title type="short" as="reported to senate">Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2016</title>
+    <title type="short" as="reported to senate" partial="1">Department of Education Appropriations Act, 2016</title>
+    <title type="short" as="reported to senate" partial="1">Department of Health and Human Services Appropriations Act, 2016</title>
+    <title type="short" as="reported to senate" partial="1">Department of Labor Appropriations Act, 2016</title>
+    <title type="official" as="introduced">An original bill making appropriations for the Departments of Labor, Health and Human Services, and Education, and related agencies for the fiscal year ending September 30, 2016, and for other purposes.</title>
+  </titles>
+  <sponsor id="400034"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-06-25">
+      <text>Committee on Appropriations. Original measure reported to Senate by Senator Blunt. With written report No. 114-74.</text>
+    </action>
+    <calendar datetime="2015-06-25" state="REPORTED" calendar="Senate Legislative" under="General Orders" number="137">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 137.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSAP" name="Senate Appropriations" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="3020"/>
+  </relatedbills>
+  <subjects>
+    <term name="Economics and public finance"/>
+  </subjects>
+  <amendments/>
+  <summary>6/25/2015--Introduced.
+Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2016 
+
+Provides FY2016 appropriations to the Departments of Labor, Health and Human Services, and Education; and related agencies.
+
+Department of Labor Appropriations Act, 2016
+
+Provides appropriations to the Department of Labor for:
+
+ the Employment and Training Administration, the Employee Benefits Security Administration, the Pension Benefit Guaranty Corporation, the Wage and Hour Division, the Office of Labor-Management Standards, the Office of Federal Contract Compliance Programs, the Office of Workers' Compensation Programs, the Occupational Safety and Health Administration, the Mine Safety and Health Administration, the Bureau of Labor Statistics, and Departmental Management. Department of Health and Human Services Appropriations Act, 2016
+
+Provides appropriations to the Department of Health and Human Services for:
+
+ the Health Resources and Services Administration, the Centers for Disease Control and Prevention, the National Institutes of Health, the Substance Abuse and Mental Health Services Administration, the Agency for Healthcare Research and Quality, the Centers for Medicare and Medicaid Services, the Administration for Children and Families, the Administration for Community Living, and the Office of the Secretary. Department of Education Appropriations Act, 2016 
+
+Provides appropriations to the Department of Education for:
+
+ Education for the Disadvantaged; Impact Aid; the School Improvement Programs; Indian Education; Innovation and Improvement; Safe Schools and Citizenship Education; English Language Acquisition; Special Education; Rehabilitation Services and Disability Research; Special Institutions for Persons with Disabilities; Career, Technical, and Adult Education; Student Financial Assistance; Student Aid Administration; Higher Education; Howard University; the College Housing and Academic Facilities Loan Program; the Historically Black College and University Capital Financing Program Account, the Institute of Education Sciences, and Departmental Management. Provides appropriations to Related Agencies, including:
+
+ the Committee for Purchase From People Who Are Blind or Severely Disabled, the Corporation for National and Community Service, the Corporation for Public Broadcasting, the Federal Mediation and Conciliation Service, the Federal Mine Safety and Health Review Commission, the Institute of Museum and Library Services, the Medicaid and CHIP Payment and Access Commission, the Medicare Payment Advisory Commission, the National Council on Disability, the National Labor Relations Board, the National Mediation Board, the Occupational Safety and Health Review Commission, the Railroad Retirement Board, and the Social Security Administration. Sets forth permissible, restricted, and prohibited uses for funds provided by this and other appropriations Acts. Rescinds unobligated balances from prior appropriations.</summary>
+</bill>

@@ -1,0 +1,39 @@
+<bill session="114" type="s" number="1384" updated="2015-07-11T06:58:51-04:00">
+  <state datetime="2015-05-19">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-19"/>
+  </status>
+  <introduced datetime="2015-05-19"/>
+  <titles>
+    <title type="short" as="introduced">Andrew Prior Act</title>
+    <title type="short" as="introduced">Andrew's Law</title>
+    <title type="official" as="introduced">A bill to amend the Truth in Lending Act to provide for the discharge of student loan obligations upon the death of the student borrower, and for other purposes.</title>
+  </titles>
+  <sponsor id="300087"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-05-19" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Consumer Financial Protection Bureau"/>
+    <term name="Consumer credit"/>
+    <term name="Student aid and college costs"/>
+  </subjects>
+  <amendments/>
+  <summary>5/19/2015--Introduced.
+Andrew Prior Act or Andrew's Law
+
+This bill amends the Truth in Lending Act to discharge the repayment obligations of the estate of a borrower and any cosigner of a private educational loan if the borrower dies.
+
+The Consumer Financial Protection Bureau (CFPB) must develop necessary and appropriate safeguards to prevent fraud and abuse in the discharge of those obligations.
+
+The CFPB may promulgate regulations to reinstate those obligations in any case in which it determines that doing so is necessary to protect the public interest.</summary>
+</bill>

@@ -1,0 +1,30 @@
+<bill session="114" type="s" number="1037" updated="2015-05-23T06:51:02-04:00">
+  <state datetime="2015-04-22">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-22"/>
+  </status>
+  <introduced datetime="2015-04-22"/>
+  <titles>
+    <title type="official" as="introduced">A bill to expand the provisions for termination of mandatory purchase requirements under the Public Utility Regulatory Policies Act of 1978.</title>
+  </titles>
+  <sponsor id="412322"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-04-22" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2015-05-14">
+      <text>Committee on Energy and Natural Resources. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+  </subjects>
+  <amendments/>
+  <summary>4/22/2015--Introduced.
+This bill amends the Public Utility Regulatory Policies Act of 1978 to declare that no electric utility shall be required to enter into a new contract or obligation to purchase electric energy from a qualifying cogeneration facility or a qualifying small power production facility if the state regulatory agency having ratemaking authority over the utility has determined that the utility has no need to acquire additional generation resources in order to meet its obligation to serve customers in the public interest.</summary>
+</bill>

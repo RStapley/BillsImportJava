@@ -1,0 +1,45 @@
+<bill session="114" type="h" number="2212" updated="2015-07-25T06:37:28-04:00">
+  <state datetime="2015-05-01">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-01"/>
+  </status>
+  <introduced datetime="2015-05-01"/>
+  <titles>
+    <title type="official" as="introduced">To take certain Federal lands located in Lassen County, California, into trust for the benefit of the Susanville Indian Rancheria, and for other purposes.</title>
+  </titles>
+  <sponsor id="412510"/>
+  <cosponsors>
+    <cosponsor id="412617" joined="2015-06-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-01" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2015-05-26">
+      <text>Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.</text>
+    </action>
+    <action datetime="2015-06-10">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral, Hearings" code="HSII24" subcommittee="Indian, Insular and Alaska Native Affairs" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1761"/>
+  </relatedbills>
+  <subjects>
+    <term name="Native Americans"/>
+    <term name="California"/>
+    <term name="Federal-Indian relations"/>
+    <term name="Gambling"/>
+    <term name="Indian lands and resources rights"/>
+    <term name="Land transfers"/>
+  </subjects>
+  <amendments/>
+  <summary>5/1/2015--Introduced.
+This bill takes into trust for the benefit of the Susanville Indian Rancheria approximately 301 acres of federal land under the administrative jurisdiction of the Bureau of Land Management, including improvements and appurtenances, in Lassen County, California.
+
+Certain gaming on these lands is prohibited.</summary>
+</bill>

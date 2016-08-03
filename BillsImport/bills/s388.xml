@@ -1,0 +1,47 @@
+<bill session="114" type="s" number="388" updated="2015-08-01T06:55:16-04:00">
+  <state datetime="2015-02-05">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-05"/>
+  </status>
+  <introduced datetime="2015-02-05"/>
+  <titles>
+    <title type="short" as="introduced">Animal Welfare in Agricultural Research Endeavors Act</title>
+    <title type="short" as="introduced">AWARE Act</title>
+    <title type="official" as="introduced">A bill to amend the Animal Welfare Act to require humane treatment of animals by Federal Government facilities.</title>
+  </titles>
+  <sponsor id="412598"/>
+  <cosponsors>
+    <cosponsor id="412490" joined="2015-02-05"/>
+    <cosponsor id="300038" joined="2015-02-05"/>
+    <cosponsor id="300043" joined="2015-02-12"/>
+    <cosponsor id="400253" joined="2015-04-20"/>
+    <cosponsor id="412325" joined="2015-03-11"/>
+    <cosponsor id="300082" joined="2015-03-03"/>
+    <cosponsor id="412507" joined="2015-02-05"/>
+    <cosponsor id="400418" joined="2015-02-26"/>
+    <cosponsor id="412542" joined="2015-03-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-05" state="REFERRED">
+      <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="746"/>
+  </relatedbills>
+  <subjects>
+    <term name="Animals"/>
+    <term name="Agricultural research"/>
+    <term name="Animal protection and human-animal relationships"/>
+    <term name="Livestock"/>
+    <term name="Museums, exhibitions, cultural centers"/>
+  </subjects>
+  <amendments/>
+  <summary>2/5/2015--Introduced.
+Animal Welfare in Agricultural Research Endeavors Act or the AWARE Act
+
+This bill amends the Animal Welfare Act to apply standards for humane treatment to farm animals at federal research or laboratory animal facilities.</summary>
+</bill>

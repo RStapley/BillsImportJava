@@ -1,0 +1,71 @@
+<bill session="114" type="h" number="2369" updated="2015-07-30T04:49:24-04:00">
+  <state datetime="2015-05-15">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-15"/>
+  </status>
+  <introduced datetime="2015-05-15"/>
+  <titles>
+    <title type="short" as="introduced">Energy Supply and Distribution Act of 2015</title>
+    <title type="official" as="introduced">To lift the oil export ban and modernize Federal policies regarding the supply and distribution of energy in the United States, and for other purposes.</title>
+  </titles>
+  <sponsor id="400655"/>
+  <cosponsors>
+    <cosponsor id="412630" joined="2015-07-15"/>
+    <cosponsor id="412625" joined="2015-07-21"/>
+    <cosponsor id="412635" joined="2015-07-15"/>
+    <cosponsor id="412629" joined="2015-07-15"/>
+    <cosponsor id="412555" joined="2015-07-15"/>
+    <cosponsor id="400657" joined="2015-05-15"/>
+    <cosponsor id="412639" joined="2015-07-15"/>
+    <cosponsor id="412275" joined="2015-07-15"/>
+    <cosponsor id="400141" joined="2015-07-15"/>
+    <cosponsor id="412397" joined="2015-07-27"/>
+    <cosponsor id="412444" joined="2015-07-28"/>
+    <cosponsor id="412284" joined="2015-07-29"/>
+    <cosponsor id="412634" joined="2015-07-15"/>
+    <cosponsor id="412551" joined="2015-07-15"/>
+    <cosponsor id="412309" joined="2015-07-15"/>
+    <cosponsor id="400341" joined="2015-07-15"/>
+    <cosponsor id="412417" joined="2015-07-21"/>
+    <cosponsor id="412317" joined="2015-07-21"/>
+    <cosponsor id="412213" joined="2015-07-15"/>
+    <cosponsor id="412538" joined="2015-07-15"/>
+    <cosponsor id="412525" joined="2015-07-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-15" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Foreign Affairs, and Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-05-15">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-05-15">
+      <text>Referred to House Foreign Affairs</text>
+    </action>
+    <action datetime="2015-05-15">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2015-05-22">
+      <text>Referred to the Subcommittee on Energy and Power.</text>
+    </action>
+    <action datetime="2015-06-10">
+      <text>Referred to the Subcommittee on Energy and Mineral Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII06" subcommittee="Energy and Mineral Resources" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1220"/>
+    <bill relation="unknown" session="114" type="s" number="1224"/>
+    <bill relation="identical" session="114" type="s" number="1312"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+  </subjects>
+  <amendments/>
+</bill>

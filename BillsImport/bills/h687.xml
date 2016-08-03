@@ -1,0 +1,47 @@
+<bill session="114" type="h" number="687" updated="2015-05-23T06:23:38-04:00">
+  <state datetime="2015-02-03">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-03"/>
+  </status>
+  <introduced datetime="2015-02-03"/>
+  <titles>
+    <title type="short" as="introduced">Protect Interstate Commerce Act</title>
+    <title type="official" as="introduced">To prevent States and local jurisdictions from interfering with the production and distribution of agricultural products in interstate or foreign commerce.</title>
+  </titles>
+  <sponsor id="400220"/>
+  <cosponsors>
+    <cosponsor id="412627" joined="2015-02-03"/>
+    <cosponsor id="412463" joined="2015-02-20"/>
+    <cosponsor id="412429" joined="2015-02-03"/>
+    <cosponsor id="400441" joined="2015-02-03"/>
+    <cosponsor id="400316" joined="2015-02-03"/>
+    <cosponsor id="412641" joined="2015-02-03"/>
+    <cosponsor id="412628" joined="2015-02-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-03" state="REFERRED">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+    <action datetime="2015-02-27">
+      <text>Referred to the Subcommittee on Livestock and Foreign Agriculture.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee activity="Referral" code="HSAG29" subcommittee="Livestock and Foreign Agriculture" name="House Agriculture"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Food industry and services"/>
+    <term name="Food supply, safety, and labeling"/>
+    <term name="Intergovernmental relations"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+  <summary>2/3/2015--Introduced.
+Protect Interstate Commerce Act 
+
+This bill prohibits a state or local government from imposing a standard or condition on the production or manufacture of agricultural products sold or offered for sale in interstate commerce if: (1) the production or manufacture occurs in another state, and (2) the standard or condition adds to standards or conditions applicable under federal law and the laws of the state or locality in which the production or manufacture occurs.</summary>
+</bill>

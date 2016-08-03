@@ -1,0 +1,108 @@
+<bill session="114" type="h" number="525" updated="2015-08-01T04:50:22-04:00">
+  <state datetime="2015-01-26">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-26"/>
+  </status>
+  <introduced datetime="2015-01-26"/>
+  <titles>
+    <title type="short" as="introduced">Industrial Hemp Farming Act of 2015</title>
+    <title type="official" as="introduced">To amend the Controlled Substances Act to exclude industrial hemp from the definition of marihuana, and for other purposes.</title>
+  </titles>
+  <sponsor id="412503"/>
+  <cosponsors>
+    <cosponsor id="412438" joined="2015-01-26"/>
+    <cosponsor id="412541" joined="2015-01-26"/>
+    <cosponsor id="412436" joined="2015-02-09"/>
+    <cosponsor id="400033" joined="2015-01-26"/>
+    <cosponsor id="412501" joined="2015-01-26"/>
+    <cosponsor id="412619" joined="2015-01-26"/>
+    <cosponsor id="412571" joined="2015-01-26"/>
+    <cosponsor id="400074" joined="2015-01-26"/>
+    <cosponsor id="412271" joined="2015-07-31"/>
+    <cosponsor id="412236" joined="2015-01-26"/>
+    <cosponsor id="412272" joined="2015-02-10"/>
+    <cosponsor id="412193" joined="2015-07-14"/>
+    <cosponsor id="412555" joined="2015-01-26"/>
+    <cosponsor id="400100" joined="2015-01-26"/>
+    <cosponsor id="400101" joined="2015-01-26"/>
+    <cosponsor id="400103" joined="2015-01-26"/>
+    <cosponsor id="412505" joined="2015-01-26"/>
+    <cosponsor id="412215" joined="2015-01-26"/>
+    <cosponsor id="400129" joined="2015-01-26"/>
+    <cosponsor id="412532" joined="2015-01-26"/>
+    <cosponsor id="400162" joined="2015-01-26"/>
+    <cosponsor id="412454" joined="2015-01-26"/>
+    <cosponsor id="400185" joined="2015-01-26"/>
+    <cosponsor id="412511" joined="2015-01-27"/>
+    <cosponsor id="400209" joined="2015-01-26"/>
+    <cosponsor id="412419" joined="2015-01-26"/>
+    <cosponsor id="400237" joined="2015-01-26"/>
+    <cosponsor id="400245" joined="2015-01-26"/>
+    <cosponsor id="400246" joined="2015-07-28"/>
+    <cosponsor id="412295" joined="2015-01-26"/>
+    <cosponsor id="400259" joined="2015-01-26"/>
+    <cosponsor id="400262" joined="2015-01-26"/>
+    <cosponsor id="412474" joined="2015-01-26"/>
+    <cosponsor id="400289" joined="2015-01-26"/>
+    <cosponsor id="400295" joined="2015-01-26"/>
+    <cosponsor id="412575" joined="2015-01-26"/>
+    <cosponsor id="412192" joined="2015-04-13"/>
+    <cosponsor id="412569" joined="2015-01-26"/>
+    <cosponsor id="400316" joined="2015-01-26"/>
+    <cosponsor id="412307" joined="2015-01-26"/>
+    <cosponsor id="412585" joined="2015-01-26"/>
+    <cosponsor id="412308" joined="2015-01-26"/>
+    <cosponsor id="400343" joined="2015-01-26"/>
+    <cosponsor id="400352" joined="2015-01-26"/>
+    <cosponsor id="400607" joined="2015-02-04"/>
+    <cosponsor id="400360" joined="2015-01-26"/>
+    <cosponsor id="412315" joined="2015-01-26"/>
+    <cosponsor id="412259" joined="2015-06-01"/>
+    <cosponsor id="412461" joined="2015-01-26"/>
+    <cosponsor id="412514" joined="2015-02-03"/>
+    <cosponsor id="412318" joined="2015-01-27"/>
+    <cosponsor id="400419" joined="2015-06-10"/>
+    <cosponsor id="412214" joined="2015-01-26"/>
+    <cosponsor id="412239" joined="2015-01-26"/>
+    <cosponsor id="400431" joined="2015-02-04"/>
+    <cosponsor id="412211" joined="2015-01-26"/>
+    <cosponsor id="412525" joined="2015-01-26"/>
+    <cosponsor id="400440" joined="2015-01-26"/>
+    <cosponsor id="412428" joined="2015-01-26"/>
+    <cosponsor id="412640" joined="2015-01-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-26" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-01-26">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-01-26">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2015-01-30">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1635"/>
+    <bill relation="unknown" session="114" type="s" number="134"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Drug trafficking and controlled substances"/>
+    <term name="Horticulture and plants"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+  <summary>1/26/2015--Introduced.
+Industrial Hemp Farming Act of 2015
+
+ Amends the Controlled Substances Act to exclude industrial hemp from the definition of "marihuana." Defines "industrial hemp" to mean the plant Cannabis sativa L. and any part of such plant, whether growing or not, with a delta-nine tetrahydrocannabinol concentration of not more than 0.3 percent on a dry weight basis. Deems Cannabis sativa L. to meet that concentration limit if a person grows or processes it for purposes of making industrial hemp in accordance with state law.</summary>
+</bill>

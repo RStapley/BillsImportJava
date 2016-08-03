@@ -1,0 +1,69 @@
+<bill session="114" type="h" number="588" updated="2015-05-15T04:47:24-04:00">
+  <state datetime="2015-01-28">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-28"/>
+  </status>
+  <introduced datetime="2015-01-28"/>
+  <titles>
+    <title type="short" as="introduced">Medicare Beneficiary Preservation of Choice Act of 2015</title>
+    <title type="official" as="introduced">To preserve Medicare beneficiary choice by restoring and expanding the Medicare open enrollment and disenrollment opportunities repealed by section 3204(a) of the Patient Protection and Affordable Care Act.</title>
+  </titles>
+  <sponsor id="412570"/>
+  <cosponsors>
+    <cosponsor id="412469" joined="2015-04-21"/>
+    <cosponsor id="412512" joined="2015-04-21"/>
+    <cosponsor id="412196" joined="2015-03-24"/>
+    <cosponsor id="400052" joined="2015-03-17"/>
+    <cosponsor id="412400" joined="2015-05-14"/>
+    <cosponsor id="412621" joined="2015-04-15"/>
+    <cosponsor id="400108" joined="2015-03-24"/>
+    <cosponsor id="412454" joined="2015-03-04"/>
+    <cosponsor id="412460" joined="2015-04-29"/>
+    <cosponsor id="412603" joined="2015-03-17"/>
+    <cosponsor id="412465" joined="2015-04-13"/>
+    <cosponsor id="412468" joined="2015-03-18"/>
+    <cosponsor id="412466" joined="2015-03-17"/>
+    <cosponsor id="400285" joined="2015-02-03"/>
+    <cosponsor id="412409" joined="2015-03-24"/>
+    <cosponsor id="412462" joined="2015-03-17"/>
+    <cosponsor id="412489" joined="2015-03-18"/>
+    <cosponsor id="412315" joined="2015-01-28"/>
+    <cosponsor id="400406" joined="2015-04-13"/>
+    <cosponsor id="412405" joined="2015-04-13"/>
+    <cosponsor id="412646" joined="2015-03-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-28" state="REFERRED">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-01-28">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-01-28">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-01-30">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Medicare"/>
+    <term name="Prescription drugs"/>
+  </subjects>
+  <amendments/>
+  <summary>1/28/2015--Introduced.
+Medicare Beneficiary Preservation of Choice Act of 2015
+
+ Amends title XVIII (Medicare) of the Social Security Act, as amended by the Patient Protection and Affordable Care Act, to repeal the allowance for disenrollment, between January 1 and March 15 of each year, only from an MedicareAdvantage plan to elect enrollment in the original Medicare fee-for-service program.
+
+Restores the option under previous law to elect to change from a MedicareAdvantage to the original Medicare fee-for-service plan, or from the original Medicare fee-for-service to a MedicareAdvantage plan, once a year during the first three months.</summary>
+</bill>

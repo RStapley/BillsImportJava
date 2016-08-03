@@ -1,0 +1,83 @@
+<bill session="114" type="h" number="1037" updated="2015-05-02T04:47:02-04:00">
+  <state datetime="2015-02-24">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-24"/>
+  </status>
+  <introduced datetime="2015-02-24"/>
+  <titles>
+    <title type="short" as="introduced">Ensuring Trust and Honorability in Congressional Standards Act of 2015</title>
+    <title type="short" as="introduced">ETHICS Act of 2015</title>
+    <title type="official" as="introduced">To require all Members, officers, and employees of the House of Representatives to complete annual ethics training, and for other purposes.</title>
+  </titles>
+  <sponsor id="412470"/>
+  <cosponsors>
+    <cosponsor id="412657" joined="2015-03-23"/>
+    <cosponsor id="412605" joined="2015-03-23"/>
+    <cosponsor id="412516" joined="2015-02-27"/>
+    <cosponsor id="412537" joined="2015-03-17"/>
+    <cosponsor id="400618" joined="2015-04-15"/>
+    <cosponsor id="400100" joined="2015-03-17"/>
+    <cosponsor id="412544" joined="2015-03-17"/>
+    <cosponsor id="412533" joined="2015-03-17"/>
+    <cosponsor id="412524" joined="2015-03-23"/>
+    <cosponsor id="400129" joined="2015-03-13"/>
+    <cosponsor id="400130" joined="2015-03-17"/>
+    <cosponsor id="412275" joined="2015-03-13"/>
+    <cosponsor id="400162" joined="2015-03-17"/>
+    <cosponsor id="412498" joined="2015-03-17"/>
+    <cosponsor id="400185" joined="2015-03-17"/>
+    <cosponsor id="400195" joined="2015-03-17"/>
+    <cosponsor id="400211" joined="2015-03-17"/>
+    <cosponsor id="412543" joined="2015-03-17"/>
+    <cosponsor id="412583" joined="2015-03-17"/>
+    <cosponsor id="400218" joined="2015-03-17"/>
+    <cosponsor id="412286" joined="2015-03-17"/>
+    <cosponsor id="412557" joined="2015-03-17"/>
+    <cosponsor id="400230" joined="2015-02-27"/>
+    <cosponsor id="412209" joined="2015-03-17"/>
+    <cosponsor id="412521" joined="2015-03-17"/>
+    <cosponsor id="400246" joined="2015-03-13"/>
+    <cosponsor id="412558" joined="2015-02-27"/>
+    <cosponsor id="400251" joined="2015-03-17"/>
+    <cosponsor id="412632" joined="2015-03-17"/>
+    <cosponsor id="412527" joined="2015-03-23"/>
+    <cosponsor id="412302" joined="2015-05-01"/>
+    <cosponsor id="412523" joined="2015-03-17"/>
+    <cosponsor id="412585" joined="2015-03-17"/>
+    <cosponsor id="412331" joined="2015-03-13"/>
+    <cosponsor id="412483" joined="2015-02-24"/>
+    <cosponsor id="400606" joined="2015-03-23"/>
+    <cosponsor id="400360" joined="2015-03-17"/>
+    <cosponsor id="412396" joined="2015-03-17"/>
+    <cosponsor id="400378" joined="2015-02-27"/>
+    <cosponsor id="412259" joined="2015-03-23"/>
+    <cosponsor id="412254" joined="2015-03-17"/>
+    <cosponsor id="412522" joined="2015-02-27"/>
+    <cosponsor id="412214" joined="2015-03-17"/>
+    <cosponsor id="412412" joined="2015-03-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-24" state="REFERRED">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional officers and employees"/>
+    <term name="Government ethics and transparency, public corruption"/>
+    <term name="Members of Congress"/>
+  </subjects>
+  <amendments/>
+  <summary>2/24/2015--Introduced.
+Ensuring Trust and Honorability in Congressional Standards Act of 2015 or the ETHICS Act of 2015
+
+Requires the Committee on Ethics of the House of Representatives to conduct ongoing ethics training and awareness programs for Members, officers, and employees of the House.
+
+Requires a Member, officer, or employee who serves in or is employed by the House, during each session of Congress, to complete a Committee program by the last day of the session, except that:
+
+ an individual who did not serve or who was not employed in the previous session of Congress, or whose service or employment begins after the first day of the session, must complete the program within 60 days after that service or employment begins; and during the session in which this Act is enacted into law, each Member, officer, and employee must complete the program by the last day of the session or 60 days after the enactment of this Act, whichever occurs earlier.</summary>
+</bill>

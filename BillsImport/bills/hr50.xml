@@ -1,0 +1,96 @@
+<bill session="114" type="hr" number="50" updated="2015-06-24T04:47:26-04:00">
+  <state datetime="2015-04-23">REPORTED</state>
+  <status>
+    <unknown datetime="2015-04-23"/>
+  </status>
+  <introduced datetime="2015-01-26"/>
+  <titles>
+    <title type="official" as="introduced">Calling for the release of Ukrainian fighter pilot Nadiya Savchenko, who was captured by Russian forces in Eastern Ukraine and has been held illegally in a Russian prison since July 2014.</title>
+  </titles>
+  <sponsor id="400238"/>
+  <cosponsors>
+    <cosponsor id="412250" joined="2015-02-04"/>
+    <cosponsor id="412652" joined="2015-02-02"/>
+    <cosponsor id="412236" joined="2015-02-10"/>
+    <cosponsor id="412272" joined="2015-02-26"/>
+    <cosponsor id="412651" joined="2015-02-02"/>
+    <cosponsor id="400103" joined="2015-02-04"/>
+    <cosponsor id="412385" joined="2015-02-04"/>
+    <cosponsor id="400122" joined="2015-02-02"/>
+    <cosponsor id="400646" joined="2015-01-26"/>
+    <cosponsor id="412453" joined="2015-02-26"/>
+    <cosponsor id="400170" joined="2015-02-02"/>
+    <cosponsor id="400641" joined="2015-02-02"/>
+    <cosponsor id="400211" joined="2015-01-26"/>
+    <cosponsor id="412435" joined="2015-02-26"/>
+    <cosponsor id="412595" joined="2015-03-17"/>
+    <cosponsor id="412191" joined="2015-02-26"/>
+    <cosponsor id="412290" joined="2015-02-04"/>
+    <cosponsor id="400630" joined="2015-02-02"/>
+    <cosponsor id="400251" joined="2015-02-02"/>
+    <cosponsor id="412560" joined="2015-03-17"/>
+    <cosponsor id="400309" joined="2015-01-26"/>
+    <cosponsor id="400652" joined="2015-04-13"/>
+    <cosponsor id="412308" joined="2015-02-26"/>
+    <cosponsor id="412331" joined="2015-01-26"/>
+    <cosponsor id="400333" joined="2015-02-26"/>
+    <cosponsor id="412489" joined="2015-02-04"/>
+    <cosponsor id="400350" joined="2015-02-04"/>
+    <cosponsor id="400352" joined="2015-02-02"/>
+    <cosponsor id="400361" joined="2015-02-26"/>
+    <cosponsor id="412399" joined="2015-02-04"/>
+    <cosponsor id="400371" joined="2015-04-23"/>
+    <cosponsor id="412186" joined="2015-04-23"/>
+    <cosponsor id="400378" joined="2015-02-04"/>
+    <cosponsor id="400380" joined="2015-03-17"/>
+    <cosponsor id="400415" joined="2015-06-23"/>
+    <cosponsor id="412574" joined="2015-02-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-26" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2015-02-11">
+      <text>Referred to the Subcommittee on Europe, Eurasia, and Emerging Threats.</text>
+    </action>
+    <action datetime="2015-03-11">
+      <text>Referred to the Subcommittee on Africa, Global Health, Global Human Rights and International Organizations.</text>
+    </action>
+    <action datetime="2015-04-15">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2015-04-15">
+      <text>Forwarded by Subcommittee to Full Committee (Amended) by Unanimous Consent .</text>
+    </action>
+    <action datetime="2015-04-23">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-04-23" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Unanimous Consent.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, Markup"/>
+    <committee activity="Referral" code="HSFA14" subcommittee="Europe, Eurasia, and Emerging Threats" name="House Foreign Affairs"/>
+    <committee activity="Referral, Markup, Reporting" code="HSFA16" subcommittee="Africa, Global Health, Global Human Rights and International Organizations" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="sr" number="52"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Detention of persons"/>
+    <term name="Europe"/>
+    <term name="Human rights"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Russia"/>
+    <term name="Ukraine"/>
+  </subjects>
+  <amendments/>
+  <summary>1/26/2015--Introduced.
+Condemns the Russian Federation for its illegal imprisonment of Nadiya Savchenko, and calls on the Russian Federation to release her immediately.
+
+Calls on the United States, its European allies, and the international community to support efforts to release Nadiya Savchenko and other illegally detained persons.
+
+ Expresses solidarity with the Ukrainian people.</summary>
+</bill>

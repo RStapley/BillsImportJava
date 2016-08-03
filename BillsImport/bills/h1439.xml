@@ -1,0 +1,169 @@
+<bill session="114" type="h" number="1439" updated="2015-07-29T04:47:59-04:00">
+  <state datetime="2015-03-18">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-18"/>
+  </status>
+  <introduced datetime="2015-03-18"/>
+  <titles>
+    <title type="short" as="introduced">Family and Medical Insurance Leave Act</title>
+    <title type="official" as="introduced">To provide paid family and medical leave benefits to certain individuals, and for other purposes.</title>
+  </titles>
+  <sponsor id="400103"/>
+  <cosponsors>
+    <cosponsor id="412607" joined="2015-06-01"/>
+    <cosponsor id="412512" joined="2015-03-18"/>
+    <cosponsor id="412657" joined="2015-04-14"/>
+    <cosponsor id="400033" joined="2015-03-18"/>
+    <cosponsor id="412501" joined="2015-03-18"/>
+    <cosponsor id="412652" joined="2015-07-13"/>
+    <cosponsor id="400047" joined="2015-03-18"/>
+    <cosponsor id="400048" joined="2015-03-18"/>
+    <cosponsor id="400062" joined="2015-03-18"/>
+    <cosponsor id="400063" joined="2015-03-18"/>
+    <cosponsor id="412517" joined="2015-04-14"/>
+    <cosponsor id="412258" joined="2015-03-18"/>
+    <cosponsor id="412195" joined="2015-03-18"/>
+    <cosponsor id="412379" joined="2015-03-18"/>
+    <cosponsor id="412470" joined="2015-03-18"/>
+    <cosponsor id="412600" joined="2015-03-18"/>
+    <cosponsor id="412221" joined="2015-06-23"/>
+    <cosponsor id="412236" joined="2015-03-18"/>
+    <cosponsor id="412272" joined="2015-03-18"/>
+    <cosponsor id="400080" joined="2015-03-18"/>
+    <cosponsor id="412193" joined="2015-03-18"/>
+    <cosponsor id="400087" joined="2015-03-18"/>
+    <cosponsor id="400097" joined="2015-05-14"/>
+    <cosponsor id="412544" joined="2015-03-18"/>
+    <cosponsor id="412385" joined="2015-05-18"/>
+    <cosponsor id="412637" joined="2015-03-18"/>
+    <cosponsor id="400111" joined="2015-03-18"/>
+    <cosponsor id="412263" joined="2015-03-18"/>
+    <cosponsor id="412215" joined="2015-03-18"/>
+    <cosponsor id="400122" joined="2015-03-18"/>
+    <cosponsor id="400124" joined="2015-03-18"/>
+    <cosponsor id="412529" joined="2015-03-18"/>
+    <cosponsor id="412327" joined="2015-03-18"/>
+    <cosponsor id="412382" joined="2015-03-18"/>
+    <cosponsor id="412276" joined="2015-04-13"/>
+    <cosponsor id="400160" joined="2015-03-18"/>
+    <cosponsor id="400162" joined="2015-03-18"/>
+    <cosponsor id="400163" joined="2015-03-18"/>
+    <cosponsor id="412498" joined="2015-03-18"/>
+    <cosponsor id="400170" joined="2015-03-18"/>
+    <cosponsor id="400185" joined="2015-03-18"/>
+    <cosponsor id="412511" joined="2015-03-18"/>
+    <cosponsor id="400211" joined="2015-03-18"/>
+    <cosponsor id="412543" joined="2015-03-18"/>
+    <cosponsor id="412286" joined="2015-04-13"/>
+    <cosponsor id="412557" joined="2015-03-18"/>
+    <cosponsor id="400230" joined="2015-07-10"/>
+    <cosponsor id="400232" joined="2015-03-18"/>
+    <cosponsor id="400233" joined="2015-06-09"/>
+    <cosponsor id="412638" joined="2015-03-18"/>
+    <cosponsor id="400237" joined="2015-03-18"/>
+    <cosponsor id="400240" joined="2015-03-18"/>
+    <cosponsor id="400245" joined="2015-03-18"/>
+    <cosponsor id="412521" joined="2015-03-18"/>
+    <cosponsor id="400246" joined="2015-03-18"/>
+    <cosponsor id="412558" joined="2015-03-18"/>
+    <cosponsor id="400249" joined="2015-03-18"/>
+    <cosponsor id="400251" joined="2015-03-18"/>
+    <cosponsor id="412562" joined="2015-03-18"/>
+    <cosponsor id="400663" joined="2015-03-18"/>
+    <cosponsor id="400259" joined="2015-03-18"/>
+    <cosponsor id="400262" joined="2015-03-18"/>
+    <cosponsor id="400263" joined="2015-03-18"/>
+    <cosponsor id="412189" joined="2015-06-03"/>
+    <cosponsor id="412560" joined="2015-03-18"/>
+    <cosponsor id="400661" joined="2015-04-13"/>
+    <cosponsor id="400289" joined="2015-03-18"/>
+    <cosponsor id="400290" joined="2015-03-18"/>
+    <cosponsor id="408211" joined="2015-07-20"/>
+    <cosponsor id="412606" joined="2015-07-28"/>
+    <cosponsor id="400295" joined="2015-03-18"/>
+    <cosponsor id="400308" joined="2015-03-18"/>
+    <cosponsor id="400309" joined="2015-03-18"/>
+    <cosponsor id="412307" joined="2015-03-18"/>
+    <cosponsor id="412585" joined="2015-07-21"/>
+    <cosponsor id="412308" joined="2015-03-18"/>
+    <cosponsor id="400326" joined="2015-03-18"/>
+    <cosponsor id="400333" joined="2015-03-18"/>
+    <cosponsor id="412647" joined="2015-03-18"/>
+    <cosponsor id="400347" joined="2015-03-18"/>
+    <cosponsor id="400352" joined="2015-03-18"/>
+    <cosponsor id="412312" joined="2015-06-24"/>
+    <cosponsor id="400355" joined="2015-03-18"/>
+    <cosponsor id="400360" joined="2015-03-18"/>
+    <cosponsor id="400361" joined="2015-03-18"/>
+    <cosponsor id="400363" joined="2015-03-18"/>
+    <cosponsor id="400364" joined="2015-03-18"/>
+    <cosponsor id="400366" joined="2015-03-18"/>
+    <cosponsor id="400378" joined="2015-03-18"/>
+    <cosponsor id="412259" joined="2015-03-18"/>
+    <cosponsor id="412514" joined="2015-03-18"/>
+    <cosponsor id="412626" joined="2015-03-18"/>
+    <cosponsor id="412520" joined="2015-03-18"/>
+    <cosponsor id="400403" joined="2015-03-18"/>
+    <cosponsor id="412319" joined="2015-03-18"/>
+    <cosponsor id="412254" joined="2015-03-18"/>
+    <cosponsor id="400415" joined="2015-04-30"/>
+    <cosponsor id="400416" joined="2015-06-03"/>
+    <cosponsor id="400623" joined="2015-03-18"/>
+    <cosponsor id="412412" joined="2015-03-18"/>
+    <cosponsor id="412211" joined="2015-03-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-18" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="786"/>
+  </relatedbills>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Adult day care"/>
+    <term name="Advisory bodies"/>
+    <term name="Child care and development"/>
+    <term name="Civil actions and liability"/>
+    <term name="Congressional oversight"/>
+    <term name="Disability assistance"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Employee leave"/>
+    <term name="Employment discrimination and employee rights"/>
+    <term name="Employment taxes"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Government studies and investigations"/>
+    <term name="Government trust funds"/>
+    <term name="Railroads"/>
+    <term name="Social Security Administration"/>
+    <term name="Social security and elderly assistance"/>
+    <term name="Transportation employees"/>
+    <term name="Wages and earnings"/>
+  </subjects>
+  <amendments/>
+  <summary>3/18/2015--Introduced.
+Family and Medical Insurance Leave Act
+
+Establishes the Office of Paid Family and Medical Leave within the Social Security Administration (SSA), to be headed by the Deputy SSA Commissioner.
+
+Entitles every individual to a family and medical leave insurance (FMLI) benefit payment for each month beginning on the first day of the first month in which the individual meets the criteria specified below and ending 365 days later (benefit period), not to exceed 60 qualified caregiving days per period. Qualifies for such a benefit payment any individual who:
+
+ is insured for disability insurance benefits under the Social Security Act at the time his or her application is filed; has earned income from employment during the 12 months before filing it; has filed an application for a FMLI benefit in accordance with this Act; and was engaged in qualified caregiving (any activity, except regular employment, for a reason entitled to leave under the Family and Medical Leave Act of 1993), or anticipates being so engaged, during the 90-day period before the application is filed or within 30 days after. Prescribes a formula for determination of an individual's monthly FMLI benefit payment, as well as for the maximum and the minimum monthly benefit amounts.
+
+Requires a FMLI benefit payment to be coordinated with any periodic benefits received from temporary disability insurance or family leave insurance programs under any state law or plan, local government, or an instrumentality of two or more states.
+
+Prescribes criteria that makes an individual ineligible for a FMLI benefit payment.
+
+Specifies prohibited acts by an employer, and penalties for violations.
+
+Establishes the Federal Family and Medical Leave Insurance Trust Fund in the Treasury. Requires FMLI benefit payments to be made only from this Fund.
+
+Prohibits the use of amounts from the Social Security Trust Fund or appropriated to the SSA to administer Social Security programs for FMLI benefits or administration.
+
+Amends the Internal Revenue Code to impose a tax on every individual and employer, all self-employment income, and every railroad employee, employee representative, or railroad employer to finance the Federal Family and Medical Leave Insurance Trust Fund in the Treasury for FMLI benefits.</summary>
+</bill>

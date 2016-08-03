@@ -1,0 +1,26 @@
+<bill session="114" type="s" number="2007" updated="2015-08-18T09:46:31-04:00">
+  <state datetime="2015-08-06">REFERRED</state>
+  <status>
+    <introduced datetime="2015-08-06"/>
+  </status>
+  <introduced datetime="2015-08-06"/>
+  <titles>
+    <title type="short" as="introduced">Federal Cybersecurity Workforce Assessment Act</title>
+    <title type="official" as="introduced">A bill to create a consistent framework to expedite the recruitment of highly qualified personnel who perform information technology, cybersecurity, and cyber-related functions to enhance cybersecurity across the Federal Government.</title>
+  </titles>
+  <sponsor id="412330"/>
+  <cosponsors>
+    <cosponsor id="400325" joined="2015-08-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-08-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

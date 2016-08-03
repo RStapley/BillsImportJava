@@ -1,0 +1,108 @@
+<bill session="114" type="h" number="401" updated="2015-06-06T06:21:26-04:00">
+  <state datetime="2015-01-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-16"/>
+  </status>
+  <introduced datetime="2015-01-16"/>
+  <titles>
+    <title type="short" as="introduced">Detaining Terrorists to Protect America Act of 2015</title>
+    <title type="official" as="introduced">To extend and enhance prohibitions and limitations with respect to the transfer or release of individuals detained at United States Naval Station, Guantanamo Bay, Cuba, and for other purposes.</title>
+  </titles>
+  <sponsor id="412538"/>
+  <cosponsors>
+    <cosponsor id="412655" joined="2015-02-13"/>
+    <cosponsor id="412541" joined="2015-02-05"/>
+    <cosponsor id="412395" joined="2015-02-27"/>
+    <cosponsor id="412539" joined="2015-01-27"/>
+    <cosponsor id="412427" joined="2015-02-27"/>
+    <cosponsor id="412601" joined="2015-01-21"/>
+    <cosponsor id="412271" joined="2015-01-27"/>
+    <cosponsor id="412513" joined="2015-01-21"/>
+    <cosponsor id="400086" joined="2015-01-30"/>
+    <cosponsor id="400137" joined="2015-03-10"/>
+    <cosponsor id="400141" joined="2015-01-21"/>
+    <cosponsor id="400158" joined="2015-02-27"/>
+    <cosponsor id="412434" joined="2015-02-05"/>
+    <cosponsor id="412486" joined="2015-02-05"/>
+    <cosponsor id="412623" joined="2015-02-13"/>
+    <cosponsor id="412609" joined="2015-02-13"/>
+    <cosponsor id="412283" joined="2015-01-21"/>
+    <cosponsor id="400196" joined="2015-02-10"/>
+    <cosponsor id="400206" joined="2015-01-27"/>
+    <cosponsor id="412191" joined="2015-01-21"/>
+    <cosponsor id="412256" joined="2015-01-27"/>
+    <cosponsor id="412540" joined="2015-01-27"/>
+    <cosponsor id="412634" joined="2015-02-13"/>
+    <cosponsor id="412474" joined="2015-02-05"/>
+    <cosponsor id="412409" joined="2015-02-05"/>
+    <cosponsor id="400313" joined="2015-02-10"/>
+    <cosponsor id="412551" joined="2015-01-21"/>
+    <cosponsor id="400652" joined="2015-01-30"/>
+    <cosponsor id="412431" joined="2015-01-27"/>
+    <cosponsor id="412426" joined="2015-01-27"/>
+    <cosponsor id="412570" joined="2015-02-27"/>
+    <cosponsor id="412314" joined="2015-01-27"/>
+    <cosponsor id="412417" joined="2015-02-05"/>
+    <cosponsor id="400380" joined="2015-02-05"/>
+    <cosponsor id="412564" joined="2015-01-16"/>
+    <cosponsor id="400433" joined="2015-01-21"/>
+    <cosponsor id="412255" joined="2015-01-27"/>
+    <cosponsor id="412640" joined="2015-01-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-16" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2015-01-21">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H433"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="165"/>
+    <bill relation="unknown" session="114" type="s" number="1376"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Appropriations"/>
+    <term name="Caribbean area"/>
+    <term name="Congressional oversight"/>
+    <term name="Correctional facilities and imprisonment"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Criminal justice information and records"/>
+    <term name="Cuba"/>
+    <term name="Defense spending"/>
+    <term name="Department of Defense"/>
+    <term name="Detention of persons"/>
+    <term name="Human rights"/>
+    <term name="Intelligence activities, surveillance, classified information"/>
+    <term name="International law and treaties"/>
+    <term name="Latin America"/>
+    <term name="Middle East"/>
+    <term name="Military facilities and property"/>
+    <term name="Terrorism"/>
+    <term name="Yemen"/>
+  </subjects>
+  <amendments/>
+  <summary>1/16/2015--Introduced.
+Detaining Terrorists to Protect America Act of 2015
+
+Revises and extends (until two years after enactment of this Act) prohibitions on the use of funds available to any U.S. agency (currently, to the Department of Defense [DOD]) to:
+
+ construct or modify any facility in the United States, its territories, or possessions to house individuals detained in Guantanamo Bay, Cuba, as of October 1, 2009, who are not U.S. citizens or members of the U.S. Armed Forces and who are in the custody or control of DOD or otherwise under detention in the U.S. Naval Station in Guantanamo for the detention or imprisonment in the custody or control of the U.S. government, unless authorized by Congress; or transfer or release to or within the United States, its territories, or possessions Khalid Sheikh Mohammed or any other detainee who is not a U.S. citizen or a member of the U.S. Armed Forces and who was held on (currently, on or after) January 20, 2009, in Guantanamo Bay by DOD. Supersedes and repeals existing prohibitions under National Defense Authorization Act for Fiscal Year 2014 (NDAA) concerning such construction and U.S. transfers that are scheduled to expire on December 31, 2015.
+
+Prohibits until two years after enactment of this Act the transfer or release of any Guantanamo detainee in DOD custody or control to: (1) the Republic of Yemen or any entity within Yemen; or (2) any other foreign country or foreign entity if the individual has ever been determined or assessed by Joint Task Force Guantanamo to be a high-risk or medium-risk to the United States, its interests, or its allies.
+
+Makes the prohibition on the transfer or release of high-risk or medium-risk individuals inapplicable to a U.S. agency head's actions to effectuate an order affecting the disposition of the individual that is issued by a U.S. court or tribunal.
+
+Repeals provisions under the NDAA concerning DOD transfers of Guantanamo detainees to foreign countries. Replaces the repealed provisions with previous authority from the National Defense Authorization Act for Fiscal Year 2013 that prohibits use of DOD funds to transfer Guantanamo detainees to foreign countries or entities unless DOD certifies that the government of the country or the recognized leadership of the entity:
+
+ is not a designated state sponsor of terrorism or foreign terrorist organization, maintains control over detention facilities and is not facing threats likely to affect its control over the individual, agrees to take actions to ensure that the individual cannot engage in terrorist activities or threaten U.S. citizens or allies, and agrees to share with the United States information regarding the individual or the individual's associates that could affect security of the United States or its allies. Prohibits transfers to a country or entity if any Guantanamo detainee transferred to that country or entity subsequently engaged in any terrorist activity. Authorizes DOD to waive certain certification requirements or prohibitions in the interest of national security.
+
+Delays DOD transfer procedures from applying to high-risk or medium-risk Guantanamo detainees until after the two-year prohibition on such transfers. Prohibits terrorist activity recidivism exceptions and national security waivers from authorizing transfers to Yemen during the two-year prohibition on Yemen transfers.
+
+Directs DOD to submit a list of Guantanamo detainees determined by the Task Force to be high-risk or medium-risk.</summary>
+</bill>

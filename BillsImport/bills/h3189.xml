@@ -1,0 +1,50 @@
+<bill session="114" type="h" number="3189" updated="2015-07-31T04:47:19-04:00">
+  <state datetime="2015-07-29">REPORTED</state>
+  <status>
+    <unknown datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-23"/>
+  <titles>
+    <title type="short" as="introduced">Fed Oversight Reform and Modernization Act of 2015</title>
+    <title type="short" as="introduced">FORM Act of 2015</title>
+    <title type="official" as="introduced">To amend the Federal Reserve Act to establish requirements for policy rules and blackout periods of the Federal Open Market Committee, to establish requirements for certain activities of the Board of Governors of the Federal Reserve System, and to amend title 31, United States Code, to reform the manner in which the Board of Governors of the Federal Reserve System is audited, and for other purposes.</title>
+  </titles>
+  <sponsor id="412437"/>
+  <cosponsors>
+    <cosponsor id="412639" joined="2015-07-27"/>
+    <cosponsor id="412479" joined="2015-07-27"/>
+    <cosponsor id="400145" joined="2015-07-28"/>
+    <cosponsor id="412422" joined="2015-07-29"/>
+    <cosponsor id="412540" joined="2015-07-27"/>
+    <cosponsor id="412474" joined="2015-07-28"/>
+    <cosponsor id="412570" joined="2015-07-29"/>
+    <cosponsor id="412392" joined="2015-07-27"/>
+    <cosponsor id="412578" joined="2015-07-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-23" state="REFERRED">
+      <text>Referred to the Committee on Financial Services, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-07-23">
+      <text>Referred to House Financial Services</text>
+    </action>
+    <action datetime="2015-07-23">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-07-29" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 33 - 25.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, Markup"/>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+  </subjects>
+  <amendments/>
+</bill>

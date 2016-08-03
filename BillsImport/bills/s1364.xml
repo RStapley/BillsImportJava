@@ -1,0 +1,41 @@
+<bill session="114" type="s" number="1364" updated="2015-07-25T07:00:37-04:00">
+  <state datetime="2015-05-18">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-18"/>
+  </status>
+  <introduced datetime="2015-05-18"/>
+  <titles>
+    <title type="short" as="introduced">Medicaid Generic Drug Price Fairness Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend title XIX of the Social Security Act to require the payment of an additional rebate to the State Medicaid plan in the case of increase in the price of a generic drug at a rate that is greater than the rate of inflation.</title>
+  </titles>
+  <sponsor id="400357"/>
+  <cosponsors>
+    <cosponsor id="412490" joined="2015-05-18"/>
+    <cosponsor id="400050" joined="2015-05-18"/>
+    <cosponsor id="412378" joined="2015-05-18"/>
+    <cosponsor id="412200" joined="2015-05-18"/>
+    <cosponsor id="412542" joined="2015-06-01"/>
+    <cosponsor id="412247" joined="2015-06-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-18" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="2391"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Medicaid"/>
+    <term name="Prescription drugs"/>
+  </subjects>
+  <amendments/>
+  <summary>5/18/2015--Introduced.
+Medicaid Generic Drug Price Fairness Act of 2015
+
+This bill amends title XIX (Medicaid) of the Social Security Act to increase the amount of rebate with respect to each generic drug in the manner that the rebate for a dosage form and strength of a single source drug or an innovator multiple source drug is increased, except as provided in special application rules, including a special rule for certain noninnovator multiple source drugs.</summary>
+</bill>

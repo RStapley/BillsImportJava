@@ -1,0 +1,40 @@
+<bill session="114" type="h" number="1280" updated="2015-05-01T04:48:22-04:00">
+  <state datetime="2015-03-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-04"/>
+  </status>
+  <introduced datetime="2015-03-04"/>
+  <titles>
+    <title type="short" as="introduced">Skills Connection Act</title>
+    <title type="official" as="introduced">To direct the Secretary of Labor to create a searchable database containing a credentials registry, a skills database, and a jobs bank.</title>
+  </titles>
+  <sponsor id="412407"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-03-04" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+    <action datetime="2015-04-29">
+      <text>Referred to the Subcommittee on Higher Education and Workforce Training.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee activity="Referral" code="HSED13" subcommittee="Higher Education and Workforce Training" name="House Education and the Workforce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Employment and training programs"/>
+    <term name="Government information and archives"/>
+    <term name="Manufacturing"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+  </subjects>
+  <amendments/>
+  <summary>3/4/2015--Introduced.
+Skills Connection Act
+
+ Directs the Secretary of Labor to create a searchable and publicly available database containing a registry of industry-recognized credentials, a skills database, and a jobs bank to enable programs that lead to such credentials to receive priority under:
+
+ youth workforce investment programs, statewide employment and training programs, career and technical programs, and training programs for Trade Adjustment Assistance workers. Makes funds available from amounts appropriated for each fiscal year for the Workforce Innovation Fund for the costs of carrying out this Act.</summary>
+</bill>

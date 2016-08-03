@@ -1,0 +1,52 @@
+<bill session="114" type="h" number="1416" updated="2015-05-09T06:33:03-04:00">
+  <state datetime="2015-03-18">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-18"/>
+  </status>
+  <introduced datetime="2015-03-18"/>
+  <titles>
+    <title type="short" as="introduced">Cancer Patient Protection Act of 2015</title>
+    <title type="official" as="introduced">To prevent application of sequestration to payment for certain physician-administered drugs under part B of the Medicare program in fiscal years 2016 and 2017, and for other purposes.</title>
+  </titles>
+  <sponsor id="412457"/>
+  <cosponsors>
+    <cosponsor id="400032" joined="2015-04-13"/>
+    <cosponsor id="412196" joined="2015-03-25"/>
+    <cosponsor id="400142" joined="2015-04-21"/>
+    <cosponsor id="400195" joined="2015-03-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-18" state="REFERRED">
+      <text>Referred to the Committee on the Budget, and in addition to the Committees on Ways and Means, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-03-18">
+      <text>Referred to House Budget</text>
+    </action>
+    <action datetime="2015-03-18">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-03-18">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-03-20">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBU" name="House Budget" activity="Referral"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+  <summary>3/18/2015--Introduced.
+Cancer Patient Protection Act of 2015
+
+This bill requires any new presidential sequestration order for FY2016-FY2017 to declare that no reduction shall be made with respect to payments for physician-administered drugs and biologicals under part B (Supplementary Medical Insurance) of title XVIII (Medicare) of the Social Security Act to the extent that such payments are made based on their average sales price.
+
+The Government Accountability Office must examine the shift of cancer care from physician-run community cancer clinics to hospitals and its consequences to costs to the federal government and to Medicare beneficiaries for cancer care under the Medicare program.</summary>
+</bill>

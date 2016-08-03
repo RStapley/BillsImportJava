@@ -1,0 +1,51 @@
+<bill session="114" type="h" number="1296" updated="2015-08-15T06:30:02-04:00">
+  <state datetime="2015-03-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-04"/>
+  </status>
+  <introduced datetime="2015-03-04"/>
+  <titles>
+    <title type="official" as="introduced">To amend the San Luis Rey Indian Water Rights Settlement Act to clarify certain settlement terms, and for other purposes.</title>
+  </titles>
+  <sponsor id="412283"/>
+  <cosponsors>
+    <cosponsor id="400057" joined="2015-03-04"/>
+    <cosponsor id="400077" joined="2015-03-04"/>
+    <cosponsor id="400162" joined="2015-03-04"/>
+    <cosponsor id="412511" joined="2015-03-04"/>
+    <cosponsor id="412523" joined="2015-03-04"/>
+    <cosponsor id="400343" joined="2015-03-04"/>
+    <cosponsor id="400356" joined="2015-03-04"/>
+    <cosponsor id="412522" joined="2015-03-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-04" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2015-03-23">
+      <text>Referred to the Subcommittee on Water, Power and Oceans.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII13" subcommittee="Water, Power and Oceans" name="House Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Native Americans"/>
+    <term name="California"/>
+    <term name="Federal-Indian relations"/>
+    <term name="Indian claims"/>
+    <term name="Indian lands and resources rights"/>
+    <term name="Water use and supply"/>
+  </subjects>
+  <amendments/>
+  <summary>3/4/2015--Introduced.
+This bill amends the San Luis Rey Indian Water Rights Settlement Act to approve and ratify all provisions of the settlement agreement dated January 30, 2015, and approved by the La Jolla, Rincon, San Pasqual, Pauma, and Pala Bands of Mission Indians (California), the San Luis Rey River Indian Water Authority, the City of Escondido, California, the Vista Irrigation District, and the United States.
+
+The Departments of the Interior and Justice are authorized to execute the agreement and any amendments approved by the parties as necessary to make it consistent with such Act. (However, such execution shall not constitute a major federal action under the National Environmental Policy Act of 1969.) Interior is authorized to take steps necessary to implement the agreement and such Act.
+
+The Bands will continue to possess federally reserved rights and other water rights held in trust by the United States. In any proceeding involving the assertion, enforcement, or defense of such rights, the United States shall not be a required party and and any decision by the United States regarding participation in any such proceeding shall not be subject to judicial review or give rise to any claim for relief against the United States.
+
+Congress confirms that the benefits to allottees in the agreement are equitable and fully satisfy their water rights.</summary>
+</bill>

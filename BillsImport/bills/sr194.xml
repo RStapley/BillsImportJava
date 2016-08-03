@@ -1,0 +1,32 @@
+<bill session="114" type="sr" number="194" updated="2015-06-11T04:48:36-04:00">
+  <state datetime="2015-06-08">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-08"/>
+  </status>
+  <introduced datetime="2015-06-08"/>
+  <titles>
+    <title type="official" as="introduced">A resolution welcoming the President of the Republic of Korea on her official visit to the United States and celebrating the United States-Republic of Korea relationship, and for other purposes.</title>
+  </titles>
+  <sponsor id="412406"/>
+  <cosponsors>
+    <cosponsor id="400064" joined="2015-06-08"/>
+    <cosponsor id="412491" joined="2015-06-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-08" state="REFERRED">
+      <text>Referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+  </subjects>
+  <amendments/>
+  <summary>6/8/2015--Introduced.
+Welcomes Her Excellency Park Geun-hye, the President of the Republic of Korea, on her official U.S. visit.
+
+ Reaffirms the importance of the U.S.-Republic of Korea alliance, as enshrined in the Mutual Defense Treaty of 1953, and encourages the U.S. government and the government of the Republic of Korea to enhance cooperation in the security, economic, scientific, health, and cultural spheres.</summary>
+</bill>

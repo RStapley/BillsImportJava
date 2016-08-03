@@ -1,0 +1,139 @@
+<bill session="114" type="h" number="529" updated="2015-04-17T04:55:22-04:00">
+  <state datetime="2015-02-25T15:53:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2015-02-25T15:53:00-05:00"/>
+  </status>
+  <introduced datetime="2015-01-26"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to improve 529 plans.</title>
+  </titles>
+  <sponsor id="412284"/>
+  <cosponsors>
+    <cosponsor id="412500" joined="2015-02-02"/>
+    <cosponsor id="412436" joined="2015-02-02"/>
+    <cosponsor id="412512" joined="2015-02-04"/>
+    <cosponsor id="412627" joined="2015-02-10"/>
+    <cosponsor id="412601" joined="2015-02-02"/>
+    <cosponsor id="412272" joined="2015-02-10"/>
+    <cosponsor id="412513" joined="2015-01-28"/>
+    <cosponsor id="412479" joined="2015-02-10"/>
+    <cosponsor id="400646" joined="2015-01-28"/>
+    <cosponsor id="400137" joined="2015-02-04"/>
+    <cosponsor id="412453" joined="2015-01-27"/>
+    <cosponsor id="400154" joined="2015-02-03"/>
+    <cosponsor id="412620" joined="2015-02-03"/>
+    <cosponsor id="412661" joined="2015-02-11"/>
+    <cosponsor id="412446" joined="2015-02-04"/>
+    <cosponsor id="412609" joined="2015-02-03"/>
+    <cosponsor id="412282" joined="2015-02-11"/>
+    <cosponsor id="412437" joined="2015-02-02"/>
+    <cosponsor id="400206" joined="2015-02-10"/>
+    <cosponsor id="412465" joined="2015-01-27"/>
+    <cosponsor id="400218" joined="2015-01-26"/>
+    <cosponsor id="400224" joined="2015-02-03"/>
+    <cosponsor id="412557" joined="2015-02-04"/>
+    <cosponsor id="412256" joined="2015-02-11"/>
+    <cosponsor id="400656" joined="2015-02-02"/>
+    <cosponsor id="412466" joined="2015-02-03"/>
+    <cosponsor id="400297" joined="2015-02-05"/>
+    <cosponsor id="412303" joined="2015-01-27"/>
+    <cosponsor id="412523" joined="2015-02-03"/>
+    <cosponsor id="400652" joined="2015-02-05"/>
+    <cosponsor id="412633" joined="2015-02-02"/>
+    <cosponsor id="412202" joined="2015-02-10"/>
+    <cosponsor id="400367" joined="2015-02-11"/>
+    <cosponsor id="412596" joined="2015-02-13"/>
+    <cosponsor id="412392" joined="2015-01-28"/>
+    <cosponsor id="400403" joined="2015-02-11"/>
+    <cosponsor id="412610" joined="2015-02-03"/>
+    <cosponsor id="412428" joined="2015-02-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-26" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="2015-02-12">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-02-12" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+    <action datetime="2015-02-20T11:26:00-05:00">
+      <text>Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-25.</text>
+    </action>
+    <calendar datetime="2015-02-20T11:27:00-05:00" calendar="Union" number="17">
+      <text>Placed on the Union Calendar, Calendar No. 17.</text>
+    </calendar>
+    <action datetime="2015-02-24T19:14:00-05:00">
+      <text>Rules Committee Resolution H. Res. 121 Reported to House. Rule provides for consideration of H.R. 529 and H.R. 5. Provides for one hour of debate, waives all points of order against consideration of the bills. Section 1 of the resolution provides that the amendment in the nature of a substitute printed in the bill shall be considered as adopted and the bill, as amended shall be considered read. The resolution provides one motion to recommit with or without instructions. Section 2 provides that no further consideration of H.R. 5 shall be in order except pursuant to a subsequent order of the House. Section 3 waives the requirement of clause 6(a) of rule XIII for a two-thirds vote to consider a report from the Committee on Rules on the same day it is presented to the House with respect to any resolution reported through the legislative day of March 2, 2015, relating to a measure making continuing appropriations for the Department of Homeland Security for the fiscal year</text>
+    </action>
+    <action datetime="2015-02-25T14:32:00-05:00">
+      <text>Considered under the provisions of rule H. Res. 121.</text>
+      <reference ref="CR H1135-1142" label="consideration"/>
+    </action>
+    <action datetime="2015-02-25T14:32:00-05:00">
+      <text>Rule provides for consideration of H.R. 529 and H.R. 5. Provides for one hour of debate, waives all points of order against consideration of the bills. Section 1 of the resolution provides that the amendment in the nature of a substitute printed in the bill shall be considered as adopted and the bill, as amended shall be considered read. The resolution provides one motion to recommit with or without instructions. Section 2 provides that no further consideration of H.R. 5 shall be in order except pursuant to a subsequent order of the House. Section 3 waives the requirement of clause 6(a) of rule XIII for a two-thirds vote to consider a report from the Committee on Rules on the same day it is presented to the House with respect to any resolution reported through the legislative day of March 2, 2015, relating to a measure making continuing appropriations for the Department of Homeland Security for the fiscal year ending September 30, 2015. Section 4 provides that it shall be in order at any time through the calendar day of March 1, 2015, for the Speaker to entertain motions that the House suspend the rules as though under clause 1 of rule XV, relating to a measure making or continuing appropriations for the Department of Homeland Security for the fiscal year ending September 30, 2015.</text>
+    </action>
+    <action datetime="2015-02-25T14:33:00-05:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.R. 529.</text>
+    </action>
+    <action datetime="2015-02-25T15:06:00-05:00">
+      <text>Mr. Lieu, Ted moved to recommit with instructions to the Committee on Ways and Means.</text>
+      <reference ref="CR H1139-1141" label="consideration"/>
+      <reference ref="CR H1139-1140" label="text"/>
+    </action>
+    <action datetime="2015-02-25T15:06:00-05:00">
+      <text>DEBATE - The House proceeded with 10 minutes of debate on the Ted Lieu motion to recommit with instructions pending a reservation of a point of order. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment adding new sections on parents' right to know cost of brokerage fees and impact on long-term savings and rates of return and low fees. Subsequently, the reservation was removed.</text>
+    </action>
+    <action datetime="2015-02-25T15:11:00-05:00">
+      <text>The previous question on the motion to recommit with instructions was ordered without objection.</text>
+      <reference ref="CR H1140" label="consideration"/>
+    </action>
+    <action datetime="2015-02-25T15:43:00-05:00">
+      <text>On motion to recommit with instructions Failed by the Yeas and Nays: 176 - 243 (Roll no. 89).</text>
+    </action>
+    <vote how="roll" type="vote" roll="90" datetime="2015-02-25T15:53:00-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by recorded vote: 401 - 20 (Roll no. 90).</text>
+      <reference ref="CR H1135-1136" label="text"/>
+    </vote>
+    <action datetime="2015-02-25T15:53:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2015-02-26">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="2015-04-16">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, Markup, Reporting"/>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="hr" number="121"/>
+    <bill relation="rule" session="114" type="hr" number="121"/>
+    <bill relation="identical" session="114" type="s" number="335"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Computers and information technology"/>
+    <term name="Educational technology and distance education"/>
+    <term name="Higher education"/>
+    <term name="Income tax exclusion"/>
+    <term name="Student aid and college costs"/>
+  </subjects>
+  <amendments>
+    <amendment number="h23"/>
+  </amendments>
+  <summary>2/25/2015--Passed House amended.
+(This measure has not been amended since it was reported to the House on February 20, 2015. The summary of that version is repeated here.)
+
+This bill makes changes to the rules for qualified tuition programs (known as 529 plans).
+
+(Sec. 2) The Internal Revenue Code is amended to allow payments from 529 plans for the purchase of computer or peripheral equipment, computer software, or Internet access and related services to be used primarily by a 529 plan beneficiary while enrolled in an eligible educational institution.
+
+(Sec. 3) The requirement that distributions from a 529 plan be aggregated for purposes of determining the amount includible in a taxpayer's income is eliminated.
+
+(Sec. 4) Students who receive a refund from an eligible educational institution can recontribute such refund to a 529 plan without tax consequences if the recontribution is made not later than 60 days after the date of such refund and does not exceed the refunded amount.</summary>
+</bill>

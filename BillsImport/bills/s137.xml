@@ -1,0 +1,43 @@
+<bill session="114" type="s" number="137" updated="2015-03-21T06:32:17-04:00">
+  <state datetime="2015-01-08">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-08"/>
+  </status>
+  <introduced datetime="2015-01-08"/>
+  <titles>
+    <title type="short" as="introduced">Taxpayer Protection and Preparer Proficiency Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend title 31, United States Code, to direct the Secretary of the Treasury to regulate tax return preparers.</title>
+  </titles>
+  <sponsor id="300100"/>
+  <cosponsors>
+    <cosponsor id="400064" joined="2015-01-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-08">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S103-104"/>
+    </action>
+    <action datetime="2015-01-08" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <reference ref="CR S104" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="676"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Administrative remedies"/>
+    <term name="Department of the Treasury"/>
+    <term name="Fraud offenses and financial crimes"/>
+    <term name="Tax administration and collection, taxpayers"/>
+  </subjects>
+  <amendments/>
+  <summary>1/8/2015--Introduced.
+Taxpayer Protection and Preparer Proficiency Act of 2015 
+
+This bill gives the Secretary of the Treasury the authority to regulate the practice of tax return preparers and to sanction preparers for incompetency or misconduct.</summary>
+</bill>

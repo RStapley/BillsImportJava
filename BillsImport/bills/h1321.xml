@@ -1,0 +1,72 @@
+<bill session="114" type="h" number="1321" updated="2015-08-01T04:50:38-04:00">
+  <state datetime="2015-03-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-04"/>
+  </status>
+  <introduced datetime="2015-03-04"/>
+  <titles>
+    <title type="short" as="introduced">Microbead-Free Waters Act of 2015</title>
+    <title type="official" as="introduced">To prohibit the sale or distribution of cosmetics containing synthetic plastic microbeads.</title>
+  </titles>
+  <sponsor id="400308"/>
+  <cosponsors>
+    <cosponsor id="412657" joined="2015-06-17"/>
+    <cosponsor id="400033" joined="2015-06-17"/>
+    <cosponsor id="412537" joined="2015-06-17"/>
+    <cosponsor id="412272" joined="2015-06-01"/>
+    <cosponsor id="400100" joined="2015-07-07"/>
+    <cosponsor id="412613" joined="2015-06-11"/>
+    <cosponsor id="412420" joined="2015-06-17"/>
+    <cosponsor id="412215" joined="2015-07-14"/>
+    <cosponsor id="400129" joined="2015-06-02"/>
+    <cosponsor id="400162" joined="2015-06-18"/>
+    <cosponsor id="400185" joined="2015-06-11"/>
+    <cosponsor id="412511" joined="2015-06-18"/>
+    <cosponsor id="412546" joined="2015-04-29"/>
+    <cosponsor id="400232" joined="2015-06-25"/>
+    <cosponsor id="412616" joined="2015-06-23"/>
+    <cosponsor id="400630" joined="2015-07-14"/>
+    <cosponsor id="400245" joined="2015-06-03"/>
+    <cosponsor id="412521" joined="2015-06-04"/>
+    <cosponsor id="400262" joined="2015-06-04"/>
+    <cosponsor id="400276" joined="2015-06-02"/>
+    <cosponsor id="412632" joined="2015-06-10"/>
+    <cosponsor id="400290" joined="2015-07-07"/>
+    <cosponsor id="412575" joined="2015-06-17"/>
+    <cosponsor id="412308" joined="2015-07-31"/>
+    <cosponsor id="400326" joined="2015-06-02"/>
+    <cosponsor id="400360" joined="2015-07-27"/>
+    <cosponsor id="400361" joined="2015-06-11"/>
+    <cosponsor id="412648" joined="2015-07-27"/>
+    <cosponsor id="412636" joined="2015-06-25"/>
+    <cosponsor id="400414" joined="2015-03-04"/>
+    <cosponsor id="412239" joined="2015-06-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-04" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-03-06">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="1424"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Drug safety, medical device, and laboratory regulation"/>
+    <term name="Hazardous wastes and toxic substances"/>
+    <term name="Marine pollution"/>
+    <term name="Water quality"/>
+  </subjects>
+  <amendments/>
+  <summary>3/4/2015--Introduced.
+Microbead-Free Waters Act of 2015
+
+This bill amends the Federal Food, Drug, and Cosmetic Act to ban cosmetics that contain synthetic plastic microbeads beginning on January 1, 2018.</summary>
+</bill>

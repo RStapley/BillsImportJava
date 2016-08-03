@@ -1,0 +1,49 @@
+<bill session="114" type="hr" number="320" updated="2015-07-01T04:46:37-04:00">
+  <state datetime="2015-06-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-16"/>
+  </status>
+  <introduced datetime="2015-06-16"/>
+  <titles>
+    <title type="official" as="introduced">Expressing the sense of Congress that a grateful Nation honors and salutes Sons and Daughters in Touch on its 25th anniversary that is being celebrated on Father's Day, 2015, at the Vietnam Veterans Memorial in Washington, the District of Columbia.</title>
+  </titles>
+  <sponsor id="412498"/>
+  <cosponsors>
+    <cosponsor id="412524" joined="2015-06-16"/>
+    <cosponsor id="400209" joined="2015-06-16"/>
+    <cosponsor id="400263" joined="2015-06-16"/>
+    <cosponsor id="412618" joined="2015-06-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-16" state="REFERRED">
+      <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-06-16">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2015-06-16">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2015-06-17">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H4445"/>
+    </action>
+    <action datetime="2015-06-30">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR09" subcommittee="Disability Assistance and Memorial Affairs" name="House Veterans' Affairs"/>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <summary>6/16/2015--Introduced.
+Honors Sons and Daughters in Touch on its 25th anniversary that is being celebrated at the Vietnam Veterans Memorial in Washington, DC.
+
+Expresses gratitude for the service and sacrifice of their fathers who were U.S. Armed Forces members and served in the Vietnam war.</summary>
+</bill>

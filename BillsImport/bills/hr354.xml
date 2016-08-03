@@ -1,0 +1,105 @@
+<bill session="114" type="hr" number="354" updated="2015-08-22T04:47:06-04:00">
+  <state datetime="2015-07-09">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-09"/>
+  </status>
+  <introduced datetime="2015-07-09"/>
+  <titles>
+    <title type="official" as="introduced">Expressing the sense of the House of Representatives regarding the safety and security of Jewish communities in Europe.</title>
+  </titles>
+  <sponsor id="400380"/>
+  <cosponsors>
+    <cosponsor id="412250" joined="2015-07-21"/>
+    <cosponsor id="412652" joined="2015-07-20"/>
+    <cosponsor id="400047" joined="2015-07-14"/>
+    <cosponsor id="412601" joined="2015-07-28"/>
+    <cosponsor id="412622" joined="2015-07-20"/>
+    <cosponsor id="412571" joined="2015-07-16"/>
+    <cosponsor id="412271" joined="2015-07-27"/>
+    <cosponsor id="412236" joined="2015-07-22"/>
+    <cosponsor id="412513" joined="2015-07-23"/>
+    <cosponsor id="400087" joined="2015-07-13"/>
+    <cosponsor id="412621" joined="2015-07-20"/>
+    <cosponsor id="400097" joined="2015-07-13"/>
+    <cosponsor id="412526" joined="2015-07-29"/>
+    <cosponsor id="412385" joined="2015-07-09"/>
+    <cosponsor id="400108" joined="2015-07-13"/>
+    <cosponsor id="412672" joined="2015-07-31"/>
+    <cosponsor id="400122" joined="2015-07-09"/>
+    <cosponsor id="400646" joined="2015-07-14"/>
+    <cosponsor id="412529" joined="2015-07-27"/>
+    <cosponsor id="400141" joined="2015-07-28"/>
+    <cosponsor id="400157" joined="2015-07-09"/>
+    <cosponsor id="412276" joined="2015-07-21"/>
+    <cosponsor id="400653" joined="2015-07-22"/>
+    <cosponsor id="412454" joined="2015-07-20"/>
+    <cosponsor id="400195" joined="2015-07-09"/>
+    <cosponsor id="412460" joined="2015-07-23"/>
+    <cosponsor id="412226" joined="2015-07-27"/>
+    <cosponsor id="412566" joined="2015-07-13"/>
+    <cosponsor id="400211" joined="2015-07-13"/>
+    <cosponsor id="412583" joined="2015-07-22"/>
+    <cosponsor id="400219" joined="2015-07-14"/>
+    <cosponsor id="400224" joined="2015-07-14"/>
+    <cosponsor id="412191" joined="2015-07-22"/>
+    <cosponsor id="412290" joined="2015-07-20"/>
+    <cosponsor id="412256" joined="2015-07-22"/>
+    <cosponsor id="400246" joined="2015-07-09"/>
+    <cosponsor id="400259" joined="2015-07-31"/>
+    <cosponsor id="400263" joined="2015-07-28"/>
+    <cosponsor id="412552" joined="2015-07-13"/>
+    <cosponsor id="412527" joined="2015-07-28"/>
+    <cosponsor id="400285" joined="2015-07-23"/>
+    <cosponsor id="400289" joined="2015-07-28"/>
+    <cosponsor id="412660" joined="2015-07-20"/>
+    <cosponsor id="400309" joined="2015-07-16"/>
+    <cosponsor id="412308" joined="2015-07-28"/>
+    <cosponsor id="412647" joined="2015-07-13"/>
+    <cosponsor id="412483" joined="2015-07-31"/>
+    <cosponsor id="400343" joined="2015-07-22"/>
+    <cosponsor id="400344" joined="2015-07-09"/>
+    <cosponsor id="412202" joined="2015-07-09"/>
+    <cosponsor id="400360" joined="2015-07-13"/>
+    <cosponsor id="412399" joined="2015-07-20"/>
+    <cosponsor id="400367" joined="2015-07-23"/>
+    <cosponsor id="412186" joined="2015-07-21"/>
+    <cosponsor id="412514" joined="2015-07-23"/>
+    <cosponsor id="400406" joined="2015-07-20"/>
+    <cosponsor id="412319" joined="2015-07-13"/>
+    <cosponsor id="412636" joined="2015-07-31"/>
+    <cosponsor id="400415" joined="2015-07-23"/>
+    <cosponsor id="412522" joined="2015-07-22"/>
+    <cosponsor id="412579" joined="2015-07-16"/>
+    <cosponsor id="412538" joined="2015-07-29"/>
+    <cosponsor id="400623" joined="2015-07-13"/>
+    <cosponsor id="412574" joined="2015-07-22"/>
+    <cosponsor id="412412" joined="2015-07-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-09" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2015-08-20">
+      <text>Referred to the Subcommittee on Africa, Global Health, Global Human Rights and International Organizations.</text>
+    </action>
+    <action datetime="2015-08-20">
+      <text>Referred to the Subcommittee on Europe, Eurasia, and Emerging Threats.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSFA16" subcommittee="Africa, Global Health, Global Human Rights and International Organizations" name="House Foreign Affairs"/>
+    <committee activity="Referral" code="HSFA14" subcommittee="Europe, Eurasia, and Emerging Threats" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+  </subjects>
+  <amendments/>
+  <summary>7/9/2015--Introduced.
+Urges the U.S. government to work with European governments and European law enforcement agencies encouraging them to:
+
+ partner with, share information, and train Jewish community groups to strengthen preparedness and response to anti-Semitic attacks; consider formal partnerships in the United States, United Kingdom, and France between government entities and Jewish community security groups as examples of such partnering; support assessments of the environments of hate crimes and anti-Semitism, including analysis of crimes and law enforcement and community response, and cooperation between European governments and intergovernmental and interorganizational entities; help Jewish communities develop safety standards; implement a standardized pan-European information-sharing and alerting system among governments, inter-governmental agencies, and Jewish communities; ensure that law enforcement personnel are trained to monitor, prevent, and respond to anti-Semitic violence, and that senior officials with commensurate authority and resources have been appointed to combat anti-Semitism; and work with law enforcement associations and other relevant professional entities to combat anti-Semitism. Supports the mandate of the United States Special Envoy to Monitor and Combat Anti-Semitism as part of the broader policy priority of fostering international religious freedom.
+
+Urges the Department of State to continue U.S. reporting on anti-Semitism by the Department and the Special Envoy to Combat and Monitor Anti-Semitism.</summary>
+</bill>

@@ -1,0 +1,68 @@
+<bill session="114" type="h" number="980" updated="2015-07-10T04:47:27-04:00">
+  <state datetime="2015-02-13">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-13"/>
+  </status>
+  <introduced datetime="2015-02-13"/>
+  <titles>
+    <title type="short" as="introduced">Vessel Incidental Discharge Act</title>
+    <title type="official" as="introduced">To provide for the establishment of nationally uniform and environmentally sound standards governing discharges incidental to the normal operation of a vessel.</title>
+  </titles>
+  <sponsor id="412283"/>
+  <cosponsors>
+    <cosponsor id="412630" joined="2015-04-23"/>
+    <cosponsor id="412629" joined="2015-06-15"/>
+    <cosponsor id="400636" joined="2015-06-24"/>
+    <cosponsor id="400086" joined="2015-04-30"/>
+    <cosponsor id="400089" joined="2015-04-21"/>
+    <cosponsor id="400090" joined="2015-02-13"/>
+    <cosponsor id="412536" joined="2015-05-19"/>
+    <cosponsor id="400137" joined="2015-04-22"/>
+    <cosponsor id="412620" joined="2015-04-14"/>
+    <cosponsor id="400158" joined="2015-04-22"/>
+    <cosponsor id="412603" joined="2015-04-15"/>
+    <cosponsor id="400219" joined="2015-04-23"/>
+    <cosponsor id="400244" joined="2015-02-13"/>
+    <cosponsor id="412292" joined="2015-04-21"/>
+    <cosponsor id="412432" joined="2015-04-21"/>
+    <cosponsor id="412202" joined="2015-05-13"/>
+    <cosponsor id="412261" joined="2015-04-15"/>
+    <cosponsor id="412626" joined="2015-05-19"/>
+    <cosponsor id="400402" joined="2015-04-15"/>
+    <cosponsor id="412255" joined="2015-07-09"/>
+    <cosponsor id="412428" joined="2015-06-03"/>
+    <cosponsor id="412646" joined="2015-06-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-13" state="REFERRED">
+      <text>Referred to the House Committee on Transportation.</text>
+    </action>
+    <action datetime="2015-02-17">
+      <text>Referred to the Subcommittee on Coast Guard and Maritime Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW07" subcommittee="Coast Guard and Maritime Transportation" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="373"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Administrative remedies"/>
+    <term name="Aquatic ecology"/>
+    <term name="Coast guard"/>
+    <term name="Department of Homeland Security"/>
+    <term name="Environmental regulatory procedures"/>
+    <term name="Environmental technology"/>
+    <term name="Hazardous wastes and toxic substances"/>
+    <term name="Licensing and registrations"/>
+    <term name="Marine and inland water transportation"/>
+    <term name="Marine pollution"/>
+    <term name="Technology assessment"/>
+    <term name="Water quality"/>
+  </subjects>
+  <amendments/>
+</bill>

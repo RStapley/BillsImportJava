@@ -1,0 +1,27 @@
+<bill session="114" type="s" number="1920" updated="2015-08-15T07:07:53-04:00">
+  <state datetime="2015-08-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-08-04"/>
+  </status>
+  <introduced datetime="2015-08-04"/>
+  <titles>
+    <title type="official" as="introduced">A bill to require the Comptroller General of the United States to develop and submit to Congress a biennial report on the current state of the skills gap in the United States, as of the date of the report, that includes an analysis of the effectiveness of efforts to close the skills gap and policy recommendations to improve such efforts, and for other purposes.</title>
+  </titles>
+  <sponsor id="412205"/>
+  <cosponsors>
+    <cosponsor id="412218" joined="2015-08-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-08-04" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Labor and employment"/>
+  </subjects>
+  <amendments/>
+</bill>

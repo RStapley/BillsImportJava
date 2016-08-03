@@ -1,0 +1,56 @@
+<bill session="114" type="h" number="2612" updated="2015-08-11T04:47:58-04:00">
+  <state datetime="2015-06-02">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-02"/>
+  </status>
+  <introduced datetime="2015-06-02"/>
+  <titles>
+    <title type="official" as="introduced">To authorize the appropriation of funds to the Centers for Disease Control and Prevention for conducting or supporting research on firearms safety or gun violence prevention.</title>
+  </titles>
+  <sponsor id="400251"/>
+  <cosponsors>
+    <cosponsor id="400033" joined="2015-06-02"/>
+    <cosponsor id="412470" joined="2015-06-02"/>
+    <cosponsor id="412600" joined="2015-06-02"/>
+    <cosponsor id="400090" joined="2015-06-02"/>
+    <cosponsor id="412524" joined="2015-06-02"/>
+    <cosponsor id="400162" joined="2015-06-02"/>
+    <cosponsor id="412282" joined="2015-06-03"/>
+    <cosponsor id="412595" joined="2015-06-02"/>
+    <cosponsor id="400238" joined="2015-06-03"/>
+    <cosponsor id="400249" joined="2015-06-02"/>
+    <cosponsor id="400259" joined="2015-06-24"/>
+    <cosponsor id="400262" joined="2015-06-02"/>
+    <cosponsor id="400263" joined="2015-06-03"/>
+    <cosponsor id="400289" joined="2015-06-02"/>
+    <cosponsor id="400295" joined="2015-06-02"/>
+    <cosponsor id="400333" joined="2015-06-02"/>
+    <cosponsor id="412254" joined="2015-06-02"/>
+    <cosponsor id="400415" joined="2015-06-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-02">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E815"/>
+    </action>
+    <action datetime="2015-06-02" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-06-05">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="1473"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+  <summary>6/2/2015--Introduced.
+This bill authorizes FY2016-FY2021 appropriations for the Centers for Diseases Control and Prevention to conduct or support research on firearms safety or gun violence prevention.</summary>
+</bill>

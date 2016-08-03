@@ -1,0 +1,30 @@
+<bill session="114" type="s" number="1935" updated="2015-08-14T12:47:28-04:00">
+  <state datetime="2015-08-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-08-04"/>
+  </status>
+  <introduced datetime="2015-08-04"/>
+  <titles>
+    <title type="short" as="introduced">Waterfront Community Revitalization and Resiliency Act of 2015</title>
+    <title type="official" as="introduced">A bill to require the Secretary of Commerce to undertake certain activities to support waterfront community revitalization and resiliency.</title>
+  </titles>
+  <sponsor id="400013"/>
+  <cosponsors>
+    <cosponsor id="412545" joined="2015-08-04"/>
+    <cosponsor id="412305" joined="2015-08-04"/>
+    <cosponsor id="300100" joined="2015-08-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-08-04" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+  </subjects>
+  <amendments/>
+</bill>

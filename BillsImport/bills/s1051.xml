@@ -1,0 +1,31 @@
+<bill session="114" type="s" number="1051" updated="2015-05-09T06:51:21-04:00">
+  <state datetime="2015-04-22">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-22"/>
+  </status>
+  <introduced datetime="2015-04-22"/>
+  <titles>
+    <title type="short" as="introduced">National Health Service Corps Expansion Act of 2015</title>
+    <title type="official" as="introduced">A bill to include county and municipal correctional facilities among medical facilities that qualify for designation as health professional shortage areas for purposes of the National Health Service Corps.</title>
+  </titles>
+  <sponsor id="300038"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-04-22" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <reference ref="CR S2354" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Correctional facilities and imprisonment"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health facilities and institutions"/>
+    <term name="Health personnel"/>
+  </subjects>
+  <amendments/>
+</bill>

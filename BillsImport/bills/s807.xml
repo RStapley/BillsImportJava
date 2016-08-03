@@ -1,0 +1,45 @@
+<bill session="114" type="s" number="807" updated="2015-05-20T04:49:58-04:00">
+  <state datetime="2015-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-19"/>
+  </status>
+  <introduced datetime="2015-03-19"/>
+  <titles>
+    <title type="short" as="introduced">Fair BEER Act</title>
+    <title type="short" as="introduced">Fair Brewers Excise and Economic Relief Act</title>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to reform and reset the excise tax on beer, and for other purposes.</title>
+  </titles>
+  <sponsor id="400034"/>
+  <cosponsors>
+    <cosponsor id="400013" joined="2015-03-19"/>
+    <cosponsor id="412330" joined="2015-03-19"/>
+    <cosponsor id="412496" joined="2015-03-19"/>
+    <cosponsor id="400222" joined="2015-03-19"/>
+    <cosponsor id="412305" joined="2015-03-19"/>
+    <cosponsor id="412323" joined="2015-03-19"/>
+    <cosponsor id="412665" joined="2015-05-19"/>
+    <cosponsor id="412244" joined="2015-03-27"/>
+    <cosponsor id="400418" joined="2015-03-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-19" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="767"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Alcoholic beverages"/>
+    <term name="Sales and excise taxes"/>
+  </subjects>
+  <amendments/>
+  <summary>3/19/2015--Introduced.
+Fair Brewers Excise and Economic Relief Act or the Fair BEER Act 
+
+This bill amends the Internal Revenue Code to revise the excise tax on beer brewed or produced, and removed for consumption or sale, within the United States or imported into the United States. The revised tax ranges from $0 for an amount not exceeding 7,143 barrels to $18 per barrel on an amount exceeding 2 million barrels.</summary>
+</bill>

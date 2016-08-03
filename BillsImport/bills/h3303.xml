@@ -1,0 +1,55 @@
+<bill session="114" type="h" number="3303" updated="2015-08-22T04:47:28-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">Coal Royalty Fairness and Communities Investment Act of 2015</title>
+    <title type="official" as="introduced">To amend the Mineral Leasing Act to improve coal royalties, and for other purposes.</title>
+  </titles>
+  <sponsor id="412571"/>
+  <cosponsors>
+    <cosponsor id="400162" joined="2015-07-29"/>
+    <cosponsor id="412521" joined="2015-07-29"/>
+    <cosponsor id="400352" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the Committee on Natural Resources, and in addition to the Committees on Energy and Commerce, Transportation and Infrastructure, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Referred to House Financial Services</text>
+    </action>
+    <action datetime="2015-07-30">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+    </action>
+    <action datetime="2015-07-31">
+      <text>Referred to the Subcommittee on Energy and Power.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1981"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+  </subjects>
+  <amendments/>
+</bill>

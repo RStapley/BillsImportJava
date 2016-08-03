@@ -1,0 +1,83 @@
+<bill session="114" type="h" number="1413" updated="2015-07-22T04:58:52-04:00">
+  <state datetime="2015-03-17">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-17"/>
+  </status>
+  <introduced datetime="2015-03-17"/>
+  <titles>
+    <title type="short" as="introduced">Firearms Manufacturers and Dealers Protection Act of 2015</title>
+    <title type="official" as="introduced">To terminate Operation Choke Point.</title>
+  </titles>
+  <sponsor id="412399"/>
+  <cosponsors>
+    <cosponsor id="412625" joined="2015-05-19"/>
+    <cosponsor id="412655" joined="2015-03-17"/>
+    <cosponsor id="412541" joined="2015-04-29"/>
+    <cosponsor id="412395" joined="2015-03-17"/>
+    <cosponsor id="412622" joined="2015-06-01"/>
+    <cosponsor id="400655" joined="2015-03-17"/>
+    <cosponsor id="412555" joined="2015-03-19"/>
+    <cosponsor id="412400" joined="2015-03-19"/>
+    <cosponsor id="412621" joined="2015-05-21"/>
+    <cosponsor id="412472" joined="2015-03-24"/>
+    <cosponsor id="412639" joined="2015-03-24"/>
+    <cosponsor id="400137" joined="2015-03-24"/>
+    <cosponsor id="400141" joined="2015-03-17"/>
+    <cosponsor id="412463" joined="2015-05-21"/>
+    <cosponsor id="412397" joined="2015-03-17"/>
+    <cosponsor id="412661" joined="2015-06-11"/>
+    <cosponsor id="412623" joined="2015-05-14"/>
+    <cosponsor id="412429" joined="2015-03-17"/>
+    <cosponsor id="412484" joined="2015-03-24"/>
+    <cosponsor id="412284" joined="2015-05-29"/>
+    <cosponsor id="412460" joined="2015-03-19"/>
+    <cosponsor id="400209" joined="2015-03-17"/>
+    <cosponsor id="412510" joined="2015-03-19"/>
+    <cosponsor id="412256" joined="2015-03-26"/>
+    <cosponsor id="412624" joined="2015-03-17"/>
+    <cosponsor id="412295" joined="2015-06-04"/>
+    <cosponsor id="412540" joined="2015-06-02"/>
+    <cosponsor id="400279" joined="2015-05-14"/>
+    <cosponsor id="412660" joined="2015-06-01"/>
+    <cosponsor id="400652" joined="2015-03-26"/>
+    <cosponsor id="400626" joined="2015-06-03"/>
+    <cosponsor id="412489" joined="2015-05-14"/>
+    <cosponsor id="412570" joined="2015-07-21"/>
+    <cosponsor id="412641" joined="2015-04-14"/>
+    <cosponsor id="412392" joined="2015-05-08"/>
+    <cosponsor id="412610" joined="2015-03-19"/>
+    <cosponsor id="400433" joined="2015-03-17"/>
+    <cosponsor id="400440" joined="2015-05-14"/>
+    <cosponsor id="412640" joined="2015-03-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-17" state="REFERRED">
+      <text>Referred to the Committee on Financial Services, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-03-17">
+      <text>Referred to House Financial Services</text>
+    </action>
+    <action datetime="2015-03-17">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2015-04-21">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="477"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+  </subjects>
+  <amendments/>
+  <summary>3/17/2015--Introduced.
+Firearms Manufacturers and Dealers Protection Act of 2015
+
+This bill declares that funds appropriated or otherwise made available, including amounts derived from any fee or other source, are denied to the Federal Deposit Insurance Corporation, the Department of Justice, or any other federal agency to carry out Operation Choke Point or any other program designed to discourage the provision or continuation of credit or the processing of payments by financial institutions for dealers and manufacturers of firearms and ammunition.</summary>
+</bill>

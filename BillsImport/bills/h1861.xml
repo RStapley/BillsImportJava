@@ -1,0 +1,68 @@
+<bill session="114" type="h" number="1861" updated="2015-07-22T04:59:15-04:00">
+  <state datetime="2015-04-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-16"/>
+  </status>
+  <introduced datetime="2015-04-16"/>
+  <titles>
+    <title type="short" as="introduced">Stop Motorcycle Checkpoint Funding Act</title>
+    <title type="official" as="introduced">To stop motorcycle checkpoint funding, and for other purposes.</title>
+  </titles>
+  <sponsor id="400365"/>
+  <cosponsors>
+    <cosponsor id="412420" joined="2015-04-29"/>
+    <cosponsor id="412454" joined="2015-04-21"/>
+    <cosponsor id="412434" joined="2015-06-02"/>
+    <cosponsor id="412486" joined="2015-04-16"/>
+    <cosponsor id="412437" joined="2015-05-18"/>
+    <cosponsor id="412422" joined="2015-07-08"/>
+    <cosponsor id="412460" joined="2015-04-16"/>
+    <cosponsor id="412421" joined="2015-05-13"/>
+    <cosponsor id="400224" joined="2015-06-02"/>
+    <cosponsor id="400276" joined="2015-06-03"/>
+    <cosponsor id="412475" joined="2015-06-03"/>
+    <cosponsor id="412606" joined="2015-06-24"/>
+    <cosponsor id="412303" joined="2015-05-18"/>
+    <cosponsor id="400316" joined="2015-05-18"/>
+    <cosponsor id="412489" joined="2015-04-16"/>
+    <cosponsor id="412426" joined="2015-05-19"/>
+    <cosponsor id="412202" joined="2015-05-18"/>
+    <cosponsor id="412570" joined="2015-06-25"/>
+    <cosponsor id="400351" joined="2015-04-16"/>
+    <cosponsor id="412509" joined="2015-07-07"/>
+    <cosponsor id="412217" joined="2015-04-29"/>
+    <cosponsor id="412213" joined="2015-04-16"/>
+    <cosponsor id="412538" joined="2015-07-21"/>
+    <cosponsor id="412574" joined="2015-04-16"/>
+    <cosponsor id="400440" joined="2015-04-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-16" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2015-04-17">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW12" subcommittee="Highways and Transit" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Motor vehicles"/>
+    <term name="Roads and highways"/>
+    <term name="Transportation programs funding"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+  <summary>4/16/2015--Introduced.
+Stop Motorcycle Checkpoint Funding Act 
+
+ Prohibits the Secretary of Transportation from providing grants or funds to a state, county, town, or township, Indian tribe, municipal, or other local government for use in any program to check helmet usage or create checkpoints for a motorcycle driver or passenger.
+
+Repeals the authority of the Secretary to make grants to states that have a law which makes it unlawful for any individual on an operating motorcycle to be without a motorcycle helmet.
+
+Revises grant eligibility requirements to eliminate the requirement that states achieve a certain rate of compliance with such law.</summary>
+</bill>

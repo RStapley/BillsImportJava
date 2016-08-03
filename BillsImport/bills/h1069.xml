@@ -1,0 +1,59 @@
+<bill session="114" type="h" number="1069" updated="2015-07-11T06:27:33-04:00">
+  <state datetime="2015-03-25">REPORTED</state>
+  <status>
+    <unknown datetime="2015-03-25"/>
+  </status>
+  <introduced datetime="2015-02-25"/>
+  <titles>
+    <title type="short" as="introduced">Presidential Library Donation Reform Act of 2015</title>
+    <title type="short" as="reported to house">Presidential Library Donation Reform Act of 2015</title>
+    <title type="official" as="introduced">To amend title 44, United States Code, to require information on contributors to Presidential library fundraising organizations, and for other purposes.</title>
+  </titles>
+  <sponsor id="400116"/>
+  <cosponsors>
+    <cosponsor id="412236" joined="2015-05-14"/>
+    <cosponsor id="400090" joined="2015-02-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-25" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2015-03-25">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-03-25" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </calendar>
+    <action datetime="2015-06-25T13:54:00-04:00">
+      <text>Reported by the Committee on Oversight and Government Reform. H. Rept. 114-181.</text>
+    </action>
+    <calendar datetime="2015-06-25T13:54:00-04:00" calendar="Union" number="133">
+      <text>Placed on the Union Calendar, Calendar No. 133.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="558"/>
+    <bill relation="unknown" session="114" type="s" number="558"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Fraud offenses and financial crimes"/>
+    <term name="Government ethics and transparency, public corruption"/>
+    <term name="Government information and archives"/>
+    <term name="Libraries and archives"/>
+    <term name="Presidential administrations"/>
+    <term name="Presidents and presidential powers"/>
+  </subjects>
+  <amendments/>
+  <summary>2/25/2015--Introduced.
+Presidential Library Donation Reform Act of 2015
+
+ Requires each presidential library fundraising organization to submit quarterly reports to the National Archives and Records Administration (National Archives) on every contributor who gave the organization a contribution or contributions (whether monetary or in-kind) totaling $200 or more for the quarterly period.
+
+Requires the Archivist of the United States to publish such information on the website of the National Archives within 30 days after each quarterly filing.
+
+Makes it unlawful for contributors or fundraising organizations to knowingly and willfully submit false information or omit material information. Prescribes criminal penalties for violation of such prohibitions.</summary>
+</bill>

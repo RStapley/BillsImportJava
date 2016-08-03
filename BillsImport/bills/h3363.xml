@@ -1,0 +1,34 @@
+<bill session="114" type="h" number="3363" updated="2015-08-15T06:47:30-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">Federal Wildland Firefighter Recognition Act</title>
+    <title type="official" as="introduced">To implement reforms to the Federal land management agency fire programs in order to address the complexities of 21st century wildfires in a more cost-effective and efficient manner.</title>
+  </titles>
+  <sponsor id="412510"/>
+  <cosponsors>
+    <cosponsor id="400100" joined="2015-07-29"/>
+    <cosponsor id="400101" joined="2015-07-29"/>
+    <cosponsor id="412511" joined="2015-07-29"/>
+    <cosponsor id="412509" joined="2015-07-29"/>
+    <cosponsor id="412581" joined="2015-07-29"/>
+    <cosponsor id="400440" joined="2015-07-29"/>
+    <cosponsor id="412640" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+  </subjects>
+  <amendments/>
+</bill>

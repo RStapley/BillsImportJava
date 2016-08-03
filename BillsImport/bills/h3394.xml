@@ -1,0 +1,29 @@
+<bill session="114" type="h" number="3394" updated="2015-08-07T12:49:00-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">CAPTIVE Act</title>
+    <title type="short" as="introduced">Clarifying Amendment to Provide Terrorism Victims Equity Act</title>
+    <title type="official" as="introduced">To amend the Terrorism Risk Insurance Act of 2002 to allow for the use of certain assets of foreign persons and entities to satisfy certain judgments against terrorist parties, and for other purposes.</title>
+  </titles>
+  <sponsor id="412309"/>
+  <cosponsors>
+    <cosponsor id="412385" joined="2015-07-29"/>
+    <cosponsor id="412199" joined="2015-07-29"/>
+    <cosponsor id="412636" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

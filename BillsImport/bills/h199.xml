@@ -1,0 +1,64 @@
+<bill session="114" type="h" number="199" updated="2015-04-14T04:46:22-04:00">
+  <state datetime="2015-01-07">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-07"/>
+  </status>
+  <introduced datetime="2015-01-07"/>
+  <titles>
+    <title type="short" as="introduced">Bicycle and Pedestrian Infrastructure Improvement Act of 2015</title>
+    <title type="official" as="introduced">To authorize the Secretary of Transportation to establish a pedestrian and bicycle infrastructure credit assistance pilot program, and for other purposes.</title>
+  </titles>
+  <sponsor id="412186"/>
+  <cosponsors>
+    <cosponsor id="400033" joined="2015-02-25"/>
+    <cosponsor id="412600" joined="2015-01-20"/>
+    <cosponsor id="412272" joined="2015-01-20"/>
+    <cosponsor id="400087" joined="2015-01-27"/>
+    <cosponsor id="412613" joined="2015-02-09"/>
+    <cosponsor id="400641" joined="2015-01-20"/>
+    <cosponsor id="412511" joined="2015-01-22"/>
+    <cosponsor id="400630" joined="2015-01-20"/>
+    <cosponsor id="412521" joined="2015-01-20"/>
+    <cosponsor id="400295" joined="2015-01-20"/>
+    <cosponsor id="412192" joined="2015-02-13"/>
+    <cosponsor id="412523" joined="2015-01-27"/>
+    <cosponsor id="400316" joined="2015-01-30"/>
+    <cosponsor id="412585" joined="2015-01-21"/>
+    <cosponsor id="412319" joined="2015-01-20"/>
+    <cosponsor id="412214" joined="2015-01-21"/>
+    <cosponsor id="412412" joined="2015-04-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-07" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2015-01-08">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW12" subcommittee="Highways and Transit" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="201"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Parks, recreation areas, trails"/>
+    <term name="Pedestrians and bicycling"/>
+    <term name="Public participation and lobbying"/>
+    <term name="Transportation programs funding"/>
+    <term name="User charges and fees"/>
+  </subjects>
+  <amendments/>
+  <summary>1/7/2015--Introduced.
+Bicycle and Pedestrian Infrastructure Improvement Act of 2015
+
+ Authorizes the Secretary of Transportation to establish a pilot program to make loans and loan guarantees to eligible entities to carry out bicycle and pedestrian infrastructure projects.
+
+Prescribes project eligibility requirements.
+
+Requires the Secretary to ensure that at least 25% of funds provided under this Act are used to support projects in low-income communities.</summary>
+</bill>

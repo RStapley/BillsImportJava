@@ -1,0 +1,44 @@
+<bill session="114" type="s" number="1196" updated="2015-08-08T07:01:44-04:00">
+  <state datetime="2015-05-05">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-05"/>
+  </status>
+  <introduced datetime="2015-05-05"/>
+  <titles>
+    <title type="short" as="introduced">Federal Land Access Act</title>
+    <title type="official" as="introduced">A bill to amend the Mineral Leasing Act to authorize the Secretary of the Interior to grant rights-of-way on Federal land.</title>
+  </titles>
+  <sponsor id="412269"/>
+  <cosponsors>
+    <cosponsor id="400061" joined="2015-05-05"/>
+    <cosponsor id="300055" joined="2015-05-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-05" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2015-05-14">
+      <text>Committee on Energy and Natural Resources. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="2295"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Land use and conservation"/>
+    <term name="Oil and gas"/>
+    <term name="Parks, recreation areas, trails"/>
+    <term name="Pipelines"/>
+  </subjects>
+  <amendments/>
+  <summary>5/5/2015--Introduced.
+Federal Land Access Act
+
+This bill amends the Mineral Leasing Act, with respect to rights-of-way for pipelines through federal lands, to redefine federal lands, for purposes of granting an application for a natural gas pipeline right-of-way, to mean all lands owned by the United States, except only those lands held in trust for an Indian or Indian tribe and lands on the outer Continental Shelf.
+
+The exception for the National Park System is repealed, thereby authorizing the Secretary of the Interior to grant natural gas pipeline rights-of-way on National Park System land.</summary>
+</bill>

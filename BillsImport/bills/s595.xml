@@ -1,0 +1,38 @@
+<bill session="114" type="s" number="595" updated="2015-06-06T06:48:33-04:00">
+  <state datetime="2015-02-26">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-26"/>
+  </status>
+  <introduced datetime="2015-02-26"/>
+  <titles>
+    <title type="short" as="introduced">Hunter and Farmer Protection Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend the Migratory Bird Treaty Act to prohibit baiting exemptions on certain land.</title>
+  </titles>
+  <sponsor id="412508"/>
+  <cosponsors>
+    <cosponsor id="400040" joined="2015-02-26"/>
+    <cosponsor id="300023" joined="2015-03-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-26" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1099"/>
+    <bill relation="unknown" session="114" type="h" number="2406"/>
+    <bill relation="unknown" session="114" type="s" number="405"/>
+    <bill relation="unknown" session="114" type="s" number="659"/>
+  </relatedbills>
+  <subjects>
+    <term name="Animals"/>
+    <term name="Agricultural practices and innovations"/>
+    <term name="Birds"/>
+    <term name="Hunting and fishing"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+</bill>

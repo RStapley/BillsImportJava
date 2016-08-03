@@ -1,0 +1,100 @@
+<bill session="114" type="h" number="675" updated="2015-08-15T06:24:49-04:00">
+  <state datetime="2015-07-28T14:10:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2015-07-28T14:10:00-04:00"/>
+  </status>
+  <introduced datetime="2015-02-03"/>
+  <titles>
+    <title type="short" as="introduced">Veterans' Compensation Cost-of-Living Adjustment Act of 2015</title>
+    <title type="official" as="introduced">To increase, effective as of December 1, 2015, the rates of compensation for veterans with service-connected disabilities and the rates of dependency and indemnity compensation for the survivors of certain disabled veterans, and for other purposes.</title>
+    <title type="official" as="amended by house">To increase, effective as of December 1, 2015, the rates of compensation for veterans with service-connected disabilities and the rates of dependency and indemnity compensation for the survivors of certain disabled veterans, to amend title 38, United States Code, to improve the United States Court of Appeals for Veterans Claims, to improve the processing of claims by the Secretary of Veterans Affairs, and for other purposes.</title>
+  </titles>
+  <sponsor id="412630"/>
+  <cosponsors>
+    <cosponsor id="412565" joined="2015-05-18"/>
+    <cosponsor id="400209" joined="2015-07-07"/>
+    <cosponsor id="400313" joined="2015-04-13"/>
+    <cosponsor id="412307" joined="2015-04-13"/>
+    <cosponsor id="412318" joined="2015-02-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-03" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2015-02-13">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+    </action>
+    <action datetime="2015-04-14">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="2015-05-14">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2015-05-14">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text>
+    </action>
+    <action datetime="2015-05-21">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-05-21" state="REPORTED">
+      <text>Ordered to be Reported in the Nature of a Substitute (Amended) by Voice Vote.</text>
+    </calendar>
+    <action datetime="2015-07-16T12:55:00-04:00">
+      <text>Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 114-206.</text>
+    </action>
+    <calendar datetime="2015-07-16T12:56:00-04:00" calendar="Union" number="155">
+      <text>Placed on the Union Calendar, Calendar No. 155.</text>
+    </calendar>
+    <action datetime="2015-07-27T19:20:00-04:00">
+      <text>Mr. Miller (FL) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2015-07-27T19:20:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5513-5517" label="consideration"/>
+    </action>
+    <action datetime="2015-07-27T19:20:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 675.</text>
+    </action>
+    <action datetime="2015-07-27T19:37:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2015-07-28T14:04:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H5545" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="472" datetime="2015-07-28T14:10:00-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 409 - 0 (Roll no. 472).</text>
+      <reference ref="CR 7/27/2015 H5513-5515" label="text"/>
+    </vote>
+    <action datetime="2015-07-28T14:10:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2015-07-28T14:10:00-04:00">
+      <text>The title of the measure was amended. Agreed to without objection.</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSVR09" subcommittee="Disability Assistance and Memorial Affairs" name="House Veterans' Affairs"/>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1493"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Disability assistance"/>
+    <term name="Inflation and prices"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>2/3/2015--Introduced.
+Veterans' Compensation Cost-of-Living Adjustment Act of 2015
+
+Directs the Secretary of Veterans Affairs to increase, as of December 1, 2015, the rates of veterans' disability compensation, additional compensation for dependents, the clothing allowance for certain disabled veterans, and dependency and indemnity compensation for surviving spouses and children.
+
+Requires each such increase to be the same percentage as the increase in benefits provided under title II (Old Age, Survivors and Disability Insurance) of the Social Security Act, on the same effective date.</summary>
+</bill>

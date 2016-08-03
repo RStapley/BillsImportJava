@@ -1,0 +1,71 @@
+<bill session="114" type="h" number="2766" updated="2015-07-01T04:46:40-04:00">
+  <state datetime="2015-06-12">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-12"/>
+  </status>
+  <introduced datetime="2015-06-12"/>
+  <titles>
+    <title type="short" as="introduced">Filipino Veterans Fairness Act of 2015</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to deem certain service in the organized military forces of the Government of the Commonwealth of the Philippines and the Philippine Scouts to have been active service for purposes of benefits under programs administered by the Secretary of Veterans Affairs.</title>
+  </titles>
+  <sponsor id="412259"/>
+  <cosponsors>
+    <cosponsor id="400041" joined="2015-06-12"/>
+    <cosponsor id="412195" joined="2015-06-12"/>
+    <cosponsor id="412576" joined="2015-06-12"/>
+    <cosponsor id="412379" joined="2015-06-12"/>
+    <cosponsor id="412470" joined="2015-06-12"/>
+    <cosponsor id="412221" joined="2015-06-12"/>
+    <cosponsor id="412272" joined="2015-06-12"/>
+    <cosponsor id="400618" joined="2015-06-12"/>
+    <cosponsor id="400124" joined="2015-06-12"/>
+    <cosponsor id="400129" joined="2015-06-12"/>
+    <cosponsor id="412532" joined="2015-06-12"/>
+    <cosponsor id="400653" joined="2015-06-12"/>
+    <cosponsor id="400162" joined="2015-06-12"/>
+    <cosponsor id="400163" joined="2015-06-12"/>
+    <cosponsor id="412498" joined="2015-06-12"/>
+    <cosponsor id="400170" joined="2015-06-12"/>
+    <cosponsor id="412446" joined="2015-06-12"/>
+    <cosponsor id="400185" joined="2015-06-12"/>
+    <cosponsor id="400237" joined="2015-06-12"/>
+    <cosponsor id="412616" joined="2015-06-12"/>
+    <cosponsor id="400630" joined="2015-06-12"/>
+    <cosponsor id="400245" joined="2015-06-12"/>
+    <cosponsor id="400246" joined="2015-06-12"/>
+    <cosponsor id="400663" joined="2015-06-12"/>
+    <cosponsor id="412560" joined="2015-06-12"/>
+    <cosponsor id="400290" joined="2015-06-12"/>
+    <cosponsor id="400295" joined="2015-06-12"/>
+    <cosponsor id="400350" joined="2015-06-12"/>
+    <cosponsor id="400360" joined="2015-06-12"/>
+    <cosponsor id="400361" joined="2015-06-12"/>
+    <cosponsor id="412514" joined="2015-06-12"/>
+    <cosponsor id="412520" joined="2015-06-12"/>
+    <cosponsor id="412319" joined="2015-06-12"/>
+    <cosponsor id="412522" joined="2015-06-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-12" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2015-06-30">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR10" subcommittee="Economic Opportunity" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <summary>6/12/2015--Introduced.
+Filipino Veterans Fairness Act of 2015
+
+Deems certain service performed before July 1, 1946, in the organized military forces of the Philippines and the Philippine Scouts as active military service for purposes of eligibility for veterans' benefits through the Department of Veterans Affairs.
+
+Directs the Secretary of Veterans Affairs, in determining eligibility under this Act, to take into account any relevant service documentation, including documentation other than the Missouri List (the list of all discharged and deceased veterans from the 20th century).</summary>
+</bill>

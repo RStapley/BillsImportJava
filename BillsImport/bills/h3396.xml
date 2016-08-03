@@ -1,0 +1,42 @@
+<bill session="114" type="h" number="3396" updated="2015-08-22T04:47:36-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">Communities United with Religious leaders for the Elimination of HIV/AIDS Act of 2015</title>
+    <title type="short" as="introduced">CURE Act of 2015</title>
+    <title type="official" as="introduced">To address the dramatic increase of HIV/AIDS in minority communities.</title>
+  </titles>
+  <sponsor id="400333"/>
+  <cosponsors>
+    <cosponsor id="412517" joined="2015-07-29"/>
+    <cosponsor id="412195" joined="2015-07-29"/>
+    <cosponsor id="412221" joined="2015-07-29"/>
+    <cosponsor id="400080" joined="2015-07-29"/>
+    <cosponsor id="400090" joined="2015-07-29"/>
+    <cosponsor id="400170" joined="2015-07-29"/>
+    <cosponsor id="400262" joined="2015-07-29"/>
+    <cosponsor id="400263" joined="2015-07-29"/>
+    <cosponsor id="412585" joined="2015-07-29"/>
+    <cosponsor id="400378" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-07-31">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+</bill>

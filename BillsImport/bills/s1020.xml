@@ -1,0 +1,47 @@
+<bill session="114" type="s" number="1020" updated="2015-08-04T04:47:27-04:00">
+  <state datetime="2015-04-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-21"/>
+  </status>
+  <introduced datetime="2015-04-21"/>
+  <titles>
+    <title type="short" as="introduced">Diagnostic Imaging Services Access Protection Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act to ensure the continued access of Medicare beneficiaries to diagnostic imaging services, and for other purposes.</title>
+  </titles>
+  <sponsor id="400418"/>
+  <cosponsors>
+    <cosponsor id="300002" joined="2015-07-30"/>
+    <cosponsor id="400034" joined="2015-07-15"/>
+    <cosponsor id="400054" joined="2015-07-08"/>
+    <cosponsor id="400064" joined="2015-04-21"/>
+    <cosponsor id="300025" joined="2015-05-20"/>
+    <cosponsor id="300030" joined="2015-08-03"/>
+    <cosponsor id="412281" joined="2015-07-22"/>
+    <cosponsor id="412242" joined="2015-07-27"/>
+    <cosponsor id="400284" joined="2015-06-16"/>
+    <cosponsor id="300083" joined="2015-05-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="2043"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Government information and archives"/>
+    <term name="Health information and medical records"/>
+    <term name="Medical tests and diagnostic methods"/>
+    <term name="Medicare"/>
+  </subjects>
+  <amendments/>
+  <summary>4/21/2015--Introduced.
+Diagnostic Imaging Services Access Protection Act of 2015
+
+This bill amends title XVIII (Medicare) of the Social Security Act to prohibit the Secretary of Health and Human Services from applying a multiple procedure payment reduction policy to the professional component of imaging services furnished: (1) after a specified date in the year this Act is enacted; or (2) in any subsequent year before the Secretary conducts and publishes, as part of the Medicare Physician Fee Schedule for a year, an analysis of the Resource-Based Relative Value Scale Data Manager information used to determine what, if any, efficiencies exist within the professional component of imaging services when two or more studies are performed on the same patient on the same day.</summary>
+</bill>

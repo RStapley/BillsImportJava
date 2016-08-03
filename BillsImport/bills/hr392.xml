@@ -1,0 +1,37 @@
+<bill session="114" type="hr" number="392" updated="2015-07-30T04:47:39-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="official" as="introduced">Expressing the sense of the House of Representatives that the enactment of the Patient Protection and Affordable Care Act of 2009, Public Law 111-148, violated article I, section 7 of the United States Constitution because it was a bill for raising revenue that did not originate in the House of Representatives.</title>
+  </titles>
+  <sponsor id="400141"/>
+  <cosponsors>
+    <cosponsor id="400032" joined="2015-07-29"/>
+    <cosponsor id="412395" joined="2015-07-29"/>
+    <cosponsor id="412472" joined="2015-07-29"/>
+    <cosponsor id="400145" joined="2015-07-29"/>
+    <cosponsor id="400651" joined="2015-07-29"/>
+    <cosponsor id="412397" joined="2015-07-29"/>
+    <cosponsor id="412226" joined="2015-07-29"/>
+    <cosponsor id="400220" joined="2015-07-29"/>
+    <cosponsor id="412660" joined="2015-07-29"/>
+    <cosponsor id="412302" joined="2015-07-29"/>
+    <cosponsor id="412551" joined="2015-07-29"/>
+    <cosponsor id="412426" joined="2015-07-29"/>
+    <cosponsor id="400606" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,37 @@
+<bill session="114" type="hj" number="60" updated="2015-08-15T06:48:40-04:00">
+  <state datetime="2015-07-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-21"/>
+  </status>
+  <introduced datetime="2015-07-21"/>
+  <titles>
+    <title type="official" as="introduced">Expressing support for designation of a "National Lao-Hmong Recognition Day".</title>
+  </titles>
+  <sponsor id="412192"/>
+  <cosponsors>
+    <cosponsor id="400041" joined="2015-07-21"/>
+    <cosponsor id="400618" joined="2015-07-21"/>
+    <cosponsor id="400230" joined="2015-07-21"/>
+    <cosponsor id="400259" joined="2015-07-21"/>
+    <cosponsor id="400262" joined="2015-07-21"/>
+    <cosponsor id="400661" joined="2015-07-21"/>
+    <cosponsor id="412585" joined="2015-07-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-21" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Asia"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Conflicts and wars"/>
+    <term name="Laos"/>
+  </subjects>
+  <amendments/>
+</bill>

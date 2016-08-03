@@ -1,0 +1,107 @@
+<bill session="114" type="h" number="1308" updated="2015-06-26T04:47:29-04:00">
+  <state datetime="2015-03-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-04"/>
+  </status>
+  <introduced datetime="2015-03-04"/>
+  <titles>
+    <title type="short" as="introduced">Economy in Motion: The National Multimodal and Sustainable Freight Infrastructure Act</title>
+    <title type="official" as="introduced">To amend title 49, United States Code, to establish a Multimodal Freight Funding Formula Program and a National Freight Infrastructure Competitive Grant Program to improve the efficiency and reliability of freight movement in the United States, and for other purposes.</title>
+  </titles>
+  <sponsor id="412521"/>
+  <cosponsors>
+    <cosponsor id="400033" joined="2015-06-01"/>
+    <cosponsor id="400063" joined="2015-06-25"/>
+    <cosponsor id="412571" joined="2015-04-30"/>
+    <cosponsor id="412379" joined="2015-04-14"/>
+    <cosponsor id="412505" joined="2015-06-01"/>
+    <cosponsor id="412595" joined="2015-04-30"/>
+    <cosponsor id="412286" joined="2015-03-04"/>
+    <cosponsor id="412638" joined="2015-03-04"/>
+    <cosponsor id="412552" joined="2015-04-16"/>
+    <cosponsor id="400661" joined="2015-04-23"/>
+    <cosponsor id="400290" joined="2015-04-14"/>
+    <cosponsor id="412585" joined="2015-04-14"/>
+    <cosponsor id="400343" joined="2015-03-04"/>
+    <cosponsor id="400350" joined="2015-04-14"/>
+    <cosponsor id="412520" joined="2015-04-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-04" state="REFERRED">
+      <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-03-04">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2015-03-04">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-03-05">
+      <text>Referred to the Subcommittee on Aviation.</text>
+    </action>
+    <action datetime="2015-03-05">
+      <text>Referred to the Subcommittee on Coast Guard and Maritime Transportation.</text>
+    </action>
+    <action datetime="2015-03-05">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+    </action>
+    <action datetime="2015-03-05">
+      <text>Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.</text>
+    </action>
+    <action datetime="2015-03-05">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW05" subcommittee="Aviation" name="House Transportation and Infrastructure"/>
+    <committee activity="Referral" code="HSPW07" subcommittee="Coast Guard and Maritime Transportation" name="House Transportation and Infrastructure"/>
+    <committee activity="Referral" code="HSPW12" subcommittee="Highways and Transit" name="House Transportation and Infrastructure"/>
+    <committee activity="Referral" code="HSPW14" subcommittee="Railroads, Pipelines, and Hazardous Materials" name="House Transportation and Infrastructure"/>
+    <committee activity="Referral" code="HSPW02" subcommittee="Water Resources and Environment" name="House Transportation and Infrastructure"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Advanced technology and technological innovations"/>
+    <term name="Advisory bodies"/>
+    <term name="Air quality"/>
+    <term name="Aviation and airports"/>
+    <term name="Canada"/>
+    <term name="Climate change and greenhouse gases"/>
+    <term name="Dams and canals"/>
+    <term name="Environmental Protection Agency (EPA)"/>
+    <term name="Environmental assessment, monitoring, research"/>
+    <term name="Environmental regulatory procedures"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Government trust funds"/>
+    <term name="Latin America"/>
+    <term name="Marine and inland water transportation"/>
+    <term name="Mexico"/>
+    <term name="Motor carriers"/>
+    <term name="Navigation, waterways, harbors"/>
+    <term name="Performance measurement"/>
+    <term name="Railroads"/>
+    <term name="Regional and metropolitan planning"/>
+    <term name="Roads and highways"/>
+    <term name="Sales and excise taxes"/>
+    <term name="State and local government operations"/>
+    <term name="Transportation programs funding"/>
+    <term name="Transportation safety and security"/>
+    <term name="U.S. territories and protectorates"/>
+    <term name="Water quality"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+  <summary>3/4/2015--Introduced.
+Economy in Motion: The National Multimodal and Sustainable Freight Infrastructure Act
+
+ Directs the Secretary of Transportation to: (1) establish a Multimodal Freight Funding Formula Program to distribute funds to states, and a National Freight Infrastructure Competitive Grant Program to make grants to entities for projects, to improve the efficiency and reliability of freight movement in the United States; (2) establish a multimodal national freight network to accomplish the goals of the national freight policy, including increasing the productivity and efficiency of the national freight system and improving its safety, security, and resilience; (3) develop, maintain, and post on the public website of the Department of Transportation a national freight strategic plan that includes an assessment of the condition and performance of the national freight system; and (4) develop and improve tools to support an outcome-oriented, performance-based approach to evaluate proposed freight-related and other transportation projects.
+
+Amends the Moving Ahead for Progress in the 21st Century Act (or&#160;MAP-21)&#160;to: (1) expand the membership and duties of state freight advisory committees; and&#160;(2) require state freight plans to include strategies and goals to decrease greenhouse gas emissions, local air pollution, water runoff, and wildlife habitat loss.&#160;&#160;
+
+Amends the Internal Revenue Code to: (1) impose a 1% excise tax upon taxable ground transportation of property (i.e., transportation by freight rail or truck trailer and semitrailer chassis and bodies, suitable for use with a trailer or semitrailer with a gross vehicle weight of 26,000 pounds or more), and (2) deposit such tax revenues into a Freight Trust Fund (established by this Act) to finance the Multimodal Freight Funding Formula Program and the National Freight Infrastructure Competitive Grant Program.</summary>
+</bill>

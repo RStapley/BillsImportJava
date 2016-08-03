@@ -1,0 +1,46 @@
+<bill session="114" type="s" number="1224" updated="2015-06-20T06:55:39-04:00">
+  <state datetime="2015-05-06">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-06"/>
+  </status>
+  <introduced datetime="2015-05-06"/>
+  <titles>
+    <title type="short" as="introduced">Condensate Act of 2015</title>
+    <title type="official" as="introduced">A bill to reconcile differing Federal approaches to condensate.</title>
+  </titles>
+  <sponsor id="300075"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-05-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2015-05-19">
+      <text>Committee on Energy and Natural Resources. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="2369"/>
+    <bill relation="unknown" session="114" type="s" number="1312"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+  </subjects>
+  <amendments/>
+  <summary>5/6/2015--Introduced.
+Condensate Act of 2015
+
+This bill requires the Department of Energy to develop a standard definition of the term "condensate" and, subsequently, advise relevant federal agencies to adopt that definition in order to clarify U.S. energy policy.
+
+The Assistant Secretary for Fossil Energy may assess the suitability of condensate separately from crude oil for use in strategic reserves.
+
+The Administrator of the Energy Information Administration must collect data concerning the chemical properties of domestically produced condensate and crude oil.
+
+The Department of the Interior must assess condensate separately from crude oil
+
+The bill goes on to authorize:
+
+ the Bureau of Ocean Energy Management to estimate condensate separately from crude oil as part of the resource assessments regarding domestic geological formations, the Office of Natural Resources Revenue Data Collection to collect condensate data separately from crude oil, and the United States Geological Survey to include estimates of condensate separately from crude oil as part of the resource assessments regarding domestic geological formations. Congress declares that processed condensate is a petroleum product.</summary>
+</bill>

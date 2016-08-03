@@ -1,0 +1,36 @@
+<bill session="114" type="h" number="2674" updated="2015-08-08T06:41:40-04:00">
+  <state datetime="2015-06-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-04"/>
+  </status>
+  <introduced datetime="2015-06-04"/>
+  <titles>
+    <title type="short" as="introduced">Flexibility and Oversight Act</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to authorize the Secretary of Veterans Affairs to transfer funds among certain scholarship and debt reduction programs.</title>
+  </titles>
+  <sponsor id="412632"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-06-04" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2015-06-15">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <summary>6/4/2015--Introduced.
+Flexibility and Oversight Act
+
+Authorizes the Department of Veterans Affairs (VA) to transfer funds from one covered program to another covered program if: (1) such transfer will improve the quality of service provided by the VA to veterans, (2) the VA notifies Congress of the justification for such transfer, and (3) a period of 30 days has elapsed following the date of such notification. Defines "covered program" to mean the VA's Health Professional Scholarship Program, Employee Incentive Scholarship Program, and education debt reduction programs.
+
+Requires the VA's annual report on its educational assistance programs to include, during the 10-year period beginning on March 1, 2016, an evaluation of the efficacy of the programs in increasing the quality of health care provided to veterans and opportunities for improvement.</summary>
+</bill>

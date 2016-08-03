@@ -1,0 +1,38 @@
+<bill session="114" type="s" number="1629" updated="2015-08-15T07:05:26-04:00">
+  <state datetime="2015-06-24">REPORTED</state>
+  <status>
+    <unknown datetime="2015-06-24"/>
+  </status>
+  <introduced datetime="2015-06-18"/>
+  <titles>
+    <title type="short" as="introduced">District of Columbia Courts, Public Defender Service, and Court Services and Offender Supervision Agency Act of 2015</title>
+    <title type="short" as="reported to senate">District of Columbia Courts, Public Defender Service, and Court Services and Offender Supervision Agency Act of 2015</title>
+    <title type="official" as="introduced">A bill to revise certain authorities of the District of Columbia courts, the Court Services and Offender Supervision Agency for the District of Columbia, and the Public Defender Service for the District of Columbia, and for other purposes.</title>
+  </titles>
+  <sponsor id="412496"/>
+  <cosponsors>
+    <cosponsor id="300019" joined="2015-06-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-18" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <calendar datetime="2015-06-24" state="REPORTED">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="2015-08-03">
+      <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 114-110.</text>
+    </action>
+    <calendar datetime="2015-08-03" calendar="Senate Legislative" under="General Orders" number="190">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 190.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,53 @@
+<bill session="114" type="s" number="610" updated="2015-07-31T04:47:34-04:00">
+  <state datetime="2015-07-30">REPORTED</state>
+  <status>
+    <unknown datetime="2015-07-30"/>
+  </status>
+  <introduced datetime="2015-02-27"/>
+  <titles>
+    <title type="short" as="introduced">Thurgood Marshall's Elementary School Study Act</title>
+    <title type="official" as="introduced">A bill to authorize the Secretary of the Interior to conduct a special resource study of P.S. 103 in West Baltimore, Maryland and for other purposes.</title>
+  </titles>
+  <sponsor id="400064"/>
+  <cosponsors>
+    <cosponsor id="300073" joined="2015-02-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-27">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S1202-1203"/>
+    </action>
+    <action datetime="2015-02-27" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+      <reference ref="CR S1203" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2015-06-10">
+      <text>Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.</text>
+    </action>
+    <calendar datetime="2015-07-30" state="REPORTED">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup"/>
+    <committee activity="Hearings" code="SSEG04" subcommittee="National Parks" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Congressional oversight"/>
+    <term name="Educational facilities and institutions"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Government studies and investigations"/>
+    <term name="Historic sites and heritage areas"/>
+    <term name="Judges"/>
+    <term name="Maryland"/>
+    <term name="Parks, recreation areas, trails"/>
+    <term name="Supreme Court"/>
+  </subjects>
+  <amendments/>
+  <summary>2/27/2015--Introduced.
+Thurgood Marshall's Elementary School Study Act
+
+The Department of the Interior must conduct a special resource study of P.S. 103, the public school located in West Baltimore, Maryland, which former Supreme Court Justice Thurgood Marshall attended as a youth. The study must also include any other resources in the surrounding neighborhood that relate to his early life.</summary>
+</bill>

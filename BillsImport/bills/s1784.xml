@@ -1,0 +1,29 @@
+<bill session="114" type="s" number="1784" updated="2015-07-22T12:48:07-04:00">
+  <state datetime="2015-07-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-16"/>
+  </status>
+  <introduced datetime="2015-07-16"/>
+  <titles>
+    <title type="short" as="introduced">Federal Prisons Accountability Act of 2015</title>
+    <title type="official" as="introduced">A bill to require the Director of the Bureau of Prisons to be appointed by and with the advice and consent of the Senate.</title>
+  </titles>
+  <sponsor id="300072"/>
+  <cosponsors>
+    <cosponsor id="412492" joined="2015-07-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-16" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S5172" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+  </subjects>
+  <amendments/>
+</bill>

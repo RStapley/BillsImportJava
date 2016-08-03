@@ -1,0 +1,56 @@
+<bill session="114" type="sr" number="143" updated="2015-07-04T06:45:32-04:00">
+  <state datetime="2015-04-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-21"/>
+  </status>
+  <introduced datetime="2015-04-21"/>
+  <titles>
+    <title type="official" as="introduced">A resolution supporting efforts to ensure that students have access to debt-free higher education.</title>
+  </titles>
+  <sponsor id="412507"/>
+  <cosponsors>
+    <cosponsor id="400013" joined="2015-04-28"/>
+    <cosponsor id="412490" joined="2015-05-21"/>
+    <cosponsor id="412598" joined="2015-04-21"/>
+    <cosponsor id="300011" joined="2015-05-20"/>
+    <cosponsor id="400050" joined="2015-04-28"/>
+    <cosponsor id="412378" joined="2015-05-20"/>
+    <cosponsor id="412223" joined="2015-05-20"/>
+    <cosponsor id="412281" joined="2015-04-28"/>
+    <cosponsor id="412200" joined="2015-05-12"/>
+    <cosponsor id="400253" joined="2015-05-07"/>
+    <cosponsor id="412325" joined="2015-04-28"/>
+    <cosponsor id="412194" joined="2015-04-21"/>
+    <cosponsor id="412305" joined="2015-05-21"/>
+    <cosponsor id="300081" joined="2015-04-21"/>
+    <cosponsor id="300087" joined="2015-04-21"/>
+    <cosponsor id="412323" joined="2015-06-02"/>
+    <cosponsor id="300093" joined="2015-05-12"/>
+    <cosponsor id="412542" joined="2015-04-21"/>
+    <cosponsor id="412247" joined="2015-04-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-21" state="REFERRED">
+      <text>Referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <reference ref="CR S2306" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="hr" number="214"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Higher education"/>
+    <term name="State and local finance"/>
+    <term name="State and local government operations"/>
+    <term name="Student aid and college costs"/>
+  </subjects>
+  <amendments/>
+  <summary>4/21/2015--Introduced.
+Expresses support for efforts to:
+
+ ensure that all students have access to debt-free higher education upon graduation from public institutions of higher education; provide support to states to make increased investments in higher education that will result in lower tuition and costs for students; increase financial aid to help students afford attending college without taking on debt; encourage innovation by states and institutions of higher education to cut costs for students and make college more affordable by increasing efficiency and enabling speedy and less-costly degree completion; and reduce the burden of existing student loan debt.</summary>
+</bill>

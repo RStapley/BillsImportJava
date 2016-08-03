@@ -1,0 +1,67 @@
+<bill session="114" type="h" number="2997" updated="2015-07-25T06:44:03-04:00">
+  <state datetime="2015-07-14T15:46:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2015-07-14T15:46:00-04:00"/>
+  </status>
+  <introduced datetime="2015-07-09"/>
+  <titles>
+    <title type="short" as="introduced">Private Investment in Housing Act of 2015</title>
+    <title type="short" as="passed house">Private Investment in Housing Act of 2015</title>
+    <title type="official" as="introduced">To authorize the Secretary of Housing and Urban Development to carry out a demonstration program to enter into budget-neutral, performance-based contracts for energy and water conservation improvements for multifamily residential units.</title>
+  </titles>
+  <sponsor id="412411"/>
+  <cosponsors>
+    <cosponsor id="400639" joined="2015-07-09"/>
+    <cosponsor id="412544" joined="2015-07-09"/>
+    <cosponsor id="412282" joined="2015-07-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-09" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2015-07-14T13:30:00-04:00">
+      <text>Mr. Luetkemeyer moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2015-07-14T13:30:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5135-5137" label="consideration"/>
+    </action>
+    <action datetime="2015-07-14T13:30:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2997.</text>
+    </action>
+    <action datetime="2015-07-14T13:39:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2015-07-14T15:37:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H5150-5151" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="436" datetime="2015-07-14T15:46:00-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 395 - 28 (Roll no. 436).</text>
+      <reference ref="CR H5135-5136" label="text"/>
+    </vote>
+    <action datetime="2015-07-14T15:46:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2015-07-15">
+      <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Housing and community development"/>
+  </subjects>
+  <amendments/>
+  <summary>7/9/2015--Introduced.
+Private Investment in Housing Act of 2015
+
+Directs the Secretary of Housing and Urban Development (HUD) to establish a demonstration program under which, in FY2016 through FY2019, the Secretary may execute budget-neutral, performance-based agreements (for up to 12 years each) that result in a reduction in energy or water costs with appropriate entities to carry out projects for energy or water conservation improvements at up to 20,000 residential units in multifamily buildings participating in:
+
+ Section 8 project-based rental assistance programs under the United States Housing Act of 1937, other than Section 8 (voucher program) assistance; supportive housing for the elderly programs under the Housing Act of 1959; or supportive housing for persons with disabilities programs under the Cranston-Gonzalez National Affordable Housing Act. Specifies requirements for payment under an agreement, which shall be contingent on documented utility savings, as well as for agreement terms, eligibility, geographical diversity, and funding for the program.
+
+Limits this demonstration program to properties subject to affordability restrictions, which may be through an affordability agreement under a new housing assistance payments contract with HUD, or through an enforceable covenant with the property owner, for at least 15 years after completion of any conservation improvements made under the program. Requires the Secretary to submit to specified congressional committees a detailed plan for the implementation of this Act.</summary>
+</bill>

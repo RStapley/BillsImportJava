@@ -1,0 +1,75 @@
+<bill session="114" type="h" number="732" updated="2015-05-15T04:47:30-04:00">
+  <state datetime="2015-02-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-04"/>
+  </status>
+  <introduced datetime="2015-02-04"/>
+  <titles>
+    <title type="short" as="introduced">Veterans Access to Speedy Review Act</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to improve the opportunity for veterans to use video conferencing for hearings before the Board of Veterans' Appeals.</title>
+  </titles>
+  <sponsor id="412519"/>
+  <cosponsors>
+    <cosponsor id="412630" joined="2015-02-13"/>
+    <cosponsor id="412642" joined="2015-02-13"/>
+    <cosponsor id="400041" joined="2015-02-13"/>
+    <cosponsor id="412516" joined="2015-02-04"/>
+    <cosponsor id="412571" joined="2015-02-04"/>
+    <cosponsor id="412470" joined="2015-02-25"/>
+    <cosponsor id="412271" joined="2015-02-13"/>
+    <cosponsor id="400185" joined="2015-02-04"/>
+    <cosponsor id="412603" joined="2015-02-04"/>
+    <cosponsor id="412595" joined="2015-04-21"/>
+    <cosponsor id="400224" joined="2015-02-13"/>
+    <cosponsor id="412557" joined="2015-02-04"/>
+    <cosponsor id="400238" joined="2015-02-25"/>
+    <cosponsor id="400263" joined="2015-02-04"/>
+    <cosponsor id="400271" joined="2015-02-09"/>
+    <cosponsor id="400290" joined="2015-02-04"/>
+    <cosponsor id="400295" joined="2015-02-04"/>
+    <cosponsor id="412585" joined="2015-02-13"/>
+    <cosponsor id="412633" joined="2015-02-13"/>
+    <cosponsor id="400333" joined="2015-02-04"/>
+    <cosponsor id="412509" joined="2015-02-13"/>
+    <cosponsor id="412626" joined="2015-02-05"/>
+    <cosponsor id="412520" joined="2015-02-05"/>
+    <cosponsor id="400403" joined="2015-02-04"/>
+    <cosponsor id="412538" joined="2015-02-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-04" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2015-02-20">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+    </action>
+    <action datetime="2015-04-14">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="2015-05-14">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2015-05-14">
+      <text>Forwarded by Subcommittee to Full Committee in the Nature of a Substitute (Amended) by Voice Vote .</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSVR09" subcommittee="Disability Assistance and Memorial Affairs" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Administrative remedies"/>
+    <term name="Department of Veterans Affairs"/>
+    <term name="Disability assistance"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>2/4/2015--Introduced.
+Veterans Access to Speedy Review Act
+
+Requires the Board of Veterans' Appeals, for purposes of scheduling a veteran's appeal hearing at the earliest possible date, to determine whether to provide such hearing: (1) at its principal location or at another Department of Veterans Affairs facility or other federal facility, and (2) through the use of videoconferencing or by an appellant's personal appearance.
+
+Requires the Board to notify the appellant of such decisions. Allows the appellant to request a different location or type of hearing. Requires the Board to grant such request and ensure that the hearing is scheduled at the earliest possible date.</summary>
+</bill>

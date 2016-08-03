@@ -1,0 +1,45 @@
+<bill session="114" type="s" number="1356" updated="2015-07-04T06:57:40-04:00">
+  <state datetime="2015-05-14">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2015-05-14"/>
+  </status>
+  <introduced datetime="2015-05-14"/>
+  <titles>
+    <title type="official" as="introduced">A bill to clarify that certain provisions of the Border Patrol Agent Pay Reform Act of 2014 will not take effect until after the Director of the Office of Personnel Management promulgates and makes effective regulations relating to such provisions.</title>
+  </titles>
+  <sponsor id="412496"/>
+  <cosponsors>
+    <cosponsor id="400064" joined="2015-05-14"/>
+    <cosponsor id="300071" joined="2015-05-14"/>
+    <cosponsor id="412244" joined="2015-05-14"/>
+  </cosponsors>
+  <actions>
+    <vote how="by Unanimous Consent" type="vote" datetime="2015-05-14" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text>
+      <reference ref="CR S2946" label="consideration"/>
+      <reference ref="CR S2946" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2015-05-14T19:28:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2015-05-14">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2015-05-14T19:40:00-04:00">
+      <text>Held at the desk.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="2252"/>
+    <bill relation="unknown" session="114" type="h" number="2252"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+  </subjects>
+  <amendments/>
+  <summary>5/14/2015--Passed Senate without amendment.
+(This measure has not been amended since it was introduced. The summary of that version is repeated here.)
+
+This bill amends the Border Patrol Agent Pay Reform Act of 2014 to establish a&#160;general effective date for the pay provisions of such Act as the first day of the first pay period beginning on or after January 1, 2016, except that the provision in such Act relating to administering elections and making advance assignments to a regular tour of duty shall be applicable before such effective date to the extent deemed necessary by the Office of Personnel Management (OPM). OPM is authorized to issue regulations as necessary prior to such effective date.</summary>
+</bill>

@@ -1,0 +1,33 @@
+<bill session="114" type="s" number="1616" updated="2015-07-11T07:00:48-04:00">
+  <state datetime="2015-06-24">REPORTED</state>
+  <status>
+    <unknown datetime="2015-06-24"/>
+  </status>
+  <introduced datetime="2015-06-18"/>
+  <titles>
+    <title type="short" as="introduced">Saving Federal Dollars Through Better Use of Government Purchase and Travel Cards Act of 2015</title>
+    <title type="official" as="introduced">A bill to provide for the identification and prevention of improper payments and the identification of strategic souring opportunities by reviewing and analyzing the use of Federal agency charge cards.</title>
+  </titles>
+  <sponsor id="300019"/>
+  <cosponsors>
+    <cosponsor id="300048" joined="2015-06-18"/>
+    <cosponsor id="412496" joined="2015-06-18"/>
+    <cosponsor id="412243" joined="2015-06-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-18" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <calendar datetime="2015-06-24" state="REPORTED">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+  </subjects>
+  <amendments/>
+</bill>

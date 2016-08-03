@@ -1,0 +1,35 @@
+<bill session="114" type="s" number="1626" updated="2015-08-22T07:05:21-04:00">
+  <state datetime="2015-06-25">REPORTED</state>
+  <status>
+    <unknown datetime="2015-06-25"/>
+  </status>
+  <introduced datetime="2015-06-18"/>
+  <titles>
+    <title type="short" as="introduced">Railroad Reform, Enhancement, and Efficiency Act</title>
+    <title type="short" as="introduced" partial="1">Railroad Infrastructure Financing Improvement Act</title>
+    <title type="short" as="introduced" partial="1">Track, Railroad, and Infrastructure Network Act</title>
+    <title type="official" as="introduced">A bill to reauthorize Federal support for passenger rail programs, improve safety, streamline rail project delivery, and for other purposes.</title>
+  </titles>
+  <sponsor id="400432"/>
+  <cosponsors>
+    <cosponsor id="412598" joined="2015-06-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-18" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+    <calendar datetime="2015-06-25" state="REPORTED">
+      <text>Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1732"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+</bill>

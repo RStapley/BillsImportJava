@@ -1,0 +1,28 @@
+<bill session="114" type="hr" number="376" updated="2015-08-22T06:18:50-04:00">
+  <state datetime="2015-07-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-23"/>
+  </status>
+  <introduced datetime="2015-07-23"/>
+  <titles>
+    <title type="official" as="introduced">To refer H.R. 3133, a bill making congressional reference to the United States Court of Federal Claims pursuant to sections 1492 and 2509 of title 28, United States Code, of certain Indian land-related takings claims of the Grand Traverse Band of Ottawa and Chippewa Indians of Michigan and its individual members.</title>
+  </titles>
+  <sponsor id="412436"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-23" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="hr" number="381"/>
+    <bill relation="unknown" session="114" type="h" number="3133"/>
+  </relatedbills>
+  <subjects>
+    <term name="Native Americans"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,30 @@
+<bill session="114" type="s" number="1949" updated="2015-08-14T12:47:34-04:00">
+  <state datetime="2015-08-05">REFERRED</state>
+  <status>
+    <introduced datetime="2015-08-05"/>
+  </status>
+  <introduced datetime="2015-08-05"/>
+  <titles>
+    <title type="short" as="introduced">Mobile Device Theft Deterrence Act of 2015</title>
+    <title type="official" as="introduced">A bill to make it unlawful to alter or remove the unique equipment identification number of a mobile device.</title>
+  </titles>
+  <sponsor id="300087"/>
+  <cosponsors>
+    <cosponsor id="412490" joined="2015-08-05"/>
+    <cosponsor id="300011" joined="2015-08-05"/>
+    <cosponsor id="412242" joined="2015-08-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-08-05" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+  </subjects>
+  <amendments/>
+</bill>

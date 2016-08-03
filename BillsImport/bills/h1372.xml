@@ -1,0 +1,49 @@
+<bill session="114" type="h" number="1372" updated="2015-05-09T06:32:41-04:00">
+  <state datetime="2015-03-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-16"/>
+  </status>
+  <introduced datetime="2015-03-16"/>
+  <titles>
+    <title type="short" as="introduced">Home Visiting Extension Act</title>
+    <title type="official" as="introduced">To amend title V of the Social Security Act to extend the Maternal, Infant, and Early Childhood Home Visiting Programs.</title>
+  </titles>
+  <sponsor id="400636"/>
+  <cosponsors>
+    <cosponsor id="400660" joined="2015-03-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-16" state="REFERRED">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-03-16">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-03-16">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-03-20">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="2"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Child health"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Home and outpatient care"/>
+    <term name="Women's health"/>
+  </subjects>
+  <amendments/>
+  <summary>3/16/2015--Introduced.
+Home Visiting Extension Act
+
+This bill amends title V (Maternal and Child Health Services) of the Social Security Act to extend through FY2015 the Maternal, Infant, and Early Childhood Home Visiting programs.</summary>
+</bill>

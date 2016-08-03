@@ -1,0 +1,47 @@
+<bill session="114" type="s" number="855" updated="2015-05-07T04:48:15-04:00">
+  <state datetime="2015-03-24">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-24"/>
+  </status>
+  <introduced datetime="2015-03-24"/>
+  <titles>
+    <title type="short" as="introduced">Endangered Species Management Self-Determination Act</title>
+    <title type="official" as="introduced">A bill to amend the Endangered Species Act of 1973 to permit Governors of States to regulate intrastate endangered species and intrastate threatened species, and for other purposes.</title>
+  </titles>
+  <sponsor id="412492"/>
+  <cosponsors>
+    <cosponsor id="412218" joined="2015-03-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-24" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+    <action datetime="2015-05-06">
+      <text>Committee on Environment and Public Works. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Administrative remedies"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Commerce"/>
+    <term name="Department of the Interior"/>
+    <term name="Electric power generation and transmission"/>
+    <term name="Endangered and threatened species"/>
+    <term name="Environmental regulatory procedures"/>
+    <term name="Government studies and investigations"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Land use and conservation"/>
+    <term name="Legal fees and court costs"/>
+    <term name="Legislative rules and procedure"/>
+    <term name="Property rights"/>
+    <term name="Public utilities and utility rates"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+</bill>

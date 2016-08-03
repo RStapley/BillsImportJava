@@ -1,0 +1,39 @@
+<bill session="114" type="h" number="1290" updated="2015-04-25T06:28:03-04:00">
+  <state datetime="2015-03-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-04"/>
+  </status>
+  <introduced datetime="2015-03-04"/>
+  <titles>
+    <title type="official" as="introduced">To provide for a study by the Transportation Research Board of the National Academies on the impact of diverting certain freight rail traffic to avoid urban areas, and for other purposes.</title>
+  </titles>
+  <sponsor id="412215"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-03-04" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2015-03-05">
+      <text>Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW14" subcommittee="Railroads, Pipelines, and Hazardous Materials" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Congressional oversight"/>
+    <term name="Government studies and investigations"/>
+    <term name="Hazardous wastes and toxic substances"/>
+    <term name="Oil and gas"/>
+    <term name="Railroads"/>
+    <term name="Transportation programs funding"/>
+    <term name="Transportation safety and security"/>
+    <term name="Urban and suburban affairs and development"/>
+  </subjects>
+  <amendments/>
+  <summary>3/4/2015--Introduced.
+Directs the Secretary of Transportation to make appropriate arrangements with the Transportation Research Board of the National Academy of Sciences, the National Academy of Engineering, the Institute of Medicine, and the National Research Council to study the cost and impact of rerouting freight rail traffic of hazardous material to avoid its transportation through urban areas.</summary>
+</bill>

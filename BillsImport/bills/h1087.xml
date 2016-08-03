@@ -1,0 +1,57 @@
+<bill session="114" type="h" number="1087" updated="2015-07-08T18:47:14-04:00">
+  <state datetime="2015-02-25">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-25"/>
+  </status>
+  <introduced datetime="2015-02-25"/>
+  <titles>
+    <title type="short" as="introduced">Wireless Telecommunications Tax and Fee Collection Fairness Act of 2015</title>
+    <title type="official" as="introduced">To ensure that methods of collecting taxes and fees by private citizens on behalf of State and local jurisdictions are fair and effective and do not discriminate against interstate commerce for wireless telecommunications services.</title>
+  </titles>
+  <sponsor id="400365"/>
+  <cosponsors>
+    <cosponsor id="400616" joined="2015-05-19"/>
+    <cosponsor id="412236" joined="2015-04-14"/>
+    <cosponsor id="412621" joined="2015-04-29"/>
+    <cosponsor id="412536" joined="2015-05-08"/>
+    <cosponsor id="412526" joined="2015-06-23"/>
+    <cosponsor id="400108" joined="2015-04-14"/>
+    <cosponsor id="400640" joined="2015-04-15"/>
+    <cosponsor id="400141" joined="2015-04-15"/>
+    <cosponsor id="412397" joined="2015-05-26"/>
+    <cosponsor id="400233" joined="2015-07-08"/>
+    <cosponsor id="412643" joined="2015-04-28"/>
+    <cosponsor id="400279" joined="2015-04-28"/>
+    <cosponsor id="400606" joined="2015-04-22"/>
+    <cosponsor id="412410" joined="2015-06-17"/>
+    <cosponsor id="412640" joined="2015-02-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-25" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-03-17">
+      <text>Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU05" subcommittee="Regulatory Reform, Commercial And Antitrust Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1261"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Sales and excise taxes"/>
+    <term name="State and local taxation"/>
+    <term name="Tax administration and collection, taxpayers"/>
+    <term name="Telephone and wireless communication"/>
+    <term name="User charges and fees"/>
+  </subjects>
+  <amendments/>
+  <summary>2/25/2015--Introduced.
+Wireless Telecommunications Tax and Fee Collection Fairness Act of 2015
+
+Prohibits a state or&#160;local jurisdiction&#160;from requiring any person&#160;to&#160;collect from, or remit on behalf of, any other person any state or local fee, tax, or surcharge imposed on a purchaser or user with respect to the purchase or use of any wireless communication service within a state, unless there is a financial transaction between the person from whom the state seeks to require such collection or remittance and the purchaser or user of such service. Defines "financial transaction"&#160;to mean that there is a transaction involving cash, credit or any other exchange of monetary value or consideration given by the purchaser or user upon whom the fee, tax or surcharge is imposed to the person required to collect or remit the fee, tax or surcharge.</summary>
+</bill>

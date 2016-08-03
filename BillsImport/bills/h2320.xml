@@ -1,0 +1,60 @@
+<bill session="114" type="h" number="2320" updated="2015-08-01T04:50:55-04:00">
+  <state datetime="2015-07-22">REPORTED</state>
+  <status>
+    <unknown datetime="2015-07-22"/>
+  </status>
+  <introduced datetime="2015-05-14"/>
+  <titles>
+    <title type="short" as="introduced">Federal Improper Payments Coordination Act of 2015</title>
+    <title type="official" as="introduced">To provide access to and use of information by Federal agencies in order to reduce improper payments, and for other purposes.</title>
+  </titles>
+  <sponsor id="412474"/>
+  <cosponsors>
+    <cosponsor id="412537" joined="2015-05-14"/>
+    <cosponsor id="412622" joined="2015-05-14"/>
+    <cosponsor id="412272" joined="2015-05-14"/>
+    <cosponsor id="400081" joined="2015-07-15"/>
+    <cosponsor id="412533" joined="2015-07-27"/>
+    <cosponsor id="412623" joined="2015-07-31"/>
+    <cosponsor id="400626" joined="2015-07-29"/>
+    <cosponsor id="400627" joined="2015-05-14"/>
+    <cosponsor id="412416" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-14" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2015-07-22">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-07-22" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="614"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Accounting and auditing"/>
+    <term name="Congressional operations and organization"/>
+    <term name="Congressional oversight"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Health information and medical records"/>
+    <term name="Judicial procedure and administration"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Performance measurement"/>
+    <term name="Public contracts and procurement"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+  <summary>5/14/2015--Introduced.
+Federal Improper Payments Coordination Act of 2015
+
+Amends the Improper Payments Elimination and Recovery Improvement Act of 2012 to: (1) extend the availability of the Do Not Pay Initiative to the judicial and legislative branches and to the states; (2) require the Departments of Defense and State to submit, promptly and on a regular basis, relevant information on the deaths of individuals; and (3) require the Department of the Treasury to report to Congress on data analytics performed as part of the Do Not Pay Initiative.</summary>
+</bill>

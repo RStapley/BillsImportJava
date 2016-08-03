@@ -1,0 +1,51 @@
+<bill session="114" type="h" number="1498" updated="2015-06-20T04:47:10-04:00">
+  <state datetime="2015-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-19"/>
+  </status>
+  <introduced datetime="2015-03-19"/>
+  <titles>
+    <title type="short" as="introduced">Hostage Recovery Improvement Act</title>
+    <title type="official" as="introduced">To direct the President to designate an existing Federal officer to coordinate efforts to secure the release of United States citizens who are hostages of hostile groups or state sponsors of terrorism, and for other purposes.</title>
+  </titles>
+  <sponsor id="412283"/>
+  <cosponsors>
+    <cosponsor id="412513" joined="2015-03-19"/>
+    <cosponsor id="412532" joined="2015-04-21"/>
+    <cosponsor id="412453" joined="2015-04-21"/>
+    <cosponsor id="412397" joined="2015-03-19"/>
+    <cosponsor id="400653" joined="2015-03-25"/>
+    <cosponsor id="412447" joined="2015-03-19"/>
+    <cosponsor id="412421" joined="2015-03-24"/>
+    <cosponsor id="400249" joined="2015-03-19"/>
+    <cosponsor id="412660" joined="2015-06-19"/>
+    <cosponsor id="412409" joined="2015-03-19"/>
+    <cosponsor id="412569" joined="2015-03-19"/>
+    <cosponsor id="412483" joined="2015-03-19"/>
+    <cosponsor id="412311" joined="2015-03-24"/>
+    <cosponsor id="409888" joined="2015-04-15"/>
+    <cosponsor id="412636" joined="2015-05-13"/>
+    <cosponsor id="412640" joined="2015-03-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-19" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+  </subjects>
+  <amendments/>
+  <summary>3/19/2015--Introduced.
+Hostage Recovery Improvement Act
+
+This bill directs the President to designate an existing federal officer as the Interagency Hostage Recovery Coordinator who shall coordinate efforts to secure the release of U.S. citizens who are hostages of hostile groups or state sponsors of terrorism.
+
+The Coordinator shall establish a federal task force with respect to each hostage situation, and report quarterly on each one.
+
+It is the sense of Congress that the Coordinator should develop and pursue an entire range of options with respect to each hostage situation, including kinetic and non-kinetic options.</summary>
+</bill>

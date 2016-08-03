@@ -1,0 +1,148 @@
+<bill session="114" type="h" number="292" updated="2015-07-11T04:46:41-04:00">
+  <state datetime="2015-01-13">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-13"/>
+  </status>
+  <introduced datetime="2015-01-13"/>
+  <titles>
+    <title type="short" as="introduced">Advancing Research for Neurological Diseases Act of 2015</title>
+    <title type="official" as="introduced">To amend the Public Health Service Act to provide for systematic data collection and analysis and epidemiological research regarding Multiple Sclerosis (MS), Parkinson's disease, and other neurological diseases.</title>
+  </titles>
+  <sponsor id="400052"/>
+  <cosponsors>
+    <cosponsor id="412500" joined="2015-04-13"/>
+    <cosponsor id="412565" joined="2015-03-04"/>
+    <cosponsor id="412436" joined="2015-05-15"/>
+    <cosponsor id="412250" joined="2015-01-13"/>
+    <cosponsor id="400033" joined="2015-02-10"/>
+    <cosponsor id="400047" joined="2015-02-10"/>
+    <cosponsor id="400048" joined="2015-02-10"/>
+    <cosponsor id="412516" joined="2015-02-10"/>
+    <cosponsor id="400068" joined="2015-03-17"/>
+    <cosponsor id="412195" joined="2015-03-24"/>
+    <cosponsor id="412470" joined="2015-06-04"/>
+    <cosponsor id="412221" joined="2015-03-17"/>
+    <cosponsor id="412236" joined="2015-02-24"/>
+    <cosponsor id="412563" joined="2015-03-04"/>
+    <cosponsor id="412658" joined="2015-04-16"/>
+    <cosponsor id="412272" joined="2015-02-10"/>
+    <cosponsor id="412651" joined="2015-05-15"/>
+    <cosponsor id="412505" joined="2015-06-04"/>
+    <cosponsor id="412613" joined="2015-05-15"/>
+    <cosponsor id="412385" joined="2015-04-30"/>
+    <cosponsor id="412637" joined="2015-06-18"/>
+    <cosponsor id="400116" joined="2015-04-13"/>
+    <cosponsor id="412215" joined="2015-04-16"/>
+    <cosponsor id="400122" joined="2015-04-16"/>
+    <cosponsor id="400124" joined="2015-03-04"/>
+    <cosponsor id="412524" joined="2015-04-16"/>
+    <cosponsor id="400142" joined="2015-02-10"/>
+    <cosponsor id="412473" joined="2015-03-17"/>
+    <cosponsor id="412485" joined="2015-02-10"/>
+    <cosponsor id="400162" joined="2015-02-10"/>
+    <cosponsor id="412454" joined="2015-06-04"/>
+    <cosponsor id="412280" joined="2015-02-10"/>
+    <cosponsor id="400170" joined="2015-03-26"/>
+    <cosponsor id="412584" joined="2015-02-10"/>
+    <cosponsor id="400641" joined="2015-02-10"/>
+    <cosponsor id="412282" joined="2015-04-30"/>
+    <cosponsor id="412511" joined="2015-06-04"/>
+    <cosponsor id="400195" joined="2015-03-17"/>
+    <cosponsor id="412561" joined="2015-06-25"/>
+    <cosponsor id="412199" joined="2015-06-12"/>
+    <cosponsor id="412603" joined="2015-03-17"/>
+    <cosponsor id="400209" joined="2015-04-13"/>
+    <cosponsor id="412583" joined="2015-03-04"/>
+    <cosponsor id="400219" joined="2015-01-13"/>
+    <cosponsor id="412557" joined="2015-02-24"/>
+    <cosponsor id="412290" joined="2015-02-24"/>
+    <cosponsor id="400230" joined="2015-03-17"/>
+    <cosponsor id="400232" joined="2015-03-26"/>
+    <cosponsor id="400237" joined="2015-02-10"/>
+    <cosponsor id="400238" joined="2015-04-30"/>
+    <cosponsor id="412616" joined="2015-04-13"/>
+    <cosponsor id="400630" joined="2015-04-13"/>
+    <cosponsor id="412209" joined="2015-03-24"/>
+    <cosponsor id="400245" joined="2015-03-17"/>
+    <cosponsor id="400251" joined="2015-01-13"/>
+    <cosponsor id="412562" joined="2015-06-04"/>
+    <cosponsor id="400663" joined="2015-04-13"/>
+    <cosponsor id="400654" joined="2015-04-13"/>
+    <cosponsor id="400259" joined="2015-06-25"/>
+    <cosponsor id="400263" joined="2015-03-04"/>
+    <cosponsor id="412527" joined="2015-07-10"/>
+    <cosponsor id="400290" joined="2015-06-04"/>
+    <cosponsor id="408211" joined="2015-03-26"/>
+    <cosponsor id="400295" joined="2015-02-10"/>
+    <cosponsor id="412409" joined="2015-02-10"/>
+    <cosponsor id="412443" joined="2015-04-30"/>
+    <cosponsor id="400309" joined="2015-03-17"/>
+    <cosponsor id="412303" joined="2015-04-30"/>
+    <cosponsor id="412569" joined="2015-04-16"/>
+    <cosponsor id="412523" joined="2015-04-13"/>
+    <cosponsor id="400316" joined="2015-02-10"/>
+    <cosponsor id="412307" joined="2015-03-04"/>
+    <cosponsor id="412585" joined="2015-04-30"/>
+    <cosponsor id="412309" joined="2015-02-10"/>
+    <cosponsor id="400326" joined="2015-02-24"/>
+    <cosponsor id="400333" joined="2015-04-30"/>
+    <cosponsor id="412489" joined="2015-03-24"/>
+    <cosponsor id="412647" joined="2015-05-21"/>
+    <cosponsor id="412411" joined="2015-03-04"/>
+    <cosponsor id="400347" joined="2015-03-24"/>
+    <cosponsor id="400352" joined="2015-03-04"/>
+    <cosponsor id="400361" joined="2015-03-04"/>
+    <cosponsor id="412314" joined="2015-02-24"/>
+    <cosponsor id="400367" joined="2015-04-13"/>
+    <cosponsor id="412186" joined="2015-02-10"/>
+    <cosponsor id="400380" joined="2015-05-01"/>
+    <cosponsor id="412259" joined="2015-02-10"/>
+    <cosponsor id="412461" joined="2015-04-13"/>
+    <cosponsor id="400402" joined="2015-04-16"/>
+    <cosponsor id="400403" joined="2015-02-24"/>
+    <cosponsor id="412319" joined="2015-03-24"/>
+    <cosponsor id="400415" joined="2015-01-13"/>
+    <cosponsor id="400419" joined="2015-06-12"/>
+    <cosponsor id="412412" joined="2015-05-15"/>
+    <cosponsor id="412255" joined="2015-02-10"/>
+    <cosponsor id="412211" joined="2015-02-10"/>
+    <cosponsor id="412430" joined="2015-04-13"/>
+    <cosponsor id="412628" joined="2015-04-16"/>
+    <cosponsor id="400440" joined="2015-03-17"/>
+    <cosponsor id="412646" joined="2015-06-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-13" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-01-16">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="6"/>
+    <bill relation="identical" session="114" type="s" number="849"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Advisory bodies"/>
+    <term name="Government information and archives"/>
+    <term name="Health information and medical records"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Medical research"/>
+    <term name="Neurological disorders"/>
+  </subjects>
+  <amendments/>
+  <summary>1/13/2015--Introduced.
+Advancing Research for Neurological Diseases Act of 2015
+
+Amends the Public Health Service Act to require the Centers for Disease Control and Prevention to: (1) enhance and expand infrastructure and activities to track the epidemiology of neurological diseases, including multiple sclerosis and Parkinson's disease; and (2) incorporate information obtained through those activities into a National Neurological Diseases Surveillance System. Requires the Department of Health and Human Services (HHS) to ensure that the System facilitates further research on neurological diseases.
+
+Requires HHS to provide for the collection and storage of information on neurological diseases, including the incidence, prevalence, and other information, to the extent practicable.
+
+Requires HHS to: (1) make information and analysis in the System available to federal agencies and to the public, including researchers; and (2) ensure that privacy and security protections applicable to the System are at least as stringent as the protections under the Health Insurance Portability and Accountability Act.</summary>
+</bill>

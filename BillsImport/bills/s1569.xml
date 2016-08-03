@@ -1,0 +1,28 @@
+<bill session="114" type="s" number="1569" updated="2015-06-13T06:57:54-04:00">
+  <state datetime="2015-06-11">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-11"/>
+  </status>
+  <introduced datetime="2015-06-11"/>
+  <titles>
+    <title type="official" as="introduced">A bill to require a review of the adequacy of existing procedures to ensure at least one employee of the personal office of each Senator serving on a committee that requires access to top secret and sensitive compartmented information may obtain the security clearances necessary for the employee to have access to such information.</title>
+  </titles>
+  <sponsor id="400418"/>
+  <cosponsors>
+    <cosponsor id="412556" joined="2015-06-11"/>
+    <cosponsor id="412244" joined="2015-06-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-11" state="REFERRED">
+      <text>Read twice and referred to the Committee on Rules and Administration.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSRA" name="Senate Rules and Administration" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+  </subjects>
+  <amendments/>
+</bill>

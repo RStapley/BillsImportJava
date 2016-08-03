@@ -1,0 +1,44 @@
+<bill session="114" type="s" number="1188" updated="2015-06-13T06:54:37-04:00">
+  <state datetime="2015-05-05">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-05"/>
+  </status>
+  <introduced datetime="2015-05-05"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide for a temporary, emergency authorization of defense articles, defense services, and related training directly to the Kurdistan Regional Government, and for other purposes.</title>
+  </titles>
+  <sponsor id="412667"/>
+  <cosponsors>
+    <cosponsor id="400034" joined="2015-06-04"/>
+    <cosponsor id="300011" joined="2015-05-05"/>
+    <cosponsor id="412573" joined="2015-05-21"/>
+    <cosponsor id="300047" joined="2015-05-05"/>
+    <cosponsor id="300055" joined="2015-05-07"/>
+    <cosponsor id="412496" joined="2015-05-05"/>
+    <cosponsor id="412492" joined="2015-05-05"/>
+    <cosponsor id="412491" joined="2015-05-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-05" state="REFERRED">
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+    <action datetime="2015-05-06">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S2661"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+  </subjects>
+  <amendments/>
+  <summary>5/5/2015--Introduced.
+Expresses the sense of Congress that:
+
+ the Islamic State of Iraq and the Levant (ISIL) poses an acute threat to the people and territorial integrity of Iraq, including the Iraqi Kurdistan Region, and the security and stability of the Middle East and the world; defeating ISIL is critical to maintaining a unified Iraq in which all faiths and ethnicities are afforded equal protection and full integration into the government and society; and any outstanding issues between the government of Iraq and the Kurdistan Regional Government (KRG) should be resolved expeditiously to allow for a resumption of normal relations. Authorizes the President to: (1) provide defense articles, defense services, and related training directly to the KRG military and security services to support international coalition efforts against ISIL or any successor group; and (2) issue licenses authorizing U.S. exporters to export defense articles, defense services, and related training directly to the KRG military and security services.
+
+ States that nothing in this Act shall be construed as establishing a precedent for the future provision of such assistance to organizations other than a country or international organization.</summary>
+</bill>

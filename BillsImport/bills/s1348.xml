@@ -1,0 +1,45 @@
+<bill session="114" type="s" number="1348" updated="2015-07-04T06:57:36-04:00">
+  <state datetime="2015-05-14">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-14"/>
+  </status>
+  <introduced datetime="2015-05-14"/>
+  <titles>
+    <title type="short" as="introduced">ROAD Act of 2015</title>
+    <title type="short" as="introduced">Route to Opportunity And Development Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend the Intermodal Surface Transportation Efficiency Act of 1991 with respect to high priority corridors on the National Highway System, and for other purposes.</title>
+  </titles>
+  <sponsor id="412668"/>
+  <cosponsors>
+    <cosponsor id="400054" joined="2015-05-14"/>
+    <cosponsor id="412582" joined="2015-05-14"/>
+    <cosponsor id="412321" joined="2015-05-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-14">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S2935"/>
+    </action>
+    <action datetime="2015-05-14" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="2211"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="North Carolina"/>
+    <term name="Roads and highways"/>
+    <term name="Transportation programs funding"/>
+    <term name="Virginia"/>
+  </subjects>
+  <amendments/>
+  <summary>5/14/2015--Introduced.
+Route to Opportunity And Development Act of 2015 or the ROAD Act of 2015
+
+ Amends the Intermodal Surface Transportation Efficiency Act of 1991, as amended, to revise the high priority Raleigh-Norfolk Corridor of the National Highway System between Raleigh, North Carolina, and Norfolk, Virginia, to include Rocky Mount, Williamston, and Elizabeth City, North Carolina.</summary>
+</bill>

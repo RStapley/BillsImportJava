@@ -1,0 +1,51 @@
+<bill session="114" type="h" number="2508" updated="2015-08-01T04:50:58-04:00">
+  <state datetime="2015-05-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-21"/>
+  </status>
+  <introduced datetime="2015-05-21"/>
+  <titles>
+    <title type="short" as="introduced">Healthy School Meals Flexibility Act</title>
+    <title type="official" as="introduced">To amend the Richard B. Russell National School Lunch Act to prohibit further reductions in sodium levels and to reinstate the grain-rich requirements applicable to the national school lunch and breakfast programs.</title>
+  </titles>
+  <sponsor id="412536"/>
+  <cosponsors>
+    <cosponsor id="412642" joined="2015-05-21"/>
+    <cosponsor id="412555" joined="2015-07-31"/>
+    <cosponsor id="412463" joined="2015-07-31"/>
+    <cosponsor id="412444" joined="2015-07-31"/>
+    <cosponsor id="412445" joined="2015-07-31"/>
+    <cosponsor id="412634" joined="2015-06-16"/>
+    <cosponsor id="400316" joined="2015-06-09"/>
+    <cosponsor id="400431" joined="2015-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-21" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1504"/>
+    <bill relation="identical" session="114" type="s" number="1146"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Child health"/>
+    <term name="Department of Agriculture"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Food assistance and relief"/>
+    <term name="Grain"/>
+    <term name="Nutrition and diet"/>
+  </subjects>
+  <amendments/>
+  <summary>5/21/2015--Introduced.
+Healthy School Meals Flexibility Act
+
+This bill amends the Richard B. Russell National School Lunch Act to prohibit the Department of Agriculture (USDA) from implementing any regulation that would require a reduction in the quantity of sodium contained in federally reimbursed meals, foods, and snacks sold in schools below specified July 2014 maximum levels allowed in school breakfasts for school year 2014-2015.
+
+With respect to grain contents, USDA shall only require that half of all grains in such food items are whole grain-rich. School food authorities must comply with the applicable grain component or standard with respect to the school lunch or school breakfast program in effect before July 1, 2014.</summary>
+</bill>

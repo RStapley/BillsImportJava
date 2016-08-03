@@ -1,0 +1,58 @@
+<bill session="114" type="h" number="1910" updated="2015-07-08T04:48:24-04:00">
+  <state datetime="2015-04-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-21"/>
+  </status>
+  <introduced datetime="2015-04-21"/>
+  <titles>
+    <title type="short" as="introduced">Put a Woman on the Twenty Act of 2015</title>
+    <title type="official" as="introduced">To require the Secretary of the Treasury to convene a panel to solicit recommendations for and select a portrait of a woman to be used in a redesign of the $20 Federal Reserve note.</title>
+  </titles>
+  <sponsor id="400163"/>
+  <cosponsors>
+    <cosponsor id="412516" joined="2015-05-15"/>
+    <cosponsor id="412379" joined="2015-06-17"/>
+    <cosponsor id="412600" joined="2015-05-05"/>
+    <cosponsor id="412221" joined="2015-05-01"/>
+    <cosponsor id="400101" joined="2015-04-28"/>
+    <cosponsor id="412637" joined="2015-06-12"/>
+    <cosponsor id="400122" joined="2015-05-01"/>
+    <cosponsor id="400162" joined="2015-06-02"/>
+    <cosponsor id="400641" joined="2015-06-12"/>
+    <cosponsor id="412557" joined="2015-06-02"/>
+    <cosponsor id="400237" joined="2015-07-07"/>
+    <cosponsor id="400251" joined="2015-04-28"/>
+    <cosponsor id="400271" joined="2015-05-21"/>
+    <cosponsor id="400661" joined="2015-06-17"/>
+    <cosponsor id="400289" joined="2015-04-28"/>
+    <cosponsor id="412308" joined="2015-04-28"/>
+    <cosponsor id="400333" joined="2015-04-28"/>
+    <cosponsor id="412520" joined="2015-05-15"/>
+    <cosponsor id="412254" joined="2015-05-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-21" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2015-04-30">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H2660"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Art, artists, authorship"/>
+    <term name="Currency"/>
+    <term name="U.S. history"/>
+    <term name="Women's rights"/>
+  </subjects>
+  <amendments/>
+  <summary>4/21/2015--Introduced.
+Put a Woman on the Twenty Act of 2015
+
+This bill directs the Secretary of the Treasury to convene a panel of U.S. citizens to solicit recommendations from the public for a portrait of a woman to be used in a redesign of the $20 Federal Reserve note.</summary>
+</bill>

@@ -1,0 +1,40 @@
+<bill session="114" type="s" number="359" updated="2015-06-13T06:47:37-04:00">
+  <state datetime="2015-02-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-04"/>
+  </status>
+  <introduced datetime="2015-02-04"/>
+  <titles>
+    <title type="short" as="introduced">Taxpayer Bailout Protection Act</title>
+    <title type="official" as="introduced">A bill to amend title I of the Patient Protection and Affordable Care Act to impose restrictions on the risk corridor program, and for other purposes.</title>
+  </titles>
+  <sponsor id="412269"/>
+  <cosponsors>
+    <cosponsor id="412491" joined="2015-02-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-04" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="724"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Comprehensive health care"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Insurance industry and regulation"/>
+  </subjects>
+  <amendments/>
+  <summary>2/4/2015--Introduced.
+Taxpayer Bailout Protection Act
+
+This bill amends the Patient Protection and Affordable Care Act to require the Department of Health and Human Services (HHS) to ensure that payments to plans do not exceed payments to HHS under the risk corridors program (under which a qualified health plan is required to participate in a payment adjustment system based on the ratio of the allowable costs of the plan to the plan's aggregate premiums) for a plan year.
+
+HHS must proportionately decrease payments to plans in order to ensure that this requirement is satisfied each year.</summary>
+</bill>

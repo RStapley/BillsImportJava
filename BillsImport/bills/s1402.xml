@@ -1,0 +1,36 @@
+<bill session="114" type="s" number="1402" updated="2015-06-27T07:30:44-04:00">
+  <state datetime="2015-05-20">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-20"/>
+  </status>
+  <introduced datetime="2015-05-20"/>
+  <titles>
+    <title type="short" as="introduced">Patents for Humanity Program Improvement Act</title>
+    <title type="official" as="introduced">A bill to allow acceleration certificates awarded under the Patents for Humanity Program to be transferable.</title>
+  </titles>
+  <sponsor id="300065"/>
+  <cosponsors>
+    <cosponsor id="300048" joined="2015-05-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-20">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S3187-3188"/>
+    </action>
+    <action datetime="2015-05-20" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+  </subjects>
+  <amendments/>
+  <summary>5/20/2015--Introduced.
+Patents for Humanity Program Improvement Act
+
+Allows the holder or successor of an acceleration certificate issued pursuant to the Patents for Humanity Program (a pilot awards program established by the U.S. Patent and Trademark Office [USPTO] entitling awardees to accelerate certain USPTO proceedings for patented technologies addressing humanitarian needs among an impoverished population or for further research on humanitarian technologies) to transfer, including by sale, the entitlement to such certificate to another person.</summary>
+</bill>

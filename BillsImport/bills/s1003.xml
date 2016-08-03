@@ -1,0 +1,46 @@
+<bill session="114" type="s" number="1003" updated="2015-07-04T06:54:43-04:00">
+  <state datetime="2015-04-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-16"/>
+  </status>
+  <introduced datetime="2015-04-16"/>
+  <titles>
+    <title type="short" as="introduced">Trade Adjustment Assistance Enhancement Act of 2015</title>
+    <title type="official" as="introduced">A bill to extend the trade adjustment assistance program, and for other purposes.</title>
+  </titles>
+  <sponsor id="300025"/>
+  <cosponsors>
+    <cosponsor id="300100" joined="2015-04-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-16" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+    <action datetime="2015-04-21">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S2296-2297"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1088"/>
+    <bill relation="unknown" session="114" type="h" number="1314"/>
+    <bill relation="unknown" session="114" type="h" number="1892"/>
+    <bill relation="unknown" session="114" type="s" number="568"/>
+    <bill relation="unknown" session="114" type="s" number="1268"/>
+  </relatedbills>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Administrative remedies"/>
+    <term name="Employment and training programs"/>
+    <term name="Government information and archives"/>
+    <term name="Higher education"/>
+    <term name="Licensing and registrations"/>
+    <term name="Performance measurement"/>
+    <term name="Trade adjustment assistance"/>
+    <term name="Unemployment"/>
+  </subjects>
+  <amendments/>
+</bill>

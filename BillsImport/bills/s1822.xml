@@ -1,0 +1,27 @@
+<bill session="114" type="s" number="1822" updated="2015-08-01T07:07:28-04:00">
+  <state datetime="2015-07-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-21"/>
+  </status>
+  <introduced datetime="2015-07-21"/>
+  <titles>
+    <title type="official" as="introduced">A bill to take certain Federal land located in Tuolumne County, California, into trust for the benefit of the Tuolumne Band of Me-Wuk Indians, and for other purposes.</title>
+  </titles>
+  <sponsor id="300011"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on Indian Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SLIA" name="Senate Indian Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="3079"/>
+  </relatedbills>
+  <subjects>
+    <term name="Native Americans"/>
+  </subjects>
+  <amendments/>
+</bill>

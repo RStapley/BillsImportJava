@@ -1,0 +1,58 @@
+<bill session="114" type="h" number="2800" updated="2015-07-25T06:42:24-04:00">
+  <state datetime="2015-06-17">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-17"/>
+  </status>
+  <introduced datetime="2015-06-17"/>
+  <titles>
+    <title type="short" as="introduced">Pregnancy Discrimination Amendment Act</title>
+    <title type="official" as="introduced">To amend the Civil Rights Act of 1964 to provide protections against pregnancy discrimination in the workplace, and for other purposes.</title>
+  </titles>
+  <sponsor id="412213"/>
+  <cosponsors>
+    <cosponsor id="412635" joined="2015-07-09"/>
+    <cosponsor id="412478" joined="2015-07-14"/>
+    <cosponsor id="400032" joined="2015-07-09"/>
+    <cosponsor id="412539" joined="2015-07-21"/>
+    <cosponsor id="412271" joined="2015-06-23"/>
+    <cosponsor id="412457" joined="2015-06-25"/>
+    <cosponsor id="412444" joined="2015-07-09"/>
+    <cosponsor id="412284" joined="2015-06-17"/>
+    <cosponsor id="412643" joined="2015-07-14"/>
+    <cosponsor id="412611" joined="2015-07-13"/>
+    <cosponsor id="400276" joined="2015-06-23"/>
+    <cosponsor id="412475" joined="2015-06-17"/>
+    <cosponsor id="412310" joined="2015-07-22"/>
+    <cosponsor id="400380" joined="2015-06-17"/>
+    <cosponsor id="412548" joined="2015-07-08"/>
+    <cosponsor id="412538" joined="2015-07-09"/>
+    <cosponsor id="412618" joined="2015-06-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-17" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+    <action datetime="2015-06-18">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H4496"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="1590"/>
+  </relatedbills>
+  <subjects>
+    <term name="Civil rights and liberties, minority issues"/>
+  </subjects>
+  <amendments/>
+  <summary>6/17/2015--Introduced.
+Pregnancy Discrimination Amendment Act 
+
+Amends provisions of the Civil Rights Act of 1964 that protect against pregnancy discrimination in the workplace to provide for women affected by pregnancy, childbirth, or related medical conditions to be treated the same for all employment-related purposes as any other persons who are applicants for employment with, or employees of, the same employer in work that is performed under similar working conditions and who are not so affected but are similar in their temporary ability or inability to work.
+
+Makes such treatment applicable to existing prohibited categories of employment discrimination on the basis of sex or because of sex.
+
+Prohibits this treatment from permitting a labor organization to cause an employer to commit an unlawful employment practice against an employee in violation of such provisions.</summary>
+</bill>

@@ -1,0 +1,87 @@
+<bill session="114" type="h" number="1155" updated="2015-08-01T06:29:00-04:00">
+  <state datetime="2015-03-24">REPORTED</state>
+  <status>
+    <unknown datetime="2015-03-24"/>
+  </status>
+  <introduced datetime="2015-02-27"/>
+  <titles>
+    <title type="short" as="introduced">SCRUB Act of 2015</title>
+    <title type="short" as="introduced">Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2015</title>
+    <title type="short" as="reported to house">SCRUB Act of 2015</title>
+    <title type="short" as="reported to house">Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2015</title>
+    <title type="official" as="introduced">To provide for the establishment of a process for the review of rules and sets of rules, and for other purposes.</title>
+  </titles>
+  <sponsor id="412596"/>
+  <cosponsors>
+    <cosponsor id="412531" joined="2015-02-27"/>
+    <cosponsor id="400141" joined="2015-02-27"/>
+    <cosponsor id="400154" joined="2015-02-27"/>
+    <cosponsor id="412422" joined="2015-02-27"/>
+    <cosponsor id="412445" joined="2015-03-17"/>
+    <cosponsor id="412292" joined="2015-02-27"/>
+    <cosponsor id="412468" joined="2015-02-27"/>
+    <cosponsor id="412660" joined="2015-07-23"/>
+    <cosponsor id="400652" joined="2015-02-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-27" state="REFERRED">
+      <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-02-27">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2015-02-27">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2015-02-27">
+      <text>Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.</text>
+    </action>
+    <action datetime="2015-03-02">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="2015-03-23">
+      <text>Subcommittee on Regulatory Reform, Commercial And Antitrust Law Discharged.</text>
+    </action>
+    <action datetime="2015-03-24">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-03-24" state="REPORTED">
+      <text>Ordered to be Reported by the Yeas and Nays: 17 - 12.</text>
+    </calendar>
+    <action datetime="2015-07-10T12:11:00-04:00">
+      <text>Reported by the Committee on Judiciary. H. Rept. 114-196, Part I.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSJU05" subcommittee="Regulatory Reform, Commercial And Antitrust Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1683"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Advisory bodies"/>
+    <term name="Competitiveness, trade promotion, trade deficits"/>
+    <term name="Congressional oversight"/>
+    <term name="Economic performance and conditions"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Judicial review and appeals"/>
+    <term name="Legislative rules and procedure"/>
+    <term name="Small business"/>
+  </subjects>
+  <amendments/>
+  <summary>2/27/2015--Introduced.
+Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2015 or the SCRUB Act of 2015
+
+Establishes the Retrospective Regulatory Review Commission to review the Code of Federal Regulations to identify, using specified criteria, rules and sets of rules that collectively implement a regulatory program&#160;that should be repealed to lower the cost of regulation to the economy, giving priority to major rules that: (1) have been in effect more than 15 years, (2) impose paperwork burdens that could be reduced substantially without significantly diminishing regulatory effectiveness,&#160;(3) impose disproportionately high costs on small business entities, and (4) could be strengthened in their effectiveness while reducing regulatory costs.&#160;Prohibits the reissuance of a rule similar to any rule that has been repealed or that results in the same adverse effects of a repealed rule.
+
+Requires the Commission to establish a public website to make regulatory information accessible to the public at no cost.
+
+Requires a federal agency that makes a new rule to: (1)&#160;repeal rules identified by the Commission to offset the cost to the economy of&#160;such new rule (cut-go procedures), and (2) include in the final issuance of such rule a plan for reviewing the rule not later than 10 years after it is promulgated. Requires the Administrator of the Office of Information and Regulatory Affairs of the Office of Management and Budget to review and certify the accuracy of agency determinations of the cost of new rules.
+
+Makes agency compliance with the requirements of this Act subject to judicial review.</summary>
+</bill>

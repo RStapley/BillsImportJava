@@ -1,0 +1,35 @@
+<bill session="114" type="s" number="845" updated="2015-06-19T04:48:31-04:00">
+  <state datetime="2015-03-24">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-24"/>
+  </status>
+  <introduced datetime="2015-03-24"/>
+  <titles>
+    <title type="official" as="introduced">A bill to require the Secretary of the Treasury to implement security measures in the electronic tax return filing process to prevent tax refund fraud from being perpetrated with electronic identity theft.</title>
+  </titles>
+  <sponsor id="412491"/>
+  <cosponsors>
+    <cosponsor id="412508" joined="2015-06-18"/>
+    <cosponsor id="412666" joined="2015-06-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-24" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="1595"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Computer security and identity theft"/>
+    <term name="Fraud offenses and financial crimes"/>
+    <term name="Tax administration and collection, taxpayers"/>
+  </subjects>
+  <amendments/>
+  <summary>3/24/2015--Introduced.
+This bill directs the Internal Revenue Service to implement security measures, including the use of security questions, in the electronic tax return filing process to prevent tax refund fraud from being perpetrated through electronic identity theft.</summary>
+</bill>

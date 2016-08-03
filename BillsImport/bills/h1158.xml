@@ -1,0 +1,114 @@
+<bill session="114" type="h" number="1158" updated="2015-06-27T06:38:38-04:00">
+  <state datetime="2015-05-19T18:52:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2015-05-19T18:52:00-04:00"/>
+  </status>
+  <introduced datetime="2015-02-27"/>
+  <titles>
+    <title type="short" as="introduced">Department of Energy Laboratory Modernization and Technology Transfer Act of 2015</title>
+    <title type="short" as="reported to house">Department of Energy Laboratory Modernization and Technology Transfer Act of 2015</title>
+    <title type="official" as="introduced">To improve management of the National Laboratories, enhance technology commercialization, facilitate public-private partnerships, and for other purposes.</title>
+  </titles>
+  <sponsor id="412422"/>
+  <cosponsors>
+    <cosponsor id="412524" joined="2015-03-04"/>
+    <cosponsor id="400130" joined="2015-02-27"/>
+    <cosponsor id="412453" joined="2015-05-18"/>
+    <cosponsor id="400204" joined="2015-02-27"/>
+    <cosponsor id="400630" joined="2015-02-27"/>
+    <cosponsor id="412293" joined="2015-02-27"/>
+    <cosponsor id="400441" joined="2015-02-27"/>
+    <cosponsor id="412660" joined="2015-02-27"/>
+    <cosponsor id="412192" joined="2015-02-27"/>
+    <cosponsor id="400343" joined="2015-02-27"/>
+    <cosponsor id="400381" joined="2015-02-27"/>
+    <cosponsor id="412514" joined="2015-02-27"/>
+    <cosponsor id="412574" joined="2015-02-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-27" state="REFERRED">
+      <text>Referred to the House Committee on Science, Space, and Technology.</text>
+    </action>
+    <action datetime="2015-03-04">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-03-04" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+    <action datetime="2015-05-19T17:54:00-04:00">
+      <text>Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 114-124.</text>
+    </action>
+    <calendar datetime="2015-05-19T17:54:00-04:00" calendar="Union" number="89">
+      <text>Placed on the Union Calendar, Calendar No. 89.</text>
+    </calendar>
+    <action datetime="2015-05-19T18:33:00-04:00">
+      <text>Mr. Smith (TX) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2015-05-19T18:33:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3373-3377" label="consideration"/>
+    </action>
+    <action datetime="2015-05-19T18:33:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1158.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2015-05-19T18:52:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H3373-3374" label="text"/>
+    </vote>
+    <action datetime="2015-05-19T18:52:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2015-05-20">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science, Space, and Technology" activity="Referral, Markup, Reporting"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1806"/>
+    <bill relation="unknown" session="114" type="s" number="1187"/>
+    <bill relation="unknown" session="114" type="s" number="1363"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Advanced technology and technological innovations"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Energy"/>
+    <term name="Education programs funding"/>
+    <term name="Energy research"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Federal officials"/>
+    <term name="Government studies and investigations"/>
+    <term name="Higher education"/>
+    <term name="Intellectual property"/>
+    <term name="Nuclear power"/>
+    <term name="Performance measurement"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Public-private cooperation"/>
+    <term name="Research administration and funding"/>
+    <term name="Research and development"/>
+    <term name="Small business"/>
+    <term name="Technology transfer and commercialization"/>
+  </subjects>
+  <amendments/>
+  <summary>2/27/2015--Introduced.
+Department of Energy Laboratory Modernization and Technology Transfer Act of 2015
+
+Amends the Department of Energy Organization Act to rename the Under Secretary for Science as the Under Secretary for Science and Energy.
+
+Directs the Secretary of Energy (DOE) to annually report on DOE's ability to improve the technology transfer and commercialization of energy technologies.
+
+Requires the Secretary to report on DOE's capabilities to authorize, host, and oversee privately funded fusion and non-light water reactor prototypes and related demonstration facilities at DOE-owned sites.
+
+Directs the Secretary to carry out the Agreements for Commercializing Technology pilot program in accordance with this Act, including by giving the contractors of the DOE nonmilitary national laboratories increased authority to negotiate contract terms and making every such national laboratory eligible for the program. Extends the pilot program until October 31, 2017.
+
+Requires the Secretary to delegate to the directors of the national laboratories signature authority with respect to specified agreements of less than $1 million.
+
+Permits the directors of national laboratories to use funds authorized to support technology transfer within DOE to carry out early-stage and pre-commercial technology demonstration activities to: (1) remove technology barriers that limit private sector interest, and (2) demonstrate potential commercial applications of any research and technologies arising from national laboratory activities. Amends the Energy Policy Act of 2005 to exempt institutions of higher education and nonprofit institutions from the cost-sharing requirements for research or development for six years.
+
+Authorizes the Secretary to enter into an agreement with the Director of the National Science Foundation (NSF) to enable the participation of DOE researchers in the National Science Foundation Innovation Corps program.
+
+Requires a report by the Government Accountability Office (GAO).</summary>
+</bill>

@@ -1,0 +1,29 @@
+<bill session="114" type="h" number="2837" updated="2015-07-25T06:42:43-04:00">
+  <state datetime="2015-06-18">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-18"/>
+  </status>
+  <introduced datetime="2015-06-18"/>
+  <titles>
+    <title type="official" as="introduced">To direct the Joint Committee on the Library to accept a statue depicting Pierre L'Enfant from the District of Columbia and to provide for the permanent display of the statue in the United States Capitol.</title>
+  </titles>
+  <sponsor id="400295"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-06-18">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E930-931"/>
+    </action>
+    <action datetime="2015-06-18" state="REFERRED">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,57 @@
+<bill session="114" type="h" number="231" updated="2015-04-15T04:46:51-04:00">
+  <state datetime="2015-01-08">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-08"/>
+  </status>
+  <introduced datetime="2015-01-08"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Water Resources Development Act of 1996 to deauthorize the Ten Mile Creek Water Preserve Area Critical Restoration Project.</title>
+  </titles>
+  <sponsor id="412527"/>
+  <cosponsors>
+    <cosponsor id="400048" joined="2015-03-18"/>
+    <cosponsor id="412195" joined="2015-02-25"/>
+    <cosponsor id="412604" joined="2015-02-24"/>
+    <cosponsor id="400086" joined="2015-02-25"/>
+    <cosponsor id="412621" joined="2015-02-24"/>
+    <cosponsor id="412526" joined="2015-02-25"/>
+    <cosponsor id="412385" joined="2015-02-24"/>
+    <cosponsor id="400108" joined="2015-02-12"/>
+    <cosponsor id="412529" joined="2015-02-24"/>
+    <cosponsor id="400170" joined="2015-02-12"/>
+    <cosponsor id="412603" joined="2015-02-24"/>
+    <cosponsor id="412409" joined="2015-04-14"/>
+    <cosponsor id="412309" joined="2015-01-22"/>
+    <cosponsor id="412311" joined="2015-01-08"/>
+    <cosponsor id="400344" joined="2015-02-25"/>
+    <cosponsor id="412411" joined="2015-02-24"/>
+    <cosponsor id="400623" joined="2015-02-24"/>
+    <cosponsor id="412412" joined="2015-02-24"/>
+    <cosponsor id="412525" joined="2015-04-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-08" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2015-01-09">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW02" subcommittee="Water Resources and Environment" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="124"/>
+  </relatedbills>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Florida"/>
+    <term name="Water quality"/>
+    <term name="Water resources funding"/>
+    <term name="Water storage"/>
+  </subjects>
+  <amendments/>
+  <summary>1/8/2015--Introduced.
+Amends the Water Resources Development Act of 1996 to deauthorize the Ten Mile Creek Water Preserve Area Critical Restoration Project upon execution of a transfer agreement between the Secretary of the Army and the South Florida Water Management District, under which the District shall operate the transferred project as an environmental restoration project to provide water storage and water treatment options.</summary>
+</bill>

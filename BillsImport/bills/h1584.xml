@@ -1,0 +1,39 @@
+<bill session="114" type="h" number="1584" updated="2015-07-10T04:47:47-04:00">
+  <state datetime="2015-03-24">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-24"/>
+  </status>
+  <introduced datetime="2015-03-24"/>
+  <titles>
+    <title type="short" as="introduced">CARDER Act of 2015</title>
+    <title type="short" as="introduced">Cybercrime Anti-Resale Deterrent and Extraterritoriality Revision Act of 2015</title>
+    <title type="official" as="introduced">To amend title 18, United States Code, to provide greater extraterritorial criminal jurisdiction over certain credit card and other access device fraud offenses.</title>
+  </titles>
+  <sponsor id="400230"/>
+  <cosponsors>
+    <cosponsor id="400137" joined="2015-07-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-24" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-04-21">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1704"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+  </subjects>
+  <amendments/>
+  <summary>3/24/2015--Introduced.
+Cybercrime Anti-Resale Deterrent and Extraterritoriality Revision Act of 2015 or the CARDER Act of 2015 
+
+Amends the federal criminal code to extend extraterritorially the application of penalties for fraud offenses involving an access device issued, owned, managed, or controlled by a financial institution, account issuer, credit card system member, or other entity organized under the laws of the United States or any U.S. state or territory. (An access device is any card, code, electronic serial number, telecommunications service, or other means of account access that can be used to initiate a transfer of funds or to obtain money, goods, or services.) Removes a condition under current law that subjects a person to such penalties only if the underlying articles, property, or proceeds are held within or have transferred through U.S. jurisdiction.</summary>
+</bill>

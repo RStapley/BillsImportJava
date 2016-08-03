@@ -1,0 +1,42 @@
+<bill session="114" type="hr" number="339" updated="2015-08-22T04:47:04-04:00">
+  <state datetime="2015-06-24">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-24"/>
+  </status>
+  <introduced datetime="2015-06-24"/>
+  <titles>
+    <title type="official" as="introduced">Expressing the sense of the House of Representatives regarding the 25th anniversary of democracy in Mongolia.</title>
+  </titles>
+  <sponsor id="400320"/>
+  <cosponsors>
+    <cosponsor id="400262" joined="2015-06-24"/>
+    <cosponsor id="412202" joined="2015-07-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-24" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2015-08-20">
+      <text>Referred to the Subcommittee on Asia and the Pacific.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSFA05" subcommittee="Asia and the Pacific" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="sr" number="189"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+  </subjects>
+  <amendments/>
+  <summary>6/24/2015--Introduced.
+Congratulates the people and the government of Mongolia on the 25th anniversary of the first democratic elections in Mongolia.
+
+Recognizes Mongolia's role as a global leader for emerging democracies.
+
+Acknowledges the shared interest of the U.S. government and the government of Mongolia in promoting peace and stability in Northeast and Central Asia.
+
+Recommends that the U.S. government expand academic, cultural, and other people-to-people partnerships between Mongolia and the United States.</summary>
+</bill>

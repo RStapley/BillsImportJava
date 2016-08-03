@@ -1,0 +1,66 @@
+<bill session="114" type="s" number="1331" updated="2015-08-01T07:03:17-04:00">
+  <state datetime="2015-05-20">REPORTED</state>
+  <status>
+    <unknown datetime="2015-05-20"/>
+  </status>
+  <introduced datetime="2015-05-13"/>
+  <titles>
+    <title type="short" as="introduced">Seasonal Forecasting Improvement Act</title>
+    <title type="official" as="introduced">A bill to help enhance commerce through improved seasonal forecasts, and for other purposes.</title>
+  </titles>
+  <sponsor id="400546"/>
+  <cosponsors>
+    <cosponsor id="412507" joined="2015-05-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-13" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+    <calendar datetime="2015-05-20" state="REPORTED">
+      <text>Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="Advisory bodies"/>
+    <term name="Arctic and polar regions"/>
+    <term name="Atmospheric science and weather"/>
+    <term name="Congressional oversight"/>
+    <term name="Executive Office of the President"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Internet and video services"/>
+    <term name="Natural disasters"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Research administration and funding"/>
+    <term name="Spacecraft and satellites"/>
+  </subjects>
+  <amendments/>
+  <summary>5/13/2015--Introduced.
+Seasonal Forecasting Improvement Act
+
+The Department of Commerce, through the National Weather Service and other appropriate programs in the National Oceanic and Atmospheric Administration (NOAA), shall:
+
+ collect and utilize information in order to make usable, reliable, and timely forecasts of seasonal temperature and precipitation; leverage existing research and models from the academic sector to improve such forecasts; determine and provide information on how such forecasted conditions may impact the number and severity of droughts, tornadoes, hurricanes, floods, heatwaves, or other relevant disasters, snowpack, and sea ice conditions; provide these forecasts and information on national and regional levels; and develop an Internet clearinghouse. Commerce shall provide forecasts and information on their impacts to the public.
+
+Commerce shall make grants to states and territories to appoint a forecast communication coordinator to receive and disseminate forecasts and information.
+
+Commerce shall provide funds to each state requesting assistance to support an individual to:
+
+ serve as a liaison among the NOAA, other federal departments and agencies, the academic sector, the state, and relevant interests within that state; and receive and disseminate the forecasts and information throughout the state, including county and tribal governments. The U.S. Weather Research Program shall: (1) report annually to Congress about on-going research projects and the five NOAA projects related to observations, weather, or seasonal-scale forecasts closest to operationalization; (2) establish teams with staff from the Office of Oceanic and Atmospheric Research and the National Weather Service to oversee the operationalization of research projects; and (3) facilitate visiting scholars.
+
+The NOAA must take immediate action to manage the expense of environmental observations by:
+
+ improving NOAA procurement practices with respect to polar and geostationary satellites; and assessing the operational viability of alternate observation platforms, such as microsatellite constellations and ocean observing systems. The NOAA and the National Aeronautics and Space Administration (NASA) shall use a specified process to acquire all the polar and geostationary weather satellites for use in a NOAA program phase via a single procurement action.
+
+The NOAA shall complete and operationalize the radio occultation program of record in effect on the day before enactment of this Act by:
+
+ deploying constellations of microsatellites in both the equatorial and polar orbits, integrating the resulting data and research into all national operational weather forecast models, and ensuring that the resulting data is free and open to all communities. The NOAA shall enter into an agreement with the National Academy of Sciences to study matters concerning the future of NOAA satellite systems.
+
+The Director of the Office of Science and Technology Policy shall designate a Federal Coordinator for Meteorology that, together with NOAA, shall support a Weather Commission to: (1) assess NOAA weather forecasts and forecast products, and (2) advise Congress on matters relating to the highest priority weather forecast needs of the community of users.</summary>
+</bill>

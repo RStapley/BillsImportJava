@@ -1,0 +1,45 @@
+<bill session="114" type="h" number="1452" updated="2015-08-15T06:31:24-04:00">
+  <state datetime="2015-03-18">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-18"/>
+  </status>
+  <introduced datetime="2015-03-18"/>
+  <titles>
+    <title type="official" as="introduced">To authorize Escambia County, Florida, to convey certain property that was formerly part of Santa Rosa Island National Monument and that was conveyed to Escambia County subject to restrictions on use and reconveyance.</title>
+  </titles>
+  <sponsor id="400279"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-03-18" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2015-04-07">
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="Federal Lands" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="770"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Florida"/>
+    <term name="Land transfers"/>
+    <term name="Land use and conservation"/>
+    <term name="Outdoor recreation"/>
+  </subjects>
+  <amendments/>
+  <summary>3/18/2015--Introduced.
+Authorizes Escambia County, Florida, at its discretion, to convey or dispose of all of its interest in any part of the property on Santa Rosa Island that was conveyed to it by the federal government pursuant to a specified Act and deed to any person or entity, free from any restriction on conveyance or reconveyance in such Act or deed.
+
+Prohibits persons or entities holding a leasehold interest in such property from being required to involuntarily accept a fee interest in lieu of their leasehold interest.
+
+Requires Escambia County within two years of enactment of this Act, to convey to Santa Rosa County, Florida, all interest held in any part of the property that falls within the jurisdictional boundaries of such county. Bars Santa Rosa County from being required to pay any sum for such property other than the actual costs associated with such conveyance.
+
+Permits Santa Rosa County or any other person to which property is conveyed under this Act to reconvey such property or any part of it.
+
+ Instructs Escambia County and Santa Rosa County to preserve in perpetuity those areas on Santa Rosa Island currently dedicated to conservation, preservation, the public, recreation, access, and public parking.</summary>
+</bill>

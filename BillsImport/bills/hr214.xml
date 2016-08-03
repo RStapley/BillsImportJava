@@ -1,0 +1,92 @@
+<bill session="114" type="hr" number="214" updated="2015-07-04T06:17:24-04:00">
+  <state datetime="2015-04-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-21"/>
+  </status>
+  <introduced datetime="2015-04-21"/>
+  <titles>
+    <title type="official" as="introduced">Supporting efforts to ensure that students have access to debt-free higher education.</title>
+  </titles>
+  <sponsor id="400162"/>
+  <cosponsors>
+    <cosponsor id="412607" joined="2015-04-21"/>
+    <cosponsor id="412652" joined="2015-06-11"/>
+    <cosponsor id="400048" joined="2015-06-11"/>
+    <cosponsor id="400616" joined="2015-06-11"/>
+    <cosponsor id="412379" joined="2015-04-21"/>
+    <cosponsor id="412600" joined="2015-04-21"/>
+    <cosponsor id="412221" joined="2015-04-21"/>
+    <cosponsor id="400074" joined="2015-04-21"/>
+    <cosponsor id="412236" joined="2015-06-11"/>
+    <cosponsor id="400080" joined="2015-04-21"/>
+    <cosponsor id="400090" joined="2015-04-21"/>
+    <cosponsor id="400100" joined="2015-04-21"/>
+    <cosponsor id="412613" joined="2015-04-21"/>
+    <cosponsor id="412385" joined="2015-06-18"/>
+    <cosponsor id="412263" joined="2015-04-21"/>
+    <cosponsor id="412215" joined="2015-04-21"/>
+    <cosponsor id="400124" joined="2015-06-11"/>
+    <cosponsor id="412612" joined="2015-04-21"/>
+    <cosponsor id="412382" joined="2015-06-18"/>
+    <cosponsor id="412276" joined="2015-04-21"/>
+    <cosponsor id="400163" joined="2015-04-21"/>
+    <cosponsor id="412498" joined="2015-04-21"/>
+    <cosponsor id="400185" joined="2015-04-21"/>
+    <cosponsor id="400195" joined="2015-04-21"/>
+    <cosponsor id="400199" joined="2015-04-29"/>
+    <cosponsor id="412199" joined="2015-04-21"/>
+    <cosponsor id="412557" joined="2015-06-11"/>
+    <cosponsor id="412638" joined="2015-06-11"/>
+    <cosponsor id="400237" joined="2015-04-21"/>
+    <cosponsor id="412616" joined="2015-04-21"/>
+    <cosponsor id="412521" joined="2015-04-27"/>
+    <cosponsor id="412293" joined="2015-04-27"/>
+    <cosponsor id="400262" joined="2015-04-21"/>
+    <cosponsor id="400263" joined="2015-04-21"/>
+    <cosponsor id="400661" joined="2015-06-11"/>
+    <cosponsor id="412527" joined="2015-06-11"/>
+    <cosponsor id="400289" joined="2015-06-11"/>
+    <cosponsor id="400290" joined="2015-06-11"/>
+    <cosponsor id="408211" joined="2015-06-11"/>
+    <cosponsor id="400295" joined="2015-04-21"/>
+    <cosponsor id="412585" joined="2015-04-21"/>
+    <cosponsor id="412308" joined="2015-04-21"/>
+    <cosponsor id="400333" joined="2015-04-21"/>
+    <cosponsor id="412312" joined="2015-04-29"/>
+    <cosponsor id="400360" joined="2015-04-21"/>
+    <cosponsor id="400364" joined="2015-04-27"/>
+    <cosponsor id="412396" joined="2015-06-11"/>
+    <cosponsor id="400378" joined="2015-06-11"/>
+    <cosponsor id="412514" joined="2015-04-21"/>
+    <cosponsor id="412520" joined="2015-04-21"/>
+    <cosponsor id="400415" joined="2015-04-21"/>
+    <cosponsor id="412522" joined="2015-04-29"/>
+    <cosponsor id="400422" joined="2015-04-21"/>
+    <cosponsor id="412644" joined="2015-04-21"/>
+    <cosponsor id="412239" joined="2015-04-21"/>
+    <cosponsor id="412412" joined="2015-04-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-21" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="sr" number="143"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Higher education"/>
+    <term name="State and local finance"/>
+    <term name="State and local government operations"/>
+    <term name="Student aid and college costs"/>
+  </subjects>
+  <amendments/>
+  <summary>4/21/2015--Introduced.
+Expresses support for efforts to:
+
+ ensure that all students have access to debt-free higher education upon graduation from public institutions of higher education; provide support to states to make increased investments in higher education that will result in lower tuition and costs for students; increase financial aid to help students afford attending college without taking on debt; encourage innovation by states and institutions of higher education to cut costs for students and make college more affordable by increasing efficiency and enabling speedy and less-costly degree completion; and reduce the burden of existing student loan debt.</summary>
+</bill>

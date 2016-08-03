@@ -1,0 +1,29 @@
+<bill session="114" type="s" number="1420" updated="2015-06-13T06:56:38-04:00">
+  <state datetime="2015-05-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-21"/>
+  </status>
+  <introduced datetime="2015-05-21"/>
+  <titles>
+    <title type="short" as="introduced">Energy Markets Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend the Department of Energy Organization Act to provide for the collection of information on critical energy supplies, to establish a Working Group on Energy Markets, and for other purposes.</title>
+  </titles>
+  <sponsor id="300018"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-05-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2015-06-09">
+      <text>Committee on Energy and Natural Resources. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+  </subjects>
+  <amendments/>
+</bill>

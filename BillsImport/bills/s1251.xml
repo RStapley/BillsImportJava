@@ -1,0 +1,39 @@
+<bill session="114" type="s" number="1251" updated="2015-08-31T09:46:01-04:00">
+  <state datetime="2015-05-20">REPORTED</state>
+  <status>
+    <unknown datetime="2015-05-20"/>
+  </status>
+  <introduced datetime="2015-05-07"/>
+  <titles>
+    <title type="short" as="introduced">Northwest Atlantic Fisheries Convention Amendments Act</title>
+    <title type="official" as="introduced">A bill to implement the Amendment to the Convention on Future Multilateral Cooperation in the Northwest Atlantic Fisheries, as adopted by Lisbon, Portugal on September 28, 2007.</title>
+  </titles>
+  <sponsor id="400253"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-05-07" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+    <calendar datetime="2015-05-20" state="REPORTED">
+      <text>Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="2015-08-28">
+      <text>Committee on Commerce, Science, and Transportation. Reported by Senator Thune under authority of the order of the Senate of 08/05/2015 without amendment. With written report No. 114-120.</text>
+    </action>
+    <calendar datetime="2015-08-28" calendar="Senate Legislative" under="General Orders" number="200">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 200.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Atlantic Ocean"/>
+    <term name="International law and treaties"/>
+    <term name="International organizations and cooperation"/>
+    <term name="Marine and coastal resources, fisheries"/>
+  </subjects>
+  <amendments/>
+</bill>

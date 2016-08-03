@@ -1,0 +1,42 @@
+<bill session="114" type="h" number="389" updated="2015-02-14T06:23:49-05:00">
+  <state datetime="2015-01-14">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-14"/>
+  </status>
+  <introduced datetime="2015-01-14"/>
+  <titles>
+    <title type="short" as="introduced">Fairness in Taxation Act of 2015</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to impose increased rates of tax with respect to taxpayers with more than $1,000,000 taxable income, and for other purposes.</title>
+  </titles>
+  <sponsor id="400360"/>
+  <cosponsors>
+    <cosponsor id="400080" joined="2015-01-14"/>
+    <cosponsor id="400090" joined="2015-01-14"/>
+    <cosponsor id="412215" joined="2015-01-14"/>
+    <cosponsor id="400162" joined="2015-01-14"/>
+    <cosponsor id="400163" joined="2015-01-14"/>
+    <cosponsor id="400237" joined="2015-01-14"/>
+    <cosponsor id="400262" joined="2015-01-14"/>
+    <cosponsor id="400289" joined="2015-01-14"/>
+    <cosponsor id="400295" joined="2015-01-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-14" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Capital gains tax"/>
+    <term name="Income tax rates"/>
+  </subjects>
+  <amendments/>
+  <summary>1/14/2015--Introduced.
+Fairness in Taxation Act of 2015
+
+Amends the Internal Revenue Code to: (1) increase individual income tax rates for taxpayers whose taxable income exceeds $1 million, and (2) provide for an adjustment in the capital gains tax of taxpayers whose taxable income is subject to the 45% tax bracket.</summary>
+</bill>

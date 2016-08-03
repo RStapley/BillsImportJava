@@ -1,0 +1,58 @@
+<bill session="114" type="s" number="986" updated="2015-08-15T07:00:00-04:00">
+  <state datetime="2015-05-13">REPORTED</state>
+  <status>
+    <unknown datetime="2015-05-13"/>
+  </status>
+  <introduced datetime="2015-04-16"/>
+  <titles>
+    <title type="short" as="introduced">Albuquerque Indian School Land Transfer Act</title>
+    <title type="short" as="reported to senate">Albuquerque Indian School Land Transfer Act</title>
+    <title type="official" as="introduced">A bill to require the Secretary of the Interior to take into trust 4 parcels of Federal land for the benefit of certain Indian Pueblos in the State of New Mexico.</title>
+  </titles>
+  <sponsor id="400413"/>
+  <cosponsors>
+    <cosponsor id="412281" joined="2015-04-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-16" state="REFERRED">
+      <text>Read twice and referred to the Committee on Indian Affairs.</text>
+    </action>
+    <calendar datetime="2015-05-13" state="REPORTED">
+      <text>Committee on Indian Affairs. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="2015-08-04">
+      <text>Committee on Indian Affairs. Reported by Senator Barrasso without amendment. With written report No. 114-114.</text>
+    </action>
+    <calendar datetime="2015-08-04" calendar="Senate Legislative" under="General Orders" number="194">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 194.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SLIA" name="Senate Indian Affairs" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="1880"/>
+  </relatedbills>
+  <subjects>
+    <term name="Native Americans"/>
+    <term name="Environmental assessment, monitoring, research"/>
+    <term name="Indian lands and resources rights"/>
+    <term name="Land transfers"/>
+    <term name="New Mexico"/>
+  </subjects>
+  <amendments/>
+  <summary>4/16/2015--Introduced.
+Albuquerque Indian School Land Transfer Act
+
+ Directs the Department of the Interior to take into trust 4 tracts of federal land in New Mexico, the combined acreage of which is approximately 11.11 acres, that were historically part of the Albuquerque Indian School for the benefit of 19 specified pueblos immediately after the requirements of the National Environmental Policy Act of 1969 have been satisfied regarding the trust acquisition of such federal land.
+
+Instructs Interior to: (1) take such action as determined to be necessary to document such transfer, and (2) appropriately assign each applicable private and municipal utility and service right or agreement.
+
+Requires the federal lands taken into trust to be used for the educational, health, cultural, business, and economic development of the 19 pueblos.
+
+Requires the federal lands taken into trust to remain subject to any private or municipal encumbrance, right-of-way, restriction, easement of record, or utility service agreement in effect on this Act's enactment date.
+
+Requires the 19 pueblos to allow the Bureau of Indian Affairs to continue to use the federal lands taken into trust for the facilities and purposes as in existence on this Act's enactment date.
+
+Prohibits gaming from being carried out on the federal lands taken into trust under this Act.</summary>
+</bill>

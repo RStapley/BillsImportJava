@@ -1,0 +1,100 @@
+<bill session="114" type="s" number="1324" updated="2015-08-15T07:02:53-04:00">
+  <state datetime="2015-08-05">REPORTED</state>
+  <status>
+    <unknown datetime="2015-08-05"/>
+  </status>
+  <introduced datetime="2015-05-13"/>
+  <titles>
+    <title type="short" as="introduced">Affordable Reliable Electricity Now Act of 2015</title>
+    <title type="official" as="introduced">A bill to require the Administrator of the Environmental Protection Agency to fulfill certain requirements before regulating standards of performance for new, modified, and reconstructed fossil fuel-fired electric utility generating units, and for other purposes.</title>
+  </titles>
+  <sponsor id="400061"/>
+  <cosponsors>
+    <cosponsor id="300002" joined="2015-05-13"/>
+    <cosponsor id="412251" joined="2015-05-13"/>
+    <cosponsor id="400034" joined="2015-05-13"/>
+    <cosponsor id="400040" joined="2015-05-13"/>
+    <cosponsor id="412269" joined="2015-05-13"/>
+    <cosponsor id="402675" joined="2015-05-13"/>
+    <cosponsor id="300023" joined="2015-06-03"/>
+    <cosponsor id="300027" joined="2015-05-13"/>
+    <cosponsor id="412508" joined="2015-05-13"/>
+    <cosponsor id="300030" joined="2015-05-13"/>
+    <cosponsor id="412573" joined="2015-05-13"/>
+    <cosponsor id="412549" joined="2015-05-13"/>
+    <cosponsor id="300041" joined="2015-05-13"/>
+    <cosponsor id="412556" joined="2015-05-13"/>
+    <cosponsor id="412494" joined="2015-05-13"/>
+    <cosponsor id="300055" joined="2015-05-13"/>
+    <cosponsor id="400194" joined="2015-05-13"/>
+    <cosponsor id="412496" joined="2015-06-10"/>
+    <cosponsor id="412464" joined="2015-07-08"/>
+    <cosponsor id="412391" joined="2015-05-13"/>
+    <cosponsor id="300071" joined="2015-06-24"/>
+    <cosponsor id="300072" joined="2015-05-13"/>
+    <cosponsor id="300075" joined="2015-05-19"/>
+    <cosponsor id="412492" joined="2015-05-13"/>
+    <cosponsor id="412666" joined="2015-05-13"/>
+    <cosponsor id="412322" joined="2015-05-13"/>
+    <cosponsor id="300083" joined="2015-05-13"/>
+    <cosponsor id="412669" joined="2015-05-13"/>
+    <cosponsor id="412471" joined="2015-06-23"/>
+    <cosponsor id="300088" joined="2015-05-18"/>
+    <cosponsor id="412665" joined="2015-05-19"/>
+    <cosponsor id="400546" joined="2015-05-13"/>
+    <cosponsor id="412668" joined="2015-05-13"/>
+    <cosponsor id="400418" joined="2015-05-14"/>
+    <cosponsor id="400432" joined="2015-05-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-13" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+    <action datetime="2015-06-09">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S3894"/>
+    </action>
+    <action datetime="2015-06-23">
+      <text>Committee on Environment and Public Works Subcommittee on Clean Air and Nuclear Safety. Hearings held.</text>
+    </action>
+    <calendar datetime="2015-08-05" state="REPORTED">
+      <text>Committee on Environment and Public Works. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Markup"/>
+    <committee activity="Hearings" code="SSEV10" subcommittee="Clean Air and Nuclear Safety" name="Senate Environment and Public Works"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="2042"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Air quality"/>
+    <term name="Climate change and greenhouse gases"/>
+    <term name="Coal"/>
+    <term name="Economic performance and conditions"/>
+    <term name="Electric power generation and transmission"/>
+    <term name="Environmental Protection Agency (EPA)"/>
+    <term name="Environmental regulatory procedures"/>
+    <term name="Hazardous wastes and toxic substances"/>
+    <term name="Oil and gas"/>
+    <term name="Public utilities and utility rates"/>
+    <term name="Roads and highways"/>
+    <term name="Transportation programs funding"/>
+  </subjects>
+  <amendments/>
+  <summary>5/13/2015--Introduced.
+Affordable Reliable Electricity Now Act of 2015
+
+This bill requires the Environmental Protection Agency (EPA) to meet certain conditions prior to issuing, implementing, or enforcing a rule under the Clean Air Act that: (1) establishes a performance standard for greenhouse gas emissions from new, modified, or reconstructed fossil fuel-fired power plants (new power plants); and (2) addresses carbon dioxide emissions from existing fossil fuel-fired power plants (existing power plants). Specified rules issued by the EPA concerning greenhouse gases from new power plants under the Clean Air Act are nullified.
+
+In issuing those rules for new power plants, the EPA must: (1) place power plants fueled with coal and natural gas into separate categories, and (2) establish a separate subcategory for power plants using coal below a specified average heat content. Before the EPA can establish a greenhouse gas standard based on the best system of emission reduction for new power plants, the standard must first be achieved for at least one year at representative power plants throughout the country. The EPA may not use results obtained from demonstration projects when setting the standard.
+
+In order to regulate carbon dioxide emissions from existing power plants, the EPA must issue state-specific model plans demonstrating how each state can meet the required greenhouse gas emission reductions. States need not adopt or implement a state plan, or be subject to a federal plan, that addresses carbon dioxide emissions from existing power plants upon a determination that the plan would negatively affect: (1) economic growth, competitiveness, and jobs; (2) the reliability of its electricity system; or (3) electricity ratepayers by causing rate increases. The bill extends the compliance dates of those rules for existing power plants pending final judicial review.
+
+State noncompliance with any of those rules for new or existing power plants does not constitute a reason for imposing a highway project sanction.
+
+The EPA may regulate an existing power plant for either hazardous air pollutants or non-hazardous pollution, but not both.</summary>
+</bill>

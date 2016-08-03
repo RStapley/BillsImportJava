@@ -1,0 +1,42 @@
+<bill session="114" type="s" number="998" updated="2015-05-16T06:48:40-04:00">
+  <state datetime="2015-04-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-16"/>
+  </status>
+  <introduced datetime="2015-04-16"/>
+  <titles>
+    <title type="short" as="introduced">American Manufacturing Competitiveness Act of 2015</title>
+    <title type="official" as="introduced">A bill to establish a process for the consideration of temporary duty suspensions and reductions, and for other purposes.</title>
+  </titles>
+  <sponsor id="400325"/>
+  <cosponsors>
+    <cosponsor id="400054" joined="2015-04-20"/>
+    <cosponsor id="300047" joined="2015-04-29"/>
+    <cosponsor id="412243" joined="2015-04-16"/>
+    <cosponsor id="400408" joined="2015-04-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-16" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1269"/>
+  </relatedbills>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Competitiveness, trade promotion, trade deficits"/>
+    <term name="Congressional oversight"/>
+    <term name="Economic performance and conditions"/>
+    <term name="Government studies and investigations"/>
+    <term name="Legislative rules and procedure"/>
+    <term name="Manufacturing"/>
+    <term name="Tariffs"/>
+    <term name="U.S. International Trade Commission"/>
+  </subjects>
+  <amendments/>
+</bill>

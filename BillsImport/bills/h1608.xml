@@ -1,0 +1,164 @@
+<bill session="114" type="h" number="1608" updated="2015-08-05T04:47:12-04:00">
+  <state datetime="2015-03-25">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-25"/>
+  </status>
+  <introduced datetime="2015-03-25"/>
+  <titles>
+    <title type="short" as="introduced">Lymphedema Treatment Act</title>
+    <title type="official" as="introduced">To amend title XVIII of the Social Security Act to provide for Medicare coverage of certain lymphedema compression treatment items as items of durable medical equipment.</title>
+  </titles>
+  <sponsor id="400660"/>
+  <cosponsors>
+    <cosponsor id="412607" joined="2015-07-31"/>
+    <cosponsor id="412655" joined="2015-06-03"/>
+    <cosponsor id="412469" joined="2015-04-14"/>
+    <cosponsor id="412565" joined="2015-04-23"/>
+    <cosponsor id="412436" joined="2015-04-16"/>
+    <cosponsor id="412627" joined="2015-07-09"/>
+    <cosponsor id="400033" joined="2015-03-25"/>
+    <cosponsor id="412501" joined="2015-05-20"/>
+    <cosponsor id="412652" joined="2015-06-17"/>
+    <cosponsor id="400047" joined="2015-05-12"/>
+    <cosponsor id="400048" joined="2015-04-14"/>
+    <cosponsor id="412516" joined="2015-07-31"/>
+    <cosponsor id="412258" joined="2015-06-02"/>
+    <cosponsor id="412571" joined="2015-04-14"/>
+    <cosponsor id="412470" joined="2015-05-21"/>
+    <cosponsor id="412600" joined="2015-04-14"/>
+    <cosponsor id="412236" joined="2015-06-17"/>
+    <cosponsor id="412272" joined="2015-05-01"/>
+    <cosponsor id="412651" joined="2015-04-14"/>
+    <cosponsor id="412193" joined="2015-07-28"/>
+    <cosponsor id="400086" joined="2015-06-25"/>
+    <cosponsor id="400093" joined="2015-06-15"/>
+    <cosponsor id="412536" joined="2015-05-01"/>
+    <cosponsor id="400100" joined="2015-04-14"/>
+    <cosponsor id="400103" joined="2015-04-14"/>
+    <cosponsor id="412505" joined="2015-04-14"/>
+    <cosponsor id="400648" joined="2015-07-27"/>
+    <cosponsor id="412526" joined="2015-07-09"/>
+    <cosponsor id="412613" joined="2015-05-20"/>
+    <cosponsor id="400114" joined="2015-06-02"/>
+    <cosponsor id="412533" joined="2015-06-25"/>
+    <cosponsor id="412488" joined="2015-04-29"/>
+    <cosponsor id="400116" joined="2015-04-29"/>
+    <cosponsor id="412215" joined="2015-06-12"/>
+    <cosponsor id="412639" joined="2015-04-14"/>
+    <cosponsor id="400122" joined="2015-04-17"/>
+    <cosponsor id="400124" joined="2015-04-14"/>
+    <cosponsor id="412524" joined="2015-05-21"/>
+    <cosponsor id="400129" joined="2015-07-14"/>
+    <cosponsor id="400130" joined="2015-07-13"/>
+    <cosponsor id="400646" joined="2015-05-20"/>
+    <cosponsor id="400142" joined="2015-04-15"/>
+    <cosponsor id="412631" joined="2015-07-09"/>
+    <cosponsor id="412276" joined="2015-04-14"/>
+    <cosponsor id="400162" joined="2015-04-29"/>
+    <cosponsor id="412661" joined="2015-07-09"/>
+    <cosponsor id="400163" joined="2015-07-23"/>
+    <cosponsor id="412454" joined="2015-04-14"/>
+    <cosponsor id="412280" joined="2015-04-29"/>
+    <cosponsor id="412584" joined="2015-04-14"/>
+    <cosponsor id="412486" joined="2015-04-14"/>
+    <cosponsor id="400641" joined="2015-05-20"/>
+    <cosponsor id="400185" joined="2015-06-12"/>
+    <cosponsor id="412511" joined="2015-06-02"/>
+    <cosponsor id="400195" joined="2015-04-14"/>
+    <cosponsor id="412284" joined="2015-07-09"/>
+    <cosponsor id="400204" joined="2015-06-25"/>
+    <cosponsor id="412199" joined="2015-04-14"/>
+    <cosponsor id="412465" joined="2015-04-14"/>
+    <cosponsor id="412595" joined="2015-05-12"/>
+    <cosponsor id="412583" joined="2015-04-14"/>
+    <cosponsor id="400218" joined="2015-05-12"/>
+    <cosponsor id="400219" joined="2015-06-17"/>
+    <cosponsor id="412286" joined="2015-04-29"/>
+    <cosponsor id="412290" joined="2015-03-25"/>
+    <cosponsor id="400230" joined="2015-04-29"/>
+    <cosponsor id="400232" joined="2015-04-14"/>
+    <cosponsor id="400233" joined="2015-05-01"/>
+    <cosponsor id="400237" joined="2015-06-02"/>
+    <cosponsor id="400240" joined="2015-04-14"/>
+    <cosponsor id="400630" joined="2015-04-23"/>
+    <cosponsor id="412209" joined="2015-06-03"/>
+    <cosponsor id="400245" joined="2015-05-20"/>
+    <cosponsor id="400251" joined="2015-05-12"/>
+    <cosponsor id="412468" joined="2015-04-23"/>
+    <cosponsor id="400663" joined="2015-04-29"/>
+    <cosponsor id="400654" joined="2015-04-29"/>
+    <cosponsor id="400262" joined="2015-04-29"/>
+    <cosponsor id="400263" joined="2015-04-23"/>
+    <cosponsor id="400659" joined="2015-06-12"/>
+    <cosponsor id="412466" joined="2015-06-12"/>
+    <cosponsor id="400279" joined="2015-07-31"/>
+    <cosponsor id="400661" joined="2015-06-17"/>
+    <cosponsor id="400291" joined="2015-05-20"/>
+    <cosponsor id="412660" joined="2015-07-23"/>
+    <cosponsor id="408211" joined="2015-05-01"/>
+    <cosponsor id="412606" joined="2015-05-12"/>
+    <cosponsor id="400295" joined="2015-04-14"/>
+    <cosponsor id="400309" joined="2015-04-14"/>
+    <cosponsor id="412523" joined="2015-04-23"/>
+    <cosponsor id="400316" joined="2015-04-23"/>
+    <cosponsor id="412307" joined="2015-06-17"/>
+    <cosponsor id="412585" joined="2015-04-23"/>
+    <cosponsor id="412308" joined="2015-05-20"/>
+    <cosponsor id="400326" joined="2015-04-14"/>
+    <cosponsor id="400333" joined="2015-06-03"/>
+    <cosponsor id="412489" joined="2015-04-29"/>
+    <cosponsor id="412647" joined="2015-05-21"/>
+    <cosponsor id="412310" joined="2015-04-14"/>
+    <cosponsor id="412570" joined="2015-08-04"/>
+    <cosponsor id="412519" joined="2015-05-20"/>
+    <cosponsor id="400350" joined="2015-04-29"/>
+    <cosponsor id="400352" joined="2015-04-29"/>
+    <cosponsor id="400360" joined="2015-03-25"/>
+    <cosponsor id="400361" joined="2015-04-23"/>
+    <cosponsor id="400363" joined="2015-07-29"/>
+    <cosponsor id="400364" joined="2015-07-09"/>
+    <cosponsor id="400365" joined="2015-05-05"/>
+    <cosponsor id="400378" joined="2015-04-23"/>
+    <cosponsor id="400379" joined="2015-04-14"/>
+    <cosponsor id="400380" joined="2015-05-01"/>
+    <cosponsor id="412259" joined="2015-07-27"/>
+    <cosponsor id="412317" joined="2015-04-30"/>
+    <cosponsor id="400403" joined="2015-04-14"/>
+    <cosponsor id="412254" joined="2015-05-12"/>
+    <cosponsor id="412579" joined="2015-07-09"/>
+    <cosponsor id="412214" joined="2015-05-12"/>
+    <cosponsor id="412410" joined="2015-04-14"/>
+    <cosponsor id="412564" joined="2015-04-23"/>
+    <cosponsor id="400431" joined="2015-04-14"/>
+    <cosponsor id="412525" joined="2015-04-23"/>
+    <cosponsor id="400440" joined="2015-07-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-25" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-03-25">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-03-25">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-03-27">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+  <summary>3/25/2015--Introduced.
+Lymphedema Treatment Act
+
+ Amends title XVIII (Medicare) of the Social Security Act to cover certain lymphedema compression treatment items as durable medical equipment.</summary>
+</bill>

@@ -1,0 +1,98 @@
+<bill session="114" type="s" number="229" updated="2015-02-07T06:25:46-05:00">
+  <state datetime="2015-01-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-21"/>
+  </status>
+  <introduced datetime="2015-01-21"/>
+  <titles>
+    <title type="short" as="introduced">Democracy Is Strengthened by Casting Light On Spending in Elections Act of 2015</title>
+    <title type="short" as="introduced">DISCLOSE Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend the Federal Election Campaign Act of 1971 to provide for additional disclosure requirements for corporations, labor organizations, Super PACs and other entities, and for other purposes.</title>
+  </titles>
+  <sponsor id="412247"/>
+  <cosponsors>
+    <cosponsor id="400013" joined="2015-01-21"/>
+    <cosponsor id="412330" joined="2015-01-21"/>
+    <cosponsor id="412490" joined="2015-01-21"/>
+    <cosponsor id="412598" joined="2015-01-21"/>
+    <cosponsor id="300011" joined="2015-01-21"/>
+    <cosponsor id="400050" joined="2015-01-21"/>
+    <cosponsor id="300018" joined="2015-01-22"/>
+    <cosponsor id="400064" joined="2015-01-21"/>
+    <cosponsor id="300019" joined="2015-01-21"/>
+    <cosponsor id="412246" joined="2015-01-21"/>
+    <cosponsor id="412390" joined="2015-01-21"/>
+    <cosponsor id="300038" joined="2015-01-21"/>
+    <cosponsor id="300043" joined="2015-01-21"/>
+    <cosponsor id="412378" joined="2015-01-21"/>
+    <cosponsor id="412223" joined="2015-01-21"/>
+    <cosponsor id="412281" joined="2015-01-21"/>
+    <cosponsor id="412554" joined="2015-01-21"/>
+    <cosponsor id="412200" joined="2015-01-21"/>
+    <cosponsor id="412582" joined="2015-01-21"/>
+    <cosponsor id="412545" joined="2015-01-21"/>
+    <cosponsor id="412242" joined="2015-01-21"/>
+    <cosponsor id="300065" joined="2015-01-21"/>
+    <cosponsor id="412391" joined="2015-01-21"/>
+    <cosponsor id="400253" joined="2015-01-21"/>
+    <cosponsor id="412243" joined="2015-01-21"/>
+    <cosponsor id="400272" joined="2015-01-21"/>
+    <cosponsor id="412325" joined="2015-01-21"/>
+    <cosponsor id="300073" joined="2015-01-21"/>
+    <cosponsor id="412194" joined="2015-01-21"/>
+    <cosponsor id="300076" joined="2015-01-21"/>
+    <cosponsor id="300078" joined="2015-01-21"/>
+    <cosponsor id="412305" joined="2015-01-21"/>
+    <cosponsor id="300081" joined="2015-01-21"/>
+    <cosponsor id="400357" joined="2015-01-21"/>
+    <cosponsor id="412507" joined="2015-01-22"/>
+    <cosponsor id="300087" joined="2015-01-21"/>
+    <cosponsor id="412323" joined="2015-01-21"/>
+    <cosponsor id="300093" joined="2015-01-21"/>
+    <cosponsor id="412244" joined="2015-01-21"/>
+    <cosponsor id="400413" joined="2015-01-21"/>
+    <cosponsor id="412321" joined="2015-01-21"/>
+    <cosponsor id="412542" joined="2015-01-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-21">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S349-350"/>
+    </action>
+    <action datetime="2015-01-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on Rules and Administration.</text>
+      <reference ref="CR S350-352" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSRA" name="Senate Rules and Administration" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="430"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Business records"/>
+    <term name="Congressional elections"/>
+    <term name="Corporate finance and management"/>
+    <term name="Elections, voting, political campaign regulation"/>
+    <term name="Financial services and investments"/>
+    <term name="Government information and archives"/>
+    <term name="Labor-management relations"/>
+    <term name="Political advertising"/>
+    <term name="Political parties and affiliation"/>
+    <term name="Public participation and lobbying"/>
+    <term name="Tax-exempt organizations"/>
+  </subjects>
+  <amendments/>
+  <summary>1/21/2015--Introduced.
+Democracy Is Strengthened by Casting Light On Spending in Elections Act of 2015 or the DISCLOSE Act of 2015 
+
+ Amends the Federal Election Campaign Act of 1971 (FECA) to redefine the term "independent expenditure" as an expenditure by a person that, when taken as a whole, expressly advocates the election or defeat of a clearly identified candidate, or is the functional equivalent of express advocacy because it can be interpreted by a reasonable person only as advocating the election or defeat of a candidate, taking into account whether the communication involved mentions a candidacy, a political party, or a challenger to a candidate, or takes a position on a candidate's character, qualifications, or fitness for office.
+
+Expands the period during which certain communications are treated as electioneering communications.
+
+Prescribes disclosure requirements for corporations, labor organizations, and certain other entities, including a political committee with an account established for the purpose of accepting donations or contributions that do not comply with the contribution limits or source prohibitions under FECA (but only with respect to such accounts).
+
+Repeals the prohibition against political contributions by individuals age 17 or younger.</summary>
+</bill>

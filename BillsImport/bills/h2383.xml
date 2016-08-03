@@ -1,0 +1,56 @@
+<bill session="114" type="h" number="2383" updated="2015-08-22T06:39:13-04:00">
+  <state datetime="2015-05-15">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-15"/>
+  </status>
+  <introduced datetime="2015-05-15"/>
+  <titles>
+    <title type="short" as="introduced">Nutritious Options for Meals Act of 2015</title>
+    <title type="official" as="introduced">To amend the Food and Nutrition Act of 2008 to change the eligible foods allowed for purchase under the Supplemental Nutrition Assistance Program (commonly known as SNAP).</title>
+  </titles>
+  <sponsor id="412572"/>
+  <cosponsors>
+    <cosponsor id="412655" joined="2015-05-22"/>
+    <cosponsor id="412627" joined="2015-05-15"/>
+    <cosponsor id="412605" joined="2015-05-18"/>
+    <cosponsor id="412601" joined="2015-05-15"/>
+    <cosponsor id="412513" joined="2015-05-15"/>
+    <cosponsor id="400209" joined="2015-05-15"/>
+    <cosponsor id="412510" joined="2015-05-22"/>
+    <cosponsor id="412295" joined="2015-05-15"/>
+    <cosponsor id="400276" joined="2015-05-15"/>
+    <cosponsor id="412662" joined="2015-05-15"/>
+    <cosponsor id="412309" joined="2015-05-22"/>
+    <cosponsor id="400343" joined="2015-05-15"/>
+    <cosponsor id="412202" joined="2015-05-22"/>
+    <cosponsor id="412399" joined="2015-05-22"/>
+    <cosponsor id="412574" joined="2015-05-15"/>
+    <cosponsor id="400433" joined="2015-05-22"/>
+    <cosponsor id="412551" joined="2015-05-18" withdrawn="2015-06-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-15" state="REFERRED">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+    <action datetime="2015-06-08">
+      <text>Referred to the Subcommittee on Nutrition.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee activity="Referral" code="HSAG03" subcommittee="Nutrition" name="House Agriculture"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Food assistance and relief"/>
+    <term name="Nutrition and diet"/>
+  </subjects>
+  <amendments/>
+  <summary>5/15/2015--Introduced.
+Nutritious Options for Meals Act of 2015 
+
+This bill amends the Food and Nutrition Act of 2008 to apply nutritional standards for the Department of Agriculture's (USDA's) Special Supplemental Nutrition Program for Women, Infants, and Children (WIC) to foods purchased for USDA's Supplemental Nutrition Assistance Program (SNAP, formerly known as the food stamp program), with the addition of lean meat and poultry.
+
+Foods purchased for SNAP must be of the kind prescribed by USDA in implementing WIC requirements that: (1) food contain nutrients determined by nutritional research to be lacking in the diets of pregnant, breastfeeding, and postpartum women, infants, or children; or (2) food promote the health of the population served by the program. Examples of foods acceptable under the bill include vegetables, fruits, milk, juice, breakfast cereal, cheese, eggs, yogurt, peanut butter, legumes, whole grain bread, and lean meat or poultry.</summary>
+</bill>

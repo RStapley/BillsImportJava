@@ -1,0 +1,32 @@
+<bill session="114" type="s" number="1909" updated="2015-08-07T12:49:03-04:00">
+  <state datetime="2015-07-30">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-30"/>
+  </status>
+  <introduced datetime="2015-07-30"/>
+  <titles>
+    <title type="short" as="introduced">Local Zoning Decisions Protection Act of 2015</title>
+    <title type="official" as="introduced">A bill to protect communities from destructive Federal overreach by the Department of Housing and Urban Development.</title>
+  </titles>
+  <sponsor id="412495"/>
+  <cosponsors>
+    <cosponsor id="412508" joined="2015-07-30"/>
+    <cosponsor id="300041" joined="2015-07-30"/>
+    <cosponsor id="412491" joined="2015-07-30"/>
+    <cosponsor id="300088" joined="2015-07-30"/>
+    <cosponsor id="400418" joined="2015-07-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-30" state="REFERRED">
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Housing and community development"/>
+  </subjects>
+  <amendments/>
+</bill>

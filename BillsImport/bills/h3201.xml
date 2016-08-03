@@ -1,0 +1,35 @@
+<bill session="114" type="h" number="3201" updated="2015-08-22T06:46:05-04:00">
+  <state datetime="2015-07-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-23"/>
+  </status>
+  <introduced datetime="2015-07-23"/>
+  <titles>
+    <title type="short" as="introduced">New American Success Act of 2015</title>
+    <title type="official" as="introduced">To support the integration of immigrants to the United States into the economic, social, cultural, and civic life of their local communities and the Nation, and for other purposes.</title>
+  </titles>
+  <sponsor id="412517"/>
+  <cosponsors>
+    <cosponsor id="400344" joined="2015-07-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-23" state="REFERRED">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-07-23">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2015-07-23">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Immigration"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,59 @@
+<bill session="114" type="s" number="465" updated="2015-07-11T06:51:10-04:00">
+  <state datetime="2015-03-18">REPORTED</state>
+  <status>
+    <unknown datetime="2015-03-18"/>
+  </status>
+  <introduced datetime="2015-02-11"/>
+  <titles>
+    <title type="short" as="introduced">Thomasina E. Jordan Indian Tribes of Virginia Federal Recognition Act of 2015</title>
+    <title type="official" as="introduced">A bill to extend Federal recognition to the Chickahominy Indian Tribe, the Chickahominy Indian Tribe-Eastern Division, the Upper Mattaponi Tribe, the Rappahannock Tribe, Inc., the Monacan Indian Nation, and the Nansemond Indian Tribe.</title>
+  </titles>
+  <sponsor id="412582"/>
+  <cosponsors>
+    <cosponsor id="412321" joined="2015-02-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-11">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S932-933"/>
+    </action>
+    <action datetime="2015-02-11" state="REFERRED">
+      <text>Read twice and referred to the Committee on Indian Affairs.</text>
+      <reference ref="CR S933-939" label="text of measure as introduced"/>
+    </action>
+    <calendar datetime="2015-03-18" state="REPORTED">
+      <text>Committee on Indian Affairs. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SLIA" name="Senate Indian Affairs" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="872"/>
+  </relatedbills>
+  <subjects>
+    <term name="Native Americans"/>
+    <term name="Federal-Indian relations"/>
+    <term name="Gambling"/>
+    <term name="Indian lands and resources rights"/>
+    <term name="Indian social and development programs"/>
+    <term name="Land transfers"/>
+    <term name="Property rights"/>
+    <term name="Virginia"/>
+  </subjects>
+  <amendments/>
+  <summary>2/11/2015--Introduced.
+Thomasina E. Jordan Indian Tribes of Virginia Federal Recognition Act of 2015
+
+ Extends federal recognition to the following Indian tribes of Virginia and establishes their relationship with the federal government as described below: (1) the Chickahominy Tribe, (2) the Chickahominy Indian Tribe--Eastern Division, (3) the Upper Mattaponi Tribe, (4) the Rappahannock Tribe, Inc., (5) the Monacan Indian Nation, and (6) the Nansemond Indian Tribe.
+
+Makes the tribes and their members eligible for all services and benefits provided by the federal government to federally recognized Indian tribes. Establishes the service area of each tribe and requirements for each tribe regarding its membership roll, governing documents, and governing body.
+
+Requires the Department of the Interior, on request of any of the tribes, to take specified lands into trust for the benefit of that tribe, to be considered part of that tribe's reservation.
+
+Prohibits the tribes from conducting gaming activities.
+
+Prohibits this Act from affecting the hunting, fishing, trapping, gathering, or water rights of the tribes and their members.
+
+Prohibits the use of eminent domain to acquire lands in fee or in trust for an Indian tribe recognized under this Act.</summary>
+</bill>

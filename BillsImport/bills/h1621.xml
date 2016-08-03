@@ -1,0 +1,55 @@
+<bill session="114" type="h" number="1621" updated="2015-08-15T06:32:49-04:00">
+  <state datetime="2015-03-25">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-25"/>
+  </status>
+  <introduced datetime="2015-03-25"/>
+  <titles>
+    <title type="official" as="introduced">To modify the boundary of Petersburg National Battlefield in the Commonwealth of Virginia, and for other purposes.</title>
+  </titles>
+  <sponsor id="400137"/>
+  <cosponsors>
+    <cosponsor id="412657" joined="2015-04-21"/>
+    <cosponsor id="400364" joined="2015-03-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-25" state="REFERRED">
+      <text>Referred to the Committee on Natural Resources, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-03-25">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2015-03-25">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2015-04-08">
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="Federal Lands" name="House Natural Resources"/>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="718"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Conflicts and wars"/>
+    <term name="Historic sites and heritage areas"/>
+    <term name="Land transfers"/>
+    <term name="Military history"/>
+    <term name="Parks, recreation areas, trails"/>
+    <term name="Virginia"/>
+  </subjects>
+  <amendments/>
+  <summary>3/25/2015--Introduced.
+Modifies the boundary of Petersburg National Battlefield in Virginia to include the land and interests in land identified on the map titled "Petersburg National Battlefield Boundary Expansion," and dated March 2015.
+
+Transfers from the Department of the Interior to the Department of the Army (DA) administrative jurisdiction over approximately 1.170 acres of land for the Fort Lee Military Reservation.
+
+Transfers from DA to Interior administrative jurisdiction over approximately 1.171 acres of land for the Battlefield.
+
+Requires inclusion of the transferred land within the boundary of the Petersburg National Battlefield.</summary>
+</bill>

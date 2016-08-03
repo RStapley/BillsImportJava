@@ -1,0 +1,36 @@
+<bill session="114" type="s" number="1313" updated="2015-06-27T07:29:51-04:00">
+  <state datetime="2015-05-13">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-13"/>
+  </status>
+  <introduced datetime="2015-05-13"/>
+  <titles>
+    <title type="short" as="introduced">Strong Lungs, Strong Lives Act of 2015</title>
+    <title type="official" as="introduced">A bill to expand eligibility for reimbursement for smoking cessation services to include copayments for such services paid after fiscal year 2009 by covered beneficiaries under the TRICARE program who are eligible for Medicare.</title>
+  </titles>
+  <sponsor id="400050"/>
+  <cosponsors>
+    <cosponsor id="412490" joined="2015-05-13"/>
+    <cosponsor id="300038" joined="2015-05-13"/>
+    <cosponsor id="300076" joined="2015-05-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-13" state="REFERRED">
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1376"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <summary>5/13/2015--Introduced.
+Strong Lungs, Strong Lives Act of 2015
+
+This bill amends the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 to extend TRICARE eligibility for certain smoking cessation services after FY2009 to covered TRICARE program beneficiaries who are Medicare-eligible.</summary>
+</bill>

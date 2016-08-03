@@ -1,0 +1,32 @@
+<bill session="114" type="s" number="1494" updated="2015-06-13T06:57:16-04:00">
+  <state datetime="2015-06-03">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-03"/>
+  </status>
+  <introduced datetime="2015-06-03"/>
+  <titles>
+    <title type="short" as="introduced">Children's Recovery from Trauma Act</title>
+    <title type="official" as="introduced">A bill to amend the Public Health Service Act to reauthorize and update the National Child Traumatic Stress Initiative for grants to address the problems of individuals who experience trauma and violence related stress.</title>
+  </titles>
+  <sponsor id="300076"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-06-03">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S3681"/>
+    </action>
+    <action datetime="2015-06-03" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="2632"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+</bill>

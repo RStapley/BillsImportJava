@@ -1,0 +1,32 @@
+<bill session="114" type="s" number="116" updated="2015-02-07T06:24:49-05:00">
+  <state datetime="2015-01-07">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-07"/>
+  </status>
+  <introduced datetime="2015-01-07"/>
+  <titles>
+    <title type="short" as="introduced">Telephone Excise Tax Elimination Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to repeal the excise tax on telephone and other communications services.</title>
+  </titles>
+  <sponsor id="412218"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-01-07" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Sales and excise taxes"/>
+    <term name="Telephone and wireless communication"/>
+  </subjects>
+  <amendments/>
+  <summary>1/7/2015--Introduced.
+Telephone Excise Tax Elimination Act of 2015
+
+Amends the Internal Revenue Code to repeal the excise tax on communication services (i.e., local telephone service, toll telephone service, and teletypewriter exchange service).</summary>
+</bill>

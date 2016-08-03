@@ -1,0 +1,36 @@
+<bill session="114" type="s" number="1434" updated="2015-07-14T04:48:38-04:00">
+  <state datetime="2015-05-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-21"/>
+  </status>
+  <introduced datetime="2015-05-21"/>
+  <titles>
+    <title type="short" as="introduced">Energy Storage Promotion and Deployment Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend the Public Utility Regulatory Policies Act of 1978 to establish an energy storage portfolio standard, and for other purposes.</title>
+  </titles>
+  <sponsor id="412281"/>
+  <cosponsors>
+    <cosponsor id="412378" joined="2015-06-17"/>
+    <cosponsor id="412545" joined="2015-05-22"/>
+    <cosponsor id="412507" joined="2015-06-18"/>
+    <cosponsor id="400413" joined="2015-07-13"/>
+    <cosponsor id="412542" joined="2015-07-13"/>
+    <cosponsor id="412247" joined="2015-06-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2015-06-09">
+      <text>Committee on Energy and Natural Resources. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,49 @@
+<bill session="114" type="h" number="2460" updated="2015-08-15T06:39:55-04:00">
+  <state datetime="2015-05-19">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-19"/>
+  </status>
+  <introduced datetime="2015-05-19"/>
+  <titles>
+    <title type="official" as="introduced">To amend title 38, United States Code, to improve the provision of adult day health care services for veterans.</title>
+  </titles>
+  <sponsor id="412646"/>
+  <cosponsors>
+    <cosponsor id="412651" joined="2015-07-15"/>
+    <cosponsor id="412472" joined="2015-07-29"/>
+    <cosponsor id="412453" joined="2015-06-16"/>
+    <cosponsor id="400195" joined="2015-07-07"/>
+    <cosponsor id="400209" joined="2015-06-16"/>
+    <cosponsor id="400219" joined="2015-06-12"/>
+    <cosponsor id="412560" joined="2015-07-07"/>
+    <cosponsor id="400316" joined="2015-07-28"/>
+    <cosponsor id="412307" joined="2015-06-16"/>
+    <cosponsor id="412431" joined="2015-07-22"/>
+    <cosponsor id="412647" joined="2015-07-07"/>
+    <cosponsor id="412581" joined="2015-07-29"/>
+    <cosponsor id="412214" joined="2015-06-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-19" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Adult day care"/>
+    <term name="Disability and paralysis"/>
+    <term name="Long-term, rehabilitative, and terminal care"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>5/19/2015--Introduced.
+This bill directs the Secretary of Veterans Affairs to enter into an agreement or a contract with each state home to pay for adult day health care for a veteran eligible for, but not receiving, nursing home care.
+
+The veteran must need such care either specifically for a service-connected disability, or, if not specifically for one, the veteran must have a service-connected disability rated 70% or more.
+
+Payment under each agreement or contract between the Secretary and a state home must equal 65% of the payment that the Secretary would otherwise pay to the state home if the veteran were receiving nursing home care.</summary>
+</bill>

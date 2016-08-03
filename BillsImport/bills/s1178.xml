@@ -1,0 +1,36 @@
+<bill session="114" type="s" number="1178" updated="2015-06-12T04:53:00-04:00">
+  <state datetime="2015-04-30">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-30"/>
+  </status>
+  <introduced datetime="2015-04-30"/>
+  <titles>
+    <title type="short" as="introduced">Defending Rivers from Overreaching Policies Act of 2015</title>
+    <title type="official" as="introduced">A bill to prohibit implementation of a proposed rule relating to the definition of the term "waters of the United States" under the Clean Water Act, or any substantially similar rule, until a Supplemental Scientific Review Panel and Ephemeral and Intermittent Streams Advisory Committee produce certain reports, and for other purposes.</title>
+  </titles>
+  <sponsor id="400134"/>
+  <cosponsors>
+    <cosponsor id="300027" joined="2015-06-02"/>
+    <cosponsor id="412556" joined="2015-04-30"/>
+    <cosponsor id="300052" joined="2015-06-11"/>
+    <cosponsor id="400194" joined="2015-06-02"/>
+    <cosponsor id="300071" joined="2015-04-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-30" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+    <action datetime="2015-06-10">
+      <text>Committee on the Judiciary. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Hearings"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+  </subjects>
+  <amendments/>
+</bill>

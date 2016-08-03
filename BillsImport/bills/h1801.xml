@@ -1,0 +1,44 @@
+<bill session="114" type="h" number="1801" updated="2015-07-30T04:48:59-04:00">
+  <state datetime="2015-04-15">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-15"/>
+  </status>
+  <introduced datetime="2015-04-15"/>
+  <titles>
+    <title type="short" as="introduced">Promoting Financial Literacy and Economic Opportunity Act of 2015</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to allow a tax credit for providing programs to kindergarten, elementary, and secondary students that promote economic and financial literacy.</title>
+  </titles>
+  <sponsor id="412595"/>
+  <cosponsors>
+    <cosponsor id="412565" joined="2015-04-23"/>
+    <cosponsor id="412571" joined="2015-04-30"/>
+    <cosponsor id="400087" joined="2015-05-21"/>
+    <cosponsor id="412637" joined="2015-07-15"/>
+    <cosponsor id="400179" joined="2015-04-23"/>
+    <cosponsor id="400185" joined="2015-06-24"/>
+    <cosponsor id="400211" joined="2015-07-09"/>
+    <cosponsor id="412557" joined="2015-06-03"/>
+    <cosponsor id="412638" joined="2015-06-02"/>
+    <cosponsor id="400237" joined="2015-06-24"/>
+    <cosponsor id="400271" joined="2015-07-29"/>
+    <cosponsor id="400333" joined="2015-06-24"/>
+    <cosponsor id="412432" joined="2015-06-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-15" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+  <summary>4/15/2015--Introduced.
+Promoting Financial Literacy and Economic Opportunity Act of 2015
+
+This bill amends the Internal Revenue Code to allow up to 20 for-profit organizations in any taxable year a business-related tax credit for 50% of the amount paid or incurred to carry out activities to improve the quality of student understanding of personal finance and economics. The Department of the Treasury shall determine which for-profit organizations are eligible for the credit, ensuring that a majority of credit recipients are: (1) either a socially and economically disadvantaged small business concern, a small business concern owned and controlled by women, or a small business concern that is at least 51% owned by veterans, or (2) do not have more than $60 billion in assets. In determining the eligibility of a for-profit organization, Treasury shall give priority to organizations that have programs serving either urban or rural underserved areas.</summary>
+</bill>

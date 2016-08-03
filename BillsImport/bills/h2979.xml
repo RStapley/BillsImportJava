@@ -1,0 +1,59 @@
+<bill session="114" type="h" number="2979" updated="2015-07-30T04:50:07-04:00">
+  <state datetime="2015-07-08">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-08"/>
+  </status>
+  <introduced datetime="2015-07-08"/>
+  <titles>
+    <title type="short" as="introduced">Military Consumer Protection Act</title>
+    <title type="official" as="introduced">To allow the Bureau of Consumer Financial Protection to provide greater protection to servicemembers.</title>
+  </titles>
+  <sponsor id="412533"/>
+  <cosponsors>
+    <cosponsor id="412615" joined="2015-07-29"/>
+    <cosponsor id="400063" joined="2015-07-08"/>
+    <cosponsor id="412379" joined="2015-07-08"/>
+    <cosponsor id="412470" joined="2015-07-08"/>
+    <cosponsor id="412613" joined="2015-07-13"/>
+    <cosponsor id="412215" joined="2015-07-08"/>
+    <cosponsor id="400179" joined="2015-07-08"/>
+    <cosponsor id="400195" joined="2015-07-08"/>
+    <cosponsor id="412435" joined="2015-07-16"/>
+    <cosponsor id="412595" joined="2015-07-08"/>
+    <cosponsor id="412546" joined="2015-07-08"/>
+    <cosponsor id="400233" joined="2015-07-16"/>
+    <cosponsor id="412638" joined="2015-07-08"/>
+    <cosponsor id="400238" joined="2015-07-16"/>
+    <cosponsor id="412558" joined="2015-07-08"/>
+    <cosponsor id="400249" joined="2015-07-13"/>
+    <cosponsor id="400295" joined="2015-07-08"/>
+    <cosponsor id="400360" joined="2015-07-13"/>
+    <cosponsor id="400378" joined="2015-07-08"/>
+    <cosponsor id="412259" joined="2015-07-13"/>
+    <cosponsor id="412626" joined="2015-07-08"/>
+    <cosponsor id="412254" joined="2015-07-27"/>
+    <cosponsor id="412579" joined="2015-07-16"/>
+    <cosponsor id="412214" joined="2015-07-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-08" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="1565"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <summary>7/8/2015--Introduced.
+Military Consumer Protection Act
+
+This bill amends the Consumer Financial Protection Act to extend Consumer Financial Protection Bureau oversight and protection to provisions under the Servicemembers Civil Relief Act concerning:
+
+ future financial transactions, excluding insurance; default judgments, excluding child custody proceedings; interest rates on pre-service debts; evictions; purchase or lease installment contracts; mortgages and trusts; motor vehicle leases; telephone service contracts; and waiver of rights pursuant to a written agreement, excluding bailments.</summary>
+</bill>

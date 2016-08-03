@@ -1,0 +1,96 @@
+<bill session="114" type="h" number="623" updated="2015-08-15T06:24:23-04:00">
+  <state datetime="2015-02-02T19:16:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2015-02-02T19:16:00-05:00"/>
+  </status>
+  <introduced datetime="2015-01-30"/>
+  <titles>
+    <title type="short" as="introduced">Social Media Working Group Act of 2015</title>
+    <title type="short" as="passed house">Social Media Working Group Act of 2015</title>
+    <title type="official" as="introduced">To amend the Homeland Security Act of 2002 to authorize the Department of Homeland Security to establish a social media working group, and for other purposes.</title>
+  </titles>
+  <sponsor id="412539"/>
+  <cosponsors>
+    <cosponsor id="400654" joined="2015-01-30"/>
+    <cosponsor id="412611" joined="2015-02-02"/>
+    <cosponsor id="412506" joined="2015-01-30"/>
+    <cosponsor id="412514" joined="2015-02-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-30" state="REFERRED">
+      <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-01-30">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2015-01-30">
+      <text>Referred to House Homeland Security</text>
+    </action>
+    <action datetime="2015-02-02">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+    </action>
+    <action datetime="2015-02-02">
+      <text>Referred to the Subcommittee on Emergency Preparedness, Response and Communications.</text>
+    </action>
+    <action datetime="2015-02-02T17:37:00-05:00">
+      <text>Mrs. Brooks (IN) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2015-02-02T17:37:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H680-683" label="consideration"/>
+    </action>
+    <action datetime="2015-02-02T17:37:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 623.</text>
+    </action>
+    <action datetime="2015-02-02T17:54:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2015-02-02T19:07:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H685" label="consideration"/>
+    </action>
+    <action datetime="2015-02-02T19:16:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote how="roll" type="vote" roll="53" datetime="2015-02-02T19:16:00-05:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 328 - 51 (Roll no. 53).</text>
+      <reference ref="CR H680-681" label="text"/>
+    </vote>
+    <action datetime="2015-02-03">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <calendar datetime="2015-05-06">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral"/>
+    <committee activity="Referral" code="HSHM12" subcommittee="Emergency Preparedness, Response, and Communications" name="House Homeland Security"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Emergency management"/>
+    <term name="Advisory bodies"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Homeland Security"/>
+    <term name="Emergency communications systems"/>
+    <term name="Emergency planning and evacuation"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Homeland security"/>
+    <term name="Internet and video services"/>
+    <term name="Telephone and wireless communication"/>
+    <term name="Terrorism"/>
+  </subjects>
+  <amendments/>
+  <summary>2/2/2015--Passed House without amendment.
+(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)
+
+Social Media Working Group Act of 2015
+
+(Sec. 2) Amends the Homeland Security Act of 2002 to direct the Secretary of Homeland Security to establish within the Department of Homeland Security (DHS) a social media working group (the Group) to provide guidance and best practices to the emergency preparedness and response community on the use of social media technologies before, during, and after a terrorist attack or other emergency.
+
+Requires the Group to submit an annual report that includes: (1) a review of current and emerging social media technologies being used to support preparedness and response activities related to terrorist attacks and other emergencies; (2) a review of best practices and lessons learned on the use of social media during the response to terrorist attacks and other emergencies that occurred during the period covered by the report; (3) recommendations to improve DHS's use of social media for emergency management purposes, to improve public awareness of the type of information disseminated through social media and how to access such information during a terrorist attack or other emergency, and to improve information sharing among DHS and its components and among state and local governments; (4) a review of available training for government officials on the use of social media in response to a terrorist attack or other emergency; and (5) a summary of coordination efforts with the private sector to discuss and resolve legal, operational, technical, privacy, and security concerns.</summary>
+</bill>

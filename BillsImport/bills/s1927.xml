@@ -1,0 +1,31 @@
+<bill session="114" type="s" number="1927" updated="2015-08-15T07:07:56-04:00">
+  <state datetime="2015-08-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-08-04"/>
+  </status>
+  <introduced datetime="2015-08-04"/>
+  <titles>
+    <title type="short" as="introduced">Require Evaluation before Implementing Executive Wishlists Act of 2015</title>
+    <title type="short" as="introduced">REVIEW Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend title 5, United States Code, to postpone the effective date of high-impact rules pending judicial review.</title>
+  </titles>
+  <sponsor id="402675"/>
+  <cosponsors>
+    <cosponsor id="412464" joined="2015-08-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-08-04" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="3438"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+  </subjects>
+  <amendments/>
+</bill>

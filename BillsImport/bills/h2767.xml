@@ -1,0 +1,78 @@
+<bill session="114" type="h" number="2767" updated="2015-07-10T04:48:29-04:00">
+  <state datetime="2015-06-15">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-15"/>
+  </status>
+  <introduced datetime="2015-06-15"/>
+  <titles>
+    <title type="short" as="introduced">Airport Security Act of 2015</title>
+    <title type="official" as="introduced">To prohibit certain individuals from possessing a firearm in an airport, and for other purposes.</title>
+  </titles>
+  <sponsor id="412199"/>
+  <cosponsors>
+    <cosponsor id="412657" joined="2015-06-15"/>
+    <cosponsor id="412258" joined="2015-06-15"/>
+    <cosponsor id="412272" joined="2015-06-15"/>
+    <cosponsor id="400080" joined="2015-06-15"/>
+    <cosponsor id="412215" joined="2015-06-15"/>
+    <cosponsor id="400122" joined="2015-06-23"/>
+    <cosponsor id="412529" joined="2015-06-23"/>
+    <cosponsor id="412276" joined="2015-06-15"/>
+    <cosponsor id="400162" joined="2015-06-15"/>
+    <cosponsor id="400170" joined="2015-06-16"/>
+    <cosponsor id="400185" joined="2015-06-15"/>
+    <cosponsor id="400199" joined="2015-06-15"/>
+    <cosponsor id="412595" joined="2015-06-15"/>
+    <cosponsor id="400237" joined="2015-06-15"/>
+    <cosponsor id="400240" joined="2015-06-15"/>
+    <cosponsor id="412616" joined="2015-07-09"/>
+    <cosponsor id="400295" joined="2015-06-16"/>
+    <cosponsor id="412331" joined="2015-06-15"/>
+    <cosponsor id="400333" joined="2015-06-16"/>
+    <cosponsor id="400363" joined="2015-06-15"/>
+    <cosponsor id="412259" joined="2015-06-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-15">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H4350"/>
+    </action>
+    <action datetime="2015-06-15" state="REFERRED">
+      <text>Referred to the Committee on Homeland Security, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-06-15">
+      <text>Referred to House Homeland Security</text>
+    </action>
+    <action datetime="2015-06-15">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2015-06-29">
+      <text>Referred to the Subcommittee on Transportation Security.</text>
+    </action>
+    <action datetime="2015-07-01">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral"/>
+    <committee activity="Referral" code="HSHM07" subcommittee="Transportation Security" name="House Homeland Security"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Aviation and airports"/>
+    <term name="Firearms and explosives"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+  <summary>6/15/2015--Introduced.
+Airport Security Act of 2015
+
+ Directs the Transportation Security Administration (TSA) to establish a program to prohibit all but specified authorized individuals from possessing a firearm at a covered airport, including any individual who enters the airport, or exits public transportation at it, for air travel, meeting another individual, picking up cargo, or employment.
+
+Directs TSA to require airport operators to:
+
+ display conspicuous notices summarizing the program at each airport entrance, and require law enforcement personnel to monitor the airport to prevent violations and escort air travelers who are authorized to carry a firearm. Prescribes criminal penalties for nonauthorized individuals who knowingly possess a firearm at a covered airport.</summary>
+</bill>

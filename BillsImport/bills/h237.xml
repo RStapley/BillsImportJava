@@ -1,0 +1,91 @@
+<bill session="114" type="h" number="237" updated="2015-08-22T06:21:08-04:00">
+  <state datetime="2015-07-21T17:57:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2015-07-21T17:57:00-04:00"/>
+  </status>
+  <introduced datetime="2015-01-09"/>
+  <titles>
+    <title type="short" as="introduced">FTO Passport Revocation Act of 2015</title>
+    <title type="short" as="passed house">FTO Passport Revocation Act of 2015</title>
+    <title type="official" as="introduced">To authorize the revocation or denial of passports and passport cards to individuals affiliated with foreign terrorist organizations, and for other purposes.</title>
+  </titles>
+  <sponsor id="400652"/>
+  <cosponsors>
+    <cosponsor id="412655" joined="2015-06-12"/>
+    <cosponsor id="412270" joined="2015-01-13"/>
+    <cosponsor id="412513" joined="2015-04-15"/>
+    <cosponsor id="412532" joined="2015-04-23"/>
+    <cosponsor id="400206" joined="2015-01-28"/>
+    <cosponsor id="412435" joined="2015-04-15"/>
+    <cosponsor id="412569" joined="2015-04-15"/>
+    <cosponsor id="412489" joined="2015-04-15"/>
+    <cosponsor id="400348" joined="2015-04-23"/>
+    <cosponsor id="400371" joined="2015-03-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-09" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2015-01-12">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H192-193"/>
+    </action>
+    <action datetime="2015-02-11">
+      <text>Referred to the Subcommittee on Terrorism, Nonproliferation, and Trade.</text>
+    </action>
+    <action datetime="2015-03-25">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2015-03-25">
+      <text>Forwarded by Subcommittee to Full Committee in the Nature of a Substitute (Amended) by Unanimous Consent .</text>
+    </action>
+    <action datetime="2015-04-23">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-04-23" state="REPORTED">
+      <text>Ordered to be Reported in the Nature of a Substitute (Amended) by Unanimous Consent.</text>
+    </calendar>
+    <action datetime="2015-07-21T17:42:00-04:00">
+      <text>Mr. Royce moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2015-07-21T17:42:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5312-5314" label="consideration"/>
+    </action>
+    <action datetime="2015-07-21T17:42:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 237.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2015-07-21T17:57:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H5312" label="text"/>
+    </vote>
+    <action datetime="2015-07-21T17:57:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2015-07-22">
+      <text>Received in the Senate and Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, Markup"/>
+    <committee activity="Referral, Markup, Reporting" code="HSFA18" subcommittee="Terrorism, Nonproliferation, and Trade" name="House Foreign Affairs"/>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="2020"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Congressional oversight"/>
+    <term name="Immigration status and procedures"/>
+    <term name="Terrorism"/>
+    <term name="Visas and passports"/>
+  </subjects>
+  <amendments/>
+  <summary>1/9/2015--Introduced.
+FTO Passport Revocation Act of 2015
+
+Amends the Passport Act of 1926 to prohibit, with a discretionary exception for emergency or humanitarian reasons, the Secretary of State from issuing a passport or passport card to an individual who is a member of, affiliated with, or is otherwise helping a foreign terrorist organization.
+
+Directs the Secretary to revoke a passport or passport card previously issued to any such individual. Authorizes the Secretary, before revocation, to: (1) limit a previously issued passport or passport card only for return travel to the United States, or (2) issue a limited passport or passport card that only permits return travel to the United States.</summary>
+</bill>

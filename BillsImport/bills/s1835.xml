@@ -1,0 +1,24 @@
+<bill session="114" type="s" number="1835" updated="2015-07-28T10:07:04-04:00">
+  <state datetime="2015-07-22">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-22"/>
+  </status>
+  <introduced datetime="2015-07-22"/>
+  <titles>
+    <title type="short" as="introduced">Military Facilities Force Protection Act of 2015</title>
+    <title type="official" as="introduced">A bill to enhance military facilities force protection.</title>
+  </titles>
+  <sponsor id="400013"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-22" state="REFERRED">
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

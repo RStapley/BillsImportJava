@@ -1,0 +1,54 @@
+<bill session="114" type="s" number="185" updated="2015-07-22T05:00:50-04:00">
+  <state datetime="2015-01-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-16"/>
+  </status>
+  <introduced datetime="2015-01-16"/>
+  <titles>
+    <title type="short" as="introduced">PATH Act</title>
+    <title type="short" as="introduced">Promise for Antibiotics and Therapeutics for Health Act</title>
+    <title type="official" as="introduced">A bill to create a limited population pathway for approval of certain antibacterial drugs.</title>
+  </titles>
+  <sponsor id="300052"/>
+  <cosponsors>
+    <cosponsor id="412493" joined="2015-02-03"/>
+    <cosponsor id="412330" joined="2015-01-16"/>
+    <cosponsor id="300019" joined="2015-07-21"/>
+    <cosponsor id="400194" joined="2015-02-25"/>
+    <cosponsor id="400222" joined="2015-04-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-16" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Drug safety, medical device, and laboratory regulation"/>
+    <term name="Drug therapy"/>
+    <term name="Food and Drug Administration (FDA)"/>
+  </subjects>
+  <amendments/>
+  <summary>1/16/2015--Introduced.
+Promise for Antibiotics and Therapeutics for Health Act or the PATH Act
+
+Amends the Federal Food, Drug, and Cosmetic Act to require the Food and Drug Administration (FDA) to establish a program to approve as a limited population antibacterial drug an antibacterial drug intended to treat a serious medical condition and to address an unmet medical need within an identifiable limited population.
+
+Requires the FDA's determination of the safety and effectiveness of these drugs to reflect the drug's benefit-risk profile in the intended limited population. Prohibits the FDA from denying approval of a drug based on a lack of evidence of a favorable benefit-risk profile in a broader population.
+
+Directs the FDA to require: (1) the labeling of a limited population antibacterial drug to indicate that the drug has been approved for use only in a limited population, and (2) submission of promotional materials related to the drug prior to dissemination.
+
+Directs the FDA to describe considerations for demonstrating the safety and effectiveness of these antibacterial drugs and how the limited population pathway can be expanded to other therapeutic areas.
+
+Requires the FDA to conduct post-approval monitoring programs to study how these antibacterial drugs are used and to monitor changes in bacterial drug resistance.
+
+Allows the FDA to remove the labeling, marketing, and post-approval monitoring requirements of these drugs if they are approved for broader use.
+
+Allows the limited population pathway to be expanded to other drugs intended to treat serious illness beginning October 1, 2016.</summary>
+</bill>

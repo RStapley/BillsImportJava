@@ -1,0 +1,81 @@
+<bill session="114" type="h" number="1287" updated="2015-07-30T04:48:32-04:00">
+  <state datetime="2015-03-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-04"/>
+  </status>
+  <introduced datetime="2015-03-04"/>
+  <titles>
+    <title type="short" as="introduced">Higher Education Reform and Opportunity Act of 2015</title>
+    <title type="official" as="introduced">To amend the eligibility requirements for funding under title IV of the Higher Education Act of 1965.</title>
+  </titles>
+  <sponsor id="412526"/>
+  <cosponsors>
+    <cosponsor id="400029" joined="2015-03-04"/>
+    <cosponsor id="412605" joined="2015-07-29"/>
+    <cosponsor id="412604" joined="2015-03-04"/>
+    <cosponsor id="412271" joined="2015-03-04"/>
+    <cosponsor id="412477" joined="2015-03-04"/>
+    <cosponsor id="412482" joined="2015-03-04"/>
+    <cosponsor id="400141" joined="2015-03-04"/>
+    <cosponsor id="412397" joined="2015-03-04"/>
+    <cosponsor id="412661" joined="2015-03-04"/>
+    <cosponsor id="400175" joined="2015-04-13"/>
+    <cosponsor id="412550" joined="2015-03-04"/>
+    <cosponsor id="412429" joined="2015-03-04"/>
+    <cosponsor id="400209" joined="2015-03-04"/>
+    <cosponsor id="412465" joined="2015-04-13"/>
+    <cosponsor id="412656" joined="2015-03-04"/>
+    <cosponsor id="412503" joined="2015-03-04"/>
+    <cosponsor id="412474" joined="2015-03-04"/>
+    <cosponsor id="412302" joined="2015-03-04"/>
+    <cosponsor id="412443" joined="2015-04-14"/>
+    <cosponsor id="412608" joined="2015-03-04"/>
+    <cosponsor id="412569" joined="2015-03-04"/>
+    <cosponsor id="412431" joined="2015-03-04"/>
+    <cosponsor id="412489" joined="2015-03-04"/>
+    <cosponsor id="412311" joined="2015-03-04"/>
+    <cosponsor id="412570" joined="2015-04-16"/>
+    <cosponsor id="400606" joined="2015-03-04"/>
+    <cosponsor id="412670" joined="2015-03-04"/>
+    <cosponsor id="412410" joined="2015-04-23"/>
+    <cosponsor id="400433" joined="2015-03-04"/>
+    <cosponsor id="412525" joined="2015-03-04"/>
+    <cosponsor id="412640" joined="2015-03-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-04" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+    <action datetime="2015-04-29">
+      <text>Referred to the Subcommittee on Higher Education and Workforce Training.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee activity="Referral" code="HSED13" subcommittee="Higher Education and Workforce Training" name="House Education and the Workforce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="649"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Administrative remedies"/>
+    <term name="Education programs funding"/>
+    <term name="Employment and training programs"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Higher education"/>
+    <term name="Licensing and registrations"/>
+    <term name="Student aid and college costs"/>
+  </subjects>
+  <amendments/>
+  <summary>3/4/2015--Introduced.
+Higher Education Reform and Opportunity Act of 2015
+
+Amends title IV (Student Assistance) of the Higher Education Act of 1965 to make the following entities, programs, and courses eligible for funding under title IV if they are accredited by an authorized accreditation authority in a state that has an alternative accreditation agreement with the Secretary of Education:
+
+ institutions that provide postsecondary courses; postsecondary apprenticeship programs; and postsecondary education courses or programs provided by institutions of postsecondary education, nonprofit organizations, or for-profit organizations or businesses. Lists the items to be included in a state's alternative accreditation agreement with the Secretary, including the standards those entities, programs, and courses must meet to receive and maintain their accreditation.
+
+Requires that agreement to include the state's assurance that only entities, programs, and courses that provide credits toward a postsecondary certification, credential, or degree (as defined by the state in the agreement) will be accredited.
+
+Establishes the formula for determining the administrative cost allowance for: (1) the entities, programs, and courses that are accredited through the alternative accreditation system and that administer the Federal Pell Grant, Federal Perkins Loan, Federal Work-Study, and Federal Supplemental Educational Opportunity Grant programs in accordance with the agreement; and (2) states that will administer those programs for such entities, programs, and courses in accordance with the agreement.</summary>
+</bill>

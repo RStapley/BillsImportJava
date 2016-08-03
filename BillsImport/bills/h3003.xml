@@ -1,0 +1,38 @@
+<bill session="114" type="h" number="3003" updated="2015-07-23T04:49:07-04:00">
+  <state datetime="2015-07-09">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-09"/>
+  </status>
+  <introduced datetime="2015-07-09"/>
+  <titles>
+    <title type="short" as="introduced">Jobs for Heroes Act</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to allow the work opportunity credit for hiring individuals who are veterans or members of the Ready Reserve or National Guard, to make permanent the work opportunity credit, and to expand and make permanent the employer wage credit for employees who are active duty members of the uniformed services.</title>
+  </titles>
+  <sponsor id="412537"/>
+  <cosponsors>
+    <cosponsor id="412263" joined="2015-07-09"/>
+    <cosponsor id="412595" joined="2015-07-09"/>
+    <cosponsor id="412286" joined="2015-07-09"/>
+    <cosponsor id="412331" joined="2015-07-09"/>
+    <cosponsor id="400349" joined="2015-07-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-09" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+  <summary>7/9/2015--Introduced.
+Jobs for Heroes Act 
+
+ Amends the Internal Revenue Code, with respect to the work opportunity tax credit, to: (1)&#160;revise the definition of "qualified veteran" to&#160;expand the eligibility of veterans for such credit,&#160;(2) allow such credit for the hiring of a qualified member of the Ready Reserve or National Guard, and (3) make such credit permanent.
+
+Revises the tax credit for differential wage&#160;payments made by employers on behalf of Members of the Uniformed Services to: (1)&#160;extend eligibility for such credit to an employer without regard to the size of such employer's workforce, and (2) make such credit permanent.</summary>
+</bill>

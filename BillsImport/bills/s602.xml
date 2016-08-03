@@ -1,0 +1,40 @@
+<bill session="114" type="s" number="602" updated="2015-06-06T06:48:36-04:00">
+  <state datetime="2015-02-26">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-26"/>
+  </status>
+  <introduced datetime="2015-02-26"/>
+  <titles>
+    <title type="short" as="introduced">GI Bill Fairness Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend title 38, United States Code, to consider certain time spent by members of reserve components of the Armed Forces while receiving medical care from the Secretary of Defense as active duty for purposes of eligibility for Post-9/11 Educational Assistance, and for other purposes.</title>
+  </titles>
+  <sponsor id="300100"/>
+  <cosponsors>
+    <cosponsor id="400040" joined="2015-02-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-26" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2015-05-13">
+      <text>Committee on Veterans' Affairs. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="1141"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Military medicine"/>
+    <term name="National Guard and reserves"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+  </subjects>
+  <amendments/>
+  <summary>2/26/2015--Introduced.
+GI Bill Fairness Act of 2015
+
+Includes as active duty for purposes of eligibility for post-9/11 veterans educational assistance service of a member of a reserve component ordered to active duty to receive authorized medical care, to be medically evaluated, or to complete a required Department of Defense health care study.</summary>
+</bill>

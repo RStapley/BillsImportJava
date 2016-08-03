@@ -1,0 +1,82 @@
+<bill session="114" type="h" number="1842" updated="2015-05-30T06:33:21-04:00">
+  <state datetime="2015-04-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-16"/>
+  </status>
+  <introduced datetime="2015-04-16"/>
+  <titles>
+    <title type="short" as="introduced">Indian Health Service Health Professions Tax Fairness Act of 2015</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to exclude from gross income payments under the Indian Health Service Loan Repayment Program and certain amounts received under the Indian Health Professions Scholarships Program.</title>
+  </titles>
+  <sponsor id="412515"/>
+  <cosponsors>
+    <cosponsor id="412500" joined="2015-04-16"/>
+    <cosponsor id="412436" joined="2015-04-16"/>
+    <cosponsor id="400033" joined="2015-04-16"/>
+    <cosponsor id="400057" joined="2015-04-16"/>
+    <cosponsor id="400077" joined="2015-04-16"/>
+    <cosponsor id="412513" joined="2015-04-16"/>
+    <cosponsor id="412555" joined="2015-04-16"/>
+    <cosponsor id="412403" joined="2015-04-16"/>
+    <cosponsor id="412215" joined="2015-04-23"/>
+    <cosponsor id="400129" joined="2015-04-16"/>
+    <cosponsor id="400162" joined="2015-04-16"/>
+    <cosponsor id="412645" joined="2015-04-16"/>
+    <cosponsor id="412280" joined="2015-04-16"/>
+    <cosponsor id="412446" joined="2015-05-12"/>
+    <cosponsor id="400185" joined="2015-04-23"/>
+    <cosponsor id="412511" joined="2015-04-16"/>
+    <cosponsor id="412283" joined="2015-04-16"/>
+    <cosponsor id="400209" joined="2015-04-16"/>
+    <cosponsor id="412566" joined="2015-04-16"/>
+    <cosponsor id="412583" joined="2015-04-16"/>
+    <cosponsor id="400218" joined="2015-04-16"/>
+    <cosponsor id="412286" joined="2015-04-16"/>
+    <cosponsor id="412614" joined="2015-04-16"/>
+    <cosponsor id="412510" joined="2015-04-16"/>
+    <cosponsor id="400232" joined="2015-04-16"/>
+    <cosponsor id="412638" joined="2015-04-16"/>
+    <cosponsor id="412295" joined="2015-04-16"/>
+    <cosponsor id="400259" joined="2015-05-21"/>
+    <cosponsor id="412552" joined="2015-04-16"/>
+    <cosponsor id="412568" joined="2015-04-16"/>
+    <cosponsor id="412475" joined="2015-05-21"/>
+    <cosponsor id="408211" joined="2015-04-16"/>
+    <cosponsor id="400297" joined="2015-04-23"/>
+    <cosponsor id="400313" joined="2015-04-23"/>
+    <cosponsor id="412585" joined="2015-04-16"/>
+    <cosponsor id="412308" joined="2015-04-23"/>
+    <cosponsor id="412519" joined="2015-04-16"/>
+    <cosponsor id="400371" joined="2015-04-16"/>
+    <cosponsor id="400376" joined="2015-04-16"/>
+    <cosponsor id="412509" joined="2015-04-16"/>
+    <cosponsor id="412520" joined="2015-04-23"/>
+    <cosponsor id="412618" joined="2015-04-16"/>
+    <cosponsor id="400440" joined="2015-04-16"/>
+    <cosponsor id="412640" joined="2015-04-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-16" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="536"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Income tax exclusion"/>
+    <term name="Indian social and development programs"/>
+    <term name="Medical education"/>
+    <term name="Minority health"/>
+    <term name="Student aid and college costs"/>
+  </subjects>
+  <amendments/>
+  <summary>4/16/2015--Introduced.
+Indian Health Service Health Professions Tax Fairness Act of 2015
+
+Amends the Internal Revenue Code to exclude from gross income amounts received under the Indian Health Service Loan Repayment Program and the Indian Health Professions Scholarships Program.</summary>
+</bill>

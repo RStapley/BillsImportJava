@@ -1,0 +1,54 @@
+<bill session="114" type="h" number="1458" updated="2015-07-04T06:30:44-04:00">
+  <state datetime="2015-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-19"/>
+  </status>
+  <introduced datetime="2015-03-19"/>
+  <titles>
+    <title type="short" as="introduced">BACPAC Act of 2015</title>
+    <title type="short" as="introduced">Bundling and Coordinating Post-Acute Care Act of 2015</title>
+    <title type="official" as="introduced">To amend title XVIII of the Social Security Act to provide bundled payments for post-acute care services under parts A and B of Medicare, and for other purposes.</title>
+  </titles>
+  <sponsor id="412487"/>
+  <cosponsors>
+    <cosponsor id="400124" joined="2015-03-25"/>
+    <cosponsor id="412189" joined="2015-03-19"/>
+    <cosponsor id="400626" joined="2015-03-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-19" state="REFERRED">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-03-19">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-03-19">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-03-20">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+  <summary>3/19/2015--Introduced.
+Bundling and Coordinating Post-Acute Care Act of 2015 or the BACPAC Act of 2015
+
+ Amends title XVIII (Medicare) of the Social Security Act to require a single bundled payment for post-acute care services under Medicare parts A (Hospital Insurance) and B (Supplementary Medical Insurance).
+
+Defines "PAC physician" as the physician with primary responsibility for supervising delivery to an individual of a post-acute care (PAC) bundle of services between a qualifying discharge and the earlier of: (1) 90 days later, or (2) the date on which the individual is admitted to a hospital to receive services for a condition unrelated to the one for which he or she received the acute care inpatient hospital services.
+
+Directs the Secretary of Health and Human Services to study the feasibility of integrating ("bundling") all payments under the Medicare program for post acute care services with payments for acute care inpatient hospital services in a subsection (d) hospital. (Generally, a subsection [d] hospital is an acute care hospital, particularly one that receives payments under Medicare's inpatient prospective payment system [IPPS] when providing covered inpatient services to eligible beneficiaries.)
+
+Places a moratorium on the IPPS payment rate in certain cases.
+
+Directs the Secretary to: (1) establish a new Transitional Care Management (TCM) code, with respect to geographic adjustments to the physicians' fee schedule, to pay for care management by a PAC physician; or (2) revise and expand the use of existing TCM codes 99495 and 99494.</summary>
+</bill>

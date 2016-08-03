@@ -1,0 +1,63 @@
+<bill session="114" type="h" number="1884" updated="2015-07-24T04:48:13-04:00">
+  <state datetime="2015-07-22">REPORTED</state>
+  <status>
+    <unknown datetime="2015-07-22"/>
+  </status>
+  <introduced datetime="2015-04-16"/>
+  <titles>
+    <title type="official" as="introduced">To designate the facility of the United States Postal Service located at 206 West Commercial Street in East Rochester, New York, as the "Officer Daryl R. Pierson Memorial Post Office Building".</title>
+  </titles>
+  <sponsor id="400378"/>
+  <cosponsors>
+    <cosponsor id="412221" joined="2015-04-28"/>
+    <cosponsor id="412563" joined="2015-04-28"/>
+    <cosponsor id="400087" joined="2015-04-28"/>
+    <cosponsor id="412672" joined="2015-07-08"/>
+    <cosponsor id="400122" joined="2015-04-28"/>
+    <cosponsor id="412453" joined="2015-04-28"/>
+    <cosponsor id="412454" joined="2015-04-28"/>
+    <cosponsor id="400641" joined="2015-04-28"/>
+    <cosponsor id="400195" joined="2015-04-28"/>
+    <cosponsor id="412561" joined="2015-04-28"/>
+    <cosponsor id="412649" joined="2015-05-12"/>
+    <cosponsor id="400219" joined="2015-04-28"/>
+    <cosponsor id="400246" joined="2015-04-28"/>
+    <cosponsor id="400251" joined="2015-04-28"/>
+    <cosponsor id="412562" joined="2015-04-28"/>
+    <cosponsor id="400271" joined="2015-04-28"/>
+    <cosponsor id="412560" joined="2015-04-28"/>
+    <cosponsor id="400289" joined="2015-04-28"/>
+    <cosponsor id="400333" joined="2015-04-28"/>
+    <cosponsor id="412393" joined="2015-05-12"/>
+    <cosponsor id="412647" joined="2015-05-12"/>
+    <cosponsor id="400366" joined="2015-04-28"/>
+    <cosponsor id="412648" joined="2015-05-12"/>
+    <cosponsor id="412319" joined="2015-04-28"/>
+    <cosponsor id="400416" joined="2015-04-28"/>
+    <cosponsor id="412646" joined="2015-04-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-16" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <calendar datetime="2015-07-22" state="REPORTED">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="823"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congressional tributes"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="New York State"/>
+    <term name="Postal service"/>
+  </subjects>
+  <amendments/>
+  <summary>4/16/2015--Introduced.
+Designates the facility of the United States Postal Service located at 206 West Commercial Street in East Rochester, New York, as the "Officer Daryl R. Pierson Memorial Post Office Building."</summary>
+</bill>

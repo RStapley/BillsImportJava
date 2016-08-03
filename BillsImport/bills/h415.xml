@@ -1,0 +1,48 @@
+<bill session="114" type="h" number="415" updated="2015-03-20T04:48:04-04:00">
+  <state datetime="2015-01-20">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-20"/>
+  </status>
+  <introduced datetime="2015-01-20"/>
+  <titles>
+    <title type="short" as="introduced">Stop Corporate Inversions Act of 2015</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to modify the rules relating to inverted corporations.</title>
+  </titles>
+  <sponsor id="400238"/>
+  <cosponsors>
+    <cosponsor id="400103" joined="2015-03-19"/>
+    <cosponsor id="400111" joined="2015-01-20"/>
+    <cosponsor id="412546" joined="2015-02-17"/>
+    <cosponsor id="400360" joined="2015-02-17"/>
+    <cosponsor id="400361" joined="2015-03-19"/>
+    <cosponsor id="400378" joined="2015-01-20"/>
+    <cosponsor id="400415" joined="2015-01-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-20" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="297"/>
+    <bill relation="unknown" session="114" type="s" number="174"/>
+    <bill relation="identical" session="114" type="s" number="198"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Corporate finance and management"/>
+    <term name="Department of the Treasury"/>
+    <term name="Foreign and international corporations"/>
+    <term name="Income tax rates"/>
+    <term name="Taxation of foreign income"/>
+  </subjects>
+  <amendments/>
+  <summary>1/20/2015--Introduced.
+Stop Corporate Inversions Act of 2015
+
+Amends the Internal Revenue Code to revise rules for the taxation of inverted corporations (i.e., U.S. corporations that acquire foreign companies to reincorporate in a foreign jurisdiction with income tax rates lower than the United States) to provide that a foreign corporation that acquires the properties of a U.S. corporation or partnership after May 8, 2014, shall be treated as an inverted corporation and thus subject to U.S. taxation if, after such acquisition: (1) it holds more than 50% of the stock of the new entity (expanded affiliated group), or (2) the management or control of the new entity occurs primarily within the United States and the new entity has significant domestic business activities.</summary>
+</bill>

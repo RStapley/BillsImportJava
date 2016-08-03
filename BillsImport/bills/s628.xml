@@ -1,0 +1,54 @@
+<bill session="114" type="s" number="628" updated="2015-07-28T05:10:31-04:00">
+  <state datetime="2015-03-03">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-03"/>
+  </status>
+  <introduced datetime="2015-03-03"/>
+  <titles>
+    <title type="short" as="introduced">Improving Access to Maternity Care Act</title>
+    <title type="official" as="introduced">A bill to amend the Public Health Service Act to provide for the designation of maternity care health professional shortage areas.</title>
+  </titles>
+  <sponsor id="400222"/>
+  <cosponsors>
+    <cosponsor id="400013" joined="2015-03-03"/>
+    <cosponsor id="400040" joined="2015-03-16"/>
+    <cosponsor id="400050" joined="2015-03-12"/>
+    <cosponsor id="412406" joined="2015-07-27"/>
+    <cosponsor id="412223" joined="2015-07-16"/>
+    <cosponsor id="412242" joined="2015-07-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-03" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="1209"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Child health"/>
+    <term name="Government information and archives"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health personnel"/>
+    <term name="Medical education"/>
+    <term name="Sex and reproductive health"/>
+    <term name="Student aid and college costs"/>
+    <term name="Women's health"/>
+  </subjects>
+  <amendments/>
+  <summary>3/3/2015--Introduced.
+Improving Access to Maternity Care Act
+
+This bill amends the Public Health Service Act to require the Health Resources and Services Administration to designate maternity care health professional shortage areas and review these designations at least annually.
+
+The Department of Health and Human Services must collect and publish data on health professional shortage areas so availability of maternal health professionals can be compared by professional category and geographic region.
+
+A maternity care health professional shortage area is: (1) an area determined to have a shortage of providers of full scope maternity care health services or of hospital or birth center labor and delivery units, or (2) a population group determined to have a shortage of such providers or facilities.
+
+Full scope maternity care health services include care during labor, birthing, prenatal care, and postpartum care.</summary>
+</bill>

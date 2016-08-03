@@ -1,0 +1,167 @@
+<bill session="114" type="h" number="727" updated="2015-07-30T04:48:06-04:00">
+  <state datetime="2015-02-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-04"/>
+  </status>
+  <introduced datetime="2015-02-04"/>
+  <titles>
+    <title type="short" as="introduced">Puerto Rico Statehood Admission Process Act</title>
+    <title type="official" as="introduced">To set forth the process for Puerto Rico to be admitted as a State of the Union.</title>
+  </titles>
+  <sponsor id="412306"/>
+  <cosponsors>
+    <cosponsor id="412657" joined="2015-02-04"/>
+    <cosponsor id="400033" joined="2015-03-25"/>
+    <cosponsor id="400041" joined="2015-02-04"/>
+    <cosponsor id="400047" joined="2015-05-21"/>
+    <cosponsor id="400048" joined="2015-02-04"/>
+    <cosponsor id="400616" joined="2015-02-12"/>
+    <cosponsor id="400062" joined="2015-03-26"/>
+    <cosponsor id="400063" joined="2015-03-18"/>
+    <cosponsor id="412517" joined="2015-02-12"/>
+    <cosponsor id="412407" joined="2015-03-18"/>
+    <cosponsor id="412571" joined="2015-02-04"/>
+    <cosponsor id="412195" joined="2015-02-04"/>
+    <cosponsor id="412576" joined="2015-03-25"/>
+    <cosponsor id="412470" joined="2015-02-04"/>
+    <cosponsor id="412221" joined="2015-02-12"/>
+    <cosponsor id="400639" joined="2015-03-25"/>
+    <cosponsor id="400075" joined="2015-02-04"/>
+    <cosponsor id="412272" joined="2015-02-04"/>
+    <cosponsor id="400080" joined="2015-02-04"/>
+    <cosponsor id="400618" joined="2015-02-04"/>
+    <cosponsor id="400087" joined="2015-02-04"/>
+    <cosponsor id="400090" joined="2015-03-18"/>
+    <cosponsor id="412621" joined="2015-02-04"/>
+    <cosponsor id="400101" joined="2015-03-19"/>
+    <cosponsor id="412544" joined="2015-04-22"/>
+    <cosponsor id="400103" joined="2015-02-12"/>
+    <cosponsor id="412385" joined="2015-02-04"/>
+    <cosponsor id="400108" joined="2015-02-04"/>
+    <cosponsor id="400111" joined="2015-03-18"/>
+    <cosponsor id="400122" joined="2015-02-04"/>
+    <cosponsor id="400129" joined="2015-02-12"/>
+    <cosponsor id="400130" joined="2015-03-18"/>
+    <cosponsor id="412529" joined="2015-02-04"/>
+    <cosponsor id="412327" joined="2015-02-04"/>
+    <cosponsor id="412532" joined="2015-02-04"/>
+    <cosponsor id="412612" joined="2015-03-25"/>
+    <cosponsor id="412620" joined="2015-06-16"/>
+    <cosponsor id="412276" joined="2015-02-04"/>
+    <cosponsor id="400160" joined="2015-02-12"/>
+    <cosponsor id="400162" joined="2015-03-25"/>
+    <cosponsor id="412498" joined="2015-03-18"/>
+    <cosponsor id="412434" joined="2015-02-04"/>
+    <cosponsor id="400170" joined="2015-02-04"/>
+    <cosponsor id="400179" joined="2015-04-22"/>
+    <cosponsor id="400189" joined="2015-02-04"/>
+    <cosponsor id="412511" joined="2015-02-04"/>
+    <cosponsor id="400195" joined="2015-02-12"/>
+    <cosponsor id="400199" joined="2015-03-18"/>
+    <cosponsor id="412561" joined="2015-02-04"/>
+    <cosponsor id="400204" joined="2015-04-22"/>
+    <cosponsor id="412199" joined="2015-02-12"/>
+    <cosponsor id="400211" joined="2015-02-04"/>
+    <cosponsor id="400218" joined="2015-02-04"/>
+    <cosponsor id="400219" joined="2015-02-04"/>
+    <cosponsor id="412286" joined="2015-04-22"/>
+    <cosponsor id="412419" joined="2015-02-04"/>
+    <cosponsor id="400230" joined="2015-03-26"/>
+    <cosponsor id="400232" joined="2015-04-22"/>
+    <cosponsor id="400233" joined="2015-02-04"/>
+    <cosponsor id="400237" joined="2015-04-29"/>
+    <cosponsor id="400240" joined="2015-02-04"/>
+    <cosponsor id="412521" joined="2015-03-25"/>
+    <cosponsor id="412293" joined="2015-06-18"/>
+    <cosponsor id="412468" joined="2015-02-04"/>
+    <cosponsor id="400663" joined="2015-04-22"/>
+    <cosponsor id="400262" joined="2015-04-22"/>
+    <cosponsor id="400263" joined="2015-02-25"/>
+    <cosponsor id="412189" joined="2015-03-18"/>
+    <cosponsor id="400271" joined="2015-02-04"/>
+    <cosponsor id="400273" joined="2015-02-04"/>
+    <cosponsor id="412662" joined="2015-02-25"/>
+    <cosponsor id="412527" joined="2015-02-04"/>
+    <cosponsor id="400295" joined="2015-02-04"/>
+    <cosponsor id="400309" joined="2015-07-29"/>
+    <cosponsor id="412506" joined="2015-04-22"/>
+    <cosponsor id="412192" joined="2015-02-12"/>
+    <cosponsor id="412307" joined="2015-03-04"/>
+    <cosponsor id="412659" joined="2015-02-04"/>
+    <cosponsor id="412308" joined="2015-02-04"/>
+    <cosponsor id="400326" joined="2015-03-04"/>
+    <cosponsor id="412331" joined="2015-04-22"/>
+    <cosponsor id="412664" joined="2015-02-04"/>
+    <cosponsor id="412489" joined="2015-02-04"/>
+    <cosponsor id="400344" joined="2015-02-04"/>
+    <cosponsor id="412519" joined="2015-02-04"/>
+    <cosponsor id="400349" joined="2015-04-22"/>
+    <cosponsor id="400352" joined="2015-05-21"/>
+    <cosponsor id="412312" joined="2015-02-04"/>
+    <cosponsor id="400355" joined="2015-04-22"/>
+    <cosponsor id="400361" joined="2015-02-04"/>
+    <cosponsor id="412314" joined="2015-02-04"/>
+    <cosponsor id="412315" joined="2015-03-18"/>
+    <cosponsor id="400364" joined="2015-02-12"/>
+    <cosponsor id="400366" joined="2015-02-04"/>
+    <cosponsor id="412186" joined="2015-06-25"/>
+    <cosponsor id="412259" joined="2015-03-25"/>
+    <cosponsor id="412648" joined="2015-02-12"/>
+    <cosponsor id="412626" joined="2015-02-04"/>
+    <cosponsor id="400402" joined="2015-03-04"/>
+    <cosponsor id="400403" joined="2015-03-04"/>
+    <cosponsor id="412319" joined="2015-04-30"/>
+    <cosponsor id="412254" joined="2015-02-25"/>
+    <cosponsor id="412522" joined="2015-02-04"/>
+    <cosponsor id="412580" joined="2015-04-22"/>
+    <cosponsor id="412214" joined="2015-03-04"/>
+    <cosponsor id="400623" joined="2015-02-04"/>
+    <cosponsor id="400422" joined="2015-02-04"/>
+    <cosponsor id="412239" joined="2015-02-04"/>
+    <cosponsor id="412412" joined="2015-03-18"/>
+    <cosponsor id="400440" joined="2015-02-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-04">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H760"/>
+    </action>
+    <action datetime="2015-02-04" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2015-03-16">
+      <text>Referred to the Subcommittee on Indians, Insular and Alaska Native Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII24" subcommittee="Indian, Insular and Alaska Native Affairs" name="House Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Caribbean area"/>
+    <term name="Congressional elections"/>
+    <term name="Congressional operations and organization"/>
+    <term name="Elections, voting, political campaign regulation"/>
+    <term name="House of Representatives"/>
+    <term name="Puerto Rico"/>
+    <term name="State and local government operations"/>
+    <term name="U.S. territories and protectorates"/>
+  </subjects>
+  <amendments/>
+  <summary>2/4/2015--Introduced.
+Puerto Rico Statehood Admission Process Act 
+
+Authorizes the State Elections Commission of Puerto Rico to provide for a vote on Puerto Rico's admission into the Union as a state within one year of this Act's enactment.
+
+Requires the governor of Puerto Rico to transmit the results of such vote to the President, the Speaker of the House of Representatives, and the President Pro Tempore of the Senate within 10 days after the certification of the vote by the Commission.
+
+Directs the President, if a majority of the votes cast are for Puerto Rico's admission as a state: (1) within 30 calendar days of receipt of the certified results, to issue a proclamation to begin the transition process that will culminate in Puerto Rico's admission as a state effective January 1, 2021; and (2) within 90 calendar days of such receipt, to appoint a Commission on the Equal Application of Federal Law to Puerto Rico, which shall survey U.S. laws and submit recommendations to Congress by July 1, 2018, as to how laws that do not apply, or that apply differently, to the territory should be amended or repealed to treat Puerto Rico equally.
+
+Requires Puerto Rico to carry out necessary actions by January 1, 2020, to enable it to hold elections for federal office in November 2020, including the election to the 117th Congress of two U.S. Senators and the number of Representatives to which it would have been entitled for the 116th Congress if it had been a state during such Congress. Provides for a temporary increase in the membership of the House of Representatives initially and a permanent increase effective with the taking effect of the first reapportionment occurring after the regular decennial census conducted for 2020.
+
+Requires the President, following a transition process, to issue a proclamation declaring that Puerto Rico is admitted to the Union on an equal footing with the other states, effective January 1, 2021.
+
+Sets forth provisions regarding the continuity of government and the continuity of laws of Puerto Rico.</summary>
+</bill>

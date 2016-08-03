@@ -1,0 +1,36 @@
+<bill session="114" type="s" number="1290" updated="2015-06-20T06:56:12-04:00">
+  <state datetime="2015-05-12">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-12"/>
+  </status>
+  <introduced datetime="2015-05-12"/>
+  <titles>
+    <title type="short" as="introduced">TRICARE Portability Act of 2015</title>
+    <title type="official" as="introduced">A bill to ensure the ability of covered beneficiaries under the TRICARE program to access care under a health plan under such program in each TRICARE program region, and for other purposes.</title>
+  </titles>
+  <sponsor id="412669"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-05-12" state="REFERRED">
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1376"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <summary>5/12/2015--Introduced.
+TRICARE Portability Act of 2015
+
+This bill directs the Secretary of Defense to ensure that beneficiaries covered under a TRICARE health plan are able to access health care under such health plan in each TRICARE program region.
+
+The Secretary shall:
+
+ provide for the automatic electronic transfer of demographic, enrollment, and claims information between the contractors responsible for administering the TRICARE program in each TRICARE region when covered beneficiaries relocate between such regions, ensure these covered beneficiaries are able to obtain a new primary health care provider within ten days of undergoing such relocation, and develop a process for such covered beneficiaries to receive urgent care without preauthorization while undergoing such relocation.</summary>
+</bill>

@@ -1,0 +1,45 @@
+<bill session="114" type="h" number="1051" updated="2015-04-11T06:26:02-04:00">
+  <state datetime="2015-02-24">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-24"/>
+  </status>
+  <introduced datetime="2015-02-24"/>
+  <titles>
+    <title type="official" as="introduced">To direct the Secretary of Homeland Security to designate John Wayne Airport in Orange County, California, as a U.S. Customs and Border Protection (CBP) port of entry, and for other purposes.</title>
+  </titles>
+  <sponsor id="400356"/>
+  <cosponsors>
+    <cosponsor id="400343" joined="2015-02-24"/>
+    <cosponsor id="400348" joined="2015-03-03"/>
+    <cosponsor id="412618" joined="2015-02-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-24" state="REFERRED">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-02-24">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-02-24">
+      <text>Referred to House Homeland Security</text>
+    </action>
+    <action datetime="2015-03-12">
+      <text>Referred to the Subcommittee on Border and Maritime Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral"/>
+    <committee activity="Referral" code="HSHM11" subcommittee="Border and Maritime Security" name="House Homeland Security"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Aviation and airports"/>
+    <term name="California"/>
+    <term name="Customs enforcement"/>
+  </subjects>
+  <amendments/>
+  <summary>2/24/2015--Introduced.
+This bill directs the Secretary of Homeland Security to designate John Wayne Airport in Orange County, California, as a U.S. Customs and Border Protection port of entry.</summary>
+</bill>

@@ -1,0 +1,59 @@
+<bill session="114" type="h" number="2642" updated="2015-06-13T06:40:37-04:00">
+  <state datetime="2015-06-03">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-03"/>
+  </status>
+  <introduced datetime="2015-06-03"/>
+  <titles>
+    <title type="short" as="introduced">Community Lender Regulatory Relief and Consumer Protection Act of 2015</title>
+    <title type="official" as="introduced">To provide sensible relief to community financial institutions, to protect consumers, and for other purposes.</title>
+  </titles>
+  <sponsor id="400422"/>
+  <cosponsors>
+    <cosponsor id="412565" joined="2015-06-03"/>
+    <cosponsor id="400063" joined="2015-06-03"/>
+    <cosponsor id="412407" joined="2015-06-03"/>
+    <cosponsor id="400074" joined="2015-06-03"/>
+    <cosponsor id="400639" joined="2015-06-03"/>
+    <cosponsor id="412544" joined="2015-06-03"/>
+    <cosponsor id="412215" joined="2015-06-03"/>
+    <cosponsor id="412257" joined="2015-06-03"/>
+    <cosponsor id="400653" joined="2015-06-03"/>
+    <cosponsor id="412584" joined="2015-06-03"/>
+    <cosponsor id="412282" joined="2015-06-03"/>
+    <cosponsor id="400179" joined="2015-06-03"/>
+    <cosponsor id="412546" joined="2015-06-03"/>
+    <cosponsor id="400249" joined="2015-06-03"/>
+    <cosponsor id="400251" joined="2015-06-03"/>
+    <cosponsor id="400271" joined="2015-06-03"/>
+    <cosponsor id="400661" joined="2015-06-03"/>
+    <cosponsor id="412527" joined="2015-06-03"/>
+    <cosponsor id="412192" joined="2015-06-03"/>
+    <cosponsor id="400363" joined="2015-06-03"/>
+    <cosponsor id="412396" joined="2015-06-03"/>
+    <cosponsor id="400371" joined="2015-06-03"/>
+    <cosponsor id="412509" joined="2015-06-03"/>
+    <cosponsor id="412522" joined="2015-06-03"/>
+    <cosponsor id="400416" joined="2015-06-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-03" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="299"/>
+    <bill relation="unknown" session="114" type="h" number="1334"/>
+    <bill relation="unknown" session="114" type="h" number="1354"/>
+    <bill relation="unknown" session="114" type="s" number="1367"/>
+    <bill relation="unknown" session="114" type="s" number="1484"/>
+    <bill relation="identical" session="114" type="s" number="1491"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+  </subjects>
+  <amendments/>
+</bill>

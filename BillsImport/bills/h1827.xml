@@ -1,0 +1,42 @@
+<bill session="114" type="h" number="1827" updated="2015-07-11T06:34:00-04:00">
+  <state datetime="2015-04-15">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-15"/>
+  </status>
+  <introduced datetime="2015-04-15"/>
+  <titles>
+    <title type="short" as="introduced">Helping Schools Protect Our Children Act of 2015</title>
+    <title type="official" as="introduced">To allow funds under title II of the Elementary and Secondary Education Act of 1965 to be used to provide training to school personnel regarding how to recognize child sexual abuse.</title>
+  </titles>
+  <sponsor id="412520"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-04-15" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1369"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Child safety and welfare"/>
+    <term name="Crimes against children"/>
+    <term name="Domestic violence and child abuse"/>
+    <term name="Education programs funding"/>
+    <term name="Elementary and secondary education"/>
+    <term name="School administration"/>
+    <term name="Sex offenses"/>
+    <term name="Teaching, teachers, curricula"/>
+  </subjects>
+  <amendments/>
+  <summary>4/15/2015--Introduced.
+Helping Schools Protect Our Children Act of 2015
+
+Reauthorizes appropriations for the grant program under part A (Teacher and Principal Training and Recruiting Fund) of title II (Preparing, Training, and Recruiting High Quality Teachers and Principals) of the Elementary and Secondary Education Act of 1965.
+
+Includes the training of school personnel to recognize child sexual abuse among the uses of grants to states and subgrants to local educational agencies and partnerships under that program.</summary>
+</bill>

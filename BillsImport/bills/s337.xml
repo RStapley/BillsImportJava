@@ -1,0 +1,68 @@
+<bill session="114" type="s" number="337" updated="2015-03-21T06:33:58-04:00">
+  <state datetime="2015-02-05">REPORTED</state>
+  <status>
+    <unknown datetime="2015-02-05"/>
+  </status>
+  <introduced datetime="2015-02-02"/>
+  <titles>
+    <title type="short" as="introduced">FOIA Improvement Act of 2015</title>
+    <title type="short" as="reported to senate">FOIA Improvement Act of 2015</title>
+    <title type="official" as="introduced">A bill to improve the Freedom of Information Act.</title>
+  </titles>
+  <sponsor id="300027"/>
+  <cosponsors>
+    <cosponsor id="412390" joined="2015-02-09"/>
+    <cosponsor id="412556" joined="2015-02-11"/>
+    <cosponsor id="300048" joined="2015-02-02"/>
+    <cosponsor id="300065" joined="2015-02-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-02" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S699-701" label="text of measure as introduced"/>
+    </action>
+    <calendar datetime="2015-02-05" state="REPORTED">
+      <text>Committee on the Judiciary. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="2015-02-09">
+      <text>Committee on the Judiciary. Reported by Senator Grassley without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="2015-02-09" calendar="Senate Legislative" under="General Orders" number="17">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 17.</text>
+    </calendar>
+    <action datetime="2015-02-23">
+      <text>By Senator Grassley from Committee on the Judiciary filed written report. Report No. 114-4. Additional views filed.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="653"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Administrative remedies"/>
+    <term name="Alternative dispute resolution, mediation, arbitration"/>
+    <term name="Congressional oversight"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Federal officials"/>
+    <term name="Freedom of information"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+  </subjects>
+  <amendments/>
+  <summary>2/9/2015--Reported to Senate without amendment.
+(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)
+
+FOIA Improvement Act of 2015
+
+ (Sec. 2) This bill amends the Freedom of Information Act (FOIA) to:
+
+ require federal agencies to make their disclosable records and documents available for public inspection in an electronic format; require agencies to make available for inspection in an electronic format records that have been requested three or more times (frequently requested records); prohibit an agency from charging a fee for providing records if the agency misses a deadline for complying with an FOIA request unless unusual circumstances apply and more than 50,000 pages are necessary to respond to the request; prohibit an agency from withholding information requested under FOIA unless the agency reasonably foresees that disclosure would harm an interest protected by a FOIA exemption or disclosure is prohibited by law (presumption of openness); require the Office of Government Information Services (OGIS) to offer mediation services to resolve disputes between agencies and FOIA requesters; require the Government Accountability Office to conduct audits of agency compliance with FOIA requirements; expand the authority and duties of the Chief FOIA Officer of each agency to require officers to serve as the primary agency liaison with OGIS and the Office of Information Policy; establish a Chief FOIA Officers Council to develop recommendations for increasing compliance and efficiency in responding to FOIA requests, disseminating information about agency experiences, identifying, developing, and coordinating initiatives to increase transparency and compliance, and promoting performance measures to ensure agency compliance with FOIA requirements; and require the Director of the Office of Management and Budget to ensure the operation of a consolidated online request portal that allows a member of the public to submit a request for records to any agency from a single website. (Sec. 3) The head of each agency (i.e., each authority of the U.S. government, excluding the Congress, U.S. courts, governments of U.S. territories and possessions, and the government of the District of Columbia) is required to: (1) review agency regulations and issue regulations on procedures for disclosure of records in accordance with the amendments made by this Act, and (2) include in such regulations procedures for engaging in dispute resolution through the FOIA Public Liaison and OGIS.
+
+(Sec. 4) The program for the efficient management of federal agency records is expanded to require agency heads to establish procedures for: (1) identifying records of general interest or use to the public that are appropriate for public disclosure, and (2) posting such records in a publicly-accessible electronic format.
+
+(Sec. 5) No additional funds are authorized to carry out the requirements of this Act.</summary>
+</bill>

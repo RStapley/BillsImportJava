@@ -1,0 +1,61 @@
+<bill session="114" type="h" number="2470" updated="2015-08-15T06:40:00-04:00">
+  <state datetime="2015-05-20">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-20"/>
+  </status>
+  <introduced datetime="2015-05-20"/>
+  <titles>
+    <title type="short" as="introduced">Private Prison Information Act of 2015</title>
+    <title type="official" as="introduced">To require non-Federal prisons and detention facilities holding Federal prisoners under a contract with the Federal Government to make available to the public the same information pertaining to facility operations and to prisoners held in such facilities that Federal prisons and detention facilities are required to make available.</title>
+  </titles>
+  <sponsor id="400199"/>
+  <cosponsors>
+    <cosponsor id="400074" joined="2015-05-20"/>
+    <cosponsor id="412236" joined="2015-05-20"/>
+    <cosponsor id="400080" joined="2015-05-20"/>
+    <cosponsor id="400090" joined="2015-05-20"/>
+    <cosponsor id="400093" joined="2015-05-20"/>
+    <cosponsor id="400111" joined="2015-07-13"/>
+    <cosponsor id="400162" joined="2015-06-04"/>
+    <cosponsor id="400170" joined="2015-07-13"/>
+    <cosponsor id="412199" joined="2015-05-20"/>
+    <cosponsor id="400237" joined="2015-06-04"/>
+    <cosponsor id="400240" joined="2015-05-20"/>
+    <cosponsor id="400245" joined="2015-05-20"/>
+    <cosponsor id="400661" joined="2015-06-04"/>
+    <cosponsor id="400289" joined="2015-05-20"/>
+    <cosponsor id="400295" joined="2015-07-13"/>
+    <cosponsor id="400333" joined="2015-05-20"/>
+    <cosponsor id="400350" joined="2015-05-20"/>
+    <cosponsor id="400364" joined="2015-05-20"/>
+    <cosponsor id="412520" joined="2015-07-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-20" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-06-16">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Civil actions and liability"/>
+    <term name="Correctional facilities and imprisonment"/>
+    <term name="Detention of persons"/>
+    <term name="Freedom of information"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Public contracts and procurement"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+  <summary>5/20/2015--Introduced.
+Private Prison Information Act of 2015
+
+ Subjects records relating to the operation of and prisoners in a prison or other correctional or detention facility that is owned or operated by a nongovernmental entity, state, or local government and that incarcerates or detains federal prisoners pursuant to a contract or agreement with a federal agency to the Freedom of Information Act in the same manner as records maintained by a federal agency operating a federal prison or detention facility.</summary>
+</bill>

@@ -1,0 +1,31 @@
+<bill session="114" type="h" number="3323" updated="2015-08-22T04:47:31-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">Dental and Optometric Care Access Act</title>
+    <title type="short" as="introduced">DOC Access Act</title>
+    <title type="official" as="introduced">To amend title XXVII of the Public Health Service Act to improve health care coverage under vision and dental plans, and for other purposes.</title>
+  </titles>
+  <sponsor id="412622"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-07-31">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+</bill>

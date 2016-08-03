@@ -1,0 +1,37 @@
+<bill session="114" type="h" number="3025" updated="2015-07-30T04:50:16-04:00">
+  <state datetime="2015-07-10">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-10"/>
+  </status>
+  <introduced datetime="2015-07-10"/>
+  <titles>
+    <title type="short" as="introduced">Wildfire Airspace Protection Act of 2015</title>
+    <title type="official" as="introduced">To amend title 18, United States Code, to provide a criminal penalty for launching drones that interfere with fighting wildfires affecting Federal property, and for other purposes.</title>
+  </titles>
+  <sponsor id="412513"/>
+  <cosponsors>
+    <cosponsor id="412615" joined="2015-07-15"/>
+    <cosponsor id="412516" joined="2015-07-29"/>
+    <cosponsor id="400057" joined="2015-07-16"/>
+    <cosponsor id="412510" joined="2015-07-23"/>
+    <cosponsor id="400348" joined="2015-07-29"/>
+    <cosponsor id="412515" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-10" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+  </subjects>
+  <amendments/>
+</bill>

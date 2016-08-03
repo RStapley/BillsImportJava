@@ -1,0 +1,38 @@
+<bill session="114" type="h" number="2631" updated="2015-07-11T06:40:44-04:00">
+  <state datetime="2015-06-03">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-03"/>
+  </status>
+  <introduced datetime="2015-06-03"/>
+  <titles>
+    <title type="short" as="introduced">Regulatory Predictability for Business Growth Act of 2015</title>
+    <title type="official" as="introduced">To require notice and comment for certain interpretive rules.</title>
+  </titles>
+  <sponsor id="412650"/>
+  <cosponsors>
+    <cosponsor id="400158" joined="2015-06-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-03" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-06-16">
+      <text>Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU05" subcommittee="Regulatory Reform, Commercial And Antitrust Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="1487"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+  </subjects>
+  <amendments/>
+  <summary>6/3/2015--Introduced.
+Regulatory Predictability for Business Growth Act of 2015
+
+This bill adds the definitions of "longstanding interpretive rule" and "revise" to the Administrative Procedure Act (APA). A longstanding interpretive rule is distinguished from an "interpretive rule" if it has been in effect for not less than one&#160;year. If a rule is a longstanding interpretive rule, it remains subject to the general notice of proposed rulemaking and comment and publication provisions of the APA.</summary>
+</bill>

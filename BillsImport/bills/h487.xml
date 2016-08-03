@@ -1,0 +1,49 @@
+<bill session="114" type="h" number="487" updated="2015-07-10T04:47:16-04:00">
+  <state datetime="2015-07-09">REPORTED</state>
+  <status>
+    <unknown datetime="2015-07-09"/>
+  </status>
+  <introduced datetime="2015-01-22"/>
+  <titles>
+    <title type="official" as="introduced">To allow the Miami Tribe of Oklahoma to lease or transfer certain lands.</title>
+  </titles>
+  <sponsor id="412568"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-01-22" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2015-03-02">
+      <text>Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.</text>
+    </action>
+    <action datetime="2015-06-10">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="2015-07-08">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2015-07-09">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-07-09" state="REPORTED">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+    </calendar>
+    <action datetime="2015-07-09">
+      <text>Subcommittee on Indian, Insular and Alaska Native Affairs Discharged.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII24" subcommittee="Indian, Insular and Alaska Native Affairs" name="House Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Native Americans"/>
+    <term name="Indian lands and resources rights"/>
+    <term name="Land transfers"/>
+    <term name="Oklahoma"/>
+  </subjects>
+  <amendments/>
+  <summary>1/22/2015--Introduced.
+Allows the Miami Tribe of Oklahoma to lease, sell, convey, warrant, or transfer all or any part of its interests in any real property that is not held in trust by the United States for the tribe.</summary>
+</bill>

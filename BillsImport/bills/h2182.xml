@@ -1,0 +1,42 @@
+<bill session="114" type="h" number="2182" updated="2015-07-25T06:37:13-04:00">
+  <state datetime="2015-04-30">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-30"/>
+  </status>
+  <introduced datetime="2015-04-30"/>
+  <titles>
+    <title type="short" as="introduced">Coronado Heights Horseracing Deregulation Act of 2015</title>
+    <title type="official" as="introduced">To deregulate interstate commerce with respect to parimutuel wagering on horseracing, and for other purposes.</title>
+  </titles>
+  <sponsor id="400320"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-04-30" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-05-01">
+      <text>Referred to the Subcommittee on Commerce, Manufacturing, and Trade.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF17" subcommittee="Commerce, Manufacturing, and Trade" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1174"/>
+  </relatedbills>
+  <subjects>
+    <term name="Sports and recreation"/>
+    <term name="Animal protection and human-animal relationships"/>
+    <term name="Gambling"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Mammals"/>
+    <term name="Professional sports"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+  <summary>4/30/2015--Introduced.
+Coronado Heights Horseracing Deregulation Act of 2015
+
+Repeals the Interstate Horseracing Act of 1978.</summary>
+</bill>

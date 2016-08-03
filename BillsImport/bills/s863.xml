@@ -1,0 +1,42 @@
+<bill session="114" type="s" number="863" updated="2015-07-18T06:55:20-04:00">
+  <state datetime="2015-03-25">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-25"/>
+  </status>
+  <introduced datetime="2015-03-25"/>
+  <titles>
+    <title type="short" as="introduced">Appalachian Regional Development Amendments Act of 2015</title>
+    <title type="official" as="introduced">A bill to reauthorize and improve the Appalachian regional development program, and for other purposes.</title>
+  </titles>
+  <sponsor id="400432"/>
+  <cosponsors>
+    <cosponsor id="400061" joined="2015-03-25"/>
+    <cosponsor id="400064" joined="2015-03-25"/>
+    <cosponsor id="412223" joined="2015-03-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-25" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Housing and community development"/>
+    <term name="Appalachian Regional Commission"/>
+    <term name="Computers and information technology"/>
+    <term name="Economic development"/>
+    <term name="Educational technology and distance education"/>
+    <term name="Internet and video services"/>
+    <term name="Roads and highways"/>
+    <term name="Rural conditions and development"/>
+    <term name="Transportation programs funding"/>
+  </subjects>
+  <amendments/>
+  <summary>3/25/2015--Introduced.
+Appalachian Regional Development Amendments Act of 2015
+
+This bill authorizes appropriations for the Appalachian Regional Commission for FY2016-FY2020, extends the termination date of the Appalachian Regional Development Program through the end of FY2020, and allots funding to enable the Commission to provide technical assistance, make grants, and enter into contracts in the Appalachian region to increase affordable access to broadband networks throughout Appalachia and for related projects and activities.</summary>
+</bill>

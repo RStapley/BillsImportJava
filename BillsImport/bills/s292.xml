@@ -1,0 +1,58 @@
+<bill session="114" type="s" number="292" updated="2015-05-07T04:48:03-04:00">
+  <state datetime="2015-01-28">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-28"/>
+  </status>
+  <introduced datetime="2015-01-28"/>
+  <titles>
+    <title type="short" as="introduced">21st Century Endangered Species Transparency Act</title>
+    <title type="official" as="introduced">A bill to amend the Endangered Species Act of 1973 to require publication on the Internet of the basis for determinations that species are endangered species or threatened species, and for other purposes.</title>
+  </titles>
+  <sponsor id="300027"/>
+  <cosponsors>
+    <cosponsor id="300030" joined="2015-01-28"/>
+    <cosponsor id="412573" joined="2015-01-28"/>
+    <cosponsor id="412549" joined="2015-01-28"/>
+    <cosponsor id="300041" joined="2015-01-28"/>
+    <cosponsor id="412556" joined="2015-01-28"/>
+    <cosponsor id="400134" joined="2015-01-28"/>
+    <cosponsor id="300052" joined="2015-01-28"/>
+    <cosponsor id="300055" joined="2015-03-26"/>
+    <cosponsor id="412464" joined="2015-01-28"/>
+    <cosponsor id="400284" joined="2015-01-28"/>
+    <cosponsor id="412322" joined="2015-01-29"/>
+    <cosponsor id="300083" joined="2015-01-28"/>
+    <cosponsor id="412669" joined="2015-01-28"/>
+    <cosponsor id="400546" joined="2015-01-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-28" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+      <reference ref="CR S601" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2015-05-06">
+      <text>Committee on Environment and Public Works. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1667"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Department of the Interior"/>
+    <term name="Endangered and threatened species"/>
+    <term name="Government information and archives"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+  <summary>1/28/2015--Introduced.
+21st Century Endangered Species Transparency Act 
+
+This bill amends the Endangered Species Act of 1973 to require the Department of the Interior or the Department of Commerce, as appropriate, to make publicly available on the Internet the best scientific and commercial data available that are the basis for the determination of whether a species is an endangered species or a threatened species, including each proposed regulation for the listing of a species.
+
+The departments are prohibited from making the information publicly available when: (1) the public disclosure of the information is prohibited by state law relating to the protection of personal information, and (2) the state makes a request to a department to withhold the information.</summary>
+</bill>

@@ -1,0 +1,72 @@
+<bill session="114" type="h" number="2412" updated="2015-08-05T04:47:20-04:00">
+  <state datetime="2015-05-19">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-19"/>
+  </status>
+  <introduced datetime="2015-05-19"/>
+  <titles>
+    <title type="short" as="introduced">New Energy for America Act</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to extend the credit for residential energy efficient property and the energy credit.</title>
+  </titles>
+  <sponsor id="400403"/>
+  <cosponsors>
+    <cosponsor id="400033" joined="2015-05-19"/>
+    <cosponsor id="412652" joined="2015-05-19"/>
+    <cosponsor id="412537" joined="2015-08-04"/>
+    <cosponsor id="412517" joined="2015-05-19"/>
+    <cosponsor id="412571" joined="2015-05-19"/>
+    <cosponsor id="412195" joined="2015-07-15"/>
+    <cosponsor id="412236" joined="2015-05-19"/>
+    <cosponsor id="412215" joined="2015-05-19"/>
+    <cosponsor id="400124" joined="2015-06-02"/>
+    <cosponsor id="412532" joined="2015-06-02"/>
+    <cosponsor id="400162" joined="2015-06-03"/>
+    <cosponsor id="400641" joined="2015-07-28"/>
+    <cosponsor id="400185" joined="2015-05-20"/>
+    <cosponsor id="412511" joined="2015-05-19"/>
+    <cosponsor id="400195" joined="2015-06-25"/>
+    <cosponsor id="412435" joined="2015-05-19"/>
+    <cosponsor id="400218" joined="2015-06-03"/>
+    <cosponsor id="412557" joined="2015-05-19"/>
+    <cosponsor id="400233" joined="2015-05-22"/>
+    <cosponsor id="412616" joined="2015-05-19"/>
+    <cosponsor id="412209" joined="2015-06-25"/>
+    <cosponsor id="400245" joined="2015-06-03"/>
+    <cosponsor id="412293" joined="2015-05-19"/>
+    <cosponsor id="400663" joined="2015-05-19"/>
+    <cosponsor id="400262" joined="2015-05-19"/>
+    <cosponsor id="400291" joined="2015-05-19"/>
+    <cosponsor id="400309" joined="2015-05-19"/>
+    <cosponsor id="412192" joined="2015-06-03"/>
+    <cosponsor id="412523" joined="2015-05-19"/>
+    <cosponsor id="412585" joined="2015-05-20"/>
+    <cosponsor id="412519" joined="2015-05-19"/>
+    <cosponsor id="400355" joined="2015-05-19"/>
+    <cosponsor id="412319" joined="2015-05-19"/>
+    <cosponsor id="400415" joined="2015-05-19"/>
+    <cosponsor id="412579" joined="2015-06-23"/>
+    <cosponsor id="412239" joined="2015-05-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-19" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Alternative and renewable resources"/>
+    <term name="Energy efficiency and conservation"/>
+    <term name="Income tax credits"/>
+    <term name="Lighting and heating"/>
+    <term name="Residential rehabilitation and home repair"/>
+  </subjects>
+  <amendments/>
+  <summary>5/19/2015--Introduced.
+New Energy for America Act
+
+This bill amends the Internal Revenue Code to extend: (1) the tax credit for residential energy efficient property expenditures through calendar year 2021; and (2) the energy tax credit for energy property, including solar energy property, qualified fuel cell property, qualified microturbine property, combined heat and power system property, and thermal energy property, the construction of which begins before January 1, 2022.</summary>
+</bill>

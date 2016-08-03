@@ -1,0 +1,44 @@
+<bill session="114" type="h" number="3180" updated="2015-08-01T04:51:15-04:00">
+  <state datetime="2015-07-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-23"/>
+  </status>
+  <introduced datetime="2015-07-23"/>
+  <titles>
+    <title type="short" as="introduced">Flexible Pell Grant for 21st Century Students Act</title>
+    <title type="official" as="introduced">To amend the Higher Education Act of 1965 to provide students with increased flexibility in the use of Federal Pell Grants, and for other purposes.</title>
+  </titles>
+  <sponsor id="412648"/>
+  <cosponsors>
+    <cosponsor id="412501" joined="2015-07-31"/>
+    <cosponsor id="412651" joined="2015-07-29"/>
+    <cosponsor id="412621" joined="2015-07-23"/>
+    <cosponsor id="412536" joined="2015-07-29"/>
+    <cosponsor id="400097" joined="2015-07-23"/>
+    <cosponsor id="412613" joined="2015-07-23"/>
+    <cosponsor id="412453" joined="2015-07-23"/>
+    <cosponsor id="412446" joined="2015-07-23"/>
+    <cosponsor id="400179" joined="2015-07-23"/>
+    <cosponsor id="412603" joined="2015-07-31"/>
+    <cosponsor id="400224" joined="2015-07-23"/>
+    <cosponsor id="412643" joined="2015-07-29"/>
+    <cosponsor id="412527" joined="2015-07-29"/>
+    <cosponsor id="400364" joined="2015-07-23"/>
+    <cosponsor id="412509" joined="2015-07-29"/>
+    <cosponsor id="412520" joined="2015-07-23"/>
+    <cosponsor id="412317" joined="2015-07-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-23" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+  </subjects>
+  <amendments/>
+</bill>

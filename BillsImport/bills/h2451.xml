@@ -1,0 +1,57 @@
+<bill session="114" type="h" number="2451" updated="2015-08-15T06:39:50-04:00">
+  <state datetime="2015-05-19">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-19"/>
+  </status>
+  <introduced datetime="2015-05-19"/>
+  <titles>
+    <title type="short" as="introduced">Buy America Update Act</title>
+    <title type="official" as="introduced">To amend title 23 and title 49, United States Code, to strengthen domestic content standards, and for other purposes.</title>
+  </titles>
+  <sponsor id="400630"/>
+  <cosponsors>
+    <cosponsor id="412537" joined="2015-05-19"/>
+    <cosponsor id="412637" joined="2015-05-19"/>
+    <cosponsor id="400641" joined="2015-05-19"/>
+    <cosponsor id="412566" joined="2015-05-19"/>
+    <cosponsor id="412638" joined="2015-05-19"/>
+    <cosponsor id="400295" joined="2015-05-19"/>
+    <cosponsor id="412585" joined="2015-05-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-19" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2015-05-20">
+      <text>Referred to the Subcommittee on Aviation.</text>
+    </action>
+    <action datetime="2015-05-20">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+    </action>
+    <action datetime="2015-05-20">
+      <text>Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW05" subcommittee="Aviation" name="House Transportation and Infrastructure"/>
+    <committee activity="Referral" code="HSPW12" subcommittee="Highways and Transit" name="House Transportation and Infrastructure"/>
+    <committee activity="Referral" code="HSPW14" subcommittee="Railroads, Pipelines, and Hazardous Materials" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Accounting and auditing"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Aviation and airports"/>
+    <term name="Buy American requirements"/>
+    <term name="Department of Transportation"/>
+    <term name="Metals"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Railroads"/>
+    <term name="Roads and highways"/>
+    <term name="Transportation programs funding"/>
+    <term name="User charges and fees"/>
+  </subjects>
+  <amendments/>
+</bill>

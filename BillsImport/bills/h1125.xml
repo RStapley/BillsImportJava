@@ -1,0 +1,42 @@
+<bill session="114" type="h" number="1125" updated="2015-05-13T04:47:10-04:00">
+  <state datetime="2015-02-26">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-26"/>
+  </status>
+  <introduced datetime="2015-02-26"/>
+  <titles>
+    <title type="short" as="introduced">Start Saving Sooner Act of 2015</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to provide for tax preferred savings accounts for individuals under age 18, and for other purposes.</title>
+  </titles>
+  <sponsor id="412454"/>
+  <cosponsors>
+    <cosponsor id="400033" joined="2015-03-16"/>
+    <cosponsor id="412536" joined="2015-03-25"/>
+    <cosponsor id="412544" joined="2015-04-14"/>
+    <cosponsor id="400116" joined="2015-03-16"/>
+    <cosponsor id="400640" joined="2015-05-12"/>
+    <cosponsor id="400218" joined="2015-02-26"/>
+    <cosponsor id="412540" joined="2015-04-13"/>
+    <cosponsor id="412255" joined="2015-04-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-26" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Income tax credits"/>
+    <term name="Income tax exclusion"/>
+  </subjects>
+  <amendments/>
+  <summary>2/26/2015--Introduced.
+Start Saving Sooner Act of 2015
+
+ Amends the Internal Revenue Code to establish a tax-exempt individual retirement account for taxpayers under age 18, to be known as a young savers account. Treats such accounts as Roth individual retirement accounts for income tax purposes. Allows the tax credit for retirement savings for contributions to a young savers account. Directs the Secretary of the Treasury to pay any overpayment of tax that is attributable to the tax credit for retirement savings to the taxpayer's young savers account.</summary>
+</bill>

@@ -1,0 +1,162 @@
+<bill session="114" type="hr" number="235" updated="2015-07-09T04:46:42-04:00">
+  <state datetime="2015-05-21">REPORTED</state>
+  <status>
+    <unknown datetime="2015-05-21"/>
+  </status>
+  <introduced datetime="2015-04-29"/>
+  <titles>
+    <title type="official" as="introduced">Expressing deepest condolences to and solidarity with the people of Nepal following the devastating earthquake on April 25, 2015.</title>
+  </titles>
+  <sponsor id="400606"/>
+  <cosponsors>
+    <cosponsor id="412630" joined="2015-04-29"/>
+    <cosponsor id="412541" joined="2015-04-29"/>
+    <cosponsor id="412404" joined="2015-04-29"/>
+    <cosponsor id="412565" joined="2015-06-02"/>
+    <cosponsor id="412512" joined="2015-04-29"/>
+    <cosponsor id="412250" joined="2015-04-29"/>
+    <cosponsor id="400030" joined="2015-04-29"/>
+    <cosponsor id="412478" joined="2015-04-29"/>
+    <cosponsor id="412627" joined="2015-04-29"/>
+    <cosponsor id="412501" joined="2015-04-29"/>
+    <cosponsor id="400636" joined="2015-04-29"/>
+    <cosponsor id="412652" joined="2015-04-29"/>
+    <cosponsor id="400047" joined="2015-04-29"/>
+    <cosponsor id="412537" joined="2015-04-29"/>
+    <cosponsor id="400616" joined="2015-04-29"/>
+    <cosponsor id="400063" joined="2015-04-29"/>
+    <cosponsor id="412258" joined="2015-04-29"/>
+    <cosponsor id="412571" joined="2015-04-30"/>
+    <cosponsor id="400071" joined="2015-04-29"/>
+    <cosponsor id="412379" joined="2015-04-29"/>
+    <cosponsor id="412470" joined="2015-04-29"/>
+    <cosponsor id="412604" joined="2015-04-29"/>
+    <cosponsor id="400074" joined="2015-04-30"/>
+    <cosponsor id="400639" joined="2015-04-29"/>
+    <cosponsor id="412236" joined="2015-04-29"/>
+    <cosponsor id="412658" joined="2015-04-29"/>
+    <cosponsor id="412272" joined="2015-04-29"/>
+    <cosponsor id="400080" joined="2015-04-29"/>
+    <cosponsor id="412513" joined="2015-04-29"/>
+    <cosponsor id="400618" joined="2015-04-29"/>
+    <cosponsor id="412651" joined="2015-05-12"/>
+    <cosponsor id="412555" joined="2015-04-30"/>
+    <cosponsor id="400086" joined="2015-04-29"/>
+    <cosponsor id="400097" joined="2015-04-29"/>
+    <cosponsor id="400100" joined="2015-04-29"/>
+    <cosponsor id="412505" joined="2015-04-29"/>
+    <cosponsor id="412526" joined="2015-04-29"/>
+    <cosponsor id="412477" joined="2015-04-29"/>
+    <cosponsor id="412385" joined="2015-04-29"/>
+    <cosponsor id="412263" joined="2015-04-29"/>
+    <cosponsor id="400122" joined="2015-04-29"/>
+    <cosponsor id="400130" joined="2015-04-29"/>
+    <cosponsor id="412529" joined="2015-04-29"/>
+    <cosponsor id="412532" joined="2015-04-29"/>
+    <cosponsor id="412397" joined="2015-04-29"/>
+    <cosponsor id="412276" joined="2015-04-29"/>
+    <cosponsor id="400162" joined="2015-04-29"/>
+    <cosponsor id="412498" joined="2015-04-29"/>
+    <cosponsor id="400170" joined="2015-04-29"/>
+    <cosponsor id="412584" joined="2015-04-30"/>
+    <cosponsor id="400641" joined="2015-04-29"/>
+    <cosponsor id="400185" joined="2015-04-29"/>
+    <cosponsor id="400195" joined="2015-04-29"/>
+    <cosponsor id="400196" joined="2015-04-30"/>
+    <cosponsor id="400199" joined="2015-04-29"/>
+    <cosponsor id="412561" joined="2015-07-08"/>
+    <cosponsor id="412199" joined="2015-04-29"/>
+    <cosponsor id="412603" joined="2015-04-29"/>
+    <cosponsor id="412435" joined="2015-04-29"/>
+    <cosponsor id="412583" joined="2015-04-29"/>
+    <cosponsor id="400219" joined="2015-04-30"/>
+    <cosponsor id="412286" joined="2015-04-29"/>
+    <cosponsor id="400230" joined="2015-04-29"/>
+    <cosponsor id="400232" joined="2015-04-29"/>
+    <cosponsor id="400237" joined="2015-04-29"/>
+    <cosponsor id="400238" joined="2015-04-29"/>
+    <cosponsor id="400240" joined="2015-04-29"/>
+    <cosponsor id="412616" joined="2015-04-29"/>
+    <cosponsor id="412521" joined="2015-04-29"/>
+    <cosponsor id="400246" joined="2015-05-12"/>
+    <cosponsor id="400249" joined="2015-04-29"/>
+    <cosponsor id="400251" joined="2015-04-29"/>
+    <cosponsor id="412562" joined="2015-04-29"/>
+    <cosponsor id="412468" joined="2015-04-29"/>
+    <cosponsor id="400259" joined="2015-04-29"/>
+    <cosponsor id="400262" joined="2015-04-29"/>
+    <cosponsor id="400263" joined="2015-04-29"/>
+    <cosponsor id="400271" joined="2015-04-29"/>
+    <cosponsor id="412560" joined="2015-04-29"/>
+    <cosponsor id="400661" joined="2015-04-29"/>
+    <cosponsor id="412660" joined="2015-04-29"/>
+    <cosponsor id="412575" joined="2015-05-12"/>
+    <cosponsor id="400309" joined="2015-04-29"/>
+    <cosponsor id="412192" joined="2015-04-29"/>
+    <cosponsor id="400316" joined="2015-04-29"/>
+    <cosponsor id="412307" joined="2015-04-29"/>
+    <cosponsor id="412551" joined="2015-04-29"/>
+    <cosponsor id="412585" joined="2015-04-29"/>
+    <cosponsor id="400652" joined="2015-04-29"/>
+    <cosponsor id="412308" joined="2015-04-29"/>
+    <cosponsor id="400326" joined="2015-04-29"/>
+    <cosponsor id="400333" joined="2015-04-29"/>
+    <cosponsor id="412647" joined="2015-04-29"/>
+    <cosponsor id="400344" joined="2015-04-29"/>
+    <cosponsor id="412202" joined="2015-04-29"/>
+    <cosponsor id="400350" joined="2015-04-29"/>
+    <cosponsor id="400352" joined="2015-04-29"/>
+    <cosponsor id="412212" joined="2015-04-29"/>
+    <cosponsor id="400364" joined="2015-06-02"/>
+    <cosponsor id="400371" joined="2015-04-29"/>
+    <cosponsor id="400376" joined="2015-06-12"/>
+    <cosponsor id="412186" joined="2015-04-29"/>
+    <cosponsor id="400378" joined="2015-04-29"/>
+    <cosponsor id="400379" joined="2015-04-29"/>
+    <cosponsor id="412319" joined="2015-04-29"/>
+    <cosponsor id="400623" joined="2015-04-29"/>
+    <cosponsor id="400422" joined="2015-05-12"/>
+    <cosponsor id="412644" joined="2015-04-30"/>
+    <cosponsor id="412574" joined="2015-04-29"/>
+    <cosponsor id="412578" joined="2015-04-29"/>
+    <cosponsor id="412412" joined="2015-04-29"/>
+    <cosponsor id="400433" joined="2015-04-29"/>
+    <cosponsor id="412211" joined="2015-04-29"/>
+    <cosponsor id="412525" joined="2015-04-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-29" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2015-05-13">
+      <text>Referred to the Subcommittee on Asia and the Pacific.</text>
+    </action>
+    <action datetime="2015-05-20">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2015-05-20">
+      <text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .</text>
+    </action>
+    <action datetime="2015-05-21">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-05-21" state="REPORTED">
+      <text>Ordered to be Reported in the Nature of a Substitute (Amended) by Unanimous Consent.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, Markup"/>
+    <committee activity="Referral, Markup, Reporting" code="HSFA05" subcommittee="Asia and the Pacific" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <summary>4/29/2015--Introduced.
+Expresses deepest condolences to and solidarity with the people of Nepal following the devastating earthquake on April 25, 2015.
+
+ Supports the Administration's efforts to coordinate an immediate U.S. humanitarian response.
+
+ Commends the efforts and honors the sacrifice of the men and women engaged in the response, including the citizens and government of Nepal, the United States, and international humanitarian and nongovernmental organizations.
+
+ Urges the Administration, in coordination with the government of Nepal and other donors, to provide emergency relief and reconstruction efforts in Nepal.</summary>
+</bill>

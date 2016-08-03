@@ -1,0 +1,63 @@
+<bill session="114" type="s" number="452" updated="2015-03-14T06:40:52-04:00">
+  <state datetime="2015-02-11">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-11"/>
+  </status>
+  <introduced datetime="2015-02-11"/>
+  <titles>
+    <title type="short" as="introduced">Defense of Ukraine Act of 2015</title>
+    <title type="official" as="introduced">A bill to provide lethal weapons to the Government of Ukraine in order to defend itself against Russian-backed rebel separatists in eastern Ukraine.</title>
+  </titles>
+  <sponsor id="300055"/>
+  <cosponsors>
+    <cosponsor id="400040" joined="2015-02-11"/>
+    <cosponsor id="400061" joined="2015-02-11"/>
+    <cosponsor id="300027" joined="2015-02-11"/>
+    <cosponsor id="412508" joined="2015-02-11"/>
+    <cosponsor id="412573" joined="2015-02-11"/>
+    <cosponsor id="300052" joined="2015-02-11"/>
+    <cosponsor id="300072" joined="2015-02-11"/>
+    <cosponsor id="400325" joined="2015-02-11"/>
+    <cosponsor id="300083" joined="2015-02-11"/>
+    <cosponsor id="412669" joined="2015-02-11"/>
+    <cosponsor id="412491" joined="2015-02-11"/>
+    <cosponsor id="300088" joined="2015-02-11"/>
+    <cosponsor id="400546" joined="2015-02-11"/>
+    <cosponsor id="412668" joined="2015-02-11"/>
+    <cosponsor id="400418" joined="2015-02-11"/>
+    <cosponsor id="400432" joined="2015-02-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-11">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S928-929"/>
+    </action>
+    <action datetime="2015-02-11" state="REFERRED">
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+      <reference ref="CR S929" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Conflicts and wars"/>
+    <term name="Congressional oversight"/>
+    <term name="Europe"/>
+    <term name="Foreign aid and international relief"/>
+    <term name="Military assistance, sales, and agreements"/>
+    <term name="Military operations and strategy"/>
+    <term name="Presidents and presidential powers"/>
+    <term name="Russia"/>
+    <term name="Ukraine"/>
+  </subjects>
+  <amendments/>
+  <summary>2/11/2015--Introduced.
+Defense of Ukraine Act of 2015
+
+This bill authorizes the President to provide lethal weapons to the government of Ukraine in order to defend itself against Russian-backed rebel separatists in eastern Ukraine.
+
+The President is directed to submit to Congress: (1) a comprehensive U.S. strategy to provide lethal weapons to the government of Ukraine so that it may defend itself from Russian-backed rebels, and (2) a strategy implementation assessment every 90 days.</summary>
+</bill>

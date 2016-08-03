@@ -1,0 +1,35 @@
+<bill session="114" type="h" number="2573" updated="2015-08-22T06:40:48-04:00">
+  <state datetime="2015-05-22">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-22"/>
+  </status>
+  <introduced datetime="2015-05-22"/>
+  <titles>
+    <title type="official" as="introduced">To amend title 38, United States Code, to direct the Secretary of Veterans Affairs to furnish headstones and markers for the graves of dependents of veterans buried in county, private, or other cemeteries.</title>
+  </titles>
+  <sponsor id="412606"/>
+  <cosponsors>
+    <cosponsor id="412643" joined="2015-07-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-22" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2015-06-05">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR09" subcommittee="Disability Assistance and Memorial Affairs" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Cemeteries and funerals"/>
+    <term name="Military personnel and dependents"/>
+  </subjects>
+  <amendments/>
+  <summary>5/22/2015--Introduced.
+This bill directs the Secretary of Veterans Affairs to furnish headstones and markers for the graves of spouses and dependents of veterans buried in any cemetery in the United States if the spouses and dependents died on or after November 11, 1998.</summary>
+</bill>

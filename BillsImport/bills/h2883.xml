@@ -1,0 +1,40 @@
+<bill session="114" type="h" number="2883" updated="2015-08-15T06:43:29-04:00">
+  <state datetime="2015-06-24">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-24"/>
+  </status>
+  <introduced datetime="2015-06-24"/>
+  <titles>
+    <title type="short" as="introduced">Master Limited Partnerships Parity Act</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to extend the publicly traded partnership ownership structure to energy power generation projects and transportation fuels, and for other purposes.</title>
+  </titles>
+  <sponsor id="400652"/>
+  <cosponsors>
+    <cosponsor id="412500" joined="2015-06-24"/>
+    <cosponsor id="400033" joined="2015-06-24"/>
+    <cosponsor id="412271" joined="2015-06-24"/>
+    <cosponsor id="412397" joined="2015-06-24"/>
+    <cosponsor id="412189" joined="2015-06-24"/>
+    <cosponsor id="400403" joined="2015-06-24"/>
+    <cosponsor id="412239" joined="2015-06-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-24" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="1656"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+  <summary>6/24/2015--Introduced.
+Master Limited Partnerships Parity Act
+
+ Amends the Internal Revenue Code, with respect to the tax treatment of publicly traded partnerships as corporations, to expand the definition of "qualifying income" for such partnerships to include income and gains from renewable and alternative fuels (in addition to fossil fuels), including energy derived from thermal resources, waste, renewable fuels and chemicals, energy efficient buildings, gasification, and carbon capture in secure geological storage.</summary>
+</bill>

@@ -1,0 +1,45 @@
+<bill session="114" type="s" number="1374" updated="2015-07-04T06:57:49-04:00">
+  <state datetime="2015-05-19">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-19"/>
+  </status>
+  <introduced datetime="2015-05-19"/>
+  <titles>
+    <title type="short" as="introduced">Foreign Medical School Accountability Fairness Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend the Higher Education Act of 1965 to establish fair and consistent eligibility requirements for graduate medical schools operating outside the United States and Canada.</title>
+  </titles>
+  <sponsor id="300038"/>
+  <cosponsors>
+    <cosponsor id="412269" joined="2015-05-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-19" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <reference ref="CR S3063-3064" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2015-05-22">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S3301-3302"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="2417"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Education programs funding"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Medical education"/>
+    <term name="Student aid and college costs"/>
+  </subjects>
+  <amendments/>
+  <summary>5/19/2015--Introduced.
+Foreign Medical School Accountability Fairness Act of 2015
+
+This bill amends the Higher Education Act of 1965 to require all foreign medical schools to meet minimum requirements for percentage of foreign students and for percentage of students passing exams administered by the Educational Commission for Foreign Medical Graduates in order for students to be eligible for William D. Ford Federal Direct Loans. (Currently, the Department of Education may establish alternative standards and certain clinical training programs are grandfathered.)
+
+Students continue to be eligible for a loan if, on the date of enactment of this Act, they are enrolled in a foreign medical school that loses eligibility as a result of this Act.</summary>
+</bill>

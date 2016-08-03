@@ -1,0 +1,36 @@
+<bill session="114" type="s" number="795" updated="2015-05-16T06:46:57-04:00">
+  <state datetime="2015-03-18">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-18"/>
+  </status>
+  <introduced datetime="2015-03-18"/>
+  <titles>
+    <title type="official" as="introduced">A bill to enhance whistleblower protection for contractor and grantee employees.</title>
+  </titles>
+  <sponsor id="412243"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-03-18" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Civil actions and liability"/>
+    <term name="Congressional oversight"/>
+    <term name="Defense spending"/>
+    <term name="Employment discrimination and employee rights"/>
+    <term name="Government ethics and transparency, public corruption"/>
+    <term name="Government studies and investigations"/>
+    <term name="Legal fees and court costs"/>
+    <term name="Military procurement, research, weapons development"/>
+    <term name="Public contracts and procurement"/>
+  </subjects>
+  <amendments/>
+  <summary>3/18/2015--Introduced.
+This bill applies whistleblower protections to employees of defense and civilian personal services contractors, subcontractors, grantees, or subgrantees and extends the prohibition against reimbursement of legal fees incurred in defending against reprisal claims brought by whistleblowers to defense and civilian subcontractors.</summary>
+</bill>

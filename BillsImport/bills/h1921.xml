@@ -1,0 +1,59 @@
+<bill session="114" type="h" number="1921" updated="2015-07-09T04:47:22-04:00">
+  <state datetime="2015-04-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-21"/>
+  </status>
+  <introduced datetime="2015-04-21"/>
+  <titles>
+    <title type="short" as="introduced">GRAD Act of 2015</title>
+    <title type="short" as="introduced">Grant Residency for Additional Doctors Act of 2015</title>
+    <title type="official" as="introduced">To facilitate the expedited review of applications of aliens applying for admission to the United States under section 101(a)(15)(J) of the Immigration and Nationality Act who are coming to the United States to participate in a program under which they will receive graduate medical education or training, require the Secretary of State to provide relevant Foreign Service officers with training regarding such aliens, and for other purposes.</title>
+  </titles>
+  <sponsor id="412560"/>
+  <cosponsors>
+    <cosponsor id="412639" joined="2015-04-21"/>
+    <cosponsor id="412276" joined="2015-05-05"/>
+    <cosponsor id="400199" joined="2015-05-19"/>
+    <cosponsor id="400371" joined="2015-05-18"/>
+    <cosponsor id="412514" joined="2015-05-13"/>
+    <cosponsor id="412636" joined="2015-07-08"/>
+    <cosponsor id="412211" joined="2015-06-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-21" state="REFERRED">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-04-21">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2015-04-21">
+      <text>Referred to House Foreign Affairs</text>
+    </action>
+    <action datetime="2015-05-15">
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration and Border Security" name="House Judiciary"/>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1920"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Department of State"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Immigration status and procedures"/>
+    <term name="Medical education"/>
+  </subjects>
+  <amendments/>
+  <summary>4/21/2015--Introduced.
+Grant Residency for Additional Doctors Act of 2015 or the GRAD Act of 2015
+
+Directs the Secretary of State to:
+
+ designate a Department of State officer or employee whose sole responsibility during the months of March, April, May, June, and any other period of time determined by the Secretary, shall be to facilitate the expedited review of J-visa applications of aliens applying for U.S. admission to participate in a graduate medical education or training program; and provide appropriate Foreign Service officers with training related to medical graduates and medical graduate programs in the countries in which they are serving.</summary>
+</bill>

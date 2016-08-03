@@ -1,0 +1,41 @@
+<bill session="114" type="h" number="853" updated="2015-03-21T06:23:56-04:00">
+  <state datetime="2015-02-10">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-10"/>
+  </status>
+  <introduced datetime="2015-02-10"/>
+  <titles>
+    <title type="short" as="introduced">Small Airport Regulation Relief Act of 2015</title>
+    <title type="official" as="introduced">To amend title 49, United States Code, with respect to apportionments under the Airport Improvement Program, and for other purposes.</title>
+  </titles>
+  <sponsor id="412217"/>
+  <cosponsors>
+    <cosponsor id="412294" joined="2015-02-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-10" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2015-02-11">
+      <text>Referred to the Subcommittee on Aviation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW05" subcommittee="Aviation" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="239"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Aviation and airports"/>
+    <term name="Noise pollution"/>
+    <term name="Transportation programs funding"/>
+  </subjects>
+  <amendments/>
+  <summary>2/10/2015--Introduced.
+Small Airport Regulation Relief Act of 2015 
+
+ Prescribes a special rule to require the Secretary of Transportation for FY2015 and FY2016 to apportion amounts for airport planning and development and noise compatibility planning and programs to sponsors of primary airports based on the number of passenger boardings at the airport during calendar year 2012 if it had: (1) fewer than 10,000 passenger boardings during the calendar year used to calculate the apportionment for FY2015 or FY2016, and (2) 10,000 or more passenger boardings during calendar year 2012.</summary>
+</bill>

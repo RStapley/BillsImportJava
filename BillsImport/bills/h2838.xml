@@ -1,0 +1,48 @@
+<bill session="114" type="h" number="2838" updated="2015-07-23T04:48:55-04:00">
+  <state datetime="2015-06-18">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-18"/>
+  </status>
+  <introduced datetime="2015-06-18"/>
+  <titles>
+    <title type="short" as="introduced">Charitable Agricultural Research Act</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to provide for the deductibility of charitable contributions to agricultural research organizations, and for other purposes.</title>
+  </titles>
+  <sponsor id="400297"/>
+  <cosponsors>
+    <cosponsor id="400033" joined="2015-06-18"/>
+    <cosponsor id="400636" joined="2015-06-18"/>
+    <cosponsor id="400077" joined="2015-06-24"/>
+    <cosponsor id="412555" joined="2015-07-07"/>
+    <cosponsor id="412403" joined="2015-06-18"/>
+    <cosponsor id="412284" joined="2015-06-18"/>
+    <cosponsor id="400218" joined="2015-06-18"/>
+    <cosponsor id="412510" joined="2015-06-18"/>
+    <cosponsor id="400247" joined="2015-06-18"/>
+    <cosponsor id="400656" joined="2015-06-18"/>
+    <cosponsor id="400291" joined="2015-06-23"/>
+    <cosponsor id="412475" joined="2015-06-18"/>
+    <cosponsor id="400316" joined="2015-06-18"/>
+    <cosponsor id="412393" joined="2015-07-13"/>
+    <cosponsor id="400660" joined="2015-07-22"/>
+    <cosponsor id="400403" joined="2015-06-18"/>
+    <cosponsor id="412515" joined="2015-06-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-18" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="1429"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+  <summary>6/18/2015--Introduced.
+Charitable Agricultural Research Act
+
+This bill amends the Internal Revenue Code to: (1) allow a tax deduction for charitable contributions to agricultural research organizations directly engaged in the continuous active conduct of research in conjunction with an agricultural college or university, and (2) extend to such organizations the prohibition against expenditures by public charities to influence legislation.</summary>
+</bill>

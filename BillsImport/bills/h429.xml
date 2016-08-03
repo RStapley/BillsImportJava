@@ -1,0 +1,79 @@
+<bill session="114" type="h" number="429" updated="2015-05-20T04:47:35-04:00">
+  <state datetime="2015-01-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-21"/>
+  </status>
+  <introduced datetime="2015-01-21"/>
+  <titles>
+    <title type="short" as="introduced">Grand Jury Reform Act of 2015</title>
+    <title type="official" as="introduced">To provide that in the case of a law enforcement officer who uses deadly force against a person, and thereby causes the death of that person, a hearing shall be conducted before a judge to determine whether there is probable cause for the State to bring criminal charges against the law enforcement officer relating to the death of the person, and for other purposes.</title>
+  </titles>
+  <sponsor id="412199"/>
+  <cosponsors>
+    <cosponsor id="412404" joined="2015-01-21"/>
+    <cosponsor id="412657" joined="2015-01-21"/>
+    <cosponsor id="400616" joined="2015-01-21"/>
+    <cosponsor id="412379" joined="2015-01-21"/>
+    <cosponsor id="412470" joined="2015-01-21"/>
+    <cosponsor id="400074" joined="2015-01-21"/>
+    <cosponsor id="412236" joined="2015-05-19"/>
+    <cosponsor id="412272" joined="2015-02-10"/>
+    <cosponsor id="400080" joined="2015-01-21"/>
+    <cosponsor id="400093" joined="2015-01-21"/>
+    <cosponsor id="412215" joined="2015-01-21"/>
+    <cosponsor id="400163" joined="2015-01-21"/>
+    <cosponsor id="400199" joined="2015-01-21"/>
+    <cosponsor id="412561" joined="2015-01-21"/>
+    <cosponsor id="400204" joined="2015-01-21"/>
+    <cosponsor id="400237" joined="2015-01-21"/>
+    <cosponsor id="400240" joined="2015-01-21"/>
+    <cosponsor id="412558" joined="2015-02-04"/>
+    <cosponsor id="400289" joined="2015-01-21"/>
+    <cosponsor id="400295" joined="2015-01-21"/>
+    <cosponsor id="412306" joined="2015-01-22"/>
+    <cosponsor id="400333" joined="2015-01-21"/>
+    <cosponsor id="400363" joined="2015-01-21"/>
+    <cosponsor id="412520" joined="2015-02-09"/>
+    <cosponsor id="400402" joined="2015-01-21"/>
+    <cosponsor id="412579" joined="2015-01-30"/>
+    <cosponsor id="400422" joined="2015-01-26"/>
+    <cosponsor id="412412" joined="2015-01-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-21">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H461"/>
+    </action>
+    <action datetime="2015-01-21" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-02-05">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Criminal procedure and sentencing"/>
+    <term name="Evidence and witnesses"/>
+    <term name="Law enforcement administration and funding"/>
+    <term name="Law enforcement officers"/>
+    <term name="Violent crime"/>
+  </subjects>
+  <amendments/>
+  <summary>1/21/2015--Introduced.
+Grand Jury Reform Act of 2015
+
+ Conditions a state or local government's eligibility for funding under the Edward Byrne Memorial Justice Assistance Grant Program on the state's compliance with this Act.
+
+Requires: (1) the chief officer of the law enforcement agency of a locality in which a death results from the use of deadly force by a law enforcement officer of such agency to report the death to the elected prosecutor of that locality within 24 hours of such death, and (2) the elected prosecutor to report the death to the governor of the state within 24 hours after receiving such notice.
+
+Directs the governor: (1) within three days after receiving such report, to appoint a special prosecutor to present evidence on the state's behalf at a hearing before a judge to determine whether probable cause exists to bring criminal charges against the law enforcement officer; (2) to use a random process to select the special prosecutor from among all of the elected prosecutors in the state, excluding the elected prosecutor of the locality in which the death occurred; and (3) within 24 hours after being notified of such death, to report the death to the chief officer of the state's law enforcement agency, which shall assume exclusive control of the investigation of the death during the pendency of the probable cause hearing.
+
+Requires: (1) the hearing to be held within 90 days after the appointment of the special prosecutor, unless the judge determines that good cause exists to delay it; (2) the court to remain open to the public for such hearing, except as determined appropriate by the presiding judge; (3) the presiding judge, within five days of the hearing's conclusion, to issue a determination regarding probable cause and to submit such determination to the elected prosecutor of the locality in which the death occurred; and (4) the special prosecutor to submit recommendations to the elected prosecutor, including regarding whether criminal charges should be brought against the officer. Declares that the probable cause hearing shall have no binding effect on the elected prosecutor.</summary>
+</bill>

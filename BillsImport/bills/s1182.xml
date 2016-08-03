@@ -1,0 +1,49 @@
+<bill session="114" type="s" number="1182" updated="2015-08-08T07:01:37-04:00">
+  <state datetime="2015-06-25">REPORTED</state>
+  <status>
+    <unknown datetime="2015-06-25"/>
+  </status>
+  <introduced datetime="2015-05-04"/>
+  <titles>
+    <title type="official" as="introduced">A bill to exempt application of JSA attribution rule in case of existing agreements.</title>
+  </titles>
+  <sponsor id="400034"/>
+  <cosponsors>
+    <cosponsor id="400064" joined="2015-06-11"/>
+    <cosponsor id="300038" joined="2015-06-02"/>
+    <cosponsor id="412406" joined="2015-07-16"/>
+    <cosponsor id="412223" joined="2015-07-09"/>
+    <cosponsor id="412496" joined="2015-06-02"/>
+    <cosponsor id="300073" joined="2015-05-04"/>
+    <cosponsor id="300087" joined="2015-05-04"/>
+    <cosponsor id="412471" joined="2015-05-04"/>
+    <cosponsor id="400432" joined="2015-06-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-04" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+    <calendar datetime="2015-06-25" state="REPORTED">
+      <text>Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="3148"/>
+    <bill relation="unknown" session="114" type="s" number="1910"/>
+  </relatedbills>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Broadcasting, cable, digital technologies"/>
+    <term name="Federal Communications Commission (FCC)"/>
+    <term name="Marketing and advertising"/>
+  </subjects>
+  <amendments/>
+  <summary>5/4/2015--Introduced.
+This bill exempts broadcast television stations from the Federal Communications Commission's (FCC's) amended joint sales agreement (JSA) rules if the stations were parties to a JSA that was in effect on the effective date of the amendment adopted by the FCC on March 31, 2014.
+
+Under the FCC's amended rule, a television station that sells more than 15% of the weekly advertising time of another station in the same market is attributed an ownership interest subject to ownership limitations. The bill exempts stations from being considered in violation of such ownership limitations by reason of the amended rule if they were a party to an existing JSA that was in effect on the effective date of the amendment.</summary>
+</bill>

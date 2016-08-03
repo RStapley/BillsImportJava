@@ -1,0 +1,64 @@
+<bill session="114" type="h" number="1222" updated="2015-08-01T04:50:37-04:00">
+  <state datetime="2015-03-03">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-03"/>
+  </status>
+  <introduced datetime="2015-03-03"/>
+  <titles>
+    <title type="short" as="introduced">Gold Star Fathers Act</title>
+    <title type="official" as="introduced">To amend chapter 21 of title 5, United States Code, to provide that fathers of certain permanently disabled or deceased veterans shall be included with mothers of such veterans as preference eligibles for treatment in the civil service.</title>
+  </titles>
+  <sponsor id="412524"/>
+  <cosponsors>
+    <cosponsor id="400046" joined="2015-03-04"/>
+    <cosponsor id="400047" joined="2015-03-03"/>
+    <cosponsor id="412517" joined="2015-03-10"/>
+    <cosponsor id="412236" joined="2015-03-03"/>
+    <cosponsor id="412513" joined="2015-03-03"/>
+    <cosponsor id="412555" joined="2015-07-09"/>
+    <cosponsor id="412613" joined="2015-03-03"/>
+    <cosponsor id="412420" joined="2015-07-31"/>
+    <cosponsor id="412533" joined="2015-07-27"/>
+    <cosponsor id="412382" joined="2015-03-03"/>
+    <cosponsor id="412453" joined="2015-04-20"/>
+    <cosponsor id="400163" joined="2015-07-21"/>
+    <cosponsor id="400195" joined="2015-03-03"/>
+    <cosponsor id="400209" joined="2015-03-03"/>
+    <cosponsor id="412435" joined="2015-03-03"/>
+    <cosponsor id="400219" joined="2015-03-03"/>
+    <cosponsor id="412616" joined="2015-03-03"/>
+    <cosponsor id="412521" joined="2015-05-12"/>
+    <cosponsor id="400263" joined="2015-05-12"/>
+    <cosponsor id="412664" joined="2015-03-23"/>
+    <cosponsor id="400350" joined="2015-05-12"/>
+    <cosponsor id="400363" joined="2015-03-03"/>
+    <cosponsor id="412259" joined="2015-03-03"/>
+    <cosponsor id="412648" joined="2015-07-29"/>
+    <cosponsor id="412239" joined="2015-03-03"/>
+    <cosponsor id="412640" joined="2015-04-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-03" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="136"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Conflicts and wars"/>
+    <term name="Disability and paralysis"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Marriage and family status"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>3/3/2015--Introduced.
+Gold Star Fathers Act
+
+Includes as a preference eligible for federal employment purposes a parent (currently, the mother only) of either an individual who lost his or her life under honorable conditions while serving in the Armed Forces during a war, in a campaign or expedition for which a campaign badge has been authorized, or during the period beginning April 28, 1952, and ending July 1, 1955, or a service-connected permanently and totally disabled veteran, if: (1) the spouse of such parent is totally and permanently disabled; or (2) such parent, when preference is claimed, is unmarried or legally separated from his or her spouse.</summary>
+</bill>

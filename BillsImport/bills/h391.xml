@@ -1,0 +1,45 @@
+<bill session="114" type="h" number="391" updated="2015-02-14T06:23:50-05:00">
+  <state datetime="2015-01-14">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-14"/>
+  </status>
+  <introduced datetime="2015-01-14"/>
+  <titles>
+    <title type="short" as="introduced">Muhammad Ali Legacy Act</title>
+    <title type="official" as="introduced">To establish a grant program to preserve the legacy and ideals of Muhammad Ali and promote global respect, understanding, and communication, and for other purposes.</title>
+  </titles>
+  <sponsor id="412211"/>
+  <cosponsors>
+    <cosponsor id="400616" joined="2015-01-14"/>
+    <cosponsor id="412258" joined="2015-01-14"/>
+    <cosponsor id="412236" joined="2015-01-14"/>
+    <cosponsor id="412583" joined="2015-01-14"/>
+    <cosponsor id="400271" joined="2015-01-14"/>
+    <cosponsor id="400295" joined="2015-01-14"/>
+    <cosponsor id="400333" joined="2015-01-14"/>
+    <cosponsor id="400422" joined="2015-01-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-14" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Area studies and international education"/>
+    <term name="Athletes"/>
+    <term name="Congressional tributes"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="Education programs funding"/>
+    <term name="International organizations and cooperation"/>
+  </subjects>
+  <amendments/>
+  <summary>1/14/2015--Introduced.
+Muhammad Ali Legacy Act
+
+Directs the Secretary of State to award grants to one or more eligible organizations that: (1) are established to promote global respect, understanding, and communication and to encourage character and leadership development world-wide; and (2) demonstrate a commitment to preserving the legacy of Muhammad Ali.</summary>
+</bill>

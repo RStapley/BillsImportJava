@@ -1,0 +1,42 @@
+<bill session="114" type="s" number="1378" updated="2015-07-04T06:57:51-04:00">
+  <state datetime="2015-05-19">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-19"/>
+  </status>
+  <introduced datetime="2015-05-19"/>
+  <titles>
+    <title type="short" as="introduced">Bonuses for Cost-Cutters Act of 2015</title>
+    <title type="official" as="introduced">A bill to strengthen employee cost savings suggestions programs within the Federal Government.</title>
+  </titles>
+  <sponsor id="412492"/>
+  <cosponsors>
+    <cosponsor id="412330" joined="2015-05-22"/>
+    <cosponsor id="412549" joined="2015-05-22"/>
+    <cosponsor id="300041" joined="2015-05-19"/>
+    <cosponsor id="412406" joined="2015-05-19"/>
+    <cosponsor id="400325" joined="2015-06-08"/>
+    <cosponsor id="400408" joined="2015-05-19"/>
+    <cosponsor id="412321" joined="2015-05-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-19" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="2532"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+  </subjects>
+  <amendments/>
+  <summary>5/19/2015--Introduced.
+Bonuses for Cost-Cutters Act of 2015
+
+ Expands the awards program for disclosures by federal employees of fraud, waste, or mismanagement that result in cost savings to the employee's agency to include identification of surplus funds or unnecessary budget authority. Directs that any savings resulting from the identification of such funds or budget authority be deposited in the Treasury and used to reduce a budget deficit or the federal debt. Permits the head of an agency to retain up to 10% of such savings for the purpose of paying cash awards to employees who identify surplus funds or unnecessary budget authority.
+
+Prohibits the payment of awards to: (1) federal officers who serve in a position at level I of the Executive Schedule; (2) the head of an agency; or (3) a commissioner, board member, or other voting member of an independent establishment.</summary>
+</bill>

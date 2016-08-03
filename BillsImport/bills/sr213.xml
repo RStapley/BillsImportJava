@@ -1,0 +1,39 @@
+<bill session="114" type="sr" number="213" updated="2015-07-14T04:48:19-04:00">
+  <state datetime="2015-06-24">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-24"/>
+  </status>
+  <introduced datetime="2015-06-24"/>
+  <titles>
+    <title type="official" as="introduced">A resolution designating October 30, 2015, as a national day of remembrance for nuclear weapons program workers.</title>
+  </titles>
+  <sponsor id="300002"/>
+  <cosponsors>
+    <cosponsor id="400050" joined="2015-06-24"/>
+    <cosponsor id="300018" joined="2015-07-13"/>
+    <cosponsor id="412248" joined="2015-06-24"/>
+    <cosponsor id="300047" joined="2015-06-24"/>
+    <cosponsor id="412281" joined="2015-06-24"/>
+    <cosponsor id="300072" joined="2015-06-24"/>
+    <cosponsor id="300075" joined="2015-06-24"/>
+    <cosponsor id="400325" joined="2015-06-24"/>
+    <cosponsor id="300082" joined="2015-06-24"/>
+    <cosponsor id="400413" joined="2015-06-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-24" state="REFERRED">
+      <text>Referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S4607" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <summary>6/24/2015--Introduced.
+Designates October 30, 2015, as a national day of remembrance for U.S. nuclear weapons program workers, including uranium miners, millers, and haulers.</summary>
+</bill>

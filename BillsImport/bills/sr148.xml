@@ -1,0 +1,55 @@
+<bill session="114" type="sr" number="148" updated="2015-08-06T04:48:17-04:00">
+  <state datetime="2015-04-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-23"/>
+  </status>
+  <introduced datetime="2015-04-23"/>
+  <titles>
+    <title type="official" as="introduced">A resolution condemning the Government of Iran's state-sponsored persecution of its Baha'i minority and its continued violation of the International Covenants on Human Rights.</title>
+  </titles>
+  <sponsor id="400222"/>
+  <cosponsors>
+    <cosponsor id="400013" joined="2015-05-12"/>
+    <cosponsor id="400034" joined="2015-05-14"/>
+    <cosponsor id="400040" joined="2015-05-20"/>
+    <cosponsor id="300011" joined="2015-05-14"/>
+    <cosponsor id="300025" joined="2015-08-04"/>
+    <cosponsor id="300038" joined="2015-04-23"/>
+    <cosponsor id="412464" joined="2015-07-16"/>
+    <cosponsor id="300065" joined="2015-05-12"/>
+    <cosponsor id="400272" joined="2015-08-05"/>
+    <cosponsor id="300075" joined="2015-07-07"/>
+    <cosponsor id="412305" joined="2015-06-01"/>
+    <cosponsor id="412491" joined="2015-04-23"/>
+    <cosponsor id="412323" joined="2015-05-19"/>
+    <cosponsor id="300100" joined="2015-04-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-23" state="REFERRED">
+      <text>Referred to the Committee on Foreign Relations.</text>
+      <reference ref="CR S2405" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="hr" number="220"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Detention of persons"/>
+    <term name="Human rights"/>
+    <term name="Iran"/>
+    <term name="Middle East"/>
+    <term name="Religion"/>
+    <term name="Sanctions"/>
+  </subjects>
+  <amendments/>
+  <summary>4/23/2015--Introduced.
+Condemns the government of Iran's state-sponsored persecution of its Baha'i minority and its continued violation of the International Covenants on Human Rights.
+
+ Calls on the government of Iran to release the 7 imprisoned Baha'i leaders, the 12 imprisoned Baha'i educators, and all other prisoners held on account of their religion.
+
+Urges the President and the Secretary of State to utilize available authorities, including the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010, to impose sanctions on officials of the government of Iran and other individuals directly responsible for serious human rights abuses, including abuses against the Baha'i community.</summary>
+</bill>

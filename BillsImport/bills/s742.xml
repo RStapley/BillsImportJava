@@ -1,0 +1,41 @@
+<bill session="114" type="s" number="742" updated="2015-06-25T04:48:46-04:00">
+  <state datetime="2015-06-24">REPORTED</state>
+  <status>
+    <unknown datetime="2015-06-24"/>
+  </status>
+  <introduced datetime="2015-03-16"/>
+  <titles>
+    <title type="short" as="introduced">Stop Wasteful Federal Bonuses Act of 2015</title>
+    <title type="official" as="introduced">A bill to appropriately limit the authority to award bonuses to employees.</title>
+  </titles>
+  <sponsor id="412493"/>
+  <cosponsors>
+    <cosponsor id="412556" joined="2015-03-16"/>
+    <cosponsor id="412243" joined="2015-03-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-16" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <calendar datetime="2015-06-24" state="REPORTED">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congressional oversight"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Government ethics and transparency, public corruption"/>
+    <term name="Government studies and investigations"/>
+  </subjects>
+  <amendments/>
+  <summary>3/16/2015--Introduced.
+Stop Wasteful Federal Bonuses Act of 2015
+
+Prohibits a federal agency from awarding a bonus to any employee for five years after the end of a fiscal year in which the Inspector General of the agency or another senior ethics official&#160;or the Comptroller General makes an adverse&#160;finding relating to the employee. Requires repayment of a&#160;bonus awarded in any year in which an adverse finding is made.</summary>
+</bill>

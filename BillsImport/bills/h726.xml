@@ -1,0 +1,61 @@
+<bill session="114" type="h" number="726" updated="2015-05-23T06:23:58-04:00">
+  <state datetime="2015-02-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-04"/>
+  </status>
+  <introduced datetime="2015-02-04"/>
+  <titles>
+    <title type="short" as="introduced">Secure Data Act of 2015</title>
+    <title type="official" as="introduced">To prohibit Federal agencies from mandating the deployment of vulnerabilities in data security technologies.</title>
+  </titles>
+  <sponsor id="400245"/>
+  <cosponsors>
+    <cosponsor id="400639" joined="2015-05-12"/>
+    <cosponsor id="400080" joined="2015-02-04"/>
+    <cosponsor id="412505" joined="2015-02-04"/>
+    <cosponsor id="412503" joined="2015-02-04"/>
+    <cosponsor id="400289" joined="2015-02-04"/>
+    <cosponsor id="412575" joined="2015-02-04"/>
+    <cosponsor id="400652" joined="2015-02-04"/>
+    <cosponsor id="412308" joined="2015-02-04"/>
+    <cosponsor id="400365" joined="2015-02-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-04" state="REFERRED">
+      <text>Referred to the Committee on Intelligence (Permanent Select), and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-02-04">
+      <text>Referred to House Intelligence</text>
+      <reference ref="Permanent Select"/>
+    </action>
+    <action datetime="2015-02-04">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2015-03-16">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HLIG" name="House Intelligence (Permanent Select)" activity="Referral"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="2233"/>
+    <bill relation="unknown" session="114" type="s" number="135"/>
+  </relatedbills>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Computer security and identity theft"/>
+    <term name="Computers and information technology"/>
+    <term name="Intelligence activities, surveillance, classified information"/>
+    <term name="Right of privacy"/>
+    <term name="Telephone and wireless communication"/>
+  </subjects>
+  <amendments/>
+  <summary>2/4/2015--Introduced.
+Secure Data Act of 2015
+
+Prohibits a federal agency from requiring or requesting a manufacturer, developer, or seller of any computer hardware, software, or electronic device made available to the general public to design or alter the security functions in such products&#160;to allow the surveillance of any user or the physical search of such product by any agency. Exempts from such prohibition products used by law enforcement agencies for electronic surveillance as authorized under the Communications Assistance for Law Enforcement Act.</summary>
+</bill>

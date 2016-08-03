@@ -1,0 +1,53 @@
+<bill session="114" type="h" number="2719" updated="2015-07-30T04:49:43-04:00">
+  <state datetime="2015-06-10">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-10"/>
+  </status>
+  <introduced datetime="2015-06-10"/>
+  <titles>
+    <title type="short" as="introduced">Tribal Coastal Resiliency Act</title>
+    <title type="official" as="introduced">To amend the Coastal Zone Management Act of 1972 to authorize grants to Indian tribes to further achievement of tribal coastal zone objectives, and for other purposes.</title>
+  </titles>
+  <sponsor id="412583"/>
+  <cosponsors>
+    <cosponsor id="412436" joined="2015-07-29"/>
+    <cosponsor id="400077" joined="2015-06-10"/>
+    <cosponsor id="412505" joined="2015-06-15"/>
+    <cosponsor id="412637" joined="2015-06-10"/>
+    <cosponsor id="412612" joined="2015-06-10"/>
+    <cosponsor id="400162" joined="2015-06-10"/>
+    <cosponsor id="400170" joined="2015-06-10"/>
+    <cosponsor id="412584" joined="2015-06-10"/>
+    <cosponsor id="412511" joined="2015-06-12"/>
+    <cosponsor id="412293" joined="2015-06-12"/>
+    <cosponsor id="400259" joined="2015-06-10"/>
+    <cosponsor id="400661" joined="2015-06-10"/>
+    <cosponsor id="412527" joined="2015-06-10"/>
+    <cosponsor id="412307" joined="2015-06-10"/>
+    <cosponsor id="412585" joined="2015-07-07"/>
+    <cosponsor id="412308" joined="2015-06-10"/>
+    <cosponsor id="412519" joined="2015-06-10"/>
+    <cosponsor id="400378" joined="2015-07-07"/>
+    <cosponsor id="412617" joined="2015-06-10"/>
+    <cosponsor id="400440" joined="2015-06-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-10" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2015-07-01">
+      <text>Referred to the Subcommittee on Energy and Mineral Resources.</text>
+    </action>
+    <action datetime="2015-07-01">
+      <text>Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII06" subcommittee="Energy and Mineral Resources" name="House Natural Resources"/>
+    <committee activity="Referral" code="HSII24" subcommittee="Indian, Insular and Alaska Native Affairs" name="House Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

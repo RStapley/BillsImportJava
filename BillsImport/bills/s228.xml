@@ -1,0 +1,60 @@
+<bill session="114" type="s" number="228" updated="2015-07-11T06:49:11-04:00">
+  <state datetime="2015-01-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-21"/>
+  </status>
+  <introduced datetime="2015-01-21"/>
+  <titles>
+    <title type="short" as="introduced">National Monument Designation Transparency and Accountability Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend title 54, United States Code, to provide for congressional and State approval of national monuments and restrictions on the use of national monuments.</title>
+  </titles>
+  <sponsor id="300030"/>
+  <cosponsors>
+    <cosponsor id="400061" joined="2015-02-03"/>
+    <cosponsor id="300027" joined="2015-02-03"/>
+    <cosponsor id="300041" joined="2015-02-03"/>
+    <cosponsor id="300047" joined="2015-02-03"/>
+    <cosponsor id="300052" joined="2015-02-03"/>
+    <cosponsor id="412218" joined="2015-02-03"/>
+    <cosponsor id="412494" joined="2015-02-03"/>
+    <cosponsor id="300055" joined="2015-02-03"/>
+    <cosponsor id="412495" joined="2015-02-03"/>
+    <cosponsor id="300075" joined="2015-02-03"/>
+    <cosponsor id="412322" joined="2015-01-21"/>
+    <cosponsor id="300083" joined="2015-02-03"/>
+    <cosponsor id="412669" joined="2015-02-03"/>
+    <cosponsor id="412665" joined="2015-02-03"/>
+    <cosponsor id="400546" joined="2015-02-03"/>
+    <cosponsor id="400418" joined="2015-01-21"/>
+    <cosponsor id="400432" joined="2015-03-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="330"/>
+    <bill relation="identical" session="114" type="h" number="900"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Congressional oversight"/>
+    <term name="Environmental assessment, monitoring, research"/>
+    <term name="Land use and conservation"/>
+    <term name="Monuments and memorials"/>
+    <term name="Parks, recreation areas, trails"/>
+    <term name="Presidents and presidential powers"/>
+    <term name="Wilderness and natural areas, wildlife refuges, wild rivers, habitats"/>
+  </subjects>
+  <amendments/>
+  <summary>1/21/2015--Introduced.
+National Monument Designation Transparency and Accountability Act of 2015
+
+This bill requires the President, before a national monument can be designated on public land, to obtain congressional approval, certify compliance with the National Environmental Policy Act of 1969, and determine that the state in which the monument is to be located has enacted legislation approving its designation.
+
+The Department of the Interior may not implement restrictions on the public use of a national monument until the expiration of an appropriate review period providing for public input and congressional approval.</summary>
+</bill>

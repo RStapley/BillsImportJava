@@ -1,0 +1,44 @@
+<bill session="114" type="h" number="2502" updated="2015-07-10T04:48:20-04:00">
+  <state datetime="2015-05-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-21"/>
+  </status>
+  <introduced datetime="2015-05-21"/>
+  <titles>
+    <title type="short" as="introduced">Comprehensive Care Payment Innovation Act of 2015</title>
+    <title type="official" as="introduced">To amend title XVIII of the Social Security Act to provide for bundled payments for certain episodes of care surrounding a hospitalization.</title>
+  </titles>
+  <sponsor id="412478"/>
+  <cosponsors>
+    <cosponsor id="400636" joined="2015-07-09"/>
+    <cosponsor id="400291" joined="2015-05-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-21" state="REFERRED">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-05-21">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-05-21">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-05-22">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+  <summary>5/21/2015--Introduced.
+Comprehensive Care Payment Innovation Act of 2015
+
+ Amends title XVIII (Medicare) of the Social Security Act to direct the Secretary of Health and Human Services to provide for bundled payments for integrated care furnished by a qualified entity, during an episode of care for applicable conditions involving a hospitalization, to an individual entitled to, or enrolled for, benefits under Medicare part A (Hospital Insurance) and enrolled for benefits under Medicare part B (Supplementary Medical Insurance), but not enrolled under Medicare part C (Medicare+Choice Program) or in a PACE (Programs of All-Inclusive Care for the Elderly) program.</summary>
+</bill>

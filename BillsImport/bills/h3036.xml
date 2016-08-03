@@ -1,0 +1,43 @@
+<bill session="114" type="h" number="3036" updated="2015-07-28T05:09:51-04:00">
+  <state datetime="2015-07-13">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-13"/>
+  </status>
+  <introduced datetime="2015-07-13"/>
+  <titles>
+    <title type="short" as="introduced">National 9/11 Memorial at the World Trade Center Act</title>
+    <title type="official" as="introduced">To designate the National September 11 Memorial located at the World Trade Center site in New York City, New York, as a national memorial, and for other purposes.</title>
+  </titles>
+  <sponsor id="412643"/>
+  <cosponsors>
+    <cosponsor id="400057" joined="2015-07-13"/>
+    <cosponsor id="400122" joined="2015-07-21"/>
+    <cosponsor id="412453" joined="2015-07-27"/>
+    <cosponsor id="400199" joined="2015-07-27"/>
+    <cosponsor id="400219" joined="2015-07-13"/>
+    <cosponsor id="400251" joined="2015-07-13"/>
+    <cosponsor id="400654" joined="2015-07-21"/>
+    <cosponsor id="400289" joined="2015-07-13"/>
+    <cosponsor id="400308" joined="2015-07-21"/>
+    <cosponsor id="412514" joined="2015-07-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-13" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+  </subjects>
+  <amendments/>
+  <summary>7/13/2015--Introduced.
+National 9/11 Memorial at the World Trade Center Act
+
+This bill designates the National September 11 Memorial located at the World Trade Center in New York City, New York, as a national memorial.
+
+The Department of the Interior may award a grant of not more than $25 million each fiscal year to the National September 11 Memorial and Museum at the World Trade Center Foundation, Inc., for the operation and maintenance of the memorial.</summary>
+</bill>

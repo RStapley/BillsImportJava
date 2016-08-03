@@ -1,0 +1,37 @@
+<bill session="114" type="s" number="900" updated="2015-04-18T06:42:43-04:00">
+  <state datetime="2015-04-13">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-13"/>
+  </status>
+  <introduced datetime="2015-04-13"/>
+  <titles>
+    <title type="short" as="introduced">Used Car Safety Recall Repair Act</title>
+    <title type="official" as="introduced">A bill to require auto dealers to fix outstanding safety recalls before selling or leasing a used passenger motor vehicle.</title>
+  </titles>
+  <sponsor id="412490"/>
+  <cosponsors>
+    <cosponsor id="400253" joined="2015-04-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-13" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Lease and rental services"/>
+    <term name="Motor vehicles"/>
+    <term name="Product safety and quality"/>
+    <term name="Retail and wholesale trades"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+  <summary>4/13/2015--Introduced.
+Used Car Safety Recall Repair Act
+
+Prohibits a dealer from selling or leasing a used passenger motor vehicle until a defect of the motor vehicle or motor vehicle equipment or noncompliance with a federal motor vehicle safety standard has been remedied.</summary>
+</bill>

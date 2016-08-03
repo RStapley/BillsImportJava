@@ -1,0 +1,29 @@
+<bill session="114" type="h" number="3050" updated="2015-07-25T06:44:29-04:00">
+  <state datetime="2015-07-14">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-14"/>
+  </status>
+  <introduced datetime="2015-07-14"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to allow rollovers from other retirement plans into simple retirement accounts.</title>
+  </titles>
+  <sponsor id="400643"/>
+  <cosponsors>
+    <cosponsor id="400233" joined="2015-07-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-14" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+  <summary>7/14/2015--Introduced.
+Amends the Internal Revenue Code to allow tax-free rollovers from tax-exempt retirement plans, annuities, and deferred compensation plans into a simple individual retirement account.</summary>
+</bill>

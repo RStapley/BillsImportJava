@@ -1,0 +1,29 @@
+<bill session="114" type="h" number="3171" updated="2015-07-30T04:50:37-04:00">
+  <state datetime="2015-07-22">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-22"/>
+  </status>
+  <introduced datetime="2015-07-22"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Public Health Service Act to prohibit certain research on the transplantation of human fetal tissue obtained pursuant to an abortion.</title>
+  </titles>
+  <sponsor id="400365"/>
+  <cosponsors>
+    <cosponsor id="412395" joined="2015-07-27"/>
+    <cosponsor id="412488" joined="2015-07-22"/>
+    <cosponsor id="412633" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-22" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,42 @@
+<bill session="114" type="s" number="897" updated="2015-06-03T04:49:26-04:00">
+  <state datetime="2015-04-13">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-13"/>
+  </status>
+  <introduced datetime="2015-04-13"/>
+  <titles>
+    <title type="short" as="introduced">Jesse Lewis Empowering Educators Act</title>
+    <title type="official" as="introduced">A bill to support evidence-based social and emotional learning programing.</title>
+  </titles>
+  <sponsor id="412490"/>
+  <cosponsors>
+    <cosponsor id="300018" joined="2015-06-02"/>
+    <cosponsor id="412194" joined="2015-04-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-13" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="850"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Child health"/>
+    <term name="Education programs funding"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Mental health"/>
+    <term name="Teaching, teachers, curricula"/>
+  </subjects>
+  <amendments/>
+  <summary>4/13/2015--Introduced.
+Jesse Lewis Empowering Educators Act
+
+Amends title II of the Elementary and Secondary Education Act of 1965 to include teacher and principal training in practices that address the social and emotional development needs of students among the activities funded under the Teacher and Principal Training and Recruiting Fund program.
+
+Allows funded training to include training in classroom instruction and schoolwide initiatives that enable students to acquire the knowledge, attitudes, and skills most conducive to social and emotional competency.</summary>
+</bill>

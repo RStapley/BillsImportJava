@@ -1,0 +1,40 @@
+<bill session="114" type="h" number="2081" updated="2015-06-03T04:48:17-04:00">
+  <state datetime="2015-04-28">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-28"/>
+  </status>
+  <introduced datetime="2015-04-28"/>
+  <titles>
+    <title type="official" as="introduced">To extend the deadline for commencement of construction of a hydroelectric project involving the Gibson Dam.</title>
+  </titles>
+  <sponsor id="412640"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-04-28" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-05-01">
+      <text>Referred to the Subcommittee on Energy and Power.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="1104"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Alternative and renewable resources"/>
+    <term name="Electric power generation and transmission"/>
+    <term name="Licensing and registrations"/>
+    <term name="Montana"/>
+    <term name="Water storage"/>
+  </subjects>
+  <amendments/>
+  <summary>4/28/2015--Introduced.
+This bill authorizes the Federal Energy Regulatory Commission (FERC), upon the request of the licensee for the project numbered 12478-003 (Gibson Dam, Montana), to extend for six years the time period during which the licensee is required to commence construction.
+
+Commences such time period upon expiration of the previous extension issued by FERC before enactment of this Act.</summary>
+</bill>

@@ -1,0 +1,72 @@
+<bill session="114" type="hr" number="348" updated="2015-08-22T04:47:05-04:00">
+  <state datetime="2015-07-07">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-07"/>
+  </status>
+  <introduced datetime="2015-07-07"/>
+  <titles>
+    <title type="official" as="introduced">Supporting the right of the people of Ukraine to freely elect their government and determine their future.</title>
+  </titles>
+  <sponsor id="412470"/>
+  <cosponsors>
+    <cosponsor id="412404" joined="2015-07-07"/>
+    <cosponsor id="400033" joined="2015-07-07"/>
+    <cosponsor id="412652" joined="2015-07-07"/>
+    <cosponsor id="400052" joined="2015-07-07"/>
+    <cosponsor id="412407" joined="2015-07-07"/>
+    <cosponsor id="412272" joined="2015-07-07"/>
+    <cosponsor id="412651" joined="2015-07-09"/>
+    <cosponsor id="412477" joined="2015-07-07"/>
+    <cosponsor id="412385" joined="2015-07-07"/>
+    <cosponsor id="412472" joined="2015-07-07"/>
+    <cosponsor id="412457" joined="2015-07-07"/>
+    <cosponsor id="400122" joined="2015-07-07"/>
+    <cosponsor id="412529" joined="2015-07-07"/>
+    <cosponsor id="400653" joined="2015-07-07"/>
+    <cosponsor id="400195" joined="2015-07-07"/>
+    <cosponsor id="400211" joined="2015-07-07"/>
+    <cosponsor id="412435" joined="2015-07-07"/>
+    <cosponsor id="412421" joined="2015-07-07"/>
+    <cosponsor id="400230" joined="2015-07-07"/>
+    <cosponsor id="400238" joined="2015-07-09"/>
+    <cosponsor id="412521" joined="2015-07-07"/>
+    <cosponsor id="412468" joined="2015-07-07"/>
+    <cosponsor id="400263" joined="2015-07-07"/>
+    <cosponsor id="400271" joined="2015-07-07"/>
+    <cosponsor id="412585" joined="2015-07-28"/>
+    <cosponsor id="400652" joined="2015-07-07"/>
+    <cosponsor id="412393" joined="2015-07-07"/>
+    <cosponsor id="412489" joined="2015-07-07"/>
+    <cosponsor id="412426" joined="2015-07-07"/>
+    <cosponsor id="400344" joined="2015-07-07"/>
+    <cosponsor id="400348" joined="2015-07-07"/>
+    <cosponsor id="412186" joined="2015-07-07"/>
+    <cosponsor id="400378" joined="2015-07-07"/>
+    <cosponsor id="412574" joined="2015-07-07"/>
+    <cosponsor id="400433" joined="2015-07-07"/>
+    <cosponsor id="412525" joined="2015-07-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-07" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2015-08-20">
+      <text>Referred to the Subcommittee on Europe, Eurasia, and Emerging Threats.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSFA14" subcommittee="Europe, Eurasia, and Emerging Threats" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+  </subjects>
+  <amendments/>
+  <summary>7/7/2015--Introduced.
+Supports the right of the people of Ukraine to freely elect their government and determine their future.
+
+ Urges the Administration to expedite assistance to Ukraine to facilitate the political, economic, and social reforms necessary for elections that meet international standards.
+
+ Condemns outside attempts, including by the government of Russia, its agents or supporters, to interfere in Ukraine's elections.</summary>
+</bill>

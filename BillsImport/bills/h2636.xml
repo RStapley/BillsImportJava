@@ -1,0 +1,35 @@
+<bill session="114" type="h" number="2636" updated="2015-08-11T04:48:02-04:00">
+  <state datetime="2015-06-03">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-03"/>
+  </status>
+  <introduced datetime="2015-06-03"/>
+  <titles>
+    <title type="short" as="introduced">Petroleum Coke Transparency and Public Health Protection Act</title>
+    <title type="official" as="introduced">To require a study on the public health and environmental impacts of the production, transportation, storage, and use of petroleum coke, and for other purposes.</title>
+  </titles>
+  <sponsor id="412595"/>
+  <cosponsors>
+    <cosponsor id="412331" joined="2015-07-14"/>
+    <cosponsor id="400360" joined="2015-06-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-03" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-06-05">
+      <text>Referred to the Subcommittee on Energy and Power.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="1763"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,56 @@
+<bill session="114" type="sc" number="4" updated="2015-07-31T04:47:25-04:00">
+  <state datetime="2015-02-24">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-24"/>
+  </status>
+  <introduced datetime="2015-02-24"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution supporting the Local Radio Freedom Act.</title>
+  </titles>
+  <sponsor id="412251"/>
+  <cosponsors>
+    <cosponsor id="412493" joined="2015-06-02"/>
+    <cosponsor id="400040" joined="2015-03-10"/>
+    <cosponsor id="400054" joined="2015-04-14"/>
+    <cosponsor id="412269" joined="2015-03-24"/>
+    <cosponsor id="412508" joined="2015-02-25"/>
+    <cosponsor id="412549" joined="2015-06-10"/>
+    <cosponsor id="300041" joined="2015-02-25"/>
+    <cosponsor id="412281" joined="2015-03-18"/>
+    <cosponsor id="412554" joined="2015-02-24"/>
+    <cosponsor id="412494" joined="2015-07-30"/>
+    <cosponsor id="300055" joined="2015-03-09"/>
+    <cosponsor id="412496" joined="2015-06-24"/>
+    <cosponsor id="412391" joined="2015-05-07"/>
+    <cosponsor id="300073" joined="2015-04-29"/>
+    <cosponsor id="400284" joined="2015-03-23"/>
+    <cosponsor id="300083" joined="2015-03-25"/>
+    <cosponsor id="412244" joined="2015-04-29"/>
+    <cosponsor id="400413" joined="2015-02-25"/>
+    <cosponsor id="400418" joined="2015-04-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-24" state="REFERRED">
+      <text>Referred to the Committee on Finance.</text>
+      <reference ref="CR S1078-1079" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="hc" number="17"/>
+  </relatedbills>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="Broadcasting, cable, digital technologies"/>
+    <term name="Music"/>
+    <term name="Sound recording"/>
+    <term name="Tax administration and collection, taxpayers"/>
+    <term name="Telecommunication rates and fees"/>
+    <term name="User charges and fees"/>
+  </subjects>
+  <amendments/>
+  <summary>2/24/2015--Introduced.
+Declares that Congress should not impose any new performance fee, tax, royalty, or other charge relating to the public performance of sound recordings on a local radio station for broadcasting sound recordings over-the-air, or on any business for such public performance of sound recordings.</summary>
+</bill>

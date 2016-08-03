@@ -1,0 +1,43 @@
+<bill session="114" type="h" number="1988" updated="2015-07-10T04:48:04-04:00">
+  <state datetime="2015-04-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-23"/>
+  </status>
+  <introduced datetime="2015-04-23"/>
+  <titles>
+    <title type="short" as="introduced">Breaking Addiction Act of 2015</title>
+    <title type="official" as="introduced">To provide for the waiver of the Medicaid IMD limitation in order to permit Medicaid coverage for substance use disorder treatment services furnished to certain individuals in a community-based institution for mental diseases.</title>
+  </titles>
+  <sponsor id="412327"/>
+  <cosponsors>
+    <cosponsor id="412470" joined="2015-07-09"/>
+    <cosponsor id="400170" joined="2015-06-03"/>
+    <cosponsor id="400211" joined="2015-04-23"/>
+    <cosponsor id="400352" joined="2015-04-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-23" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-04-24">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Drug, alcohol, tobacco use"/>
+    <term name="Hospital care"/>
+    <term name="Medicaid"/>
+    <term name="Mental health"/>
+  </subjects>
+  <amendments/>
+  <summary>4/23/2015--Introduced.
+Breaking Addiction Act of 2015
+
+This bill directs the Secretary of Health and Human Services to provide for waiver of the limitation on medical assistance to certain patients in an institution for mental diseases (IMD limitation) in order to permit medical assistance under title XIX (Medicaid) of the Social Security Act for the treatment of a substance use condition for a qualified individual in a community-based institution for mental diseases.</summary>
+</bill>

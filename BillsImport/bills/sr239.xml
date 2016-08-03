@@ -1,0 +1,30 @@
+<bill session="114" type="sr" number="239" updated="2015-08-08T06:51:23-04:00">
+  <state datetime="2015-07-30">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-30"/>
+  </status>
+  <introduced datetime="2015-07-30"/>
+  <titles>
+    <title type="official" as="introduced">A resolution commemorating the 75th anniversary of the Virginia Institute of Marine Science of the College of William &amp; Mary.</title>
+  </titles>
+  <sponsor id="412582"/>
+  <cosponsors>
+    <cosponsor id="412321" joined="2015-07-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-30" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S6194" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="hr" number="404"/>
+  </relatedbills>
+  <subjects>
+    <term name="Science, technology, communications"/>
+  </subjects>
+  <amendments/>
+</bill>

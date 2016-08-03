@@ -1,0 +1,42 @@
+<bill session="114" type="s" number="1263" updated="2015-07-18T06:58:44-04:00">
+  <state datetime="2015-05-07">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-07"/>
+  </status>
+  <introduced datetime="2015-05-07"/>
+  <titles>
+    <title type="short" as="introduced">Clean Energy Technology Manufacturing and Export Assistance Act of 2015</title>
+    <title type="official" as="introduced">A bill to provide for the establishment of a Clean Energy Technology Manufacturing and Export Assistance Fund to assist United States businesses with exporting clean energy technology products and services.</title>
+  </titles>
+  <sponsor id="412200"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-05-07" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2015-06-09">
+      <text>Committee on Energy and Natural Resources. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1175"/>
+  </relatedbills>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Advanced technology and technological innovations"/>
+    <term name="Alternative and renewable resources"/>
+    <term name="Climate change and greenhouse gases"/>
+    <term name="Competitiveness, trade promotion, trade deficits"/>
+    <term name="Energy efficiency and conservation"/>
+    <term name="Environmental technology"/>
+    <term name="Government information and archives"/>
+    <term name="Government trust funds"/>
+    <term name="Manufacturing"/>
+    <term name="Product development and innovation"/>
+    <term name="Small business"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,36 @@
+<bill session="114" type="s" number="1720" updated="2015-08-15T07:06:12-04:00">
+  <state datetime="2015-07-08">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-08"/>
+  </status>
+  <introduced datetime="2015-07-08"/>
+  <titles>
+    <title type="short" as="introduced">Harriet Tubman Currency Tribute Act of 2015</title>
+    <title type="official" as="introduced">A bill to require the Secretary of the Treasury to redesign $10 Federal reserve notes so as to include a likeness of Harriet Tubman, and for other purposes.</title>
+  </titles>
+  <sponsor id="412323"/>
+  <cosponsors>
+    <cosponsor id="400064" joined="2015-07-08"/>
+    <cosponsor id="300073" joined="2015-07-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-08" state="REFERRED">
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="2610"/>
+    <bill relation="unknown" session="114" type="s" number="1508"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Currency"/>
+    <term name="U.S. history"/>
+    <term name="Women's rights"/>
+  </subjects>
+  <amendments/>
+</bill>

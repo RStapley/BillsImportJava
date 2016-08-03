@@ -1,0 +1,48 @@
+<bill session="114" type="s" number="1049" updated="2015-08-05T04:47:50-04:00">
+  <state datetime="2015-04-22">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-22"/>
+  </status>
+  <introduced datetime="2015-04-22"/>
+  <titles>
+    <title type="short" as="introduced">Agricultural Export Expansion Act of 2015</title>
+    <title type="official" as="introduced">A bill to allow the financing by United States persons of sales of agricultural commodities to Cuba.</title>
+  </titles>
+  <sponsor id="412554"/>
+  <cosponsors>
+    <cosponsor id="400013" joined="2015-06-11"/>
+    <cosponsor id="400040" joined="2015-04-22"/>
+    <cosponsor id="300025" joined="2015-05-04"/>
+    <cosponsor id="300038" joined="2015-08-04"/>
+    <cosponsor id="300041" joined="2015-04-27"/>
+    <cosponsor id="400134" joined="2015-04-22"/>
+    <cosponsor id="412545" joined="2015-05-12"/>
+    <cosponsor id="412242" joined="2015-05-19"/>
+    <cosponsor id="300065" joined="2015-07-13"/>
+    <cosponsor id="300093" joined="2015-04-27"/>
+    <cosponsor id="400413" joined="2015-04-22"/>
+    <cosponsor id="412321" joined="2015-06-08"/>
+    <cosponsor id="300100" joined="2015-05-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-22">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S2353-2354"/>
+    </action>
+    <action datetime="2015-04-22" state="REFERRED">
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+  </subjects>
+  <amendments/>
+  <summary>4/22/2015--Introduced.
+Agricultural Export Expansion Act of 2015 
+
+This bill amends the Trade Sanctions Reform and Export Enhancement Act of 2000 to permit a person subject to the jurisdiction of the United States to provide payment or financing for sales of agricultural commodities to Cuba or to an individual or entity in Cuba.</summary>
+</bill>

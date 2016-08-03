@@ -1,0 +1,30 @@
+<bill session="114" type="sr" number="61" updated="2015-03-07T06:28:53-05:00">
+  <state datetime="2015-02-02">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-02"/>
+  </status>
+  <introduced datetime="2015-02-02"/>
+  <titles>
+    <title type="official" as="introduced">A resolution honoring the life and legacy of Peggy Charren.</title>
+  </titles>
+  <sponsor id="400253"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-02-02" state="REFERRED">
+      <text>Referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S702" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Arts, culture, religion"/>
+    <term name="Congressional tributes"/>
+    <term name="Television and film"/>
+  </subjects>
+  <amendments/>
+  <summary>2/2/2015--Introduced.
+Recognizes the service and contributions of Peggy Charren to the children of the United States and educational television programming worldwide.</summary>
+</bill>

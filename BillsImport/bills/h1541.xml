@@ -1,0 +1,53 @@
+<bill session="114" type="h" number="1541" updated="2015-04-24T04:47:18-04:00">
+  <state datetime="2015-03-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-23"/>
+  </status>
+  <introduced datetime="2015-03-23"/>
+  <titles>
+    <title type="short" as="introduced">Preservation Research at Institutions Serving Minorities Act</title>
+    <title type="short" as="introduced">PRISM Act</title>
+    <title type="official" as="introduced">To amend title 54, United States Code, to make Hispanic-serving institutions eligible for technical and financial assistance for the establishment of preservation training and degree programs.</title>
+  </titles>
+  <sponsor id="400162"/>
+  <cosponsors>
+    <cosponsor id="400048" joined="2015-03-23"/>
+    <cosponsor id="412221" joined="2015-03-23"/>
+    <cosponsor id="400074" joined="2015-03-23"/>
+    <cosponsor id="400170" joined="2015-03-23"/>
+    <cosponsor id="412293" joined="2015-04-23"/>
+    <cosponsor id="412189" joined="2015-04-23"/>
+    <cosponsor id="412575" joined="2015-04-16"/>
+    <cosponsor id="412306" joined="2015-03-23"/>
+    <cosponsor id="400333" joined="2015-04-23"/>
+    <cosponsor id="412522" joined="2015-03-23"/>
+    <cosponsor id="412580" joined="2015-04-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-23" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2015-04-07">
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="Federal Lands" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="805"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Education programs funding"/>
+    <term name="Higher education"/>
+    <term name="Historic sites and heritage areas"/>
+    <term name="Minority education"/>
+  </subjects>
+  <amendments/>
+  <summary>3/23/2015--Introduced.
+Preservation Research at Institutions Serving Minorities Act or the PRISM Act
+
+Makes Hispanic-serving institutions eligible for technical and financial assistance from the Secretary of the Interior to establish preservation training and degree programs.</summary>
+</bill>

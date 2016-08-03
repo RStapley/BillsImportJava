@@ -1,0 +1,44 @@
+<bill session="114" type="h" number="2363" updated="2015-07-25T06:38:44-04:00">
+  <state datetime="2015-05-15">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-15"/>
+  </status>
+  <introduced datetime="2015-05-15"/>
+  <titles>
+    <title type="short" as="introduced">FAIR Student Credit Act of 2015</title>
+    <title type="short" as="introduced">Federal Adjustment in Reporting Student Credit Act of 2015</title>
+    <title type="official" as="introduced">To provide for the removal of default information from a borrower's credit report with respect to certain rehabilitated education loans, and for other purposes.</title>
+  </titles>
+  <sponsor id="412407"/>
+  <cosponsors>
+    <cosponsor id="412479" joined="2015-05-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-15" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1309"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Congressional oversight"/>
+    <term name="Consumer credit"/>
+    <term name="Government studies and investigations"/>
+    <term name="Higher education"/>
+    <term name="Student aid and college costs"/>
+  </subjects>
+  <amendments/>
+  <summary>5/15/2015--Introduced.
+Federal Adjustment in Reporting Student Credit Act of 2015 or the FAIR Student Credit Act of 2015
+
+Amends the Fair Credit Reporting Act to allow a consumer to request the removal of a previously reported default regarding a qualified education loan from a consumer report if the consumer meets the requirements of a private loan rehabilitation program in which the number of consecutive on-time monthly payments is equal to the number of payments specified in a default reduction program under the Higher Education Act of 1965.
+
+Permits a consumer to obtain such rehabilitation benefits only once per loan.
+
+Requires the Government Accountability Office to report on any challenges borrowers experience with the private loan rehabilitation program.</summary>
+</bill>

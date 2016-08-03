@@ -1,0 +1,48 @@
+<bill session="114" type="h" number="1800" updated="2015-05-23T06:32:59-04:00">
+  <state datetime="2015-04-15">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-15"/>
+  </status>
+  <introduced datetime="2015-04-15"/>
+  <titles>
+    <title type="short" as="introduced">GRIDD Act of 2015</title>
+    <title type="short" as="introduced">Guiding Responsible and Improved Disability Decisions Act of 2015</title>
+    <title type="official" as="introduced">To require the Commissioner of Social Security to update the medical-vocational guidelines used in disability determinations.</title>
+  </titles>
+  <sponsor id="400206"/>
+  <cosponsors>
+    <cosponsor id="412478" joined="2015-04-15"/>
+    <cosponsor id="400656" joined="2015-04-15"/>
+    <cosponsor id="412393" joined="2015-04-15"/>
+    <cosponsor id="412462" joined="2015-05-13"/>
+    <cosponsor id="412399" joined="2015-05-01"/>
+    <cosponsor id="412618" joined="2015-04-15"/>
+    <cosponsor id="412428" joined="2015-04-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-15" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="1194"/>
+  </relatedbills>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Adult education and literacy"/>
+    <term name="Disability and paralysis"/>
+    <term name="Disability assistance"/>
+    <term name="Employment and training programs"/>
+    <term name="Social Security Administration"/>
+    <term name="Social security and elderly assistance"/>
+  </subjects>
+  <amendments/>
+  <summary>4/15/2015--Introduced.
+Guiding Responsible and Improved Disability Decisions Act of 2015 or the GRIDD Act of 2015 
+
+The Commissioner of Social Security shall prescribe rules and regulations that update medical-vocational guidelines used in disability determinations.</summary>
+</bill>

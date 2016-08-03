@@ -1,0 +1,81 @@
+<bill session="114" type="h" number="875" updated="2015-07-29T04:47:43-04:00">
+  <state datetime="2015-02-11">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-11"/>
+  </status>
+  <introduced datetime="2015-02-11"/>
+  <titles>
+    <title type="short" as="introduced">Cross-Border Trade Enhancement Act of 2015</title>
+    <title type="official" as="introduced">To provide for alternative financing arrangements for the provision of certain services and the construction and maintenance of infrastructure at land border ports of entry, and for other purposes.</title>
+  </titles>
+  <sponsor id="400657"/>
+  <cosponsors>
+    <cosponsor id="412654" joined="2015-07-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-11" state="REFERRED">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committees on Transportation and Infrastructure, the Judiciary, Homeland Security, and Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-02-11">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-02-11">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2015-02-11">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2015-02-11">
+      <text>Referred to House Homeland Security</text>
+    </action>
+    <action datetime="2015-02-11">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2015-02-12">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+    </action>
+    <action datetime="2015-02-25">
+      <text>Referred to the Subcommittee on Border and Maritime Security.</text>
+    </action>
+    <action datetime="2015-02-27">
+      <text>Referred to the Subcommittee on Biotechnology, Horticulture, and Research.</text>
+    </action>
+    <action datetime="2015-03-16">
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration and Border Security" name="House Judiciary"/>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral"/>
+    <committee activity="Referral" code="HSHM11" subcommittee="Border and Maritime Security" name="House Homeland Security"/>
+    <committee code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee activity="Referral" code="HSAG14" subcommittee="Biotechnology, Horticulture, and Research" name="House Agriculture"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="208"/>
+    <bill relation="identical" session="114" type="s" number="461"/>
+  </relatedbills>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Agricultural trade"/>
+    <term name="Border security and unlawful immigration"/>
+    <term name="Customs enforcement"/>
+    <term name="Department of Homeland Security"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Public contracts and procurement"/>
+    <term name="User charges and fees"/>
+  </subjects>
+  <amendments/>
+  <summary>2/11/2015--Introduced.
+Cross-Border Trade Enhancement Act of 2015 
+
+Authorizes the Commissioner of U.S. Customs and Border Protection (CBP) to enter into agreements with certain persons for the CBP to provide customs, agricultural processing, border security, or inspection-related immigration services at a land border port of entry, subject to payment of a fee to reimburse the CBP for providing such services.
+
+Authorizes the Commissioner and the Administrator of General Services (GSA) to:
+
+ enter into cost-sharing or reimbursement agreements with persons for the construction or maintenance of a new or existing CBP or GSA facility or other infrastructure at a land border port of entry; or accept donations from persons of real or personal property (including money) or nonpersonal services for use in the construction or maintenance of such facilities or infrastructure. Directs the Commissioner to issue procedures for evaluating a proposal submitted by a person for an agreement.</summary>
+</bill>

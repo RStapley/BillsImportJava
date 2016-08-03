@@ -1,0 +1,34 @@
+<bill session="114" type="h" number="1970" updated="2015-06-13T06:34:53-04:00">
+  <state datetime="2015-04-22">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-22"/>
+  </status>
+  <introduced datetime="2015-04-22"/>
+  <titles>
+    <title type="short" as="introduced">Promote Workforce Development for the Advancement of Manufacturers Act of 2015</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to allow a credit against tax for manufacturing job training expenses.</title>
+  </titles>
+  <sponsor id="412638"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-04-22" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Employment and training programs"/>
+    <term name="Income tax credits"/>
+    <term name="Manufacturing"/>
+    <term name="Vocational and technical education"/>
+  </subjects>
+  <amendments/>
+  <summary>4/22/2015--Introduced.
+Promote Workforce Development for the Advancement of Manufacturers Act of 2015
+
+Amends the Internal Revenue Code to allow manufacturing employers located in the United States&#160;a business-related tax credit for the manufacturing training expenses of their employees. Includes within the definition of "manufacturing training expenses" related course work, certification testing, and essential skill acquisition.</summary>
+</bill>

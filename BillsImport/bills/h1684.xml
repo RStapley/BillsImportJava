@@ -1,0 +1,74 @@
+<bill session="114" type="h" number="1684" updated="2015-07-30T04:48:52-04:00">
+  <state datetime="2015-03-26">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-26"/>
+  </status>
+  <introduced datetime="2015-03-26"/>
+  <titles>
+    <title type="short" as="introduced">Foreign Spill Protection Act of 2015</title>
+    <title type="official" as="introduced">To amend the Oil Pollution Act of 1990 and the Federal Water Pollution Control Act to impose penalties and provide for the recovery of removal costs and damages in connection with certain discharges of oil from foreign offshore units, and for other purposes.</title>
+  </titles>
+  <sponsor id="412621"/>
+  <cosponsors>
+    <cosponsor id="412250" joined="2015-06-25"/>
+    <cosponsor id="412195" joined="2015-06-17"/>
+    <cosponsor id="400071" joined="2015-04-21"/>
+    <cosponsor id="412604" joined="2015-06-04"/>
+    <cosponsor id="412271" joined="2015-06-11"/>
+    <cosponsor id="412651" joined="2015-06-17"/>
+    <cosponsor id="412536" joined="2015-05-19"/>
+    <cosponsor id="400108" joined="2015-04-13"/>
+    <cosponsor id="412420" joined="2015-04-14"/>
+    <cosponsor id="412529" joined="2015-07-22"/>
+    <cosponsor id="412453" joined="2015-04-29"/>
+    <cosponsor id="412620" joined="2015-04-15"/>
+    <cosponsor id="412661" joined="2015-06-18"/>
+    <cosponsor id="400170" joined="2015-06-03"/>
+    <cosponsor id="412511" joined="2015-05-20"/>
+    <cosponsor id="412603" joined="2015-06-24"/>
+    <cosponsor id="400209" joined="2015-04-21"/>
+    <cosponsor id="412566" joined="2015-04-14"/>
+    <cosponsor id="412649" joined="2015-07-29"/>
+    <cosponsor id="412290" joined="2015-04-14"/>
+    <cosponsor id="412521" joined="2015-06-01"/>
+    <cosponsor id="412643" joined="2015-05-19"/>
+    <cosponsor id="412562" joined="2015-06-09"/>
+    <cosponsor id="400279" joined="2015-05-14"/>
+    <cosponsor id="412527" joined="2015-03-26"/>
+    <cosponsor id="412606" joined="2015-05-19"/>
+    <cosponsor id="412307" joined="2015-07-07"/>
+    <cosponsor id="412585" joined="2015-07-27"/>
+    <cosponsor id="412309" joined="2015-04-21"/>
+    <cosponsor id="400333" joined="2015-07-15"/>
+    <cosponsor id="400344" joined="2015-03-26"/>
+    <cosponsor id="412641" joined="2015-04-22"/>
+    <cosponsor id="412186" joined="2015-03-26"/>
+    <cosponsor id="400419" joined="2015-05-19"/>
+    <cosponsor id="412618" joined="2015-04-16"/>
+    <cosponsor id="400623" joined="2015-05-19"/>
+    <cosponsor id="412412" joined="2015-06-11"/>
+    <cosponsor id="400440" joined="2015-03-26"/>
+    <cosponsor id="412646" joined="2015-07-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-26" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2015-03-27">
+      <text>Referred to the Subcommittee on Coast Guard and Maritime Transportation.</text>
+    </action>
+    <action datetime="2015-03-27">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW07" subcommittee="Coast Guard and Maritime Transportation" name="House Transportation and Infrastructure"/>
+    <committee activity="Referral" code="HSPW02" subcommittee="Water Resources and Environment" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+  </subjects>
+  <amendments/>
+</bill>

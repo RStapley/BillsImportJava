@@ -1,0 +1,92 @@
+<bill session="114" type="h" number="1247" updated="2015-07-30T04:48:29-04:00">
+  <state datetime="2015-03-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-04"/>
+  </status>
+  <introduced datetime="2015-03-04"/>
+  <titles>
+    <title type="short" as="introduced">Improving Veterans Access to Quality Care Act of 2015</title>
+    <title type="official" as="introduced">To revive and expand the Intermediate Care Technician Pilot Program of the Department of Veterans Affairs, and for other purposes.</title>
+  </titles>
+  <sponsor id="400158"/>
+  <cosponsors>
+    <cosponsor id="412565" joined="2015-06-17"/>
+    <cosponsor id="400047" joined="2015-04-13"/>
+    <cosponsor id="412379" joined="2015-06-04"/>
+    <cosponsor id="412470" joined="2015-05-05"/>
+    <cosponsor id="412236" joined="2015-04-28"/>
+    <cosponsor id="412193" joined="2015-04-28"/>
+    <cosponsor id="412536" joined="2015-06-01"/>
+    <cosponsor id="412215" joined="2015-04-14"/>
+    <cosponsor id="400162" joined="2015-03-19"/>
+    <cosponsor id="400163" joined="2015-06-17"/>
+    <cosponsor id="412454" joined="2015-04-22"/>
+    <cosponsor id="400170" joined="2015-04-21"/>
+    <cosponsor id="400230" joined="2015-03-18"/>
+    <cosponsor id="400244" joined="2015-03-26"/>
+    <cosponsor id="412209" joined="2015-06-01"/>
+    <cosponsor id="412521" joined="2015-07-07"/>
+    <cosponsor id="400249" joined="2015-07-15"/>
+    <cosponsor id="400262" joined="2015-04-13"/>
+    <cosponsor id="400263" joined="2015-03-19"/>
+    <cosponsor id="412523" joined="2015-04-21"/>
+    <cosponsor id="400316" joined="2015-03-25"/>
+    <cosponsor id="412308" joined="2015-03-18"/>
+    <cosponsor id="412664" joined="2015-07-21"/>
+    <cosponsor id="400333" joined="2015-04-22"/>
+    <cosponsor id="412393" joined="2015-07-21"/>
+    <cosponsor id="412483" joined="2015-03-26"/>
+    <cosponsor id="400341" joined="2015-04-22"/>
+    <cosponsor id="400347" joined="2015-06-09"/>
+    <cosponsor id="400360" joined="2015-03-04"/>
+    <cosponsor id="412186" joined="2015-06-11"/>
+    <cosponsor id="412648" joined="2015-03-23"/>
+    <cosponsor id="400402" joined="2015-04-14"/>
+    <cosponsor id="400403" joined="2015-04-13"/>
+    <cosponsor id="400417" joined="2015-05-14"/>
+    <cosponsor id="412255" joined="2015-05-20"/>
+    <cosponsor id="412640" joined="2015-07-29"/>
+    <cosponsor id="400030" joined="2015-04-29" withdrawn="2015-05-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-04" state="REFERRED">
+      <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-03-04">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2015-03-04">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2015-03-19">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="297"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Department of Veterans Affairs"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Health personnel"/>
+    <term name="Hospital care"/>
+    <term name="Licensing and registrations"/>
+    <term name="Nursing"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>3/4/2015--Introduced.
+Improving Veterans Access to Quality Care Act of 2015
+
+Directs the Secretary of Veterans Affairs (VA) to revive, for a three-year period, VA's Intermediate Care Technician Pilot Program that was carried out between January 2013 and February 2014. Requires VA to: (1) expand the pilot program to include at least 250 intermediate care technicians, and (2) give priority in assigning those technicians to VA facilities at which veterans have the longest wait times.
+
+Requires the Secretary of Defense (DOD) to transfer credentialing data regarding DOD health care providers that are hired by VA to VA.
+
+Authorizes VA to allow a covered nurse to practice to the full scope of the nurse's practice, as defined by the applicable national professional association, under a set of VA-approved privileges, regardless of the state in which VA employs the covered nurse. Defines a "covered nurse" as an advanced practice registered nurse who is employed by VA as: (1) a nurse midwife, (2) a clinical nurse specialist, (3) a nurse practitioner, or (4) a certified registered nurse anesthetist.</summary>
+</bill>

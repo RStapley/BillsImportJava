@@ -1,0 +1,81 @@
+<bill session="114" type="h" number="1408" updated="2015-08-08T06:30:58-04:00">
+  <state datetime="2015-07-14T13:54:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2015-07-14T13:54:00-04:00"/>
+  </status>
+  <introduced datetime="2015-03-17"/>
+  <titles>
+    <title type="short" as="introduced">Mortgage Servicing Asset Capital Requirements Act of 2015</title>
+    <title type="short" as="passed house">Mortgage Servicing Asset Capital Requirements Act of 2015</title>
+    <title type="official" as="introduced">To require certain Federal banking agencies to conduct a study of the appropriate capital requirements for mortgage servicing assets for nonsystemic banking institutions, and for other purposes.</title>
+    <title type="official" as="amended by house">To require certain Federal banking agencies to conduct a study of the appropriate capital requirements for mortgage servicing assets for banking institutions, and for other purposes.</title>
+  </titles>
+  <sponsor id="412192"/>
+  <cosponsors>
+    <cosponsor id="412609" joined="2015-03-25"/>
+    <cosponsor id="412292" joined="2015-03-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-17" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2015-03-25">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2015-03-26">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-03-26" state="REPORTED">
+      <text>Ordered to be Reported by the Yeas and Nays: 49 - 9.</text>
+    </calendar>
+    <action datetime="2015-07-14T13:40:00-04:00">
+      <text>Mr. Luetkemeyer moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2015-07-14T13:40:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5137-5140" label="consideration"/>
+    </action>
+    <action datetime="2015-07-14T13:40:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1408.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2015-07-14T13:54:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H5137-5138" label="text"/>
+    </vote>
+    <action datetime="2015-07-14T13:54:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2015-07-14T13:54:00-04:00">
+      <text>The title of the measure was amended. Agreed to without objection.</text>
+    </action>
+    <action datetime="2015-07-15">
+      <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, Markup"/>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1233"/>
+    <bill relation="unknown" session="114" type="s" number="1910"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Bank accounts, deposits, capital"/>
+    <term name="Banking and financial institutions regulation"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of the Treasury"/>
+    <term name="Federal Deposit Insurance Corporation (FDIC)"/>
+    <term name="Federal Reserve System"/>
+    <term name="Government studies and investigations"/>
+    <term name="Housing finance and home ownership"/>
+    <term name="National Credit Union Administration"/>
+  </subjects>
+  <amendments/>
+  <summary>7/14/2015--Passed House amended.
+Mortgage Servicing Asset Capital Requirements Act of 2015 
+
+This bill directs the Board of Governors of the Federal Reserve System, the Office of the Comptroller of the Currency, the Federal Deposit Insurance Corporation, and the National Credit Union Administration to study jointly the appropriate capital requirements for mortgage servicing assets for banking institutions.</summary>
+</bill>

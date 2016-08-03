@@ -1,0 +1,57 @@
+<bill session="114" type="h" number="1669" updated="2015-07-23T04:48:17-04:00">
+  <state datetime="2015-03-26">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-26"/>
+  </status>
+  <introduced datetime="2015-03-26"/>
+  <titles>
+    <title type="short" as="introduced">Judgment Fund Transparency Act of 2015</title>
+    <title type="official" as="introduced">To amend title 31, United States Code, to provide for transparency of payments made from the Judgment Fund.</title>
+  </titles>
+  <sponsor id="412581"/>
+  <cosponsors>
+    <cosponsor id="412500" joined="2015-06-16"/>
+    <cosponsor id="412436" joined="2015-04-16"/>
+    <cosponsor id="400029" joined="2015-04-16"/>
+    <cosponsor id="400052" joined="2015-03-26"/>
+    <cosponsor id="400077" joined="2015-04-22"/>
+    <cosponsor id="412397" joined="2015-04-22"/>
+    <cosponsor id="412445" joined="2015-04-22"/>
+    <cosponsor id="412294" joined="2015-07-22"/>
+    <cosponsor id="412295" joined="2015-04-16"/>
+    <cosponsor id="400313" joined="2015-04-22"/>
+    <cosponsor id="412417" joined="2015-05-12"/>
+    <cosponsor id="412405" joined="2015-04-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-26" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-04-21">
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU10" subcommittee="Constitution and Civil Justice" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="350"/>
+    <bill relation="unknown" session="114" type="s" number="405"/>
+    <bill relation="unknown" session="114" type="s" number="556"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Government information and archives"/>
+    <term name="Government liability"/>
+  </subjects>
+  <amendments/>
+  <summary>3/26/2015--Introduced.
+Judgment Fund Transparency Act of 2015 
+
+This bill requires the Department of the Treasury to disclose details after payments are made from the Judgment Fund. The Judgment Fund is a permanent and indefinite appropriation to pay judgments against the United States, including awards, compromise settlements, and related interest and costs.
+
+Unless the disclosure is prohibited by law or a court order, Treasury must make available to the public on a website:
+
+ the name of the agency or entity whose actions gave rise to the claim or judgment, the plaintiff or claimant, the counsel for the plaintiff or claimant, the amount paid, a description of the facts that gave rise to the claim, and the name of the agency that submitted the claim.</summary>
+</bill>

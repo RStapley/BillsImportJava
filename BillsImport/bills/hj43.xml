@@ -1,0 +1,134 @@
+<bill session="114" type="hj" number="43" updated="2015-05-05T04:46:07-04:00">
+  <state datetime="2015-04-30T23:09:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2015-04-30T23:09:00-04:00"/>
+  </status>
+  <introduced datetime="2015-04-13"/>
+  <titles>
+    <title type="official" as="introduced">Disapproving the action of the District of Columbia Council in approving the Reproductive Health Non-Discrimination Amendment Act of 2014.</title>
+  </titles>
+  <sponsor id="412478"/>
+  <cosponsors>
+    <cosponsor id="400004" joined="2015-04-15"/>
+    <cosponsor id="412625" joined="2015-04-29"/>
+    <cosponsor id="412438" joined="2015-04-22"/>
+    <cosponsor id="412655" joined="2015-04-21"/>
+    <cosponsor id="400032" joined="2015-04-15"/>
+    <cosponsor id="400046" joined="2015-04-30"/>
+    <cosponsor id="412601" joined="2015-04-22"/>
+    <cosponsor id="400116" joined="2015-04-15"/>
+    <cosponsor id="412457" joined="2015-04-15"/>
+    <cosponsor id="412476" joined="2015-04-29"/>
+    <cosponsor id="412275" joined="2015-04-15"/>
+    <cosponsor id="412480" joined="2015-04-13"/>
+    <cosponsor id="400141" joined="2015-04-29"/>
+    <cosponsor id="412434" joined="2015-04-22"/>
+    <cosponsor id="412444" joined="2015-04-23"/>
+    <cosponsor id="412623" joined="2015-04-15"/>
+    <cosponsor id="412609" joined="2015-04-29"/>
+    <cosponsor id="412429" joined="2015-04-15"/>
+    <cosponsor id="400206" joined="2015-04-22"/>
+    <cosponsor id="400209" joined="2015-04-15"/>
+    <cosponsor id="412465" joined="2015-04-21"/>
+    <cosponsor id="400220" joined="2015-04-21"/>
+    <cosponsor id="412191" joined="2015-04-15"/>
+    <cosponsor id="400630" joined="2015-04-15"/>
+    <cosponsor id="400656" joined="2015-04-30"/>
+    <cosponsor id="412503" joined="2015-04-21"/>
+    <cosponsor id="412552" joined="2015-04-13"/>
+    <cosponsor id="412540" joined="2015-04-21"/>
+    <cosponsor id="412568" joined="2015-04-16"/>
+    <cosponsor id="412474" joined="2015-04-21"/>
+    <cosponsor id="400441" joined="2015-04-15"/>
+    <cosponsor id="412475" joined="2015-04-22"/>
+    <cosponsor id="412302" joined="2015-04-15"/>
+    <cosponsor id="400320" joined="2015-04-15"/>
+    <cosponsor id="412431" joined="2015-04-22"/>
+    <cosponsor id="412394" joined="2015-04-21"/>
+    <cosponsor id="412202" joined="2015-04-21"/>
+    <cosponsor id="412570" joined="2015-04-16"/>
+    <cosponsor id="412641" joined="2015-04-21"/>
+    <cosponsor id="412217" joined="2015-04-22"/>
+    <cosponsor id="400380" joined="2015-04-16"/>
+    <cosponsor id="400381" joined="2015-04-16"/>
+    <cosponsor id="412392" joined="2015-04-28"/>
+    <cosponsor id="412548" joined="2015-04-16"/>
+    <cosponsor id="412213" joined="2015-04-15"/>
+    <cosponsor id="412538" joined="2015-04-23"/>
+    <cosponsor id="412610" joined="2015-04-21"/>
+    <cosponsor id="412525" joined="2015-04-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-13" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2015-04-21">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-04-21" state="REPORTED">
+      <text>Ordered to be Reported by the Yeas and Nays: 20 - 16.</text>
+    </calendar>
+    <action datetime="2015-04-29T20:32:00-04:00">
+      <text>Rules Committee Resolution H. Res. 231 Reported to House. Resolution provides for consideration of H.R. 1732, the conference report to accompany S. Con. Res. 11, and H.J. Res. 43.</text>
+    </action>
+    <action datetime="2015-04-30T15:05:00-04:00">
+      <text>Rule H. Res. 231 passed House.</text>
+    </action>
+    <action datetime="2015-04-30T16:04:00-04:00">
+      <text>Reported by the Committee on Oversight and Government Reform. H. Rept. 114-99.</text>
+    </action>
+    <calendar datetime="2015-04-30T16:05:00-04:00" calendar="House" number="29">
+      <text>Placed on the House Calendar, Calendar No. 29.</text>
+    </calendar>
+    <action datetime="2015-04-30T21:22:00-04:00">
+      <text>Considered under the provisions of rule H. Res. 231.</text>
+      <reference ref="CR H2727-2742" label="consideration"/>
+    </action>
+    <action datetime="2015-04-30T21:23:00-04:00">
+      <text>Resolution provides for consideration of H.R. 1732, the conference report to accompany S. Con. Res. 11, and H.J. Res. 43.</text>
+    </action>
+    <action datetime="2015-04-30T21:23:00-04:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.J. Res. 43.</text>
+    </action>
+    <action datetime="2015-04-30T22:40:00-04:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+      <reference ref="CR H2742" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="194" datetime="2015-04-30T23:09:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by the Yeas and Nays: 228 - 192 (Roll no. 194).</text>
+      <reference ref="CR H2727" label="text"/>
+    </vote>
+    <action datetime="2015-04-30T23:09:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2015-05-04">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, Markup, Reporting"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="rule" session="114" type="hr" number="231"/>
+    <bill relation="unknown" session="114" type="sj" number="10"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congressional oversight"/>
+    <term name="Disability and health-based discrimination"/>
+    <term name="District of Columbia"/>
+    <term name="Employment discrimination and employee rights"/>
+    <term name="Sex and reproductive health"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+  <summary>4/30/2015--Passed House without amendment.
+(This measure has not been amended since it was introduced. The summary of that version is repeated here.)
+
+Congress disapproves the action of the District of Columbia Council in approving the Reproductive Health Non-Discrimination Amendment Act of 2014 (D.C. Act 20-593), signed by the Mayor of the District on January 25, 2015, and transmitted on March 6, 2015, to Congress pursuant to the District of Columbia Home Rule Act.
+
+D.C. Act 20-593:
+
+ amends the Human Rights Act of 1977 to protect individuals from discrimination by an employer, employment agency, or labor organization, based on an individual's or dependent's reproductive health decisions; and defines reproductive health decisions to include a decision by an employee, his or her dependent, or the employee's spouse related to the use or intended use of a particular drug, device, or medical service, including the use or intended use of contraception or fertility control or the planned or intended initiation or termination of a pregnancy.</summary>
+</bill>

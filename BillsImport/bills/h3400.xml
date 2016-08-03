@@ -1,0 +1,28 @@
+<bill session="114" type="h" number="3400" updated="2015-08-15T06:47:49-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="official" as="introduced">To authorize the extension of nondiscriminatory treatment (normal trade relations treatment) to the products of Kazakhstan, Tajikistan, and Uzbekistan.</title>
+  </titles>
+  <sponsor id="400343"/>
+  <cosponsors>
+    <cosponsor id="400651" joined="2015-07-29"/>
+    <cosponsor id="400220" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+  </subjects>
+  <amendments/>
+</bill>

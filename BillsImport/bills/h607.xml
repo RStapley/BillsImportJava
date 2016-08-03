@@ -1,0 +1,66 @@
+<bill session="114" type="h" number="607" updated="2015-07-08T04:47:22-04:00">
+  <state datetime="2015-01-28">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-28"/>
+  </status>
+  <introduced datetime="2015-01-28"/>
+  <titles>
+    <title type="short" as="introduced">Help Hire Our Heroes Act</title>
+    <title type="official" as="introduced">To amend the VOW to Hire Heroes Act of 2011 to extend the Veterans Retraining Assistance Program, and for other purposes.</title>
+  </titles>
+  <sponsor id="412516"/>
+  <cosponsors>
+    <cosponsor id="412517" joined="2015-07-07"/>
+    <cosponsor id="412524" joined="2015-05-21"/>
+    <cosponsor id="412461" joined="2015-06-01"/>
+    <cosponsor id="412520" joined="2015-02-24"/>
+    <cosponsor id="412617" joined="2015-06-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-28" state="REFERRED">
+      <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committees on Ways and Means, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-01-28">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2015-01-28">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-01-28">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-01-30">
+      <text>Referred to the Subcommittee on Environment and the Economy.</text>
+    </action>
+    <action datetime="2015-02-13">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR10" subcommittee="Economic Opportunity" name="House Veterans' Affairs"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF18" subcommittee="Environment and the Economy" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Appropriations"/>
+    <term name="Department of Veterans Affairs"/>
+    <term name="Employment and training programs"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Government trust funds"/>
+    <term name="Oil and gas"/>
+    <term name="Pollution liability"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+    <term name="Water quality"/>
+  </subjects>
+  <amendments/>
+  <summary>1/28/2015--Introduced.
+Help Hire our Heroes Act
+
+Amends the VOW to Hire Heroes Act of 2011 to extend, from March 31, 2014, to 180 days after this Act's enactment, the veterans retraining assistance program.
+
+Amends the Internal Revenue Code to transfer funds for such program from the Leaking Underground Storage Tank Trust Fund.</summary>
+</bill>

@@ -1,0 +1,33 @@
+<bill session="114" type="hr" number="286" updated="2015-08-13T04:47:21-04:00">
+  <state datetime="2015-06-01">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-01"/>
+  </status>
+  <introduced datetime="2015-06-01"/>
+  <titles>
+    <title type="official" as="introduced">Expressing the sense of the House of Representatives that investing in the Nation's skilled workforce is investing in the Nation's economy, and that in accordance with existing law, the House of Representatives should promote public and private partnerships to increase training programs, tax incentives, industry and State apprenticeships, and for other purposes.</title>
+  </titles>
+  <sponsor id="412638"/>
+  <cosponsors>
+    <cosponsor id="412469" joined="2015-07-22"/>
+    <cosponsor id="412436" joined="2015-06-12"/>
+    <cosponsor id="412221" joined="2015-07-22"/>
+    <cosponsor id="400199" joined="2015-06-18"/>
+    <cosponsor id="400204" joined="2015-06-18"/>
+    <cosponsor id="412659" joined="2015-06-18"/>
+    <cosponsor id="412644" joined="2015-06-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-01" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <summary>6/1/2015--Introduced.
+Expresses the sense of the House of Representatives that greater investment in the skilled and technical workforce is needed and all appropriate measures should be taken to ensure such workforce remains competitive by incentivizing states and private industry through tax credits, competitive grants, and other measures.</summary>
+</bill>

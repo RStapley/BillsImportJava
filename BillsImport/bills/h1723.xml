@@ -1,0 +1,76 @@
+<bill session="114" type="h" number="1723" updated="2015-08-22T06:33:37-04:00">
+  <state datetime="2015-07-14T15:55:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2015-07-14T15:55:00-04:00"/>
+  </status>
+  <introduced datetime="2015-03-26"/>
+  <titles>
+    <title type="short" as="introduced">Small Company Simple Registration Act of 2015</title>
+    <title type="short" as="passed house">Small Company Simple Registration Act of 2015</title>
+    <title type="official" as="introduced">To direct the Securities and Exchange Commission to revise Form S-1 so as to permit smaller reporting companies to use forward incorporation by reference for such form.</title>
+  </titles>
+  <sponsor id="412548"/>
+  <cosponsors>
+    <cosponsor id="412396" joined="2015-03-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-26" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2015-05-20">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-05-20" state="REPORTED">
+      <text>Ordered to be Reported by the Yeas and Nays: 60 - 0.</text>
+    </calendar>
+    <action datetime="2015-07-14T12:28:00-04:00">
+      <text>Reported by the Committee on Financial Services. H. Rept. 114-201.</text>
+    </action>
+    <calendar datetime="2015-07-14T12:28:00-04:00" calendar="Union" number="150">
+      <text>Placed on the Union Calendar, Calendar No. 150.</text>
+    </calendar>
+    <action datetime="2015-07-14T14:23:00-04:00">
+      <text>Mr. Hurt (VA) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2015-07-14T14:24:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5144-5145" label="consideration"/>
+    </action>
+    <action datetime="2015-07-14T14:24:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1723.</text>
+    </action>
+    <action datetime="2015-07-14T14:35:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2015-07-14T15:47:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H5151-5152" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="437" datetime="2015-07-14T15:55:00-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 426 - 0 (Roll no. 437).</text>
+      <reference ref="CR H5144" label="text"/>
+    </vote>
+    <action datetime="2015-07-14T15:55:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2015-07-15">
+      <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, Markup, Reporting"/>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Government information and archives"/>
+    <term name="Securities"/>
+    <term name="Small business"/>
+  </subjects>
+  <amendments/>
+  <summary>3/26/2015--Introduced.
+Small Company Simple Registration Act of 2015 
+
+Directs the Securities and Exchange Commission (SEC) to revise Form S-1 so that a smaller reporting company may incorporate by reference in a registration statement filed on that form any documents it files with the SEC after the registration statement's effective date.</summary>
+</bill>

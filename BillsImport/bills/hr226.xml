@@ -1,0 +1,32 @@
+<bill session="114" type="hr" number="226" updated="2015-05-22T04:48:02-04:00">
+  <state datetime="2015-04-28">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-28"/>
+  </status>
+  <introduced datetime="2015-04-28"/>
+  <titles>
+    <title type="official" as="introduced">Calling on the President to work toward equitable, constructive, stable, and durable Armenian-Turkish relations for the next 100 years based upon the two countries' common interests and the United States' significant security interests in the region.</title>
+  </titles>
+  <sponsor id="400367"/>
+  <cosponsors>
+    <cosponsor id="400071" joined="2015-04-30"/>
+    <cosponsor id="412569" joined="2015-05-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-28" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2015-05-20">
+      <text>Referred to the Subcommittee on Europe, Eurasia, and Emerging Threats.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSFA14" subcommittee="Europe, Eurasia, and Emerging Threats" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <summary>4/28/2015--Introduced.
+The House of Representatives calls on the President to work toward equitable and durable Armenian-Turkish relations for the next 100 years based upon the two countries' common interests and the significant security interests of the United States in the region.</summary>
+</bill>

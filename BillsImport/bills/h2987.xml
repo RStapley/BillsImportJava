@@ -1,0 +1,43 @@
+<bill session="114" type="h" number="2987" updated="2015-07-30T04:50:09-04:00">
+  <state datetime="2015-07-08">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-08"/>
+  </status>
+  <introduced datetime="2015-07-08"/>
+  <titles>
+    <title type="short" as="introduced">Community Bank Capital Clarification Act</title>
+    <title type="official" as="introduced">To amend the Financial Stability Act of 2010 to clarify the treatment of certain debt and equity instruments of smaller institutions for purposes of capital requirements, and for other purposes.</title>
+  </titles>
+  <sponsor id="400271"/>
+  <cosponsors>
+    <cosponsor id="412541" joined="2015-07-14"/>
+    <cosponsor id="412565" joined="2015-07-14"/>
+    <cosponsor id="400063" joined="2015-07-29"/>
+    <cosponsor id="412544" joined="2015-07-29"/>
+    <cosponsor id="400219" joined="2015-07-08"/>
+    <cosponsor id="400247" joined="2015-07-22"/>
+    <cosponsor id="412292" joined="2015-07-08"/>
+    <cosponsor id="400251" joined="2015-07-08"/>
+    <cosponsor id="412474" joined="2015-07-29"/>
+    <cosponsor id="412527" joined="2015-07-29"/>
+    <cosponsor id="412551" joined="2015-07-29"/>
+    <cosponsor id="412411" joined="2015-07-29"/>
+    <cosponsor id="412570" joined="2015-07-29"/>
+    <cosponsor id="412509" joined="2015-07-20"/>
+    <cosponsor id="412522" joined="2015-07-20"/>
+    <cosponsor id="412548" joined="2015-07-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-08" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+  </subjects>
+  <amendments/>
+</bill>

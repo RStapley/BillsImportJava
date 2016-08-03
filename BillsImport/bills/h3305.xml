@@ -1,0 +1,38 @@
+<bill session="114" type="h" number="3305" updated="2015-08-08T06:46:57-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">EINSTEIN Act of 2015</title>
+    <title type="official" as="introduced">To help enhance American network security and mitigate cybersecurity risks, and for other purposes.</title>
+  </titles>
+  <sponsor id="412654"/>
+  <cosponsors>
+    <cosponsor id="400654" joined="2015-07-29"/>
+    <cosponsor id="412653" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Referred to House Homeland Security</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1560"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+</bill>

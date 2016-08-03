@@ -1,0 +1,89 @@
+<bill session="114" type="h" number="1633" updated="2015-07-04T06:32:11-04:00">
+  <state datetime="2015-06-23T16:34:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2015-06-23T16:34:00-04:00"/>
+  </status>
+  <introduced datetime="2015-03-25"/>
+  <titles>
+    <title type="short" as="introduced">DHS Paid Administrative Leave Accountability Act of 2015</title>
+    <title type="short" as="reported to house">DHS Paid Administrative Leave Accountability Act of 2015</title>
+    <title type="short" as="passed house">DHS Paid Administrative Leave Accountability Act of 2015</title>
+    <title type="official" as="introduced">To provide for certain improvements relating to the tracking and reporting of employees of the Department of Homeland Security placed on administrative leave, or any other type of paid non-duty status without charge to leave, for personnel matters, and for other purposes.</title>
+  </titles>
+  <sponsor id="412624"/>
+  <cosponsors>
+    <cosponsor id="412622" joined="2015-03-25"/>
+    <cosponsor id="400175" joined="2015-04-30"/>
+    <cosponsor id="412654" joined="2015-03-25"/>
+    <cosponsor id="412649" joined="2015-03-25"/>
+    <cosponsor id="400654" joined="2015-03-25"/>
+    <cosponsor id="412611" joined="2015-03-25"/>
+    <cosponsor id="400276" joined="2015-04-30"/>
+    <cosponsor id="412569" joined="2015-04-30"/>
+    <cosponsor id="412653" joined="2015-03-25"/>
+    <cosponsor id="412417" joined="2015-05-13"/>
+    <cosponsor id="412670" joined="2015-03-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-25" state="REFERRED">
+      <text>Referred to the House Committee on Homeland Security.</text>
+    </action>
+    <action datetime="2015-04-07">
+      <text>Referred to the Subcommittee on Oversight and Management Efficiency.</text>
+    </action>
+    <action datetime="2015-05-13">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2015-05-13">
+      <text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .</text>
+    </action>
+    <action datetime="2015-05-20">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-05-20" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+    <action datetime="2015-06-17T12:46:00-04:00">
+      <text>Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-163.</text>
+    </action>
+    <calendar datetime="2015-06-17T12:47:00-04:00" calendar="Union" number="119">
+      <text>Placed on the Union Calendar, Calendar No. 119.</text>
+    </calendar>
+    <action datetime="2015-06-23T16:22:00-04:00">
+      <text>Mr. Loudermilk moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2015-06-23T16:22:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4566-4569" label="consideration"/>
+    </action>
+    <action datetime="2015-06-23T16:22:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1633.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2015-06-23T16:34:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H4566-4567" label="text"/>
+    </vote>
+    <action datetime="2015-06-23T16:35:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2015-06-24">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSHM09" subcommittee="Oversight and Management Efficiency" name="House Homeland Security"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+  </subjects>
+  <amendments/>
+  <summary>3/25/2015--Introduced.
+DHS Paid Administrative Leave Accountability Act of 2015
+
+Amends the Homeland Security Act of 2002 to direct the head of each component of the Department of Homeland Security (DHS), on a quarterly basis, to submit to the Chief Human Capital Officer of DHS (the Chief): (1) the number of employees who had been on administrative leave, or any other type of paid non-duty status without charge to leave, for personnel matters for six consecutive months or longer; and (2) the total cost to the component associated with such leave and paid non-duty status for the quarter.
+
+Requires the Chief to: (1) monitor the number of such employees and the associated costs, (2) determine appropriate actions to be taken by DHS to resolve any personnel matter expeditiously or to eliminate or reduce the use of such leave and paid non-duty status in addressing any personnel matter, (3) develop and implement a department-wide policy in accordance with existing federal guidance specifically related to the use of such leave or paid non-duty status for personnel matters, and (4) submit a report after each calendar quarter of 2016-2018 on the number of DHS employees on such leave or paid non-duty status for personnel matters for six consecutive months or longer.</summary>
+</bill>

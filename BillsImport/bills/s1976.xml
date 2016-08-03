@@ -1,0 +1,26 @@
+<bill session="114" type="s" number="1976" updated="2015-08-14T12:47:40-04:00">
+  <state datetime="2015-08-05">REFERRED</state>
+  <status>
+    <introduced datetime="2015-08-05"/>
+  </status>
+  <introduced datetime="2015-08-05"/>
+  <titles>
+    <title type="short" as="introduced">Children and Firefighters Protection Act of 2015</title>
+    <title type="official" as="introduced">A bill to prohibit the distribution in commerce of children's products and upholstered furniture containing certain flame retardants, and for other purposes.</title>
+  </titles>
+  <sponsor id="300087"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-08-05" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+  </subjects>
+  <amendments/>
+</bill>

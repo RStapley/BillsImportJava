@@ -1,0 +1,38 @@
+<bill session="114" type="h" number="3015" updated="2015-08-11T04:48:28-04:00">
+  <state datetime="2015-07-09">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-09"/>
+  </status>
+  <introduced datetime="2015-07-09"/>
+  <titles>
+    <title type="short" as="introduced">The EPA Regulatory Domestic Benefit Act of 2014</title>
+    <title type="official" as="introduced">To require the Administrator of the Environmental Protection Agency to primarily consider, and to separately report, the domestic benefits of any rule that addresses emissions of carbon dioxide from any existing source, new source, modified source, or reconstructed source that is an electric utility generating unit, in any such rule, and in the regulatory impact analysis for such rule, and for other purposes.</title>
+  </titles>
+  <sponsor id="412548"/>
+  <cosponsors>
+    <cosponsor id="412541" joined="2015-07-09"/>
+    <cosponsor id="400158" joined="2015-07-09"/>
+    <cosponsor id="412278" joined="2015-07-09"/>
+    <cosponsor id="412444" joined="2015-07-09"/>
+    <cosponsor id="412445" joined="2015-07-09"/>
+    <cosponsor id="412487" joined="2015-07-09"/>
+    <cosponsor id="400340" joined="2015-07-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-09" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-07-10">
+      <text>Referred to the Subcommittee on Energy and Power.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+  </subjects>
+  <amendments/>
+</bill>

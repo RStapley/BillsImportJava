@@ -1,0 +1,28 @@
+<bill session="114" type="s" number="1955" updated="2015-08-22T07:08:07-04:00">
+  <state datetime="2015-08-05">REFERRED</state>
+  <status>
+    <introduced datetime="2015-08-05"/>
+  </status>
+  <introduced datetime="2015-08-05"/>
+  <titles>
+    <title type="short" as="introduced">Alaska Native Veterans Land Allotment Equity Act</title>
+    <title type="official" as="introduced">A bill to amend the Alaska Native Claims Settlement Act to provide for equitable allotment of land to Alaska Native veterans.</title>
+  </titles>
+  <sponsor id="412665"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-08-05" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="2387"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+</bill>

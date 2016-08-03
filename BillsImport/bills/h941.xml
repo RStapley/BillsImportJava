@@ -1,0 +1,35 @@
+<bill session="114" type="h" number="941" updated="2015-03-07T06:24:27-05:00">
+  <state datetime="2015-02-12">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-12"/>
+  </status>
+  <introduced datetime="2015-02-12"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Veterans Access, Choice, and Accountability Act of 2014 to extend the requirement of the Secretary to furnish hospital care and medical services through non-Department of Veterans Affairs entities to veterans residing in certain locations.</title>
+  </titles>
+  <sponsor id="412557"/>
+  <cosponsors>
+    <cosponsor id="412532" joined="2015-02-12"/>
+    <cosponsor id="412447" joined="2015-02-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-12" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="374"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Health care coverage and access"/>
+    <term name="Hospital care"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>2/12/2015--Introduced.
+Amends the Veterans Access, Choice, and Accountability Act of 2014 to extend indefinitely the requirement that the Secretary of Veterans Affairs (VA) furnish hospital care and medical services through non-VA facilities to veterans who reside: (1) in a state without a VA medical facility that provides hospital care, emergency medical services, and surgical care; and (2) more than 20 miles from such a facility.</summary>
+</bill>

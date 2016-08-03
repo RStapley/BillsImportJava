@@ -1,0 +1,97 @@
+<bill session="114" type="hc" number="40" updated="2015-07-30T04:52:12-04:00">
+  <state datetime="2015-04-23">REPORTED</state>
+  <status>
+    <unknown datetime="2015-04-23"/>
+  </status>
+  <introduced datetime="2015-04-21"/>
+  <titles>
+    <title type="official" as="introduced">Encouraging reunions of divided Korean American families.</title>
+  </titles>
+  <sponsor id="400333"/>
+  <cosponsors>
+    <cosponsor id="412404" joined="2015-07-08"/>
+    <cosponsor id="400041" joined="2015-04-22"/>
+    <cosponsor id="412516" joined="2015-07-13"/>
+    <cosponsor id="400063" joined="2015-07-08"/>
+    <cosponsor id="412517" joined="2015-07-08"/>
+    <cosponsor id="412571" joined="2015-04-22"/>
+    <cosponsor id="400071" joined="2015-04-22"/>
+    <cosponsor id="412379" joined="2015-07-08"/>
+    <cosponsor id="412600" joined="2015-07-28"/>
+    <cosponsor id="412658" joined="2015-05-19"/>
+    <cosponsor id="412272" joined="2015-07-08"/>
+    <cosponsor id="400080" joined="2015-04-22"/>
+    <cosponsor id="412513" joined="2015-07-27"/>
+    <cosponsor id="400081" joined="2015-07-08"/>
+    <cosponsor id="412385" joined="2015-07-08"/>
+    <cosponsor id="412420" joined="2015-04-29"/>
+    <cosponsor id="400122" joined="2015-04-22"/>
+    <cosponsor id="412529" joined="2015-07-08"/>
+    <cosponsor id="400141" joined="2015-04-22"/>
+    <cosponsor id="412453" joined="2015-07-16"/>
+    <cosponsor id="412276" joined="2015-07-27"/>
+    <cosponsor id="400653" joined="2015-04-22"/>
+    <cosponsor id="400162" joined="2015-07-27"/>
+    <cosponsor id="412498" joined="2015-07-29"/>
+    <cosponsor id="400641" joined="2015-07-27"/>
+    <cosponsor id="400185" joined="2015-07-09"/>
+    <cosponsor id="400195" joined="2015-04-22"/>
+    <cosponsor id="400204" joined="2015-07-08"/>
+    <cosponsor id="412199" joined="2015-04-22"/>
+    <cosponsor id="400206" joined="2015-04-22"/>
+    <cosponsor id="412465" joined="2015-07-08"/>
+    <cosponsor id="400237" joined="2015-07-13"/>
+    <cosponsor id="400245" joined="2015-07-27"/>
+    <cosponsor id="412468" joined="2015-07-15"/>
+    <cosponsor id="400262" joined="2015-04-22"/>
+    <cosponsor id="400263" joined="2015-04-22"/>
+    <cosponsor id="400271" joined="2015-07-09"/>
+    <cosponsor id="412560" joined="2015-04-22"/>
+    <cosponsor id="400279" joined="2015-07-27"/>
+    <cosponsor id="400290" joined="2015-07-08"/>
+    <cosponsor id="400652" joined="2015-04-27"/>
+    <cosponsor id="412202" joined="2015-07-09"/>
+    <cosponsor id="400348" joined="2015-04-21"/>
+    <cosponsor id="400350" joined="2015-04-22"/>
+    <cosponsor id="412312" joined="2015-07-08"/>
+    <cosponsor id="400606" joined="2015-04-22"/>
+    <cosponsor id="400356" joined="2015-04-22"/>
+    <cosponsor id="400361" joined="2015-04-22"/>
+    <cosponsor id="400371" joined="2015-04-27"/>
+    <cosponsor id="412186" joined="2015-04-22"/>
+    <cosponsor id="400379" joined="2015-07-15"/>
+    <cosponsor id="412520" joined="2015-07-08"/>
+    <cosponsor id="412579" joined="2015-07-16"/>
+    <cosponsor id="412412" joined="2015-04-22"/>
+    <cosponsor id="412416" joined="2015-04-22"/>
+    <cosponsor id="400440" joined="2015-07-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-21" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2015-04-23">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-04-23" state="REPORTED">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Asia"/>
+    <term name="Family relationships"/>
+    <term name="Human rights"/>
+    <term name="North Korea"/>
+    <term name="South Korea"/>
+  </subjects>
+  <amendments/>
+  <summary>4/21/2015--Introduced.
+Encourages North Korea to allow Korean Americans to meet with their family members from North Korea.
+
+ Calls on North Korea to take steps to build goodwill that is conducive to peace on the Korean Peninsula.</summary>
+</bill>

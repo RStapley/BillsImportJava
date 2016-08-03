@@ -1,0 +1,50 @@
+<bill session="114" type="h" number="3061" updated="2015-08-11T04:48:32-04:00">
+  <state datetime="2015-07-14">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-14"/>
+  </status>
+  <introduced datetime="2015-07-14"/>
+  <titles>
+    <title type="short" as="introduced">Medicare Prescription Drug Price Negotiation Act of 2015</title>
+    <title type="official" as="introduced">To amend part D of title XVIII of the Social Security Act to require the Secretary of Health and Human Services to negotiate covered part D drug prices on behalf of Medicare beneficiaries.</title>
+  </titles>
+  <sponsor id="412239"/>
+  <cosponsors>
+    <cosponsor id="412195" joined="2015-07-14"/>
+    <cosponsor id="412215" joined="2015-07-14"/>
+    <cosponsor id="412511" joined="2015-07-14"/>
+    <cosponsor id="400360" joined="2015-07-14"/>
+    <cosponsor id="400378" joined="2015-07-14"/>
+    <cosponsor id="412211" joined="2015-07-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-14" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-07-14">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-07-14">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-07-17">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="31"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+  <summary>7/14/2015--Introduced.
+Medicare Prescription Drug Price Negotiation Act of 2015
+
+ Amends part D (Voluntary Prescription Drug Benefit Program) of title XVIII (Medicare) of the Social Security Act to direct the Secretary of Health and Human Services to negotiate with pharmaceutical manufacturers the prices that may be charged to Medicare part D prescription drug plan (PDP) sponsors and MedicareAdvantage (MA) organizations for covered part D drugs for part D eligible individuals who are enrolled under a PDP or under an MA-Prescription Drug plan.</summary>
+</bill>

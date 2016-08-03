@@ -1,0 +1,65 @@
+<bill session="114" type="h" number="2911" updated="2015-08-01T04:51:08-04:00">
+  <state datetime="2015-06-25">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-25"/>
+  </status>
+  <introduced datetime="2015-06-25"/>
+  <titles>
+    <title type="short" as="introduced">Small Business Healthcare Relief Act</title>
+    <title type="official" as="introduced">To provide an exception from certain group health plan requirements to allow small businesses to use pre-tax dollars to assist employees in the purchase of policies in the individual health insurance market, and for other purposes.</title>
+  </titles>
+  <sponsor id="400636"/>
+  <cosponsors>
+    <cosponsor id="412478" joined="2015-07-23"/>
+    <cosponsor id="400032" joined="2015-07-29"/>
+    <cosponsor id="412627" joined="2015-07-31"/>
+    <cosponsor id="400033" joined="2015-07-27"/>
+    <cosponsor id="400081" joined="2015-07-31"/>
+    <cosponsor id="400087" joined="2015-07-10"/>
+    <cosponsor id="412533" joined="2015-07-31"/>
+    <cosponsor id="400640" joined="2015-07-31"/>
+    <cosponsor id="412284" joined="2015-07-29"/>
+    <cosponsor id="400206" joined="2015-07-10"/>
+    <cosponsor id="412603" joined="2015-07-31"/>
+    <cosponsor id="412583" joined="2015-07-31"/>
+    <cosponsor id="400233" joined="2015-07-21"/>
+    <cosponsor id="412256" joined="2015-07-29"/>
+    <cosponsor id="400656" joined="2015-07-27"/>
+    <cosponsor id="400291" joined="2015-07-23"/>
+    <cosponsor id="400297" joined="2015-07-27"/>
+    <cosponsor id="400309" joined="2015-07-29"/>
+    <cosponsor id="412462" joined="2015-07-29"/>
+    <cosponsor id="400355" joined="2015-07-29"/>
+    <cosponsor id="400356" joined="2015-07-27"/>
+    <cosponsor id="412315" joined="2015-07-29"/>
+    <cosponsor id="412509" joined="2015-07-29"/>
+    <cosponsor id="400403" joined="2015-06-25"/>
+    <cosponsor id="400406" joined="2015-07-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-25" state="REFERRED">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committees on Energy and Commerce, and Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-06-25">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-06-25">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-06-25">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1697"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+</bill>

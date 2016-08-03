@@ -1,0 +1,45 @@
+<bill session="114" type="s" number="236" updated="2015-04-11T06:35:40-04:00">
+  <state datetime="2015-01-22">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-22"/>
+  </status>
+  <introduced datetime="2015-01-22"/>
+  <titles>
+    <title type="short" as="introduced">Duplication Elimination Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend the Pay-As-You-Go Act of 2010 to create an expedited procedure to enact recommendations of the Government Accountability Office for consolidation and elimination to reduce duplication.</title>
+  </titles>
+  <sponsor id="412391"/>
+  <cosponsors>
+    <cosponsor id="412493" joined="2015-01-22"/>
+    <cosponsor id="412666" joined="2015-03-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-22" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="484"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Budget deficits and national debt"/>
+    <term name="Congressional oversight"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Legislative rules and procedure"/>
+  </subjects>
+  <amendments/>
+  <summary>1/22/2015--Introduced.
+Duplication Elimination Act of 2015
+
+This bill requires the President to send Congress a proposed joint resolution and a special message within 90 days of publication of the annual Government Accountability Office (GAO) report on duplicative government programs.
+
+The joint resolution: (1) makes legislative changes needed to carry out the recommendations contained in the GAO report and included by the President, and (2) requires savings from the legislative changes to be transferred to the Treasury for deficit reduction.
+
+The bill requires the special message to specify:
+
+ the GAO recommendations that are excluded from the proposed joint resolution, why the recommendations were excluded, and the GAO recommendations included in the joint resolution. The bill sets forth expedited procedures for congressional consideration of the joint resolution.</summary>
+</bill>

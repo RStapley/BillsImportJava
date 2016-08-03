@@ -1,0 +1,79 @@
+<bill session="114" type="h" number="923" updated="2015-08-01T04:50:30-04:00">
+  <state datetime="2015-02-12">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-12"/>
+  </status>
+  <introduced datetime="2015-02-12"/>
+  <titles>
+    <title type="short" as="introduced">Constitutional Concealed Carry Reciprocity Act of 2015</title>
+    <title type="official" as="introduced">To allow reciprocity for the carrying of certain concealed firearms.</title>
+  </titles>
+  <sponsor id="412392"/>
+  <cosponsors>
+    <cosponsor id="412655" joined="2015-02-26"/>
+    <cosponsor id="412436" joined="2015-03-02"/>
+    <cosponsor id="400029" joined="2015-07-31"/>
+    <cosponsor id="412629" joined="2015-04-13"/>
+    <cosponsor id="412395" joined="2015-04-13"/>
+    <cosponsor id="412619" joined="2015-02-13"/>
+    <cosponsor id="400068" joined="2015-07-07"/>
+    <cosponsor id="412477" joined="2015-06-10"/>
+    <cosponsor id="412482" joined="2015-02-13"/>
+    <cosponsor id="412473" joined="2015-04-28"/>
+    <cosponsor id="412388" joined="2015-03-04"/>
+    <cosponsor id="412447" joined="2015-05-21"/>
+    <cosponsor id="412429" joined="2015-02-24"/>
+    <cosponsor id="412283" joined="2015-03-16"/>
+    <cosponsor id="412460" joined="2015-03-19"/>
+    <cosponsor id="400656" joined="2015-02-25"/>
+    <cosponsor id="412540" joined="2015-02-24"/>
+    <cosponsor id="400279" joined="2015-06-10"/>
+    <cosponsor id="412662" joined="2015-05-13"/>
+    <cosponsor id="412474" joined="2015-02-13"/>
+    <cosponsor id="400441" joined="2015-03-16"/>
+    <cosponsor id="412443" joined="2015-05-19"/>
+    <cosponsor id="412608" joined="2015-05-20"/>
+    <cosponsor id="412569" joined="2015-06-11"/>
+    <cosponsor id="412633" joined="2015-06-23"/>
+    <cosponsor id="412483" joined="2015-05-12"/>
+    <cosponsor id="412310" joined="2015-05-12"/>
+    <cosponsor id="412411" joined="2015-02-13"/>
+    <cosponsor id="400606" joined="2015-04-15"/>
+    <cosponsor id="400367" joined="2015-04-15"/>
+    <cosponsor id="412596" joined="2015-03-16"/>
+    <cosponsor id="412564" joined="2015-02-26"/>
+    <cosponsor id="412610" joined="2015-04-28"/>
+    <cosponsor id="400433" joined="2015-02-24"/>
+    <cosponsor id="400440" joined="2015-04-13"/>
+    <cosponsor id="412640" joined="2015-02-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-12" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-03-16">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="498"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Firearms and explosives"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Licensing and registrations"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+  <summary>2/12/2015--Introduced.
+Constitutional Concealed Carry Reciprocity Act of 2015
+
+Amends the federal criminal code to authorize a person who is not prohibited from possessing, transporting, shipping, or receiving a firearm under federal law, who is entitled and not prohibited from carrying a concealed firearm in his or her state of residence or who is carrying a valid state license or permit to carry a concealed weapon, and who is carrying a government-issued photographic identification document, to carry a concealed handgun (which has been shipped or transported in interstate or foreign commerce, other than a machine gun or destructive device) in any state in accordance with the restrictions of that state.
+
+Provides that in a state that allows the issuing authority for licenses or permits to carry concealed firearms to impose restrictions on the carrying of firearms by individual license or permit holders, an individual carrying a concealed handgun under this Act shall be permitted to carry it according to the same terms authorized by an unrestricted license or permit issued by such state.</summary>
+</bill>

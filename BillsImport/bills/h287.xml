@@ -1,0 +1,85 @@
+<bill session="114" type="h" number="287" updated="2015-06-11T04:46:51-04:00">
+  <state datetime="2015-01-13">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-13"/>
+  </status>
+  <introduced datetime="2015-01-13"/>
+  <titles>
+    <title type="short" as="introduced">American Job Creation and Strategic Alliances LNG Act</title>
+    <title type="official" as="introduced">To enhance the energy security of United States allies, and for other purposes.</title>
+  </titles>
+  <sponsor id="400411"/>
+  <cosponsors>
+    <cosponsor id="412469" joined="2015-01-13"/>
+    <cosponsor id="400029" joined="2015-01-13"/>
+    <cosponsor id="400032" joined="2015-01-13"/>
+    <cosponsor id="412567" joined="2015-01-13"/>
+    <cosponsor id="412539" joined="2015-01-26"/>
+    <cosponsor id="400071" joined="2015-01-13"/>
+    <cosponsor id="400655" joined="2015-01-13"/>
+    <cosponsor id="412651" joined="2015-06-10"/>
+    <cosponsor id="400648" joined="2015-01-13"/>
+    <cosponsor id="412472" joined="2015-01-13"/>
+    <cosponsor id="412482" joined="2015-01-13"/>
+    <cosponsor id="400141" joined="2015-01-13"/>
+    <cosponsor id="412463" joined="2015-01-13"/>
+    <cosponsor id="412397" joined="2015-04-22"/>
+    <cosponsor id="412278" joined="2015-01-22"/>
+    <cosponsor id="400175" joined="2015-02-10"/>
+    <cosponsor id="412284" joined="2015-01-13"/>
+    <cosponsor id="412460" joined="2015-01-13"/>
+    <cosponsor id="400206" joined="2015-01-27"/>
+    <cosponsor id="412465" joined="2015-01-13"/>
+    <cosponsor id="400224" joined="2015-01-13"/>
+    <cosponsor id="412191" joined="2015-01-13"/>
+    <cosponsor id="412290" joined="2015-01-13"/>
+    <cosponsor id="412256" joined="2015-01-13"/>
+    <cosponsor id="400247" joined="2015-01-13"/>
+    <cosponsor id="412468" joined="2015-01-13"/>
+    <cosponsor id="400654" joined="2015-01-13"/>
+    <cosponsor id="412295" joined="2015-01-13"/>
+    <cosponsor id="412568" joined="2015-01-13"/>
+    <cosponsor id="412443" joined="2015-01-13"/>
+    <cosponsor id="400313" joined="2015-01-13"/>
+    <cosponsor id="412551" joined="2015-01-13"/>
+    <cosponsor id="412570" joined="2015-02-03"/>
+    <cosponsor id="412650" joined="2015-02-02"/>
+    <cosponsor id="400351" joined="2015-01-26"/>
+    <cosponsor id="400352" joined="2015-01-13"/>
+    <cosponsor id="400606" joined="2015-01-13"/>
+    <cosponsor id="412314" joined="2015-01-13"/>
+    <cosponsor id="412399" joined="2015-01-13"/>
+    <cosponsor id="400365" joined="2015-01-13"/>
+    <cosponsor id="412461" joined="2015-01-13"/>
+    <cosponsor id="412405" joined="2015-01-13"/>
+    <cosponsor id="412610" joined="2015-01-13"/>
+    <cosponsor id="412640" joined="2015-01-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-13" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-01-16">
+      <text>Referred to the Subcommittee on Energy and Power.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Federal Energy Regulatory Commission (FERC)"/>
+    <term name="Free trade and trade barriers"/>
+    <term name="Oil and gas"/>
+    <term name="Trade agreements and negotiations"/>
+    <term name="Trade restrictions"/>
+  </subjects>
+  <amendments/>
+  <summary>1/13/2015--Introduced.
+American Job Creation and Strategic Alliances LNG Act
+
+ Amends the Natural Gas Act to deem consistent with the public interest an expedited application and approval process for the importation or exportation of natural gas to a World Trade Organization member nation.</summary>
+</bill>

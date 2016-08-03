@@ -1,0 +1,29 @@
+<bill session="114" type="h" number="3402" updated="2015-08-15T06:47:50-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">Federal Information Security Management Reform Act of 2015</title>
+    <title type="official" as="introduced">To strengthen the ability of the Secretary of Homeland Security to detect and prevent intrusions against, and to use countermeasures to protect, government agency information systems and for other purposes.</title>
+  </titles>
+  <sponsor id="400349"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="3313"/>
+    <bill relation="identical" session="114" type="s" number="1828"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+  </subjects>
+  <amendments/>
+</bill>

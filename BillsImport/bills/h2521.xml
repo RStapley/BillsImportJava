@@ -1,0 +1,87 @@
+<bill session="114" type="h" number="2521" updated="2015-08-22T06:40:22-04:00">
+  <state datetime="2015-05-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-21"/>
+  </status>
+  <introduced datetime="2015-05-21"/>
+  <titles>
+    <title type="short" as="introduced">REAL Act of 2015</title>
+    <title type="short" as="introduced">Restoring Education And Learning Act of 2015</title>
+    <title type="official" as="introduced">To reinstate Federal Pell Grant eligibility for individuals incarcerated in Federal and State penal institutions, and for other purposes.</title>
+  </titles>
+  <sponsor id="412263"/>
+  <cosponsors>
+    <cosponsor id="412607" joined="2015-07-29"/>
+    <cosponsor id="412404" joined="2015-07-29"/>
+    <cosponsor id="412565" joined="2015-07-29"/>
+    <cosponsor id="400030" joined="2015-07-29"/>
+    <cosponsor id="400033" joined="2015-07-08"/>
+    <cosponsor id="400048" joined="2015-07-29"/>
+    <cosponsor id="400616" joined="2015-07-29"/>
+    <cosponsor id="412517" joined="2015-05-21"/>
+    <cosponsor id="412258" joined="2015-07-29"/>
+    <cosponsor id="412221" joined="2015-07-29"/>
+    <cosponsor id="400074" joined="2015-07-29"/>
+    <cosponsor id="400639" joined="2015-07-31"/>
+    <cosponsor id="400075" joined="2015-07-29"/>
+    <cosponsor id="400080" joined="2015-05-21"/>
+    <cosponsor id="400090" joined="2015-07-21"/>
+    <cosponsor id="400093" joined="2015-05-21"/>
+    <cosponsor id="400103" joined="2015-05-21"/>
+    <cosponsor id="412327" joined="2015-07-29"/>
+    <cosponsor id="400162" joined="2015-05-21"/>
+    <cosponsor id="400170" joined="2015-05-21"/>
+    <cosponsor id="400199" joined="2015-07-28"/>
+    <cosponsor id="412561" joined="2015-07-08"/>
+    <cosponsor id="400204" joined="2015-07-31"/>
+    <cosponsor id="412199" joined="2015-05-21"/>
+    <cosponsor id="400211" joined="2015-05-21"/>
+    <cosponsor id="412595" joined="2015-07-29"/>
+    <cosponsor id="412543" joined="2015-05-21"/>
+    <cosponsor id="412638" joined="2015-07-29"/>
+    <cosponsor id="400237" joined="2015-05-21"/>
+    <cosponsor id="400240" joined="2015-05-21"/>
+    <cosponsor id="412616" joined="2015-05-21"/>
+    <cosponsor id="400245" joined="2015-07-08"/>
+    <cosponsor id="400263" joined="2015-06-03"/>
+    <cosponsor id="400271" joined="2015-07-29"/>
+    <cosponsor id="400661" joined="2015-06-16"/>
+    <cosponsor id="400295" joined="2015-05-21"/>
+    <cosponsor id="412659" joined="2015-05-21"/>
+    <cosponsor id="412585" joined="2015-06-25"/>
+    <cosponsor id="400333" joined="2015-05-21"/>
+    <cosponsor id="412432" joined="2015-05-21"/>
+    <cosponsor id="400364" joined="2015-05-21"/>
+    <cosponsor id="400366" joined="2015-06-03"/>
+    <cosponsor id="412520" joined="2015-07-21"/>
+    <cosponsor id="412644" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-21">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E776"/>
+    </action>
+    <action datetime="2015-05-21" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Correctional facilities and imprisonment"/>
+    <term name="Education programs funding"/>
+    <term name="Higher education"/>
+    <term name="Sex offenses"/>
+    <term name="Student aid and college costs"/>
+  </subjects>
+  <amendments/>
+  <summary>5/21/2015--Introduced.
+Restoring Education And Learning Act of 2015 or the REAL Act of 2015
+
+This bill amends title IV of the Higher Education Act of 1965 to eliminate the provision that prohibits Pell Grant eligibility for individuals incarcerated in a federal or state penal institution and for sex offenders subject to civil commitment following incarceration.
+
+This amendment takes effect in academic year 2015-2016.</summary>
+</bill>

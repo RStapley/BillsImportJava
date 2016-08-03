@@ -1,0 +1,41 @@
+<bill session="114" type="h" number="3283" updated="2015-08-15T06:46:50-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">Securing America's Next Generation of Safe Loggers and Truckers Act</title>
+    <title type="official" as="introduced">To amend the Fair Labor Standards Act of 1938 to exempt from certain age-related restrictions in the labor laws 16- and 17-year-old individuals employed by their parents in certain logging activities, and to direct the Secretary of Transportation to establish a program to allow States to enter into interstate compacts to standardize the age requirements for operators of commercial motor vehicles.</title>
+  </titles>
+  <sponsor id="412633"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the Committee on Education and the Workforce, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2015-07-30">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW12" subcommittee="Highways and Transit" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1215"/>
+    <bill relation="unknown" session="114" type="s" number="694"/>
+    <bill relation="unknown" session="114" type="s" number="1672"/>
+  </relatedbills>
+  <subjects>
+    <term name="Labor and employment"/>
+  </subjects>
+  <amendments/>
+</bill>

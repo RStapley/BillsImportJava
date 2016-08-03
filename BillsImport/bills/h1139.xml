@@ -1,0 +1,71 @@
+<bill session="114" type="h" number="1139" updated="2015-05-14T04:47:07-04:00">
+  <state datetime="2015-02-26">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-26"/>
+  </status>
+  <introduced datetime="2015-02-26"/>
+  <titles>
+    <title type="short" as="introduced">Detergent PACS Act of 2015</title>
+    <title type="short" as="introduced">Detergent Poisoning And Child Safety Act of 2015</title>
+    <title type="official" as="introduced">To require the Consumer Product Safety Commission to establish a consumer product safety standard for liquid detergent packets to protect children under the age of five from injury or illness, and for other purposes.</title>
+  </titles>
+  <sponsor id="412259"/>
+  <cosponsors>
+    <cosponsor id="412657" joined="2015-03-18"/>
+    <cosponsor id="412537" joined="2015-02-26"/>
+    <cosponsor id="400080" joined="2015-02-26"/>
+    <cosponsor id="412382" joined="2015-02-26"/>
+    <cosponsor id="400162" joined="2015-02-26"/>
+    <cosponsor id="400185" joined="2015-02-26"/>
+    <cosponsor id="400189" joined="2015-03-26"/>
+    <cosponsor id="400199" joined="2015-02-26"/>
+    <cosponsor id="400211" joined="2015-02-26"/>
+    <cosponsor id="400251" joined="2015-03-18"/>
+    <cosponsor id="400661" joined="2015-02-26"/>
+    <cosponsor id="412307" joined="2015-05-13"/>
+    <cosponsor id="400350" joined="2015-02-26"/>
+    <cosponsor id="400360" joined="2015-02-26"/>
+    <cosponsor id="412319" joined="2015-02-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-26" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-02-27">
+      <text>Referred to the Subcommittee on Commerce, Manufacturing, and Trade.</text>
+    </action>
+    <action datetime="2015-03-18">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H1733"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF17" subcommittee="Commerce, Manufacturing, and Trade" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="588"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Child health"/>
+    <term name="Child safety and welfare"/>
+    <term name="Congressional oversight"/>
+    <term name="Consumer Product Safety Commission"/>
+    <term name="Consumer affairs"/>
+    <term name="Hazardous wastes and toxic substances"/>
+    <term name="Product safety and quality"/>
+  </subjects>
+  <amendments/>
+  <summary>2/26/2015--Introduced.
+Detergent Poisoning And Child Safety Act of 2015 or the Detergent PACS Act of 2015
+
+Requires the Consumer Product Safety Commission (CPSC) to establish safety standards for liquid detergent packets to protect children who are younger than five years of age from injury or illness.
+
+ Directs the CPSC to establish such standards by promulgating a rule or adopting voluntary ASTM International standards.
+
+Provides for any final rule that is promulgated to include: (1) requirements for special packaging and warning labels, (2) standards to make the color and design of packets less attractive to children, and (3) liquid composition standards to make the consequences of exposure less severe.
+
+Requires the rule or standards to be treated as consumer product safety standards under the Consumer Product Safety Act.</summary>
+</bill>

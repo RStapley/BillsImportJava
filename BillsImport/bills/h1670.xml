@@ -1,0 +1,65 @@
+<bill session="114" type="h" number="1670" updated="2015-08-05T04:47:13-04:00">
+  <state datetime="2015-03-26">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-26"/>
+  </status>
+  <introduced datetime="2015-03-26"/>
+  <titles>
+    <title type="short" as="introduced">National POW/MIA Remembrance Act of 2015</title>
+    <title type="official" as="introduced">To direct the Architect of the Capitol to place in the United States Capitol a chair honoring American Prisoners of War/Missing in Action.</title>
+  </titles>
+  <sponsor id="400249"/>
+  <cosponsors>
+    <cosponsor id="412436" joined="2015-03-26"/>
+    <cosponsor id="400029" joined="2015-03-26"/>
+    <cosponsor id="400041" joined="2015-03-26"/>
+    <cosponsor id="400063" joined="2015-06-01"/>
+    <cosponsor id="412571" joined="2015-03-26"/>
+    <cosponsor id="412600" joined="2015-03-26"/>
+    <cosponsor id="412651" joined="2015-07-10"/>
+    <cosponsor id="412555" joined="2015-08-04"/>
+    <cosponsor id="412385" joined="2015-03-26"/>
+    <cosponsor id="412672" joined="2015-08-04"/>
+    <cosponsor id="400145" joined="2015-07-29"/>
+    <cosponsor id="412460" joined="2015-06-11"/>
+    <cosponsor id="412603" joined="2015-03-26"/>
+    <cosponsor id="400209" joined="2015-03-26"/>
+    <cosponsor id="412435" joined="2015-03-26"/>
+    <cosponsor id="412543" joined="2015-03-26"/>
+    <cosponsor id="400219" joined="2015-03-26"/>
+    <cosponsor id="412290" joined="2015-03-26"/>
+    <cosponsor id="412643" joined="2015-07-23"/>
+    <cosponsor id="400263" joined="2015-03-26"/>
+    <cosponsor id="400279" joined="2015-06-04"/>
+    <cosponsor id="412632" joined="2015-05-22"/>
+    <cosponsor id="400316" joined="2015-03-26"/>
+    <cosponsor id="400333" joined="2015-03-26"/>
+    <cosponsor id="412572" joined="2015-03-26"/>
+    <cosponsor id="412310" joined="2015-03-26"/>
+    <cosponsor id="412254" joined="2015-03-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-26" state="REFERRED">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="885"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Monuments and memorials"/>
+    <term name="Social work, volunteer service, charitable organizations"/>
+    <term name="U.S. Capitol"/>
+  </subjects>
+  <amendments/>
+  <summary>3/26/2015--Introduced.
+National POW/MIA Remembrance Act of 2015
+
+Directs the Architect of the Capitol to: (1) enter into an agreement to obtain a chair featuring the logo of the National League of POW/MIA Families, and (2) place it in the U.S. Capitol in a suitable permanent location within two years after enactment of this Act.</summary>
+</bill>

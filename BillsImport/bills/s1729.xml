@@ -1,0 +1,33 @@
+<bill session="114" type="s" number="1729" updated="2015-07-25T07:03:41-04:00">
+  <state datetime="2015-07-09">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-09"/>
+  </status>
+  <introduced datetime="2015-07-09"/>
+  <titles>
+    <title type="short" as="introduced">Disaggregating Student Outcomes by Disability Category Act</title>
+    <title type="official" as="introduced">A bill to amend the State report card provisions of section 1111(h) of the Elementary and Secondary Education Act of 1965 to require the disaggregation of the educational outcomes of students with disabilities by disability category.</title>
+  </titles>
+  <sponsor id="412378"/>
+  <cosponsors>
+    <cosponsor id="412269" joined="2015-07-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-09" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Academic performance and assessments"/>
+    <term name="Education programs funding"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Government information and archives"/>
+    <term name="Special education"/>
+  </subjects>
+  <amendments/>
+</bill>

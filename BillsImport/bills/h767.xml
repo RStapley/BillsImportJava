@@ -1,0 +1,151 @@
+<bill session="114" type="h" number="767" updated="2015-07-23T04:47:53-04:00">
+  <state datetime="2015-02-05">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-05"/>
+  </status>
+  <introduced datetime="2015-02-05"/>
+  <titles>
+    <title type="short" as="introduced">Fair BEER Act</title>
+    <title type="short" as="introduced">Fair Brewers Excise and Economic Relief Act</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to reform and reset the excise tax on beer, and for other purposes.</title>
+  </titles>
+  <sponsor id="412402"/>
+  <cosponsors>
+    <cosponsor id="400004" joined="2015-03-16"/>
+    <cosponsor id="412500" joined="2015-02-05"/>
+    <cosponsor id="412565" joined="2015-04-21"/>
+    <cosponsor id="412657" joined="2015-06-03"/>
+    <cosponsor id="400030" joined="2015-05-18"/>
+    <cosponsor id="412627" joined="2015-05-08"/>
+    <cosponsor id="412629" joined="2015-02-05"/>
+    <cosponsor id="412619" joined="2015-02-05"/>
+    <cosponsor id="412537" joined="2015-03-23"/>
+    <cosponsor id="412517" joined="2015-02-05"/>
+    <cosponsor id="412571" joined="2015-06-09"/>
+    <cosponsor id="400071" joined="2015-04-21"/>
+    <cosponsor id="400074" joined="2015-04-21"/>
+    <cosponsor id="400639" joined="2015-05-19"/>
+    <cosponsor id="400077" joined="2015-04-30"/>
+    <cosponsor id="412563" joined="2015-06-03"/>
+    <cosponsor id="412531" joined="2015-02-05"/>
+    <cosponsor id="412651" joined="2015-05-19"/>
+    <cosponsor id="412400" joined="2015-02-05"/>
+    <cosponsor id="400086" joined="2015-02-10"/>
+    <cosponsor id="400089" joined="2015-06-10"/>
+    <cosponsor id="412621" joined="2015-06-12"/>
+    <cosponsor id="400093" joined="2015-02-05"/>
+    <cosponsor id="412536" joined="2015-02-20"/>
+    <cosponsor id="400101" joined="2015-06-09"/>
+    <cosponsor id="412505" joined="2015-03-26"/>
+    <cosponsor id="400648" joined="2015-02-11"/>
+    <cosponsor id="400108" joined="2015-03-04"/>
+    <cosponsor id="400114" joined="2015-06-23"/>
+    <cosponsor id="412639" joined="2015-03-26"/>
+    <cosponsor id="412524" joined="2015-05-14"/>
+    <cosponsor id="412482" joined="2015-02-24"/>
+    <cosponsor id="412382" joined="2015-02-20"/>
+    <cosponsor id="412463" joined="2015-05-18"/>
+    <cosponsor id="400158" joined="2015-02-05"/>
+    <cosponsor id="412485" joined="2015-05-14"/>
+    <cosponsor id="400162" joined="2015-02-05"/>
+    <cosponsor id="412447" joined="2015-03-26"/>
+    <cosponsor id="412454" joined="2015-06-17"/>
+    <cosponsor id="412434" joined="2015-05-20"/>
+    <cosponsor id="400170" joined="2015-02-05"/>
+    <cosponsor id="412609" joined="2015-02-25"/>
+    <cosponsor id="400179" joined="2015-04-29"/>
+    <cosponsor id="412484" joined="2015-06-09"/>
+    <cosponsor id="412284" joined="2015-06-04"/>
+    <cosponsor id="412460" joined="2015-03-25"/>
+    <cosponsor id="412603" joined="2015-02-05"/>
+    <cosponsor id="400211" joined="2015-06-01"/>
+    <cosponsor id="412649" joined="2015-06-01"/>
+    <cosponsor id="412595" joined="2015-02-10"/>
+    <cosponsor id="400218" joined="2015-02-05"/>
+    <cosponsor id="400219" joined="2015-04-30"/>
+    <cosponsor id="412421" joined="2015-06-25"/>
+    <cosponsor id="412557" joined="2015-04-21"/>
+    <cosponsor id="400233" joined="2015-02-27"/>
+    <cosponsor id="412638" joined="2015-04-28"/>
+    <cosponsor id="400630" joined="2015-03-23"/>
+    <cosponsor id="400244" joined="2015-04-16"/>
+    <cosponsor id="412445" joined="2015-05-14"/>
+    <cosponsor id="412521" joined="2015-06-10"/>
+    <cosponsor id="412292" joined="2015-02-05"/>
+    <cosponsor id="412294" joined="2015-02-05"/>
+    <cosponsor id="412562" joined="2015-06-01"/>
+    <cosponsor id="412468" joined="2015-02-05"/>
+    <cosponsor id="400663" joined="2015-02-11"/>
+    <cosponsor id="400259" joined="2015-03-17"/>
+    <cosponsor id="400262" joined="2015-04-29"/>
+    <cosponsor id="412552" joined="2015-03-23"/>
+    <cosponsor id="412634" joined="2015-05-14"/>
+    <cosponsor id="400661" joined="2015-02-05"/>
+    <cosponsor id="412527" joined="2015-03-16"/>
+    <cosponsor id="400290" joined="2015-02-05"/>
+    <cosponsor id="412660" joined="2015-02-20"/>
+    <cosponsor id="400309" joined="2015-05-20"/>
+    <cosponsor id="412506" joined="2015-03-25"/>
+    <cosponsor id="412569" joined="2015-05-14"/>
+    <cosponsor id="412523" joined="2015-04-14"/>
+    <cosponsor id="400316" joined="2015-05-08"/>
+    <cosponsor id="400652" joined="2015-05-18"/>
+    <cosponsor id="412633" joined="2015-04-14"/>
+    <cosponsor id="412308" joined="2015-06-09"/>
+    <cosponsor id="412393" joined="2015-06-04"/>
+    <cosponsor id="412572" joined="2015-04-21"/>
+    <cosponsor id="412202" joined="2015-02-20"/>
+    <cosponsor id="412641" joined="2015-04-16"/>
+    <cosponsor id="400349" joined="2015-06-09"/>
+    <cosponsor id="400606" joined="2015-05-08"/>
+    <cosponsor id="400355" joined="2015-03-03"/>
+    <cosponsor id="400356" joined="2015-06-25"/>
+    <cosponsor id="412315" joined="2015-03-26"/>
+    <cosponsor id="412399" joined="2015-03-24"/>
+    <cosponsor id="400363" joined="2015-06-17"/>
+    <cosponsor id="412186" joined="2015-06-17"/>
+    <cosponsor id="400378" joined="2015-06-23"/>
+    <cosponsor id="400380" joined="2015-05-08"/>
+    <cosponsor id="412596" joined="2015-02-05"/>
+    <cosponsor id="400402" joined="2015-07-08"/>
+    <cosponsor id="412405" joined="2015-03-24"/>
+    <cosponsor id="412319" joined="2015-06-12"/>
+    <cosponsor id="412636" joined="2015-06-03"/>
+    <cosponsor id="412522" joined="2015-06-04"/>
+    <cosponsor id="412579" joined="2015-04-14"/>
+    <cosponsor id="412580" joined="2015-06-03"/>
+    <cosponsor id="412548" joined="2015-04-21"/>
+    <cosponsor id="412213" joined="2015-06-03"/>
+    <cosponsor id="400419" joined="2015-04-21"/>
+    <cosponsor id="412239" joined="2015-02-05"/>
+    <cosponsor id="412610" joined="2015-02-05"/>
+    <cosponsor id="412412" joined="2015-07-22"/>
+    <cosponsor id="400433" joined="2015-02-20"/>
+    <cosponsor id="412525" joined="2015-04-29"/>
+    <cosponsor id="412628" joined="2015-06-12"/>
+    <cosponsor id="400440" joined="2015-04-28"/>
+    <cosponsor id="412428" joined="2015-02-05"/>
+    <cosponsor id="412640" joined="2015-02-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-05" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="807"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Alcoholic beverages"/>
+    <term name="Sales and excise taxes"/>
+  </subjects>
+  <amendments/>
+  <summary>2/5/2015--Introduced.
+Fair Brewers Excise and Economic Relief Act or the Fair BEER Act 
+
+This bill amends the Internal Revenue Code to revise the excise tax on beer brewed or produced, and removed for consumption or sale, within the United States or imported into the United States. The revised tax ranges from $0 for an amount not exceeding 7,143 barrels to $18 per barrel on an amount exceeding 2 million barrels.</summary>
+</bill>

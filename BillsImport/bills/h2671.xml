@@ -1,0 +1,38 @@
+<bill session="114" type="h" number="2671" updated="2015-06-20T06:40:51-04:00">
+  <state datetime="2015-06-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-04"/>
+  </status>
+  <introduced datetime="2015-06-04"/>
+  <titles>
+    <title type="short" as="introduced">Recruit Act</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to clarify the amount of scholarships and duration of obligated service under the Department of Veterans Affairs Health Professional Scholarship Program.</title>
+  </titles>
+  <sponsor id="412632"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-06-04" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2015-06-15">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <summary>6/4/2015--Introduced.
+Recruit Act
+
+This bill specifies that a Department of Veterans Affairs (VA) health professional scholarship shall consist of up to the full amount of the tuition and other reasonable educational expenses for a school year.
+
+The period of obligated service may exceed one calendar year for each such school year or part thereof if the VA determines that such period is appropriate based on the scholarship's amount and duration.
+
+An individual who is enrolled in such program as of the day before the date of enactment of this Act may elect to be covered by the amendments made by this Act with respect to a quarter, semester, or term commencing on or after the date of enactment of this Act.</summary>
+</bill>

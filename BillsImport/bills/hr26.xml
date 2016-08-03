@@ -1,0 +1,55 @@
+<bill session="114" type="hr" number="26" updated="2015-05-09T09:47:19-04:00">
+  <state datetime="2015-01-12">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-12"/>
+  </status>
+  <introduced datetime="2015-01-12"/>
+  <titles>
+    <title type="official" as="introduced">Strongly supporting the quality and value of diversity and innovation in the Nation's higher education institutions, and strongly disagreeing with the President's proposal to create and administer a Postsecondary Institution Ratings System.</title>
+  </titles>
+  <sponsor id="400154"/>
+  <cosponsors>
+    <cosponsor id="412655" joined="2015-04-29"/>
+    <cosponsor id="400032" joined="2015-01-27"/>
+    <cosponsor id="400063" joined="2015-01-12"/>
+    <cosponsor id="412658" joined="2015-03-16"/>
+    <cosponsor id="400137" joined="2015-01-27"/>
+    <cosponsor id="400141" joined="2015-01-27"/>
+    <cosponsor id="412463" joined="2015-01-27"/>
+    <cosponsor id="412444" joined="2015-01-27"/>
+    <cosponsor id="412484" joined="2015-01-27"/>
+    <cosponsor id="412226" joined="2015-03-10"/>
+    <cosponsor id="412256" joined="2015-02-12"/>
+    <cosponsor id="400291" joined="2015-03-16"/>
+    <cosponsor id="412331" joined="2015-05-08"/>
+    <cosponsor id="412489" joined="2015-01-27"/>
+    <cosponsor id="400348" joined="2015-04-23"/>
+    <cosponsor id="412650" joined="2015-01-27"/>
+    <cosponsor id="412417" joined="2015-01-27"/>
+    <cosponsor id="412581" joined="2015-01-27"/>
+    <cosponsor id="412610" joined="2015-02-04"/>
+    <cosponsor id="400433" joined="2015-01-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-12" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Academic performance and assessments"/>
+    <term name="Consumer affairs"/>
+    <term name="Government information and archives"/>
+    <term name="Higher education"/>
+    <term name="Student aid and college costs"/>
+  </subjects>
+  <amendments/>
+  <summary>1/12/2015--Introduced.
+Expresses the sense of the House of Representatives that:
+
+ students and families should maintain the right and responsibility of determining where to enroll for postsecondary education; the federal government, in conjunction with states and accreditors, has a responsibility and the tools to ensure that the significant taxpayer funds that are invested in student aid each year are appropriately spent; the federal government could play a positive role in making information regarding postsecondary education available to prospective students; the Administration should work collaboratively with the higher education community to make that information more consumer friendly and accessible to students and their families; and the Administration's proposal to rate postsecondary institutions through an oversimplified federal rating system will lead to less choice, diversity, and innovation and should be rejected.</summary>
+</bill>

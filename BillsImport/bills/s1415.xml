@@ -1,0 +1,32 @@
+<bill session="114" type="s" number="1415" updated="2015-07-18T07:00:00-04:00">
+  <state datetime="2015-05-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-21"/>
+  </status>
+  <introduced datetime="2015-05-21"/>
+  <titles>
+    <title type="short" as="introduced">Small Business Stability Act</title>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to modify the definition of large employer for purposes of applying the employer mandate.</title>
+  </titles>
+  <sponsor id="412554"/>
+  <cosponsors>
+    <cosponsor id="412545" joined="2015-05-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+  <summary>5/21/2015--Introduced.
+Small Business Stability Act
+
+Amends the Internal Revenue Code to modify the definition of "applicable large employer," for purposes of the mandate under the Patient Protection and Affordable Care Act&#160;(PPACA)&#160;to provide employees with minimum essential health care coverage, to mean an employer who employed an average of&#160;at&#160;least 101 (currently, 50) full-time&#160;employees during the preceding calendar year. Excludes from such definition a small employer that is eligible to purchase a qualified health plan in the small group health insurance market, as defined in PPACA.</summary>
+</bill>

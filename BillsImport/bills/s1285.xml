@@ -1,0 +1,35 @@
+<bill session="114" type="s" number="1285" updated="2015-06-27T07:29:34-04:00">
+  <state datetime="2015-05-11">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-11"/>
+  </status>
+  <introduced datetime="2015-05-11"/>
+  <titles>
+    <title type="short" as="introduced">Coal with Carbon Capture and Sequestration Act of 2015</title>
+    <title type="official" as="introduced">A bill to authorize the Secretary of Energy to enter into contracts to provide certain price stabilization support relating to electric generation units that use coal-based generation technology.</title>
+  </titles>
+  <sponsor id="412554"/>
+  <cosponsors>
+    <cosponsor id="412391" joined="2015-05-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-11" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2015-05-19">
+      <text>Committee on Energy and Natural Resources. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+  </subjects>
+  <amendments/>
+  <summary>5/11/2015--Introduced.
+Coal with Carbon Capture and Sequestration Act of 2015
+
+This bill authorizes the Department of Energy to enter into 25-year binding contracts that provide price stabilization support for electricity generated at either an electric generation unit (that uses coal-based generation technology) or carbon dioxide captured from such unit and subsequently sold to a purchaser for either crude oil recovery or other commercial market purposes.</summary>
+</bill>

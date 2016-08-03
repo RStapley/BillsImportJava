@@ -1,0 +1,39 @@
+<bill session="114" type="hr" number="270" updated="2015-07-08T04:47:03-04:00">
+  <state datetime="2015-05-18">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-18"/>
+  </status>
+  <introduced datetime="2015-05-18"/>
+  <titles>
+    <title type="official" as="introduced">Expressing the sense of Congress regarding the Palestinian Authority's purported accession to the International Criminal Court for the purpose of initiating prosecutions against Israeli soldiers, citizens, officials, and leaders.</title>
+  </titles>
+  <sponsor id="400141"/>
+  <cosponsors>
+    <cosponsor id="412250" joined="2015-06-09"/>
+    <cosponsor id="412604" joined="2015-07-07"/>
+    <cosponsor id="412651" joined="2015-07-07"/>
+    <cosponsor id="400116" joined="2015-06-09"/>
+    <cosponsor id="400175" joined="2015-07-07"/>
+    <cosponsor id="412460" joined="2015-07-07"/>
+    <cosponsor id="412226" joined="2015-07-07"/>
+    <cosponsor id="412191" joined="2015-06-09"/>
+    <cosponsor id="400279" joined="2015-07-07"/>
+    <cosponsor id="400361" joined="2015-06-09"/>
+    <cosponsor id="412522" joined="2015-05-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-18" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <summary>5/18/2015--Introduced.
+Expresses the sense of Congress that:
+
+ the Palestinian Authority (PA) should withdraw its application for International Criminal Court (ICC) membership, cease attempts to initiate or encourage frivolous and politically motivated war-crimes prosecutions against Israelis via the ICC or any other international or national judicial body, and demonstrate its viability as a peace partner by returning to bilateral negotiations with Israel; the organs of the ICC should oppose the PA's politicization of international law by rescinding Palestinian membership in the ICC; the ICC should defer to Israeli jurisdiction and the Israeli military and civilian judicial systems in cases involving Israeli citizens; and the Administration should begin immediate consultations with Congress concerning Palestinian state-level membership in the ICC.</summary>
+</bill>

@@ -1,0 +1,155 @@
+<bill session="114" type="h" number="1258" updated="2015-08-01T04:50:37-04:00">
+  <state datetime="2015-03-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-04"/>
+  </status>
+  <introduced datetime="2015-03-04"/>
+  <titles>
+    <title type="short" as="introduced">Pet and Women Safety Act of 2015</title>
+    <title type="official" as="introduced">To protect the pets of victims of domestic violence, sexual assault, stalking, and dating violence.</title>
+  </titles>
+  <sponsor id="412600"/>
+  <cosponsors>
+    <cosponsor id="412630" joined="2015-06-08"/>
+    <cosponsor id="412469" joined="2015-03-04"/>
+    <cosponsor id="400033" joined="2015-03-04"/>
+    <cosponsor id="412501" joined="2015-03-04"/>
+    <cosponsor id="412652" joined="2015-05-19"/>
+    <cosponsor id="412516" joined="2015-03-04"/>
+    <cosponsor id="412196" joined="2015-03-04"/>
+    <cosponsor id="412537" joined="2015-03-19"/>
+    <cosponsor id="400062" joined="2015-04-13"/>
+    <cosponsor id="400063" joined="2015-03-04"/>
+    <cosponsor id="412517" joined="2015-03-04"/>
+    <cosponsor id="412571" joined="2015-03-04"/>
+    <cosponsor id="412195" joined="2015-07-29"/>
+    <cosponsor id="412379" joined="2015-03-23"/>
+    <cosponsor id="412236" joined="2015-03-04"/>
+    <cosponsor id="412658" joined="2015-03-04"/>
+    <cosponsor id="412272" joined="2015-03-04"/>
+    <cosponsor id="412651" joined="2015-04-13"/>
+    <cosponsor id="400087" joined="2015-03-04"/>
+    <cosponsor id="412621" joined="2015-03-16"/>
+    <cosponsor id="412536" joined="2015-03-04"/>
+    <cosponsor id="400097" joined="2015-05-19"/>
+    <cosponsor id="400100" joined="2015-03-04"/>
+    <cosponsor id="400103" joined="2015-03-04"/>
+    <cosponsor id="412385" joined="2015-03-04"/>
+    <cosponsor id="412420" joined="2015-04-21"/>
+    <cosponsor id="400114" joined="2015-07-21"/>
+    <cosponsor id="400129" joined="2015-03-04"/>
+    <cosponsor id="400646" joined="2015-03-04"/>
+    <cosponsor id="412529" joined="2015-06-04"/>
+    <cosponsor id="412532" joined="2015-04-30"/>
+    <cosponsor id="412453" joined="2015-03-04"/>
+    <cosponsor id="412276" joined="2015-03-04"/>
+    <cosponsor id="400162" joined="2015-03-04"/>
+    <cosponsor id="400185" joined="2015-03-04"/>
+    <cosponsor id="400195" joined="2015-03-04"/>
+    <cosponsor id="400204" joined="2015-03-04"/>
+    <cosponsor id="400209" joined="2015-03-04"/>
+    <cosponsor id="412566" joined="2015-03-04"/>
+    <cosponsor id="412435" joined="2015-03-04"/>
+    <cosponsor id="412583" joined="2015-04-13"/>
+    <cosponsor id="412557" joined="2015-04-21"/>
+    <cosponsor id="400230" joined="2015-03-04"/>
+    <cosponsor id="400232" joined="2015-03-19"/>
+    <cosponsor id="400237" joined="2015-05-05"/>
+    <cosponsor id="412616" joined="2015-04-13"/>
+    <cosponsor id="400244" joined="2015-04-13"/>
+    <cosponsor id="412209" joined="2015-07-31"/>
+    <cosponsor id="400245" joined="2015-04-23"/>
+    <cosponsor id="400246" joined="2015-03-04"/>
+    <cosponsor id="400251" joined="2015-04-21"/>
+    <cosponsor id="412562" joined="2015-04-28"/>
+    <cosponsor id="412468" joined="2015-03-04"/>
+    <cosponsor id="400262" joined="2015-06-23"/>
+    <cosponsor id="400263" joined="2015-03-04"/>
+    <cosponsor id="412189" joined="2015-03-04"/>
+    <cosponsor id="412611" joined="2015-05-01"/>
+    <cosponsor id="412466" joined="2015-03-04"/>
+    <cosponsor id="400276" joined="2015-06-24"/>
+    <cosponsor id="400661" joined="2015-03-04"/>
+    <cosponsor id="400290" joined="2015-06-08"/>
+    <cosponsor id="408211" joined="2015-03-19"/>
+    <cosponsor id="412575" joined="2015-04-13"/>
+    <cosponsor id="412523" joined="2015-03-04"/>
+    <cosponsor id="412307" joined="2015-03-04"/>
+    <cosponsor id="412308" joined="2015-03-04"/>
+    <cosponsor id="400326" joined="2015-03-19"/>
+    <cosponsor id="412331" joined="2015-03-04"/>
+    <cosponsor id="400333" joined="2015-03-16"/>
+    <cosponsor id="412647" joined="2015-07-22"/>
+    <cosponsor id="400344" joined="2015-03-04"/>
+    <cosponsor id="400347" joined="2015-03-04"/>
+    <cosponsor id="400352" joined="2015-03-04"/>
+    <cosponsor id="412212" joined="2015-07-13"/>
+    <cosponsor id="400360" joined="2015-05-12"/>
+    <cosponsor id="400361" joined="2015-03-04"/>
+    <cosponsor id="409888" joined="2015-03-23"/>
+    <cosponsor id="412509" joined="2015-03-04"/>
+    <cosponsor id="412186" joined="2015-03-19"/>
+    <cosponsor id="400379" joined="2015-05-12"/>
+    <cosponsor id="412259" joined="2015-03-04"/>
+    <cosponsor id="412648" joined="2015-03-04"/>
+    <cosponsor id="412514" joined="2015-06-04"/>
+    <cosponsor id="412626" joined="2015-04-22"/>
+    <cosponsor id="412520" joined="2015-06-15"/>
+    <cosponsor id="412318" joined="2015-03-04"/>
+    <cosponsor id="412254" joined="2015-03-04"/>
+    <cosponsor id="400414" joined="2015-07-23"/>
+    <cosponsor id="400415" joined="2015-06-02"/>
+    <cosponsor id="412239" joined="2015-03-04"/>
+    <cosponsor id="412412" joined="2015-06-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-04" state="REFERRED">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-03-04">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2015-03-04">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2015-03-23">
+      <text>Referred to the Subcommittee on Livestock and Foreign Agriculture.</text>
+    </action>
+    <action datetime="2015-03-31">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+    <committee code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee activity="Referral" code="HSAG29" subcommittee="Livestock and Foreign Agriculture" name="House Agriculture"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="1559"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Animal protection and human-animal relationships"/>
+    <term name="Assault and harassment offenses"/>
+    <term name="Crime victims"/>
+    <term name="Crimes against animals and natural resources"/>
+    <term name="Crimes against women"/>
+    <term name="Domestic violence and child abuse"/>
+    <term name="Homelessness and emergency shelter"/>
+    <term name="Sex offenses"/>
+    <term name="Veterinary medicine and animal diseases"/>
+    <term name="Violent crime"/>
+  </subjects>
+  <amendments/>
+  <summary>3/4/2015--Introduced.
+Pet and Women Safety Act of 2015
+
+ Amends the federal criminal code to prohibit threats or acts of violence against a person's pet under the offenses of stalking and interstate violation of a protection order. Defines "pet" to mean a domesticated animal that is kept for pleasure rather than for commercial purposes.
+
+Requires the "full amount of the victim's losses" for purposes of restitution in domestic violence and stalking offenses to include any costs incurred for veterinary services relating to physical care for the victim's pet.
+
+Directs the Department of Agriculture to award grants to eligible entities to carry out programs to provide specified housing assistance, support services, and training of relevant stakeholders to victims of domestic violence, dating violence, sexual assault, or stalking and their pets.
+
+Expresses the sense of Congress that states should encourage the inclusion of protections against violent or threatening acts against the pet of the person in domestic violence protection orders.</summary>
+</bill>

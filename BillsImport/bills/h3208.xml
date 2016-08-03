@@ -1,0 +1,26 @@
+<bill session="114" type="h" number="3208" updated="2015-08-01T06:46:33-04:00">
+  <state datetime="2015-07-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-23"/>
+  </status>
+  <introduced datetime="2015-07-23"/>
+  <titles>
+    <title type="short" as="introduced">Retired Civil Servant Military Service Restoration Act of 2015</title>
+    <title type="official" as="introduced">To amend title 5, United States Code, to clarify the timing of deposits relating to the Civil Service Retirement System with respect to crediting military service, and for other purposes.</title>
+  </titles>
+  <sponsor id="412575"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-23" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+  </subjects>
+  <amendments/>
+</bill>

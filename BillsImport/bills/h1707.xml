@@ -1,0 +1,53 @@
+<bill session="114" type="h" number="1707" updated="2015-05-14T04:47:51-04:00">
+  <state datetime="2015-03-26">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-26"/>
+  </status>
+  <introduced datetime="2015-03-26"/>
+  <titles>
+    <title type="short" as="introduced">Access to Frontline Health Care Act of 2015</title>
+    <title type="official" as="introduced">To amend the Public Health Service Act to direct the Secretary of Health and Human Services to establish a Frontline Providers Loan Repayment Program.</title>
+  </titles>
+  <sponsor id="412209"/>
+  <cosponsors>
+    <cosponsor id="400100" joined="2015-04-14"/>
+    <cosponsor id="412215" joined="2015-03-26"/>
+    <cosponsor id="412382" joined="2015-03-26"/>
+    <cosponsor id="400162" joined="2015-03-26"/>
+    <cosponsor id="400218" joined="2015-03-26"/>
+    <cosponsor id="400259" joined="2015-03-26"/>
+    <cosponsor id="400333" joined="2015-03-26"/>
+    <cosponsor id="412514" joined="2015-05-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-26" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-03-27">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Education programs funding"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health personnel"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Medical education"/>
+    <term name="Student aid and college costs"/>
+  </subjects>
+  <amendments/>
+  <summary>3/26/2015--Introduced.
+Access to Frontline Health Care Act of 2015
+
+This bill amends the Public Health Service Act to direct the Department of Health and Human Services (HHS) to establish and carry out a Frontline Providers Loan Repayment Program under which HHS makes student loan repayments in exchange for a health professional providing frontline care services for two years in a frontline care scarcity area.
+
+Frontline care services include surgery, optometry, physical therapy, pharmacies, public health, dietetics, occupational therapy, pediatrics, and medical technology.
+
+Frontline care scarcity areas are federal health professional shortage areas and areas, populations, or facilities designated by a state as having a shortage of frontline care services.</summary>
+</bill>

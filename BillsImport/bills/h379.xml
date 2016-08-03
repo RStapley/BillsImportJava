@@ -1,0 +1,87 @@
+<bill session="114" type="h" number="379" updated="2015-07-15T04:47:45-04:00">
+  <state datetime="2015-01-14">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-14"/>
+  </status>
+  <introduced datetime="2015-01-14"/>
+  <titles>
+    <title type="short" as="introduced">National Nurse Act of 2015</title>
+    <title type="official" as="introduced">To designate the same individual serving as the Chief Nurse Officer of the Public Health Service as the National Nurse for Public Health.</title>
+  </titles>
+  <sponsor id="400204"/>
+  <cosponsors>
+    <cosponsor id="400033" joined="2015-02-12"/>
+    <cosponsor id="412501" joined="2015-05-01"/>
+    <cosponsor id="400048" joined="2015-04-16"/>
+    <cosponsor id="412536" joined="2015-07-09"/>
+    <cosponsor id="400101" joined="2015-06-08"/>
+    <cosponsor id="400648" joined="2015-04-16"/>
+    <cosponsor id="412420" joined="2015-06-25"/>
+    <cosponsor id="400122" joined="2015-06-03"/>
+    <cosponsor id="400124" joined="2015-03-17"/>
+    <cosponsor id="400646" joined="2015-04-30"/>
+    <cosponsor id="400142" joined="2015-04-15"/>
+    <cosponsor id="400158" joined="2015-04-29"/>
+    <cosponsor id="412454" joined="2015-02-26"/>
+    <cosponsor id="400170" joined="2015-06-25"/>
+    <cosponsor id="412486" joined="2015-02-04"/>
+    <cosponsor id="412566" joined="2015-07-14"/>
+    <cosponsor id="400219" joined="2015-01-14"/>
+    <cosponsor id="412290" joined="2015-02-12"/>
+    <cosponsor id="400240" joined="2015-04-15"/>
+    <cosponsor id="400244" joined="2015-03-17"/>
+    <cosponsor id="412293" joined="2015-02-26"/>
+    <cosponsor id="400663" joined="2015-07-14"/>
+    <cosponsor id="400262" joined="2015-07-09"/>
+    <cosponsor id="400285" joined="2015-03-17"/>
+    <cosponsor id="412483" joined="2015-06-15"/>
+    <cosponsor id="412202" joined="2015-06-24"/>
+    <cosponsor id="400350" joined="2015-02-26"/>
+    <cosponsor id="400360" joined="2015-02-04"/>
+    <cosponsor id="412315" joined="2015-03-17"/>
+    <cosponsor id="400378" joined="2015-06-24"/>
+    <cosponsor id="400380" joined="2015-05-01"/>
+    <cosponsor id="412259" joined="2015-06-24"/>
+    <cosponsor id="412317" joined="2015-06-08"/>
+    <cosponsor id="400419" joined="2015-04-13"/>
+    <cosponsor id="412239" joined="2015-04-30"/>
+    <cosponsor id="400431" joined="2015-06-24"/>
+    <cosponsor id="412211" joined="2015-04-29"/>
+    <cosponsor id="400440" joined="2015-02-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-14" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-01-16">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="1205"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Federal officials"/>
+    <term name="Health information and medical records"/>
+    <term name="Health personnel"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="Nursing"/>
+    <term name="Social work, volunteer service, charitable organizations"/>
+  </subjects>
+  <amendments/>
+  <summary>1/14/2015--Introduced.
+National Nurse Act of 2015
+
+Amends the Public Health Service Act to require the Department of Health and Human Services (HHS) to designate the Chief Nurse Officer of the Public Health Service as the National Nurse for Public Health within the Office of the Surgeon General.
+
+Includes among the duties of this position: (1) providing leadership and coordination of Public Health Service nursing professional affairs for the Office of the Surgeon General and other agencies of the Public Health Service, (2) conducting outreach and education, and (3) providing guidance and leadership for activities that will increase public safety and emergency preparedness.
+
+Requires the National Nurse for Public Health to: (1) participate in identification of national health priorities, (2) encourage volunteerism of nurses and strengthen the relationship between government agencies and health-related national organizations, and (3) promote the dissemination of evidence-based practice in educating the public on health promotion and disease prevention activities.</summary>
+</bill>

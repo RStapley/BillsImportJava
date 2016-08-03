@@ -1,0 +1,25 @@
+<bill session="114" type="h" number="3259" updated="2015-08-22T06:46:34-04:00">
+  <state datetime="2015-07-28">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-28"/>
+  </status>
+  <introduced datetime="2015-07-28"/>
+  <titles>
+    <title type="official" as="introduced">To grant authority to the President to detain non-diplomatic officials of the Government of Iran in the United States and non-diplomatic officials of the Government of Iran in certain other countries until all United States citizens held by the Government of Iran are released and returned to the United States, and for other purposes.</title>
+  </titles>
+  <sponsor id="400343"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-28" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+  </subjects>
+  <amendments/>
+</bill>

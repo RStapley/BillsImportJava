@@ -1,0 +1,42 @@
+<bill session="114" type="h" number="974" updated="2015-04-04T06:25:06-04:00">
+  <state datetime="2015-02-13">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-13"/>
+  </status>
+  <introduced datetime="2015-02-13"/>
+  <titles>
+    <title type="short" as="introduced">Yellowstone and Grand Teton Paddling Act</title>
+    <title type="official" as="introduced">To direct the Secretary of the Interior to promulgate regulations to allow the use of hand-propelled vessels on certain rivers and streams that flow in and through certain Federal lands in Yellowstone National Park, Grand Teton National Park, the John D. Rockefeller, Jr. Memorial Parkway, and for other purposes.</title>
+  </titles>
+  <sponsor id="412294"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-02-13" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2015-03-16">
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+    </action>
+    <action datetime="2015-03-16">
+      <text>Referred to the Subcommittee on Water, Power and Oceans.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="Federal Lands" name="House Natural Resources"/>
+    <committee activity="Referral" code="HSII13" subcommittee="Water, Power and Oceans" name="House Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Department of the Interior"/>
+    <term name="Lakes and rivers"/>
+    <term name="Marine and inland water transportation"/>
+    <term name="Outdoor recreation"/>
+    <term name="Parks, recreation areas, trails"/>
+    <term name="Wilderness and natural areas, wildlife refuges, wild rivers, habitats"/>
+    <term name="Wyoming"/>
+  </subjects>
+  <amendments/>
+</bill>

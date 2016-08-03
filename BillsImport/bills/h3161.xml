@@ -1,0 +1,37 @@
+<bill session="114" type="h" number="3161" updated="2015-08-01T06:46:10-04:00">
+  <state datetime="2015-07-22">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-22"/>
+  </status>
+  <introduced datetime="2015-07-22"/>
+  <titles>
+    <title type="short" as="introduced">Timber Revitalization and Economic Enhancement Act of 2015</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to make permanent certain provisions of the Heartland, Habitat, Harvest, and Horticulture Act of 2008 relating to timber, and for other purposes.</title>
+  </titles>
+  <sponsor id="400636"/>
+  <cosponsors>
+    <cosponsor id="412400" joined="2015-07-23"/>
+    <cosponsor id="412275" joined="2015-07-23"/>
+    <cosponsor id="412280" joined="2015-07-23"/>
+    <cosponsor id="412609" joined="2015-07-23"/>
+    <cosponsor id="412610" joined="2015-07-23"/>
+    <cosponsor id="412402" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-22" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+  <summary>7/22/2015--Introduced.
+Timber Revitalization and Economic Enhancement Act of 2015
+
+Amends the Internal Revenue Code, with respect to the reduced tax rate on the net timber gains of corporations, to: (1) adjust the formula for calculating such rate, and (2) make such reduced rate permanent.</summary>
+</bill>

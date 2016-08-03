@@ -1,0 +1,88 @@
+<bill session="114" type="s" number="139" updated="2015-08-11T04:48:42-04:00">
+  <state datetime="2015-07-16">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2015-07-16"/>
+  </status>
+  <introduced datetime="2015-01-08"/>
+  <titles>
+    <title type="short" as="introduced">Ensuring Access to Clinical Trials Act of 2015</title>
+    <title type="short" as="passed senate">Ensuring Access to Clinical Trials Act of 2015</title>
+    <title type="official" as="introduced">A bill to permanently allow an exclusion under the Supplemental Security Income program and the Medicaid program for compensation provided to individuals who participate in clinical trials for rare diseases or conditions.</title>
+  </titles>
+  <sponsor id="300100"/>
+  <cosponsors>
+    <cosponsor id="412493" joined="2015-03-10"/>
+    <cosponsor id="412330" joined="2015-03-18"/>
+    <cosponsor id="300011" joined="2015-01-13"/>
+    <cosponsor id="400050" joined="2015-01-08"/>
+    <cosponsor id="300025" joined="2015-06-01"/>
+    <cosponsor id="412390" joined="2015-02-25"/>
+    <cosponsor id="300038" joined="2015-02-12"/>
+    <cosponsor id="412223" joined="2015-07-09"/>
+    <cosponsor id="300052" joined="2015-01-08"/>
+    <cosponsor id="412242" joined="2015-01-13"/>
+    <cosponsor id="400253" joined="2015-01-08"/>
+    <cosponsor id="300083" joined="2015-06-25"/>
+    <cosponsor id="412323" joined="2015-04-28"/>
+    <cosponsor id="300093" joined="2015-03-16"/>
+    <cosponsor id="400432" joined="2015-04-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-08">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S105"/>
+    </action>
+    <action datetime="2015-01-08" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <reference ref="CR S105" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2015-07-16">
+      <text>Senate Committee on Finance discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2015-07-16" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S5175" label="consideration"/>
+      <reference ref="CR S5175" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2015-07-17">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2015-07-20T14:01:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2015-07-20">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-07-20">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-07-20">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-07-24">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, Discharged"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="209"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Medicaid"/>
+    <term name="Medical research"/>
+    <term name="Poverty and welfare assistance"/>
+  </subjects>
+  <amendments/>
+  <summary>7/16/2015--Passed Senate without amendment.
+(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)
+
+Ensuring Access to Clinical Trials Act of 2015 
+
+(Sec. 2) This bill amends the Improving Access to Clinical Trials Act of 2009 to repeal the sunset of, and so extend indefinitely, the exclusion from resources under titles XVI (Supplemental Security Income) and XIX (Medicaid) of the Social Security Act, for eligibility purposes, of compensation in the amount of the first $2,000 per year received by individuals who participate in clinical trials for rare diseases or conditions.</summary>
+</bill>

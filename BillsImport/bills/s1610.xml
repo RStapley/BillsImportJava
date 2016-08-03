@@ -1,0 +1,50 @@
+<bill session="114" type="s" number="1610" updated="2015-07-04T06:59:47-04:00">
+  <state datetime="2015-06-18">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-18"/>
+  </status>
+  <introduced datetime="2015-06-18"/>
+  <titles>
+    <title type="short" as="introduced">BALTIMORE Act</title>
+    <title type="short" as="introduced">Building and Lifting Trust In order to Multiply Opportunities and Racial Equality Act of 2015</title>
+    <title type="short" as="introduced" partial="1">Democracy Restoration Act of 2015</title>
+    <title type="short" as="introduced" partial="1">End Racial Profiling Act of 2015</title>
+    <title type="short" as="introduced" partial="1">Police CAMERA Act</title>
+    <title type="short" as="introduced" partial="1">Police Creating Accountability by Making Effective Recording Available Act of 2015</title>
+    <title type="short" as="introduced" partial="1">Reclassification to Ensure Smarter and Equal Treatment Act of 2015</title>
+    <title type="short" as="introduced" partial="1">RESET Act</title>
+    <title type="official" as="introduced">A bill to eliminate racial profiling by law enforcement officers, promote accountability for State and local law enforcement agencies, reenfranchise citizens, eliminate sentencing disparities, and promote re-entry and employment programs, and for other purposes.</title>
+  </titles>
+  <sponsor id="400064"/>
+  <cosponsors>
+    <cosponsor id="300073" joined="2015-06-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-18">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S4302"/>
+    </action>
+    <action datetime="2015-06-18" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-06-25">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S4626-4628"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1459"/>
+    <bill relation="unknown" session="114" type="h" number="1680"/>
+    <bill relation="unknown" session="114" type="h" number="1933"/>
+    <bill relation="unknown" session="114" type="s" number="772"/>
+    <bill relation="unknown" session="114" type="s" number="877"/>
+    <bill relation="unknown" session="114" type="s" number="1056"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+  </subjects>
+  <amendments/>
+</bill>

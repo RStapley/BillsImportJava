@@ -1,0 +1,39 @@
+<bill session="114" type="h" number="2240" updated="2015-07-11T06:37:28-04:00">
+  <state datetime="2015-05-05">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-05"/>
+  </status>
+  <introduced datetime="2015-05-05"/>
+  <titles>
+    <title type="short" as="introduced">Inspector General Access Act of 2015</title>
+    <title type="official" as="introduced">To amend the Inspector General Act of 1978 relative to the powers of the Department of Justice Inspector General.</title>
+  </titles>
+  <sponsor id="412432"/>
+  <cosponsors>
+    <cosponsor id="400080" joined="2015-05-14"/>
+    <cosponsor id="412623" joined="2015-05-05"/>
+    <cosponsor id="412419" joined="2015-05-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-05" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="618"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Department of Justice"/>
+    <term name="Government ethics and transparency, public corruption"/>
+    <term name="Government studies and investigations"/>
+  </subjects>
+  <amendments/>
+  <summary>5/5/2015--Introduced.
+Inspector General Access Act of 2015
+
+Amends the Inspector General Act of 1978 to eliminate a provision of such Act that requires referral of allegations of misconduct involving Department of Justice (DOJ) attorneys, investigators, or law enforcement personnel to the DOJ Office of Professional Responsibility (thus allowing the DOJ Inspector General to investigate such allegations).</summary>
+</bill>

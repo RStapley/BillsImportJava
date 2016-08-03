@@ -1,0 +1,93 @@
+<bill session="114" type="h" number="1779" updated="2015-08-01T04:50:49-04:00">
+  <state datetime="2015-04-14">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-14"/>
+  </status>
+  <introduced datetime="2015-04-14"/>
+  <titles>
+    <title type="short" as="introduced">Runaway and Homeless Youth and Trafficking Prevention Act of 2015</title>
+    <title type="official" as="introduced">To reauthorize the Runaway and Homeless Youth Act; and for other purposes.</title>
+  </titles>
+  <sponsor id="412211"/>
+  <cosponsors>
+    <cosponsor id="412657" joined="2015-04-28"/>
+    <cosponsor id="400033" joined="2015-06-18"/>
+    <cosponsor id="412236" joined="2015-04-28"/>
+    <cosponsor id="412505" joined="2015-07-07"/>
+    <cosponsor id="400114" joined="2015-04-28"/>
+    <cosponsor id="400122" joined="2015-04-21"/>
+    <cosponsor id="412382" joined="2015-06-18"/>
+    <cosponsor id="400160" joined="2015-07-31"/>
+    <cosponsor id="400170" joined="2015-04-21"/>
+    <cosponsor id="400245" joined="2015-07-21"/>
+    <cosponsor id="412521" joined="2015-04-28"/>
+    <cosponsor id="400262" joined="2015-05-14"/>
+    <cosponsor id="400661" joined="2015-04-28"/>
+    <cosponsor id="400295" joined="2015-06-10"/>
+    <cosponsor id="412331" joined="2015-07-15"/>
+    <cosponsor id="400333" joined="2015-04-28"/>
+    <cosponsor id="400660" joined="2015-04-14"/>
+    <cosponsor id="412186" joined="2015-04-28"/>
+    <cosponsor id="412318" joined="2015-04-28"/>
+    <cosponsor id="412214" joined="2015-04-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-14" state="REFERRED">
+      <text>Referred to the Committee on Education and the Workforce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-04-14">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+    <action datetime="2015-04-14">
+      <text>Referred to House Judiciary</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="246"/>
+    <bill relation="unknown" session="114" type="h" number="1115"/>
+    <bill relation="unknown" session="114" type="s" number="262"/>
+    <bill relation="unknown" session="114" type="s" number="381"/>
+  </relatedbills>
+  <subjects>
+    <term name="Social welfare"/>
+  </subjects>
+  <amendments/>
+  <summary>4/14/2015--Introduced.
+Runaway and Homeless Youth and Trafficking Prevention Act of 2015
+
+Amends the Runaway and Homeless Youth Act to reauthorize it through FY2020, generally at FY2009 levels.
+
+Modifies the Basic Center Grant (BCG) Program (for short-term emergency shelter and family reunification services to runaway and homeless youth) to require local centers to provide safe shelter and services, including trauma-informed services, for runaway and homeless youth, and (if appropriate) services for their families, including individuals they identify as family.
+
+Extends the maximum stay in a BCG shelter from 21 to 30 days, and requires a shelter to provide suicide prevention services.
+
+Allows shelter services to include: (1) trauma-informed and gender-responsive services for runaway or homeless youth, including victims of trafficking in persons or sexual exploitation; and (2) an assessment of family engagement in support and reunification (if appropriate), interventions, and services for parents or legal guardians of such youth, or individuals they identify as family.
+
+Revises plan applicant record keeping requirements.
+
+Requires plan applicants to: (1) provide age, gender, and culturally and linguistically appropriate services to the extent practicable to runaway youth; and (2) assist youth in completing the Free Application for Federal Student Aid.
+
+Revises the Transitional Living Grant (TLG) Program (for longer-term residential services, life skills, education, and employment support to older homeless youth) to require information and counseling services in basic life skills to be age, gender, and linguistically appropriate to the extent practicable..
+
+Requires TLG plan applicants to provide suicide prevention services, counseling to homeless youth, and aftercare services.
+
+Requires a TLG plan to ensure proper referral of homeless youth to mental health services, including programs providing wrap-around services to victims of trafficking in persons or sexual exploitation.
+
+Requires plan applicants to provide age, gender, and culturally and linguistically appropriate services to the extent practicable that address the needs of homeless and street youth.
+
+Revises requirements for the coordination of activities among federal agencies, grants for technical assistance and training, and grants for research, evaluation, demonstration, and service projects.
+
+Revises the sexual abuse prevention program to authorize the Secretary of Health and Human Services to make grants to public agencies (as well as nonprofit private agencies, as under current law) to provide street-based services to runaway and homeless, and street youth who have been subjected to, or are at risk of being subjected to, sexual abuse, violence, trafficking in persons, or sexual exploitation.
+
+Prohibits any person in the United States, on the basis of actual or perceived race, color, religion, national origin, sex, gender identity, sexual orientation, or disability, from being excluded from participation in, denied the benefits of, or subject to discrimination under any program or activity funded in whole or in part under such Act. Makes an exception to this prohibition if sex segregation or sex-specific programming is necessary to the essential operation of a program.
+
+Amends the Missing Children's Assistance Act to require the annual grant of the Administrator of the Office of Juvenile Justice and Delinquency Prevention to the National Center for Missing and Exploited Children to be used to operate a cyber tipline to provide online users and electronic service providers an effective means of reporting Internet-related child sexual exploitation in the areas of child sex trafficking (currently, child prostitution).
+
+Amends the Crime Control Act of 1990 to:
+
+ require a missing child report to include a recent photograph of the child, if available; reduce from 60 to 30 days after the original entry of such a report into the state law enforcement system and the National Crime Information Center (NCIC) computer networks the deadline for the law enforcement agency that entered the report to verify and update the record with any additional information; require that law enforcement agency to maintain close liaison with state and local welfare systems; and require it also to grant permission to the NCIC Terminal Contractor for the state to update the missing person record in the NCIC computer networks with additional information learned during the investigation.</summary>
+</bill>

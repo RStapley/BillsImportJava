@@ -1,0 +1,230 @@
+<bill session="114" type="s" number="754" updated="2015-08-08T06:57:59-04:00">
+  <state datetime="2015-03-17">REPORTED</state>
+  <status>
+    <unknown datetime="2015-03-17"/>
+  </status>
+  <introduced datetime="2015-03-17"/>
+  <titles>
+    <title type="short" as="introduced">Cybersecurity Information Sharing Act of 2015</title>
+    <title type="short" as="reported to senate">Cybersecurity Information Sharing Act of 2015</title>
+    <title type="official" as="introduced">An original bill to improve cybersecurity in the United States through enhanced sharing of information about cybersecurity threats, and for other purposes.</title>
+  </titles>
+  <sponsor id="400054"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-03-17">
+      <text>Select Committee on Intelligence. Original measure reported to Senate by Senator Burr. Without written report.</text>
+    </action>
+    <calendar datetime="2015-03-17" state="REPORTED" calendar="Senate Legislative" under="General Orders" number="28">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 28.</text>
+    </calendar>
+    <action datetime="2015-04-15">
+      <text>By Senator Burr from Select Committee on Intelligence filed written report. Report No. 114-32. Additional views filed.</text>
+    </action>
+    <action datetime="2015-08-03">
+      <text>Motion to proceed to consideration of measure made in Senate.</text>
+      <reference ref="CR S6228" label="consideration"/>
+    </action>
+    <action datetime="2015-08-03">
+      <text>Cloture motion on the motion to proceed to consideration of the measure presented in Senate.</text>
+      <reference ref="CR S6228" label="consideration"/>
+      <reference ref="CR S6228" label="text"/>
+    </action>
+    <action datetime="2015-08-04">
+      <text>Motion to proceed to measure considered in Senate.</text>
+      <reference ref="CR S6256, S6257-6262, S6263-6264, S6266-6267, S6271-6272, S6279" label="consideration"/>
+    </action>
+    <action datetime="2015-08-05">
+      <text>Motion to proceed to measure considered in Senate.</text>
+      <reference ref="CR S6329-6348, S6350-6351" label="consideration"/>
+      <reference ref="CR S5329" label="text"/>
+    </action>
+    <action datetime="2015-08-05">
+      <text>Cloture motion on the motion to proceed to the measure withdrawn by unanimous consent in Senate.</text>
+      <reference ref="CR S6342" label="consideration"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SLIN" name="Senate Intelligence (Select)" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1560"/>
+    <bill relation="unknown" session="114" type="h" number="1731"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Civil actions and liability"/>
+    <term name="Competition and antitrust"/>
+    <term name="Computer security and identity theft"/>
+    <term name="Computers and information technology"/>
+    <term name="Congressional oversight"/>
+    <term name="Crimes against children"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Department of Defense"/>
+    <term name="Department of Homeland Security"/>
+    <term name="Department of Justice"/>
+    <term name="Director of National Intelligence"/>
+    <term name="Federal preemption"/>
+    <term name="First Amendment rights"/>
+    <term name="Fraud offenses and financial crimes"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Intellectual property"/>
+    <term name="Intelligence activities, surveillance, classified information"/>
+    <term name="Internet and video services"/>
+    <term name="Military procurement, research, weapons development"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Right of privacy"/>
+    <term name="State and local government operations"/>
+    <term name="Terrorism"/>
+    <term name="Trade secrets and economic espionage"/>
+    <term name="Violent crime"/>
+  </subjects>
+  <amendments>
+    <amendment number="s2544"/>
+    <amendment number="s2546"/>
+    <amendment number="s2547"/>
+    <amendment number="s2548"/>
+    <amendment number="s2549"/>
+    <amendment number="s2550"/>
+    <amendment number="s2551"/>
+    <amendment number="s2552"/>
+    <amendment number="s2553"/>
+    <amendment number="s2554"/>
+    <amendment number="s2555"/>
+    <amendment number="s2556"/>
+    <amendment number="s2557"/>
+    <amendment number="s2558"/>
+    <amendment number="s2559"/>
+    <amendment number="s2560"/>
+    <amendment number="s2561"/>
+    <amendment number="s2562"/>
+    <amendment number="s2563"/>
+    <amendment number="s2564"/>
+    <amendment number="s2565"/>
+    <amendment number="s2566"/>
+    <amendment number="s2567"/>
+    <amendment number="s2568"/>
+    <amendment number="s2569"/>
+    <amendment number="s2570"/>
+    <amendment number="s2571"/>
+    <amendment number="s2572"/>
+    <amendment number="s2573"/>
+    <amendment number="s2574"/>
+    <amendment number="s2575"/>
+    <amendment number="s2576"/>
+    <amendment number="s2577"/>
+    <amendment number="s2578"/>
+    <amendment number="s2579"/>
+    <amendment number="s2580"/>
+    <amendment number="s2581"/>
+    <amendment number="s2582"/>
+    <amendment number="s2583"/>
+    <amendment number="s2584"/>
+    <amendment number="s2585"/>
+    <amendment number="s2586"/>
+    <amendment number="s2587"/>
+    <amendment number="s2588"/>
+    <amendment number="s2589"/>
+    <amendment number="s2590"/>
+    <amendment number="s2591"/>
+    <amendment number="s2592"/>
+    <amendment number="s2593"/>
+    <amendment number="s2594"/>
+    <amendment number="s2595"/>
+    <amendment number="s2596"/>
+    <amendment number="s2597"/>
+    <amendment number="s2598"/>
+    <amendment number="s2599"/>
+    <amendment number="s2600"/>
+    <amendment number="s2601"/>
+    <amendment number="s2602"/>
+    <amendment number="s2603"/>
+    <amendment number="s2604"/>
+    <amendment number="s2605"/>
+    <amendment number="s2606"/>
+    <amendment number="s2607"/>
+    <amendment number="s2608"/>
+    <amendment number="s2609"/>
+    <amendment number="s2610"/>
+    <amendment number="s2611"/>
+    <amendment number="s2612"/>
+    <amendment number="s2613"/>
+    <amendment number="s2614"/>
+    <amendment number="s2615"/>
+    <amendment number="s2616"/>
+    <amendment number="s2617"/>
+    <amendment number="s2618"/>
+    <amendment number="s2619"/>
+    <amendment number="s2620"/>
+    <amendment number="s2621"/>
+    <amendment number="s2622"/>
+    <amendment number="s2623"/>
+    <amendment number="s2624"/>
+    <amendment number="s2625"/>
+    <amendment number="s2626"/>
+    <amendment number="s2627"/>
+    <amendment number="s2628"/>
+    <amendment number="s2629"/>
+    <amendment number="s2630"/>
+    <amendment number="s2631"/>
+    <amendment number="s2632"/>
+    <amendment number="s2633"/>
+    <amendment number="s2634"/>
+    <amendment number="s2635"/>
+    <amendment number="s2636"/>
+    <amendment number="s2637"/>
+    <amendment number="s2638"/>
+  </amendments>
+  <summary>3/17/2015--Reported to Senate without amendment.
+(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)
+
+Cybersecurity Information Sharing Act of 2015
+
+(Sec. 3) Requires the Director of National Intelligence (DNI), the Department of Homeland Security (DHS), the Department of Defense (DOD), and the Department of Justice (DOJ) to develop and promulgate procedures to promote: (1) the timely sharing of classified and declassified cyber threat indicators in possession of the federal government with private entities, non-federal government agencies, or state, tribal, or local governments; (2) the sharing of unclassified indicators with the public; and (3) the sharing of cybersecurity threats with entities to prevent or mitigate adverse effects.
+
+Requires notification to be provided to entities when the federal government has shared indicators in error or in contravention of law.
+
+Directs the DNI to submit such procedures to Congress within 60 days after enactment of this Act.
+
+(Sec. 4) Permits private entities to monitor, and operate defensive measures to detect, prevent, or mitigate cybersecurity threats or security vulnerabilities on: (1) their own information systems; and (2) with authorization and written consent, the information systems of other private or government entities. Authorizes such entities to monitor information that is stored on, processed by, or transiting such monitored systems.
+
+Allows entities to share and receive indicators and defensive measures with other entities or the federal government. Requires recipients to comply with lawful restrictions that sharing entities place on the sharing or use of shared indicators or defensive measures.
+
+Requires the federal government and entities monitoring, operating, or sharing indicators or defensive measures: (1) to utilize security controls to protect against unauthorized access or acquisitions, and (2) prior to sharing an indicator, to remove personal information of or identifying a specific person not directly related to a cybersecurity threat.
+
+Permits state, tribal, or local agencies to use shared indicators (with the consent of the entity sharing the indicators) to prevent, investigate, or prosecute offenses relating to: (1) an imminent threat of death, serious bodily harm, or serious economic harm, including a terrorist act or a use of a weapon of mass destruction; or (2) crimes involving serious violent felonies, fraud and identity theft, espionage and censorship, or trade secrets.
+
+Exempts from antitrust laws private entities that, for cybersecurity purposes, exchange or provide: (1) cyber threat indicators; or (2) assistance relating to the prevention, investigation, or mitigation of cybersecurity threats. Makes such exemption inapplicable to price-fixing, allocating a market between competitors, monopolizing or attempting to monopolize a market, boycotting, or exchanges of price or cost information, customer lists, or information regarding future competitive planning.
+
+(Sec. 5) Directs DOJ to promulgate procedures relating to the receipt of indicators and defensive measures by the federal government. Requires such procedures to include automated real-time sharing procedures, an audit capability, and appropriate sanctions for federal officers, employees, or agents who conduct unauthorized activities. Directs DOJ to develop, and make publicly available, guidelines to assist entities in sharing indicators with the federal government, including guidance for identifying and protecting personal information. Requires DOJ to promulgate and periodically review privacy and civil liberties guidelines to limit receipt, retention, use, and dissemination of personal or identifying information. Provides for the guidelines to include steps to make dissemination of cyber threat indicators consistent with the protection of classified and other sensitive national security information.
+
+Directs DHS to develop a process within DHS for the federal government to: (1) accept cyber threat indicators and defensive measures from any entity in real time, and (2) ensure that appropriate federal entities receive the shared indicators in an automated manner through that real-time process. Requires DHS to certify to Congress that the DHS sharing capability is fully operational before the process is implemented.
+
+Requires the DHS capability to be the process by which the federal government receives indicators and defensive measures under this Act that are shared by a private entity with the federal government through electronic mail or media, an interactive Internet website form, or a real-time, automated process between information systems, except: (1) communications between a federal entity and a private entity regarding a previously shared cyber threat indicator, and (2) communications by a regulated entity with such entity's federal regulatory authority regarding a cybersecurity threat.
+
+Prohibits DHS's process from limiting lawful disclosures of communications, records, or other information to: (1) report known or suspected criminal activity, (2) participate in a federal investigation voluntarily or upon being legally compelled, or (3) provide indicators or defensive measures as part of a statutory or authorized contractual requirement.
+
+Directs DHS to ensure that there is public notice of, and access to, the DHS sharing procedures.
+
+Requires DHS to report to Congress regarding implementation of the sharing process within DHS.
+
+Requires cyber threat indicators and defensive measures shared with the federal government and threat indicators shared with state, tribal, or local governments to be: (1) deemed voluntarily shared information, and (2) exempt from disclosure and withheld from the public under any laws of such jurisdictions requiring disclosure of information or records.
+
+Authorizes indicators and defensive measures to be disclosed to, retained by, and used by, consistent with otherwise applicable federal law, any federal agency or federal government agent solely for:
+
+ protecting an information system or information that is stored on, processed by, or transiting an information system from a cybersecurity threat or security vulnerability; identifying a cybersecurity threat, including the source, or a security vulnerability; identifying the use of an information system by a foreign adversary or terrorist; responding to, or otherwise preventing or mitigating, a serious threat to a minor or an imminent threat of death, serious bodily harm, or serious economic harm, including a terrorist act or a use of a weapon of mass destruction; or preventing, investigating, disrupting, or prosecuting an offense arising out of an imminent threat of death, serious bodily harm, or serious economic harm, as well as offenses relating to serious violent felonies, fraud and identity theft, espionage and censorship, or trade secrets. Prohibits indicators and defensive measures provided to the government from being directly used by government agencies to regulate the lawful activities of an entity.
+
+(Sec. 6) Provides liability protections to entities acting in accordance with this Act that: (1) monitor information systems, or (2) share or receive indicators or defensive measures, provided that the manner in which an entity shares any indicators or defensive measures with the federal government is consistent with specified procedures and exceptions set forth under the DHS sharing process.
+
+(Sec. 7) Directs appropriate federal entities and the inspectors general of specified agencies to report to Congress at least every two years concerning the implementation of this Act. Requires such reports to include: (1) an assessment of the impact on privacy and civil liberties; (2) a review of actions taken by the federal government based on shared cyber threat indicators, including the appropriateness of any federal entity's subsequent use or dissemination of such cyber threat indicators; and (3) a description of any significant violations by the federal government.
+
+Requires reports to Congress, at least every two years, by: (1) the Privacy and Civil Liberties Oversight Board; and (2) Inspectors General of DHS, the Intelligence Community, DOJ, DOD, and the Department of Energy regarding shared indicators and defensive measures.
+
+(Sec. 8) Prohibits this Act from being construed to permit the federal government to require an entity to provide information to the federal government.
+
+(Sec. 9) Directs the DNI to report to Congress regarding cybersecurity threats, including cyber attacks, theft, and data breaches. Requires such report to include: (1) an assessment of current U.S. intelligence sharing and cooperation relationships with other countries regarding cybersecurity threats to the U.S. national security interests, economy, and intellectual property; (2) a list of countries and non-state actors that are primary threats; (3) a description of the U.S. government's response and prevention capabilities; and (4) an assessment of additional technologies that would enhance U.S. capabilities, including private sector technologies that could be rapidly fielded to assist the intelligence community.
+
+(Sec. 10) Amends the National Defense Authorization Act for Fiscal Year 2013 to authorize DOD to share with other federal entities information reported by a cleared defense contractor regarding a penetration of network or information systems.</summary>
+</bill>

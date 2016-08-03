@@ -1,0 +1,102 @@
+<bill session="114" type="h" number="996" updated="2015-07-11T06:26:56-04:00">
+  <state datetime="2015-02-13">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-13"/>
+  </status>
+  <introduced datetime="2015-02-13"/>
+  <titles>
+    <title type="short" as="introduced">Northern Rockies Ecosystem Protection Act</title>
+    <title type="official" as="introduced">To designate certain National Forest System lands and certain public lands under the jurisdiction of the Secretary of the Interior in the States of Idaho, Montana, Oregon, Washington, and Wyoming as wilderness, wild and scenic rivers, wildland recovery areas, and biological connecting corridors, and for other purposes.</title>
+  </titles>
+  <sponsor id="400251"/>
+  <cosponsors>
+    <cosponsor id="412404" joined="2015-02-13"/>
+    <cosponsor id="412565" joined="2015-02-13"/>
+    <cosponsor id="400062" joined="2015-02-13"/>
+    <cosponsor id="412379" joined="2015-02-13"/>
+    <cosponsor id="412600" joined="2015-02-13"/>
+    <cosponsor id="412221" joined="2015-02-13"/>
+    <cosponsor id="400074" joined="2015-02-13"/>
+    <cosponsor id="412272" joined="2015-02-13"/>
+    <cosponsor id="400080" joined="2015-02-13"/>
+    <cosponsor id="400087" joined="2015-02-13"/>
+    <cosponsor id="400090" joined="2015-02-13"/>
+    <cosponsor id="400103" joined="2015-02-13"/>
+    <cosponsor id="412215" joined="2015-02-13"/>
+    <cosponsor id="412276" joined="2015-02-13"/>
+    <cosponsor id="400162" joined="2015-02-13"/>
+    <cosponsor id="412498" joined="2015-02-13"/>
+    <cosponsor id="412511" joined="2015-04-22"/>
+    <cosponsor id="400209" joined="2015-02-13"/>
+    <cosponsor id="412557" joined="2015-02-13"/>
+    <cosponsor id="400246" joined="2015-02-13"/>
+    <cosponsor id="412293" joined="2015-02-13"/>
+    <cosponsor id="400249" joined="2015-02-13"/>
+    <cosponsor id="400663" joined="2015-03-18"/>
+    <cosponsor id="400259" joined="2015-04-22"/>
+    <cosponsor id="400271" joined="2015-02-13"/>
+    <cosponsor id="412560" joined="2015-02-13"/>
+    <cosponsor id="400661" joined="2015-02-13"/>
+    <cosponsor id="400308" joined="2015-02-13"/>
+    <cosponsor id="412585" joined="2015-02-13"/>
+    <cosponsor id="400326" joined="2015-03-18"/>
+    <cosponsor id="412647" joined="2015-02-13"/>
+    <cosponsor id="412522" joined="2015-02-13"/>
+    <cosponsor id="400416" joined="2015-02-13"/>
+    <cosponsor id="400623" joined="2015-02-25"/>
+    <cosponsor id="400422" joined="2015-02-13"/>
+    <cosponsor id="412644" joined="2015-02-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-13">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E218"/>
+    </action>
+    <action datetime="2015-02-13" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2015-03-16">
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="Federal Lands" name="House Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Advisory bodies"/>
+    <term name="Federal-Indian relations"/>
+    <term name="Fishes"/>
+    <term name="Forests, forestry, trees"/>
+    <term name="Freedom of information"/>
+    <term name="Government information and archives"/>
+    <term name="Idaho"/>
+    <term name="Indian lands and resources rights"/>
+    <term name="Montana"/>
+    <term name="Oregon"/>
+    <term name="Parks, recreation areas, trails"/>
+    <term name="Roads and highways"/>
+    <term name="Washington State"/>
+    <term name="Water quality"/>
+    <term name="Wilderness and natural areas, wildlife refuges, wild rivers, habitats"/>
+    <term name="Wildlife conservation and habitat protection"/>
+    <term name="Wyoming"/>
+  </subjects>
+  <amendments/>
+  <summary>2/13/2015--Introduced.
+Northern Rockies Ecosystem Protection Act
+
+Designates specified National Forest System lands, National Park System lands, and public lands in Idaho, Montana, Oregon, Washington, and Wyoming as wilderness and as components or additions to existing components of the National Wilderness Preservation System.
+
+Designates specified federal lands as biological connecting corridors and as special corridor management areas.
+
+Amends the Wild and Scenic Rivers Act to designate segments of specified rivers and creeks in Idaho, Montana, and Wyoming as components of the National Wild and Scenic Rivers System.
+
+Designates specified areas as wildland recovery areas. Requires the development of a wildland recovery plan for each recovery area.
+
+Directs roadless lands greater than 1,000 acres that are within the National Forest System in the Wild Rockies bioregion in Idaho, Montana, Oregon, Washington, or Wyoming and that are not designated as components of the National Wilderness Preservation System to be studied for their role in maintaining biological diversity in the Northern Rockies and as part of the overall forest reserve system. Prohibits any new road construction or reconstruction or timber harvest in those lands after the evaluation without an Act of Congress. Prohibits oil or gas leasing, mining, or other development which impairs the natural and roadless qualities of the land.
+
+ Permits provisions of the Indian Self-Determination and Education Assistance Act to be applied, as appropriate, in the implementation of this Act.</summary>
+</bill>

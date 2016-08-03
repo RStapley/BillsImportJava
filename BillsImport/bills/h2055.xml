@@ -1,0 +1,44 @@
+<bill session="114" type="h" number="2055" updated="2015-06-20T06:35:42-04:00">
+  <state datetime="2015-04-28">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-28"/>
+  </status>
+  <introduced datetime="2015-04-28"/>
+  <titles>
+    <title type="short" as="introduced">Make It At Home Act</title>
+    <title type="official" as="introduced">To direct the Secretary of Defense to submit to Congress a report on certain equipment purchased from foreign entities that could be manufactured in United States arsenals or depots, and for other purposes.</title>
+  </titles>
+  <sponsor id="412537"/>
+  <cosponsors>
+    <cosponsor id="412533" joined="2015-04-28"/>
+    <cosponsor id="412209" joined="2015-04-28"/>
+    <cosponsor id="412319" joined="2015-04-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-28" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1735"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Congressional oversight"/>
+    <term name="Manufacturing"/>
+    <term name="Military facilities and property"/>
+    <term name="Military operations and strategy"/>
+    <term name="Military procurement, research, weapons development"/>
+    <term name="Military readiness"/>
+  </subjects>
+  <amendments/>
+  <summary>4/28/2015--Introduced.
+Make It At Home Act
+
+It is the sense of Congress that it shall be the goal of the Secretary of Defense, in conjunction with the Secretaries of the military services, to ensure the management of the manufacturing workload of the military arsenals to maintain critical capabilities and ensure cost efficiency and technical competence in peacetime, while preserving the ability to provide an effective and timely response to mobilizations, national defense contingency situations, and other emergent requirements.
+
+The Secretary shall report to Congress on the equipment, weapons, weapons systems, components, subcomponents, and end-items purchased from foreign entities and identify: (1) those items which could be manufactured in U.S. military arsenals or military depots to meet such goals, as well as (2) a plan for moving that workload into U.S. military arsenals or depots.</summary>
+</bill>

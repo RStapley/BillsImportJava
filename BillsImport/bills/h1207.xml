@@ -1,0 +1,40 @@
+<bill session="114" type="h" number="1207" updated="2015-04-25T06:27:22-04:00">
+  <state datetime="2015-03-02">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-02"/>
+  </status>
+  <introduced datetime="2015-03-02"/>
+  <titles>
+    <title type="short" as="introduced">Healthy Fisheries through Better Science Act</title>
+    <title type="official" as="introduced">To amend the Magnuson-Stevens Fishery Conservation and Management Act to require the Secretary of Commerce to develop a plan to conduct stock assessments for all stocks of fish for which a fishery management plan is in effect under that Act, and for other purposes.</title>
+  </titles>
+  <sponsor id="412255"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-03-02" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2015-03-23">
+      <text>Referred to the Subcommittee on Water, Power and Oceans.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII13" subcommittee="Water, Power and Oceans" name="House Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Commerce"/>
+    <term name="Fishes"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Hunting and fishing"/>
+    <term name="Licensing and registrations"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="User charges and fees"/>
+  </subjects>
+  <amendments/>
+</bill>

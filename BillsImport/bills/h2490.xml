@@ -1,0 +1,60 @@
+<bill session="114" type="h" number="2490" updated="2015-07-10T04:48:19-04:00">
+  <state datetime="2015-05-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-21"/>
+  </status>
+  <introduced datetime="2015-05-21"/>
+  <titles>
+    <title type="short" as="introduced">Bertie's Respect for National Cemeteries Act</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to ensure that the prohibition against interment or memorialization in the National Cemetery Administration or Arlington National Cemetery of persons committing Federal or State capital crimes is consistently carried out, to direct the Secretary of Veterans Affairs to disinter the remains of George E. Siple from Indiantown Gap National Cemetery, and for other purposes.</title>
+  </titles>
+  <sponsor id="412469"/>
+  <cosponsors>
+    <cosponsor id="412627" joined="2015-06-12"/>
+    <cosponsor id="412395" joined="2015-06-01"/>
+    <cosponsor id="412465" joined="2015-05-21"/>
+    <cosponsor id="412468" joined="2015-05-21"/>
+    <cosponsor id="412569" joined="2015-05-21"/>
+    <cosponsor id="412462" joined="2015-06-01"/>
+    <cosponsor id="412570" joined="2015-07-09"/>
+    <cosponsor id="409888" joined="2015-05-21"/>
+    <cosponsor id="412317" joined="2015-05-21"/>
+    <cosponsor id="412628" joined="2015-06-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-21" state="REFERRED">
+      <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-05-21">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2015-05-21">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2015-06-03">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H3766-3767"/>
+    </action>
+    <action datetime="2015-06-05">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR09" subcommittee="Disability Assistance and Memorial Affairs" name="House Veterans' Affairs"/>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <summary>5/21/2015--Introduced.
+Bertie's Respect for National Cemeteries Act
+
+This bill makes the appropriate federal official to take every reasonable action, including by searching public records, to ensure that a person who will be interred in a cemetery in the National Cemetery Administration or in Arlington National Cemetery is not ineligible for such interment by reason of having been convicted of a federal or state capital crime or a tier III sex offense.
+
+The requirement of the Alicia Dawn Koehl Respect for National Cemeteries Act for a written notice of a disqualifying felony conviction shall apply with respect to any interment or memorialization conducted, either before or after enactment of that Act.
+
+The Secretary of Veterans Affairs shall: (1) disinter the remains of George E. Siple from Indiantown Gap National Cemetery (Pennsylvania); (2) notify his next of kin of the impending disinterment; and (3) upon disinterment, relinquish the remains to the next of kin or, if the next of kin of record is unavailable, arrange for the appropriate disposition of the remains.</summary>
+</bill>

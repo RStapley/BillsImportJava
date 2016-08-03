@@ -1,0 +1,36 @@
+<bill session="114" type="h" number="3216" updated="2015-08-22T06:46:12-04:00">
+  <state datetime="2015-07-27">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-27"/>
+  </status>
+  <introduced datetime="2015-07-27"/>
+  <titles>
+    <title type="short" as="introduced">VET Act</title>
+    <title type="short" as="introduced">Veterans Emergency Treatment Act</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to clarify the emergency hospital care furnished by the Secretary of Veterans Affairs to certain veterans.</title>
+  </titles>
+  <sponsor id="412660"/>
+  <cosponsors>
+    <cosponsor id="400041" joined="2015-07-27"/>
+    <cosponsor id="400636" joined="2015-07-27"/>
+    <cosponsor id="400154" joined="2015-07-29"/>
+    <cosponsor id="412256" joined="2015-07-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-27">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1131"/>
+    </action>
+    <action datetime="2015-07-27" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+</bill>

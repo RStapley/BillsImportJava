@@ -1,0 +1,35 @@
+<bill session="114" type="h" number="3173" updated="2015-08-01T06:46:16-04:00">
+  <state datetime="2015-07-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-23"/>
+  </status>
+  <introduced datetime="2015-07-23"/>
+  <titles>
+    <title type="short" as="introduced">Sportsmen's Conservation and Outdoor Recreation Enhancement Act</title>
+    <title type="official" as="introduced">To promote conservation for the purpose of enhancing hunting, fishing and other outdoor recreational opportunities.</title>
+  </titles>
+  <sponsor id="412214"/>
+  <cosponsors>
+    <cosponsor id="412472" joined="2015-07-23"/>
+    <cosponsor id="400160" joined="2015-07-23"/>
+    <cosponsor id="400218" joined="2015-07-23"/>
+    <cosponsor id="400402" joined="2015-07-23"/>
+    <cosponsor id="400403" joined="2015-07-23"/>
+    <cosponsor id="412255" joined="2015-07-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-23" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1651"/>
+    <bill relation="unknown" session="114" type="h" number="2957"/>
+    <bill relation="unknown" session="114" type="s" number="405"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,26 @@
+<bill session="114" type="h" number="3176" updated="2015-08-01T06:46:17-04:00">
+  <state datetime="2015-07-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-23"/>
+  </status>
+  <introduced datetime="2015-07-23"/>
+  <titles>
+    <title type="short" as="introduced">Protecting our National Parks Act of 2015</title>
+    <title type="official" as="introduced">To amend title 18, United States Code, to establish a criminal violation for injuring or destroying property under the jurisdiction of the National Park Service, and for other purposes.</title>
+  </titles>
+  <sponsor id="412513"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-23" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+</bill>

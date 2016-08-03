@@ -1,0 +1,37 @@
+<bill session="114" type="s" number="526" updated="2015-03-18T04:48:35-04:00">
+  <state datetime="2015-02-12">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-12"/>
+  </status>
+  <introduced datetime="2015-02-12"/>
+  <titles>
+    <title type="short" as="introduced">Sunset of the 2001 Authorization for Use of Military Force Act</title>
+    <title type="official" as="introduced">A bill to sunset the 2001 Authorization for Use of Military Force after three years.</title>
+  </titles>
+  <sponsor id="400064"/>
+  <cosponsors>
+    <cosponsor id="412325" joined="2015-03-17"/>
+    <cosponsor id="412194" joined="2015-02-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-12" state="REFERRED">
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Congressional oversight"/>
+    <term name="Presidents and presidential powers"/>
+    <term name="Terrorism"/>
+    <term name="War and emergency powers"/>
+  </subjects>
+  <amendments/>
+  <summary>2/12/2015--Introduced.
+Sunset of the 2001 Authorization for Use of Military Force Act
+
+The Authorization for Use of Military Force (P.L. 107-40) terminates three years after the date of enactment of this Act, unless reauthorized.</summary>
+</bill>

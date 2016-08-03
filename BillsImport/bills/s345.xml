@@ -1,0 +1,31 @@
+<bill session="114" type="s" number="345" updated="2015-03-28T06:36:19-04:00">
+  <state datetime="2015-02-03">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-03"/>
+  </status>
+  <introduced datetime="2015-02-03"/>
+  <titles>
+    <title type="official" as="introduced">A bill to limit the level of premium subsidy provided by the Federal Crop Insurance Corporation to agricultural producers.</title>
+  </titles>
+  <sponsor id="412323"/>
+  <cosponsors>
+    <cosponsor id="400408" joined="2015-02-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-03" state="REFERRED">
+      <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural insurance"/>
+    <term name="Agricultural prices, subsidies, credit"/>
+  </subjects>
+  <amendments/>
+  <summary>2/3/2015--Introduced.
+This bill amends the Federal Crop Insurance Act to limit federal crop insurance premium subsidies provided to agricultural producers to $50,000. The limit applies to the total amount of premiums paid by the Federal Crop Insurance Corporation on behalf of a person or legal entity for all policies issued for a crop year.</summary>
+</bill>

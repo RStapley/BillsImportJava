@@ -1,0 +1,213 @@
+<bill session="114" type="h" number="1197" updated="2015-08-05T04:47:10-04:00">
+  <state datetime="2015-03-02">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-02"/>
+  </status>
+  <introduced datetime="2015-03-02"/>
+  <titles>
+    <title type="short" as="introduced">Accelerating the End of Breast Cancer Act of 2015</title>
+    <title type="official" as="introduced">To provide for the establishment of a Commission to Accelerate the End of Breast Cancer.</title>
+  </titles>
+  <sponsor id="412195"/>
+  <cosponsors>
+    <cosponsor id="412615" joined="2015-07-29"/>
+    <cosponsor id="412469" joined="2015-04-21"/>
+    <cosponsor id="412404" joined="2015-07-07"/>
+    <cosponsor id="412565" joined="2015-06-08"/>
+    <cosponsor id="400030" joined="2015-06-09"/>
+    <cosponsor id="412627" joined="2015-05-12"/>
+    <cosponsor id="400033" joined="2015-03-13"/>
+    <cosponsor id="412629" joined="2015-05-21"/>
+    <cosponsor id="400048" joined="2015-03-17"/>
+    <cosponsor id="412516" joined="2015-05-12"/>
+    <cosponsor id="412196" joined="2015-03-13"/>
+    <cosponsor id="400062" joined="2015-05-12"/>
+    <cosponsor id="400063" joined="2015-03-25"/>
+    <cosponsor id="412517" joined="2015-06-09"/>
+    <cosponsor id="412622" joined="2015-05-29"/>
+    <cosponsor id="412571" joined="2015-06-04"/>
+    <cosponsor id="400071" joined="2015-06-08"/>
+    <cosponsor id="412379" joined="2015-03-13"/>
+    <cosponsor id="412470" joined="2015-05-12"/>
+    <cosponsor id="412600" joined="2015-03-13"/>
+    <cosponsor id="412221" joined="2015-04-14"/>
+    <cosponsor id="400074" joined="2015-05-12"/>
+    <cosponsor id="412563" joined="2015-07-22"/>
+    <cosponsor id="412658" joined="2015-05-12"/>
+    <cosponsor id="412272" joined="2015-05-12"/>
+    <cosponsor id="400618" joined="2015-05-29"/>
+    <cosponsor id="412651" joined="2015-04-28"/>
+    <cosponsor id="400090" joined="2015-05-12"/>
+    <cosponsor id="412536" joined="2015-03-17"/>
+    <cosponsor id="400101" joined="2015-06-08"/>
+    <cosponsor id="400103" joined="2015-03-13"/>
+    <cosponsor id="412505" joined="2015-03-25"/>
+    <cosponsor id="412526" joined="2015-06-15"/>
+    <cosponsor id="412613" joined="2015-06-03"/>
+    <cosponsor id="412385" joined="2015-03-17"/>
+    <cosponsor id="412637" joined="2015-06-10"/>
+    <cosponsor id="412533" joined="2015-05-21"/>
+    <cosponsor id="412488" joined="2015-06-08"/>
+    <cosponsor id="412263" joined="2015-06-08"/>
+    <cosponsor id="412215" joined="2015-06-09"/>
+    <cosponsor id="412457" joined="2015-03-02"/>
+    <cosponsor id="412639" joined="2015-06-08"/>
+    <cosponsor id="400122" joined="2015-05-12"/>
+    <cosponsor id="400124" joined="2015-03-04"/>
+    <cosponsor id="412524" joined="2015-04-21"/>
+    <cosponsor id="412482" joined="2015-03-13"/>
+    <cosponsor id="400129" joined="2015-06-08"/>
+    <cosponsor id="400130" joined="2015-05-12"/>
+    <cosponsor id="400646" joined="2015-05-12"/>
+    <cosponsor id="412257" joined="2015-06-18"/>
+    <cosponsor id="412529" joined="2015-03-13"/>
+    <cosponsor id="400142" joined="2015-04-21"/>
+    <cosponsor id="412612" joined="2015-05-19"/>
+    <cosponsor id="412382" joined="2015-04-28"/>
+    <cosponsor id="412453" joined="2015-05-12"/>
+    <cosponsor id="400158" joined="2015-05-12"/>
+    <cosponsor id="412276" joined="2015-03-13"/>
+    <cosponsor id="400162" joined="2015-05-12"/>
+    <cosponsor id="412447" joined="2015-03-25"/>
+    <cosponsor id="412498" joined="2015-03-13"/>
+    <cosponsor id="412454" joined="2015-03-25"/>
+    <cosponsor id="400170" joined="2015-04-21"/>
+    <cosponsor id="412623" joined="2015-06-12"/>
+    <cosponsor id="400641" joined="2015-03-13"/>
+    <cosponsor id="412282" joined="2015-05-19"/>
+    <cosponsor id="400179" joined="2015-06-08"/>
+    <cosponsor id="400185" joined="2015-05-19"/>
+    <cosponsor id="412511" joined="2015-04-14"/>
+    <cosponsor id="412437" joined="2015-06-04"/>
+    <cosponsor id="400195" joined="2015-03-17"/>
+    <cosponsor id="412284" joined="2015-07-13"/>
+    <cosponsor id="412460" joined="2015-04-14"/>
+    <cosponsor id="412199" joined="2015-05-13"/>
+    <cosponsor id="412603" joined="2015-05-13"/>
+    <cosponsor id="412566" joined="2015-03-13"/>
+    <cosponsor id="412435" joined="2015-03-13"/>
+    <cosponsor id="412543" joined="2015-04-14"/>
+    <cosponsor id="412546" joined="2015-07-07"/>
+    <cosponsor id="400218" joined="2015-03-19"/>
+    <cosponsor id="400219" joined="2015-05-15"/>
+    <cosponsor id="400220" joined="2015-03-19"/>
+    <cosponsor id="412286" joined="2015-05-26"/>
+    <cosponsor id="412557" joined="2015-03-25"/>
+    <cosponsor id="412510" joined="2015-06-23"/>
+    <cosponsor id="412290" joined="2015-05-12"/>
+    <cosponsor id="400230" joined="2015-05-15"/>
+    <cosponsor id="400233" joined="2015-03-13"/>
+    <cosponsor id="400237" joined="2015-06-02"/>
+    <cosponsor id="400238" joined="2015-03-13"/>
+    <cosponsor id="400240" joined="2015-03-13"/>
+    <cosponsor id="412616" joined="2015-03-25"/>
+    <cosponsor id="400630" joined="2015-06-04"/>
+    <cosponsor id="412209" joined="2015-03-25"/>
+    <cosponsor id="400245" joined="2015-06-10"/>
+    <cosponsor id="412445" joined="2015-07-22"/>
+    <cosponsor id="412521" joined="2015-03-13"/>
+    <cosponsor id="400246" joined="2015-03-13"/>
+    <cosponsor id="412292" joined="2015-07-13"/>
+    <cosponsor id="412558" joined="2015-03-13"/>
+    <cosponsor id="412293" joined="2015-04-21"/>
+    <cosponsor id="400249" joined="2015-05-12"/>
+    <cosponsor id="412562" joined="2015-03-19"/>
+    <cosponsor id="400663" joined="2015-05-12"/>
+    <cosponsor id="400654" joined="2015-05-12"/>
+    <cosponsor id="400259" joined="2015-05-21"/>
+    <cosponsor id="400263" joined="2015-03-17"/>
+    <cosponsor id="412189" joined="2015-06-04"/>
+    <cosponsor id="412560" joined="2015-03-13"/>
+    <cosponsor id="400276" joined="2015-05-13"/>
+    <cosponsor id="400279" joined="2015-08-04"/>
+    <cosponsor id="400661" joined="2015-05-12"/>
+    <cosponsor id="412632" joined="2015-05-19"/>
+    <cosponsor id="412527" joined="2015-05-01"/>
+    <cosponsor id="400290" joined="2015-05-12"/>
+    <cosponsor id="400291" joined="2015-05-19"/>
+    <cosponsor id="408211" joined="2015-03-19"/>
+    <cosponsor id="412575" joined="2015-07-08"/>
+    <cosponsor id="412303" joined="2015-03-17"/>
+    <cosponsor id="412506" joined="2015-04-21"/>
+    <cosponsor id="412523" joined="2015-03-17"/>
+    <cosponsor id="400316" joined="2015-04-28"/>
+    <cosponsor id="412307" joined="2015-03-13"/>
+    <cosponsor id="412551" joined="2015-03-13"/>
+    <cosponsor id="412585" joined="2015-03-19"/>
+    <cosponsor id="412308" joined="2015-04-14"/>
+    <cosponsor id="412309" joined="2015-06-08"/>
+    <cosponsor id="412331" joined="2015-06-11"/>
+    <cosponsor id="400333" joined="2015-03-13"/>
+    <cosponsor id="412393" joined="2015-07-29"/>
+    <cosponsor id="412647" joined="2015-05-29"/>
+    <cosponsor id="412432" joined="2015-05-19"/>
+    <cosponsor id="412483" joined="2015-05-21"/>
+    <cosponsor id="412411" joined="2015-05-12"/>
+    <cosponsor id="400347" joined="2015-05-12"/>
+    <cosponsor id="412519" joined="2015-04-28"/>
+    <cosponsor id="400350" joined="2015-03-17"/>
+    <cosponsor id="400352" joined="2015-03-13"/>
+    <cosponsor id="400356" joined="2015-05-12"/>
+    <cosponsor id="412212" joined="2015-03-13"/>
+    <cosponsor id="400360" joined="2015-06-08"/>
+    <cosponsor id="400361" joined="2015-04-21"/>
+    <cosponsor id="412315" joined="2015-04-28"/>
+    <cosponsor id="400363" joined="2015-06-08"/>
+    <cosponsor id="400365" joined="2015-03-17"/>
+    <cosponsor id="412509" joined="2015-05-12"/>
+    <cosponsor id="400378" joined="2015-03-25"/>
+    <cosponsor id="400379" joined="2015-03-17"/>
+    <cosponsor id="400380" joined="2015-05-01"/>
+    <cosponsor id="400381" joined="2015-04-28"/>
+    <cosponsor id="412259" joined="2015-03-19"/>
+    <cosponsor id="412648" joined="2015-04-21"/>
+    <cosponsor id="412514" joined="2015-05-12"/>
+    <cosponsor id="412520" joined="2015-03-17"/>
+    <cosponsor id="400403" joined="2015-06-02"/>
+    <cosponsor id="412319" joined="2015-05-12"/>
+    <cosponsor id="412617" joined="2015-05-13"/>
+    <cosponsor id="412636" joined="2015-05-13"/>
+    <cosponsor id="412254" joined="2015-03-13"/>
+    <cosponsor id="400415" joined="2015-05-29"/>
+    <cosponsor id="412522" joined="2015-06-09"/>
+    <cosponsor id="412548" joined="2015-03-13"/>
+    <cosponsor id="412214" joined="2015-03-17"/>
+    <cosponsor id="412239" joined="2015-05-29"/>
+    <cosponsor id="412412" joined="2015-05-12"/>
+    <cosponsor id="412255" joined="2015-06-25"/>
+    <cosponsor id="412628" joined="2015-06-12"/>
+    <cosponsor id="400440" joined="2015-04-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-02" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-03-06">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Advisory bodies"/>
+    <term name="Cancer"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="Medical research"/>
+    <term name="Women's health"/>
+  </subjects>
+  <amendments/>
+  <summary>3/2/2015--Introduced.
+Accelerating the End of Breast Cancer Act of 2015
+
+Directs the President to establish the Commission to Accelerate the End of Breast Cancer to help end breast cancer by January 1, 2020.
+
+Directs the Commission to: (1) identify opportunities and ideas within government and the private sector that are key components in achieving the end of breast cancer and which have been overlooked, yet are ripe for collaboration and investment; (2) recommend projects to leverage such opportunities and ideas in the areas of the primary prevention of breast cancer and the causes and prevention of breast cancer metastasis; and (3) ensure that its activities are coordinated with, and do not duplicate the efforts of, programs and laboratories of other government agencies.
+
+Directs the President to enter into an agreement with the Institute of Medicine for an evaluation of the Commission's progress.
+
+Terminates the Commission on June 1, 2020.</summary>
+</bill>

@@ -1,0 +1,59 @@
+<bill session="114" type="s" number="743" updated="2015-07-31T04:47:36-04:00">
+  <state datetime="2015-03-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-16"/>
+  </status>
+  <introduced datetime="2015-03-16"/>
+  <titles>
+    <title type="short" as="introduced">Honor America's Guard-Reserve Retirees Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend title 38, United States Code, to recognize the service in the reserve components of the Armed Forces of certain persons by honoring them with status as veterans under law, and for other purposes.</title>
+  </titles>
+  <sponsor id="400040"/>
+  <cosponsors>
+    <cosponsor id="400061" joined="2015-04-14"/>
+    <cosponsor id="300023" joined="2015-04-15"/>
+    <cosponsor id="412390" joined="2015-04-16"/>
+    <cosponsor id="412205" joined="2015-03-16"/>
+    <cosponsor id="412378" joined="2015-04-14"/>
+    <cosponsor id="412223" joined="2015-04-16"/>
+    <cosponsor id="300048" joined="2015-04-13"/>
+    <cosponsor id="412218" joined="2015-04-13"/>
+    <cosponsor id="412242" joined="2015-04-14"/>
+    <cosponsor id="400272" joined="2015-07-30"/>
+    <cosponsor id="300073" joined="2015-05-19"/>
+    <cosponsor id="300075" joined="2015-07-16"/>
+    <cosponsor id="412305" joined="2015-04-16"/>
+    <cosponsor id="300083" joined="2015-04-15"/>
+    <cosponsor id="412669" joined="2015-07-30"/>
+    <cosponsor id="412507" joined="2015-07-30"/>
+    <cosponsor id="300087" joined="2015-07-09"/>
+    <cosponsor id="300093" joined="2015-04-21"/>
+    <cosponsor id="412244" joined="2015-04-13"/>
+    <cosponsor id="400408" joined="2015-06-24"/>
+    <cosponsor id="300100" joined="2015-04-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-16" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1384"/>
+    <bill relation="unknown" session="114" type="h" number="1735"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="National Guard and reserves"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>3/16/2015--Introduced.
+Honor America's Guard-Reserve Retirees Act of 2015
+
+Honors as a veteran any person who is entitled to retired pay for nonregular (reserve) service or who would be so entitled, but for age.
+
+Provides that such person shall not be entitled to any benefit by reason of such recognition.</summary>
+</bill>

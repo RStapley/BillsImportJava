@@ -1,0 +1,51 @@
+<bill session="114" type="s" number="564" updated="2015-08-06T04:48:27-04:00">
+  <state datetime="2015-02-25">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-25"/>
+  </status>
+  <introduced datetime="2015-02-25"/>
+  <titles>
+    <title type="short" as="introduced">Veterans Hearing Aid Access and Assistance Act</title>
+    <title type="official" as="introduced">A bill to amend title 38, United States Code, to include licensed hearing aid specialists as eligible for appointment in the Veterans Health Administration of the Department of Veterans Affairs, and for other purposes.</title>
+  </titles>
+  <sponsor id="400284"/>
+  <cosponsors>
+    <cosponsor id="400054" joined="2015-08-05"/>
+    <cosponsor id="412269" joined="2015-04-13"/>
+    <cosponsor id="412378" joined="2015-07-07"/>
+    <cosponsor id="412406" joined="2015-07-27"/>
+    <cosponsor id="412322" joined="2015-07-07"/>
+    <cosponsor id="300087" joined="2015-04-28"/>
+    <cosponsor id="412244" joined="2015-02-25"/>
+    <cosponsor id="412668" joined="2015-04-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-25" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="353"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Veterans Affairs"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Government information and archives"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health personnel"/>
+    <term name="Hearing, speech, and vision care"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>2/25/2015--Introduced.
+Veterans Hearing Aid Access and Assistance Act
+
+Authorizes the Secretary of Veterans Affairs (VA) to appoint licensed hearing aid specialists in the Veterans Health Administration.
+
+Requires the Secretary to submit an annual report on: (1) the timely access of veterans to VA hearing health services, and (2) VA contracting policies regarding the provision of hearing health services to veterans in non-VA facilities.</summary>
+</bill>

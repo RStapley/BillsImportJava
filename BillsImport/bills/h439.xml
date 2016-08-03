@@ -1,0 +1,55 @@
+<bill session="114" type="h" number="439" updated="2015-02-21T06:19:59-05:00">
+  <state datetime="2015-01-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-21"/>
+  </status>
+  <introduced datetime="2015-01-21"/>
+  <titles>
+    <title type="short" as="introduced">Illegal Entry Accountability Act of 2015</title>
+    <title type="official" as="introduced">To suspend foreign assistance to certain countries related to unlawful migration.</title>
+  </titles>
+  <sponsor id="412574"/>
+  <cosponsors>
+    <cosponsor id="412655" joined="2015-01-21"/>
+    <cosponsor id="412395" joined="2015-01-21"/>
+    <cosponsor id="400052" joined="2015-01-30"/>
+    <cosponsor id="400071" joined="2015-01-21"/>
+    <cosponsor id="412604" joined="2015-01-21"/>
+    <cosponsor id="412477" joined="2015-01-21"/>
+    <cosponsor id="412457" joined="2015-01-21"/>
+    <cosponsor id="412503" joined="2015-01-21"/>
+    <cosponsor id="412540" joined="2015-01-30"/>
+    <cosponsor id="412302" joined="2015-02-12"/>
+    <cosponsor id="412572" joined="2015-01-21"/>
+    <cosponsor id="412525" joined="2015-01-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-21" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Border security and unlawful immigration"/>
+    <term name="Congressional oversight"/>
+    <term name="Drug trafficking and controlled substances"/>
+    <term name="El Salvador"/>
+    <term name="Foreign aid and international relief"/>
+    <term name="Guatemala"/>
+    <term name="Honduras"/>
+    <term name="Latin America"/>
+    <term name="Mexico"/>
+    <term name="Sanctions"/>
+  </subjects>
+  <amendments/>
+  <summary>1/21/2015--Introduced.
+Illegal Entry Accountability Act of 2015
+
+ Directs the Secretary of State to suspend all U.S. foreign assistance to Mexico, Honduras, Guatemala, and El Salvador, except for assistance under the international narcotic control law enforcement program.
+
+Allows reinstatement of assistance only if Congress determines that Mexico, Honduras, Guatemala, and El Salvador have taken sufficient action to mitigate unlawful U.S.-Mexico border crossings by their respective citizens.</summary>
+</bill>

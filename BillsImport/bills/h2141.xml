@@ -1,0 +1,54 @@
+<bill session="114" type="h" number="2141" updated="2015-08-05T04:47:18-04:00">
+  <state datetime="2015-04-30">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-30"/>
+  </status>
+  <introduced datetime="2015-04-30"/>
+  <titles>
+    <title type="short" as="introduced">International Insurance Standards Transparency and Policyholder Protection Act of 2015</title>
+    <title type="official" as="introduced">To require consultation with Congress, insurers, and consumers with respect to domestic insurance and international insurance standards, regulations, or frameworks, and for other purposes.</title>
+  </titles>
+  <sponsor id="412488"/>
+  <cosponsors>
+    <cosponsor id="412500" joined="2015-05-18"/>
+    <cosponsor id="412479" joined="2015-07-10"/>
+    <cosponsor id="400145" joined="2015-04-30"/>
+    <cosponsor id="412444" joined="2015-06-16"/>
+    <cosponsor id="412437" joined="2015-04-30"/>
+    <cosponsor id="412422" joined="2015-05-18"/>
+    <cosponsor id="400441" joined="2015-04-30"/>
+    <cosponsor id="400652" joined="2015-08-04"/>
+    <cosponsor id="412489" joined="2015-06-17"/>
+    <cosponsor id="412461" joined="2015-07-13"/>
+    <cosponsor id="412670" joined="2015-07-15"/>
+    <cosponsor id="400627" joined="2015-04-30"/>
+    <cosponsor id="412628" joined="2015-07-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-30" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Bank accounts, deposits, capital"/>
+    <term name="Banking and financial institutions regulation"/>
+    <term name="Congressional oversight"/>
+    <term name="Insurance industry and regulation"/>
+    <term name="International organizations and cooperation"/>
+    <term name="Trade agreements and negotiations"/>
+  </subjects>
+  <amendments/>
+  <summary>4/30/2015--Introduced.
+International Insurance Standards Transparency and Policyholder Protection Act of 2015 
+
+This bill prescribes negotiating objectives for international insurance regulatory frameworks, including: (1) standards, requirements, and rules focused solely upon protection of policy holders, as reflected in the U.S. solvency regime; and (2) a negotiated international insurance regulatory framework that recognizes U.S. prudential measures as equivalent to foreign measures.
+
+U.S. representatives are prohibited from agreeing to, accepting or establishing , any international standard applicable to:
+
+ insurers, capital standards, and rules designed for banks; any insurer that has not been designated a systemically important financial institution under U.S. law or a global systemically important insurer by the Financial Stability Oversight Council, capital standards and rules designed for systemically important bank or non-bank financial institutions, and any capital standard or rule governing U.S. insurance entities (except entities designated under the Dodd-Frank Wall Street Reform and Consumer Protection Act) unless it is designed solely to help ensure that sufficient funds are available to pay claims to an insurer's policyholders in the event of the entity's liquidation. The President must fulfill specified congressional consultation and public notice requirements with respect to any international insurance regulatory framework.</summary>
+</bill>

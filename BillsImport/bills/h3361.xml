@@ -1,0 +1,31 @@
+<bill session="114" type="h" number="3361" updated="2015-08-15T06:47:29-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">Department of Homeland Security Insider Threat and Mitigation Act of 2015</title>
+    <title type="official" as="introduced">To amend the Homeland Security Act of 2002 to establish the Insider Threat Program, and for other purposes.</title>
+  </titles>
+  <sponsor id="400219"/>
+  <cosponsors>
+    <cosponsor id="412469" joined="2015-07-29"/>
+    <cosponsor id="412672" joined="2015-07-29"/>
+    <cosponsor id="400641" joined="2015-07-29"/>
+    <cosponsor id="412649" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the House Committee on Homeland Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Emergency management"/>
+  </subjects>
+  <amendments/>
+</bill>

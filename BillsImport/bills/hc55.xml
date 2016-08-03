@@ -1,0 +1,68 @@
+<bill session="114" type="hc" number="55" updated="2015-08-15T06:49:09-04:00">
+  <state datetime="2015-06-17T16:07:00-04:00">FAIL:ORIGINATING:HOUSE</state>
+  <status>
+    <unknown datetime="2015-06-17T16:07:00-04:00"/>
+  </status>
+  <introduced datetime="2015-06-04"/>
+  <titles>
+    <title type="official" as="introduced">Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove United States Armed Forces deployed to Iraq or Syria on or after August 7, 2014, other than Armed Forces required to protect United States diplomatic facilities and personnel, from Iraq and Syria.</title>
+  </titles>
+  <sponsor id="400263"/>
+  <cosponsors>
+    <cosponsor id="412498" joined="2015-06-17"/>
+    <cosponsor id="400209" joined="2015-06-04"/>
+    <cosponsor id="400237" joined="2015-06-04"/>
+    <cosponsor id="400333" joined="2015-06-09"/>
+    <cosponsor id="400366" joined="2015-06-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-04">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H3906-3908, H3908-3909"/>
+    </action>
+    <action datetime="2015-06-04" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2015-06-16T12:28:00-04:00">
+      <text>ORDER OF BUSINESS - Mr. Collins (GA) asked unanimous consent that it be in order at any time to consider H. Con. Res. 55 in the House if called up by the chair of the Committee on Foreign Affairs or his designee; that the concurrent resolution be considered as read; and that the previous question be considered as ordered on the concurrent resolution to adoption without intervening motion or demand for division of the question, except for 2 hours of debate equally divided between the majority and minority. Agreed to without objection.</text>
+    </action>
+    <action datetime="2015-06-17T13:25:00-04:00">
+      <text>Consideration initiated pursuant to a previous order.</text>
+    </action>
+    <action datetime="2015-06-17T13:27:00-04:00">
+      <text>Considered pursuant to a previous order.</text>
+      <reference ref="CR H4455-4471" label="consideration"/>
+      <reference ref="CR H4455-4456" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2015-06-17T13:27:00-04:00">
+      <text>DEBATE - The House proceeded with two hours of debate on H. Con. Res. 55.</text>
+    </action>
+    <action datetime="2015-06-17T15:29:00-04:00">
+      <text>The previous question was ordered pursuant to a previous  order of the House.</text>
+      <reference ref="CR H4470" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="370" datetime="2015-06-17T16:07:00-04:00" where="h" result="fail" state="FAIL:ORIGINATING:HOUSE">
+      <text>On agreeing to the resolution Failed by the Yeas and Nays: 139 - 288, 1 Present (Roll no. 370).</text>
+    </vote>
+    <action datetime="2015-06-17T16:07:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="hj" number="57"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Conflicts and wars"/>
+    <term name="Iraq"/>
+    <term name="Middle East"/>
+    <term name="Military operations and strategy"/>
+    <term name="Syria"/>
+  </subjects>
+  <amendments/>
+  <summary>6/4/2015--Introduced.
+Directs the President to remove U.S. Armed Forces deployed to Iraq or Syria on or after August 7, 2014, other than Armed Forces required to protect U.S. diplomatic facilities and personnel, from Iraq and Syria: (1) no later than 30 days after this concurrent resolution is adopted; or (2) if the President determines that it is not safe to remove the Armed Forces before that date, then no later than December 31, 2015, or such earlier date as the President determines that the Armed Forces can safely be removed.</summary>
+</bill>

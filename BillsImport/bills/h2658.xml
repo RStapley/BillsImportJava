@@ -1,0 +1,62 @@
+<bill session="114" type="h" number="2658" updated="2015-08-22T06:41:32-04:00">
+  <state datetime="2015-06-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-04"/>
+  </status>
+  <introduced datetime="2015-06-04"/>
+  <titles>
+    <title type="short" as="introduced">Protecting Volunteer Firefighters and Emergency Responders Act</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to ensure that emergency services volunteers are not taken into account as employees under the shared responsibility requirements contained in the Patient Protection and Affordable Care Act.</title>
+  </titles>
+  <sponsor id="412469"/>
+  <cosponsors>
+    <cosponsor id="412630" joined="2015-07-13"/>
+    <cosponsor id="412407" joined="2015-06-15"/>
+    <cosponsor id="412272" joined="2015-06-16"/>
+    <cosponsor id="412651" joined="2015-08-04"/>
+    <cosponsor id="400648" joined="2015-06-16"/>
+    <cosponsor id="400646" joined="2015-06-17"/>
+    <cosponsor id="400142" joined="2015-06-23"/>
+    <cosponsor id="412280" joined="2015-06-16"/>
+    <cosponsor id="400195" joined="2015-07-08"/>
+    <cosponsor id="400209" joined="2015-06-16"/>
+    <cosponsor id="412290" joined="2015-06-16"/>
+    <cosponsor id="412256" joined="2015-06-25"/>
+    <cosponsor id="400244" joined="2015-07-16"/>
+    <cosponsor id="412540" joined="2015-06-23"/>
+    <cosponsor id="412302" joined="2015-06-23"/>
+    <cosponsor id="412317" joined="2015-06-16"/>
+    <cosponsor id="400415" joined="2015-06-17"/>
+    <cosponsor id="400431" joined="2015-06-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-04" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="33"/>
+    <bill relation="identical" session="114" type="h" number="1191"/>
+    <bill relation="identical" session="114" type="s" number="420"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Comprehensive health care"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="First responders and emergency personnel"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Sales and excise taxes"/>
+    <term name="Social work, volunteer service, charitable organizations"/>
+  </subjects>
+  <amendments/>
+  <summary>6/4/2015--Introduced.
+Protecting Volunteer Firefighters and Emergency Responders Act 
+
+This bill amends the Internal Revenue Code to exclude services rendered by bona-fide volunteers providing firefighting and prevention services, emergency medical services, or ambulance services to a state or local government or a tax-exempt charitable organization from the category of services usually rendered by an employee of an applicable large employer subject to the mandate to provide minimum essential health care coverage under the Patient Protection and Affordable Care Act (PPACA), thus exempting such employers from PPACA requirements with respect to such volunteers.
+
+The bill defines "bona fide volunteer" as an employee of any government entity and any tax-exempt charitable organization whose only compensation is in the form of: (1) reimbursement for (or reasonable allowance for) reasonable expenses incurred in the performance of volunteer services, or (2) reasonable benefits (including length-of-service awards) and nominal fees customarily paid by similar entities for the services of volunteers.</summary>
+</bill>

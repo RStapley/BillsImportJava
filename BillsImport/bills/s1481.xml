@@ -1,0 +1,35 @@
+<bill session="114" type="s" number="1481" updated="2015-06-13T06:57:09-04:00">
+  <state datetime="2015-06-02">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-02"/>
+  </status>
+  <introduced datetime="2015-06-02"/>
+  <titles>
+    <title type="short" as="introduced">Urban Flooding Awareness Act of 2015</title>
+    <title type="official" as="introduced">A bill to direct the Administrator of the Federal Emergency Management Agency to enter into an agreement with the National Academy of Sciences to conduct a study on urban flooding, and for other purposes.</title>
+  </titles>
+  <sponsor id="300038"/>
+  <cosponsors>
+    <cosponsor id="412247" joined="2015-06-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-02" state="REFERRED">
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+      <reference ref="CR S3458-3459" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2015-06-03">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S3674"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="2616"/>
+  </relatedbills>
+  <subjects>
+    <term name="Emergency management"/>
+  </subjects>
+  <amendments/>
+</bill>

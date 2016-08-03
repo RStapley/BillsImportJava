@@ -1,0 +1,35 @@
+<bill session="114" type="s" number="562" updated="2015-05-20T04:49:53-04:00">
+  <state datetime="2015-02-25">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-25"/>
+  </status>
+  <introduced datetime="2015-02-25"/>
+  <titles>
+    <title type="short" as="introduced">Geothermal Exploration Opportunities Act of 2015</title>
+    <title type="official" as="introduced">A bill to promote exploration for geothermal resources, and for other purposes.</title>
+  </titles>
+  <sponsor id="412218"/>
+  <cosponsors>
+    <cosponsor id="412322" joined="2015-02-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-25" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2015-05-19">
+      <text>Committee on Energy and Natural Resources. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Alternative and renewable resources"/>
+    <term name="Environmental assessment, monitoring, research"/>
+    <term name="Forests, forestry, trees"/>
+    <term name="Land use and conservation"/>
+  </subjects>
+  <amendments/>
+</bill>

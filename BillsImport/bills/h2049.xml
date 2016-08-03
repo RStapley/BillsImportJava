@@ -1,0 +1,32 @@
+<bill session="114" type="h" number="2049" updated="2015-06-13T06:35:38-04:00">
+  <state datetime="2015-04-28">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-28"/>
+  </status>
+  <introduced datetime="2015-04-28"/>
+  <titles>
+    <title type="short" as="introduced">Keeping Foreign Money Out of Politics Act of 2015</title>
+    <title type="official" as="introduced">To amend the Federal Election Campaign Act of 1971 to prohibit foreign nationals from making contributions or donations in connection with State and local ballot initiatives and referenda.</title>
+  </titles>
+  <sponsor id="412385"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-04-28" state="REFERRED">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Elections, voting, political campaign regulation"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+  <summary>4/28/2015--Introduced.
+Keeping Foreign Money Out of Politics Act of 2015
+
+Amends the Federal Election Campaign Act of 1971 to prohibit foreign nationals from making contributions or donations in connection with state and local ballot initiatives and referenda.</summary>
+</bill>

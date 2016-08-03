@@ -1,0 +1,51 @@
+<bill session="114" type="sr" number="26" updated="2015-02-12T04:47:29-05:00">
+  <state datetime="2015-01-13">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-13"/>
+  </status>
+  <introduced datetime="2015-01-13"/>
+  <titles>
+    <title type="official" as="introduced">A resolution commending Pope Francis for his leadership in helping to secure the release of Alan Gross and for working with the Governments of the United States and Cuba to achieve a more positive relationship.</title>
+  </titles>
+  <sponsor id="300038"/>
+  <cosponsors>
+    <cosponsor id="300011" joined="2015-02-11"/>
+    <cosponsor id="400050" joined="2015-01-13"/>
+    <cosponsor id="400064" joined="2015-01-13"/>
+    <cosponsor id="300025" joined="2015-01-13"/>
+    <cosponsor id="300041" joined="2015-01-13"/>
+    <cosponsor id="400134" joined="2015-01-13"/>
+    <cosponsor id="412582" joined="2015-01-13"/>
+    <cosponsor id="300065" joined="2015-01-13"/>
+    <cosponsor id="300073" joined="2015-01-13"/>
+    <cosponsor id="400413" joined="2015-01-13"/>
+    <cosponsor id="412247" joined="2015-01-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-13" state="REFERRED">
+      <text>Referred to the Committee on Foreign Relations.</text>
+      <reference ref="CR S209-210" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Caribbean area"/>
+    <term name="Congressional tributes"/>
+    <term name="Cuba"/>
+    <term name="Detention of persons"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="Latin America"/>
+    <term name="Religion"/>
+  </subjects>
+  <amendments/>
+  <summary>1/13/2015--Introduced.
+Extends the Senate's gratitude to Pope Francis for his extraordinary efforts in helping to secure the release of Alan Gross.
+
+Commends His Holiness for his role in encouraging an improved U.S.-Cuba relationship.
+
+Welcomes the return of Alan Gross to the United States.</summary>
+</bill>

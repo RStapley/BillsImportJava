@@ -1,0 +1,26 @@
+<bill session="114" type="h" number="3267" updated="2015-08-15T06:46:42-04:00">
+  <state datetime="2015-07-28">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-28"/>
+  </status>
+  <introduced datetime="2015-07-28"/>
+  <titles>
+    <title type="short" as="introduced">Paycheck Relief Act of 2015</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to reduce the rate of payroll and self-employment taxes, and for other purposes.</title>
+  </titles>
+  <sponsor id="412578"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-28" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+</bill>

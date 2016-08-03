@@ -1,0 +1,49 @@
+<bill session="114" type="h" number="1582" updated="2015-07-11T06:31:54-04:00">
+  <state datetime="2015-03-24">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-24"/>
+  </status>
+  <introduced datetime="2015-03-24"/>
+  <titles>
+    <title type="short" as="introduced">Forest Legacy Management Flexibility Act</title>
+    <title type="official" as="introduced">To amend the Forest Legacy Program of the Cooperative Forestry Assistance Act of 1978 to authorize States to allow certain entities to acquire, hold, and manage conservation easements under the program.</title>
+  </titles>
+  <sponsor id="412453"/>
+  <cosponsors>
+    <cosponsor id="400618" joined="2015-03-24"/>
+    <cosponsor id="400646" joined="2015-03-24"/>
+    <cosponsor id="412382" joined="2015-03-24"/>
+    <cosponsor id="412511" joined="2015-03-24"/>
+    <cosponsor id="412557" joined="2015-03-24"/>
+    <cosponsor id="412209" joined="2015-03-24"/>
+    <cosponsor id="412521" joined="2015-03-24"/>
+    <cosponsor id="412293" joined="2015-03-24"/>
+    <cosponsor id="412294" joined="2015-03-24"/>
+    <cosponsor id="412562" joined="2015-03-24"/>
+    <cosponsor id="400263" joined="2015-03-24"/>
+    <cosponsor id="400347" joined="2015-03-24"/>
+    <cosponsor id="412315" joined="2015-03-24"/>
+    <cosponsor id="412319" joined="2015-03-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-24" state="REFERRED">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+    <action datetime="2015-04-08">
+      <text>Referred to the Subcommittee on Conservation and Forestry.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee activity="Referral" code="HSAG15" subcommittee="Conservation and Forestry" name="House Agriculture"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+  <summary>3/24/2015--Introduced.
+Forest Legacy Management Flexibility Act 
+
+This bill amends the Cooperative Forestry Assistance Act of 1978 to permit states to allow qualified (tax-exempt) organizations, as defined in the Internal Revenue Code of 1986, to acquire, hold, and manage conservation easements using funds provided to the state under the Forest Legacy Program. The qualified organizations must be organized for specified conservation purposes.</summary>
+</bill>

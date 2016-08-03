@@ -1,0 +1,61 @@
+<bill session="114" type="h" number="1986" updated="2015-07-23T04:48:25-04:00">
+  <state datetime="2015-04-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-23"/>
+  </status>
+  <introduced datetime="2015-04-23"/>
+  <titles>
+    <title type="short" as="introduced">Stop EPA Overregulation of Rural Americans</title>
+    <title type="official" as="introduced">To repeal the Environmental Protection Agency's most recent rule for new residential wood heaters.</title>
+  </titles>
+  <sponsor id="412641"/>
+  <cosponsors>
+    <cosponsor id="412625" joined="2015-05-20"/>
+    <cosponsor id="412436" joined="2015-04-28"/>
+    <cosponsor id="412635" joined="2015-04-23"/>
+    <cosponsor id="412627" joined="2015-04-29"/>
+    <cosponsor id="412488" joined="2015-04-28"/>
+    <cosponsor id="412457" joined="2015-06-15"/>
+    <cosponsor id="412397" joined="2015-05-22"/>
+    <cosponsor id="400158" joined="2015-04-23"/>
+    <cosponsor id="412661" joined="2015-04-23"/>
+    <cosponsor id="412444" joined="2015-04-23"/>
+    <cosponsor id="400175" joined="2015-06-02"/>
+    <cosponsor id="400196" joined="2015-04-29"/>
+    <cosponsor id="400209" joined="2015-04-23"/>
+    <cosponsor id="412510" joined="2015-04-28"/>
+    <cosponsor id="412256" joined="2015-06-03"/>
+    <cosponsor id="400644" joined="2015-05-12"/>
+    <cosponsor id="412552" joined="2015-04-23"/>
+    <cosponsor id="412540" joined="2015-05-29"/>
+    <cosponsor id="400276" joined="2015-04-23"/>
+    <cosponsor id="412489" joined="2015-04-23"/>
+    <cosponsor id="400365" joined="2015-04-23"/>
+    <cosponsor id="412596" joined="2015-05-21"/>
+    <cosponsor id="412670" joined="2015-04-23"/>
+    <cosponsor id="412610" joined="2015-07-08"/>
+    <cosponsor id="412640" joined="2015-07-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-23" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-04-24">
+      <text>Referred to the Subcommittee on Energy and Power.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Air quality"/>
+    <term name="Environmental Protection Agency (EPA)"/>
+    <term name="Environmental regulatory procedures"/>
+    <term name="Lighting and heating"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,45 @@
+<bill session="114" type="s" number="1333" updated="2015-08-01T07:03:19-04:00">
+  <state datetime="2015-05-13">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-13"/>
+  </status>
+  <introduced datetime="2015-05-13"/>
+  <titles>
+    <title type="short" as="introduced">Therapeutic Hemp Medical Access Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend the Controlled Substances Act to exclude cannabidiol and cannabidiol-rich plants from the definition of marihuana, and for other purposes.</title>
+  </titles>
+  <sponsor id="412406"/>
+  <cosponsors>
+    <cosponsor id="300002" joined="2015-06-04"/>
+    <cosponsor id="400013" joined="2015-07-09"/>
+    <cosponsor id="412330" joined="2015-05-13"/>
+    <cosponsor id="300052" joined="2015-05-13"/>
+    <cosponsor id="400194" joined="2015-05-13"/>
+    <cosponsor id="412496" joined="2015-07-07"/>
+    <cosponsor id="412325" joined="2015-05-13"/>
+    <cosponsor id="300100" joined="2015-05-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-13" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1635"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+  </subjects>
+  <amendments/>
+  <summary>5/13/2015--Introduced.
+Therapeutic Hemp Medical Access Act of 2015
+
+ Amends the Controlled Substances Act to exclude cannabidiol and cannabidiol-rich plants: (1) from the definition of "marihuana," and (2) from treatment as a controlled substance under such Act.
+
+Defines: (1) "cannabidiol-rich plant" to mean the plant Cannabis sativa L. and any part of such plant with a tetrahydrocannabinol concentration of not more than 0.3% on a dry weight basis; (2) "cannabidiol" to mean the substance cannabidiol, as derived from a cannabidiol-rich plant; and (3) "tetrahydrocannabinol concentration" to mean the percent of the delta-9 tetrahydrocannabinol content per dry weight of any part of the plant Cannabis sativa L. or per volume of weight of marihuana product, or the combined percent of the delta-9 tetrahydrocannabinol and tetrahydrocannabinolic acid in any part of the plant Cannabis sativa L., regardless of moisture content.
+
+Declares that nothing in this Act shall be construed to restrict any activities related to the use, production, or distribution of marihuana in a state in which such activities are legal under state law.</summary>
+</bill>

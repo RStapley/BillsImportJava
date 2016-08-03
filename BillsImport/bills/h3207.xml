@@ -1,0 +1,35 @@
+<bill session="114" type="h" number="3207" updated="2015-08-22T04:47:14-04:00">
+  <state datetime="2015-07-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-23"/>
+  </status>
+  <introduced datetime="2015-07-23"/>
+  <titles>
+    <title type="short" as="introduced">LIFE Act</title>
+    <title type="short" as="introduced">Promoting Healthier Lifelong Improvements in Food and Exercise Act of 2015</title>
+    <title type="official" as="introduced">To amend the Public Health Service Act to provide for a national program to conduct and support activities toward the goal of significantly reducing the number of cases of overweight and obesity among individuals in the United States.</title>
+  </titles>
+  <sponsor id="400295"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-23">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1117-1118"/>
+    </action>
+    <action datetime="2015-07-23" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-07-24">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+</bill>

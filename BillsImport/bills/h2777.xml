@@ -1,0 +1,33 @@
+<bill session="114" type="h" number="2777" updated="2015-07-16T04:48:18-04:00">
+  <state datetime="2015-06-15">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-15"/>
+  </status>
+  <introduced datetime="2015-06-15"/>
+  <titles>
+    <title type="short" as="introduced">Social Security Integrity Act of 2015</title>
+    <title type="official" as="introduced">To direct the Commissioner of Social Security to implement certain record keeping recommendations, and for other purposes.</title>
+  </titles>
+  <sponsor id="400220"/>
+  <cosponsors>
+    <cosponsor id="412627" joined="2015-07-07"/>
+    <cosponsor id="412302" joined="2015-07-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-15" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+  <summary>6/15/2015--Introduced.
+Social Security Integrity Act of 2015
+
+This bill directs the Commissioner of Social Security to implement all of the recommendations described in the memorandum from the Office of the Inspector General of the Social Security Administration entitled "Numberholders Age 112 or Older Who Did Not Have a Death Entry on the Numident (A-06-14-34030)" and dated March 4, 2015.</summary>
+</bill>

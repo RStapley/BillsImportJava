@@ -1,0 +1,33 @@
+<bill session="114" type="hr" number="234" updated="2015-06-03T04:46:33-04:00">
+  <state datetime="2015-04-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-29"/>
+  </status>
+  <introduced datetime="2015-04-29"/>
+  <titles>
+    <title type="official" as="introduced">Expressing the sense of the House of Representatives that telephone service must be improved in rural areas of the United States and that no entity may unreasonably discriminate against telephone users in those areas.</title>
+  </titles>
+  <sponsor id="412256"/>
+  <cosponsors>
+    <cosponsor id="412239" joined="2015-04-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-29" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-05-01">
+      <text>Referred to the Subcommittee on Communications and Technology.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF16" subcommittee="Communications and Technology" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <summary>4/29/2015--Introduced.
+Expresses the sense of the House of Representatives that: (1) all telephone service providers must appropriately complete calls to all areas of the United States regardless of the technology used by such providers, and (2) no entity may unreasonably discriminate against telephone users in rural areas.
+
+Declares that the Federal Communications Commission (FCC) should: (1) pursue entities whose violations of FCC rules contribute to a lack of quality telecommunications services in rural areas, (2) impose enforcement actions to discourage such uncompleted calls and unreasonable discrimination, and (3) establish a definitive solution to such discrimination.</summary>
+</bill>

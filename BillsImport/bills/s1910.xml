@@ -1,0 +1,70 @@
+<bill session="114" type="s" number="1910" updated="2015-08-07T18:47:52-04:00">
+  <state datetime="2015-07-30">REPORTED</state>
+  <status>
+    <unknown datetime="2015-07-30"/>
+  </status>
+  <introduced datetime="2015-07-30"/>
+  <titles>
+    <title type="short" as="introduced">Financial Services and General Government Appropriations Act, 2016</title>
+    <title type="short" as="introduced" partial="1">D.C. Opportunity Scholarship Program School Certification Requirements Act</title>
+    <title type="short" as="introduced" partial="1">Department of the Treasury Appropriations Act, 2016</title>
+    <title type="short" as="introduced" partial="1">District of Columbia Appropriations Act, 2016</title>
+    <title type="short" as="introduced" partial="1">Executive Office of the President Appropriations Act, 2016</title>
+    <title type="short" as="introduced" partial="1">Financial Regulatory Improvement Act of 2015</title>
+    <title type="short" as="introduced" partial="1">Judiciary Appropriations Act, 2016</title>
+    <title type="short" as="reported to senate">Financial Services and General Government Appropriations Act, 2016</title>
+    <title type="short" as="reported to senate" partial="1">D.C. Opportunity Scholarship Program School Certification Requirements Act</title>
+    <title type="short" as="reported to senate" partial="1">Department of the Treasury Appropriations Act, 2016</title>
+    <title type="short" as="reported to senate" partial="1">District of Columbia Appropriations Act, 2016</title>
+    <title type="short" as="reported to senate" partial="1">Executive Office of the President Appropriations Act, 2016</title>
+    <title type="short" as="reported to senate" partial="1">Financial Regulatory Improvement Act of 2015</title>
+    <title type="short" as="reported to senate" partial="1">Judiciary Appropriations Act, 2016</title>
+    <title type="official" as="introduced">An original bill making appropriations for financial services and general government for the fiscal year ending September 30, 2016, and for other purposes.</title>
+  </titles>
+  <sponsor id="400040"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-30">
+      <text>Committee on Appropriations. Original measure reported to Senate by Senator Boozman. With written report No. 114-97.</text>
+    </action>
+    <calendar datetime="2015-07-30" state="REPORTED" calendar="Senate Legislative" under="General Orders" number="176">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 176.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSAP" name="Senate Appropriations" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="299"/>
+    <bill relation="unknown" session="114" type="h" number="601"/>
+    <bill relation="unknown" session="114" type="h" number="650"/>
+    <bill relation="unknown" session="114" type="h" number="1259"/>
+    <bill relation="unknown" session="114" type="h" number="1265"/>
+    <bill relation="unknown" session="114" type="h" number="1334"/>
+    <bill relation="unknown" session="114" type="h" number="1408"/>
+    <bill relation="unknown" session="114" type="h" number="1478"/>
+    <bill relation="unknown" session="114" type="h" number="1480"/>
+    <bill relation="unknown" session="114" type="h" number="1675"/>
+    <bill relation="unknown" session="114" type="h" number="1847"/>
+    <bill relation="unknown" session="114" type="h" number="2995"/>
+    <bill relation="unknown" session="114" type="h" number="2995"/>
+    <bill relation="unknown" session="114" type="h" number="3029"/>
+    <bill relation="unknown" session="114" type="h" number="3148"/>
+    <bill relation="unknown" session="114" type="s" number="372"/>
+    <bill relation="unknown" session="114" type="s" number="423"/>
+    <bill relation="unknown" session="114" type="s" number="530"/>
+    <bill relation="unknown" session="114" type="s" number="682"/>
+    <bill relation="unknown" session="114" type="s" number="752"/>
+    <bill relation="unknown" session="114" type="s" number="871"/>
+    <bill relation="unknown" session="114" type="s" number="924"/>
+    <bill relation="unknown" session="114" type="s" number="1086"/>
+    <bill relation="unknown" session="114" type="s" number="1182"/>
+    <bill relation="unknown" session="114" type="s" number="1367"/>
+    <bill relation="unknown" session="114" type="s" number="1484"/>
+    <bill relation="unknown" session="114" type="s" number="1799"/>
+  </relatedbills>
+  <subjects>
+    <term name="Economics and public finance"/>
+  </subjects>
+  <amendments/>
+</bill>

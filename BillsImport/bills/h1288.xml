@@ -1,0 +1,143 @@
+<bill session="114" type="h" number="1288" updated="2015-08-22T06:29:54-04:00">
+  <state datetime="2015-03-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-04"/>
+  </status>
+  <introduced datetime="2015-03-04"/>
+  <titles>
+    <title type="short" as="introduced">World War II Merchant Mariner Service Act</title>
+    <title type="official" as="introduced">To direct the Secretary of Homeland Security to accept additional documentation when considering the application for veterans status of an individual who performed service as a coastwise merchant seaman during World War II, and for other purposes.</title>
+  </titles>
+  <sponsor id="400616"/>
+  <cosponsors>
+    <cosponsor id="412607" joined="2015-07-08"/>
+    <cosponsor id="412642" joined="2015-07-29"/>
+    <cosponsor id="412657" joined="2015-06-12"/>
+    <cosponsor id="400030" joined="2015-07-09"/>
+    <cosponsor id="412627" joined="2015-07-10"/>
+    <cosponsor id="400041" joined="2015-04-14"/>
+    <cosponsor id="400047" joined="2015-04-21"/>
+    <cosponsor id="400048" joined="2015-07-08"/>
+    <cosponsor id="412622" joined="2015-07-13"/>
+    <cosponsor id="412571" joined="2015-04-28"/>
+    <cosponsor id="412379" joined="2015-07-22"/>
+    <cosponsor id="412272" joined="2015-04-14"/>
+    <cosponsor id="412193" joined="2015-04-14"/>
+    <cosponsor id="400090" joined="2015-07-29"/>
+    <cosponsor id="412621" joined="2015-07-23"/>
+    <cosponsor id="400100" joined="2015-04-14"/>
+    <cosponsor id="412385" joined="2015-07-08"/>
+    <cosponsor id="400114" joined="2015-07-22"/>
+    <cosponsor id="412533" joined="2015-07-22"/>
+    <cosponsor id="412457" joined="2015-07-10"/>
+    <cosponsor id="412482" joined="2015-07-08"/>
+    <cosponsor id="400137" joined="2015-04-21"/>
+    <cosponsor id="400640" joined="2015-04-28"/>
+    <cosponsor id="400141" joined="2015-07-13"/>
+    <cosponsor id="412382" joined="2015-04-21"/>
+    <cosponsor id="412473" joined="2015-07-08"/>
+    <cosponsor id="400158" joined="2015-07-29"/>
+    <cosponsor id="400653" joined="2015-07-29"/>
+    <cosponsor id="400160" joined="2015-07-29"/>
+    <cosponsor id="412498" joined="2015-06-23"/>
+    <cosponsor id="412454" joined="2015-04-14"/>
+    <cosponsor id="400170" joined="2015-04-14"/>
+    <cosponsor id="412486" joined="2015-04-29"/>
+    <cosponsor id="412553" joined="2015-04-28"/>
+    <cosponsor id="400185" joined="2015-04-16"/>
+    <cosponsor id="412550" joined="2015-04-29"/>
+    <cosponsor id="412283" joined="2015-07-13"/>
+    <cosponsor id="400195" joined="2015-06-02"/>
+    <cosponsor id="400204" joined="2015-04-14"/>
+    <cosponsor id="412199" joined="2015-04-14"/>
+    <cosponsor id="400209" joined="2015-03-04"/>
+    <cosponsor id="400211" joined="2015-07-29"/>
+    <cosponsor id="412435" joined="2015-04-28"/>
+    <cosponsor id="412583" joined="2015-06-02"/>
+    <cosponsor id="400219" joined="2015-04-16"/>
+    <cosponsor id="400232" joined="2015-07-08"/>
+    <cosponsor id="412616" joined="2015-07-08"/>
+    <cosponsor id="400630" joined="2015-07-29"/>
+    <cosponsor id="400244" joined="2015-04-14"/>
+    <cosponsor id="400246" joined="2015-07-22"/>
+    <cosponsor id="412562" joined="2015-07-22"/>
+    <cosponsor id="412503" joined="2015-07-08"/>
+    <cosponsor id="400259" joined="2015-06-12"/>
+    <cosponsor id="400262" joined="2015-04-14"/>
+    <cosponsor id="400263" joined="2015-04-22"/>
+    <cosponsor id="412552" joined="2015-04-14"/>
+    <cosponsor id="400290" joined="2015-06-12"/>
+    <cosponsor id="408211" joined="2015-07-22"/>
+    <cosponsor id="400308" joined="2015-07-09"/>
+    <cosponsor id="400316" joined="2015-07-08"/>
+    <cosponsor id="412307" joined="2015-04-16"/>
+    <cosponsor id="412551" joined="2015-05-01"/>
+    <cosponsor id="400326" joined="2015-04-14"/>
+    <cosponsor id="400333" joined="2015-04-14"/>
+    <cosponsor id="400343" joined="2015-04-16"/>
+    <cosponsor id="412411" joined="2015-07-08"/>
+    <cosponsor id="412641" joined="2015-05-01"/>
+    <cosponsor id="400349" joined="2015-07-08"/>
+    <cosponsor id="400355" joined="2015-04-14"/>
+    <cosponsor id="400364" joined="2015-04-21"/>
+    <cosponsor id="400366" joined="2015-07-23"/>
+    <cosponsor id="400373" joined="2015-07-29"/>
+    <cosponsor id="412626" joined="2015-07-08"/>
+    <cosponsor id="412520" joined="2015-07-29"/>
+    <cosponsor id="412319" joined="2015-06-01"/>
+    <cosponsor id="412522" joined="2015-07-08"/>
+    <cosponsor id="412670" joined="2015-07-08"/>
+    <cosponsor id="412214" joined="2015-06-23"/>
+    <cosponsor id="400627" joined="2015-07-23"/>
+    <cosponsor id="412255" joined="2015-03-26"/>
+    <cosponsor id="400440" joined="2015-07-08"/>
+    <cosponsor id="412646" joined="2015-06-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-04" state="REFERRED">
+      <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-03-04">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2015-03-04">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2015-03-19">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR09" subcommittee="Disability Assistance and Memorial Affairs" name="House Veterans' Affairs"/>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="1775"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Cemeteries and funerals"/>
+    <term name="Conflicts and wars"/>
+    <term name="Government information and archives"/>
+    <term name="Marine and inland water transportation"/>
+    <term name="Military personnel and dependents"/>
+    <term name="National Guard and reserves"/>
+    <term name="Personnel records"/>
+    <term name="Transportation employees"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+    <term name="Veterans' loans, housing, homeless programs"/>
+    <term name="Veterans' medical care"/>
+    <term name="Veterans' organizations and recognition"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>3/4/2015--Introduced.
+World War II Merchant Mariner Service Act
+
+Directs the Secretary of Homeland Security to accept additional documentation for verifying that an individual performed honorable service as a coastwise merchant seaman during the period beginning on December 7, 1941, and ending on December 31, 1946, for purposes of eligibility for veterans' benefits under the GI Bill Improvement Act of 1977. Requires such documentation to include Social Security Administration records and validated testimony in the case of the absence of Coast Guard shipping or discharge forms, ship logbooks, documents, or other official employment records.
+
+Requires the Secretary, when determining whether to recognize service allegedly performed during such period, to recognize masters of seagoing vessels or other command officers who were authorized to document an individual for purposes of hiring for or discharging from the merchant marine.
+
+Considers any service so recognized as active-duty service for purposes of veterans' burial benefits. Makes such veterans eligible for any appropriate military medals, ribbons, and decorations. Requires the Secretary to verify that an individual performed such service under honorable conditions without regard to their sex, age, or disability during the service period.</summary>
+</bill>

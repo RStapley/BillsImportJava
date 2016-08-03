@@ -1,0 +1,56 @@
+<bill session="114" type="h" number="670" updated="2015-05-16T04:46:58-04:00">
+  <state datetime="2015-02-03">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-03"/>
+  </status>
+  <introduced datetime="2015-02-03"/>
+  <titles>
+    <title type="short" as="introduced">Special Needs Trust Fairness Act of 2015</title>
+    <title type="official" as="introduced">To amend title XIX of the Social Security Act to extend the Medicaid rules regarding supplemental needs trusts for Medicaid beneficiaries to trusts established by those beneficiaries, and for other purposes.</title>
+  </titles>
+  <sponsor id="412317"/>
+  <cosponsors>
+    <cosponsor id="412469" joined="2015-03-04"/>
+    <cosponsor id="400033" joined="2015-04-23"/>
+    <cosponsor id="412454" joined="2015-02-13"/>
+    <cosponsor id="412280" joined="2015-02-05"/>
+    <cosponsor id="412511" joined="2015-03-18"/>
+    <cosponsor id="412465" joined="2015-02-13"/>
+    <cosponsor id="412557" joined="2015-05-15"/>
+    <cosponsor id="412209" joined="2015-02-10"/>
+    <cosponsor id="412468" joined="2015-02-13"/>
+    <cosponsor id="400308" joined="2015-02-03"/>
+    <cosponsor id="400309" joined="2015-04-22"/>
+    <cosponsor id="400350" joined="2015-02-10"/>
+    <cosponsor id="400360" joined="2015-03-25"/>
+    <cosponsor id="400378" joined="2015-02-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-03" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-02-06">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="349"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Disability and paralysis"/>
+    <term name="Health care coverage and access"/>
+    <term name="Medicaid"/>
+  </subjects>
+  <amendments/>
+  <summary>2/3/2015--Introduced.
+Special Needs Trust Fairness Act of 2015
+
+ Amends title XIX (Medicaid) of the Social Security Act with respect to the treatment of revocable trusts for the benefit of an individual for purposes of meeting income requirements for Medicaid coverage.
+
+Extends the supplemental needs trust exemption from treatment of a trust as resources available to the individual to supplemental needs trusts for Medicaid beneficiaries established by those beneficiaries.</summary>
+</bill>

@@ -1,0 +1,40 @@
+<bill session="114" type="sr" number="199" updated="2015-08-22T06:51:04-04:00">
+  <state datetime="2015-06-11">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-11"/>
+  </status>
+  <introduced datetime="2015-06-11"/>
+  <titles>
+    <title type="official" as="introduced">A resolution expressing the sense of the Senate regarding establishing a National Strategic Agenda.</title>
+  </titles>
+  <sponsor id="300078"/>
+  <cosponsors>
+    <cosponsor id="400546" joined="2015-06-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-11" state="REFERRED">
+      <text>Referred to the Committee on Homeland Security and Governmental Affairs.</text>
+      <reference ref="CR S4109-4110" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2015-06-17">
+      <text>Committee on Homeland Security and Governmental Affairs. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="hr" number="207"/>
+  </relatedbills>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Budget deficits and national debt"/>
+    <term name="Energy storage, supplies, demand"/>
+    <term name="Medicare"/>
+    <term name="Policy sciences"/>
+    <term name="Social security and elderly assistance"/>
+  </subjects>
+  <amendments/>
+  <summary>6/11/2015--Introduced.
+Expresses the sense of the Senate that the Senate should strive to create, debate, and adopt policy solutions to achieve a National Strategic Agenda with the goals of: creating 25 million new jobs over the next 10 years, balancing the federal budget by 2030, securing Medicare and Social Security for the next 75 years, and making the United States energy secure by 2024.</summary>
+</bill>

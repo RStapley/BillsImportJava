@@ -1,0 +1,43 @@
+<bill session="114" type="hr" number="157" updated="2015-06-03T04:46:30-04:00">
+  <state datetime="2015-03-18">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-18"/>
+  </status>
+  <introduced datetime="2015-03-18"/>
+  <titles>
+    <title type="official" as="introduced">Supporting the goals and ideals of Social Work Month and World Social Work Day.</title>
+  </titles>
+  <sponsor id="400237"/>
+  <cosponsors>
+    <cosponsor id="412517" joined="2015-03-19"/>
+    <cosponsor id="412221" joined="2015-03-18"/>
+    <cosponsor id="400162" joined="2015-03-19"/>
+    <cosponsor id="400218" joined="2015-05-01"/>
+    <cosponsor id="400259" joined="2015-03-18"/>
+    <cosponsor id="400263" joined="2015-03-18"/>
+    <cosponsor id="412585" joined="2015-04-28"/>
+    <cosponsor id="412331" joined="2015-06-02"/>
+    <cosponsor id="400360" joined="2015-03-19"/>
+    <cosponsor id="412186" joined="2015-04-13"/>
+    <cosponsor id="412318" joined="2015-03-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-18" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="sr" number="103"/>
+  </relatedbills>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Social work, volunteer service, charitable organizations"/>
+  </subjects>
+  <amendments/>
+  <summary>3/18/2015--Introduced.
+Supports the goals and ideals of Social Work Month and World Social Work Day.</summary>
+</bill>

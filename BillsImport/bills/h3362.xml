@@ -1,0 +1,26 @@
+<bill session="114" type="h" number="3362" updated="2015-08-15T06:47:30-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">Workforce Development Investment Act of 2015</title>
+    <title type="official" as="introduced">To allow employers a credit against income tax as an incentive to partner with community colleges or other educational institutions to improve workforce development and job training for students.</title>
+  </titles>
+  <sponsor id="412557"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Labor and employment"/>
+  </subjects>
+  <amendments/>
+</bill>

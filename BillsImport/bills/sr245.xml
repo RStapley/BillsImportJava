@@ -1,0 +1,51 @@
+<bill session="114" type="sr" number="245" updated="2015-08-22T06:51:26-04:00">
+  <state datetime="2015-08-05">REFERRED</state>
+  <status>
+    <introduced datetime="2015-08-05"/>
+  </status>
+  <introduced datetime="2015-08-05"/>
+  <titles>
+    <title type="official" as="introduced">A resolution designating the week beginning September 13, 2015, as "National Direct Support Professionals Recognition Week".</title>
+  </titles>
+  <sponsor id="400064"/>
+  <cosponsors>
+    <cosponsor id="412493" joined="2015-08-05"/>
+    <cosponsor id="412490" joined="2015-08-05"/>
+    <cosponsor id="412598" joined="2015-08-05"/>
+    <cosponsor id="400050" joined="2015-08-05"/>
+    <cosponsor id="300025" joined="2015-08-05"/>
+    <cosponsor id="412378" joined="2015-08-06"/>
+    <cosponsor id="300048" joined="2015-08-05"/>
+    <cosponsor id="412545" joined="2015-08-05"/>
+    <cosponsor id="412242" joined="2015-08-05"/>
+    <cosponsor id="400253" joined="2015-08-05"/>
+    <cosponsor id="400272" joined="2015-08-05"/>
+    <cosponsor id="412194" joined="2015-08-05"/>
+    <cosponsor id="300076" joined="2015-08-05"/>
+    <cosponsor id="400325" joined="2015-08-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-08-05">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S6403-6404"/>
+    </action>
+    <action datetime="2015-08-05" state="REFERRED">
+      <text>Referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S6403" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+  <summary>8/5/2015--Introduced.
+Designates the week of September 13, 2015, as National Direct Support Professionals Recognition Week.
+
+Commends direct support professionals as integral to long-term support and services for individuals with disabilities.
+
+Expresses the sense of the Senate that the successful implementation of the public policies affecting individuals with disabilities depends on the dedication of direct support professionals.</summary>
+</bill>

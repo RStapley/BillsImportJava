@@ -1,0 +1,50 @@
+<bill session="114" type="h" number="2934" updated="2015-07-14T04:47:59-04:00">
+  <state datetime="2015-06-25">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-25"/>
+  </status>
+  <introduced datetime="2015-06-25"/>
+  <titles>
+    <title type="official" as="introduced">To amend title 38, United States Code, to extend the authority of the Advisory Committee on Homeless Veterans for five years.</title>
+  </titles>
+  <sponsor id="412616"/>
+  <cosponsors>
+    <cosponsor id="412516" joined="2015-06-25"/>
+    <cosponsor id="412379" joined="2015-06-25"/>
+    <cosponsor id="400080" joined="2015-06-25"/>
+    <cosponsor id="400097" joined="2015-06-25"/>
+    <cosponsor id="400653" joined="2015-06-25"/>
+    <cosponsor id="400162" joined="2015-06-25"/>
+    <cosponsor id="400185" joined="2015-06-25"/>
+    <cosponsor id="400195" joined="2015-06-25"/>
+    <cosponsor id="400271" joined="2015-06-25"/>
+    <cosponsor id="412560" joined="2015-06-25"/>
+    <cosponsor id="412527" joined="2015-06-25"/>
+    <cosponsor id="408211" joined="2015-06-25"/>
+    <cosponsor id="400295" joined="2015-06-25"/>
+    <cosponsor id="412331" joined="2015-06-25"/>
+    <cosponsor id="400366" joined="2015-06-25"/>
+    <cosponsor id="412581" joined="2015-07-07"/>
+    <cosponsor id="412520" joined="2015-06-25"/>
+    <cosponsor id="412617" joined="2015-06-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-25" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2015-07-10">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <summary>6/25/2015--Introduced.
+This bill extends the Advisory Committee on Homeless Veterans through December 31, 2020.</summary>
+</bill>

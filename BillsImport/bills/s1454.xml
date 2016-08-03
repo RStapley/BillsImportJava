@@ -1,0 +1,29 @@
+<bill session="114" type="s" number="1454" updated="2015-07-08T04:50:01-04:00">
+  <state datetime="2015-05-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-21"/>
+  </status>
+  <introduced datetime="2015-05-21"/>
+  <titles>
+    <title type="short" as="introduced">Transportation and Logistics Hiring Reform Act</title>
+    <title type="official" as="introduced">A bill to enhance interstate commerce by creating a National Hiring Standard for Motor Carriers.</title>
+  </titles>
+  <sponsor id="412556"/>
+  <cosponsors>
+    <cosponsor id="400034" joined="2015-05-21"/>
+    <cosponsor id="300030" joined="2015-07-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+</bill>

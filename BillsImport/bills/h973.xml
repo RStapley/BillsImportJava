@@ -1,0 +1,152 @@
+<bill session="114" type="h" number="973" updated="2015-08-01T04:50:31-04:00">
+  <state datetime="2015-02-13">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-13"/>
+  </status>
+  <introduced datetime="2015-02-13"/>
+  <titles>
+    <title type="short" as="introduced">Social Security Fairness Act of 2015</title>
+    <title type="official" as="introduced">To amend title II of the Social Security Act to repeal the Government pension offset and windfall elimination provisions.</title>
+  </titles>
+  <sponsor id="412536"/>
+  <cosponsors>
+    <cosponsor id="412615" joined="2015-07-10"/>
+    <cosponsor id="412565" joined="2015-02-27"/>
+    <cosponsor id="412512" joined="2015-03-26"/>
+    <cosponsor id="400030" joined="2015-06-25"/>
+    <cosponsor id="412629" joined="2015-02-13"/>
+    <cosponsor id="412652" joined="2015-06-12"/>
+    <cosponsor id="412516" joined="2015-02-13"/>
+    <cosponsor id="400052" joined="2015-02-13"/>
+    <cosponsor id="412537" joined="2015-02-13"/>
+    <cosponsor id="400057" joined="2015-03-16"/>
+    <cosponsor id="400062" joined="2015-02-13"/>
+    <cosponsor id="412517" joined="2015-02-13"/>
+    <cosponsor id="412258" joined="2015-06-04"/>
+    <cosponsor id="412571" joined="2015-02-13"/>
+    <cosponsor id="412379" joined="2015-02-13"/>
+    <cosponsor id="412470" joined="2015-02-27"/>
+    <cosponsor id="412600" joined="2015-02-13"/>
+    <cosponsor id="412236" joined="2015-07-31"/>
+    <cosponsor id="400080" joined="2015-05-13"/>
+    <cosponsor id="400618" joined="2015-02-13"/>
+    <cosponsor id="412651" joined="2015-02-27"/>
+    <cosponsor id="412193" joined="2015-02-13"/>
+    <cosponsor id="400090" joined="2015-02-13"/>
+    <cosponsor id="400097" joined="2015-05-01"/>
+    <cosponsor id="400100" joined="2015-03-16"/>
+    <cosponsor id="412505" joined="2015-02-13"/>
+    <cosponsor id="412613" joined="2015-05-21"/>
+    <cosponsor id="412385" joined="2015-03-26"/>
+    <cosponsor id="400111" joined="2015-04-13"/>
+    <cosponsor id="400114" joined="2015-04-13"/>
+    <cosponsor id="400124" joined="2015-04-13"/>
+    <cosponsor id="412524" joined="2015-03-16"/>
+    <cosponsor id="400129" joined="2015-02-13"/>
+    <cosponsor id="400646" joined="2015-06-04"/>
+    <cosponsor id="412257" joined="2015-03-16"/>
+    <cosponsor id="412529" joined="2015-02-13"/>
+    <cosponsor id="412327" joined="2015-02-13"/>
+    <cosponsor id="412382" joined="2015-02-13"/>
+    <cosponsor id="412276" joined="2015-03-16"/>
+    <cosponsor id="400162" joined="2015-02-13"/>
+    <cosponsor id="412278" joined="2015-02-13"/>
+    <cosponsor id="412454" joined="2015-02-13"/>
+    <cosponsor id="400170" joined="2015-02-13"/>
+    <cosponsor id="400641" joined="2015-02-13"/>
+    <cosponsor id="412282" joined="2015-02-27"/>
+    <cosponsor id="400185" joined="2015-02-13"/>
+    <cosponsor id="412511" joined="2015-02-13"/>
+    <cosponsor id="412283" joined="2015-02-13"/>
+    <cosponsor id="412566" joined="2015-02-13"/>
+    <cosponsor id="400211" joined="2015-03-19"/>
+    <cosponsor id="412435" joined="2015-02-13"/>
+    <cosponsor id="412543" joined="2015-02-13"/>
+    <cosponsor id="412583" joined="2015-04-13"/>
+    <cosponsor id="400219" joined="2015-02-13"/>
+    <cosponsor id="412557" joined="2015-05-13"/>
+    <cosponsor id="400230" joined="2015-02-13"/>
+    <cosponsor id="400232" joined="2015-02-13"/>
+    <cosponsor id="400233" joined="2015-02-27"/>
+    <cosponsor id="400237" joined="2015-02-27"/>
+    <cosponsor id="412616" joined="2015-02-13"/>
+    <cosponsor id="400630" joined="2015-02-13"/>
+    <cosponsor id="412209" joined="2015-02-13"/>
+    <cosponsor id="400245" joined="2015-04-14"/>
+    <cosponsor id="412521" joined="2015-02-13"/>
+    <cosponsor id="412293" joined="2015-03-16"/>
+    <cosponsor id="400249" joined="2015-02-13"/>
+    <cosponsor id="412562" joined="2015-02-13"/>
+    <cosponsor id="412503" joined="2015-02-13"/>
+    <cosponsor id="400663" joined="2015-03-19"/>
+    <cosponsor id="400259" joined="2015-07-10"/>
+    <cosponsor id="400263" joined="2015-02-13"/>
+    <cosponsor id="412189" joined="2015-02-13"/>
+    <cosponsor id="412568" joined="2015-04-14"/>
+    <cosponsor id="400285" joined="2015-02-27"/>
+    <cosponsor id="400290" joined="2015-04-15"/>
+    <cosponsor id="400441" joined="2015-02-27"/>
+    <cosponsor id="400295" joined="2015-02-13"/>
+    <cosponsor id="412575" joined="2015-04-13"/>
+    <cosponsor id="400308" joined="2015-02-13"/>
+    <cosponsor id="412192" joined="2015-07-10"/>
+    <cosponsor id="412306" joined="2015-07-23"/>
+    <cosponsor id="412307" joined="2015-02-13"/>
+    <cosponsor id="400326" joined="2015-02-27"/>
+    <cosponsor id="412331" joined="2015-07-23"/>
+    <cosponsor id="400333" joined="2015-03-24"/>
+    <cosponsor id="412647" joined="2015-06-04"/>
+    <cosponsor id="400348" joined="2015-02-27"/>
+    <cosponsor id="412519" joined="2015-03-16"/>
+    <cosponsor id="400349" joined="2015-02-13"/>
+    <cosponsor id="400352" joined="2015-02-13"/>
+    <cosponsor id="400355" joined="2015-02-13"/>
+    <cosponsor id="412212" joined="2015-02-13"/>
+    <cosponsor id="400360" joined="2015-02-13"/>
+    <cosponsor id="400361" joined="2015-02-13"/>
+    <cosponsor id="412314" joined="2015-02-13"/>
+    <cosponsor id="400371" joined="2015-02-13"/>
+    <cosponsor id="409888" joined="2015-07-10"/>
+    <cosponsor id="412186" joined="2015-02-13"/>
+    <cosponsor id="412259" joined="2015-02-13"/>
+    <cosponsor id="412514" joined="2015-02-13"/>
+    <cosponsor id="412520" joined="2015-02-13"/>
+    <cosponsor id="400403" joined="2015-04-15"/>
+    <cosponsor id="412318" joined="2015-02-13"/>
+    <cosponsor id="412319" joined="2015-05-01"/>
+    <cosponsor id="412254" joined="2015-02-13"/>
+    <cosponsor id="400411" joined="2015-02-27"/>
+    <cosponsor id="412515" joined="2015-02-13"/>
+    <cosponsor id="412522" joined="2015-07-10"/>
+    <cosponsor id="412579" joined="2015-03-16"/>
+    <cosponsor id="400417" joined="2015-02-27"/>
+    <cosponsor id="400419" joined="2015-04-14"/>
+    <cosponsor id="400431" joined="2015-03-19"/>
+    <cosponsor id="412255" joined="2015-02-13"/>
+    <cosponsor id="412211" joined="2015-02-13"/>
+    <cosponsor id="400440" joined="2015-02-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-13" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="1651"/>
+  </relatedbills>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Social security and elderly assistance"/>
+  </subjects>
+  <amendments/>
+  <summary>2/13/2015--Introduced.
+Social Security Fairness Act of 2015
+
+ Amends title II (Old Age, Survivors and Disability Insurance) (OASDI) of the Social Security Act to repeal the government pension offset requirement applicable to and reducing husband's and wife's insurance benefits, widow's and widower's insurance benefits, and divorced mother's and divorced father's insurance benefits with respect to federal, state, or local government employees who receive a government pension and did not pay Social Security taxes during their years of government service, and so did not earn entitlement to Social Security benefits for those years.
+
+Repeals also the windfall elimination requirement with respect to computation of an individual's primary insurance amount under which OASDI retirement or disability benefits are reduced if the individual receives a federal, state, or local government pension, did not pay Social Security taxes during the years of government service, and so did not earn entitlement to Social Security benefits for those years.</summary>
+</bill>

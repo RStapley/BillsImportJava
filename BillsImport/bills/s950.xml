@@ -1,0 +1,41 @@
+<bill session="114" type="s" number="950" updated="2015-06-06T06:51:30-04:00">
+  <state datetime="2015-04-15">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-15"/>
+  </status>
+  <introduced datetime="2015-04-15"/>
+  <titles>
+    <title type="short" as="introduced">Adoption Tax Credit Refundability Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to provide for a refundable adoption tax credit.</title>
+  </titles>
+  <sponsor id="412246"/>
+  <cosponsors>
+    <cosponsor id="400034" joined="2015-04-15"/>
+    <cosponsor id="300011" joined="2015-05-20"/>
+    <cosponsor id="412223" joined="2015-04-16"/>
+    <cosponsor id="300055" joined="2015-04-16"/>
+    <cosponsor id="412242" joined="2015-04-23"/>
+    <cosponsor id="412671" joined="2015-04-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-15" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="2434"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Adoption and foster care"/>
+    <term name="Income tax credits"/>
+  </subjects>
+  <amendments/>
+  <summary>4/15/2015--Introduced.
+Adoption Tax Credit Refundability Act of 2015
+
+Amends the Internal Revenue Code to make the tax credit for adoption expenses refundable.</summary>
+</bill>

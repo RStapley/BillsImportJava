@@ -1,0 +1,40 @@
+<bill session="114" type="hj" number="19" updated="2015-01-31T06:21:17-05:00">
+  <state datetime="2015-01-12">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-12"/>
+  </status>
+  <introduced datetime="2015-01-12"/>
+  <titles>
+    <title type="official" as="introduced">Proposing an amendment to the Constitution of the United States to limit the number of consecutive terms that a Member of Congress may serve.</title>
+  </titles>
+  <sponsor id="412443"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-01-12" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-01-22">
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU10" subcommittee="Constitution and Civil Justice" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="hj" number="11"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional elections"/>
+    <term name="Constitution and constitutional amendments"/>
+    <term name="House of Representatives"/>
+    <term name="Members of Congress"/>
+    <term name="Senate"/>
+  </subjects>
+  <amendments/>
+  <summary>1/12/2015--Introduced.
+Constitutional Amendment
+
+ Prohibits a person from serving more than two consecutive terms as a Senator or six consecutive terms as a Representative.</summary>
+</bill>

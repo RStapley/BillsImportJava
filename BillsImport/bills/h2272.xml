@@ -1,0 +1,53 @@
+<bill session="114" type="h" number="2272" updated="2015-07-18T06:37:49-04:00">
+  <state datetime="2015-05-12">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-12"/>
+  </status>
+  <introduced datetime="2015-05-12"/>
+  <titles>
+    <title type="short" as="introduced">Intelligence Budget Transparency Act of 2015</title>
+    <title type="official" as="introduced">To amend section 1105 of title 31, United States Code, to require that the annual budget submissions of the Presidents include the total dollar amount requested for intelligence or intelligence related activities of each element of the Government engaged in such activities.</title>
+  </titles>
+  <sponsor id="412294"/>
+  <cosponsors>
+    <cosponsor id="400033" joined="2015-05-15"/>
+    <cosponsor id="400080" joined="2015-05-14"/>
+    <cosponsor id="400163" joined="2015-05-12"/>
+    <cosponsor id="412429" joined="2015-06-01"/>
+    <cosponsor id="412511" joined="2015-06-16"/>
+    <cosponsor id="412226" joined="2015-05-12"/>
+    <cosponsor id="412503" joined="2015-05-14"/>
+    <cosponsor id="400326" joined="2015-05-12"/>
+    <cosponsor id="412489" joined="2015-05-19"/>
+    <cosponsor id="400365" joined="2015-05-12"/>
+    <cosponsor id="412319" joined="2015-05-14"/>
+    <cosponsor id="400415" joined="2015-05-14"/>
+    <cosponsor id="412239" joined="2015-05-12"/>
+    <cosponsor id="412211" joined="2015-05-18"/>
+    <cosponsor id="412525" joined="2015-05-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-12" state="REFERRED">
+      <text>Referred to the House Committee on the Budget.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBU" name="House Budget" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="1307"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Appropriations"/>
+    <term name="Budget process"/>
+    <term name="Congressional oversight"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Intelligence activities, surveillance, classified information"/>
+  </subjects>
+  <amendments/>
+  <summary>5/12/2015--Introduced.
+Intelligence Budget Transparency Act of 2015 
+
+This bill requires the President's annual budget to include the total amount proposed for intelligence or intelligence related activities of each element of the government engaged in these activities in the fiscal year for which the budget is submitted. The budget must also include the estimated appropriation required for these activities for each of the next four fiscal years.</summary>
+</bill>

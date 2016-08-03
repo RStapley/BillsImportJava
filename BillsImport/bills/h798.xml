@@ -1,0 +1,42 @@
+<bill session="114" type="h" number="798" updated="2015-03-21T06:23:28-04:00">
+  <state datetime="2015-02-05">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-05"/>
+  </status>
+  <introduced datetime="2015-02-05"/>
+  <titles>
+    <title type="short" as="introduced">Responsible Skies Act of 2015</title>
+    <title type="official" as="introduced">To amend the FAA Modernization and Reform Act of 2012 to prohibit the flying of unmanned recreational aircraft near commercial airports.</title>
+  </titles>
+  <sponsor id="400271"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-02-05" state="REFERRED">
+      <text>Referred to the House Committee on Transportation.</text>
+    </action>
+    <action datetime="2015-02-06">
+      <text>Referred to the Subcommittee on Aviation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW05" subcommittee="Aviation" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Aviation and airports"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Transportation"/>
+    <term name="Outdoor recreation"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+  <summary>2/5/2015--Introduced.
+Responsible Skies Act of 2015
+
+ Amends the FAA Modernization and Reform Act of 2012 to require the Secretary of Transportation to prohibit the operator of an unmanned recreational aircraft (drone) from flying it:
+
+ above 400 feet and within 5 miles of the perimeter of a commercial airport, or where it may be seen from the airport's perimeter.</summary>
+</bill>

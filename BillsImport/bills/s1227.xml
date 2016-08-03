@@ -1,0 +1,36 @@
+<bill session="114" type="s" number="1227" updated="2015-06-20T06:55:41-04:00">
+  <state datetime="2015-05-06">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-06"/>
+  </status>
+  <introduced datetime="2015-05-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to require the Secretary of Energy to develop an implementation strategy to promote the development of hybrid micro-grid systems for isolated communities.</title>
+  </titles>
+  <sponsor id="300075"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-05-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2015-05-14">
+      <text>Committee on Energy and Natural Resources. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+  </subjects>
+  <amendments/>
+  <summary>5/6/2015--Introduced.
+This bill requires the Department of Energy to develop an implementation strategy to promote the development of hybrid micro-grid systems for isolated communities, particularly communities exposed to extreme weather conditions and high costs of energy, including electricity, space heating and cooling, and transportation.
+
+A hybrid micro-grid system is a stand-alone electrical system composed of conventional generation and at least one alternative energy resource.
+
+Mandatory considerations in developing the strategy include:
+
+ the potential for renewable resources, including wind, solar, and hydropower, to be integrated into a hybrid micro-grid system; the capacity of the local workforce to operate, maintain, and repair a hybrid micro-grid system; and the need for basic infrastructure to develop, deploy, and sustain a hybrid micro-grid system.</summary>
+</bill>

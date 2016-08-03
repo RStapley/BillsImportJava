@@ -1,0 +1,54 @@
+<bill session="114" type="h" number="1454" updated="2015-05-09T06:33:22-04:00">
+  <state datetime="2015-03-18">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-18"/>
+  </status>
+  <introduced datetime="2015-03-18"/>
+  <titles>
+    <title type="short" as="introduced">Modernized Law Enforcement Officers Protection Act of 2015</title>
+    <title type="official" as="introduced">To modify the definition of armor piercing ammunition to better capture its capabilities.</title>
+  </titles>
+  <sponsor id="412259"/>
+  <cosponsors>
+    <cosponsor id="412404" joined="2015-03-18"/>
+    <cosponsor id="400033" joined="2015-03-18"/>
+    <cosponsor id="400048" joined="2015-03-18"/>
+    <cosponsor id="412571" joined="2015-03-18"/>
+    <cosponsor id="412195" joined="2015-03-18"/>
+    <cosponsor id="412470" joined="2015-03-18"/>
+    <cosponsor id="412221" joined="2015-03-18"/>
+    <cosponsor id="400122" joined="2015-04-16"/>
+    <cosponsor id="400129" joined="2015-03-18"/>
+    <cosponsor id="412529" joined="2015-03-18"/>
+    <cosponsor id="400162" joined="2015-03-18"/>
+    <cosponsor id="400185" joined="2015-03-18"/>
+    <cosponsor id="400195" joined="2015-03-18"/>
+    <cosponsor id="400251" joined="2015-03-18"/>
+    <cosponsor id="400295" joined="2015-03-18"/>
+    <cosponsor id="400333" joined="2015-03-18"/>
+    <cosponsor id="412520" joined="2015-03-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-18" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-04-21">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+  </subjects>
+  <amendments/>
+  <summary>3/18/2015--Introduced.
+Modernized Law Enforcement Officers Protection Act of 2015
+
+Amends the federal criminal code to expand the definition of "armor piercing ammunition" to include a projectile that may be used in a handgun and that is determined by the Attorney General to be capable of penetrating body armor.
+
+Requires the Attorney General to: (1) promulgate standards for the uniform testing of projectiles against the Body Armor Exemplar (body armor that the Attorney General determines meets minimum standards for the protection of law enforcement officers), taking into account variations in performance related to the type of handgun used, the length of the barrel, the amount and kind of powder used, and the projectile's design; and (2) assess and, as appropriate, modify the standards every three years or more frequently if warranted by technological advances.</summary>
+</bill>

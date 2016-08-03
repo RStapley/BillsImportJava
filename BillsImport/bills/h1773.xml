@@ -1,0 +1,44 @@
+<bill session="114" type="h" number="1773" updated="2015-05-23T06:32:45-04:00">
+  <state datetime="2015-04-14">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-14"/>
+  </status>
+  <introduced datetime="2015-04-14"/>
+  <titles>
+    <title type="short" as="introduced">Residue Entries and Streamlining Trade Act</title>
+    <title type="official" as="introduced">To amend the Harmonized Tariff Schedule of the United States to exempt from duty residue of bulk cargo contained in instruments of international traffic previously exported from the United States.</title>
+  </titles>
+  <sponsor id="400656"/>
+  <cosponsors>
+    <cosponsor id="412539" joined="2015-05-12"/>
+    <cosponsor id="400218" joined="2015-04-14"/>
+    <cosponsor id="412302" joined="2015-05-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-14" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1907"/>
+    <bill relation="unknown" session="114" type="h" number="1916"/>
+    <bill relation="identical" session="114" type="s" number="989"/>
+    <bill relation="unknown" session="114" type="s" number="1015"/>
+  </relatedbills>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Tariffs"/>
+  </subjects>
+  <amendments/>
+  <summary>4/14/2015--Introduced.
+Residue Entries and Streamlining Trade Act
+
+This bill amends the Harmonized Tariff Schedule of the United States to exempt from duty treatment the residue of bulk cargo contained in instruments of international traffic previously exported from the United States.
+
+The following terms are defined:
+
+ "residue" means material of bulk cargo, of no or de minimis value, that remains in an instrument of international traffic after a certain amount of the bulk cargo is removed; "bulk cargo" means cargo that is unpackaged and is in either solid, liquid, or gaseous form; and "instruments of international traffic" means certain reusable containers or holders (i.e. lift vans, cargo vans, shipping tanks, skids, pallets, caul boards, and cores for textile fabrics) arriving (whether loaded or empty) for use in the shipment of merchandise in international traffic, as well as any additional articles that the Commissioner of U.S. Customs and Border Protection designates as instruments of international traffic.</summary>
+</bill>

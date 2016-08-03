@@ -1,0 +1,30 @@
+<bill session="114" type="s" number="1814" updated="2015-08-22T07:06:55-04:00">
+  <state datetime="2015-07-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-21"/>
+  </status>
+  <introduced datetime="2015-07-21"/>
+  <titles>
+    <title type="short" as="introduced">Stop Sanctuary Cities Act</title>
+    <title type="official" as="introduced">A bill to withhold certain Federal funding from sanctuary cities.</title>
+  </titles>
+  <sponsor id="400418"/>
+  <cosponsors>
+    <cosponsor id="412269" joined="2015-07-23"/>
+    <cosponsor id="400134" joined="2015-07-21"/>
+    <cosponsor id="300071" joined="2015-07-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Immigration"/>
+  </subjects>
+  <amendments/>
+</bill>

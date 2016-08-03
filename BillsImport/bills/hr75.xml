@@ -1,0 +1,31 @@
+<bill session="114" type="hr" number="75" updated="2015-02-28T06:15:57-05:00">
+  <state datetime="2015-02-02">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-02"/>
+  </status>
+  <introduced datetime="2015-02-02"/>
+  <titles>
+    <title type="official" as="introduced">Providing amounts for the expenses of the Committee on Transportation and Infrastructure in the One Hundred Fourteenth Congress.</title>
+  </titles>
+  <sponsor id="409888"/>
+  <cosponsors>
+    <cosponsor id="400100" joined="2015-02-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-02" state="REFERRED">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional committees"/>
+    <term name="House Committee on Transportation and Infrastructure"/>
+  </subjects>
+  <amendments/>
+  <summary>2/2/2015--Introduced.
+Provides amounts for the expenses of the House Committee on Transportation and Infrastructure for the 114th Congress.</summary>
+</bill>

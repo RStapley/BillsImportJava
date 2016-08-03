@@ -1,0 +1,36 @@
+<bill session="114" type="hr" number="224" updated="2015-06-03T04:46:32-04:00">
+  <state datetime="2015-04-28">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-28"/>
+  </status>
+  <introduced datetime="2015-04-28"/>
+  <titles>
+    <title type="official" as="introduced">Expressing support for designation of April 2015 as "National Congenital Diaphragmatic Hernia Awareness Month".</title>
+  </titles>
+  <sponsor id="412553"/>
+  <cosponsors>
+    <cosponsor id="412272" joined="2015-04-30"/>
+    <cosponsor id="412581" joined="2015-04-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-28" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-05-01">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <summary>4/28/2015--Introduced.
+Expresses support for the designation of National Congenital Diaphragmatic Hernia Awareness Month. (Congenital diaphragmatic hernia is a birth defect that occurs when the diaphragm fails to fully form, allowing abdominal organs to migrate into the chest cavity and preventing lung growth.)
+
+Encourages that steps should be taken to:
+
+ raise awareness of and increase public knowledge about congenital diaphragmatic hernia (CDH); inform all Americans about the dangers of CDH; disseminate information on the importance of quality neonatal care for CDH patients; promote quality prenatal care and the use of ultrasounds to detect CDH in utero; and support research funding of CDH to improve screening and treatment, discover its causes, and develop a cure.</summary>
+</bill>

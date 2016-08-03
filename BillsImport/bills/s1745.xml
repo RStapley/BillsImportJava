@@ -1,0 +1,28 @@
+<bill session="114" type="s" number="1745" updated="2015-08-22T07:06:20-04:00">
+  <state datetime="2015-07-09">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-09"/>
+  </status>
+  <introduced datetime="2015-07-09"/>
+  <titles>
+    <title type="short" as="introduced">Extracurricular Programs for Indian Children Act of 2015</title>
+    <title type="official" as="introduced">A bill to provide grants to eligible entities to develop and maintain or improve and expand before school, afterschool, and summer school programs for Indian and Alaska Native students, and for other purposes.</title>
+  </titles>
+  <sponsor id="412244"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-09" state="REFERRED">
+      <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="3252"/>
+  </relatedbills>
+  <subjects>
+    <term name="Native Americans"/>
+  </subjects>
+  <amendments/>
+</bill>

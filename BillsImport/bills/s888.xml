@@ -1,0 +1,45 @@
+<bill session="114" type="s" number="888" updated="2015-05-01T04:49:56-04:00">
+  <state datetime="2015-03-26">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-26"/>
+  </status>
+  <introduced datetime="2015-03-26"/>
+  <titles>
+    <title type="short" as="introduced">PREPARE Act</title>
+    <title type="short" as="introduced">Promoting Regional Energy Partnerships for Advancing Resilient Energy Systems Act</title>
+    <title type="official" as="introduced">A bill to promote Federal-State partnerships for developing regional energy strategies and plans to mitigate risks in changing energy systems, and for other purposes.</title>
+  </titles>
+  <sponsor id="412507"/>
+  <cosponsors>
+    <cosponsor id="412281" joined="2015-03-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-26" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2015-04-30">
+      <text>Committee on Energy and Natural Resources. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Electric power generation and transmission"/>
+    <term name="Energy efficiency and conservation"/>
+    <term name="Energy storage, supplies, demand"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Public-private cooperation"/>
+    <term name="Regional and metropolitan planning"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+  <summary>3/26/2015--Introduced.
+Promoting Regional Energy Partnerships for Advancing Resilient Energy Systems Act or the PREPARE Act
+
+Directs the Secretary of Energy and the Secretary of the Interior (acting through specified Assistant Secretaries) to provide technical assistance to governmental entities, Indian tribes, and regional and nonprofit organizations to develop energy strategies that harmonize and promote national, regional, and state energy goals.
+
+Sets forth an awards program addressing the uniqueness of the energy challenges facing states and Indian tribes.</summary>
+</bill>

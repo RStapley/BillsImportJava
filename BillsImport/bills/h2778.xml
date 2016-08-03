@@ -1,0 +1,40 @@
+<bill session="114" type="h" number="2778" updated="2015-07-18T06:42:04-04:00">
+  <state datetime="2015-06-15">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-15"/>
+  </status>
+  <introduced datetime="2015-06-15"/>
+  <titles>
+    <title type="short" as="introduced">Sunset Act of 2015</title>
+    <title type="official" as="introduced">To amend chapter 8 of title 5, United States Code, to provide for Congressional oversight of agency rulemaking, and for other purposes.</title>
+  </titles>
+  <sponsor id="400220"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-06-15" state="REFERRED">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-06-15">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2015-06-15">
+      <text>Referred to House Rules</text>
+    </action>
+    <action datetime="2015-07-01">
+      <text>Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU05" subcommittee="Regulatory Reform, Commercial And Antitrust Law" name="House Judiciary"/>
+    <committee code="HSRU" name="House Rules" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="427"/>
+    <bill relation="unknown" session="114" type="s" number="226"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+  </subjects>
+  <amendments/>
+</bill>

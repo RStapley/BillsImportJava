@@ -1,0 +1,49 @@
+<bill session="114" type="h" number="3328" updated="2015-08-22T06:47:09-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">Small Business Regulatory Sunset Act of 2015</title>
+    <title type="official" as="introduced">To require Federal agencies to review certain rules and regulations, and for other purposes.</title>
+  </titles>
+  <sponsor id="412563"/>
+  <cosponsors>
+    <cosponsor id="412403" joined="2015-07-29"/>
+    <cosponsor id="412454" joined="2015-07-29"/>
+    <cosponsor id="412649" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committees on Small Business, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Referred to House Small Business</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee code="HSSM" name="House Small Business" activity="Referral"/>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="846"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+  </subjects>
+  <amendments/>
+  <summary>7/29/2015--Introduced.
+Small Business Regulatory Sunset Act of 2015
+
+Requires each federal agency to establish a plan for the periodic review (every nine years) of: (1) its rules that have a significant economic impact on a substantial number of small entities, and (2) any small entity compliance guide required to be published by an agency. Sets forth criteria for review of a rule, including the continued need for the rule, the complexity of the rule, and the economic impact of the rule on small entities. Requires: (1) each agency to publish in the Federal Register and on the agency website a list of the rules and small entity compliance guides to be reviewed under the plan, and (2) the agency Inspector General to determine whether the agency has conducted the required review.
+
+Provides that each covered rule (i.e., any rule for which an agency is required to prepare a regulatory flexibility analysis and which is a major rule) promulgated by an agency shall cease to have effect seven years after the final version of such rule is published unless renewed by the agency using the notice and comment rulemaking process.</summary>
+</bill>

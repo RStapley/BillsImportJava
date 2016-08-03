@@ -1,0 +1,47 @@
+<bill session="114" type="hr" number="345" updated="2015-07-03T04:46:34-04:00">
+  <state datetime="2015-06-25">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-25"/>
+  </status>
+  <introduced datetime="2015-06-25"/>
+  <titles>
+    <title type="official" as="introduced">Expressing support for designation of the month of June 2015 as "National Post-Traumatic Stress Awareness Month" and June 27, 2015, as "National Post-Traumatic Stress Awareness Day".</title>
+  </titles>
+  <sponsor id="412523"/>
+  <cosponsors>
+    <cosponsor id="412613" joined="2015-06-25"/>
+    <cosponsor id="400209" joined="2015-06-25"/>
+    <cosponsor id="400295" joined="2015-06-25"/>
+    <cosponsor id="412506" joined="2015-06-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-25" state="REFERRED">
+      <text>Referred to the Committee on Armed Services, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-06-25">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2015-06-25">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2015-07-02">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="sr" number="215"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <summary>6/25/2015--Introduced.
+Supports:
+
+ the designation of National Post-Traumatic Stress Awareness Month and National Post-Traumatic Stress Awareness Day; and efforts of the Department of Veterans Affairs and the Department of Defense, as well as the medical community, to educate members of the Armed Forces, veterans, their families, and the public about the causes, symptoms, and treatment of post-traumatic stress (PTS) injuries. Encourages Armed Forces commanders to support appropriate treatment of personnel diagnosed with PTS.</summary>
+</bill>

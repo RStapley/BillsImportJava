@@ -1,0 +1,66 @@
+<bill session="114" type="s" number="1082" updated="2015-07-31T04:47:40-04:00">
+  <state datetime="2015-07-22">REPORTED</state>
+  <status>
+    <unknown datetime="2015-07-22"/>
+  </status>
+  <introduced datetime="2015-04-23"/>
+  <titles>
+    <title type="short" as="introduced">Department of Veterans Affairs Accountability Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend title 38, United States Code, to provide for the removal or demotion of employees of the Department of Veterans Affairs based on performance or misconduct, and for other purposes.</title>
+  </titles>
+  <sponsor id="412491"/>
+  <cosponsors>
+    <cosponsor id="412251" joined="2015-06-03"/>
+    <cosponsor id="400054" joined="2015-07-30"/>
+    <cosponsor id="412269" joined="2015-07-16"/>
+    <cosponsor id="300027" joined="2015-07-22"/>
+    <cosponsor id="400134" joined="2015-07-16"/>
+    <cosponsor id="300052" joined="2015-07-22"/>
+    <cosponsor id="412496" joined="2015-07-22"/>
+    <cosponsor id="300071" joined="2015-07-22"/>
+    <cosponsor id="400408" joined="2015-06-18"/>
+    <cosponsor id="400418" joined="2015-05-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-23" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2015-06-24">
+      <text>Committee on Veterans' Affairs. Hearings held.</text>
+    </action>
+    <calendar datetime="2015-07-22" state="REPORTED">
+      <text>Committee on Veterans' Affairs. Ordered to be reported with amendments favorably.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, Hearings, Markup"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1994"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Veterans Affairs"/>
+    <term name="Employee performance"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Government ethics and transparency, public corruption"/>
+    <term name="Government studies and investigations"/>
+    <term name="Labor-management relations"/>
+  </subjects>
+  <amendments/>
+  <summary>4/23/2015--Introduced.
+Department of Veterans Affairs Accountability Act of 2015
+
+This bill authorizes the Department of Veterans Affairs (VA) to remove or demote a VA employee based on performance or misconduct.
+
+The VA may also remove such individual from the civil service or demote the individual through a reduction in grade or annual pay rate.
+
+An employee shall have the right to an appeal before the Merit Systems Protection Board within seven days of removal or demotion. An administrative law judge shall have to make a final decision within 45 days of such appeal or the original decision becomes final.
+
+The VA may not remove or demote an employee without the approval of the Special Counsel if the individual seeks corrective action from the Office of Special Counsel based on an alleged prohibited personnel practice.
+
+The appointment of an individual to a permanent position within the competitive service or as a career appointee within the Senior Executive Service shall become final after a 540-day probationary period, which the Secretary may extend. Final appointment to a permanent hire shall be made by the employee's supervisor.
+
+The Government Accountability Office shall study the amount of time spent by VA employees carrying out labor organizing activities and the amount of Department space used for such activities.</summary>
+</bill>

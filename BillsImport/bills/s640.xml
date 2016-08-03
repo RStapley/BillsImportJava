@@ -1,0 +1,49 @@
+<bill session="114" type="s" number="640" updated="2015-06-09T04:47:21-04:00">
+  <state datetime="2015-03-03">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-03"/>
+  </status>
+  <introduced datetime="2015-03-03"/>
+  <titles>
+    <title type="short" as="introduced">ORDEAL Act of 2015</title>
+    <title type="short" as="introduced">Ozone Regulatory Delay and Extension of Assessment Length Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend the Clean Air Act to delay the review and revision of the national ambient air quality standards for ozone.</title>
+  </titles>
+  <sponsor id="400134"/>
+  <cosponsors>
+    <cosponsor id="402675" joined="2015-03-03"/>
+    <cosponsor id="300027" joined="2015-03-03"/>
+    <cosponsor id="300030" joined="2015-03-03"/>
+    <cosponsor id="300041" joined="2015-03-03"/>
+    <cosponsor id="300052" joined="2015-03-04"/>
+    <cosponsor id="300055" joined="2015-03-03"/>
+    <cosponsor id="412495" joined="2015-03-03"/>
+    <cosponsor id="300071" joined="2015-03-03"/>
+    <cosponsor id="300088" joined="2015-06-08"/>
+    <cosponsor id="400546" joined="2015-03-04"/>
+    <cosponsor id="400418" joined="2015-03-03"/>
+    <cosponsor id="400432" joined="2015-03-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-03" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+    <action datetime="2015-06-03">
+      <text>Committee on Environment and Public Works. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1327"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Air quality"/>
+    <term name="Environmental Protection Agency (EPA)"/>
+    <term name="Environmental regulatory procedures"/>
+  </subjects>
+  <amendments/>
+</bill>

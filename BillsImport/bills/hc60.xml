@@ -1,0 +1,33 @@
+<bill session="114" type="hc" number="60" updated="2015-08-15T06:49:12-04:00">
+  <state datetime="2015-07-10">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-10"/>
+  </status>
+  <introduced datetime="2015-07-10"/>
+  <titles>
+    <title type="official" as="introduced">Expressing the sense of Congress that female athletes be paid the same as their male counterparts and organizers of world class competitions actively take part in combating the wage gap.</title>
+  </titles>
+  <sponsor id="412195"/>
+  <cosponsors>
+    <cosponsor id="412616" joined="2015-07-21"/>
+    <cosponsor id="400251" joined="2015-07-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-10" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Sports and recreation"/>
+    <term name="Athletes"/>
+    <term name="Employment discrimination and employee rights"/>
+    <term name="Professional sports"/>
+    <term name="Wages and earnings"/>
+    <term name="Women's employment"/>
+  </subjects>
+  <amendments/>
+</bill>

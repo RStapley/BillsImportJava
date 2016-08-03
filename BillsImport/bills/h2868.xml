@@ -1,0 +1,45 @@
+<bill session="114" type="h" number="2868" updated="2015-08-22T06:43:18-04:00">
+  <state datetime="2015-06-24">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-24"/>
+  </status>
+  <introduced datetime="2015-06-24"/>
+  <titles>
+    <title type="short" as="introduced">Small Business Health Fairness Act of 2015</title>
+    <title type="official" as="introduced">To amend title I of the Employee Retirement Income Security Act of 1974 to improve access and choice for entrepreneurs with small businesses with respect to medical care for their employees.</title>
+  </titles>
+  <sponsor id="400206"/>
+  <cosponsors>
+    <cosponsor id="400032" joined="2015-07-15"/>
+    <cosponsor id="400077" joined="2015-07-15"/>
+    <cosponsor id="400175" joined="2015-07-21"/>
+    <cosponsor id="412302" joined="2015-07-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-24" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="2300"/>
+    <bill relation="unknown" session="114" type="h" number="2653"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Advisory bodies"/>
+    <term name="Department of Labor"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Federal preemption"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Licensing and registrations"/>
+    <term name="Small business"/>
+    <term name="State and local taxation"/>
+    <term name="User charges and fees"/>
+  </subjects>
+  <amendments/>
+</bill>

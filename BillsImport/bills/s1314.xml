@@ -1,0 +1,31 @@
+<bill session="114" type="s" number="1314" updated="2015-08-05T04:47:52-04:00">
+  <state datetime="2015-05-13">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-13"/>
+  </status>
+  <introduced datetime="2015-05-13"/>
+  <titles>
+    <title type="short" as="introduced">Commercial UAS Modernization Act</title>
+    <title type="official" as="introduced">A bill to establish an interim rule for the operation of small unmanned aircraft for commercial purposes and their safe integration into the national airspace system.</title>
+  </titles>
+  <sponsor id="412598"/>
+  <cosponsors>
+    <cosponsor id="412554" joined="2015-07-13"/>
+    <cosponsor id="412494" joined="2015-05-13"/>
+    <cosponsor id="412321" joined="2015-08-03"/>
+    <cosponsor id="300100" joined="2015-08-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-13" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+</bill>

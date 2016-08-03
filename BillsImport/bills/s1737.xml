@@ -1,0 +1,43 @@
+<bill session="114" type="s" number="1737" updated="2015-07-25T07:03:45-04:00">
+  <state datetime="2015-07-09">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-09"/>
+  </status>
+  <introduced datetime="2015-07-09"/>
+  <titles>
+    <title type="short" as="introduced">Bring Jobs Home Act</title>
+    <title type="official" as="introduced">A bill to provide an incentive for businesses to bring jobs back to America.</title>
+  </titles>
+  <sponsor id="300093"/>
+  <cosponsors>
+    <cosponsor id="400013" joined="2015-07-09"/>
+    <cosponsor id="412490" joined="2015-07-09"/>
+    <cosponsor id="400064" joined="2015-07-09"/>
+    <cosponsor id="412378" joined="2015-07-09"/>
+    <cosponsor id="412242" joined="2015-07-09"/>
+    <cosponsor id="400253" joined="2015-07-09"/>
+    <cosponsor id="412325" joined="2015-07-09"/>
+    <cosponsor id="412305" joined="2015-07-09"/>
+    <cosponsor id="300081" joined="2015-07-09"/>
+    <cosponsor id="300087" joined="2015-07-09"/>
+    <cosponsor id="412323" joined="2015-07-09"/>
+    <cosponsor id="400413" joined="2015-07-09"/>
+    <cosponsor id="412542" joined="2015-07-09"/>
+    <cosponsor id="412247" joined="2015-07-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-09" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="2963"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+</bill>

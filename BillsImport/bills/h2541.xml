@@ -1,0 +1,37 @@
+<bill session="114" type="h" number="2541" updated="2015-08-15T06:40:36-04:00">
+  <state datetime="2015-05-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-21"/>
+  </status>
+  <introduced datetime="2015-05-21"/>
+  <titles>
+    <title type="short" as="introduced">Rhode Island Fishermen's Fairness Act</title>
+    <title type="official" as="introduced">To amend the Magnuson-Stevens Fishery Conservation and Management Act to add Rhode Island to the Mid-Atlantic Fishery Management Council.</title>
+  </titles>
+  <sponsor id="400230"/>
+  <cosponsors>
+    <cosponsor id="412470" joined="2015-05-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-21" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2015-06-16">
+      <text>Referred to the Subcommittee on Water, Power and Oceans.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII13" subcommittee="Water, Power and Oceans" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="1414"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Atlantic Ocean"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Rhode Island"/>
+  </subjects>
+  <amendments/>
+</bill>

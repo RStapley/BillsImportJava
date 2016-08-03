@@ -1,0 +1,128 @@
+<bill session="114" type="hr" number="130" updated="2015-07-30T04:47:32-04:00">
+  <state datetime="2015-02-27">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-27"/>
+  </status>
+  <introduced datetime="2015-02-27"/>
+  <titles>
+    <title type="official" as="introduced">To express the sense of the House of Representatives regarding the rise of anti-Semitism in Europe and to encourage greater cooperation with the European governments, the European Union, and the Organization for Security and Co-operation in Europe in preventing and responding to anti-Semitism.</title>
+  </titles>
+  <sponsor id="400170"/>
+  <cosponsors>
+    <cosponsor id="412500" joined="2015-04-15"/>
+    <cosponsor id="412565" joined="2015-04-23"/>
+    <cosponsor id="412635" joined="2015-07-16"/>
+    <cosponsor id="400030" joined="2015-06-12"/>
+    <cosponsor id="412652" joined="2015-04-14"/>
+    <cosponsor id="400047" joined="2015-04-14"/>
+    <cosponsor id="400048" joined="2015-04-14"/>
+    <cosponsor id="412571" joined="2015-04-14"/>
+    <cosponsor id="400071" joined="2015-04-23"/>
+    <cosponsor id="412221" joined="2015-07-23"/>
+    <cosponsor id="412236" joined="2015-04-14"/>
+    <cosponsor id="400077" joined="2015-04-14"/>
+    <cosponsor id="412658" joined="2015-04-14"/>
+    <cosponsor id="400080" joined="2015-04-14"/>
+    <cosponsor id="412544" joined="2015-04-23"/>
+    <cosponsor id="412403" joined="2015-04-14"/>
+    <cosponsor id="400648" joined="2015-04-14"/>
+    <cosponsor id="412385" joined="2015-04-14"/>
+    <cosponsor id="412420" joined="2015-02-27"/>
+    <cosponsor id="400122" joined="2015-04-15"/>
+    <cosponsor id="412524" joined="2015-04-14"/>
+    <cosponsor id="400646" joined="2015-06-09"/>
+    <cosponsor id="412529" joined="2015-05-12"/>
+    <cosponsor id="412327" joined="2015-05-19"/>
+    <cosponsor id="412453" joined="2015-04-14"/>
+    <cosponsor id="412276" joined="2015-04-14"/>
+    <cosponsor id="412447" joined="2015-05-13"/>
+    <cosponsor id="400185" joined="2015-04-14"/>
+    <cosponsor id="400195" joined="2015-04-14"/>
+    <cosponsor id="412561" joined="2015-04-14"/>
+    <cosponsor id="412284" joined="2015-04-14"/>
+    <cosponsor id="412460" joined="2015-06-12"/>
+    <cosponsor id="412199" joined="2015-07-28"/>
+    <cosponsor id="412226" joined="2015-06-15"/>
+    <cosponsor id="412566" joined="2015-04-28"/>
+    <cosponsor id="400219" joined="2015-04-28"/>
+    <cosponsor id="400224" joined="2015-07-22"/>
+    <cosponsor id="412290" joined="2015-04-14"/>
+    <cosponsor id="412256" joined="2015-04-29"/>
+    <cosponsor id="400238" joined="2015-04-14"/>
+    <cosponsor id="412616" joined="2015-04-14"/>
+    <cosponsor id="400630" joined="2015-04-14"/>
+    <cosponsor id="412521" joined="2015-04-28"/>
+    <cosponsor id="400246" joined="2015-04-14"/>
+    <cosponsor id="412562" joined="2015-04-14"/>
+    <cosponsor id="400263" joined="2015-04-14"/>
+    <cosponsor id="412611" joined="2015-04-28"/>
+    <cosponsor id="412552" joined="2015-04-17"/>
+    <cosponsor id="412560" joined="2015-04-14"/>
+    <cosponsor id="400661" joined="2015-05-18"/>
+    <cosponsor id="412527" joined="2015-04-14"/>
+    <cosponsor id="400285" joined="2015-04-14"/>
+    <cosponsor id="400308" joined="2015-04-14"/>
+    <cosponsor id="400309" joined="2015-04-14"/>
+    <cosponsor id="412569" joined="2015-04-14"/>
+    <cosponsor id="412523" joined="2015-07-29"/>
+    <cosponsor id="412659" joined="2015-07-29"/>
+    <cosponsor id="400652" joined="2015-04-17"/>
+    <cosponsor id="412308" joined="2015-04-15"/>
+    <cosponsor id="412431" joined="2015-04-14"/>
+    <cosponsor id="412331" joined="2015-04-14"/>
+    <cosponsor id="412647" joined="2015-04-28"/>
+    <cosponsor id="412426" joined="2015-04-14"/>
+    <cosponsor id="400344" joined="2015-04-29"/>
+    <cosponsor id="412202" joined="2015-04-28"/>
+    <cosponsor id="400352" joined="2015-04-14"/>
+    <cosponsor id="412399" joined="2015-04-23"/>
+    <cosponsor id="409888" joined="2015-04-14"/>
+    <cosponsor id="412186" joined="2015-04-14"/>
+    <cosponsor id="412514" joined="2015-04-14"/>
+    <cosponsor id="400406" joined="2015-04-28"/>
+    <cosponsor id="412636" joined="2015-06-18"/>
+    <cosponsor id="400623" joined="2015-04-14"/>
+    <cosponsor id="412574" joined="2015-06-02"/>
+    <cosponsor id="412412" joined="2015-04-14"/>
+    <cosponsor id="412402" joined="2015-04-15"/>
+    <cosponsor id="412416" joined="2015-05-18"/>
+    <cosponsor id="412646" joined="2015-04-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-27" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2015-03-20">
+      <text>Referred to the Subcommittee on Africa, Global Health, Global Human Rights and International Organizations.</text>
+    </action>
+    <action datetime="2015-03-20">
+      <text>Referred to the Subcommittee on Europe, Eurasia, and Emerging Threats.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSFA16" subcommittee="Africa, Global Health, Global Human Rights and International Organizations" name="House Foreign Affairs"/>
+    <committee activity="Referral" code="HSFA14" subcommittee="Europe, Eurasia, and Emerging Threats" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="sr" number="87"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Crime victims"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="Europe"/>
+    <term name="European Union"/>
+    <term name="Human rights"/>
+    <term name="International organizations and cooperation"/>
+    <term name="Law enforcement officers"/>
+    <term name="Racial and ethnic relations"/>
+    <term name="Religion"/>
+    <term name="Terrorism"/>
+    <term name="Violent crime"/>
+  </subjects>
+  <amendments/>
+  <summary>2/27/2015--Introduced.
+Urges the Secretary of State, the Attorney General, and other relevant U.S. government agencies and officials to work with the European Union and European governments to encourage further efforts to address anti-Semitism.</summary>
+</bill>

@@ -1,0 +1,60 @@
+<bill session="114" type="s" number="434" updated="2015-05-07T04:48:07-04:00">
+  <state datetime="2015-05-06">REPORTED</state>
+  <status>
+    <unknown datetime="2015-05-06"/>
+  </status>
+  <introduced datetime="2015-02-10"/>
+  <titles>
+    <title type="short" as="introduced">Security Clearance Accountability, Reform, and Enhancement Act of 2015</title>
+    <title type="official" as="introduced">A bill to strengthen the accountability of individuals involved in misconduct affecting the integrity of background investigations, to update guidelines for security clearances, to prevent conflicts of interest relating to contractors providing background investigation fieldwork services and investigative support services, and for other purposes.</title>
+  </titles>
+  <sponsor id="412244"/>
+  <cosponsors>
+    <cosponsor id="412243" joined="2015-02-10"/>
+    <cosponsor id="400325" joined="2015-05-04"/>
+    <cosponsor id="400418" joined="2015-02-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-10" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <calendar datetime="2015-05-06" state="REPORTED">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congressional oversight"/>
+    <term name="Consumer credit"/>
+    <term name="Fraud offenses and financial crimes"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Government ethics and transparency, public corruption"/>
+    <term name="Government studies and investigations"/>
+    <term name="Intelligence activities, surveillance, classified information"/>
+    <term name="Personnel records"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Student records"/>
+  </subjects>
+  <amendments/>
+  <summary>2/10/2015--Introduced.
+Security Clearance Accountability, Reform, and Enhancement Act of 2015
+
+Deems a federal agency employee to be unfit for federal employment if the agency determines that the employee has engaged in misconduct affecting the integrity of a background investigation, including falsification of any information relating to such an investigation (covered misconduct). Prohibits an individual who has engaged in covered misconduct from being appointed to or continuing to occupy a position that requires the performance of background investigations.
+
+Extends such sanctions to employees performing background investigations under a contract between an agency and a prime contractor and subcontractors (covered contract). Requires a covered contract to include provisions requiring mandatory disclosure of covered misconduct within 24 hours after the contractor discovers such misconduct and referral to the agency for investigation.
+
+Requires the President to report annually to Congress on: (1) the number of individuals determined to be unfit for federal employment due to covered misconduct or ineligible to perform work under a covered contract, and (2) the details of such misconduct.
+
+Requires the President to: (1) review and update guidance to assist agencies in determining position sensitivity designation and the appropriate background investigation to initiate for each position designation; (2) review, not less frequently than every five years, and revise the position designation of positions within federal agencies; and (3) report on any issues identified and the number of position designations revised as a result of the review.
+
+ Provides that a contract may not be entered into, and an extension of or option on a contract may not be exercised, with a contractor to conduct a quality review process relating to background investigation fieldwork or support services if the contractor is performing the services to be reviewed.
+
+Defines:
+
+"background investigation fieldwork services" as the investigatory fieldwork conducted to determine the eligibility of an individual for logical and physical access to federally-controlled facilities or information systems, suitability or fitness for federal employment, eligibility for access to classified information or to hold a national security sensitive position, or fitness to perform work for or on behalf of the federal government as a contractor or employee, including interviews with individuals who might have relevant knowledge of the individual and reviews of educational and employment records, criminal and other legal records, and credit history; and 
+ "quality review process" as performing the final quality review of a background investigation to ensure that investigative, administrative, and other required standards have been met before the completed background investigation is delivered to the adjudicating agency (i.e., the agency that requested the background check and that has final decision-making authority).</summary>
+</bill>

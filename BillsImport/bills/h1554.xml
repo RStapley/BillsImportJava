@@ -1,0 +1,57 @@
+<bill session="114" type="h" number="1554" updated="2015-08-15T06:32:16-04:00">
+  <state datetime="2015-07-09">REPORTED</state>
+  <status>
+    <unknown datetime="2015-07-09"/>
+  </status>
+  <introduced datetime="2015-03-23"/>
+  <titles>
+    <title type="short" as="introduced">Elkhorn Ranch and White River National Forest Conveyance Act of 2015</title>
+    <title type="official" as="introduced">To require a land conveyance involving the Elkhorn Ranch and the White River National Forest in the State of Colorado, and for other purposes.</title>
+  </titles>
+  <sponsor id="412405"/>
+  <cosponsors>
+    <cosponsor id="412308" joined="2015-03-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-23" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2015-04-08">
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+    </action>
+    <action datetime="2015-06-16">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="2015-07-08">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2015-07-09">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-07-09" state="REPORTED">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+    </calendar>
+    <action datetime="2015-07-09">
+      <text>Subcommittee on Federal Lands Discharged.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII10" subcommittee="Federal Lands" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="1942"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+  <summary>3/23/2015--Introduced.
+Elkhorn Ranch and White River National Forest Conveyance Act of 2015
+
+ Requires all interest of the United States in 148 acres of identified land to be conveyed by patent to the Gordman-Leverich Partnership (GLP), a Colorado Limited Liability Limited Partnership.
+
+States that the conveyance: (1) is subject to the valid existing rights of the lessee of federal oil and gas lease COC-75070 and any other valid existing rights, and (2) shall reserve to the United States the right to collect rent and royalty payments on such lease for its duration.
+
+Requires the conveyance to: (1) be completed by no later than 180 days of enactment of this Act; and (2) be without consideration, except that all costs incurred by the Department of the Interior relating to any survey, platting, legal description, or other activities carried out to prepare and issue the patent shall be paid by GLP to Interior prior to the conveyance of such land.</summary>
+</bill>

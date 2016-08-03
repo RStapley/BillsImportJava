@@ -1,0 +1,34 @@
+<bill session="114" type="h" number="2881" updated="2015-07-25T06:43:04-04:00">
+  <state datetime="2015-06-24">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-24"/>
+  </status>
+  <introduced datetime="2015-06-24"/>
+  <titles>
+    <title type="short" as="introduced">Small Business Job Protection Act of 2015</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to modify the definition of applicable large employer for purposes of the employer mandate in the Patient Protection and Affordable Care Act.</title>
+  </titles>
+  <sponsor id="412540"/>
+  <cosponsors>
+    <cosponsor id="400141" joined="2015-06-24"/>
+    <cosponsor id="412552" joined="2015-06-24"/>
+    <cosponsor id="412428" joined="2015-06-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-24" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+  <summary>6/24/2015--Introduced.
+Small Business Job Protection Act of 2015
+
+Amends the Internal Revenue Code, as amended by the Patient Protection and Affordable Care Act, to redefine "applicable large employer," for purposes of the mandate requiring employers to provide health insurance for their employees, to mean an employer with at least 100 full-time employees (currently, 50).</summary>
+</bill>

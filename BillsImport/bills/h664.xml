@@ -1,0 +1,83 @@
+<bill session="114" type="h" number="664" updated="2015-07-30T04:48:02-04:00">
+  <state datetime="2015-02-02">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-02"/>
+  </status>
+  <introduced datetime="2015-02-02"/>
+  <titles>
+    <title type="short" as="introduced">Freedom to Travel to Cuba Act of 2015</title>
+    <title type="official" as="introduced">To allow travel between the United States and Cuba.</title>
+  </titles>
+  <sponsor id="400607"/>
+  <cosponsors>
+    <cosponsor id="412642" joined="2015-07-15"/>
+    <cosponsor id="412195" joined="2015-02-03"/>
+    <cosponsor id="412270" joined="2015-02-02"/>
+    <cosponsor id="412221" joined="2015-07-15"/>
+    <cosponsor id="412555" joined="2015-02-02"/>
+    <cosponsor id="400100" joined="2015-04-23"/>
+    <cosponsor id="400103" joined="2015-02-03"/>
+    <cosponsor id="412215" joined="2015-04-23"/>
+    <cosponsor id="412639" joined="2015-06-01"/>
+    <cosponsor id="400129" joined="2015-02-03"/>
+    <cosponsor id="400162" joined="2015-04-29"/>
+    <cosponsor id="400185" joined="2015-04-23"/>
+    <cosponsor id="412511" joined="2015-06-02"/>
+    <cosponsor id="400195" joined="2015-04-23"/>
+    <cosponsor id="400199" joined="2015-04-23"/>
+    <cosponsor id="412561" joined="2015-06-23"/>
+    <cosponsor id="412199" joined="2015-04-23"/>
+    <cosponsor id="400209" joined="2015-02-24"/>
+    <cosponsor id="400237" joined="2015-02-02"/>
+    <cosponsor id="412294" joined="2015-03-06"/>
+    <cosponsor id="412503" joined="2015-02-04"/>
+    <cosponsor id="400259" joined="2015-06-09"/>
+    <cosponsor id="400262" joined="2015-04-23"/>
+    <cosponsor id="400263" joined="2015-02-02"/>
+    <cosponsor id="400289" joined="2015-07-15"/>
+    <cosponsor id="400295" joined="2015-04-23"/>
+    <cosponsor id="412575" joined="2015-04-23"/>
+    <cosponsor id="400316" joined="2015-07-15"/>
+    <cosponsor id="412308" joined="2015-04-29"/>
+    <cosponsor id="400333" joined="2015-02-02"/>
+    <cosponsor id="412489" joined="2015-07-29"/>
+    <cosponsor id="400350" joined="2015-04-23"/>
+    <cosponsor id="400402" joined="2015-04-23"/>
+    <cosponsor id="412318" joined="2015-07-15"/>
+    <cosponsor id="412319" joined="2015-07-15"/>
+    <cosponsor id="400415" joined="2015-02-03"/>
+    <cosponsor id="400416" joined="2015-02-03"/>
+    <cosponsor id="412214" joined="2015-04-23"/>
+    <cosponsor id="400422" joined="2015-04-23"/>
+    <cosponsor id="412239" joined="2015-02-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-02" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2015-03-20">
+      <text>Referred to the Subcommittee on the Western Hemisphere.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSFA07" subcommittee="Western Hemisphere" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="299"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Caribbean area"/>
+    <term name="Cuba"/>
+    <term name="Latin America"/>
+    <term name="Travel and tourism"/>
+  </subjects>
+  <amendments/>
+  <summary>2/2/2015--Introduced.
+Freedom to Travel to Cuba Act of 2015
+
+This bill states that:
+
+ the President may not prohibit or otherwise regulate travel to or from Cuba by U.S. citizens or legal residents, or any of the transactions incident to such travel, including banking transactions; any regulation in effect on the date of enactment of this Act prohibiting or otherwise regulating such travel or transactions incident to such travel shall cease to have any force or effective; but the prohibitions and requirements of this Act shall not apply if the United States is at war with Cuba, armed hostilities between the two countries are in progress, or there is imminent danger to the public health or the physical safety of U.S. travelers.</summary>
+</bill>

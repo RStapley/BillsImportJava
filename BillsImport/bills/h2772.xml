@@ -1,0 +1,40 @@
+<bill session="114" type="h" number="2772" updated="2015-07-18T06:42:01-04:00">
+  <state datetime="2015-06-15T19:15:00-04:00">REPORTED</state>
+  <status>
+    <unknown datetime="2015-06-15T19:15:00-04:00"/>
+  </status>
+  <introduced datetime="2015-06-15"/>
+  <titles>
+    <title type="short" as="introduced">Department of State, Foreign Operations, and Related Programs Appropriations Act, 2016</title>
+    <title type="short" as="reported to house">Department of State, Foreign Operations, and Related Programs Appropriations Act, 2016</title>
+    <title type="official" as="introduced">Making appropriations for the Department of State, foreign operations, and related programs for the fiscal year ending September 30, 2016, and for other purposes.</title>
+  </titles>
+  <sponsor id="400157"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-06-15T19:15:00-04:00">
+      <text>The House Committee on Appropriations reported an original measure, H. Rept. 114-154, by Ms. Granger.</text>
+    </action>
+    <calendar datetime="2015-06-15T19:15:00-04:00" state="REPORTED" calendar="Union" number="112">
+      <text>Placed on the Union Calendar, Calendar No. 112.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSAP" name="House Appropriations" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1725"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+  </subjects>
+  <amendments/>
+  <summary>6/15/2015--Introduced.
+Department of State, Foreign Operations, and Related Programs Appropriations Act, 2016 
+
+Makes FY2016 appropriations for the Department of State for:
+
+ administration of foreign affairs and diplomatic and consular programs; the Capital Investment Fund; the Office of Inspector General; educational and cultural exchange programs; representation allowances; protection of foreign missions and officials; U.S. embassy security, construction, and maintenance; emergencies in the diplomatic and consular service; the repatriation loans program account; the American Institute in Taiwan; the Foreign Service Retirement and Disability Fund; international organizations, peacekeeping, and commissions; the International Boundary and Water Commission, United States and Mexico; salaries and expenses; plan preparation and construction of authorized projects; the International Joint Commission, the International Boundary Commission, United States and Canada, and the Border Environment Cooperation Commission; international fisheries commissions; international broadcasting operations and capital improvements; the Asia Foundation; the United States Institute for Peace; the Center for Middle Eastern-Western Dialogue Trust Fund; the Eisenhower Exchange Fellowships, Incorporated; the Israeli Arab Scholarship Program; the National Endowment for Democracy; the Commission for Preservation of America's Heritage Abroad; the United States Commission on International Religious Freedom; the Commission on Security and Cooperation in Europe; the Congressional-Executive Commission on the People's Republic of China; and the United States-China Economic and Security Review Commission. Makes FY2016 appropriations for:
+
+ operating expenses of the U. S. Agency for International Development (USAID), the capital investment fund, and the Office of Inspector General; expenses of the President in carrying out certain programs under the Foreign Assistance Act of 1961, global health and child survival; specified development assistance; international disaster assistance; transition initiatives; development credit authority; the Economic Support Fund; promotion of democracy; migration and refugee assistance; the Peace Corps; the Millennium Challenge Corporation; the Inter-American Foundation; the United States African Development Foundation; the Department of the Treasury for international affairs technical assistance activities; international narcotics control and law enforcement; nonproliferation, anti-terrorism, and demining; international peacekeeping operations; international military education and training; foreign military financing grants; the International Development Association; the Asian Development Fund; the African Development Fund; the Export-Import Bank of the United States, including the Office of Inspector General; the Overseas Private Investment Corporation; andthe Trade and Development Agency. Sets forth certain limits and prohibitions on the use of appropriations for specified activities.</summary>
+</bill>

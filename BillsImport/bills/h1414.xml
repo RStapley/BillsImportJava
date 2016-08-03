@@ -1,0 +1,53 @@
+<bill session="114" type="h" number="1414" updated="2015-06-19T04:47:15-04:00">
+  <state datetime="2015-03-17">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-17"/>
+  </status>
+  <introduced datetime="2015-03-17"/>
+  <titles>
+    <title type="short" as="introduced">Pay As You Rate Act</title>
+    <title type="official" as="introduced">To direct the Secretary to make interim payments of disability compensation benefits for certain claims for such compensation prior to the adjudication of such claims, and for other purposes.</title>
+  </titles>
+  <sponsor id="412318"/>
+  <cosponsors>
+    <cosponsor id="412544" joined="2015-04-30"/>
+    <cosponsor id="412385" joined="2015-04-30"/>
+    <cosponsor id="412529" joined="2015-04-30"/>
+    <cosponsor id="400237" joined="2015-04-30"/>
+    <cosponsor id="412209" joined="2015-06-18"/>
+    <cosponsor id="412331" joined="2015-04-30"/>
+    <cosponsor id="412519" joined="2015-04-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-17" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2015-03-27">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+    </action>
+    <action datetime="2015-04-14">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="2015-05-14">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2015-05-14">
+      <text>Forwarded by Subcommittee to Full Committee in the Nature of a Substitute (Amended) by Voice Vote .</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSVR09" subcommittee="Disability Assistance and Memorial Affairs" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <summary>3/17/2015--Introduced.
+Pay As You Rate Act
+
+Directs the Secretary of Veterans Affairs, prior to adjudicating a claim that requires decisions with respect to two or more disabilities, to make interim payments based on any disability for which the Secretary has already made a decision.
+
+Requires the Secretary, upon claim adjudication, to pay the benefits awarded less the amount of the interim payments.</summary>
+</bill>

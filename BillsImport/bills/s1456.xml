@@ -1,0 +1,29 @@
+<bill session="114" type="s" number="1456" updated="2015-06-27T07:31:18-04:00">
+  <state datetime="2015-05-22">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-22"/>
+  </status>
+  <introduced datetime="2015-05-22"/>
+  <titles>
+    <title type="short" as="introduced">Rural ACO Improvement Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act to improve the way beneficiaries are assigned under the Medicare shared savings program by also basing such assignment on primary care services furnished by Federally qualified health centers, rural health clinics, nurse practitioners, physician assistants, and clinical nurse specialists.</title>
+  </titles>
+  <sponsor id="300018"/>
+  <cosponsors>
+    <cosponsor id="300076" joined="2015-05-22"/>
+    <cosponsor id="400546" joined="2015-05-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-22" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+</bill>

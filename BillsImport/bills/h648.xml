@@ -1,0 +1,97 @@
+<bill session="114" type="h" number="648" updated="2015-08-15T06:24:36-04:00">
+  <state datetime="2015-03-16T19:04:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2015-03-16T19:04:00-04:00"/>
+  </status>
+  <introduced datetime="2015-02-02"/>
+  <titles>
+    <title type="short" as="introduced">Trauma Systems and Regionalization of Emergency Care Reauthorization Act</title>
+    <title type="short" as="passed house">Trauma Systems and Regionalization of Emergency Care Reauthorization Act</title>
+    <title type="official" as="introduced">To amend title XII of the Public Health Service Act to reauthorize certain trauma care programs, and for other purposes.</title>
+  </titles>
+  <sponsor id="400052"/>
+  <cosponsors>
+    <cosponsor id="412250" joined="2015-03-16"/>
+    <cosponsor id="400032" joined="2015-02-13"/>
+    <cosponsor id="400033" joined="2015-03-16"/>
+    <cosponsor id="400048" joined="2015-03-04"/>
+    <cosponsor id="412477" joined="2015-03-04"/>
+    <cosponsor id="400160" joined="2015-02-02"/>
+    <cosponsor id="400162" joined="2015-02-13"/>
+    <cosponsor id="412280" joined="2015-03-16"/>
+    <cosponsor id="412583" joined="2015-03-04"/>
+    <cosponsor id="400238" joined="2015-02-24"/>
+    <cosponsor id="400295" joined="2015-03-04"/>
+    <cosponsor id="412308" joined="2015-03-04"/>
+    <cosponsor id="400350" joined="2015-02-13"/>
+    <cosponsor id="400363" joined="2015-03-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-02" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-02-06">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2015-03-16T15:00:00-04:00">
+      <text>Reported by the Committee on Energy and Commerce. H. Rept. 114-43.</text>
+    </action>
+    <calendar datetime="2015-03-16T15:00:00-04:00" state="REPORTED" calendar="Union" number="28">
+      <text>Placed on the Union Calendar, Calendar No. 28.</text>
+    </calendar>
+    <action datetime="2015-03-16T15:47:00-04:00">
+      <text>Mr. Burgess moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2015-03-16T15:47:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1642-1643" label="consideration"/>
+    </action>
+    <action datetime="2015-03-16T15:47:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 648.</text>
+    </action>
+    <action datetime="2015-03-16T15:54:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2015-03-16T18:56:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H1650" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="114" datetime="2015-03-16T19:04:00-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 382 - 15 (Roll no. 114).</text>
+      <reference ref="CR H1642-1643" label="text"/>
+    </vote>
+    <action datetime="2015-03-16T19:04:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2015-03-17">
+      <text>Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Reporting"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="763"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Emergency medical services and trauma care"/>
+    <term name="Health facilities and institutions"/>
+    <term name="Health programs administration and funding"/>
+  </subjects>
+  <amendments/>
+  <summary>3/16/2015--Passed House without amendment.
+(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)
+
+Trauma Systems and Regionalization of Emergency Care Reauthorization Act
+
+(Sec. 2) This bill amends the Public Health Service Act to reauthorize trauma care programs through FY2020.
+
+(Sec. 3) Grants for pilot projects of innovative models of emergency care and trauma systems can be allocated up to half of the remaining funds for trauma care after allocations for improvement of emergency medical services in rural areas and administrative purposes.
+
+State plans for emergency medical services are required to include the national standards and requirements of the American Burn Association for verified burn centers.
+
+The Department of Health and Human Services must update the model plan for designation of trauma centers and for triage, transfer, and transportation policies, taking into account standards from the American Burn Association.</summary>
+</bill>

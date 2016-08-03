@@ -1,0 +1,91 @@
+<bill session="114" type="h" number="1482" updated="2015-07-30T04:48:41-04:00">
+  <state datetime="2015-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-19"/>
+  </status>
+  <introduced datetime="2015-03-19"/>
+  <titles>
+    <title type="short" as="introduced">Fracturing Responsibility and Awareness of Chemicals Act of 2015</title>
+    <title type="official" as="introduced">To repeal the exemption for hydraulic fracturing in the Safe Drinking Water Act, and for other purposes.</title>
+  </titles>
+  <sponsor id="400101"/>
+  <cosponsors>
+    <cosponsor id="412615" joined="2015-07-15"/>
+    <cosponsor id="412657" joined="2015-03-23"/>
+    <cosponsor id="400033" joined="2015-03-23"/>
+    <cosponsor id="400062" joined="2015-03-24"/>
+    <cosponsor id="400063" joined="2015-03-23"/>
+    <cosponsor id="412571" joined="2015-03-23"/>
+    <cosponsor id="412195" joined="2015-03-23"/>
+    <cosponsor id="412379" joined="2015-04-13"/>
+    <cosponsor id="412600" joined="2015-03-23"/>
+    <cosponsor id="412236" joined="2015-03-24"/>
+    <cosponsor id="412272" joined="2015-03-23"/>
+    <cosponsor id="400090" joined="2015-05-18"/>
+    <cosponsor id="400100" joined="2015-04-13"/>
+    <cosponsor id="412263" joined="2015-03-23"/>
+    <cosponsor id="412215" joined="2015-05-21"/>
+    <cosponsor id="400124" joined="2015-03-23"/>
+    <cosponsor id="400129" joined="2015-03-23"/>
+    <cosponsor id="412453" joined="2015-03-19"/>
+    <cosponsor id="400162" joined="2015-03-23"/>
+    <cosponsor id="400170" joined="2015-04-21"/>
+    <cosponsor id="400641" joined="2015-06-02"/>
+    <cosponsor id="400185" joined="2015-03-23"/>
+    <cosponsor id="412511" joined="2015-03-23"/>
+    <cosponsor id="412435" joined="2015-03-23"/>
+    <cosponsor id="412583" joined="2015-04-13"/>
+    <cosponsor id="400237" joined="2015-05-22"/>
+    <cosponsor id="400238" joined="2015-04-13"/>
+    <cosponsor id="412616" joined="2015-04-13"/>
+    <cosponsor id="400245" joined="2015-03-23"/>
+    <cosponsor id="412521" joined="2015-03-23"/>
+    <cosponsor id="400246" joined="2015-06-08"/>
+    <cosponsor id="400251" joined="2015-03-23"/>
+    <cosponsor id="412562" joined="2015-03-23"/>
+    <cosponsor id="400259" joined="2015-07-14"/>
+    <cosponsor id="400263" joined="2015-05-22"/>
+    <cosponsor id="400289" joined="2015-03-23"/>
+    <cosponsor id="400290" joined="2015-05-12"/>
+    <cosponsor id="400295" joined="2015-03-23"/>
+    <cosponsor id="400308" joined="2015-03-23"/>
+    <cosponsor id="412307" joined="2015-03-23"/>
+    <cosponsor id="412585" joined="2015-03-23"/>
+    <cosponsor id="412308" joined="2015-03-23"/>
+    <cosponsor id="400326" joined="2015-04-13"/>
+    <cosponsor id="412331" joined="2015-03-23"/>
+    <cosponsor id="400333" joined="2015-03-23"/>
+    <cosponsor id="412212" joined="2015-03-24"/>
+    <cosponsor id="400360" joined="2015-03-23"/>
+    <cosponsor id="400361" joined="2015-03-23"/>
+    <cosponsor id="400366" joined="2015-06-02"/>
+    <cosponsor id="400378" joined="2015-03-23"/>
+    <cosponsor id="400379" joined="2015-04-13"/>
+    <cosponsor id="412514" joined="2015-05-21"/>
+    <cosponsor id="412520" joined="2015-07-29"/>
+    <cosponsor id="412319" joined="2015-03-23"/>
+    <cosponsor id="412254" joined="2015-03-23"/>
+    <cosponsor id="400415" joined="2015-03-23"/>
+    <cosponsor id="412239" joined="2015-03-23"/>
+    <cosponsor id="412211" joined="2015-05-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-19" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-03-20">
+      <text>Referred to the Subcommittee on Environment and the Economy.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF18" subcommittee="Environment and the Economy" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="785"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+  </subjects>
+  <amendments/>
+</bill>

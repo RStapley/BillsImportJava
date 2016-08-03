@@ -1,0 +1,27 @@
+<bill session="114" type="h" number="1596" updated="2015-04-11T06:30:35-04:00">
+  <state datetime="2015-03-24">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-24"/>
+  </status>
+  <introduced datetime="2015-03-24"/>
+  <titles>
+    <title type="official" as="introduced">To authorize the President to award the Medal of Honor to Special Forces Command Sergeant Major Ramon Rodriguez of the United States Army for acts of valor during the Vietnam War.</title>
+  </titles>
+  <sponsor id="400356"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-03-24" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+  </subjects>
+  <amendments/>
+  <summary>3/24/2015--Introduced.
+Authorizes the President to award the Medal of Honor to Command Sergeant Major Ramon Rodriguez of the U.S. Army for acts of valor, sacrifice, and courage at the risk of his own life beyond the call of duty during the Vietnam War, notwithstanding otherwise applicable time limitations.</summary>
+</bill>

@@ -1,0 +1,48 @@
+<bill session="114" type="h" number="2459" updated="2015-08-15T06:39:54-04:00">
+  <state datetime="2015-05-19">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-19"/>
+  </status>
+  <introduced datetime="2015-05-19"/>
+  <titles>
+    <title type="short" as="introduced">Delivering Antimicrobial Transparency in Animals Act of 2015</title>
+    <title type="official" as="introduced">To amend the Federal Food, Drug, and Cosmetic Act to enhance the reporting requirements pertaining to use of antimicrobial drugs in food animals.</title>
+  </titles>
+  <sponsor id="400378"/>
+  <cosponsors>
+    <cosponsor id="412385" joined="2015-06-03"/>
+    <cosponsor id="412616" joined="2015-05-19"/>
+    <cosponsor id="400333" joined="2015-05-19"/>
+    <cosponsor id="400360" joined="2015-05-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-19" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-05-22">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Business records"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Drug safety, medical device, and laboratory regulation"/>
+    <term name="Food and Drug Administration (FDA)"/>
+    <term name="Food supply, safety, and labeling"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Infectious and parasitic diseases"/>
+    <term name="Livestock"/>
+    <term name="Medical research"/>
+    <term name="Retail and wholesale trades"/>
+    <term name="Veterinary medicine and animal diseases"/>
+  </subjects>
+  <amendments/>
+</bill>

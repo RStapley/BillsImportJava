@@ -1,0 +1,28 @@
+<bill session="114" type="s" number="2005" updated="2015-08-22T07:08:32-04:00">
+  <state datetime="2015-08-06">REFERRED</state>
+  <status>
+    <introduced datetime="2015-08-06"/>
+  </status>
+  <introduced datetime="2015-08-06"/>
+  <titles>
+    <title type="short" as="introduced">Social Security Disability Insurance and Unemployment Benefits Double Dip Elimination Act</title>
+    <title type="official" as="introduced">A bill to amend title II of the Social Security Act to prevent concurrent receipt of unemployment benefits and Social Security disability insurance, and for other purposes.</title>
+  </titles>
+  <sponsor id="400418"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-08-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="499"/>
+  </relatedbills>
+  <subjects>
+    <term name="Social welfare"/>
+  </subjects>
+  <amendments/>
+</bill>

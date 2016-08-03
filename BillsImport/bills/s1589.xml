@@ -1,0 +1,59 @@
+<bill session="114" type="s" number="1589" updated="2015-08-06T04:48:44-04:00">
+  <state datetime="2015-06-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-16"/>
+  </status>
+  <introduced datetime="2015-06-16"/>
+  <titles>
+    <title type="short" as="introduced">BRIDGE Act</title>
+    <title type="short" as="introduced">Building and Renewing Infrastructure for Development and Growth in Employment Act</title>
+    <title type="official" as="introduced">A bill to facilitate efficient investments and financing of infrastructure projects and new, long-term job creation through the establishment of an Infrastructure Financing Authority, and for other purposes.</title>
+  </titles>
+  <sponsor id="412321"/>
+  <cosponsors>
+    <cosponsor id="412490" joined="2015-06-16"/>
+    <cosponsor id="400034" joined="2015-06-16"/>
+    <cosponsor id="412390" joined="2015-06-16"/>
+    <cosponsor id="412223" joined="2015-06-16"/>
+    <cosponsor id="300047" joined="2015-06-16"/>
+    <cosponsor id="412218" joined="2015-08-05"/>
+    <cosponsor id="400222" joined="2015-06-16"/>
+    <cosponsor id="412242" joined="2015-06-16"/>
+    <cosponsor id="412243" joined="2015-06-16"/>
+    <cosponsor id="412668" joined="2015-06-16"/>
+    <cosponsor id="400432" joined="2015-06-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-16" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+  <summary>6/16/2015--Introduced.
+Building and Renewing Infrastructure for Development and Growth in Employment Act or the BRIDGE Act
+
+ Establishes the Infrastructure Financing Authority (IFA) as a wholly-owned government corporation, headed by a Chief Executive Officer and managed by a Board of Directors, which shall provide direct loans and loan guarantees to facilitate the construction, consolidation, alteration, or repair of transportation, water, and energy infrastructure projects. Requires infrastructure projects assisted under this Act to have costs reasonably anticipated to equal or exceed $50 million ($10 million for rural infrastructure projects).
+
+Sets forth special requirements for infrastructure projects in rural areas.
+
+Establishes an Office of Technical and Rural Assistance to:
+
+ provide technical assistance to state and local governments and parties in public-private partnerships in the development and financing of eligible, including rural, infrastructure projects; and establish a regional infrastructure accelerator demonstration program. Establishes an Office of Special Inspector General to conduct, supervise, and coordinate audits and investigations of the business activities of IFA.
+
+Prohibits IFA financing of a project if:
+
+ it is private or does not create a public benefit, or the loan applicant is unable to demonstrate a sufficient revenue stream. Sets forth terms for loans or loan guarantees for eligible infrastructure projects and for the repayment of such loans. Requires an annual independent audit of IFA finances.
+
+Requires the President, immediately after IFA approves financing for a proposed project, to convene a meeting of representatives of all permitting agencies to:
+
+ establish a permitting timetable for the environmental review of a project, and coordinate with relevant state agencies and regional infrastructure development agencies in the review of such projects. Requires the Chief Executive Officer of IFA to:
+
+ establish fees with respect to loans and loan guarantees that are sufficient to cover IFA's administrative costs; and take actions to make IFA a self-sustaining entity, with administrative and federal credit subsidy costs fully funded by fees and risk premiums on loans and loan guarantees. Amends the Internal Revenue Code to increase from $15 billion to $16 billion the aggregate amount of proceeds from tax-exempt facility bonds the Department of Transportation shall allocate among qualified highway or surface freight transfer facilities.</summary>
+</bill>

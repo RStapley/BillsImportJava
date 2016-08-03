@@ -1,0 +1,44 @@
+<bill session="114" type="h" number="750" updated="2015-07-14T04:46:52-04:00">
+  <state datetime="2015-02-05">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-05"/>
+  </status>
+  <introduced datetime="2015-02-05"/>
+  <titles>
+    <title type="short" as="introduced">Family Care Savings Act</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to increase the amount excluded from gross income for employer-provided dependent care assistance.</title>
+  </titles>
+  <sponsor id="400644"/>
+  <cosponsors>
+    <cosponsor id="412600" joined="2015-03-18"/>
+    <cosponsor id="412661" joined="2015-02-12"/>
+    <cosponsor id="400271" joined="2015-07-13"/>
+    <cosponsor id="412560" joined="2015-02-05"/>
+    <cosponsor id="412540" joined="2015-02-12"/>
+    <cosponsor id="412551" joined="2015-05-14"/>
+    <cosponsor id="400355" joined="2015-07-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-05" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Adult day care"/>
+    <term name="Child care and development"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Income tax exclusion"/>
+    <term name="Inflation and prices"/>
+    <term name="Tax treatment of families"/>
+  </subjects>
+  <amendments/>
+  <summary>2/5/2015--Introduced.
+Family Care Savings Act 
+
+This bill amends the Internal Revenue Code to increase the amount of the tax exclusion for employer-provided dependent care assistance to $10,000 in a taxable year and to provide for an inflation adjustment to such increased amount after 2015.</summary>
+</bill>

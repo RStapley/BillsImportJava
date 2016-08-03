@@ -1,0 +1,97 @@
+<bill session="114" type="h" number="2775" updated="2015-07-30T04:49:48-04:00">
+  <state datetime="2015-06-15">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-15"/>
+  </status>
+  <introduced datetime="2015-06-15"/>
+  <titles>
+    <title type="short" as="introduced">Remote Transactions Parity Act of 2015</title>
+    <title type="official" as="introduced">To grant States authority to enforce State and local sales and use tax laws on remote transactions, and for other purposes.</title>
+  </titles>
+  <sponsor id="412270"/>
+  <cosponsors>
+    <cosponsor id="412615" joined="2015-07-29"/>
+    <cosponsor id="412500" joined="2015-06-25"/>
+    <cosponsor id="412469" joined="2015-06-15"/>
+    <cosponsor id="400018" joined="2015-07-15"/>
+    <cosponsor id="412236" joined="2015-07-13"/>
+    <cosponsor id="400080" joined="2015-06-15"/>
+    <cosponsor id="400081" joined="2015-07-16"/>
+    <cosponsor id="400086" joined="2015-06-25"/>
+    <cosponsor id="400657" joined="2015-07-15"/>
+    <cosponsor id="412621" joined="2015-06-15"/>
+    <cosponsor id="412505" joined="2015-06-15"/>
+    <cosponsor id="400648" joined="2015-06-24"/>
+    <cosponsor id="412385" joined="2015-06-15"/>
+    <cosponsor id="412420" joined="2015-06-15"/>
+    <cosponsor id="412457" joined="2015-06-15"/>
+    <cosponsor id="400162" joined="2015-07-21"/>
+    <cosponsor id="412645" joined="2015-07-09"/>
+    <cosponsor id="400170" joined="2015-07-15"/>
+    <cosponsor id="412584" joined="2015-06-25"/>
+    <cosponsor id="412199" joined="2015-06-15"/>
+    <cosponsor id="412566" joined="2015-06-24"/>
+    <cosponsor id="412583" joined="2015-06-15"/>
+    <cosponsor id="412421" joined="2015-07-15"/>
+    <cosponsor id="400233" joined="2015-06-15"/>
+    <cosponsor id="412656" joined="2015-06-17"/>
+    <cosponsor id="412643" joined="2015-07-15"/>
+    <cosponsor id="412475" joined="2015-06-15"/>
+    <cosponsor id="412523" joined="2015-07-07"/>
+    <cosponsor id="400652" joined="2015-07-13"/>
+    <cosponsor id="400326" joined="2015-07-28"/>
+    <cosponsor id="412393" joined="2015-07-29"/>
+    <cosponsor id="412462" joined="2015-07-07"/>
+    <cosponsor id="412483" joined="2015-06-15"/>
+    <cosponsor id="412311" joined="2015-07-27"/>
+    <cosponsor id="412411" joined="2015-06-17"/>
+    <cosponsor id="400355" joined="2015-06-17"/>
+    <cosponsor id="412417" joined="2015-06-25"/>
+    <cosponsor id="400376" joined="2015-07-16"/>
+    <cosponsor id="400379" joined="2015-07-13"/>
+    <cosponsor id="412259" joined="2015-06-15"/>
+    <cosponsor id="412461" joined="2015-06-15"/>
+    <cosponsor id="412514" joined="2015-07-10"/>
+    <cosponsor id="412579" joined="2015-07-07"/>
+    <cosponsor id="412214" joined="2015-07-28"/>
+    <cosponsor id="412239" joined="2015-06-15"/>
+    <cosponsor id="412402" joined="2015-06-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-15" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-07-01">
+      <text>Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU05" subcommittee="Regulatory Reform, Commercial And Antitrust Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="698"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Retail and wholesale trades"/>
+    <term name="Sales and excise taxes"/>
+    <term name="State and local taxation"/>
+    <term name="Tax administration and collection, taxpayers"/>
+  </subjects>
+  <amendments/>
+  <summary>6/15/2015--Introduced.
+Remote Transactions Parity Act of 2015
+
+This bill authorizes both member states under the Streamlined Sales and Use Tax Agreement and states that have not adopted the Agreement (the multistate agreement for the administration and collection of sales and use taxes adopted on November 12, 2002) to require&#160;remote sellers (i.e., sellers who make remote sales in a state without a physical presence) to collect and remit sales and use taxes with respect to remote sales sourced to such states.
+
+States that have not adopted the Agreement must show that they have adopted and implemented minimum simplification requirements for the administration of sales and use taxes in order to collect such taxes. Such requirements include: (1) the designation of a single state entity responsible for all state and local sales and tax administration, return processing, and audits of remote sales; (2) a single audit of a remote seller for all taxing jurisdictions in the state; (3) direct contact with a certified software provider utilized by the remote seller in conducting an audit;&#160;(4) a single sales and use tax return for use by remote sellers that is filed with a single entity responsible for tax administration; (5) a uniform sales and use tax base; and (6) sourcing of all remote sales in compliance with criteria established by this Act.
+
+This bill expressly prohibits a state from requiring a remote seller to file sales and use tax returns any more frequently than is required for nonremote sellers. Additionally, remote sellers whose gross annual&#160;receipts are less than $5 million are exempt from audits unless there is a reasonable suspicion of intentional misrepresentation or fraud.&#160;
+
+For the first three years after the effective date of this Act, the requirement for remote sellers to collect and remit sales and use taxes is limited to remote sellers whose gross annual receipts exceed a certain level (i.e., $10 million in the first year, $5 million in the second year, and $1 million in the third year) and who utilize an electronic marketplace for making sales to the public. After the third year after the effective date of this Act, there is no exemption for remote sellers to collect and remit such taxes.
+
+The bill specifies limitations on the applicability of this Act, including by providing that nothing in this Act shall be construed as: (1) subjecting a remote seller to any type of tax other than sales and use taxes, or (2) enlarging or reducing the authority of a state to impose such taxes. The bill suspends the authority of a state to collect sales and use taxes&#160;in the first year after the effective date of this Act and between October 1 and December 31 of such first year.
+
+The bill also prohibits a state from exercising any authority under this Act unless it: (1) provides certification procedures for persons to be approved as certified software providers, (2) refrains from denying or revoking certification to a software provider without a reasonable basis, (3) has certified multiple national certified software providers and such certifications are in effect, and (4) provides compensation for certified software providers.</summary>
+</bill>

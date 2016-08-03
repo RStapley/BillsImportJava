@@ -1,0 +1,32 @@
+<bill session="114" type="s" number="1631" updated="2015-07-18T07:01:49-04:00">
+  <state datetime="2015-06-18">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-18"/>
+  </status>
+  <introduced datetime="2015-06-18"/>
+  <titles>
+    <title type="short" as="introduced">Keep Our Pension Promises Act</title>
+    <title type="official" as="introduced">A bill to amend the Employee Retirement Income Security Act of 1974 and the Internal Revenue Code of 1986 to modify certain provisions relating to multiemployer pensions, and for other purposes.</title>
+  </titles>
+  <sponsor id="400357"/>
+  <cosponsors>
+    <cosponsor id="400013" joined="2015-06-18"/>
+    <cosponsor id="400050" joined="2015-06-18"/>
+    <cosponsor id="300093" joined="2015-06-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-18" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="2844"/>
+  </relatedbills>
+  <subjects>
+    <term name="Labor and employment"/>
+  </subjects>
+  <amendments/>
+</bill>

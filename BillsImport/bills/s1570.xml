@@ -1,0 +1,43 @@
+<bill session="114" type="s" number="1570" updated="2015-08-22T07:04:53-04:00">
+  <state datetime="2015-06-11">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-11"/>
+  </status>
+  <introduced datetime="2015-06-11"/>
+  <titles>
+    <title type="short" as="introduced">American Export Promotion Act of 2015</title>
+    <title type="official" as="introduced">A bill to authorize appropriations to the Secretary of Commerce to establish public-private partnerships under the Market Development Cooperator Program of the International Trade Administration, and for other purposes.</title>
+  </titles>
+  <sponsor id="412507"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-06-11" state="REFERRED">
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="2729"/>
+  </relatedbills>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Asia"/>
+    <term name="Competitiveness, trade promotion, trade deficits"/>
+    <term name="Department of Commerce"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Public-private cooperation"/>
+    <term name="Service industries"/>
+    <term name="Small business"/>
+  </subjects>
+  <amendments/>
+  <summary>6/11/2015--Introduced.
+American Export Promotion Act of 2015
+
+ Authorizes appropriations for the Industry and Analysis unit of the International Trade Administration (ITA) of the Department of Commerce for the ITA's Market Development Cooperator Program.
+
+Requires, in the use of such funds, a preference to be given to activities that will assist small- and medium-sized U.S. businesses and:
+
+ create or sustain the greatest number of jobs, obtain the maximum return on investment, increase U.S. exports to the Asia and Pacific region, increase U.S. exports in services, or address Department export priorities.</summary>
+</bill>

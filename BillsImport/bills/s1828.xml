@@ -1,0 +1,39 @@
+<bill session="114" type="s" number="1828" updated="2015-08-15T07:07:06-04:00">
+  <state datetime="2015-07-22">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-22"/>
+  </status>
+  <introduced datetime="2015-07-22"/>
+  <titles>
+    <title type="short" as="introduced">Federal Information Security Management Reform Act of 2015</title>
+    <title type="official" as="introduced">A bill to strengthen the ability of the Secretary of Homeland Security to detect and prevent intrusions against, and to use countermeasures to protect, Government agency information systems, and for other purposes.</title>
+  </titles>
+  <sponsor id="300025"/>
+  <cosponsors>
+    <cosponsor id="412493" joined="2015-07-22"/>
+    <cosponsor id="402675" joined="2015-07-22"/>
+    <cosponsor id="412243" joined="2015-07-22"/>
+    <cosponsor id="300073" joined="2015-07-22"/>
+    <cosponsor id="412321" joined="2015-07-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-22">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S5456-5458"/>
+    </action>
+    <action datetime="2015-07-22" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="3313"/>
+    <bill relation="identical" session="114" type="h" number="3402"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,46 @@
+<bill session="114" type="h" number="2311" updated="2015-07-25T06:38:18-04:00">
+  <state datetime="2015-05-13">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-13"/>
+  </status>
+  <introduced datetime="2015-05-13"/>
+  <titles>
+    <title type="short" as="introduced">Functional Gastrointestinal and Motility Disorders Research Enhancement Act of 2015</title>
+    <title type="official" as="introduced">To expand the research activities of the National Institutes of Health with respect to functional gastrointestinal and motility disorders, and for other purposes.</title>
+  </titles>
+  <sponsor id="400365"/>
+  <cosponsors>
+    <cosponsor id="412258" joined="2015-06-11"/>
+    <cosponsor id="400245" joined="2015-06-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-13" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-05-15">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Digestive and metabolic diseases"/>
+    <term name="Government information and archives"/>
+    <term name="Health information and medical records"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Medical research"/>
+    <term name="Medical tests and diagnostic methods"/>
+    <term name="Research administration and funding"/>
+  </subjects>
+  <amendments/>
+  <summary>5/13/2015--Introduced.
+Functional Gastrointestinal and Motility Disorders Research Enhancement Act of 2015
+
+This bill amends the Public Health Service Act to require the National Institutes of Health to expand, intensify, and coordinate its activities with respect to functional gastrointestinal and motility disorders (FGIMDs), including by:
+
+ expanding basic and clinical research into FGIMDs by implementing the research recommendations of the National Commission on Digestive Diseases, providing support for the establishment of centers of excellence on FGIMDs, supporting innovative approaches to educating health care providers and patients regarding strategies that improve patient-provider relationships and care, directing the National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK) to provide the necessary funding for the continued expansion and advancement of the FGIMDs research portfolio, and directing NIDDK and the Eunice Kennedy Shriver National Institute of Child Health and Human Development to expand research into FGIMDs that impact children. The Department of Health and Human Services may engage in public awareness and education activities to increase understanding and recognition of FGIMDs.</summary>
+</bill>

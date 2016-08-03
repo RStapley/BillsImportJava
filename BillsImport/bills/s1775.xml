@@ -1,0 +1,47 @@
+<bill session="114" type="s" number="1775" updated="2015-08-22T07:06:35-04:00">
+  <state datetime="2015-07-15">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-15"/>
+  </status>
+  <introduced datetime="2015-07-15"/>
+  <titles>
+    <title type="short" as="introduced">World War II Merchant Mariner Service Act</title>
+    <title type="official" as="introduced">A bill to direct the Secretary of Homeland Security to accept additional documentation when considering the application for veterans status of an individual who performed service as a coastwise merchant seaman during World War II, and for other purposes.</title>
+  </titles>
+  <sponsor id="412194"/>
+  <cosponsors>
+    <cosponsor id="412490" joined="2015-07-15"/>
+    <cosponsor id="300011" joined="2015-08-05"/>
+    <cosponsor id="300025" joined="2015-07-15"/>
+    <cosponsor id="412205" joined="2015-08-05"/>
+    <cosponsor id="300073" joined="2015-07-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-15" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="1288"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Cemeteries and funerals"/>
+    <term name="Conflicts and wars"/>
+    <term name="Government information and archives"/>
+    <term name="Marine and inland water transportation"/>
+    <term name="Military personnel and dependents"/>
+    <term name="National Guard and reserves"/>
+    <term name="Personnel records"/>
+    <term name="Transportation employees"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+    <term name="Veterans' loans, housing, homeless programs"/>
+    <term name="Veterans' medical care"/>
+    <term name="Veterans' organizations and recognition"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,45 @@
+<bill session="114" type="hj" number="54" updated="2015-08-15T06:48:36-04:00">
+  <state datetime="2015-05-18">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-18"/>
+  </status>
+  <introduced datetime="2015-05-18"/>
+  <titles>
+    <title type="official" as="introduced">Proposing a balanced budget amendment to the Constitution of the United States.</title>
+  </titles>
+  <sponsor id="412438"/>
+  <cosponsors>
+    <cosponsor id="412605" joined="2015-06-24"/>
+    <cosponsor id="412472" joined="2015-07-31"/>
+    <cosponsor id="412503" joined="2015-07-31"/>
+    <cosponsor id="412308" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-18" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-06-01">
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU10" subcommittee="Constitution and Civil Justice" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Budget deficits and national debt"/>
+    <term name="Constitution and constitutional amendments"/>
+    <term name="Legislative rules and procedure"/>
+  </subjects>
+  <amendments/>
+  <summary>5/18/2015--Introduced.
+Constitutional Amendment 
+
+This joint resolution proposes a constitutional amendment prohibiting total federal expenditures for a year from exceeding the average annual federal revenue collected in the three prior years, adjusted for changes in population and inflation. Expenditures for payment of debt and revenues derived from borrowing are excluded.
+
+Congress may authorize specific expenditures in excess of the limit for up to one year by declaring an emergency with a roll call vote of two-thirds of each chamber.
+
+The requirements take effect in the first year beginning at least 90 days following ratification, except that expenditures are permitted to exceed the limit by specified amounts during each of the first nine years that the requirements are in effect.</summary>
+</bill>

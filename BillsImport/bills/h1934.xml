@@ -1,0 +1,50 @@
+<bill session="114" type="h" number="1934" updated="2015-07-30T04:49:04-04:00">
+  <state datetime="2015-04-22">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-22"/>
+  </status>
+  <introduced datetime="2015-04-22"/>
+  <titles>
+    <title type="short" as="introduced">Cancer Care Payment Reform Act of 2015</title>
+    <title type="official" as="introduced">To amend title XVIII of the Social Security Act to establish a national Oncology Medical Home Demonstration Project under the Medicare program for the purpose of changing the Medicare payment for cancer care in order to enhance the quality of care and to improve cost efficiency, and for other purposes.</title>
+  </titles>
+  <sponsor id="400659"/>
+  <cosponsors>
+    <cosponsor id="400048" joined="2015-07-28"/>
+    <cosponsor id="412485" joined="2015-07-29"/>
+    <cosponsor id="400195" joined="2015-04-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-22" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-04-22">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-04-22">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-04-24">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Cancer"/>
+    <term name="Drug therapy"/>
+    <term name="Health care quality"/>
+    <term name="Long-term, rehabilitative, and terminal care"/>
+    <term name="Medicare"/>
+  </subjects>
+  <amendments/>
+  <summary>4/22/2015--Introduced.
+Cancer Care Payment Reform Act of 2015
+
+This bill amends title XVIII (Medicare) of the Social Security Act to direct the Secretary of Health and Human Services to establish an Oncology Medical Home Demonstration Project.</summary>
+</bill>

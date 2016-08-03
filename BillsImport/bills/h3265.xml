@@ -1,0 +1,33 @@
+<bill session="114" type="h" number="3265" updated="2015-08-08T06:46:37-04:00">
+  <state datetime="2015-07-28">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-28"/>
+  </status>
+  <introduced datetime="2015-07-28"/>
+  <titles>
+    <title type="short" as="introduced">Student Financial Aid Simplification Act</title>
+    <title type="official" as="introduced">To simplify the process for determining the need and eligibility of students for financial assistance under the Higher Education Act of 1965, and for other purposes.</title>
+  </titles>
+  <sponsor id="412239"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-28" state="REFERRED">
+      <text>Referred to the Committee on Education and the Workforce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-07-28">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+    <action datetime="2015-07-28">
+      <text>Referred to House Ways and Means</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,31 @@
+<bill session="114" type="h" number="2574" updated="2015-08-01T06:41:04-04:00">
+  <state datetime="2015-05-26">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-26"/>
+  </status>
+  <introduced datetime="2015-05-26"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Fair Minimum Wage Act of 2007 to stop a scheduled increase in the minimum wage applicable to American Samoa and to provide that any future increases in such minimum wage shall be determined by the government of American Samoa.</title>
+  </titles>
+  <sponsor id="412664"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-05-26" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Labor and employment"/>
+  </subjects>
+  <amendments/>
+  <summary>5/26/2015--Introduced.
+This Act amends the Fair Minimum Wage Act of 2007 to make the applicable minimum wage rate for each American Samoa industry and classification the one in effect on May 1, 2015.
+
+Scheduled increases to such minimum wage are repealed.
+
+The government of American Samoa shall determine the amount and time of such future increases.</summary>
+</bill>

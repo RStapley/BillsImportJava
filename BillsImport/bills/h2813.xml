@@ -1,0 +1,55 @@
+<bill session="114" type="h" number="2813" updated="2015-07-03T04:46:35-04:00">
+  <state datetime="2015-06-17">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-17"/>
+  </status>
+  <introduced datetime="2015-06-17"/>
+  <titles>
+    <title type="short" as="introduced">Shelter Our Servicemembers Act</title>
+    <title type="official" as="introduced">To direct the Secretary of Veterans Affairs and the Secretary of Housing and Urban Development to establish a grant pilot program to provide housing to elderly homeless veterans.</title>
+  </titles>
+  <sponsor id="412523"/>
+  <cosponsors>
+    <cosponsor id="400041" joined="2015-06-17"/>
+    <cosponsor id="400653" joined="2015-06-23"/>
+    <cosponsor id="400185" joined="2015-06-17"/>
+    <cosponsor id="412583" joined="2015-06-23"/>
+    <cosponsor id="412521" joined="2015-06-17"/>
+    <cosponsor id="400333" joined="2015-06-17"/>
+    <cosponsor id="412522" joined="2015-06-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-17" state="REFERRED">
+      <text>Referred to the Committee on Financial Services, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-06-17">
+      <text>Referred to House Financial Services</text>
+    </action>
+    <action datetime="2015-06-17">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2015-07-02">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR10" subcommittee="Economic Opportunity" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <summary>6/17/2015--Introduced.
+Shelter Our Servicemembers Act
+
+ Requires the Department of Veterans Affairs (VA) and the Department of Housing and Urban Development to jointly establish a two-year pilot program of grants to nonprofit organizations to provide elderly homeless veterans with non-transitional housing.
+
+Allows recipients to use such grant to: (1) purchase real property to provide up to 200 homeless veterans with non-transitional housing, and (2) refurbish or renovate such property.
+
+Makes eligible for such housing veterans of at least 55 years of age who: (1) have been continuously homeless for a year or more or, during the last three years, had at least four separate periods of living on the streets, in an emergency shelter, or a combination thereof; and (2) have a condition that limits their ability to work or perform activities of daily living.
+
+ Requires VA to provide case management for elderly veterans receiving such assistance.</summary>
+</bill>

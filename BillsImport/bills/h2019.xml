@@ -1,0 +1,52 @@
+<bill session="114" type="h" number="2019" updated="2015-07-25T06:35:51-04:00">
+  <state datetime="2015-04-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-23"/>
+  </status>
+  <introduced datetime="2015-04-23"/>
+  <titles>
+    <title type="short" as="introduced">ATF Wrongful Reclassification Act</title>
+    <title type="official" as="introduced">To prevent the reclassification of certain ammunition as armor piercing ammunition.</title>
+  </titles>
+  <sponsor id="412569"/>
+  <cosponsors>
+    <cosponsor id="400052" joined="2015-06-09"/>
+    <cosponsor id="400077" joined="2015-06-09"/>
+    <cosponsor id="412555" joined="2015-06-02"/>
+    <cosponsor id="412479" joined="2015-06-02"/>
+    <cosponsor id="412283" joined="2015-06-15"/>
+    <cosponsor id="412484" joined="2015-06-09"/>
+    <cosponsor id="412284" joined="2015-06-02"/>
+    <cosponsor id="412510" joined="2015-06-09"/>
+    <cosponsor id="400247" joined="2015-06-17"/>
+    <cosponsor id="412503" joined="2015-06-04"/>
+    <cosponsor id="412295" joined="2015-06-02"/>
+    <cosponsor id="400279" joined="2015-06-10"/>
+    <cosponsor id="400341" joined="2015-06-02"/>
+    <cosponsor id="412417" joined="2015-06-04"/>
+    <cosponsor id="412217" joined="2015-06-09"/>
+    <cosponsor id="412610" joined="2015-07-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-23" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-05-15">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Firearms and explosives"/>
+  </subjects>
+  <amendments/>
+  <summary>4/23/2015--Introduced.
+ATF Wrongful Reclassification Act
+
+Amends the federal criminal code to modify the definition of "armor piercing ammunition" for purposes of federal firearms provisions to: (1) include a projectile or projectile core that is designed and intended by the manufacturer solely for use in a handgun (currently, a projectile that may be used in a handgun); and (2) exclude a projectile that is primarily intended by the manufacturer to be used for lawful purposes (currently, a projectile that the Attorney General finds is primarily intended to be used for sporting purposes).</summary>
+</bill>

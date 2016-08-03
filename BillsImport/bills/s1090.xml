@@ -1,0 +1,44 @@
+<bill session="114" type="s" number="1090" updated="2015-08-06T04:48:36-04:00">
+  <state datetime="2015-06-24">REPORTED</state>
+  <status>
+    <unknown datetime="2015-06-24"/>
+  </status>
+  <introduced datetime="2015-04-27"/>
+  <titles>
+    <title type="short" as="introduced">Emergency Information Improvement Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend the Robert T. Stafford Disaster Relief and Emergency Assistance Act to provide eligibility for broadcasting facilities to receive certain disaster assistance, and for other purposes.</title>
+  </titles>
+  <sponsor id="412598"/>
+  <cosponsors>
+    <cosponsor id="400040" joined="2015-08-03"/>
+    <cosponsor id="412573" joined="2015-04-27"/>
+    <cosponsor id="412406" joined="2015-08-05"/>
+    <cosponsor id="300083" joined="2015-07-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-27" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <calendar datetime="2015-06-24" state="REPORTED">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1471"/>
+    <bill relation="unknown" session="114" type="h" number="1546"/>
+  </relatedbills>
+  <subjects>
+    <term name="Emergency management"/>
+    <term name="Broadcasting, cable, digital technologies"/>
+    <term name="Disaster relief and insurance"/>
+    <term name="News media and reporting"/>
+  </subjects>
+  <amendments/>
+  <summary>4/27/2015--Introduced.
+Emergency Information Improvement Act of 2015
+
+ Amends the Robert T. Stafford Disaster Relief and Emergency Assistance Act to include broadcasting facilities within the definition of a "private nonprofit facility" that provides essential services of a governmental nature to the general public, and to include broadcast and telecommunications within the definition of "critical services" provided by such a facility, for purposes of eligibility for certain disaster assistance.</summary>
+</bill>

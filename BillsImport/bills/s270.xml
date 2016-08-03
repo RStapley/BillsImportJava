@@ -1,0 +1,56 @@
+<bill session="114" type="s" number="270" updated="2015-06-09T04:47:15-04:00">
+  <state datetime="2015-01-27">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-27"/>
+  </status>
+  <introduced datetime="2015-01-27"/>
+  <titles>
+    <title type="short" as="introduced">Charlie Morgan Military Spouses Equal Treatment Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend title 38, United States Code, to revise the definition of spouse for purposes of veterans benefits in recognition of new State definitions of spouse, and for other purposes.</title>
+  </titles>
+  <sponsor id="412323"/>
+  <cosponsors>
+    <cosponsor id="400013" joined="2015-01-27"/>
+    <cosponsor id="412490" joined="2015-01-27"/>
+    <cosponsor id="300011" joined="2015-02-02"/>
+    <cosponsor id="400050" joined="2015-01-27"/>
+    <cosponsor id="412390" joined="2015-01-27"/>
+    <cosponsor id="300038" joined="2015-01-27"/>
+    <cosponsor id="412378" joined="2015-01-27"/>
+    <cosponsor id="412223" joined="2015-01-27"/>
+    <cosponsor id="412200" joined="2015-01-27"/>
+    <cosponsor id="300065" joined="2015-01-27"/>
+    <cosponsor id="400253" joined="2015-01-27"/>
+    <cosponsor id="412194" joined="2015-01-27"/>
+    <cosponsor id="300076" joined="2015-06-08"/>
+    <cosponsor id="412305" joined="2015-01-27"/>
+    <cosponsor id="412507" joined="2015-01-27"/>
+    <cosponsor id="412247" joined="2015-01-27"/>
+    <cosponsor id="300100" joined="2015-01-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-27" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2015-05-13">
+      <text>Committee on Veterans' Affairs. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Marriage and family status"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>1/27/2015--Introduced.
+Charlie Morgan Military Spouses Equal Treatment Act of 2015
+
+Revises the definition of "surviving spouse" for purposes of veterans benefits provisions to eliminate the requirement that the person who was the spouse of a veteran at the time of the veteran's death be a person of the opposite sex.
+
+Considers an individual to be a "spouse" if the marriage of the individual is considered valid under the laws of any state.</summary>
+</bill>

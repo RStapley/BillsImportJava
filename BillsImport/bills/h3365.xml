@@ -1,0 +1,38 @@
+<bill session="114" type="h" number="3365" updated="2015-08-07T12:48:48-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">Women Veterans and Families Health Services Act of 2015</title>
+    <title type="official" as="introduced">To improve the reproductive assistance provided by the Department of Defense and the Department of Veterans Affairs to severely wounded, ill, or injured members of the Armed Forces, veterans, and their spouses or partners, and for other purposes.</title>
+  </titles>
+  <sponsor id="400232"/>
+  <cosponsors>
+    <cosponsor id="412505" joined="2015-07-29"/>
+    <cosponsor id="412533" joined="2015-07-29"/>
+    <cosponsor id="400199" joined="2015-07-29"/>
+    <cosponsor id="412562" joined="2015-07-29"/>
+    <cosponsor id="400350" joined="2015-07-29"/>
+    <cosponsor id="412318" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Referred to House Armed Services</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

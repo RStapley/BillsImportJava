@@ -1,0 +1,36 @@
+<bill session="114" type="h" number="2184" updated="2015-06-27T06:55:37-04:00">
+  <state datetime="2015-04-30">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-30"/>
+  </status>
+  <introduced datetime="2015-04-30"/>
+  <titles>
+    <title type="short" as="introduced">Support Working Parents Act of 2015</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to repeal the phasedown of the credit percentage for the dependent care tax credit.</title>
+  </titles>
+  <sponsor id="400355"/>
+  <cosponsors>
+    <cosponsor id="400233" joined="2015-04-30"/>
+    <cosponsor id="400291" joined="2015-04-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-30" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Adult day care"/>
+    <term name="Child care and development"/>
+    <term name="Income tax credits"/>
+  </subjects>
+  <amendments/>
+  <summary>4/30/2015--Introduced.
+Support Working Parents Act of 2015
+
+ Amends the Internal Revenue Code to repeal the phaseout of the tax credit for dependent care services for taxpayers whose adjusted gross incomes exceed $15,000.</summary>
+</bill>

@@ -1,0 +1,113 @@
+<bill session="114" type="h" number="1388" updated="2015-07-23T04:48:08-04:00">
+  <state datetime="2015-03-17">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-17"/>
+  </status>
+  <introduced datetime="2015-03-17"/>
+  <titles>
+    <title type="short" as="introduced">Clean Air, Strong Economies Act</title>
+    <title type="official" as="introduced">To improve the establishment of any lower ground-level ozone standards, and for other purposes.</title>
+  </titles>
+  <sponsor id="412302"/>
+  <cosponsors>
+    <cosponsor id="412625" joined="2015-06-02"/>
+    <cosponsor id="412655" joined="2015-03-17"/>
+    <cosponsor id="412541" joined="2015-03-17"/>
+    <cosponsor id="412250" joined="2015-03-17"/>
+    <cosponsor id="400029" joined="2015-05-18"/>
+    <cosponsor id="412627" joined="2015-03-17"/>
+    <cosponsor id="412567" joined="2015-03-17"/>
+    <cosponsor id="412539" joined="2015-05-18"/>
+    <cosponsor id="412619" joined="2015-04-14"/>
+    <cosponsor id="412622" joined="2015-06-02"/>
+    <cosponsor id="412563" joined="2015-05-18"/>
+    <cosponsor id="412513" joined="2015-05-15"/>
+    <cosponsor id="412555" joined="2015-04-14"/>
+    <cosponsor id="400657" joined="2015-03-17"/>
+    <cosponsor id="400089" joined="2015-06-17"/>
+    <cosponsor id="412472" joined="2015-07-15"/>
+    <cosponsor id="400116" joined="2015-03-17"/>
+    <cosponsor id="412457" joined="2015-04-21"/>
+    <cosponsor id="412479" joined="2015-06-02"/>
+    <cosponsor id="412275" joined="2015-07-22"/>
+    <cosponsor id="412480" joined="2015-03-17"/>
+    <cosponsor id="412397" joined="2015-03-17"/>
+    <cosponsor id="412485" joined="2015-04-22"/>
+    <cosponsor id="412661" joined="2015-06-23"/>
+    <cosponsor id="412278" joined="2015-04-22"/>
+    <cosponsor id="400175" joined="2015-03-17"/>
+    <cosponsor id="412550" joined="2015-06-09"/>
+    <cosponsor id="412429" joined="2015-04-14"/>
+    <cosponsor id="412422" joined="2015-03-17"/>
+    <cosponsor id="412663" joined="2015-06-17"/>
+    <cosponsor id="412284" joined="2015-04-22"/>
+    <cosponsor id="412460" joined="2015-03-17"/>
+    <cosponsor id="400209" joined="2015-03-17"/>
+    <cosponsor id="412566" joined="2015-06-12"/>
+    <cosponsor id="412465" joined="2015-03-17"/>
+    <cosponsor id="412421" joined="2015-05-18"/>
+    <cosponsor id="412286" joined="2015-03-17"/>
+    <cosponsor id="412256" joined="2015-03-17"/>
+    <cosponsor id="412445" joined="2015-03-17"/>
+    <cosponsor id="412656" joined="2015-05-18"/>
+    <cosponsor id="400247" joined="2015-06-18"/>
+    <cosponsor id="412292" joined="2015-06-12"/>
+    <cosponsor id="400656" joined="2015-03-23"/>
+    <cosponsor id="412295" joined="2015-03-17"/>
+    <cosponsor id="412487" joined="2015-03-17"/>
+    <cosponsor id="412662" joined="2015-05-18"/>
+    <cosponsor id="400285" joined="2015-06-02"/>
+    <cosponsor id="412551" joined="2015-06-17"/>
+    <cosponsor id="412431" joined="2015-03-17"/>
+    <cosponsor id="412462" joined="2015-06-23"/>
+    <cosponsor id="400341" joined="2015-04-21"/>
+    <cosponsor id="412570" joined="2015-07-09"/>
+    <cosponsor id="412399" joined="2015-06-11"/>
+    <cosponsor id="412417" joined="2015-06-10"/>
+    <cosponsor id="400373" joined="2015-03-17"/>
+    <cosponsor id="412217" joined="2015-06-03"/>
+    <cosponsor id="412596" joined="2015-03-17"/>
+    <cosponsor id="400381" joined="2015-03-17"/>
+    <cosponsor id="412461" joined="2015-06-09"/>
+    <cosponsor id="412405" joined="2015-03-17"/>
+    <cosponsor id="412538" joined="2015-07-22"/>
+    <cosponsor id="412416" joined="2015-07-09"/>
+    <cosponsor id="412525" joined="2015-03-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-17" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-03-19">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H1773"/>
+    </action>
+    <action datetime="2015-03-20">
+      <text>Referred to the Subcommittee on Energy and Power.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="751"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Air quality"/>
+    <term name="Environmental Protection Agency (EPA)"/>
+    <term name="Environmental assessment, monitoring, research"/>
+    <term name="Environmental regulatory procedures"/>
+  </subjects>
+  <amendments/>
+  <summary>3/17/2015--Introduced.
+Clean Air, Strong Economies Act
+
+This bill prohibits the Environmental Protection Agency (EPA) from lowering its national ambient air quality standards (NAAQS) for ozone until at least 85% of counties that are in nonattainment areas (counties that are exceeding the limit) have attained the standard.
+
+In promulgating a primary or secondary NAAQS for ozone, the EPA must:
+
+ only consider a county to be a nonattainment area on the basis of direct air quality monitoring (rather than modeling); take into consideration feasibility and cost; and include in the regulatory impact analysis for the proposed and final rule at least one analysis that does not include any calculation of benefits resulting from reducing emissions of any pollutant other than ozone.</summary>
+</bill>

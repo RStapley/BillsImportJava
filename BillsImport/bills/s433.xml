@@ -1,0 +1,58 @@
+<bill session="114" type="s" number="433" updated="2015-05-16T06:43:56-04:00">
+  <state datetime="2015-02-10">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-10"/>
+  </status>
+  <introduced datetime="2015-02-10"/>
+  <titles>
+    <title type="short" as="introduced">Currency Undervaluation Investigation Act</title>
+    <title type="official" as="introduced">A bill to establish a benefit calculation methodology with respect to currency undervaluation for purposes of countervailing duty investigations and reviews, and for other purposes.</title>
+  </titles>
+  <sponsor id="300088"/>
+  <cosponsors>
+    <cosponsor id="400050" joined="2015-02-10"/>
+    <cosponsor id="400054" joined="2015-02-10"/>
+    <cosponsor id="412246" joined="2015-02-10"/>
+    <cosponsor id="300025" joined="2015-02-10"/>
+    <cosponsor id="412205" joined="2015-02-10"/>
+    <cosponsor id="412378" joined="2015-04-29"/>
+    <cosponsor id="300047" joined="2015-02-10"/>
+    <cosponsor id="412305" joined="2015-04-29"/>
+    <cosponsor id="400325" joined="2015-02-10"/>
+    <cosponsor id="300081" joined="2015-04-29"/>
+    <cosponsor id="300087" joined="2015-02-10"/>
+    <cosponsor id="300093" joined="2015-02-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-10" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1269"/>
+  </relatedbills>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Administrative remedies"/>
+    <term name="Canada"/>
+    <term name="Currency"/>
+    <term name="Free trade and trade barriers"/>
+    <term name="Government studies and investigations"/>
+    <term name="International monetary system and foreign exchange"/>
+    <term name="Latin America"/>
+    <term name="Mexico"/>
+    <term name="Tariffs"/>
+  </subjects>
+  <amendments/>
+  <summary>2/10/2015--Introduced.
+Currency Undervaluation Investigation Act
+
+Amends the Tariff Act of 1930 to require the administering authority, upon the filing of a petition by an interested party, to initiate a countervailing duty investigation or review to determine whether currency undervaluation by the government of, or any public entity within, a foreign country is providing, directly or indirectly, a countervailable subsidy to its exporters or products.
+
+Declares that the fact that such a subsidy is also provided in circumstances not involving export shall not, for that reason alone, mean it cannot be considered export contingent and actionable under a countervailing duty and antidumping duty proceeding.
+
+Declares that the amendments made by this Act shall apply to goods from Canada and Mexico.</summary>
+</bill>

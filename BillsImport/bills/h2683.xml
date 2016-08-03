@@ -1,0 +1,77 @@
+<bill session="114" type="h" number="2683" updated="2015-07-11T06:41:10-04:00">
+  <state datetime="2015-06-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-04"/>
+  </status>
+  <introduced datetime="2015-06-04"/>
+  <titles>
+    <title type="short" as="introduced">American Steel First Act of 2015</title>
+    <title type="official" as="introduced">To require certain Federal agencies to use iron and steel produced in the United States in carrying out projects for the construction, alteration, or repair of a public building or public work, and for other purposes.</title>
+  </titles>
+  <sponsor id="400417"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-06-04" state="REFERRED">
+      <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Homeland Security, and Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-06-04">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2015-06-04">
+      <text>Referred to House Homeland Security</text>
+    </action>
+    <action datetime="2015-06-04">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2015-06-05">
+      <text>Referred to the Subcommittee on Aviation.</text>
+    </action>
+    <action datetime="2015-06-05">
+      <text>Referred to the Subcommittee on Coast Guard and Maritime Transportation.</text>
+    </action>
+    <action datetime="2015-06-05">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+    </action>
+    <action datetime="2015-06-05">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+    </action>
+    <action datetime="2015-06-05">
+      <text>Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.</text>
+    </action>
+    <action datetime="2015-06-05">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+    </action>
+    <action datetime="2015-06-15">
+      <text>Referred to the Subcommittee on Oversight and Management Efficiency.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW05" subcommittee="Aviation" name="House Transportation and Infrastructure"/>
+    <committee activity="Referral" code="HSPW07" subcommittee="Coast Guard and Maritime Transportation" name="House Transportation and Infrastructure"/>
+    <committee activity="Referral" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+    <committee activity="Referral" code="HSPW12" subcommittee="Highways and Transit" name="House Transportation and Infrastructure"/>
+    <committee activity="Referral" code="HSPW14" subcommittee="Railroads, Pipelines, and Hazardous Materials" name="House Transportation and Infrastructure"/>
+    <committee activity="Referral" code="HSPW02" subcommittee="Water Resources and Environment" name="House Transportation and Infrastructure"/>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral"/>
+    <committee activity="Referral" code="HSHM09" subcommittee="Oversight and Management Efficiency" name="House Homeland Security"/>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+  </subjects>
+  <amendments/>
+  <summary>6/4/2015--Introduced.
+American Steel First Act of 2015 
+
+Prohibits the Departments of Homeland Security, Defense, and Transportation (DOT) (covered federal agencies) from obligating or expending funds or providing financial assistance for a project for the construction, alteration, maintenance, or repair of a public building or public work unless all of the iron and steel used in such project is produced in the United States.
+
+Waives such prohibition in cases where: (1) the prohibition would be inconsistent with the public interest, (2) iron and steel are not produced in the United States in sufficient and reasonably available quantities of a satisfactory quality, or (3) inclusion of iron and steel produced in the United States will increase the cost of the overall project contract by more than 25%. Prohibits waivers by a covered federal agency for products produced in a foreign country that is determined by the U.S. Trade Representative to have violated the terms of an agreement with the United States by discriminating against products produced in the United States that are covered by the agreement.
+
+Prohibits a covered federal agency from imposing financial assistance restrictions on: (1) states that impose more stringent requirements on the use of iron and steel in foreign countries in projects carried out with such assistance, or (2) recipients that comply with such state imposed requirements.
+
+Makes any person who intentionally mislabels or misrepresents a product used in a project under this Act as "Made in America" ineligible for another department contract for six years.
+
+Requires DOT to: (1) publish a justification for a waiver of the prohibition against obligating funds to carry out the Surface Transportation Assistance Act of 1982, highway projects, public transportation projects, or aviation programs unless the steel, iron, and manufactured products used are produced in the United States; and (2) provide for public notice and comment on such waiver.</summary>
+</bill>

@@ -1,0 +1,69 @@
+<bill session="114" type="s" number="258" updated="2015-08-05T04:47:45-04:00">
+  <state datetime="2015-01-27">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-27"/>
+  </status>
+  <introduced datetime="2015-01-27"/>
+  <titles>
+    <title type="short" as="introduced">Critical Access Hospital Relief Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act to remove the 96-hour physician certification requirement for inpatient critical access hospital services.</title>
+  </titles>
+  <sponsor id="300083"/>
+  <cosponsors>
+    <cosponsor id="400013" joined="2015-01-27"/>
+    <cosponsor id="412251" joined="2015-01-27"/>
+    <cosponsor id="412330" joined="2015-03-04"/>
+    <cosponsor id="400040" joined="2015-08-04"/>
+    <cosponsor id="300018" joined="2015-02-02"/>
+    <cosponsor id="400061" joined="2015-02-03"/>
+    <cosponsor id="402675" joined="2015-01-27"/>
+    <cosponsor id="300023" joined="2015-01-27"/>
+    <cosponsor id="300025" joined="2015-04-22"/>
+    <cosponsor id="412508" joined="2015-07-29"/>
+    <cosponsor id="412549" joined="2015-01-27"/>
+    <cosponsor id="412205" joined="2015-02-04"/>
+    <cosponsor id="300038" joined="2015-02-12"/>
+    <cosponsor id="412556" joined="2015-01-27"/>
+    <cosponsor id="412378" joined="2015-05-04"/>
+    <cosponsor id="412406" joined="2015-05-07"/>
+    <cosponsor id="300048" joined="2015-01-27"/>
+    <cosponsor id="412554" joined="2015-01-27"/>
+    <cosponsor id="412494" joined="2015-01-27"/>
+    <cosponsor id="300055" joined="2015-01-27"/>
+    <cosponsor id="400222" joined="2015-02-26"/>
+    <cosponsor id="412242" joined="2015-01-27"/>
+    <cosponsor id="412325" joined="2015-01-27"/>
+    <cosponsor id="400284" joined="2015-01-27"/>
+    <cosponsor id="300075" joined="2015-01-27"/>
+    <cosponsor id="412669" joined="2015-07-28"/>
+    <cosponsor id="412244" joined="2015-01-27"/>
+    <cosponsor id="400546" joined="2015-01-27"/>
+    <cosponsor id="400413" joined="2015-06-15"/>
+    <cosponsor id="400432" joined="2015-01-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-27" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="169"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health facilities and institutions"/>
+    <term name="Health personnel"/>
+    <term name="Hospital care"/>
+    <term name="Medicare"/>
+    <term name="Rural conditions and development"/>
+  </subjects>
+  <amendments/>
+  <summary>1/27/2015--Introduced.
+Critical Access Hospital Relief Act of 2015
+
+Amends title XVIII (Medicare) of the Social Security Act to repeal the 96-hour physician certification requirement for inpatient critical access hospital services under which a physician must certify that a patient may reasonably be expected to be discharged or transferred to a hospital within 96 hours after admission to the critical access hospital.</summary>
+</bill>

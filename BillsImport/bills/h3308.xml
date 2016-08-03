@@ -1,0 +1,120 @@
+<bill session="114" type="h" number="3308" updated="2015-08-22T04:47:29-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">Seniors Have Eyes, Ears, and Teeth Act</title>
+    <title type="official" as="introduced">To expand Medicare coverage to include eyeglasses, hearing aids, and dental care.</title>
+  </titles>
+  <sponsor id="412276"/>
+  <cosponsors>
+    <cosponsor id="412642" joined="2015-07-29"/>
+    <cosponsor id="412404" joined="2015-07-29"/>
+    <cosponsor id="412652" joined="2015-07-29"/>
+    <cosponsor id="400047" joined="2015-07-29"/>
+    <cosponsor id="400048" joined="2015-07-29"/>
+    <cosponsor id="412516" joined="2015-07-29"/>
+    <cosponsor id="412537" joined="2015-07-29"/>
+    <cosponsor id="400616" joined="2015-07-29"/>
+    <cosponsor id="412258" joined="2015-07-29"/>
+    <cosponsor id="412571" joined="2015-07-29"/>
+    <cosponsor id="412576" joined="2015-07-29"/>
+    <cosponsor id="412379" joined="2015-07-29"/>
+    <cosponsor id="412470" joined="2015-07-29"/>
+    <cosponsor id="412221" joined="2015-08-04"/>
+    <cosponsor id="400074" joined="2015-07-29"/>
+    <cosponsor id="400075" joined="2015-07-29"/>
+    <cosponsor id="412236" joined="2015-07-29"/>
+    <cosponsor id="400080" joined="2015-07-29"/>
+    <cosponsor id="400090" joined="2015-07-29"/>
+    <cosponsor id="400093" joined="2015-07-29"/>
+    <cosponsor id="412544" joined="2015-07-29"/>
+    <cosponsor id="400103" joined="2015-07-29"/>
+    <cosponsor id="412613" joined="2015-07-29"/>
+    <cosponsor id="412385" joined="2015-07-29"/>
+    <cosponsor id="412637" joined="2015-07-29"/>
+    <cosponsor id="400111" joined="2015-07-29"/>
+    <cosponsor id="400114" joined="2015-07-29"/>
+    <cosponsor id="412263" joined="2015-07-29"/>
+    <cosponsor id="412215" joined="2015-07-29"/>
+    <cosponsor id="400122" joined="2015-07-29"/>
+    <cosponsor id="400129" joined="2015-07-29"/>
+    <cosponsor id="400130" joined="2015-07-29"/>
+    <cosponsor id="412612" joined="2015-08-04"/>
+    <cosponsor id="412382" joined="2015-07-29"/>
+    <cosponsor id="400162" joined="2015-07-29"/>
+    <cosponsor id="400163" joined="2015-07-29"/>
+    <cosponsor id="412498" joined="2015-07-29"/>
+    <cosponsor id="400170" joined="2015-07-29"/>
+    <cosponsor id="400179" joined="2015-07-29"/>
+    <cosponsor id="400185" joined="2015-07-29"/>
+    <cosponsor id="400199" joined="2015-07-29"/>
+    <cosponsor id="412595" joined="2015-07-29"/>
+    <cosponsor id="412543" joined="2015-07-29"/>
+    <cosponsor id="400230" joined="2015-07-29"/>
+    <cosponsor id="400237" joined="2015-07-29"/>
+    <cosponsor id="412521" joined="2015-07-29"/>
+    <cosponsor id="400246" joined="2015-07-29"/>
+    <cosponsor id="400262" joined="2015-07-29"/>
+    <cosponsor id="400263" joined="2015-07-29"/>
+    <cosponsor id="412560" joined="2015-08-04"/>
+    <cosponsor id="400661" joined="2015-07-29"/>
+    <cosponsor id="400289" joined="2015-07-29"/>
+    <cosponsor id="400290" joined="2015-07-29"/>
+    <cosponsor id="408211" joined="2015-07-29"/>
+    <cosponsor id="412506" joined="2015-07-29"/>
+    <cosponsor id="412192" joined="2015-07-29"/>
+    <cosponsor id="412307" joined="2015-07-29"/>
+    <cosponsor id="412585" joined="2015-07-29"/>
+    <cosponsor id="400333" joined="2015-07-29"/>
+    <cosponsor id="400347" joined="2015-07-29"/>
+    <cosponsor id="400349" joined="2015-07-29"/>
+    <cosponsor id="400350" joined="2015-07-29"/>
+    <cosponsor id="400352" joined="2015-07-29"/>
+    <cosponsor id="400355" joined="2015-07-29"/>
+    <cosponsor id="412212" joined="2015-08-04"/>
+    <cosponsor id="400363" joined="2015-07-29"/>
+    <cosponsor id="400364" joined="2015-07-29"/>
+    <cosponsor id="400366" joined="2015-07-29"/>
+    <cosponsor id="412186" joined="2015-07-29"/>
+    <cosponsor id="400378" joined="2015-07-29"/>
+    <cosponsor id="412626" joined="2015-07-29"/>
+    <cosponsor id="412520" joined="2015-07-29"/>
+    <cosponsor id="412617" joined="2015-07-29"/>
+    <cosponsor id="400415" joined="2015-07-29"/>
+    <cosponsor id="412579" joined="2015-07-29"/>
+    <cosponsor id="412580" joined="2015-07-29"/>
+    <cosponsor id="400416" joined="2015-07-29"/>
+    <cosponsor id="400422" joined="2015-07-29"/>
+    <cosponsor id="412644" joined="2015-07-29"/>
+    <cosponsor id="412211" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-29">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H5599-5600"/>
+    </action>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-07-31">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

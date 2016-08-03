@@ -1,0 +1,32 @@
+<bill session="114" type="s" number="1639" updated="2015-08-22T07:05:27-04:00">
+  <state datetime="2015-06-18">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-18"/>
+  </status>
+  <introduced datetime="2015-06-18"/>
+  <titles>
+    <title type="short" as="introduced">Education Stability for Foster Youth Act</title>
+    <title type="official" as="introduced">A bill to amend the Elementary and Secondary Education Act of 1965 to assure educational stability for children in foster care, and for other purposes.</title>
+  </titles>
+  <sponsor id="412378"/>
+  <cosponsors>
+    <cosponsor id="300048" joined="2015-06-18"/>
+    <cosponsor id="300052" joined="2015-06-18"/>
+    <cosponsor id="300076" joined="2015-06-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-18" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="3087"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+  </subjects>
+  <amendments/>
+</bill>

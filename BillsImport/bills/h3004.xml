@@ -1,0 +1,25 @@
+<bill session="114" type="h" number="3004" updated="2015-07-18T06:43:57-04:00">
+  <state datetime="2015-07-09">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-09"/>
+  </status>
+  <introduced datetime="2015-07-09"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Gullah/Geechee Cultural Heritage Act to extend the authorization for the Gullah/Geechee Cultural Heritage Corridor Commission.</title>
+  </titles>
+  <sponsor id="400075"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-09" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+</bill>

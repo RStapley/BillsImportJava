@@ -1,0 +1,30 @@
+<bill session="114" type="s" number="1320" updated="2015-06-13T06:55:45-04:00">
+  <state datetime="2015-05-13">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-13"/>
+  </status>
+  <introduced datetime="2015-05-13"/>
+  <titles>
+    <title type="short" as="introduced">Bailout Prevention Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend the Federal Reserve Act to reform the Federal Reserve System.</title>
+  </titles>
+  <sponsor id="412542"/>
+  <cosponsors>
+    <cosponsor id="400418" joined="2015-05-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-13" state="REFERRED">
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="2625"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+  </subjects>
+  <amendments/>
+</bill>

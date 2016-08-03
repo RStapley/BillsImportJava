@@ -1,0 +1,36 @@
+<bill session="114" type="h" number="2732" updated="2015-07-25T06:41:50-04:00">
+  <state datetime="2015-06-11">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-11"/>
+  </status>
+  <introduced datetime="2015-06-11"/>
+  <titles>
+    <title type="short" as="introduced">Handgun Purchaser Licensing Act</title>
+    <title type="official" as="introduced">To provide for a grant program for handgun licensing programs, and for other purposes.</title>
+  </titles>
+  <sponsor id="400415"/>
+  <cosponsors>
+    <cosponsor id="400103" joined="2015-06-11"/>
+    <cosponsor id="412524" joined="2015-06-11"/>
+    <cosponsor id="412595" joined="2015-06-11"/>
+    <cosponsor id="400295" joined="2015-06-15"/>
+    <cosponsor id="412259" joined="2015-06-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-11" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-07-01">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1751"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

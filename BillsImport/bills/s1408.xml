@@ -1,0 +1,32 @@
+<bill session="114" type="s" number="1408" updated="2015-06-10T04:49:11-04:00">
+  <state datetime="2015-05-20">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-20"/>
+  </status>
+  <introduced datetime="2015-05-20"/>
+  <titles>
+    <title type="short" as="introduced">Vehicle Innovation Act of 2015</title>
+    <title type="official" as="introduced">A bill to provide for a program of research, development, demonstration, and commercial application in vehicle technologies at the Department of Energy.</title>
+  </titles>
+  <sponsor id="412305"/>
+  <cosponsors>
+    <cosponsor id="300002" joined="2015-05-20"/>
+    <cosponsor id="300093" joined="2015-05-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-20" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2015-06-09">
+      <text>Committee on Energy and Natural Resources. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+  </subjects>
+  <amendments/>
+</bill>

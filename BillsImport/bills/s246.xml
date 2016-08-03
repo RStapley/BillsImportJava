@@ -1,0 +1,144 @@
+<bill session="114" type="s" number="246" updated="2015-08-08T06:53:44-04:00">
+  <state datetime="2015-06-01">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2015-06-01"/>
+  </status>
+  <introduced datetime="2015-01-22"/>
+  <titles>
+    <title type="short" as="introduced">Alyce Spotted Bear and Walter Soboleff Commission on Native Children Act</title>
+    <title type="short" as="reported to senate">Alyce Spotted Bear and Walter Soboleff Commission on Native Children Act</title>
+    <title type="short" as="passed senate">Alyce Spotted Bear and Walter Soboleff Commission on Native Children Act</title>
+    <title type="official" as="introduced">A bill to establish the Alyce Spotted Bear and Walter Soboleff Commission on Native Children, and for other purposes.</title>
+  </titles>
+  <sponsor id="412554"/>
+  <cosponsors>
+    <cosponsor id="400013" joined="2015-01-22"/>
+    <cosponsor id="412490" joined="2015-01-22"/>
+    <cosponsor id="300011" joined="2015-01-22"/>
+    <cosponsor id="300018" joined="2015-01-22"/>
+    <cosponsor id="300025" joined="2015-01-22"/>
+    <cosponsor id="412549" joined="2015-05-14"/>
+    <cosponsor id="300043" joined="2015-01-22"/>
+    <cosponsor id="412556" joined="2015-01-22"/>
+    <cosponsor id="412378" joined="2015-01-22"/>
+    <cosponsor id="412281" joined="2015-01-22"/>
+    <cosponsor id="412200" joined="2015-01-22"/>
+    <cosponsor id="412494" joined="2015-01-22"/>
+    <cosponsor id="300055" joined="2015-02-25"/>
+    <cosponsor id="412242" joined="2015-01-22"/>
+    <cosponsor id="400284" joined="2015-01-22"/>
+    <cosponsor id="300075" joined="2015-01-22"/>
+    <cosponsor id="300076" joined="2015-01-22"/>
+    <cosponsor id="412305" joined="2015-05-14"/>
+    <cosponsor id="412507" joined="2015-01-22"/>
+    <cosponsor id="412323" joined="2015-01-22"/>
+    <cosponsor id="300093" joined="2015-01-22"/>
+    <cosponsor id="412244" joined="2015-01-22"/>
+    <cosponsor id="400546" joined="2015-01-22"/>
+    <cosponsor id="400413" joined="2015-01-22"/>
+    <cosponsor id="412542" joined="2015-01-22"/>
+    <cosponsor id="412247" joined="2015-01-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-22">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S422-423"/>
+    </action>
+    <action datetime="2015-01-22" state="REFERRED">
+      <text>Read twice and referred to the Committee on Indian Affairs.</text>
+    </action>
+    <calendar datetime="2015-02-04" state="REPORTED">
+      <text>Committee on Indian Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+    <action datetime="2015-05-11">
+      <text>Committee on Indian Affairs. Reported by Senator Barrasso with an amendment in the nature of a substitute. With written report No. 114-39.</text>
+    </action>
+    <calendar datetime="2015-05-11" calendar="Senate Legislative" under="General Orders" number="79">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 79.</text>
+    </calendar>
+    <vote how="by Unanimous Consent" type="vote" datetime="2015-06-01" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+      <reference ref="CR S3381-3385" label="consideration"/>
+      <reference ref="CR S3381-3383" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2015-06-01T15:46:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2015-06-01">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2015-06-01">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2015-06-19">
+      <text>Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SLIA" name="Senate Indian Affairs" activity="Referral, Markup, Reporting"/>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII24" subcommittee="Indian, Insular and Alaska Native Affairs" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="2751"/>
+  </relatedbills>
+  <subjects>
+    <term name="Native Americans"/>
+    <term name="Academic performance and assessments"/>
+    <term name="Adoption and foster care"/>
+    <term name="Advisory bodies"/>
+    <term name="Alaska Natives and Hawaiians"/>
+    <term name="Census and government statistics"/>
+    <term name="Child care and development"/>
+    <term name="Child health"/>
+    <term name="Child safety and welfare"/>
+    <term name="Correctional facilities and imprisonment"/>
+    <term name="Crime prevention"/>
+    <term name="Department of Justice"/>
+    <term name="Drug, alcohol, tobacco use"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="Higher education"/>
+    <term name="Indian social and development programs"/>
+    <term name="Juvenile crime and gang violence"/>
+    <term name="Medicaid"/>
+    <term name="Mental health"/>
+    <term name="Minority education"/>
+    <term name="Minority health"/>
+    <term name="Nutrition and diet"/>
+    <term name="Preschool education"/>
+    <term name="Social work, volunteer service, charitable organizations"/>
+    <term name="Solid waste and recycling"/>
+    <term name="Teaching, teachers, curricula"/>
+    <term name="Vocational and technical education"/>
+  </subjects>
+  <amendments/>
+  <summary>6/1/2015--Passed Senate amended.
+(This measure has not been amended since it was reported to the Senate on May 11, 2015. The summary of that version is repeated here.)
+
+Alyce Spotted Bear and Walter Soboleff Commission on Native Children Act
+
+ (Sec. 4) Establishes the Alyce Spotted Bear and Walter Soboleff Commission on Native Children in the Office of Tribal Justice of the Department of Justice.
+
+Requires the President and Congress to appoint to the Commission individuals who have significant experience and expertise in Indian affairs and matters to be studied by the Commission, including health care issues facing Native children, Indian education, juvenile justice programs, and social service programs used by Native children.
+
+Requires the Commission to establish a Native Advisory Committee consisting of representatives of Indian tribes from each region of the Bureau of Indian Affairs and a native Hawaiian. Requires members of the Committee to be experienced in matters to be studied by the Commission.
+
+Requires the Commission to conduct a comprehensive study of federal, state, local, and tribal programs that serve Native children, including an evaluation of:
+
+ the impact of concurrent jurisdiction on child welfare systems; barriers Indian tribes and Native Hawaiians face in using public and private grant resources; obstacles to nongovernmental financial support for programs benefitting Native children; issues relating to the validity and statistical significance of data on Native children; barriers to the development of sustainable, multidisciplinary programs designed to assist high-risk Native children and their families; cultural or socioeconomic challenges in communities of Native children; examples of successful program models and use of best practices in programs that serve children and families; barriers to interagency coordination; and the use of memoranda of agreement or interagency agreements to facilitate or improve agency coordination. Directs the Commission to use the results of the study and analyses of existing federal data to:
+
+ develop recommendations for goals, and plans for achieving them, for federal policy relating to Native children in the short-, mid-, and long-term informed by the development of accurate child well-being measures, except as specified; recommend modifications and improvements to programs that serve Native children (on the condition that such recommendations recognize the diversity in cultural values) that integrate the cultural strengths of Native communities and result in improvements to the child welfare system, the mental and physical health of Native children, educational and vocational opportunities, and tribal juvenile detention programs; recommend improvements to the collection of data regarding Native children and the programs that serve them; and identify models of successful federal, state, and tribal programs in the areas studied by the Commission. Prohibits the Commission, when developing recommendations and plans for federal policy on Native children, from considering or recommending recognition or establishment of a government-to-government relationship with: (1) any entity not recognized on or before the date of enactment of this Act by the Federal Government through an Act of Congress, Executive action, judicial decree, or any other action; or (2) any entity not included in the authorized list under the Federally Recognized Indian Tribe List Act of 1994.
+
+Requires the Commission to report to the President, Congress, and the White House Council on Native American Affairs on its findings, conclusions, and recommendations for legislative and administrative action.
+
+Terminates the Commission 90 days after the report is submitted.
+
+Authorizes appropriations.</summary>
+</bill>

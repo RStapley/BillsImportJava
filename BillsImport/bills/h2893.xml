@@ -1,0 +1,33 @@
+<bill session="114" type="h" number="2893" updated="2015-07-30T04:49:54-04:00">
+  <state datetime="2015-06-25">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-25"/>
+  </status>
+  <introduced datetime="2015-06-25"/>
+  <titles>
+    <title type="short" as="introduced">MADE Act</title>
+    <title type="short" as="introduced">Manufacturing American Defense Emblems Act</title>
+    <title type="official" as="introduced">To amend title 10, United States Code, to require that decorative objects depicting the official seal of the Department of Defense, the military departments, the Armed Forces, and the Defense Agencies be manufactured in the United States.</title>
+  </titles>
+  <sponsor id="412643"/>
+  <cosponsors>
+    <cosponsor id="412462" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-25" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <summary>6/25/2015--Introduced.
+Manufacturing American Defense Emblems Act or MADE Act
+
+This bill requires the 100% U.S.-manufacture of any decorative object that depicts the seals for the Department of Defense, the Department of the Army, the Department of the Navy, the Department of the Air Force, the armed forces, the defense intelligence agencies, and any other Defense Agency.</summary>
+</bill>

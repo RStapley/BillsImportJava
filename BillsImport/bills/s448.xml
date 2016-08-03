@@ -1,0 +1,43 @@
+<bill session="114" type="s" number="448" updated="2015-05-02T06:43:57-04:00">
+  <state datetime="2015-02-11">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-11"/>
+  </status>
+  <introduced datetime="2015-02-11"/>
+  <titles>
+    <title type="short" as="introduced">Veterans TRICARE Choice Act</title>
+    <title type="official" as="introduced">A bill to provide for coordination between the TRICARE program and eligibility for making contributions to a health savings account, and for other purposes.</title>
+  </titles>
+  <sponsor id="400284"/>
+  <cosponsors>
+    <cosponsor id="412490" joined="2015-02-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-11" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="868"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Congressional oversight"/>
+    <term name="Government information and archives"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Income tax deductions"/>
+    <term name="Income tax exclusion"/>
+    <term name="Military medicine"/>
+    <term name="Military personnel and dependents"/>
+  </subjects>
+  <amendments/>
+  <summary>2/11/2015--Introduced.
+Veterans TRICARE Choice Act
+
+ Allows an individual who is eligible to participate in the TRICARE program (a Department of Defense [DOD] managed health care program) to: (1) elect to be ineligible to enroll in such program, (2) make tax deductible contributions to a health savings account during the period such individual elects to be ineligible for TRICARE coverage, and (3) enroll in the TRICARE program at a later date during a special enrollment period.
+
+Requires DOD to: (1) submit to the Internal Revenue Service information on each TRICARE-eligible individual who makes such election for purposes of determining such individual's eligibility for a health savings account; and (2) report to Congress, annually, on elections by TRICARE-eligible individuals under this Act.</summary>
+</bill>

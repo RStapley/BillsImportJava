@@ -1,0 +1,48 @@
+<bill session="114" type="hr" number="359" updated="2015-07-30T04:47:36-04:00">
+  <state datetime="2015-07-10">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-10"/>
+  </status>
+  <introduced datetime="2015-07-10"/>
+  <titles>
+    <title type="official" as="introduced">Providing that the House of Representatives disagrees with the majority opinion in Obergefell et al. v. Hodges, and for other purposes.</title>
+  </titles>
+  <sponsor id="400220"/>
+  <cosponsors>
+    <cosponsor id="412630" joined="2015-07-14"/>
+    <cosponsor id="412625" joined="2015-07-22"/>
+    <cosponsor id="412655" joined="2015-07-10"/>
+    <cosponsor id="400018" joined="2015-07-15"/>
+    <cosponsor id="400032" joined="2015-07-15"/>
+    <cosponsor id="400655" joined="2015-07-15"/>
+    <cosponsor id="400141" joined="2015-07-10"/>
+    <cosponsor id="400651" joined="2015-07-10"/>
+    <cosponsor id="412661" joined="2015-07-14"/>
+    <cosponsor id="412434" joined="2015-07-10"/>
+    <cosponsor id="412429" joined="2015-07-10"/>
+    <cosponsor id="400209" joined="2015-07-13"/>
+    <cosponsor id="400285" joined="2015-07-22"/>
+    <cosponsor id="400320" joined="2015-07-15"/>
+    <cosponsor id="412213" joined="2015-07-15"/>
+    <cosponsor id="412574" joined="2015-07-15"/>
+    <cosponsor id="412525" joined="2015-07-10"/>
+    <cosponsor id="412640" joined="2015-07-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-10" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU10" subcommittee="Constitution and Civil Justice" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Civil rights and liberties, minority issues"/>
+  </subjects>
+  <amendments/>
+</bill>

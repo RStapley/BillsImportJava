@@ -1,0 +1,65 @@
+<bill session="114" type="h" number="1789" updated="2015-05-23T06:32:53-04:00">
+  <state datetime="2015-04-14">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-14"/>
+  </status>
+  <introduced datetime="2015-04-14"/>
+  <titles>
+    <title type="short" as="introduced">Tank Car Safety and Security Act of 2015</title>
+    <title type="official" as="introduced">To ensure the safety of DOT-111 tank cars by improving standards for new tank cars and upgrading existing tank cars, and for other purposes.</title>
+  </titles>
+  <sponsor id="412506"/>
+  <cosponsors>
+    <cosponsor id="412272" joined="2015-04-14"/>
+    <cosponsor id="412327" joined="2015-05-14"/>
+    <cosponsor id="400199" joined="2015-05-14"/>
+    <cosponsor id="400259" joined="2015-05-14"/>
+    <cosponsor id="400295" joined="2015-04-14"/>
+    <cosponsor id="400350" joined="2015-04-14"/>
+    <cosponsor id="400378" joined="2015-04-14"/>
+    <cosponsor id="412644" joined="2015-04-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-14" state="REFERRED">
+      <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-04-14">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2015-04-14">
+      <text>Referred to House Homeland Security</text>
+    </action>
+    <action datetime="2015-04-15">
+      <text>Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.</text>
+    </action>
+    <action datetime="2015-04-27">
+      <text>Referred to the Subcommittee on Transportation Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW14" subcommittee="Railroads, Pipelines, and Hazardous Materials" name="House Transportation and Infrastructure"/>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral"/>
+    <committee activity="Referral" code="HSHM07" subcommittee="Transportation Security" name="House Homeland Security"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Department of Homeland Security"/>
+    <term name="Department of Transportation"/>
+    <term name="Hazardous wastes and toxic substances"/>
+    <term name="Oil and gas"/>
+    <term name="Railroads"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+  <summary>4/14/2015--Introduced.
+Tank Car Safety and Security Act of 2015 
+
+ Directs the Secretary of Transportation (DOT) to revise federal regulations regarding DOT-111 tank cars used to move flammable liquids to: (1) improve tank car design standards for new cars to include an outer steel jacket around it and thermal protection, full-height head shields, and high-flow capacity pressure relief valves; and (2) require additional safety upgrades to tank cars built after October 2011 by including installation of such valves and design modifications to prevent bottom outlets from opening in case of accident.
+
+Directs the Administrator of the Transportation Security Administration to issue regulations to require that all rail safety coordinators ensure that no tank car containing crude oil is left unattended during any period that it is being transferred between railroad carriers or between a railroad carrier and a shipper.
+
+Directs the Secretary to submit to Congress a plan to phase out older-model DOT-111 tank cars that are not retrofitted to meet the new federal requirements.</summary>
+</bill>

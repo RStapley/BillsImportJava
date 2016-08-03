@@ -1,0 +1,24 @@
+<bill session="114" type="s" number="1989" updated="2015-08-18T09:46:23-04:00">
+  <state datetime="2015-08-05">REFERRED</state>
+  <status>
+    <introduced datetime="2015-08-05"/>
+  </status>
+  <introduced datetime="2015-08-05"/>
+  <titles>
+    <title type="short" as="introduced">Primary Care Enhancement Act of 2015</title>
+    <title type="official" as="introduced">A bill to improve access to primary care services.</title>
+  </titles>
+  <sponsor id="412269"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-08-05" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

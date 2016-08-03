@@ -1,0 +1,43 @@
+<bill session="114" type="h" number="129" updated="2015-03-14T06:18:50-04:00">
+  <state datetime="2015-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-06"/>
+  </status>
+  <introduced datetime="2015-01-06"/>
+  <titles>
+    <title type="short" as="introduced">Idaho Safe and Efficient Vehicle Act of 2015</title>
+    <title type="official" as="introduced">To amend title 23, United States Code, with respect to the operation of longer combination vehicles on the Interstate System in the State of Idaho, and for other purposes.</title>
+  </titles>
+  <sponsor id="400376"/>
+  <cosponsors>
+    <cosponsor id="412419" joined="2015-01-22"/>
+    <cosponsor id="400440" joined="2015-01-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-06" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2015-01-07">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW12" subcommittee="Highways and Transit" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="538"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Idaho"/>
+    <term name="Motor carriers"/>
+    <term name="Motor vehicles"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/2015--Introduced.
+Idaho Safe and Efficient Vehicle Act of 2015
+
+ Prohibits application of federal weight limitations to a longer combination vehicle operating on a segment of the Interstate System in Idaho if it: (1) has a gross vehicle weight of 129,000 pounds or less; (2) complies with certain single axle, tandem axle, and bridge formula weight limits; and (3) is authorized to operate on that segment under Idaho law.</summary>
+</bill>

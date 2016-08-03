@@ -1,0 +1,43 @@
+<bill session="114" type="h" number="1868" updated="2015-06-03T04:47:53-04:00">
+  <state datetime="2015-04-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-16"/>
+  </status>
+  <introduced datetime="2015-04-16"/>
+  <titles>
+    <title type="short" as="introduced">Rehab and Ahmed Amer Foster Care Improvement Act of 2015</title>
+    <title type="official" as="introduced">To amend part E of title IV of the Social Security Act to require States to follow certain procedures in placing a child who has been removed from the custody of his or her parents.</title>
+  </titles>
+  <sponsor id="400080"/>
+  <cosponsors>
+    <cosponsor id="412637" joined="2015-06-02"/>
+    <cosponsor id="400162" joined="2015-06-02"/>
+    <cosponsor id="412638" joined="2015-06-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-16" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Families"/>
+    <term name="Adoption and foster care"/>
+    <term name="Government information and archives"/>
+    <term name="Judicial review and appeals"/>
+    <term name="Separation, divorce, custody, support"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+  <summary>4/16/2015--Introduced.
+Rehab and Ahmed Amer Foster Care Improvement Act of 2015 
+
+ Amends part E (Foster Care and Adoption Assistance) of title IV of the Social Security Act to revise requirements that states must follow to contact the adult relatives of a child removed from the custody of his or her parents.
+
+Requires the state, within 90 days after making a placement decision, to provide notice of the decision and the reasons for it to each parent of the child, each relative who has expressed an interest in caring for the child, the guardian, and other specified parties.
+
+Requires the state to establish procedures to: (1) allow a person who receives such a notice to request documentation of the reasons for the decision involved, (2) allow the attorney for the child to petition the court involved to review the decision, and (3) require the court to commence such a review on the record after receiving such a petition.</summary>
+</bill>

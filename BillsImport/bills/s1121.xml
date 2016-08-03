@@ -1,0 +1,96 @@
+<bill session="114" type="s" number="1121" updated="2015-08-15T07:01:07-04:00">
+  <state datetime="2015-04-28">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-28"/>
+  </status>
+  <introduced datetime="2015-04-28"/>
+  <titles>
+    <title type="short" as="introduced">PAST Act</title>
+    <title type="short" as="introduced">Prevent All Soring Tactics Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend the Horse Protection Act to designate additional unlawful acts under the Act, strengthen penalties for violations of the Act, improve Department of Agriculture enforcement of the Act, and for other purposes.</title>
+  </titles>
+  <sponsor id="412493"/>
+  <cosponsors>
+    <cosponsor id="400013" joined="2015-05-07"/>
+    <cosponsor id="412330" joined="2015-05-07"/>
+    <cosponsor id="412490" joined="2015-04-28"/>
+    <cosponsor id="412598" joined="2015-05-21"/>
+    <cosponsor id="300011" joined="2015-06-03"/>
+    <cosponsor id="300018" joined="2015-05-12"/>
+    <cosponsor id="400064" joined="2015-05-22"/>
+    <cosponsor id="300019" joined="2015-05-18"/>
+    <cosponsor id="412246" joined="2015-04-30"/>
+    <cosponsor id="300025" joined="2015-04-28"/>
+    <cosponsor id="412390" joined="2015-05-07"/>
+    <cosponsor id="300030" joined="2015-05-12"/>
+    <cosponsor id="412549" joined="2015-04-28"/>
+    <cosponsor id="412205" joined="2015-05-07"/>
+    <cosponsor id="300038" joined="2015-05-12"/>
+    <cosponsor id="300043" joined="2015-04-28"/>
+    <cosponsor id="412378" joined="2015-05-19"/>
+    <cosponsor id="412281" joined="2015-05-07"/>
+    <cosponsor id="412582" joined="2015-04-30"/>
+    <cosponsor id="412545" joined="2015-05-21"/>
+    <cosponsor id="400222" joined="2015-04-28"/>
+    <cosponsor id="412242" joined="2015-06-10"/>
+    <cosponsor id="300065" joined="2015-05-18"/>
+    <cosponsor id="400253" joined="2015-04-28"/>
+    <cosponsor id="412243" joined="2015-04-28"/>
+    <cosponsor id="400272" joined="2015-05-07"/>
+    <cosponsor id="412325" joined="2015-05-18"/>
+    <cosponsor id="300073" joined="2015-05-07"/>
+    <cosponsor id="412194" joined="2015-06-02"/>
+    <cosponsor id="300076" joined="2015-05-07"/>
+    <cosponsor id="300078" joined="2015-08-04"/>
+    <cosponsor id="412305" joined="2015-04-28"/>
+    <cosponsor id="300081" joined="2015-04-30"/>
+    <cosponsor id="300082" joined="2015-06-11"/>
+    <cosponsor id="400357" joined="2015-05-07"/>
+    <cosponsor id="412507" joined="2015-05-21"/>
+    <cosponsor id="300087" joined="2015-08-06"/>
+    <cosponsor id="412323" joined="2015-04-30"/>
+    <cosponsor id="300093" joined="2015-07-29"/>
+    <cosponsor id="400408" joined="2015-04-28"/>
+    <cosponsor id="400418" joined="2015-04-28"/>
+    <cosponsor id="412321" joined="2015-04-28"/>
+    <cosponsor id="412542" joined="2015-07-27"/>
+    <cosponsor id="412247" joined="2015-04-30"/>
+    <cosponsor id="300100" joined="2015-04-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-28" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="3268"/>
+  </relatedbills>
+  <subjects>
+    <term name="Animals"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Animal protection and human-animal relationships"/>
+    <term name="Crimes against animals and natural resources"/>
+    <term name="Department of Agriculture"/>
+    <term name="Government information and archives"/>
+    <term name="Licensing and registrations"/>
+    <term name="Mammals"/>
+    <term name="Museums, exhibitions, cultural centers"/>
+    <term name="Veterinary medicine and animal diseases"/>
+  </subjects>
+  <amendments/>
+  <summary>4/28/2015--Introduced.
+Prevent All Soring Tactics Act of 2015 or the PAST Act 
+
+This bill amends the Horse Protection Act to establish a new system for inspecting horses for soring, revise penalties for violations of the Act, and modify enforcement procedures. The soring of horses is any of various actions taken on a horse's limb to produce a higher gait that may cause pain, distress, inflammation, or lameness.
+
+The Department of Agriculture (USDA) must establish requirements to license, train, assign, and oversee persons hired by the management of horse shows, exhibitions, sales, or auctions to detect and diagnose sore horses. A license may not be issued to a person with conflicts of interest, and USDA must give preference to veterinarians. USDA may revoke a license for unsatisfactory performance. USDA must assign licensed inspectors after receiving notice that management intends to hire the inspectors. An inspector must issue a citation for violations and notify USDA of violations. USDA must publish information on violations of this bill and disqualify a horse that is sore.
+
+The bill prohibits a person in any horse show, exhibition, sale, or auction from causing or directing a horse to become sore for the purpose of showing, exhibiting, selling, or auctioning the horse.
+
+The bill prohibits the use of specified devices on a Tennessee Walking, a Racking, or a Spotted Saddle horse at a show, exhibition, sale, or auction.
+
+The bill increases the maximum criminal and civil liability penalties for certain violations. USDA may disqualify violators from specified activities related to horse shows, exhibitions, sales, and auctions.</summary>
+</bill>

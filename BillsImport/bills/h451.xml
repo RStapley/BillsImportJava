@@ -1,0 +1,87 @@
+<bill session="114" type="h" number="451" updated="2015-06-04T04:47:05-04:00">
+  <state datetime="2015-05-19">REPORTED</state>
+  <status>
+    <unknown datetime="2015-05-19"/>
+  </status>
+  <introduced datetime="2015-01-21"/>
+  <titles>
+    <title type="short" as="introduced">Safe and Secure Federal Websites Act of 2015</title>
+    <title type="official" as="introduced">To ensure the functionality and security of new Federal websites that collect personally identifiable information, and for other purposes.</title>
+  </titles>
+  <sponsor id="412476"/>
+  <cosponsors>
+    <cosponsor id="412500" joined="2015-03-16"/>
+    <cosponsor id="412469" joined="2015-05-18"/>
+    <cosponsor id="412436" joined="2015-02-02"/>
+    <cosponsor id="400032" joined="2015-02-02"/>
+    <cosponsor id="400057" joined="2015-02-04"/>
+    <cosponsor id="400068" joined="2015-05-14"/>
+    <cosponsor id="412271" joined="2015-02-25"/>
+    <cosponsor id="400077" joined="2015-02-03"/>
+    <cosponsor id="412563" joined="2015-05-18"/>
+    <cosponsor id="412555" joined="2015-03-16"/>
+    <cosponsor id="412477" joined="2015-01-22"/>
+    <cosponsor id="412482" joined="2015-02-03"/>
+    <cosponsor id="400142" joined="2015-02-25"/>
+    <cosponsor id="412485" joined="2015-02-10"/>
+    <cosponsor id="412278" joined="2015-02-02"/>
+    <cosponsor id="412484" joined="2015-02-02"/>
+    <cosponsor id="412284" joined="2015-02-10"/>
+    <cosponsor id="412460" joined="2015-03-16"/>
+    <cosponsor id="412465" joined="2015-02-02"/>
+    <cosponsor id="400220" joined="2015-02-10"/>
+    <cosponsor id="400224" joined="2015-02-02"/>
+    <cosponsor id="412256" joined="2015-02-03"/>
+    <cosponsor id="400247" joined="2015-02-25"/>
+    <cosponsor id="412294" joined="2015-02-02"/>
+    <cosponsor id="412551" joined="2015-05-18"/>
+    <cosponsor id="412309" joined="2015-02-02"/>
+    <cosponsor id="412310" joined="2015-03-16"/>
+    <cosponsor id="400343" joined="2015-01-28"/>
+    <cosponsor id="412426" joined="2015-02-03"/>
+    <cosponsor id="412202" joined="2015-02-04"/>
+    <cosponsor id="412411" joined="2015-02-10"/>
+    <cosponsor id="400607" joined="2015-05-14"/>
+    <cosponsor id="412314" joined="2015-02-10"/>
+    <cosponsor id="412399" joined="2015-05-18"/>
+    <cosponsor id="400365" joined="2015-02-02"/>
+    <cosponsor id="412317" joined="2015-02-10"/>
+    <cosponsor id="400627" joined="2015-01-28"/>
+    <cosponsor id="400433" joined="2015-02-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-21" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2015-05-19">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-05-19" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Computer security and identity theft"/>
+    <term name="Government information and archives"/>
+    <term name="Internet and video services"/>
+    <term name="Office of Management and Budget (OMB)"/>
+    <term name="Right of privacy"/>
+  </subjects>
+  <amendments/>
+  <summary>1/21/2015--Introduced.
+Safe and Secure Federal Websites Act of 2015
+
+ Prohibits a federal agency from deploying or making available to the public a new federal personally identifiable information website (new Federal PII Website) until the chief information officer of the agency submits a certification to Congress that the website is fully functional and secure, as those terms are defined by this Act. Defines "new Federal PII website" as a website that: (1) is operated by (or under contract with) an agency; (2) elicits, collects, stores, or maintains personally identifiable information (i.e., information that can be used to identify an individual, such as a social security number, a date and place of birth, a mother's maiden name, biometric records, or other information linked to an individual); and (3) is first made accessible to the public and collects or stores personally identifiable information on or after October 1, 2012.
+
+Exempts beta websites designed for testing and development if users execute an agreement acknowledging the risks involved.
+
+Directs the Director of the Office of Management and Budget (OMB) to establish and oversee policies and procedures for federal agencies to follow in the event of a breach of information security involving the disclosure of personally identifiable information, including: (1) notice, not later than 72 hours after discovery of a breach or possible breach, to individuals whose personally identifiable information could be compromised as a result of such breach; (2) timely reporting to a federal cyber security center designated by this Act; and (3) any additional actions that the Director finds necessary and appropriate.
+
+Requires: (1) agency heads to ensure that agency actions taken in response to a breach comply with OMB policies and procedures established by this Act; and (2) the OMB Director to report to Congress, not later than March 1 of each year, on agency compliance with such policies and procedures.</summary>
+</bill>

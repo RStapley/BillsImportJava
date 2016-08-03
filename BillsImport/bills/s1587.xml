@@ -1,0 +1,40 @@
+<bill session="114" type="s" number="1587" updated="2015-06-27T07:32:38-04:00">
+  <state datetime="2015-06-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-16"/>
+  </status>
+  <introduced datetime="2015-06-16"/>
+  <titles>
+    <title type="short" as="introduced">Authority for the Use of Military Force Against the Islamic State of Iraq and the Levant Act</title>
+    <title type="official" as="introduced">A bill to authorize the use of the United States Armed Forces against the Islamic State of Iraq and the Levant.</title>
+  </titles>
+  <sponsor id="412582"/>
+  <cosponsors>
+    <cosponsor id="400134" joined="2015-06-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-16">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S4206"/>
+    </action>
+    <action datetime="2015-06-16" state="REFERRED">
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <summary>6/16/2015--Introduced.
+Authority for the Use of Military Force Against the Islamic State of Iraq and the Levant Act
+
+This bill authorizes the President to use the U.S. Armed Forces for three years against the Islamic State of Iraq and the Levant (ISIL), any closely related successor entity, or associated persons or forces.
+
+This bill shall also constitute the sole statutory authority for U.S. military action against ISIL, superseding any prior authorization for the use of military force against ISIL.
+
+The Authorization for Use of Military Force Against Iraq Resolution of 2002 is repealed.</summary>
+</bill>

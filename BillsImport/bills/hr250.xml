@@ -1,0 +1,50 @@
+<bill session="114" type="hr" number="250" updated="2015-07-11T06:17:42-04:00">
+  <state datetime="2015-05-01">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-01"/>
+  </status>
+  <introduced datetime="2015-05-01"/>
+  <titles>
+    <title type="official" as="introduced">Expressing the sense of the House of Representatives that Congress should pass no law that would exempt from its obligations or provide any other special consideration to elected or appointed Federal officials or any other Federal employee.</title>
+  </titles>
+  <sponsor id="412628"/>
+  <cosponsors>
+    <cosponsor id="412625" joined="2015-05-01"/>
+    <cosponsor id="412655" joined="2015-05-01"/>
+    <cosponsor id="412635" joined="2015-05-01"/>
+    <cosponsor id="412621" joined="2015-05-01"/>
+    <cosponsor id="412631" joined="2015-05-01"/>
+    <cosponsor id="412614" joined="2015-05-01"/>
+    <cosponsor id="412611" joined="2015-06-02"/>
+    <cosponsor id="412634" joined="2015-05-01"/>
+    <cosponsor id="412633" joined="2015-05-01"/>
+    <cosponsor id="412648" joined="2015-05-01"/>
+    <cosponsor id="412670" joined="2015-05-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-01" state="REFERRED">
+      <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committees on House Administration, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-05-01">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2015-05-01">
+      <text>Referred to House House Administration</text>
+    </action>
+    <action datetime="2015-05-01">
+      <text>Referred to House Judiciary</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+    <committee code="HSHA" name="House Administration" activity="Referral"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+  </subjects>
+  <amendments/>
+  <summary>5/1/2015--Introduced.
+Expresses the sense of the House of Representatives that Congress should pass no law that would exempt from its obligations, excuse from its criminal or civil penalties, or provide any other special consideration to Members of Congress, Supreme Court justices, the President, the Vice President, executive branch appointees, or any federal employee.</summary>
+</bill>

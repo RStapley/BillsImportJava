@@ -1,0 +1,164 @@
+<bill session="114" type="h" number="597" updated="2015-05-02T04:46:50-04:00">
+  <state datetime="2015-01-28">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-28"/>
+  </status>
+  <introduced datetime="2015-01-28"/>
+  <titles>
+    <title type="short" as="introduced">Reform Exports and Expand the American Economy Act</title>
+    <title type="official" as="introduced">To reauthorize the Export-Import Bank of the United States, and for other purposes.</title>
+  </titles>
+  <sponsor id="412479"/>
+  <cosponsors>
+    <cosponsor id="412630" joined="2015-02-27"/>
+    <cosponsor id="400004" joined="2015-01-28"/>
+    <cosponsor id="412500" joined="2015-01-28"/>
+    <cosponsor id="412469" joined="2015-01-28"/>
+    <cosponsor id="412629" joined="2015-01-28"/>
+    <cosponsor id="400636" joined="2015-01-28"/>
+    <cosponsor id="412427" joined="2015-01-28"/>
+    <cosponsor id="400057" joined="2015-01-28"/>
+    <cosponsor id="400077" joined="2015-01-28"/>
+    <cosponsor id="412563" joined="2015-01-28"/>
+    <cosponsor id="412658" joined="2015-01-28"/>
+    <cosponsor id="412651" joined="2015-01-28"/>
+    <cosponsor id="412555" joined="2015-01-28"/>
+    <cosponsor id="412400" joined="2015-01-28"/>
+    <cosponsor id="400086" joined="2015-01-28"/>
+    <cosponsor id="412536" joined="2015-01-28"/>
+    <cosponsor id="412420" joined="2015-01-28"/>
+    <cosponsor id="412463" joined="2015-01-28"/>
+    <cosponsor id="412453" joined="2015-01-28"/>
+    <cosponsor id="400158" joined="2015-01-28"/>
+    <cosponsor id="412454" joined="2015-01-28"/>
+    <cosponsor id="412280" joined="2015-01-28"/>
+    <cosponsor id="412444" joined="2015-01-28"/>
+    <cosponsor id="412486" joined="2015-03-26"/>
+    <cosponsor id="412422" joined="2015-01-28"/>
+    <cosponsor id="412283" joined="2015-01-28"/>
+    <cosponsor id="412460" joined="2015-01-28"/>
+    <cosponsor id="412603" joined="2015-01-28"/>
+    <cosponsor id="412566" joined="2015-01-28"/>
+    <cosponsor id="412649" joined="2015-01-28"/>
+    <cosponsor id="412465" joined="2015-01-28"/>
+    <cosponsor id="400219" joined="2015-01-28"/>
+    <cosponsor id="412421" joined="2015-01-28"/>
+    <cosponsor id="400244" joined="2015-01-28"/>
+    <cosponsor id="412445" joined="2015-01-28"/>
+    <cosponsor id="400247" joined="2015-01-28"/>
+    <cosponsor id="412643" joined="2015-01-28"/>
+    <cosponsor id="412468" joined="2015-01-28"/>
+    <cosponsor id="412466" joined="2015-01-28"/>
+    <cosponsor id="400273" joined="2015-01-28"/>
+    <cosponsor id="412568" joined="2015-01-28"/>
+    <cosponsor id="412660" joined="2015-01-28"/>
+    <cosponsor id="400316" joined="2015-05-01"/>
+    <cosponsor id="400320" joined="2015-01-28"/>
+    <cosponsor id="412393" joined="2015-01-28"/>
+    <cosponsor id="400660" joined="2015-01-28"/>
+    <cosponsor id="412572" joined="2015-01-28"/>
+    <cosponsor id="412483" joined="2015-04-13"/>
+    <cosponsor id="400341" joined="2015-01-28"/>
+    <cosponsor id="412314" joined="2015-01-28"/>
+    <cosponsor id="400373" joined="2015-01-28"/>
+    <cosponsor id="409888" joined="2015-01-28"/>
+    <cosponsor id="412648" joined="2015-01-28"/>
+    <cosponsor id="412461" joined="2015-01-28"/>
+    <cosponsor id="412317" joined="2015-01-28"/>
+    <cosponsor id="400406" joined="2015-01-28"/>
+    <cosponsor id="400411" joined="2015-01-28"/>
+    <cosponsor id="412515" joined="2015-01-28"/>
+    <cosponsor id="412548" joined="2015-01-28"/>
+    <cosponsor id="412538" joined="2015-01-28"/>
+    <cosponsor id="400433" joined="2015-01-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-28">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E129"/>
+    </action>
+    <action datetime="2015-01-28" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Accounting and auditing"/>
+    <term name="Banking and financial institutions regulation"/>
+    <term name="Climate change and greenhouse gases"/>
+    <term name="Competitiveness, trade promotion, trade deficits"/>
+    <term name="Computers and information technology"/>
+    <term name="Congressional oversight"/>
+    <term name="Credit and credit markets"/>
+    <term name="Environmental assessment, monitoring, research"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Export-Import Bank of the United States"/>
+    <term name="Fraud offenses and financial crimes"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Government ethics and transparency, public corruption"/>
+    <term name="Government information and archives"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Government studies and investigations"/>
+    <term name="Inflation and prices"/>
+    <term name="Insurance industry and regulation"/>
+    <term name="Interest, dividends, interest rates"/>
+    <term name="Public-private cooperation"/>
+    <term name="Small business"/>
+    <term name="Trade agreements and negotiations"/>
+  </subjects>
+  <amendments/>
+  <summary>1/28/2015--Introduced.
+Reform Exports and Expand the American Economy Act
+
+This bill amends the Export-Import Bank Act of 1945 to establish an Office of Ethics, headed by a Chief Ethics Officer, in the Export-Import Bank of the United States.
+
+The review of Bank fraud controls by the Government Accountability Office (GAO) shall now be quadrennial instead of once only, and followed by reports to Congress.
+
+The Board of Governors of the Federal Reserve System shall report to Congress: (1) semiannually on the terms and conditions (including interest rates, maturities, and credit standards) that private financial institutions apply in providing export finance; and (2) annually on the steps the Bank has taken to adjust the pricing of products offered, and the credit standards used, to avoid crowding out private export finance.
+
+The Bank's Board of Directors must include in their annual report to Congress any recommendations about countries with whom and in which it should not be doing business.
+
+The GAO must conduct annual audits of the Bank's loan, guarantee, insurance, and credit programs.
+
+The Chief Ethics Officer shall draft a Code of Ethics prescribing strict and definite standards of official conduct for all Bank directors, officers, and employees, including conflict-of-interest prohibitions.
+
+The Bank shall study the extent to which the products it offers are available and used by companies that export services and related goods.
+
+The Bank must also implement policies to accept: (1) electronic documents whenever possible, including copies of bills of lading, certifications, and compliance documents; and (2) electronic payments in all of its programs.
+
+If the Bank issues any report to Congress or any congressional committee containing accounting information that is not prepared using generally accepted accounting principles (GAAPs), the Bank must issue a second report with the same accounting information prepared using GAAPs.
+
+The Bank is made lender of last resort to privately owned foreign applicants (other than financial institutions), which must first try to obtain competitive financing for the transaction in question without support from the Overseas Private Investment Corporation or the Small Business Administration.
+
+Bank directors who are neither Chairman nor Vice Chairman of the Board shall constitute the Board's Audit Committee.
+
+The President of the United States (U.S. President) must report to specified congressional committees on Bank programs that may be fully or partially privatized.
+
+The Bank's Inspector General is directed to audit the Bank's portfolio risk management procedures, including its implementation of the duties assigned to the Chief Risk Officer (whose position is established by this Act).
+
+The Bank must retain at least 30% of total net earnings as a provision for possible losses.
+
+Two terms is made the term limit for any Bank President.
+
+The U.S. President must propose to Congress a strategy to pursue with other major exporting countries, over a 10-year period, elimination of all subsidized export-financing programs, tied aid, export credits, and all other forms of government-supported export subsidies. This shall also involve negotiations specifically with countries that are not members of the Organization for Economic Co-operation and Development to bring them into a multilateral agreement establishing rules and limitations on officially supported export credits.
+
+$130 billion is made the absolute limit, regardless of fiscal year, for the aggregate amount of outstanding Bank loans, guarantees, and insurance.
+
+The general duties of the Bank's Chief Risk Officer are specified.
+
+The Bank is required to develop and implement policies that incentivize transactions in which third parties, especially private sector lenders and exporters, share risks of loss with the Bank.
+
+The Bank is reauthorized and extended through FY2019, as well as its authority to finance export sales of nonlethal defense articles or services whose primary end (dual) use will be for civilian purposes.
+
+The Bank is directed to:
+
+ study its programs, products, and policies supporting exports from small business concerns and medium-sized enterprises in the United States, including those involving the implementation of the export credit insurance program, delegated lending authority, and direct Bank loans; and determine the extent to which its policies adequately meet the needs of small business concerns and medium-sized enterprises in obtaining Bank financing to support jobs in the United States through exports. The denial of funding is continued through FY2019 with respect to the Bank's Supplemental Guidelines for High Carbon Intensity Projects.
+
+The figure of $10 million is increased to $25 million, subject to annual adjustments for inflation, in cases where:
+
+ the Bank seeks to ensure that U.S. insurance companies are accorded a fair and open competitive opportunity to provide insurance for transactions involving a long-term loan or guarantee of this minimum amount, Bank procedures for public disclosure of environmental assessments and mandatory supplemental environmental reports apply to any transaction involving a project for which long-term support from the Bank is requested in at least this amount, or it is the sense of Congress that Bank policies and procedures should not prohibit small business specialists from approving applications for working capital loans, guarantees, and insurance in support of exports which have a value less than this amount.</summary>
+</bill>

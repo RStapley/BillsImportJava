@@ -1,0 +1,70 @@
+<bill session="114" type="h" number="3002" updated="2015-07-30T04:50:12-04:00">
+  <state datetime="2015-07-09">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-09"/>
+  </status>
+  <introduced datetime="2015-07-09"/>
+  <titles>
+    <title type="short" as="introduced">Mobilizing Against Sanctuary Cities Act</title>
+    <title type="official" as="introduced">To prohibit the receipt of Federal financial assistance by sanctuary cities, and for other purposes.</title>
+  </titles>
+  <sponsor id="412469"/>
+  <cosponsors>
+    <cosponsor id="412630" joined="2015-07-15"/>
+    <cosponsor id="400004" joined="2015-07-14"/>
+    <cosponsor id="412655" joined="2015-07-13"/>
+    <cosponsor id="412605" joined="2015-07-13"/>
+    <cosponsor id="412567" joined="2015-07-13"/>
+    <cosponsor id="412395" joined="2015-07-10"/>
+    <cosponsor id="412622" joined="2015-07-15"/>
+    <cosponsor id="400071" joined="2015-07-22"/>
+    <cosponsor id="412555" joined="2015-07-21"/>
+    <cosponsor id="412472" joined="2015-07-14"/>
+    <cosponsor id="412275" joined="2015-07-21"/>
+    <cosponsor id="412397" joined="2015-07-15"/>
+    <cosponsor id="412566" joined="2015-07-15"/>
+    <cosponsor id="412468" joined="2015-07-10"/>
+    <cosponsor id="400273" joined="2015-07-21"/>
+    <cosponsor id="400441" joined="2015-07-21"/>
+    <cosponsor id="412302" joined="2015-07-15"/>
+    <cosponsor id="412462" joined="2015-07-15"/>
+    <cosponsor id="400607" joined="2015-07-21"/>
+    <cosponsor id="412399" joined="2015-07-21"/>
+    <cosponsor id="400367" joined="2015-07-21"/>
+    <cosponsor id="412525" joined="2015-07-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-09" state="REFERRED">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-07-09">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2015-07-09">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration and Border Security" name="House Judiciary"/>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="3073"/>
+  </relatedbills>
+  <subjects>
+    <term name="Immigration"/>
+  </subjects>
+  <amendments/>
+  <summary>7/9/2015--Introduced.
+Mobilizing Against Sanctuary Cities Act 
+
+Prohibits a state or local government from receiving federal financial assistance for a minimum of one year if it restricts or prohibits a government entity or official from: (1) sending to or receiving from the responsible federal immigration agency information regarding an individual's citizenship or immigration status, or (2) maintaining or exchanging information about an individual's status.
+
+Restores assistance eligibility upon a Department of Justice (DOJ) determination that the jurisdiction no longer restricts or prohibits such actions.
+
+Directs DOJ to report each year to Congress regarding state or local jurisdictions that restrict or prohibit such actions.</summary>
+</bill>

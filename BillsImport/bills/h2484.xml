@@ -1,0 +1,51 @@
+<bill session="114" type="h" number="2484" updated="2015-08-15T06:40:07-04:00">
+  <state datetime="2015-05-20">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-20"/>
+  </status>
+  <introduced datetime="2015-05-20"/>
+  <titles>
+    <title type="short" as="introduced">Stop Birth Tourism Act of 2015</title>
+    <title type="official" as="introduced">To amend the Immigration and Nationality Act to provide that certain aliens who are pregnant are ineligible to receive visas and ineligible to be admitted to the United States, and for other purposes.</title>
+  </titles>
+  <sponsor id="400343"/>
+  <cosponsors>
+    <cosponsor id="412622" joined="2015-05-20"/>
+    <cosponsor id="400655" joined="2015-05-20"/>
+    <cosponsor id="412477" joined="2015-05-20"/>
+    <cosponsor id="400651" joined="2015-05-20"/>
+    <cosponsor id="412397" joined="2015-05-20"/>
+    <cosponsor id="400206" joined="2015-05-20"/>
+    <cosponsor id="400209" joined="2015-05-20"/>
+    <cosponsor id="400220" joined="2015-05-20"/>
+    <cosponsor id="412302" joined="2015-05-20"/>
+    <cosponsor id="412640" joined="2015-05-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-20" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-06-16">
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration and Border Security" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Immigration status and procedures"/>
+    <term name="Travel and tourism"/>
+    <term name="Visas and passports"/>
+    <term name="Women's health"/>
+  </subjects>
+  <amendments/>
+  <summary>5/20/2015--Introduced.
+Stop Birth Tourism Act of 2015
+
+This bill amends the Immigration and Nationality Act to authorize a consular officer or the Secretary of State to require that a nonimmigrant B-visa alien (temporary tourist or business visitor) provide a certification from a health care provider that the alien is not pregnant, or, if the alien is pregnant, regarding the status of the pregnancy.
+
+Such an alien who is pregnant and likely to give birth in the United States is inadmissible.</summary>
+</bill>

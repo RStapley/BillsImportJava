@@ -1,0 +1,67 @@
+<bill session="114" type="s" number="298" updated="2015-08-06T04:48:25-04:00">
+  <state datetime="2015-01-28">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-28"/>
+  </status>
+  <introduced datetime="2015-01-28"/>
+  <titles>
+    <title type="short" as="introduced">ACE Kids Act of 2015</title>
+    <title type="short" as="introduced">Advancing Care for Exceptional Kids Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend titles XIX and XXI of the Social Security Act to provide States with the option of providing services to children with medically complex conditions under the Medicaid program and Children's Health Insurance Program through a care coordination program focused on improving health outcomes for children with medically complex conditions and lowering costs, and for other purposes.</title>
+  </titles>
+  <sponsor id="300048"/>
+  <cosponsors>
+    <cosponsor id="412493" joined="2015-06-23"/>
+    <cosponsor id="400013" joined="2015-03-11"/>
+    <cosponsor id="412330" joined="2015-01-28"/>
+    <cosponsor id="400034" joined="2015-01-28"/>
+    <cosponsor id="400050" joined="2015-01-28"/>
+    <cosponsor id="300023" joined="2015-05-13"/>
+    <cosponsor id="300038" joined="2015-02-23"/>
+    <cosponsor id="412406" joined="2015-05-07"/>
+    <cosponsor id="412223" joined="2015-07-14"/>
+    <cosponsor id="400194" joined="2015-02-10"/>
+    <cosponsor id="400222" joined="2015-01-28"/>
+    <cosponsor id="400253" joined="2015-08-05"/>
+    <cosponsor id="412243" joined="2015-02-26"/>
+    <cosponsor id="400284" joined="2015-04-13"/>
+    <cosponsor id="300076" joined="2015-01-28"/>
+    <cosponsor id="300078" joined="2015-01-28"/>
+    <cosponsor id="400325" joined="2015-01-28"/>
+    <cosponsor id="300083" joined="2015-04-21"/>
+    <cosponsor id="300087" joined="2015-08-03"/>
+    <cosponsor id="412323" joined="2015-06-16"/>
+    <cosponsor id="400432" joined="2015-05-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-28" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="546"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Child health"/>
+    <term name="Federal preemption"/>
+    <term name="Health care quality"/>
+    <term name="Health information and medical records"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Hospital care"/>
+    <term name="Medicaid"/>
+    <term name="Poverty and welfare assistance"/>
+  </subjects>
+  <amendments/>
+  <summary>1/28/2015--Introduced.
+Advancing Care for Exceptional Kids Act of 2015 or the ACE Kids Act of 2015
+
+Amends titles XIX (Medicaid) and XXI (Children's Health Insurance) (CHIP) of the Social Security Act to allow a state, at its option, to elect to provide medical assistance for items and services furnished to eligible children with medically complex conditions enrolled in a Medicaid Children's Care Coordination (MCCC) program.
+
+Requires an MCCC program, among other things, to coordinate, integrate, and provide for the furnishing of the full range of MCCC program services to enrolled children, as well as designate pediatric care management services and pediatric focused care coordination and health promotion.
+
+Requires a state to enroll eligible children prospectively in an MCCC program through an initial 90-day assignment to a nationally designated children's hospital network, unless the child opts not to participate in any MCCC program.</summary>
+</bill>

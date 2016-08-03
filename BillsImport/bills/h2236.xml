@@ -1,0 +1,40 @@
+<bill session="114" type="h" number="2236" updated="2015-07-11T06:37:26-04:00">
+  <state datetime="2015-05-05">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-05"/>
+  </status>
+  <introduced datetime="2015-05-05"/>
+  <titles>
+    <title type="short" as="introduced">Transparency for Lethal Control Act</title>
+    <title type="official" as="introduced">To direct the Secretary of Agriculture, acting through the Animal and Plant Health Inspection Service, to submit to Congress, and make available to the public on the Internet, a report on the animals killed under the Wildlife Services program of the Animal and Plant Health Inspection Service.</title>
+  </titles>
+  <sponsor id="400097"/>
+  <cosponsors>
+    <cosponsor id="400033" joined="2015-05-05"/>
+    <cosponsor id="412517" joined="2015-05-12"/>
+    <cosponsor id="400100" joined="2015-05-05"/>
+    <cosponsor id="400361" joined="2015-06-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-05" state="REFERRED">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Animal and plant health"/>
+    <term name="Animal protection and human-animal relationships"/>
+    <term name="Congressional oversight"/>
+    <term name="Government information and archives"/>
+    <term name="Pest management"/>
+  </subjects>
+  <amendments/>
+  <summary>5/5/2015--Introduced.
+Transparency for Lethal Control Act 
+
+This bill requires the Department of Agriculture's Animal and Plant Health Inspection Service to report annually to Congress on the animals killed under the Wildlife Services program or by a state or local entity acting in cooperation with or on behalf of the program. The report must be made publicly available on the Internet and must include: the number of animals killed, species names, methods used to kill the animals, and reasons for killing the animals.</summary>
+</bill>

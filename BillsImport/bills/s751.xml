@@ -1,0 +1,73 @@
+<bill session="114" type="s" number="751" updated="2015-06-11T04:48:49-04:00">
+  <state datetime="2015-03-17">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-17"/>
+  </status>
+  <introduced datetime="2015-03-17"/>
+  <titles>
+    <title type="short" as="introduced">CASE Act</title>
+    <title type="short" as="introduced">Clean Air, Strong Economies Act</title>
+    <title type="official" as="introduced">A bill to improve the establishment of any lower ground-level ozone standards, and for other purposes.</title>
+  </titles>
+  <sponsor id="400546"/>
+  <cosponsors>
+    <cosponsor id="300002" joined="2015-06-04"/>
+    <cosponsor id="412251" joined="2015-03-18"/>
+    <cosponsor id="400034" joined="2015-03-17"/>
+    <cosponsor id="400040" joined="2015-03-17"/>
+    <cosponsor id="400061" joined="2015-03-17"/>
+    <cosponsor id="412269" joined="2015-03-17"/>
+    <cosponsor id="402675" joined="2015-03-17"/>
+    <cosponsor id="300027" joined="2015-03-17"/>
+    <cosponsor id="412508" joined="2015-03-17"/>
+    <cosponsor id="412573" joined="2015-03-18"/>
+    <cosponsor id="300041" joined="2015-03-17"/>
+    <cosponsor id="412556" joined="2015-03-17"/>
+    <cosponsor id="400134" joined="2015-03-17"/>
+    <cosponsor id="300052" joined="2015-03-17"/>
+    <cosponsor id="300055" joined="2015-03-17"/>
+    <cosponsor id="400194" joined="2015-03-17"/>
+    <cosponsor id="412496" joined="2015-06-10"/>
+    <cosponsor id="412391" joined="2015-03-17"/>
+    <cosponsor id="300072" joined="2015-03-17"/>
+    <cosponsor id="300075" joined="2015-03-17"/>
+    <cosponsor id="412666" joined="2015-03-17"/>
+    <cosponsor id="300083" joined="2015-04-15"/>
+    <cosponsor id="412669" joined="2015-03-17"/>
+    <cosponsor id="412471" joined="2015-03-17"/>
+    <cosponsor id="300088" joined="2015-06-03"/>
+    <cosponsor id="400418" joined="2015-03-17"/>
+    <cosponsor id="400432" joined="2015-03-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-17" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+    <action datetime="2015-06-03">
+      <text>Committee on Environment and Public Works. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1388"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Air quality"/>
+    <term name="Environmental Protection Agency (EPA)"/>
+    <term name="Environmental assessment, monitoring, research"/>
+    <term name="Environmental regulatory procedures"/>
+  </subjects>
+  <amendments/>
+  <summary>3/17/2015--Introduced.
+Clean Air, Strong Economies Act or the Case Act
+
+This bill prohibits the Environmental Protection Agency (EPA) from lowering its national ambient air quality standards (NAAQS) for ozone until at least 85% of counties that are in nonattainment areas (counties that are exceeding the limit) have attained the standard.
+
+In promulgating a primary or secondary NAAQS for ozone, the EPA must:
+
+ only consider a county to be a nonattainment area on the basis of direct air quality monitoring (rather than modeling); take into consideration feasibility and cost; and include in the regulatory impact analysis for the proposed and final rule at least one analysis that does not include any calculation of benefits resulting from reducing emissions of any pollutant other than ozone.</summary>
+</bill>

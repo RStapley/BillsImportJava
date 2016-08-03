@@ -1,0 +1,78 @@
+<bill session="114" type="h" number="2114" updated="2015-06-27T06:54:18-04:00">
+  <state datetime="2015-04-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-29"/>
+  </status>
+  <introduced datetime="2015-04-29"/>
+  <titles>
+    <title type="short" as="introduced">Victims of Agent Orange Relief Act of 2015</title>
+    <title type="official" as="introduced">To direct the Secretary of State, the Secretary of Health and Human Services, and the Secretary of Veterans Affairs to provide assistance for individuals affected by exposure to Agent Orange, and for other purposes.</title>
+  </titles>
+  <sponsor id="400237"/>
+  <cosponsors>
+    <cosponsor id="400162" joined="2015-05-14"/>
+    <cosponsor id="400262" joined="2015-05-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-29" state="REFERRED">
+      <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committees on Energy and Commerce, and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-04-29">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2015-04-29">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-04-29">
+      <text>Referred to House Foreign Affairs</text>
+    </action>
+    <action datetime="2015-05-01">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2015-05-26">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Asia"/>
+    <term name="Birth defects"/>
+    <term name="Conflicts and wars"/>
+    <term name="Environmental health"/>
+    <term name="Foreign aid and international relief"/>
+    <term name="Hazardous wastes and toxic substances"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health information and medical records"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Medical research"/>
+    <term name="Medical tests and diagnostic methods"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Public-private cooperation"/>
+    <term name="Research administration and funding"/>
+    <term name="Residential rehabilitation and home repair"/>
+    <term name="Veterans' medical care"/>
+    <term name="Vietnam"/>
+    <term name="World health"/>
+  </subjects>
+  <amendments/>
+  <summary>4/29/2015--Introduced.
+Victims of Agent Orange Relief Act of 2015
+
+Defines a "covered individual" as an individual who is a Vietnam resident and who: (1) is affected by health issues related to Agent Orange exposure which took place between January 1, 1961, and May 7, 1975; (2) lives or had lived in or near geographic areas in Vietnam that continue to contain high levels of Agent Orange; or (3) is affected by such health issues as the child or descendant of such an individual.
+
+Directs the Secretary of State to provide assistance: (1) to address the health care needs of covered individuals, (2) to institutions in Vietnam that provide health care to such individuals, (3) to repair and rebuild substandard homes in Vietnam for covered individuals and their families, and (4) to remediate geographic areas of Vietnam that contain high levels of Agent Orange.
+
+Directs the Secretary and the Secretary of Veterans Affairs (VA) to provide assistance to support research relating to health issues of individuals affected by Agent Orange.
+
+Requires the Secretary of Health and Human Services to: (1) make grants to appropriate public health organizations and Vietnamese-American organizations to conduct a broad health assessment of Vietnamese-Americans who may have been exposed to Agent Orange and their children or descendants; and (2) establish centers in U.S. locations where large populations of Vietnamese-Americans reside to provide assessment, counseling, and treatment for conditions related to Agent Orange exposure.
+
+Amends veterans benefits provisions to provide benefits to the children of male (currently only female) Vietnam veterans who are affected by certain birth defects. Requires the VA Secretary to require any health care provider with whom the Secretary enters into a contract for the provision of health care to such children to provide the VA access to the medical records of such children for research into the intergenerational effects of Agent Orange exposure.</summary>
+</bill>

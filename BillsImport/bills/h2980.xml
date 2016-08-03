@@ -1,0 +1,33 @@
+<bill session="114" type="h" number="2980" updated="2015-07-18T06:43:45-04:00">
+  <state datetime="2015-07-08">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-08"/>
+  </status>
+  <introduced datetime="2015-07-08"/>
+  <titles>
+    <title type="short" as="introduced">Mayflower Commemorative Coin Act</title>
+    <title type="official" as="introduced">To require the Secretary of the Treasury to mint coins in commemoration of the 400th anniversary of arrival of the Pilgrims.</title>
+  </titles>
+  <sponsor id="412257"/>
+  <cosponsors>
+    <cosponsor id="400029" joined="2015-07-13"/>
+    <cosponsor id="412407" joined="2015-07-09"/>
+    <cosponsor id="412555" joined="2015-07-08"/>
+    <cosponsor id="412420" joined="2015-07-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-08" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1715"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+  </subjects>
+  <amendments/>
+</bill>

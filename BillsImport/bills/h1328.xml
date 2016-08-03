@@ -1,0 +1,65 @@
+<bill session="114" type="h" number="1328" updated="2015-06-25T04:47:21-04:00">
+  <state datetime="2015-03-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-04"/>
+  </status>
+  <introduced datetime="2015-03-04"/>
+  <titles>
+    <title type="short" as="introduced">Denying Amnesty Bonuses Act</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to deny the earned income tax credit to any individual who received temporary deportation relief and work authorization in accordance with any program not specifically established by Act of Congress.</title>
+  </titles>
+  <sponsor id="412399"/>
+  <cosponsors>
+    <cosponsor id="412655" joined="2015-03-04"/>
+    <cosponsor id="412627" joined="2015-03-06"/>
+    <cosponsor id="412395" joined="2015-03-04"/>
+    <cosponsor id="412619" joined="2015-03-04"/>
+    <cosponsor id="412601" joined="2015-03-17"/>
+    <cosponsor id="412513" joined="2015-03-04"/>
+    <cosponsor id="412472" joined="2015-03-04"/>
+    <cosponsor id="400141" joined="2015-03-04"/>
+    <cosponsor id="412397" joined="2015-03-04"/>
+    <cosponsor id="412447" joined="2015-03-04"/>
+    <cosponsor id="412434" joined="2015-03-04"/>
+    <cosponsor id="412444" joined="2015-03-04"/>
+    <cosponsor id="412437" joined="2015-03-04"/>
+    <cosponsor id="400209" joined="2015-03-04"/>
+    <cosponsor id="412191" joined="2015-03-04"/>
+    <cosponsor id="412290" joined="2015-03-04"/>
+    <cosponsor id="412474" joined="2015-03-04"/>
+    <cosponsor id="412409" joined="2015-06-24"/>
+    <cosponsor id="412302" joined="2015-03-04"/>
+    <cosponsor id="400313" joined="2015-03-06"/>
+    <cosponsor id="412309" joined="2015-03-04"/>
+    <cosponsor id="412572" joined="2015-03-04"/>
+    <cosponsor id="412310" joined="2015-03-04"/>
+    <cosponsor id="412641" joined="2015-03-04"/>
+    <cosponsor id="412417" joined="2015-03-04"/>
+    <cosponsor id="412574" joined="2015-03-04"/>
+    <cosponsor id="412640" joined="2015-03-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-04" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1182"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Foreign labor"/>
+    <term name="Immigration status and procedures"/>
+    <term name="Income tax credits"/>
+    <term name="Poverty and welfare assistance"/>
+    <term name="Wages and earnings"/>
+  </subjects>
+  <amendments/>
+  <summary>3/4/2015--Introduced.
+Denying Amnesty Bonuses Act
+
+This bill amends the Internal Revenue Code to deny the earned income tax credit to a taxpayer or a taxpayer's spouse who, in any taxable year, received temporary deportation relief and work authorization in accordance with any program not specifically established by Congress.</summary>
+</bill>

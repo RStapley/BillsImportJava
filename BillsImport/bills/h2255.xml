@@ -1,0 +1,40 @@
+<bill session="114" type="h" number="2255" updated="2015-07-22T04:59:24-04:00">
+  <state datetime="2015-05-12">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-12"/>
+  </status>
+  <introduced datetime="2015-05-12"/>
+  <titles>
+    <title type="official" as="introduced">To make participation in the American Community Survey voluntary, except with respect to certain basic questions, and for other purposes.</title>
+  </titles>
+  <sponsor id="400652"/>
+  <cosponsors>
+    <cosponsor id="412472" joined="2015-05-12"/>
+    <cosponsor id="400116" joined="2015-05-12"/>
+    <cosponsor id="412457" joined="2015-05-12"/>
+    <cosponsor id="412429" joined="2015-05-12"/>
+    <cosponsor id="412284" joined="2015-05-12"/>
+    <cosponsor id="400224" joined="2015-06-03"/>
+    <cosponsor id="412292" joined="2015-07-21"/>
+    <cosponsor id="400656" joined="2015-06-09"/>
+    <cosponsor id="412409" joined="2015-06-10"/>
+    <cosponsor id="400343" joined="2015-05-12"/>
+    <cosponsor id="412426" joined="2015-06-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-12" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Census and government statistics"/>
+  </subjects>
+  <amendments/>
+  <summary>5/12/2015--Introduced.
+Requires the Department of Commerce to include in instructions for completing any survey relating to the Census a statement that answering any questions other than questions that elicit the name of the respondent, contact information, the date of the response, or the number of people living or staying at the same address where the respondent resides is optional. Provides that no person may be fined or otherwise compelled to answer questions in connection with the survey commonly known as the American Community Survey (except for the questions permitted by this Act).</summary>
+</bill>

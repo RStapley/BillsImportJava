@@ -1,0 +1,61 @@
+<bill session="114" type="h" number="1905" updated="2015-07-29T04:48:14-04:00">
+  <state datetime="2015-04-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-21"/>
+  </status>
+  <introduced datetime="2015-04-21"/>
+  <titles>
+    <title type="short" as="introduced">Wounded Warrior Research Enhancement Act</title>
+    <title type="official" as="introduced">To require the Secretary of Defense to award grants to fund research on orthotics and prosthetics.</title>
+  </titles>
+  <sponsor id="412571"/>
+  <cosponsors>
+    <cosponsor id="412657" joined="2015-04-21"/>
+    <cosponsor id="412236" joined="2015-04-21"/>
+    <cosponsor id="412420" joined="2015-05-21"/>
+    <cosponsor id="400640" joined="2015-04-21"/>
+    <cosponsor id="412453" joined="2015-04-21"/>
+    <cosponsor id="412278" joined="2015-04-21"/>
+    <cosponsor id="400170" joined="2015-04-21"/>
+    <cosponsor id="400209" joined="2015-04-21"/>
+    <cosponsor id="400211" joined="2015-04-21"/>
+    <cosponsor id="400238" joined="2015-04-21"/>
+    <cosponsor id="400263" joined="2015-04-23"/>
+    <cosponsor id="412606" joined="2015-07-21"/>
+    <cosponsor id="400295" joined="2015-04-21"/>
+    <cosponsor id="412585" joined="2015-04-21"/>
+    <cosponsor id="400333" joined="2015-04-21"/>
+    <cosponsor id="412519" joined="2015-07-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-21" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1022"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Aging"/>
+    <term name="Conflicts and wars"/>
+    <term name="Congressional oversight"/>
+    <term name="Disability and paralysis"/>
+    <term name="Materials"/>
+    <term name="Medical research"/>
+    <term name="Military medicine"/>
+    <term name="Neurological disorders"/>
+    <term name="Research administration and funding"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>4/21/2015--Introduced.
+Wounded Warrior Research Enhancement Act
+
+Directs the Secretary of Defense to award grants to carry out research for the advancement of orthotic and prosthetic clinical care for members of the Armed Forces, veterans, and civilians who have undergone amputation, traumatic brain injury, and other serious physical injury as a result of combat or military experience.
+
+Includes under such research the prevention of amputations, orthotic and prosthetic intervention, and orthotics and prosthetic materials and technology research.</summary>
+</bill>

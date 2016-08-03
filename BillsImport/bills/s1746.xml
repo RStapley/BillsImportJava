@@ -1,0 +1,40 @@
+<bill session="114" type="s" number="1746" updated="2015-08-15T07:06:25-04:00">
+  <state datetime="2015-07-09">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-09"/>
+  </status>
+  <introduced datetime="2015-07-09"/>
+  <titles>
+    <title type="short" as="introduced">RECOVER Act</title>
+    <title type="short" as="introduced">Reducing the Effects of the Cyberattack on OPM Victims Emergency Response Act of 2015</title>
+    <title type="official" as="introduced">A bill to require the Office of Personnel Management to provide complimentary, comprehensive identity protection coverage to all individuals whose personally identifiable information was compromised during recent data breaches at Federal agencies.</title>
+  </titles>
+  <sponsor id="400064"/>
+  <cosponsors>
+    <cosponsor id="400013" joined="2015-07-23"/>
+    <cosponsor id="412582" joined="2015-07-09"/>
+    <cosponsor id="300073" joined="2015-07-09"/>
+    <cosponsor id="400413" joined="2015-07-14"/>
+    <cosponsor id="412321" joined="2015-07-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-09" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="3029"/>
+    <bill relation="unknown" session="114" type="h" number="3360"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+  </subjects>
+  <amendments/>
+  <summary>7/9/2015--Introduced.
+Reducing the Effects of the Cyberattack on OPM Victims Emergency Response Act of 2015 or the RECOVER Act
+
+Requires the Office of Personnel Management (OPM)&#160;to provide each individual whose personally identifiable information was compromised during data breaches of personnel records of federal employees in a network maintained by the Department of the Interior or in OPM systems containing federal employee background investigations with comprehensive identity protection coverage that is effective for the life of the individual and that includes not less than $5 million in identity theft insurance.</summary>
+</bill>

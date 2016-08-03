@@ -1,0 +1,46 @@
+<bill session="114" type="h" number="993" updated="2015-04-04T06:25:16-04:00">
+  <state datetime="2015-02-13">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-13"/>
+  </status>
+  <introduced datetime="2015-02-13"/>
+  <titles>
+    <title type="short" as="introduced">Veterans' Independent Living Enhancement Act</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to repeal the limitation on the number of veterans authorized to be enrolled in programs of independent living services and assistance administered by the Secretary of Veterans Affairs.</title>
+  </titles>
+  <sponsor id="412558"/>
+  <cosponsors>
+    <cosponsor id="412571" joined="2015-02-13"/>
+    <cosponsor id="412286" joined="2015-03-16"/>
+    <cosponsor id="412293" joined="2015-02-13"/>
+    <cosponsor id="412489" joined="2015-02-24"/>
+    <cosponsor id="400361" joined="2015-02-24"/>
+    <cosponsor id="412254" joined="2015-02-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-13" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2015-03-06">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+    </action>
+    <action datetime="2015-03-06">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR10" subcommittee="Economic Opportunity" name="House Veterans' Affairs"/>
+    <committee activity="Referral" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+  </subjects>
+  <amendments/>
+  <summary>2/13/2015--Introduced.
+Veterans' Independent Living Enhancement Act
+
+Repeals provisions that: (1) prohibit the initiation of Department of Veterans Affairs programs providing independent living services and assistance for greater than 2,700 veterans in each fiscal year, and (2) require giving first priority under such programs to veterans for whom the reasonable feasibility of achieving a vocational goal is precluded solely as a result of disability.</summary>
+</bill>

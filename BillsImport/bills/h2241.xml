@@ -1,0 +1,54 @@
+<bill session="114" type="h" number="2241" updated="2015-07-29T04:48:24-04:00">
+  <state datetime="2015-05-05">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-05"/>
+  </status>
+  <introduced datetime="2015-05-05"/>
+  <titles>
+    <title type="short" as="introduced">Global Health Innovation Act of 2015</title>
+    <title type="official" as="introduced">To direct the Administrator of the United States Agency for International Development to submit to Congress a report on the development and use of global health innovations in the programs, projects, and activities of the Agency.</title>
+  </titles>
+  <sponsor id="412186"/>
+  <cosponsors>
+    <cosponsor id="412272" joined="2015-07-28"/>
+    <cosponsor id="400086" joined="2015-07-09"/>
+    <cosponsor id="412505" joined="2015-07-22"/>
+    <cosponsor id="400108" joined="2015-05-05"/>
+    <cosponsor id="400653" joined="2015-07-23"/>
+    <cosponsor id="400271" joined="2015-07-09"/>
+    <cosponsor id="400344" joined="2015-05-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-05" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Child health"/>
+    <term name="Congressional oversight"/>
+    <term name="Drug therapy"/>
+    <term name="Foreign aid and international relief"/>
+    <term name="HIV/AIDS"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="Health technology, devices, supplies"/>
+    <term name="Immunology and vaccination"/>
+    <term name="Infectious and parasitic diseases"/>
+    <term name="Medical tests and diagnostic methods"/>
+    <term name="Product development and innovation"/>
+    <term name="Public-private cooperation"/>
+    <term name="U.S. Agency for International Development (USAID)"/>
+    <term name="Women's health"/>
+    <term name="World health"/>
+  </subjects>
+  <amendments/>
+  <summary>5/5/2015--Introduced.
+Global Health Innovation Act of 2015
+
+This bill directs the Administrator of the U.S. Agency for International Development (USAID) to report annually to Congress on the development and use of global health innovations in USAID programs, projects, and activities.</summary>
+</bill>

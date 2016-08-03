@@ -1,0 +1,68 @@
+<bill session="114" type="h" number="667" updated="2015-07-08T04:47:25-04:00">
+  <state datetime="2015-02-03">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-03"/>
+  </status>
+  <introduced datetime="2015-02-03"/>
+  <titles>
+    <title type="short" as="introduced">Veterans Equal Access Act</title>
+    <title type="official" as="introduced">To authorize Department of Veterans Affairs health care providers to provide recommendations and opinions to veterans regarding participation in State marijuana programs.</title>
+  </titles>
+  <sponsor id="400033"/>
+  <cosponsors>
+    <cosponsor id="412438" joined="2015-02-03"/>
+    <cosponsor id="412657" joined="2015-05-14"/>
+    <cosponsor id="400041" joined="2015-02-24"/>
+    <cosponsor id="412236" joined="2015-03-04"/>
+    <cosponsor id="400129" joined="2015-02-03"/>
+    <cosponsor id="412454" joined="2015-02-03"/>
+    <cosponsor id="400170" joined="2015-03-04"/>
+    <cosponsor id="412446" joined="2015-03-24"/>
+    <cosponsor id="400209" joined="2015-02-03"/>
+    <cosponsor id="412616" joined="2015-03-24"/>
+    <cosponsor id="400245" joined="2015-03-24"/>
+    <cosponsor id="412503" joined="2015-02-24"/>
+    <cosponsor id="412527" joined="2015-07-07"/>
+    <cosponsor id="412575" joined="2015-02-11"/>
+    <cosponsor id="412307" joined="2015-02-24"/>
+    <cosponsor id="412585" joined="2015-05-14"/>
+    <cosponsor id="412308" joined="2015-02-03"/>
+    <cosponsor id="412393" joined="2015-02-03"/>
+    <cosponsor id="400343" joined="2015-02-03"/>
+    <cosponsor id="412318" joined="2015-02-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-03">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E153"/>
+    </action>
+    <action datetime="2015-02-03" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2015-02-13">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1538"/>
+    <bill relation="unknown" session="114" type="s" number="683"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Department of Veterans Affairs"/>
+    <term name="Drug, alcohol, tobacco use"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Health information and medical records"/>
+    <term name="Health personnel"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>2/3/2015--Introduced.
+Veterans Equal Access Act
+
+Directs the Secretary of Veterans Affairs (VA) to authorize VA health care providers to: (1) provide veterans with recommendations and opinions regarding participation in their state's marijuana programs, and (2) complete forms reflecting such recommendations and opinions.</summary>
+</bill>

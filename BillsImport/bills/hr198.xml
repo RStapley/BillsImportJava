@@ -1,0 +1,47 @@
+<bill session="114" type="hr" number="198" updated="2015-06-13T06:17:16-04:00">
+  <state datetime="2015-04-13">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-13"/>
+  </status>
+  <introduced datetime="2015-04-13"/>
+  <titles>
+    <title type="official" as="introduced">To establish standards defining impeachable "high crimes and misdemeanors" within the meaning of Article II, section 4 as applied to the President of the United States.</title>
+  </titles>
+  <sponsor id="412525"/>
+  <cosponsors>
+    <cosponsor id="412472" joined="2015-04-27"/>
+    <cosponsor id="412295" joined="2015-04-27"/>
+    <cosponsor id="412438" joined="2015-04-27" withdrawn="2015-06-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-13" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-05-15">
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU10" subcommittee="Constitution and Civil Justice" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Appropriations"/>
+    <term name="Congressional oversight"/>
+    <term name="Congressional-executive branch relations"/>
+    <term name="Constitution and constitutional amendments"/>
+    <term name="Due process and equal protection"/>
+    <term name="Evidence and witnesses"/>
+    <term name="Government ethics and transparency, public corruption"/>
+    <term name="International law and treaties"/>
+    <term name="Presidents and presidential powers"/>
+    <term name="War and emergency powers"/>
+  </subjects>
+  <amendments/>
+  <summary>4/13/2015--Introduced.
+Declares that the following presidential actions shall constitute impeachable "high crimes and misdemeanors," which will cause the House of Representatives to vote articles of impeachment to send to the Senate for trial:
+
+ initiating war without express congressional authorization; killing American citizens in the United States or abroad who are not engaged in active hostilities against the United States without due process (unless the killing was necessary to prevent imminent serious physical danger to third parties); failing to superintend subordinates guilty of chronic constitutional abuses; spending appropriated funds in violation of conditions imposed for expenditure; intentionally lying to Congress to obtain an authorization for war; failing to take care that the laws be faithfully executed through signing statements or systematic policies of nonenforcement; substituting executive agreements for treaties; intentionally lying under oath to a federal judge or grand jury; misusing federal agencies to advance a partisan political agenda; refusing to comply with a congressional subpoena for documents or testimony issued for a legitimate legislative purpose; and issuing executive orders or presidential memoranda that infringe upon or circumvent the constitutional powers of Congress. Makes this Act effective upon passage by the House of Representatives.</summary>
+</bill>

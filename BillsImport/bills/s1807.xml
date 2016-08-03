@@ -1,0 +1,33 @@
+<bill session="114" type="s" number="1807" updated="2015-07-24T12:47:17-04:00">
+  <state datetime="2015-07-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-21"/>
+  </status>
+  <introduced datetime="2015-07-21"/>
+  <titles>
+    <title type="short" as="introduced">Regulatory Impact Scale on the Economy Small Business Act of 2015</title>
+    <title type="short" as="introduced">RISE Small Business Act of 2015</title>
+    <title type="official" as="introduced">A bill to require agencies to publish the categorization of certain proposed and final rules, and for other purposes.</title>
+  </titles>
+  <sponsor id="412549"/>
+  <cosponsors>
+    <cosponsor id="400034" joined="2015-07-21"/>
+    <cosponsor id="412406" joined="2015-07-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-21">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S5212-5213"/>
+    </action>
+    <action datetime="2015-07-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+      <reference ref="CR S5213" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,45 @@
+<bill session="114" type="s" number="639" updated="2015-03-28T06:38:46-04:00">
+  <state datetime="2015-03-03">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-03"/>
+  </status>
+  <introduced datetime="2015-03-03"/>
+  <titles>
+    <title type="short" as="introduced">Agency PAYGO for Greenhouse Gases Act</title>
+    <title type="official" as="introduced">A bill to require the Administrator of the Environmental Protection Agency to include in any proposed rule that limits greenhouse gas emissions and imposes increased costs on other Federal agencies an offset from funds available to the Administrator for all projected increased costs that the proposed rule would impose on other Federal agencies.</title>
+  </titles>
+  <sponsor id="400134"/>
+  <cosponsors>
+    <cosponsor id="402675" joined="2015-03-03"/>
+    <cosponsor id="300027" joined="2015-03-03"/>
+    <cosponsor id="300030" joined="2015-03-03"/>
+    <cosponsor id="300055" joined="2015-03-03"/>
+    <cosponsor id="412495" joined="2015-03-03"/>
+    <cosponsor id="300071" joined="2015-03-03"/>
+    <cosponsor id="400546" joined="2015-03-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-03" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Climate change and greenhouse gases"/>
+    <term name="Environmental Protection Agency (EPA)"/>
+    <term name="Environmental regulatory procedures"/>
+    <term name="Executive agency funding and structure"/>
+  </subjects>
+  <amendments/>
+  <summary>3/3/2015--Introduced.
+Agency PAYGO for Greenhouse Gases Act
+
+This bill requires the Environmental Protection Agency (EPA) to include an offset in any proposed rule that limits greenhouse gas emissions and imposes increased costs on other agencies. The offset must be from funds available to the EPA and be for all projected increased costs imposed on other agencies.
+
+Agencies may not pass on the cost imposed by the rule on to any rate payer of the agencies.</summary>
+</bill>

@@ -1,0 +1,39 @@
+<bill session="114" type="h" number="3316" updated="2015-08-05T09:48:20-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">School Food Modernization Act</title>
+    <title type="official" as="introduced">To amend the Richard B. Russell National School Lunch Act to require the Secretary of Agriculture to make loan guarantees and grants to finance certain improvements to school lunch facilities, to train school food service personnel, and for other purposes.</title>
+  </titles>
+  <sponsor id="412469"/>
+  <cosponsors>
+    <cosponsor id="412613" joined="2015-07-29"/>
+    <cosponsor id="412307" joined="2015-07-29"/>
+    <cosponsor id="412317" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the Committee on Education and the Workforce, and in addition to the Committees on Agriculture, and Appropriations, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Referred to House Appropriations</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee code="HSAP" name="House Appropriations" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,32 @@
+<bill session="114" type="s" number="1625" updated="2015-07-04T06:59:55-04:00">
+  <state datetime="2015-06-18">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-18"/>
+  </status>
+  <introduced datetime="2015-06-18"/>
+  <titles>
+    <title type="official" as="introduced">A bill to require a report on the location of C-130 Modular Airborne Firefighting System units.</title>
+  </titles>
+  <sponsor id="412549"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-06-18" state="REFERRED">
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+      <reference ref="CR S4302" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <summary>6/18/2015--Introduced.
+This bill requires the Department of the Air Force to report to Congress on the locations of C-130 Modular Airborne Firefighting System (MAFFS) units.
+
+The report shall include:
+
+ a list of MAFFS units and their utilization rates, a future force allocation determination in order to achieve such units' most efficient use, and an assessment of the feasibility and advisability of modifying the MAFFS program to enhance firefighting capabilities.</summary>
+</bill>

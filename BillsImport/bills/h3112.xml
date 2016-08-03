@@ -1,0 +1,34 @@
+<bill session="114" type="h" number="3112" updated="2015-07-25T06:45:00-04:00">
+  <state datetime="2015-07-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-16"/>
+  </status>
+  <introduced datetime="2015-07-16"/>
+  <titles>
+    <title type="short" as="introduced">Be Open Act</title>
+    <title type="short" as="introduced">Better Enrollment Options Protect Employee Needs Act</title>
+    <title type="official" as="introduced">To repeal a requirement that new employees of certain employers be automatically enrolled in the employer's health benefits plan.</title>
+  </titles>
+  <sponsor id="412648"/>
+  <cosponsors>
+    <cosponsor id="412550" joined="2015-07-16"/>
+    <cosponsor id="412310" joined="2015-07-21"/>
+    <cosponsor id="412213" joined="2015-07-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-16" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+  </subjects>
+  <amendments/>
+</bill>

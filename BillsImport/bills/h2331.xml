@@ -1,0 +1,76 @@
+<bill session="114" type="h" number="2331" updated="2015-07-25T06:38:28-04:00">
+  <state datetime="2015-05-14">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-14"/>
+  </status>
+  <introduced datetime="2015-05-14"/>
+  <titles>
+    <title type="short" as="introduced">No Welfare for Weed Act of 2015</title>
+    <title type="official" as="introduced">To amend the Food and Nutrition Act of 2008 to prohibit the use of benefits to purchase marijuana products, to amend part A of title IV of the Social Security Act to prohibit assistance provided under the program of block grants to States for temporary assistance for needy families from being accessed through the use of an electronic benefit transfer card at any store that offers marijuana for sale, and for other purposes.</title>
+  </titles>
+  <sponsor id="412397"/>
+  <cosponsors>
+    <cosponsor id="412655" joined="2015-05-14"/>
+    <cosponsor id="412436" joined="2015-05-14"/>
+    <cosponsor id="400046" joined="2015-05-14"/>
+    <cosponsor id="412567" joined="2015-05-14"/>
+    <cosponsor id="412619" joined="2015-05-14"/>
+    <cosponsor id="412513" joined="2015-05-14"/>
+    <cosponsor id="400116" joined="2015-05-14"/>
+    <cosponsor id="412275" joined="2015-05-14"/>
+    <cosponsor id="400141" joined="2015-05-14"/>
+    <cosponsor id="412661" joined="2015-05-20"/>
+    <cosponsor id="412434" joined="2015-05-14"/>
+    <cosponsor id="412429" joined="2015-05-14"/>
+    <cosponsor id="400209" joined="2015-05-14"/>
+    <cosponsor id="400220" joined="2015-05-14"/>
+    <cosponsor id="412286" joined="2015-05-14"/>
+    <cosponsor id="412510" joined="2015-05-14"/>
+    <cosponsor id="412191" joined="2015-05-14"/>
+    <cosponsor id="412552" joined="2015-05-14"/>
+    <cosponsor id="412660" joined="2015-05-14"/>
+    <cosponsor id="400313" joined="2015-05-19"/>
+    <cosponsor id="412551" joined="2015-05-14"/>
+    <cosponsor id="400320" joined="2015-05-14"/>
+    <cosponsor id="412633" joined="2015-05-14"/>
+    <cosponsor id="400606" joined="2015-05-14"/>
+    <cosponsor id="400367" joined="2015-05-14"/>
+    <cosponsor id="412525" joined="2015-05-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-14" state="REFERRED">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-05-14">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-05-14">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2015-06-08">
+      <text>Referred to the Subcommittee on Nutrition.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee activity="Referral" code="HSAG03" subcommittee="Nutrition" name="House Agriculture"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="3010"/>
+  </relatedbills>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Drug trafficking and controlled substances"/>
+    <term name="Drug, alcohol, tobacco use"/>
+    <term name="Poverty and welfare assistance"/>
+    <term name="State and local finance"/>
+  </subjects>
+  <amendments/>
+  <summary>5/14/2015--Introduced.
+No Welfare for Weed Act of 2015
+
+This bill amends: (1) the Food and Nutrition Act of 2008 to exclude marijuana products from items that may be purchased with food stamps; and (2) part A (Temporary Assistance for Needy Families) (TANF) of title IV of the Social Security Act to require states to maintain policies that prevent the use of TANF in any electronic benefit transfer transaction in any establishment that offers marijuana for sale.
+
+States that have not reported to the Secretary of Health and Human Services on their implementation of the policies and practices required by this Act, or which have not implemented such policies and practices, shall have the amount of their family assistance grants reduced by 5%.</summary>
+</bill>

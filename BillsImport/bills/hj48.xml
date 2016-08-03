@@ -1,0 +1,49 @@
+<bill session="114" type="hj" number="48" updated="2015-08-15T06:48:33-04:00">
+  <state datetime="2015-04-28">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-28"/>
+  </status>
+  <introduced datetime="2015-04-28"/>
+  <titles>
+    <title type="official" as="introduced">Proposing an amendment to the Constitution of the United States providing that the rights extended by the Constitution are the rights of natural persons only.</title>
+  </titles>
+  <sponsor id="408211"/>
+  <cosponsors>
+    <cosponsor id="400033" joined="2015-06-25"/>
+    <cosponsor id="412571" joined="2015-04-28"/>
+    <cosponsor id="400100" joined="2015-07-23"/>
+    <cosponsor id="412215" joined="2015-04-28"/>
+    <cosponsor id="400162" joined="2015-04-28"/>
+    <cosponsor id="412511" joined="2015-04-28"/>
+    <cosponsor id="412585" joined="2015-04-28"/>
+    <cosponsor id="400378" joined="2015-07-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-28" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-05-15">
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU10" subcommittee="Constitution and Civil Justice" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Constitution and constitutional amendments"/>
+    <term name="Corporate finance and management"/>
+    <term name="Elections, voting, political campaign regulation"/>
+    <term name="First Amendment rights"/>
+    <term name="Political advertising"/>
+  </subjects>
+  <amendments/>
+  <summary>4/28/2015--Introduced.
+Constitutional Amendment
+
+Declares that: (1) the rights protected by the Constitution are the rights of natural persons only; (2) artificial entities (such as corporations, limited liability companies, and other entities established by the laws of any state, the United States, or any foreign state) shall have no rights under the Constitution and are subject to regulation by the people, through federal, state, or local law; and (3) the privileges of such artificial entities shall not be construed to be inherent or inalienable.
+
+Directs federal, state, and local government to: (1) regulate, limit, or prohibit contributions and expenditures, including a candidate's own contributions and expenditures, to ensure that all citizens, regardless of their economic status, have access to the political process and that no person gains, as a result of that person's money, substantially more access or ability to influence the election of any candidate for public office or any ballot measure; and (2) require that any permissible contributions and expenditures be publicly disclosed. Prohibits the judiciary from construing the spending of money to influence elections to be speech under the First Amendment.</summary>
+</bill>

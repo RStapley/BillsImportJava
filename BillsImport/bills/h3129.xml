@@ -1,0 +1,45 @@
+<bill session="114" type="h" number="3129" updated="2015-07-30T04:50:30-04:00">
+  <state datetime="2015-07-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-21"/>
+  </status>
+  <introduced datetime="2015-07-21"/>
+  <titles>
+    <title type="short" as="introduced">Farmers Undertake Environmental Land Stewardship Act</title>
+    <title type="short" as="introduced">FUELS Act</title>
+    <title type="official" as="introduced">To direct the Administrator of the Environmental Protection Agency to change the Spill Prevention, Control, and Countermeasure rule with respect to certain farms.</title>
+  </titles>
+  <sponsor id="412400"/>
+  <cosponsors>
+    <cosponsor id="412630" joined="2015-07-21"/>
+    <cosponsor id="412555" joined="2015-07-21"/>
+    <cosponsor id="412477" joined="2015-07-21"/>
+    <cosponsor id="412472" joined="2015-07-21"/>
+    <cosponsor id="400640" joined="2015-07-29"/>
+    <cosponsor id="400175" joined="2015-07-21"/>
+    <cosponsor id="412429" joined="2015-07-21"/>
+    <cosponsor id="400209" joined="2015-07-21"/>
+    <cosponsor id="400224" joined="2015-07-21"/>
+    <cosponsor id="412256" joined="2015-07-21"/>
+    <cosponsor id="412445" joined="2015-07-28"/>
+    <cosponsor id="412568" joined="2015-07-21"/>
+    <cosponsor id="412474" joined="2015-07-28"/>
+    <cosponsor id="400316" joined="2015-07-28"/>
+    <cosponsor id="412431" joined="2015-07-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-21" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2015-07-22">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW02" subcommittee="Water Resources and Environment" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,68 @@
+<bill session="114" type="hr" number="162" updated="2015-05-09T06:20:29-04:00">
+  <state datetime="2015-03-23T19:09:00-04:00">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2015-03-23T19:09:00-04:00"/>
+  </status>
+  <introduced datetime="2015-03-23"/>
+  <titles>
+    <title type="official" as="introduced">Calling on the President to provide Ukraine with military assistance to defend its sovereignty and territorial integrity.</title>
+  </titles>
+  <sponsor id="400122"/>
+  <cosponsors>
+    <cosponsor id="400646" joined="2015-03-23"/>
+    <cosponsor id="400142" joined="2015-03-23"/>
+    <cosponsor id="400157" joined="2015-03-23"/>
+    <cosponsor id="400211" joined="2015-03-23"/>
+    <cosponsor id="412435" joined="2015-03-23"/>
+    <cosponsor id="400238" joined="2015-03-23"/>
+    <cosponsor id="400297" joined="2015-03-23"/>
+    <cosponsor id="400340" joined="2015-03-23"/>
+    <cosponsor id="400348" joined="2015-03-23"/>
+    <cosponsor id="400361" joined="2015-03-23"/>
+    <cosponsor id="400379" joined="2015-03-23"/>
+    <cosponsor id="400404" joined="2015-03-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-23" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2015-03-23T16:50:00-04:00">
+      <text>Ms. Ros-Lehtinen moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2015-03-23T16:51:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1824-1829" label="consideration"/>
+    </action>
+    <action datetime="2015-03-23T16:51:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 162.</text>
+    </action>
+    <action datetime="2015-03-23T17:24:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2015-03-23T19:02:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H1833-1834" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="131" datetime="2015-03-23T19:09:00-04:00" where="h" result="pass" suspension="1" state="PASSED:SIMPLERES">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 348 - 48 (Roll no. 131).</text>
+      <reference ref="CR H1825" label="text"/>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Europe"/>
+    <term name="Military assistance, sales, and agreements"/>
+    <term name="Russia"/>
+    <term name="Sovereignty, recognition, national governance and status"/>
+    <term name="Ukraine"/>
+  </subjects>
+  <amendments/>
+  <summary>3/23/2015--Passed House without amendment.
+(This measure has not been amended since it was introduced. The summary of that version is repeated here.)
+
+	Urges the President to exercise the authorities provided by Congress to provide Ukraine with lethal defensive weapon systems to enhance the ability of the people of Ukraine to defend their sovereign territory from the unprovoked and continuing aggression of the Russian Federation.</summary>
+</bill>

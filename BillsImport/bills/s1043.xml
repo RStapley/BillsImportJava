@@ -1,0 +1,48 @@
+<bill session="114" type="s" number="1043" updated="2015-05-07T04:48:17-04:00">
+  <state datetime="2015-04-22">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-22"/>
+  </status>
+  <introduced datetime="2015-04-22"/>
+  <titles>
+    <title type="short" as="introduced">Invest in American Jobs Act of 2015</title>
+    <title type="official" as="introduced">A bill to ensure that transportation and infrastructure projects carried out using Federal financial assistance are constructed with steel, iron, and manufactured goods that are produced in the United States, and for other purposes.</title>
+  </titles>
+  <sponsor id="412325"/>
+  <cosponsors>
+    <cosponsor id="400013" joined="2015-04-22"/>
+    <cosponsor id="400357" joined="2015-04-28"/>
+    <cosponsor id="300093" joined="2015-05-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-22" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+  <summary>4/22/2015--Introduced.
+Invest in American Jobs Act of 2015
+
+ Revises Buy American requirements with respect to federal-aid highways, capital investment grants to support intercity passenger rail service (rail grants), and Amtrak, particularly the handling of waiver requests.
+
+Revises similar Buy American requirements with respect to public transportation, particularly rolling stock. Requires the cost of rolling stock components and subcomponents produced in the United States to increase from 60% in FY2015 by 10% annual increments up to 100% for FY2019 and ensuing fiscal years. Revises waiver requirements as well to mirror those for federal-aid highways.
+
+Applies the rail grant Buy American requirements under this Act to recipients of rail loans and loan guarantees with respect to railroad rehabilitation and improvement.
+
+Prescribes Buy American requirements for procurement of a facility or equipment under federal aviation programs similar to those for rolling stock.
+
+Requires the Secretary of Transportation to report annually to Congress on: (1) each project for which a waiver of Buy American requirements was issued; and (2) the country of origin and product specifications for steel, iron, or manufactured goods acquired pursuant to each waiver.
+
+Amends the Safe Drinking Water Act to prescribe Buy American requirements for steel, iron, and manufactured goods used in the construction of a public water system.
+
+Adds similar Buy American requirements to the Public Works and Economic Development Act of 1965, with respect to economic development programs, and to the Robert T. Stafford Disaster Relief and Emergency Assistance Act, with respect to the Federal Emergency Management Agency Hazard Mitigation Grant Program.
+
+Amends the Truman-Hobbs Act to prescribe Buy American requirements for steel, iron, and manufactured goods used in the alteration of a bridge over U.S. navigable waters.</summary>
+</bill>

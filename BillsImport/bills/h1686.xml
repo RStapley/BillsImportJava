@@ -1,0 +1,55 @@
+<bill session="114" type="h" number="1686" updated="2015-08-01T04:50:48-04:00">
+  <state datetime="2015-03-26">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-26"/>
+  </status>
+  <introduced datetime="2015-03-26"/>
+  <titles>
+    <title type="short" as="introduced">Preventing Diabetes in Medicare Act of 2015</title>
+    <title type="official" as="introduced">To amend title XVIII of the Social Security Act to reduce the occurrence of diabetes in Medicare beneficiaries by extending coverage under Medicare for medical nutrition therapy services to such beneficiaries with pre-diabetes or with risk factors for developing type 2 diabetes.</title>
+  </titles>
+  <sponsor id="400101"/>
+  <cosponsors>
+    <cosponsor id="400033" joined="2015-07-31"/>
+    <cosponsor id="400170" joined="2015-06-24"/>
+    <cosponsor id="412584" joined="2015-07-31"/>
+    <cosponsor id="400195" joined="2015-06-24"/>
+    <cosponsor id="412286" joined="2015-07-31"/>
+    <cosponsor id="400230" joined="2015-07-08"/>
+    <cosponsor id="400249" joined="2015-06-18"/>
+    <cosponsor id="412523" joined="2015-07-28"/>
+    <cosponsor id="400316" joined="2015-07-08"/>
+    <cosponsor id="400333" joined="2015-06-16"/>
+    <cosponsor id="400349" joined="2015-06-16"/>
+    <cosponsor id="400352" joined="2015-07-28"/>
+    <cosponsor id="400431" joined="2015-03-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-26" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-03-26">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-03-26">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-03-27">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+  <summary>3/26/2015--Introduced.
+Preventing Diabetes in Medicare Act of 2015
+
+ Amends title XVIII (Medicare) of the Social Security Act to extend Medicare coverage to medical nutrition therapy services for people with pre-diabetes and risk factors for developing type-2 diabetes.</summary>
+</bill>

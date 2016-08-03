@@ -1,0 +1,68 @@
+<bill session="114" type="s" number="235" updated="2015-08-06T04:48:23-04:00">
+  <state datetime="2015-01-22">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-22"/>
+  </status>
+  <introduced datetime="2015-01-22"/>
+  <titles>
+    <title type="short" as="introduced">Wildfire Disaster Funding Act of 2015</title>
+    <title type="official" as="introduced">A bill to provide for wildfire suppression operations, and for other purposes.</title>
+  </titles>
+  <sponsor id="300100"/>
+  <cosponsors>
+    <cosponsor id="400013" joined="2015-01-22"/>
+    <cosponsor id="412330" joined="2015-01-22"/>
+    <cosponsor id="412490" joined="2015-04-15"/>
+    <cosponsor id="300011" joined="2015-08-05"/>
+    <cosponsor id="300018" joined="2015-01-22"/>
+    <cosponsor id="300030" joined="2015-01-22"/>
+    <cosponsor id="412549" joined="2015-01-22"/>
+    <cosponsor id="300043" joined="2015-02-09"/>
+    <cosponsor id="412406" joined="2015-01-22"/>
+    <cosponsor id="412281" joined="2015-02-26"/>
+    <cosponsor id="412200" joined="2015-05-04"/>
+    <cosponsor id="412242" joined="2015-07-27"/>
+    <cosponsor id="412325" joined="2015-01-29"/>
+    <cosponsor id="412194" joined="2015-05-04"/>
+    <cosponsor id="412322" joined="2015-01-22"/>
+    <cosponsor id="300093" joined="2015-02-09"/>
+    <cosponsor id="412244" joined="2015-01-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-22">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S422"/>
+    </action>
+    <action datetime="2015-01-22" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Budget.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSBU" name="Senate Budget" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="167"/>
+    <bill relation="unknown" session="114" type="s" number="1645"/>
+  </relatedbills>
+  <subjects>
+    <term name="Emergency management"/>
+    <term name="Appropriations"/>
+    <term name="Budget deficits and national debt"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Agriculture"/>
+    <term name="Department of the Interior"/>
+    <term name="Disaster relief and insurance"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Fires"/>
+    <term name="Forests, forestry, trees"/>
+  </subjects>
+  <amendments/>
+  <summary>1/22/2015--Introduced.
+Wildfire Disaster Funding Act of 2015
+
+This bill amends the Balanced Budget and Emergency Deficit Control Act of 1985 to require specified adjustments to discretionary spending limits in FY2016-FY2025 to accommodate appropriations for wildfire suppression operations in the Wildland Fire Management accounts at the Department of Agriculture (USDA) or the Department of the Interior.
+
+If USDA or Interior determines that supplemental appropriations are necessary for wildfire suppression operations, the bill requires the relevant department to submit to Congress a request for the funding and a plan for obligating the funds.
+
+The bill also requires the President's budget to include the average costs for wildfire suppression over the previous 10 years.</summary>
+</bill>

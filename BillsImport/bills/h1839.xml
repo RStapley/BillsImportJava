@@ -1,0 +1,46 @@
+<bill session="114" type="h" number="1839" updated="2015-07-31T04:47:14-04:00">
+  <state datetime="2015-07-29">REPORTED</state>
+  <status>
+    <unknown datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-04-16"/>
+  <titles>
+    <title type="short" as="introduced">RAISE Act of 2015</title>
+    <title type="short" as="introduced">Reforming Access for Investments in Startup Enterprises Act of 2015</title>
+    <title type="official" as="introduced">To amend the Securities Act of 1933 to exempt certain transactions involving purchases by accredited investors, and for other purposes.</title>
+  </titles>
+  <sponsor id="400644"/>
+  <cosponsors>
+    <cosponsor id="412399" joined="2015-07-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-16" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2015-07-28">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-07-29" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 58 - 0.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Financial services and investments"/>
+    <term name="Securities"/>
+  </subjects>
+  <amendments/>
+  <summary>4/16/2015--Introduced.
+Reforming Access for Investments in Startup Enterprises Act of 2015 or the RAISE Act of 2015
+
+ Amends the Securities Act of 1933 to exempt from prohibitions relating to interstate commerce and the mails any transaction where: (1) each purchaser is an accredited investor; and (2) if the securities are offered by means of any general solicitation or general advertising, all such sales are made through a platform available only to accredited investors.
+
+Denies such exemption to transactions where the seller is: (1) either an issuer, its subsidiaries or parent; (2) a dealer; or (3) an underwriter acting on behalf of the issuer, its subsidiaries, or parent, which receives compensation from the issuer with respect to such sale.</summary>
+</bill>

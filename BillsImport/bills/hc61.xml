@@ -1,0 +1,37 @@
+<bill session="114" type="hc" number="61" updated="2015-08-15T06:49:12-04:00">
+  <state datetime="2015-07-13">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-13"/>
+  </status>
+  <introduced datetime="2015-07-13"/>
+  <titles>
+    <title type="official" as="introduced">Authorizing the use of the Capitol Grounds for the 2nd Annual Fallen Firefighters Congressional Flag Presentation Ceremony.</title>
+  </titles>
+  <sponsor id="400219"/>
+  <cosponsors>
+    <cosponsor id="400189" joined="2015-07-13"/>
+    <cosponsor id="400309" joined="2015-07-13"/>
+    <cosponsor id="400660" joined="2015-07-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-13" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2015-07-14">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Fires"/>
+    <term name="First responders and emergency personnel"/>
+    <term name="U.S. Capitol"/>
+  </subjects>
+  <amendments/>
+</bill>

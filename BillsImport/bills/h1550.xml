@@ -1,0 +1,53 @@
+<bill session="114" type="h" number="1550" updated="2015-07-28T05:08:52-04:00">
+  <state datetime="2015-03-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-23"/>
+  </status>
+  <introduced datetime="2015-03-23"/>
+  <titles>
+    <title type="short" as="introduced">Financial Stability Oversight Council Improvement Act of 2015</title>
+    <title type="official" as="introduced">To amend the Financial Stability Act of 2010 to improve the transparency of the Financial Stability Oversight Council, to improve the SIFI designation process, and for other purposes.</title>
+  </titles>
+  <sponsor id="412411"/>
+  <cosponsors>
+    <cosponsor id="412541" joined="2015-04-29"/>
+    <cosponsor id="412407" joined="2015-07-10"/>
+    <cosponsor id="412544" joined="2015-03-23"/>
+    <cosponsor id="412557" joined="2015-05-13"/>
+    <cosponsor id="400247" joined="2015-06-08"/>
+    <cosponsor id="412292" joined="2015-05-13"/>
+    <cosponsor id="400271" joined="2015-05-19"/>
+    <cosponsor id="412527" joined="2015-03-24"/>
+    <cosponsor id="412308" joined="2015-06-02"/>
+    <cosponsor id="400363" joined="2015-06-08"/>
+    <cosponsor id="400371" joined="2015-07-27"/>
+    <cosponsor id="412509" joined="2015-03-25"/>
+    <cosponsor id="412461" joined="2015-07-07"/>
+    <cosponsor id="400406" joined="2015-05-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-23" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+  </subjects>
+  <amendments/>
+  <summary>3/23/2015--Introduced.
+Financial Stability Oversight Council Improvement Act of 2015
+
+Amends the Financial Stability Act of 2010 to require the Financial Stability Oversight Council, when determining whether to subject a U.S. or a foreign nonbank financial company to supervision by the Board of Governors of the Federal Reserve System (Board), including prudential standards, to consider the appropriateness of imposing such standards as opposed to other forms of regulation to mitigate identified risks to U.S. financial stability.
+
+Directs the Council to: (1) reevaluate annually its determinations regarding a nonbank financial company under Board supervision, and (2) provide the company written notice and opportunity to submit written materials contesting a determination
+
+Permits a nonbank financial company, every five years after the Council's final determination, to request a reevaluation of it.
+
+Prescribes procedural requirements for proposed Council determinations and final decisionmaking.
+
+Directs the Council every five years to study: (1) the impact of its determinations to subject nonbank financial companies to Board supervision and prudential standards, and (2) whether such determinations have the intended result of improving domestic financial stability.</summary>
+</bill>

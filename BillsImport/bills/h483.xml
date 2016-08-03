@@ -1,0 +1,63 @@
+<bill session="114" type="h" number="483" updated="2015-07-30T04:47:58-04:00">
+  <state datetime="2015-01-22">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-22"/>
+  </status>
+  <introduced datetime="2015-01-22"/>
+  <titles>
+    <title type="short" as="introduced">Filipino Veterans Family Reunification Act of 2015</title>
+    <title type="official" as="introduced">To exempt children of certain Filipino World War II veterans from the numerical limitations on immigrant visas and for other purposes.</title>
+  </titles>
+  <sponsor id="412626"/>
+  <cosponsors>
+    <cosponsor id="400041" joined="2015-02-04"/>
+    <cosponsor id="412379" joined="2015-02-02"/>
+    <cosponsor id="412533" joined="2015-02-04"/>
+    <cosponsor id="400129" joined="2015-02-02"/>
+    <cosponsor id="412532" joined="2015-01-22"/>
+    <cosponsor id="400653" joined="2015-02-02"/>
+    <cosponsor id="412446" joined="2015-01-22"/>
+    <cosponsor id="400185" joined="2015-05-12"/>
+    <cosponsor id="400237" joined="2015-01-30"/>
+    <cosponsor id="412616" joined="2015-02-10"/>
+    <cosponsor id="412521" joined="2015-02-02"/>
+    <cosponsor id="400262" joined="2015-07-15"/>
+    <cosponsor id="412560" joined="2015-01-30"/>
+    <cosponsor id="412523" joined="2015-05-19"/>
+    <cosponsor id="400360" joined="2015-07-29"/>
+    <cosponsor id="400361" joined="2015-01-30"/>
+    <cosponsor id="400364" joined="2015-07-15"/>
+    <cosponsor id="412514" joined="2015-02-04"/>
+    <cosponsor id="412520" joined="2015-02-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-22" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-02-19">
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration and Border Security" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="733"/>
+  </relatedbills>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Asia"/>
+    <term name="Citizenship and naturalization"/>
+    <term name="Conflicts and wars"/>
+    <term name="Family relationships"/>
+    <term name="Immigration status and procedures"/>
+    <term name="Philippines"/>
+    <term name="Visas and passports"/>
+  </subjects>
+  <amendments/>
+  <summary>1/22/2015--Introduced.
+Filipino Veterans Family Reunification Act of 2015
+
+Amends the Immigration and Nationality Act to exempt from worldwide or numerical limitations on immigrant visas the sons and daughters of Filipino World War II veterans who were naturalized under the Immigration Act of 1990 or other specified federal law.</summary>
+</bill>

@@ -1,0 +1,49 @@
+<bill session="114" type="s" number="1489" updated="2015-07-30T04:52:35-04:00">
+  <state datetime="2015-06-03">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-03"/>
+  </status>
+  <introduced datetime="2015-06-03"/>
+  <titles>
+    <title type="short" as="introduced">Cuban Military Transparency Act</title>
+    <title type="official" as="introduced">A bill to strengthen support for the Cuban people and prohibit financial transactions with the Cuban military, and for other purposes.</title>
+  </titles>
+  <sponsor id="412491"/>
+  <cosponsors>
+    <cosponsor id="412508" joined="2015-06-03"/>
+    <cosponsor id="412573" joined="2015-06-03"/>
+    <cosponsor id="412406" joined="2015-06-03"/>
+    <cosponsor id="300052" joined="2015-06-03"/>
+    <cosponsor id="400222" joined="2015-06-03"/>
+    <cosponsor id="400272" joined="2015-06-03"/>
+    <cosponsor id="412666" joined="2015-07-29"/>
+    <cosponsor id="400418" joined="2015-06-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-03" state="REFERRED">
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="2937"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+  </subjects>
+  <amendments/>
+  <summary>6/3/2015--Introduced.
+Cuban Military Transparency Act
+
+This bill prohibits a U.S. person from engaging in any financial transaction with or transfer of funds to:
+
+ the Ministry of the Revolutionary Armed Forces of Cuba or the Ministry of the Interior of Cuba (or any of their subdivisions); a senior member of such Ministries; any agency, instrumentality, or other entity that is more than 25% owned, or that is operated or controlled by, such a Ministry; or any individual or entity for the purpose of avoiding a prohibited financial transaction or transfer of funds that is for the benefit of that individual or entity. Such prohibitions shall not apply to:
+
+ the sale to Cuba of agricultural commodities, medicines, and medical devices; a remittance to an immediate family member; or assistance in furtherance of democracy-building efforts for Cuba. A person that violates or attempts to violate such prohibitions shall be subject to specified penalties under the International Emergency Economic Powers Act.
+
+The Department of State rewards program under the State Department Basic Authorities Act of 1956 shall include rewards for information leading to the arrest or conviction in any country of any individual responsible for or aiding in the February 1996 attack on the aircraft of U.S. persons in international waters by the Cuban military.
+
+The Attorney General shall seek to coordinate with the International Criminal Police Organization (INTERPOL) to pursue the location and arrest of U.S. fugitives in Cuba, including current and former members of the Cuban military.</summary>
+</bill>

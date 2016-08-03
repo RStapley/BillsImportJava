@@ -1,0 +1,28 @@
+<bill session="114" type="s" number="1815" updated="2015-08-22T07:06:55-04:00">
+  <state datetime="2015-07-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-21"/>
+  </status>
+  <introduced datetime="2015-07-21"/>
+  <titles>
+    <title type="official" as="introduced">A bill to require a process by which members of the Armed Forces may carry a concealed personal firearm on a military installation.</title>
+  </titles>
+  <sponsor id="412218"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1735"/>
+    <bill relation="unknown" session="114" type="s" number="1821"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,53 @@
+<bill session="114" type="h" number="2328" updated="2015-08-22T06:38:45-04:00">
+  <state datetime="2015-05-14">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-14"/>
+  </status>
+  <introduced datetime="2015-05-14"/>
+  <titles>
+    <title type="short" as="introduced">Lead Exposure Reduction Amendments Act of 2015</title>
+    <title type="official" as="introduced">To amend the Toxic Substances Control Act relating to lead-based paint renovation and remodeling activities.</title>
+  </titles>
+  <sponsor id="412555"/>
+  <cosponsors>
+    <cosponsor id="412541" joined="2015-05-21"/>
+    <cosponsor id="412627" joined="2015-05-14"/>
+    <cosponsor id="412563" joined="2015-05-14"/>
+    <cosponsor id="412482" joined="2015-05-21"/>
+    <cosponsor id="412476" joined="2015-05-14"/>
+    <cosponsor id="400224" joined="2015-06-09"/>
+    <cosponsor id="400285" joined="2015-05-14"/>
+    <cosponsor id="400316" joined="2015-05-14"/>
+    <cosponsor id="400367" joined="2015-05-14"/>
+    <cosponsor id="412461" joined="2015-05-14"/>
+    <cosponsor id="412213" joined="2015-07-27"/>
+    <cosponsor id="400627" joined="2015-05-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-14" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-05-15">
+      <text>Referred to the Subcommittee on Environment and the Economy.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF18" subcommittee="Environment and the Economy" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1987"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Building construction"/>
+    <term name="Environmental Protection Agency (EPA)"/>
+    <term name="Environmental regulatory procedures"/>
+    <term name="Government studies and investigations"/>
+    <term name="Hazardous wastes and toxic substances"/>
+    <term name="Residential rehabilitation and home repair"/>
+    <term name="Worker safety and health"/>
+  </subjects>
+  <amendments/>
+</bill>

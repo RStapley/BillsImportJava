@@ -1,0 +1,30 @@
+<bill session="114" type="h" number="3348" updated="2015-08-08T06:47:18-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">PROTECT Act of 2015</title>
+    <title type="short" as="introduced">Providing Rewards for Outstanding Tips to Expose Crimes in Technology Act of 2015</title>
+    <title type="official" as="introduced">To direct the Attorney General to create a special reward program for individuals providing information leading to the apprehension and conviction of persons committing offenses under section 1030 of title 18, United States Code, and for other purposes.</title>
+  </titles>
+  <sponsor id="400653"/>
+  <cosponsors>
+    <cosponsor id="412488" joined="2015-07-29"/>
+    <cosponsor id="400652" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+  </subjects>
+  <amendments/>
+</bill>

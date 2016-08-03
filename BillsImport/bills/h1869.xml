@@ -1,0 +1,58 @@
+<bill session="114" type="h" number="1869" updated="2015-05-30T06:33:35-04:00">
+  <state datetime="2015-04-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-16"/>
+  </status>
+  <introduced datetime="2015-04-16"/>
+  <titles>
+    <title type="short" as="introduced">Environmental Compliance Cost Transparency Act of 2015</title>
+    <title type="official" as="introduced">To provide for transparency and reporting related to direct and indirect costs incurred by the Bonneville Power Administration, the Western Area Power Administration, the Southwestern Power Administration, and the Southeastern Power Administration related to compliance with any Federal environmental laws impacting the conservation of fish and wildlife, and for other purposes.</title>
+  </titles>
+  <sponsor id="412397"/>
+  <cosponsors>
+    <cosponsor id="412500" joined="2015-04-16"/>
+    <cosponsor id="412627" joined="2015-04-16"/>
+    <cosponsor id="412619" joined="2015-04-22"/>
+    <cosponsor id="400116" joined="2015-04-16"/>
+    <cosponsor id="400141" joined="2015-04-16"/>
+    <cosponsor id="412485" joined="2015-05-13"/>
+    <cosponsor id="412429" joined="2015-04-28"/>
+    <cosponsor id="400209" joined="2015-04-16"/>
+    <cosponsor id="412191" joined="2015-04-16"/>
+    <cosponsor id="412656" joined="2015-04-16"/>
+    <cosponsor id="412292" joined="2015-04-16"/>
+    <cosponsor id="412294" joined="2015-04-16"/>
+    <cosponsor id="412295" joined="2015-04-16"/>
+    <cosponsor id="412487" joined="2015-05-05"/>
+    <cosponsor id="400441" joined="2015-04-16"/>
+    <cosponsor id="412660" joined="2015-04-16"/>
+    <cosponsor id="400313" joined="2015-04-16"/>
+    <cosponsor id="412315" joined="2015-04-28"/>
+    <cosponsor id="412581" joined="2015-04-16"/>
+    <cosponsor id="412405" joined="2015-04-22"/>
+    <cosponsor id="412640" joined="2015-04-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-16" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2015-05-07">
+      <text>Referred to the Subcommittee on Water, Power and Oceans.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII13" subcommittee="Water, Power and Oceans" name="House Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Congressional oversight"/>
+    <term name="Consumer affairs"/>
+    <term name="Electric power generation and transmission"/>
+    <term name="Environmental regulatory procedures"/>
+    <term name="Public utilities and utility rates"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+</bill>

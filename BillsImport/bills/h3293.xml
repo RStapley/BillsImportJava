@@ -1,0 +1,46 @@
+<bill session="114" type="h" number="3293" updated="2015-08-08T06:46:51-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">Scientific Research in the National Interest Act</title>
+    <title type="official" as="introduced">To provide for greater accountability in Federal funding for scientific research, to promote the progress of science in the United States that serves that national interest.</title>
+  </titles>
+  <sponsor id="400381"/>
+  <cosponsors>
+    <cosponsor id="412630" joined="2015-07-29"/>
+    <cosponsor id="412655" joined="2015-07-29"/>
+    <cosponsor id="412567" joined="2015-07-29"/>
+    <cosponsor id="412395" joined="2015-07-29"/>
+    <cosponsor id="412658" joined="2015-07-29"/>
+    <cosponsor id="412276" joined="2015-07-29"/>
+    <cosponsor id="412460" joined="2015-07-29"/>
+    <cosponsor id="412614" joined="2015-07-29"/>
+    <cosponsor id="400630" joined="2015-07-29"/>
+    <cosponsor id="412624" joined="2015-07-29"/>
+    <cosponsor id="400247" joined="2015-07-29"/>
+    <cosponsor id="412634" joined="2015-07-29"/>
+    <cosponsor id="400441" joined="2015-07-29"/>
+    <cosponsor id="412660" joined="2015-07-29"/>
+    <cosponsor id="412608" joined="2015-07-29"/>
+    <cosponsor id="412309" joined="2015-07-29"/>
+    <cosponsor id="400343" joined="2015-07-29"/>
+    <cosponsor id="412574" joined="2015-07-29"/>
+    <cosponsor id="412610" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the House Committee on Science, Space, and Technology.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science, Space, and Technology" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Science, technology, communications"/>
+  </subjects>
+  <amendments/>
+</bill>

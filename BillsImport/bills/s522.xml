@@ -1,0 +1,114 @@
+<bill session="114" type="s" number="522" updated="2015-03-14T06:41:45-04:00">
+  <state datetime="2015-02-12">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-12"/>
+  </status>
+  <introduced datetime="2015-02-12"/>
+  <titles>
+    <title type="short" as="introduced">Protecting And Retaining Our Children's Health Insurance Program Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend title XXI of the Social Security Act to extend the Children's Health Insurance Program, and for other purposes.</title>
+  </titles>
+  <sponsor id="400050"/>
+  <cosponsors>
+    <cosponsor id="400013" joined="2015-02-12"/>
+    <cosponsor id="412330" joined="2015-02-12"/>
+    <cosponsor id="412490" joined="2015-02-12"/>
+    <cosponsor id="412598" joined="2015-02-12"/>
+    <cosponsor id="300011" joined="2015-02-12"/>
+    <cosponsor id="300018" joined="2015-02-12"/>
+    <cosponsor id="400064" joined="2015-02-12"/>
+    <cosponsor id="300019" joined="2015-02-12"/>
+    <cosponsor id="412246" joined="2015-02-12"/>
+    <cosponsor id="412390" joined="2015-02-12"/>
+    <cosponsor id="412205" joined="2015-02-12"/>
+    <cosponsor id="300038" joined="2015-02-12"/>
+    <cosponsor id="300043" joined="2015-02-12"/>
+    <cosponsor id="412378" joined="2015-02-12"/>
+    <cosponsor id="412223" joined="2015-02-12"/>
+    <cosponsor id="412281" joined="2015-02-12"/>
+    <cosponsor id="412554" joined="2015-02-12"/>
+    <cosponsor id="412200" joined="2015-02-12"/>
+    <cosponsor id="412582" joined="2015-02-12"/>
+    <cosponsor id="412545" joined="2015-02-12"/>
+    <cosponsor id="412242" joined="2015-02-12"/>
+    <cosponsor id="300065" joined="2015-02-12"/>
+    <cosponsor id="412391" joined="2015-02-12"/>
+    <cosponsor id="400253" joined="2015-02-12"/>
+    <cosponsor id="412243" joined="2015-02-12"/>
+    <cosponsor id="400272" joined="2015-02-12"/>
+    <cosponsor id="412325" joined="2015-02-12"/>
+    <cosponsor id="300073" joined="2015-02-12"/>
+    <cosponsor id="412194" joined="2015-02-12"/>
+    <cosponsor id="300076" joined="2015-02-12"/>
+    <cosponsor id="300078" joined="2015-02-12"/>
+    <cosponsor id="412305" joined="2015-02-12"/>
+    <cosponsor id="300081" joined="2015-02-12"/>
+    <cosponsor id="300082" joined="2015-02-12"/>
+    <cosponsor id="400357" joined="2015-02-12"/>
+    <cosponsor id="412507" joined="2015-02-12"/>
+    <cosponsor id="300087" joined="2015-02-12"/>
+    <cosponsor id="412323" joined="2015-02-12"/>
+    <cosponsor id="300093" joined="2015-02-12"/>
+    <cosponsor id="412244" joined="2015-02-12"/>
+    <cosponsor id="400413" joined="2015-02-12"/>
+    <cosponsor id="412321" joined="2015-02-12"/>
+    <cosponsor id="412542" joined="2015-02-12"/>
+    <cosponsor id="412247" joined="2015-02-12"/>
+    <cosponsor id="300100" joined="2015-02-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-12">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S996-997"/>
+    </action>
+    <action datetime="2015-02-12" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="919"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Appropriations"/>
+    <term name="Child health"/>
+    <term name="Food assistance and relief"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health care quality"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Medicaid"/>
+    <term name="Nutrition and diet"/>
+    <term name="Performance measurement"/>
+    <term name="Physical fitness and lifestyle"/>
+    <term name="Poverty and welfare assistance"/>
+  </subjects>
+  <amendments/>
+  <summary>2/12/2015--Introduced.
+Protecting and Retaining Our Children's Health Insurance Program Act of 2015
+
+This bill revises and extends through FY2019 at generally increased levels the program under title XXI (State Children's Health Insurance) (CHIP) of the Social Security Act (SSAct), and adjusts CHIP allotment requirements accordingly, including the rebasing and growth factor update rules for computing state allotments. Appropriations are made for certain allotments.
+
+Appropriations are made to the Child Enrollment Contingency Fund for FY2015-FY2018 (and for each of the semi-annual allotment periods for FY2019) for payments to eligible states.
+
+The aggregate cap to payments from the Fund is removed for such fiscal years and allotment periods.
+
+Additional specified amounts, with fiscal year limitation, are made available for payments from the Fund.
+
+The Secretary of Health and Human Services must make payments to shortfall states from the Child Enrollment Contingency Fund in such fiscal years and allotment periods.
+
+Performance incentive payments are revised and extended through FY2019.
+
+Specified enrollment and retention provisions for children are outlined for FY2015 and each succeeding fiscal year.
+
+The option is extended through FY2019 of a qualifying state to be paid from the state's allotment for certain Medicaid expenditures related to low-income individuals under age 19.
+
+Title XI of the SSAct is also amended to extend through FY2019: (1) the quality care for children demonstration project, (2) childhood obesity demonstration project, and (3) pediatric quality measures program.
+
+Also extended through FY20019 are CHIP grants to improve outreach and enrollment and appropriations to award such grants.
+
+SSAct XIX (Medicaid) is amended to: (1) extend express lane eligibility through FY2019, and (2) allow use of income determinations under SSAct part A (Temporary Assistance for Needy Families) (TANF) of title IV or the supplemental nutrition assistance program of the Food and Nutrition Act of 2008 to determine eligibility under the state Medicaid program.</summary>
+</bill>

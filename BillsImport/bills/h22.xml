@@ -1,0 +1,675 @@
+<bill session="114" type="h" number="22" updated="2015-08-08T06:19:21-04:00">
+  <state datetime="2015-07-30">PASS_BACK:SENATE</state>
+  <status>
+    <unknown datetime="2015-07-30"/>
+  </status>
+  <introduced datetime="2015-01-06"/>
+  <titles>
+    <title type="short" as="introduced">Hire More Heroes Act of 2015</title>
+    <title type="short" as="passed house">Hire More Heroes Act of 2015</title>
+    <title type="short" as="reported to senate">Hire More Heroes Act of 2015</title>
+    <title type="short" as="passed senate">Developing a Reliable and Innovative Vision for the Economy Act</title>
+    <title type="short" as="passed senate">DRIVE Act</title>
+    <title type="short" as="passed senate" partial="1">Comprehensive Transportation and Consumer Protection Act of 2015</title>
+    <title type="short" as="passed senate" partial="1">Driver Privacy Act of 2015</title>
+    <title type="short" as="passed senate" partial="1">Drug Free Commercial Driver Act of 2015</title>
+    <title type="short" as="passed senate" partial="1">Export-Import Bank Reform and Reauthorization Act of 2015</title>
+    <title type="short" as="passed senate" partial="1">Federal Public Transportation Act of 2015</title>
+    <title type="short" as="passed senate" partial="1">Hire More Heroes Act of 2015</title>
+    <title type="short" as="passed senate" partial="1">Improving Driver Safety Act of 2015</title>
+    <title type="short" as="passed senate" partial="1">Port Performance Act</title>
+    <title type="short" as="passed senate" partial="1">Raechel and Jacqueline Houck Safe Rental Car Act of 2015</title>
+    <title type="short" as="passed senate" partial="1">Railroad Infrastructure Financing Improvement Act</title>
+    <title type="short" as="passed senate" partial="1">Railroad Reform, Enhancement, and Efficiency Act</title>
+    <title type="short" as="passed senate" partial="1">Safety Through Informed Consumers Act of 2015</title>
+    <title type="short" as="passed senate" partial="1">Stop Motorcycle Checkpoint Funding Act</title>
+    <title type="short" as="passed senate" partial="1">Surface Transportation Extension Act of 2015</title>
+    <title type="short" as="passed senate" partial="1">TESR Act</title>
+    <title type="short" as="passed senate" partial="1">Tire Efficiency, Safety, and Registration Act of 2015</title>
+    <title type="short" as="passed senate" partial="1">Track, Railroad, and Infrastructure Network Act</title>
+    <title type="short" as="passed senate" partial="1">Transportation Funding Act of 2015</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to exempt employees with health coverage under TRICARE or the Veterans Administration from being taken into account for purposes of determining the employers to which the employer mandate applies under the Patient Protection and Affordable Care Act.</title>
+    <title type="official" as="amended by senate">An act to authorize funds for Federal-aid highways, highway safety programs, and transit programs, and for other purposes.</title>
+  </titles>
+  <sponsor id="412536"/>
+  <cosponsors>
+    <cosponsor id="412500" joined="2015-01-06"/>
+    <cosponsor id="412642" joined="2015-01-06"/>
+    <cosponsor id="412655" joined="2015-01-06"/>
+    <cosponsor id="412469" joined="2015-01-06"/>
+    <cosponsor id="412541" joined="2015-01-06"/>
+    <cosponsor id="412436" joined="2015-01-06"/>
+    <cosponsor id="412250" joined="2015-01-06"/>
+    <cosponsor id="412478" joined="2015-01-06"/>
+    <cosponsor id="400032" joined="2015-01-06"/>
+    <cosponsor id="412629" joined="2015-01-06"/>
+    <cosponsor id="400636" joined="2015-01-06"/>
+    <cosponsor id="400046" joined="2015-01-06"/>
+    <cosponsor id="412605" joined="2015-01-06"/>
+    <cosponsor id="412395" joined="2015-01-06"/>
+    <cosponsor id="400057" joined="2015-01-06"/>
+    <cosponsor id="400071" joined="2015-01-06"/>
+    <cosponsor id="412604" joined="2015-01-06"/>
+    <cosponsor id="412271" joined="2015-01-06"/>
+    <cosponsor id="400077" joined="2015-01-06"/>
+    <cosponsor id="412658" joined="2015-01-06"/>
+    <cosponsor id="412513" joined="2015-01-06"/>
+    <cosponsor id="412651" joined="2015-01-06"/>
+    <cosponsor id="412555" joined="2015-01-06"/>
+    <cosponsor id="412400" joined="2015-01-06"/>
+    <cosponsor id="412621" joined="2015-01-06"/>
+    <cosponsor id="412403" joined="2015-01-06"/>
+    <cosponsor id="412488" joined="2015-01-06"/>
+    <cosponsor id="400116" joined="2015-01-06"/>
+    <cosponsor id="412457" joined="2015-01-06"/>
+    <cosponsor id="412639" joined="2015-01-06"/>
+    <cosponsor id="412482" joined="2015-01-06"/>
+    <cosponsor id="412479" joined="2015-01-06"/>
+    <cosponsor id="400646" joined="2015-01-06"/>
+    <cosponsor id="412476" joined="2015-01-06"/>
+    <cosponsor id="400141" joined="2015-01-06"/>
+    <cosponsor id="412532" joined="2015-01-06"/>
+    <cosponsor id="412463" joined="2015-01-06"/>
+    <cosponsor id="412453" joined="2015-01-06"/>
+    <cosponsor id="400154" joined="2015-01-06"/>
+    <cosponsor id="412397" joined="2015-01-06"/>
+    <cosponsor id="412485" joined="2015-01-06"/>
+    <cosponsor id="412447" joined="2015-01-06"/>
+    <cosponsor id="412454" joined="2015-01-06"/>
+    <cosponsor id="412645" joined="2015-01-06"/>
+    <cosponsor id="412444" joined="2015-01-06"/>
+    <cosponsor id="412609" joined="2015-01-06"/>
+    <cosponsor id="412550" joined="2015-01-06"/>
+    <cosponsor id="412437" joined="2015-01-06"/>
+    <cosponsor id="412422" joined="2015-01-06"/>
+    <cosponsor id="412283" joined="2015-01-06"/>
+    <cosponsor id="412663" joined="2015-01-06"/>
+    <cosponsor id="412284" joined="2015-01-06"/>
+    <cosponsor id="412460" joined="2015-01-06"/>
+    <cosponsor id="412603" joined="2015-01-06"/>
+    <cosponsor id="400209" joined="2015-01-06"/>
+    <cosponsor id="412566" joined="2015-01-06"/>
+    <cosponsor id="412465" joined="2015-01-06"/>
+    <cosponsor id="400220" joined="2015-01-06"/>
+    <cosponsor id="412421" joined="2015-01-06"/>
+    <cosponsor id="400224" joined="2015-01-06"/>
+    <cosponsor id="412510" joined="2015-01-06"/>
+    <cosponsor id="412191" joined="2015-01-06"/>
+    <cosponsor id="412256" joined="2015-01-06"/>
+    <cosponsor id="400630" joined="2015-01-06"/>
+    <cosponsor id="412445" joined="2015-01-06"/>
+    <cosponsor id="412643" joined="2015-01-06"/>
+    <cosponsor id="412468" joined="2015-01-06"/>
+    <cosponsor id="400654" joined="2015-01-06"/>
+    <cosponsor id="412295" joined="2015-01-06"/>
+    <cosponsor id="412487" joined="2015-01-06"/>
+    <cosponsor id="412611" joined="2015-01-06"/>
+    <cosponsor id="412466" joined="2015-01-06"/>
+    <cosponsor id="412540" joined="2015-01-06"/>
+    <cosponsor id="400273" joined="2015-01-06"/>
+    <cosponsor id="400276" joined="2015-01-06"/>
+    <cosponsor id="400279" joined="2015-01-06"/>
+    <cosponsor id="412568" joined="2015-01-06"/>
+    <cosponsor id="400441" joined="2015-01-06"/>
+    <cosponsor id="412660" joined="2015-01-06"/>
+    <cosponsor id="412409" joined="2015-01-06"/>
+    <cosponsor id="412443" joined="2015-01-06"/>
+    <cosponsor id="400313" joined="2015-01-06"/>
+    <cosponsor id="412551" joined="2015-01-06"/>
+    <cosponsor id="412653" joined="2015-01-06"/>
+    <cosponsor id="412393" joined="2015-01-06"/>
+    <cosponsor id="412462" joined="2015-01-06"/>
+    <cosponsor id="412572" joined="2015-01-06"/>
+    <cosponsor id="412483" joined="2015-01-06"/>
+    <cosponsor id="412310" joined="2015-01-06"/>
+    <cosponsor id="412426" joined="2015-01-06"/>
+    <cosponsor id="412202" joined="2015-01-06"/>
+    <cosponsor id="412411" joined="2015-01-06"/>
+    <cosponsor id="412641" joined="2015-01-06"/>
+    <cosponsor id="412519" joined="2015-01-06"/>
+    <cosponsor id="412314" joined="2015-01-06"/>
+    <cosponsor id="400365" joined="2015-01-06"/>
+    <cosponsor id="400367" joined="2015-01-06"/>
+    <cosponsor id="400373" joined="2015-01-06"/>
+    <cosponsor id="412596" joined="2015-01-06"/>
+    <cosponsor id="412581" joined="2015-01-06"/>
+    <cosponsor id="412461" joined="2015-01-06"/>
+    <cosponsor id="412317" joined="2015-01-06"/>
+    <cosponsor id="400406" joined="2015-01-06"/>
+    <cosponsor id="412515" joined="2015-01-06"/>
+    <cosponsor id="412548" joined="2015-01-06"/>
+    <cosponsor id="412213" joined="2015-01-06"/>
+    <cosponsor id="400419" joined="2015-01-06"/>
+    <cosponsor id="412538" joined="2015-01-06"/>
+    <cosponsor id="412610" joined="2015-01-06"/>
+    <cosponsor id="400627" joined="2015-01-06"/>
+    <cosponsor id="400431" joined="2015-01-06"/>
+    <cosponsor id="412578" joined="2015-01-06"/>
+    <cosponsor id="412255" joined="2015-01-06"/>
+    <cosponsor id="412402" joined="2015-01-06"/>
+    <cosponsor id="412416" joined="2015-01-06"/>
+    <cosponsor id="412525" joined="2015-01-06"/>
+    <cosponsor id="412646" joined="2015-01-06"/>
+    <cosponsor id="412640" joined="2015-01-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-06" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="2015-01-06T17:35:00-05:00">
+      <text>Mr. Ryan (WI) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2015-01-06T17:35:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H29-32" label="consideration"/>
+    </action>
+    <action datetime="2015-01-06T17:35:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 22.</text>
+    </action>
+    <action datetime="2015-01-06T18:32:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote how="roll" type="vote" roll="7" datetime="2015-01-06T18:32:00-05:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 412 - 0 (Roll no. 7).</text>
+      <reference ref="CR H29" label="text"/>
+    </vote>
+    <action datetime="2015-01-07">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="2015-01-08">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+    <calendar datetime="2015-01-28">
+      <text>Committee on Finance. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="2015-02-12">
+      <text>Committee on Finance. Reported by Senator Hatch without amendment. With written report No. 114-3.</text>
+    </action>
+    <calendar datetime="2015-02-12" calendar="Senate Legislative" under="General Orders" number="19">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 19.</text>
+    </calendar>
+    <action datetime="2015-07-14">
+      <text>Motion to proceed to consideration of measure made in Senate.</text>
+      <reference ref="CR S5057" label="consideration"/>
+    </action>
+    <action datetime="2015-07-14">
+      <text>Cloture motion on the motion to proceed to the measure presented in Senate.</text>
+      <reference ref="CR S5057" label="consideration"/>
+      <reference ref="CR S5057" label="text"/>
+    </action>
+    <action datetime="2015-07-14">
+      <text>Motion to proceed to consideration of measure withdrawn in Senate.</text>
+      <reference ref="CR S5057" label="consideration"/>
+    </action>
+    <vote-aux how="roll" type="cloture" roll="250" datetime="2015-07-21" where="s" result="fail" state="PROV_KILL:CLOTUREFAILED">
+      <text>Cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 41 - 56. Record Vote Number: 250.</text>
+      <reference ref="CR S5188" label="consideration"/>
+      <reference ref="CR S5188" label="text"/>
+    </vote-aux>
+    <action datetime="2015-07-21">
+      <text>Motion by Senator McConnell to reconsider the vote by which cloture on the motion to proceed to the measure was not invoked (Record Vote No. 250) entered in Senate.</text>
+    </action>
+    <action datetime="2015-07-22">
+      <text>Motion to proceed to consideration of the motion to reconsider the vote by which cloture was not invoked on the motion to proceed to the measure (Record Vote No. 250) agreed to in Senate by Voice Vote.</text>
+      <reference ref="CR S5451" label="consideration"/>
+    </action>
+    <action datetime="2015-07-22">
+      <text>Motion by Senator McConnell to reconsider the vote by which the motion to invoke cloture on the motion to proceed to the measure was not invoked (Record Vote No. 250) agreed to in Senate by Voice Vote.</text>
+    </action>
+    <vote-aux how="roll" type="cloture" roll="251" datetime="2015-07-22" where="s" result="pass">
+      <text>Upon reconsideration, cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 62 - 36. Record Vote Number: 251.</text>
+      <reference ref="CR S5451" label="consideration"/>
+      <reference ref="CR S5451" label="text"/>
+    </vote-aux>
+    <action datetime="2015-07-22">
+      <text>Motion to proceed to measure considered in Senate.</text>
+      <reference ref="CR S5451" label="consideration"/>
+    </action>
+    <action datetime="2015-07-23">
+      <text>Motion to proceed to measure considered in Senate.</text>
+      <reference ref="CR S5478-5513" label="consideration"/>
+    </action>
+    <action datetime="2015-07-24">
+      <text>Motion to proceed to measure considered in Senate.</text>
+      <reference ref="CR S5565-5566" label="consideration"/>
+    </action>
+    <action datetime="2015-07-24">
+      <text>Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 51 - 26. Record Vote Number: 252.</text>
+    </action>
+    <action datetime="2015-07-24">
+      <text>Measure laid before Senate by motion.</text>
+      <reference ref="CR S5566-5681" label="consideration"/>
+    </action>
+    <action datetime="2015-07-24">
+      <text>Cloture motion on the measure presented in Senate.</text>
+      <reference ref="CR S5672" label="consideration"/>
+      <reference ref="CR S5672" label="text"/>
+    </action>
+    <action datetime="2015-07-26">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S5703-5710" label="consideration"/>
+    </action>
+    <action datetime="2015-07-27">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S5893, S5907-5919, S5921-5922" label="consideration"/>
+    </action>
+    <action datetime="2015-07-28">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S6046-6055, S6055-6067" label="consideration"/>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S6091-6092" label="consideration"/>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Cloture on the measure invoked in Senate by Yea-Nay Vote. 65 - 35. Record Vote Number: 259.</text>
+      <reference ref="CR S6092" label="consideration"/>
+      <reference ref="CR S6092" label="text"/>
+    </action>
+    <action datetime="2015-07-30">
+      <text>Considered by Senate.</text>
+      <reference ref="consideration CR S6149-6161, S6205"/>
+    </action>
+    <vote how="roll" type="vote2" roll="260" datetime="2015-07-30" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Passed Senate with an amendment and an amendment to the Title by Yea-Nay Vote. 65 - 34. Record Vote Number: 260.</text>
+    </vote>
+    <action datetime="2015-07-31">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="hj" number="61"/>
+    <bill relation="unknown" session="114" type="hj" number="61"/>
+    <bill relation="identical" session="114" type="s" number="12"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Accidents"/>
+    <term name="Accounting and auditing"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Advisory bodies"/>
+    <term name="Air quality"/>
+    <term name="Appropriations"/>
+    <term name="Arizona"/>
+    <term name="Aviation and airports"/>
+    <term name="Civil actions and liability"/>
+    <term name="Commuting"/>
+    <term name="Competitiveness, trade promotion, trade deficits"/>
+    <term name="Comprehensive health care"/>
+    <term name="Computers and information technology"/>
+    <term name="Congressional oversight"/>
+    <term name="Consumer affairs"/>
+    <term name="Customs enforcement"/>
+    <term name="Debt collection"/>
+    <term name="Department of Energy"/>
+    <term name="Department of Transportation"/>
+    <term name="Department of the Treasury"/>
+    <term name="Disaster relief and insurance"/>
+    <term name="Drug, alcohol, tobacco use"/>
+    <term name="Electric power generation and transmission"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Emergency planning and evacuation"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Energy storage, supplies, demand"/>
+    <term name="Environmental assessment, monitoring, research"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Export-Import Bank of the United States"/>
+    <term name="Federal Reserve System"/>
+    <term name="Fraud offenses and financial crimes"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Government ethics and transparency, public corruption"/>
+    <term name="Government information and archives"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Government studies and investigations"/>
+    <term name="Government trust funds"/>
+    <term name="Hazardous wastes and toxic substances"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Historic sites and heritage areas"/>
+    <term name="Housing finance and home ownership"/>
+    <term name="Hunting and fishing"/>
+    <term name="Hybrid, electric, and advanced technology vehicles"/>
+    <term name="Indian lands and resources rights"/>
+    <term name="Inflation and prices"/>
+    <term name="Infrastructure development"/>
+    <term name="Insects"/>
+    <term name="Interest, dividends, interest rates"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Internal Revenue Service (IRS)"/>
+    <term name="Land use and conservation"/>
+    <term name="Lease and rental services"/>
+    <term name="Licensing and registrations"/>
+    <term name="Life, casualty, property insurance"/>
+    <term name="Marine and inland water transportation"/>
+    <term name="Military medicine"/>
+    <term name="Motor carriers"/>
+    <term name="Motor vehicles"/>
+    <term name="National Railroad Passenger Corporation (Amtrak)"/>
+    <term name="Navigation, waterways, harbors"/>
+    <term name="Oil and gas"/>
+    <term name="Outdoor recreation"/>
+    <term name="Pedestrians and bicycling"/>
+    <term name="Performance measurement"/>
+    <term name="Pipelines"/>
+    <term name="Product safety and quality"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Public transit"/>
+    <term name="Railroads"/>
+    <term name="Regional and metropolitan planning"/>
+    <term name="Research administration and funding"/>
+    <term name="Research and development"/>
+    <term name="Roads and highways"/>
+    <term name="Rural conditions and development"/>
+    <term name="Sales and excise taxes"/>
+    <term name="Small business"/>
+    <term name="State and local government operations"/>
+    <term name="Strategic materials and reserves"/>
+    <term name="Tax administration and collection, taxpayers"/>
+    <term name="Telephone and wireless communication"/>
+    <term name="Transfer and inheritance taxes"/>
+    <term name="Transportation costs"/>
+    <term name="Transportation programs funding"/>
+    <term name="Transportation safety and security"/>
+    <term name="User charges and fees"/>
+    <term name="Veterans' medical care"/>
+    <term name="Visas and passports"/>
+    <term name="Water use and supply"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments>
+    <amendment number="s2257"/>
+    <amendment number="s2258"/>
+    <amendment number="s2259"/>
+    <amendment number="s2260"/>
+    <amendment number="s2261"/>
+    <amendment number="s2262"/>
+    <amendment number="s2263"/>
+    <amendment number="s2264"/>
+    <amendment number="s2265"/>
+    <amendment number="s2266"/>
+    <amendment number="s2267"/>
+    <amendment number="s2268"/>
+    <amendment number="s2269"/>
+    <amendment number="s2270"/>
+    <amendment number="s2271"/>
+    <amendment number="s2272"/>
+    <amendment number="s2273"/>
+    <amendment number="s2274"/>
+    <amendment number="s2275"/>
+    <amendment number="s2276"/>
+    <amendment number="s2277"/>
+    <amendment number="s2278"/>
+    <amendment number="s2279"/>
+    <amendment number="s2280"/>
+    <amendment number="s2281"/>
+    <amendment number="s2282"/>
+    <amendment number="s2283"/>
+    <amendment number="s2284"/>
+    <amendment number="s2285"/>
+    <amendment number="s2286"/>
+    <amendment number="s2287"/>
+    <amendment number="s2288"/>
+    <amendment number="s2289"/>
+    <amendment number="s2290"/>
+    <amendment number="s2291"/>
+    <amendment number="s2292"/>
+    <amendment number="s2293"/>
+    <amendment number="s2294"/>
+    <amendment number="s2295"/>
+    <amendment number="s2296"/>
+    <amendment number="s2297"/>
+    <amendment number="s2298"/>
+    <amendment number="s2299"/>
+    <amendment number="s2300"/>
+    <amendment number="s2301"/>
+    <amendment number="s2302"/>
+    <amendment number="s2303"/>
+    <amendment number="s2304"/>
+    <amendment number="s2305"/>
+    <amendment number="s2306"/>
+    <amendment number="s2307"/>
+    <amendment number="s2308"/>
+    <amendment number="s2309"/>
+    <amendment number="s2310"/>
+    <amendment number="s2311"/>
+    <amendment number="s2312"/>
+    <amendment number="s2313"/>
+    <amendment number="s2314"/>
+    <amendment number="s2315"/>
+    <amendment number="s2316"/>
+    <amendment number="s2317"/>
+    <amendment number="s2318"/>
+    <amendment number="s2319"/>
+    <amendment number="s2320"/>
+    <amendment number="s2321"/>
+    <amendment number="s2322"/>
+    <amendment number="s2323"/>
+    <amendment number="s2324"/>
+    <amendment number="s2325"/>
+    <amendment number="s2327"/>
+    <amendment number="s2328"/>
+    <amendment number="s2329"/>
+    <amendment number="s2330"/>
+    <amendment number="s2331"/>
+    <amendment number="s2332"/>
+    <amendment number="s2333"/>
+    <amendment number="s2334"/>
+    <amendment number="s2335"/>
+    <amendment number="s2336"/>
+    <amendment number="s2337"/>
+    <amendment number="s2338"/>
+    <amendment number="s2339"/>
+    <amendment number="s2340"/>
+    <amendment number="s2341"/>
+    <amendment number="s2342"/>
+    <amendment number="s2343"/>
+    <amendment number="s2344"/>
+    <amendment number="s2345"/>
+    <amendment number="s2346"/>
+    <amendment number="s2347"/>
+    <amendment number="s2348"/>
+    <amendment number="s2349"/>
+    <amendment number="s2350"/>
+    <amendment number="s2351"/>
+    <amendment number="s2352"/>
+    <amendment number="s2353"/>
+    <amendment number="s2354"/>
+    <amendment number="s2355"/>
+    <amendment number="s2356"/>
+    <amendment number="s2357"/>
+    <amendment number="s2358"/>
+    <amendment number="s2359"/>
+    <amendment number="s2360"/>
+    <amendment number="s2361"/>
+    <amendment number="s2362"/>
+    <amendment number="s2363"/>
+    <amendment number="s2364"/>
+    <amendment number="s2365"/>
+    <amendment number="s2366"/>
+    <amendment number="s2367"/>
+    <amendment number="s2368"/>
+    <amendment number="s2369"/>
+    <amendment number="s2370"/>
+    <amendment number="s2371"/>
+    <amendment number="s2372"/>
+    <amendment number="s2373"/>
+    <amendment number="s2374"/>
+    <amendment number="s2375"/>
+    <amendment number="s2376"/>
+    <amendment number="s2377"/>
+    <amendment number="s2378"/>
+    <amendment number="s2379"/>
+    <amendment number="s2380"/>
+    <amendment number="s2381"/>
+    <amendment number="s2382"/>
+    <amendment number="s2383"/>
+    <amendment number="s2384"/>
+    <amendment number="s2385"/>
+    <amendment number="s2386"/>
+    <amendment number="s2387"/>
+    <amendment number="s2388"/>
+    <amendment number="s2389"/>
+    <amendment number="s2390"/>
+    <amendment number="s2391"/>
+    <amendment number="s2392"/>
+    <amendment number="s2393"/>
+    <amendment number="s2394"/>
+    <amendment number="s2395"/>
+    <amendment number="s2396"/>
+    <amendment number="s2397"/>
+    <amendment number="s2398"/>
+    <amendment number="s2399"/>
+    <amendment number="s2400"/>
+    <amendment number="s2401"/>
+    <amendment number="s2402"/>
+    <amendment number="s2403"/>
+    <amendment number="s2404"/>
+    <amendment number="s2405"/>
+    <amendment number="s2406"/>
+    <amendment number="s2407"/>
+    <amendment number="s2408"/>
+    <amendment number="s2409"/>
+    <amendment number="s2410"/>
+    <amendment number="s2411"/>
+    <amendment number="s2412"/>
+    <amendment number="s2413"/>
+    <amendment number="s2414"/>
+    <amendment number="s2415"/>
+    <amendment number="s2416"/>
+    <amendment number="s2417"/>
+    <amendment number="s2418"/>
+    <amendment number="s2419"/>
+    <amendment number="s2420"/>
+    <amendment number="s2421"/>
+    <amendment number="s2422"/>
+    <amendment number="s2423"/>
+    <amendment number="s2424"/>
+    <amendment number="s2425"/>
+    <amendment number="s2426"/>
+    <amendment number="s2427"/>
+    <amendment number="s2428"/>
+    <amendment number="s2429"/>
+    <amendment number="s2430"/>
+    <amendment number="s2431"/>
+    <amendment number="s2432"/>
+    <amendment number="s2433"/>
+    <amendment number="s2434"/>
+    <amendment number="s2435"/>
+    <amendment number="s2436"/>
+    <amendment number="s2437"/>
+    <amendment number="s2438"/>
+    <amendment number="s2439"/>
+    <amendment number="s2440"/>
+    <amendment number="s2441"/>
+    <amendment number="s2442"/>
+    <amendment number="s2443"/>
+    <amendment number="s2444"/>
+    <amendment number="s2445"/>
+    <amendment number="s2446"/>
+    <amendment number="s2447"/>
+    <amendment number="s2448"/>
+    <amendment number="s2449"/>
+    <amendment number="s2450"/>
+    <amendment number="s2451"/>
+    <amendment number="s2452"/>
+    <amendment number="s2453"/>
+    <amendment number="s2454"/>
+    <amendment number="s2455"/>
+    <amendment number="s2456"/>
+    <amendment number="s2457"/>
+    <amendment number="s2458"/>
+    <amendment number="s2459"/>
+    <amendment number="s2460"/>
+    <amendment number="s2461"/>
+    <amendment number="s2462"/>
+    <amendment number="s2463"/>
+    <amendment number="s2464"/>
+    <amendment number="s2465"/>
+    <amendment number="s2466"/>
+    <amendment number="s2467"/>
+    <amendment number="s2468"/>
+    <amendment number="s2469"/>
+    <amendment number="s2470"/>
+    <amendment number="s2471"/>
+    <amendment number="s2472"/>
+    <amendment number="s2473"/>
+    <amendment number="s2474"/>
+    <amendment number="s2475"/>
+    <amendment number="s2476"/>
+    <amendment number="s2477"/>
+    <amendment number="s2478"/>
+    <amendment number="s2479"/>
+    <amendment number="s2480"/>
+    <amendment number="s2481"/>
+    <amendment number="s2482"/>
+    <amendment number="s2483"/>
+    <amendment number="s2484"/>
+    <amendment number="s2485"/>
+    <amendment number="s2486"/>
+    <amendment number="s2487"/>
+    <amendment number="s2488"/>
+    <amendment number="s2489"/>
+    <amendment number="s2490"/>
+    <amendment number="s2491"/>
+    <amendment number="s2492"/>
+    <amendment number="s2493"/>
+    <amendment number="s2494"/>
+    <amendment number="s2495"/>
+    <amendment number="s2496"/>
+    <amendment number="s2497"/>
+    <amendment number="s2498"/>
+    <amendment number="s2499"/>
+    <amendment number="s2500"/>
+    <amendment number="s2501"/>
+    <amendment number="s2502"/>
+    <amendment number="s2503"/>
+    <amendment number="s2504"/>
+    <amendment number="s2505"/>
+    <amendment number="s2506"/>
+    <amendment number="s2507"/>
+    <amendment number="s2508"/>
+    <amendment number="s2509"/>
+    <amendment number="s2510"/>
+    <amendment number="s2511"/>
+    <amendment number="s2512"/>
+    <amendment number="s2513"/>
+    <amendment number="s2514"/>
+    <amendment number="s2515"/>
+    <amendment number="s2516"/>
+    <amendment number="s2517"/>
+    <amendment number="s2518"/>
+    <amendment number="s2519"/>
+    <amendment number="s2520"/>
+    <amendment number="s2521"/>
+    <amendment number="s2522"/>
+    <amendment number="s2523"/>
+    <amendment number="s2524"/>
+    <amendment number="s2525"/>
+    <amendment number="s2526"/>
+    <amendment number="s2527"/>
+    <amendment number="s2528"/>
+    <amendment number="s2529"/>
+    <amendment number="s2530"/>
+    <amendment number="s2531"/>
+    <amendment number="s2532"/>
+    <amendment number="s2533"/>
+    <amendment number="s2534"/>
+    <amendment number="s2535"/>
+    <amendment number="s2536"/>
+    <amendment number="s2537"/>
+    <amendment number="s2538"/>
+    <amendment number="s2539"/>
+    <amendment number="s2540"/>
+    <amendment number="s2542"/>
+  </amendments>
+  <summary>2/12/2015--Reported to Senate without amendment.
+(This measure has not been amended since it was introduced. The summary of that version is repeated here.)
+
+Hire More Heroes Act of 2015
+
+This bill amends the Internal Revenue Code to add a provision to exempt any employee with coverage under a health care program administered by the Department of Defense, including the TRICARE program, or&#160;by&#160;the Veterans Administration, from classification as an eligible employee of an applicable large employer for purposes of the employer mandate&#160;under the Patient Protection and Affordable Care Act&#160;to provide such employees with minimum essential health care coverage.</summary>
+</bill>

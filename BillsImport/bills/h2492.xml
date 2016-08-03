@@ -1,0 +1,66 @@
+<bill session="114" type="h" number="2492" updated="2015-08-15T06:40:11-04:00">
+  <state datetime="2015-05-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-21"/>
+  </status>
+  <introduced datetime="2015-05-21"/>
+  <titles>
+    <title type="official" as="introduced">To direct the Secretary of the Army to provide for modification of certain Federal water resources development projects on the Apalachicola, Chattahoochee, and Flint Rivers, and for other purposes.</title>
+  </titles>
+  <sponsor id="412620"/>
+  <cosponsors>
+    <cosponsor id="400048" joined="2015-05-21"/>
+    <cosponsor id="412196" joined="2015-05-21"/>
+    <cosponsor id="412195" joined="2015-05-21"/>
+    <cosponsor id="412621" joined="2015-05-21"/>
+    <cosponsor id="412526" joined="2015-05-26"/>
+    <cosponsor id="412385" joined="2015-05-21"/>
+    <cosponsor id="400108" joined="2015-05-21"/>
+    <cosponsor id="412529" joined="2015-05-21"/>
+    <cosponsor id="412276" joined="2015-05-21"/>
+    <cosponsor id="400170" joined="2015-05-21"/>
+    <cosponsor id="412603" joined="2015-05-21"/>
+    <cosponsor id="400279" joined="2015-05-21"/>
+    <cosponsor id="412527" joined="2015-05-21"/>
+    <cosponsor id="412409" joined="2015-05-21"/>
+    <cosponsor id="412311" joined="2015-05-21"/>
+    <cosponsor id="400344" joined="2015-05-21"/>
+    <cosponsor id="412411" joined="2015-05-21"/>
+    <cosponsor id="400623" joined="2015-05-21"/>
+    <cosponsor id="412412" joined="2015-05-21"/>
+    <cosponsor id="412525" joined="2015-05-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-21" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2015-05-22">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW02" subcommittee="Water Resources and Environment" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Alabama"/>
+    <term name="Aquatic ecology"/>
+    <term name="Endangered and threatened species"/>
+    <term name="Florida"/>
+    <term name="Georgia"/>
+    <term name="Government studies and investigations"/>
+    <term name="Hunting and fishing"/>
+    <term name="Lakes and rivers"/>
+    <term name="Water storage"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+  <summary>5/21/2015--Introduced.
+Directs the Department of the Army to operate the Apalachicola-Chattahoochee-Flint federal water resources projects on the Apalachicola, Chattahoochee, and Flint Rivers in Alabama, Florida, and Georgia in a manner that ensures the maintenance of freshwater flows.
+
+Defines "freshwater flows" to mean the quality, quantity, timing, and variability of freshwater flows required to: (1) support and reestablish the ecological integrity of the rivers, commercial and recreational fisheries dependent on freshwater flows into Apalachicola Bay and adjacent waters, and thriving and diverse fish, wildlife, and plant populations having species composition, diversity, adaptability, and functional organization similar to those found prior to construction of the Apalachicola-Chattahoochee-Flint projects; (2) restore and recover species that are endangered, threatened, or at risk; and (3) prevent significantly harmful adverse impacts to the Chattahoochee and Apalachicola River ecosystems.
+
+Requires the Army to: (1) complete the ongoing revision of the water control manuals for such projects and issue revised manuals that ensure the maintenance of freshwater flows; (2) ensure that operational modifications needed to maintain freshwater flows are achieved while providing system-wide balance in conservation storage through the maintenance of water levels within the same action zone for each of the project reservoirs; (3) enter into an arrangement for the National Academy of Sciences to carry out an independent peer review of each revised manual; and (4) obtain written approval from the Environmental Protection Agency, the U.S. Fish and Wildlife Service, the National Oceanic and Atmospheric Administration, and the U.S. Geological Survey of each manual developed before a final manual may be issued.</summary>
+</bill>

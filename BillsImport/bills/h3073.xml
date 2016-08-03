@@ -1,0 +1,48 @@
+<bill session="114" type="h" number="3073" updated="2015-08-05T04:47:30-04:00">
+  <state datetime="2015-07-15">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-15"/>
+  </status>
+  <introduced datetime="2015-07-15"/>
+  <titles>
+    <title type="short" as="introduced">SAFE Act of 2015</title>
+    <title type="short" as="introduced">Sanctuary City All Funding Elimination Act of 2015</title>
+    <title type="official" as="introduced">To prohibit the receipt of Federal financial assistance by sanctuary cities, and for other purposes.</title>
+  </titles>
+  <sponsor id="412477"/>
+  <cosponsors>
+    <cosponsor id="412622" joined="2015-08-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-15" state="REFERRED">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-07-15">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2015-07-15">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration and Border Security" name="House Judiciary"/>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="3002"/>
+  </relatedbills>
+  <subjects>
+    <term name="Immigration"/>
+  </subjects>
+  <amendments/>
+  <summary>7/15/2015--Introduced.
+Sanctuary City All Funding Elimination Act of 2015 or the SAFE Act of 2015
+
+This bill prohibits a state or local government from receiving federal financial assistance if it restricts or prohibits a government entity or official from: (1) sending to or receiving from the responsible federal immigration agency information regarding an individual's citizenship or immigration status, or (2) maintaining or exchanging information about an individual's status.
+
+ The prohibition shall be lifted when a state or local government submits a comprehensive plan to no longer restrict or prohibit such actions.</summary>
+</bill>

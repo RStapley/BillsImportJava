@@ -1,0 +1,36 @@
+<bill session="114" type="hr" number="360" updated="2015-08-01T06:18:46-04:00">
+  <state datetime="2015-07-10">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-10"/>
+  </status>
+  <introduced datetime="2015-07-10"/>
+  <titles>
+    <title type="official" as="introduced">Recognizing the 50th anniversary of the National Collegiate Honors Council.</title>
+  </titles>
+  <sponsor id="412650"/>
+  <cosponsors>
+    <cosponsor id="412436" joined="2015-07-10"/>
+    <cosponsor id="400029" joined="2015-07-10"/>
+    <cosponsor id="400636" joined="2015-07-10"/>
+    <cosponsor id="400077" joined="2015-07-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-10" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+    <action datetime="2015-07-28">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1135"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+  </subjects>
+  <amendments/>
+  <summary>7/10/2015--Introduced.
+Commends the National Collegiate Honors Council, its officers, staff, members, institutions, and students on the 50th anniversary of the Council.</summary>
+</bill>

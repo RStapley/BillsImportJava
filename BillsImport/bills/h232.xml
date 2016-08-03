@@ -1,0 +1,129 @@
+<bill session="114" type="h" number="232" updated="2015-07-30T04:47:54-04:00">
+  <state datetime="2015-01-08">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-08"/>
+  </status>
+  <introduced datetime="2015-01-08"/>
+  <titles>
+    <title type="short" as="introduced">Small BREW Act</title>
+    <title type="short" as="introduced">Small Brewer Reinvestment and Expanding Workforce Act</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to provide a reduced rate of excise tax on beer produced domestically by certain qualifying producers.</title>
+  </titles>
+  <sponsor id="412303"/>
+  <cosponsors>
+    <cosponsor id="400004" joined="2015-03-16"/>
+    <cosponsor id="412615" joined="2015-01-20"/>
+    <cosponsor id="412436" joined="2015-07-29"/>
+    <cosponsor id="412657" joined="2015-04-13"/>
+    <cosponsor id="412250" joined="2015-02-03"/>
+    <cosponsor id="400033" joined="2015-01-08"/>
+    <cosponsor id="412501" joined="2015-03-16"/>
+    <cosponsor id="412395" joined="2015-01-20"/>
+    <cosponsor id="412537" joined="2015-05-13"/>
+    <cosponsor id="400057" joined="2015-05-12"/>
+    <cosponsor id="400062" joined="2015-06-09"/>
+    <cosponsor id="400063" joined="2015-03-19"/>
+    <cosponsor id="412407" joined="2015-04-21"/>
+    <cosponsor id="412571" joined="2015-06-02"/>
+    <cosponsor id="400071" joined="2015-01-26"/>
+    <cosponsor id="412470" joined="2015-04-28"/>
+    <cosponsor id="412600" joined="2015-02-11"/>
+    <cosponsor id="400639" joined="2015-05-19"/>
+    <cosponsor id="412651" joined="2015-05-19"/>
+    <cosponsor id="412193" joined="2015-06-02"/>
+    <cosponsor id="400090" joined="2015-01-22"/>
+    <cosponsor id="400100" joined="2015-01-08"/>
+    <cosponsor id="400101" joined="2015-06-09"/>
+    <cosponsor id="412505" joined="2015-03-23"/>
+    <cosponsor id="400648" joined="2015-01-09"/>
+    <cosponsor id="400114" joined="2015-03-24"/>
+    <cosponsor id="400116" joined="2015-04-13"/>
+    <cosponsor id="400122" joined="2015-04-28"/>
+    <cosponsor id="412524" joined="2015-05-15"/>
+    <cosponsor id="400129" joined="2015-04-13"/>
+    <cosponsor id="400130" joined="2015-05-18"/>
+    <cosponsor id="400646" joined="2015-04-21"/>
+    <cosponsor id="412454" joined="2015-04-28"/>
+    <cosponsor id="412437" joined="2015-03-25"/>
+    <cosponsor id="412283" joined="2015-04-30"/>
+    <cosponsor id="412484" joined="2015-06-09"/>
+    <cosponsor id="412284" joined="2015-06-04"/>
+    <cosponsor id="412603" joined="2015-04-21"/>
+    <cosponsor id="400211" joined="2015-01-26"/>
+    <cosponsor id="412543" joined="2015-03-16"/>
+    <cosponsor id="400218" joined="2015-04-28"/>
+    <cosponsor id="412557" joined="2015-04-21"/>
+    <cosponsor id="412191" joined="2015-06-10"/>
+    <cosponsor id="400230" joined="2015-03-23"/>
+    <cosponsor id="400232" joined="2015-03-16"/>
+    <cosponsor id="400233" joined="2015-02-27"/>
+    <cosponsor id="412638" joined="2015-04-13"/>
+    <cosponsor id="400240" joined="2015-06-09"/>
+    <cosponsor id="400630" joined="2015-06-09"/>
+    <cosponsor id="400244" joined="2015-04-21"/>
+    <cosponsor id="412558" joined="2015-06-01"/>
+    <cosponsor id="400249" joined="2015-02-24"/>
+    <cosponsor id="400251" joined="2015-03-17"/>
+    <cosponsor id="412562" joined="2015-06-01"/>
+    <cosponsor id="412468" joined="2015-02-12"/>
+    <cosponsor id="400262" joined="2015-02-11"/>
+    <cosponsor id="400263" joined="2015-03-16"/>
+    <cosponsor id="400644" joined="2015-01-08"/>
+    <cosponsor id="412552" joined="2015-03-19"/>
+    <cosponsor id="412466" joined="2015-01-08"/>
+    <cosponsor id="412634" joined="2015-05-13"/>
+    <cosponsor id="412632" joined="2015-04-13"/>
+    <cosponsor id="400291" joined="2015-01-08"/>
+    <cosponsor id="400295" joined="2015-01-22"/>
+    <cosponsor id="400309" joined="2015-05-20"/>
+    <cosponsor id="412569" joined="2015-05-12"/>
+    <cosponsor id="412523" joined="2015-03-24"/>
+    <cosponsor id="400316" joined="2015-05-12"/>
+    <cosponsor id="412307" joined="2015-01-20"/>
+    <cosponsor id="412633" joined="2015-04-13"/>
+    <cosponsor id="412308" joined="2015-06-04"/>
+    <cosponsor id="400326" joined="2015-04-16"/>
+    <cosponsor id="400333" joined="2015-05-12"/>
+    <cosponsor id="412393" joined="2015-06-09"/>
+    <cosponsor id="400349" joined="2015-06-09"/>
+    <cosponsor id="400355" joined="2015-02-13"/>
+    <cosponsor id="400356" joined="2015-06-23"/>
+    <cosponsor id="412212" joined="2015-04-13"/>
+    <cosponsor id="412315" joined="2015-03-26"/>
+    <cosponsor id="400378" joined="2015-06-23"/>
+    <cosponsor id="412405" joined="2015-03-24"/>
+    <cosponsor id="412319" joined="2015-03-16"/>
+    <cosponsor id="412254" joined="2015-03-02"/>
+    <cosponsor id="412522" joined="2015-06-04"/>
+    <cosponsor id="412213" joined="2015-03-24"/>
+    <cosponsor id="400419" joined="2015-03-23"/>
+    <cosponsor id="412239" joined="2015-02-02"/>
+    <cosponsor id="412525" joined="2015-04-30"/>
+    <cosponsor id="412628" joined="2015-06-10"/>
+    <cosponsor id="400440" joined="2015-04-28"/>
+    <cosponsor id="412428" joined="2015-02-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-08" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="375"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Alcoholic beverages"/>
+    <term name="Food industry and services"/>
+    <term name="Sales and excise taxes"/>
+    <term name="Small business"/>
+  </subjects>
+  <amendments/>
+  <summary>1/8/2015--Introduced.
+Small Brewer Reinvestment and Expanding Workforce Act or the Small BREW Act
+
+Amends the Internal Revenue Code to reduce the rate of the excise tax on beer produced within or imported into the United States for brewers who produce not more than 6 million barrels of beer a year.</summary>
+</bill>

@@ -1,0 +1,41 @@
+<bill session="114" type="h" number="3041" updated="2015-08-11T04:48:30-04:00">
+  <state datetime="2015-07-13">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-13"/>
+  </status>
+  <introduced datetime="2015-07-13"/>
+  <titles>
+    <title type="short" as="introduced">Low-Income Solar Act</title>
+    <title type="official" as="introduced">To require the Secretary of Energy to provide loans and grants for solar installations in low-income and underserved areas.</title>
+  </titles>
+  <sponsor id="412517"/>
+  <cosponsors>
+    <cosponsor id="412657" joined="2015-08-04"/>
+    <cosponsor id="412215" joined="2015-07-13"/>
+    <cosponsor id="400185" joined="2015-07-28"/>
+    <cosponsor id="400237" joined="2015-07-13"/>
+    <cosponsor id="400259" joined="2015-08-04"/>
+    <cosponsor id="400295" joined="2015-07-28"/>
+    <cosponsor id="412647" joined="2015-08-04"/>
+    <cosponsor id="412212" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-13" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-07-17">
+      <text>Referred to the Subcommittee on Energy and Power.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1713"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+  </subjects>
+  <amendments/>
+</bill>

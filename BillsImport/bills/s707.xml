@@ -1,0 +1,39 @@
+<bill session="114" type="s" number="707" updated="2015-07-15T04:49:25-04:00">
+  <state datetime="2015-03-11">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-11"/>
+  </status>
+  <introduced datetime="2015-03-11"/>
+  <titles>
+    <title type="short" as="introduced">Opioid Overdose Reduction Act of 2015</title>
+    <title type="official" as="introduced">A bill to provide certain protections from civil liability with respect to the emergency administration of opioid overdose drugs.</title>
+  </titles>
+  <sponsor id="400253"/>
+  <cosponsors>
+    <cosponsor id="412493" joined="2015-03-11"/>
+    <cosponsor id="412582" joined="2015-03-11"/>
+    <cosponsor id="400408" joined="2015-04-14"/>
+    <cosponsor id="412542" joined="2015-07-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-11" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="1821"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Civil actions and liability"/>
+    <term name="Drug, alcohol, tobacco use"/>
+    <term name="Emergency medical services and trauma care"/>
+    <term name="Federal preemption"/>
+    <term name="Health personnel"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+</bill>

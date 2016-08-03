@@ -1,0 +1,65 @@
+<bill session="114" type="h" number="3078" updated="2015-08-11T04:48:34-04:00">
+  <state datetime="2015-07-15">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-15"/>
+  </status>
+  <introduced datetime="2015-07-15"/>
+  <titles>
+    <title type="short" as="introduced">Commission on Americans Living Abroad Act of 2015</title>
+    <title type="official" as="introduced">To establish a commission to study how Federal laws and policies affect United States citizens living in foreign countries.</title>
+  </titles>
+  <sponsor id="400251"/>
+  <cosponsors>
+    <cosponsor id="400185" joined="2015-07-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-15">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1075"/>
+    </action>
+    <action datetime="2015-07-15" state="REFERRED">
+      <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committees on Financial Services, Ways and Means, the Judiciary, House Administration, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-07-15">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2015-07-15">
+      <text>Referred to House Financial Services</text>
+    </action>
+    <action datetime="2015-07-15">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-07-15">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2015-07-15">
+      <text>Referred to House House Administration</text>
+    </action>
+    <action datetime="2015-07-15">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-07-17">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee code="HSHA" name="House Administration" activity="Referral"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+  </subjects>
+  <amendments/>
+  <summary>7/15/2015--Introduced.
+Commission on Americans Living Abroad Act of 2015
+
+Establishes the Commission on Americans Living Abroad which shall conduct a study of how federal laws and policies affect U.S. citizens living abroad, including civilians and members of the Armed Forces.
+
+ Requires the head of any federal agency that is affected by a recommendation in the report required by this Act to submit a response to the President, Congress, and the Commission.</summary>
+</bill>

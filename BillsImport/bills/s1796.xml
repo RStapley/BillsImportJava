@@ -1,0 +1,34 @@
+<bill session="114" type="s" number="1796" updated="2015-07-23T15:47:05-04:00">
+  <state datetime="2015-07-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-16"/>
+  </status>
+  <introduced datetime="2015-07-16"/>
+  <titles>
+    <title type="short" as="introduced">WIC Act</title>
+    <title type="short" as="introduced">Wise Investment in our Children Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend the Child Nutrition Act of 1966 to increase the age of eligibility for children to receive benefits under the special supplemental nutrition program for women, infants, and children and to allow States to certify infants for participation in that program for a period of 2 years, and for other purposes.</title>
+  </titles>
+  <sponsor id="412246"/>
+  <cosponsors>
+    <cosponsor id="300073" joined="2015-07-16"/>
+    <cosponsor id="300076" joined="2015-07-16"/>
+    <cosponsor id="400357" joined="2015-07-16"/>
+    <cosponsor id="412542" joined="2015-07-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-16" state="REFERRED">
+      <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="2660"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+  </subjects>
+  <amendments/>
+</bill>

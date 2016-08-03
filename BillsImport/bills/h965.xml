@@ -1,0 +1,42 @@
+<bill session="114" type="h" number="965" updated="2015-04-11T06:25:17-04:00">
+  <state datetime="2015-02-13">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-13"/>
+  </status>
+  <introduced datetime="2015-02-13"/>
+  <titles>
+    <title type="short" as="introduced">Facilitating Participation in Clinical Data Registries Act of 2015</title>
+    <title type="official" as="introduced">To require the issuance of guidance on the application of the Federal policy for the protection of human subjects with respect to clinical data registries.</title>
+  </titles>
+  <sponsor id="400309"/>
+  <cosponsors>
+    <cosponsor id="400636" joined="2015-02-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-13" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-02-20">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Health information and medical records"/>
+    <term name="Medical ethics"/>
+    <term name="Medical research"/>
+    <term name="Right of privacy"/>
+  </subjects>
+  <amendments/>
+  <summary>2/13/2015--Introduced.
+Facilitating Participation in Clinical Data Registries Act of 2015
+
+This bill requires the Office for Human Research Protections of the Department of Health and Human Services to issue guidance within one year on the application of the Common Rule, which provides protections for human research subjects, to clinical data registries.</summary>
+</bill>

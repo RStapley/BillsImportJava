@@ -1,0 +1,43 @@
+<bill session="114" type="h" number="3214" updated="2015-07-29T09:50:04-04:00">
+  <state datetime="2015-07-27">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-27"/>
+  </status>
+  <introduced datetime="2015-07-27"/>
+  <titles>
+    <title type="short" as="introduced">National Icebreaker Fund Act of 2015</title>
+    <title type="official" as="introduced">To amend title 14, United States Code, to establish the National Icebreaker Fund to pay the costs of construction, alteration, renovation, lease, or charter of icebreakers for the Coast Guard, and for other purposes.</title>
+  </titles>
+  <sponsor id="412283"/>
+  <cosponsors>
+    <cosponsor id="400100" joined="2015-07-27"/>
+    <cosponsor id="412382" joined="2015-07-27"/>
+    <cosponsor id="412631" joined="2015-07-27"/>
+    <cosponsor id="400232" joined="2015-07-27"/>
+    <cosponsor id="400440" joined="2015-07-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-27" state="REFERRED">
+      <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-07-27">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2015-07-27">
+      <text>Referred to House Foreign Affairs</text>
+    </action>
+    <action datetime="2015-07-28">
+      <text>Referred to the Subcommittee on Coast Guard and Maritime Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW07" subcommittee="Coast Guard and Maritime Transportation" name="House Transportation and Infrastructure"/>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+</bill>

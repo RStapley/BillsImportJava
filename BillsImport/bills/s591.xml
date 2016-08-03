@@ -1,0 +1,44 @@
+<bill session="114" type="s" number="591" updated="2015-03-21T06:36:06-04:00">
+  <state datetime="2015-02-26">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-26"/>
+  </status>
+  <introduced datetime="2015-02-26"/>
+  <titles>
+    <title type="short" as="introduced">New Markets Tax Credit Extension Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to permanently extend the new markets tax credit, and for other purposes.</title>
+  </titles>
+  <sponsor id="400034"/>
+  <cosponsors>
+    <cosponsor id="400064" joined="2015-02-26"/>
+    <cosponsor id="412549" joined="2015-02-26"/>
+    <cosponsor id="412378" joined="2015-03-09"/>
+    <cosponsor id="412242" joined="2015-03-09"/>
+    <cosponsor id="300087" joined="2015-02-26"/>
+    <cosponsor id="400432" joined="2015-03-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-26" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="855"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Business investment and capital"/>
+    <term name="Economic development"/>
+    <term name="Financial services and investments"/>
+    <term name="Income tax credits"/>
+    <term name="Inflation and prices"/>
+  </subjects>
+  <amendments/>
+  <summary>2/26/2015--Introduced.
+New Markets Tax Credit Extension Act of 2015
+
+Amends the Internal Revenue Code to: (1) make permanent the new markets tax credit, (2) provide for an inflation adjustment to the limitation amount for such credit after 2014, and (3) allow an offset against the alternative minimum tax for such credit (determined with respect to qualified equity investments initially made after the enactment of this Act).</summary>
+</bill>

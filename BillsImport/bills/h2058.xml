@@ -1,0 +1,66 @@
+<bill session="114" type="h" number="2058" updated="2015-07-29T04:48:16-04:00">
+  <state datetime="2015-04-28">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-28"/>
+  </status>
+  <introduced datetime="2015-04-28"/>
+  <titles>
+    <title type="short" as="introduced">FDA Deeming Authority Clarification Act of 2015</title>
+    <title type="official" as="introduced">To amend the Federal Food, Drug, and Cosmetic Act to provide for a certain effective date with respect to deemed tobacco products, and for other purposes.</title>
+  </titles>
+  <sponsor id="400077"/>
+  <cosponsors>
+    <cosponsor id="412500" joined="2015-05-14"/>
+    <cosponsor id="412469" joined="2015-07-09"/>
+    <cosponsor id="412605" joined="2015-06-15"/>
+    <cosponsor id="412457" joined="2015-05-14"/>
+    <cosponsor id="412476" joined="2015-06-15"/>
+    <cosponsor id="412480" joined="2015-07-09"/>
+    <cosponsor id="400137" joined="2015-07-28"/>
+    <cosponsor id="412388" joined="2015-05-21"/>
+    <cosponsor id="412485" joined="2015-06-15"/>
+    <cosponsor id="412278" joined="2015-04-29"/>
+    <cosponsor id="412434" joined="2015-05-14"/>
+    <cosponsor id="412283" joined="2015-05-01"/>
+    <cosponsor id="412484" joined="2015-06-09"/>
+    <cosponsor id="400209" joined="2015-05-14"/>
+    <cosponsor id="412421" joined="2015-06-25"/>
+    <cosponsor id="412445" joined="2015-05-21"/>
+    <cosponsor id="412431" joined="2015-05-18"/>
+    <cosponsor id="412483" joined="2015-06-15"/>
+    <cosponsor id="412311" joined="2015-04-29"/>
+    <cosponsor id="412641" joined="2015-04-29"/>
+    <cosponsor id="400373" joined="2015-07-09"/>
+    <cosponsor id="412515" joined="2015-05-21"/>
+    <cosponsor id="412670" joined="2015-07-22"/>
+    <cosponsor id="400431" joined="2015-06-09"/>
+    <cosponsor id="412255" joined="2015-07-28"/>
+    <cosponsor id="412430" joined="2015-06-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-28">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E596"/>
+    </action>
+    <action datetime="2015-04-28" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-05-01">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Drug safety, medical device, and laboratory regulation"/>
+    <term name="Drug, alcohol, tobacco use"/>
+    <term name="Food and Drug Administration (FDA)"/>
+  </subjects>
+  <amendments/>
+</bill>

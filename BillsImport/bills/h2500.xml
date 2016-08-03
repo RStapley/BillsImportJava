@@ -1,0 +1,47 @@
+<bill session="114" type="h" number="2500" updated="2015-08-15T06:40:15-04:00">
+  <state datetime="2015-05-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-21"/>
+  </status>
+  <introduced datetime="2015-05-21"/>
+  <titles>
+    <title type="short" as="introduced">Voluntary Protection Program Act</title>
+    <title type="official" as="introduced">To authorize the Department of Labor's voluntary protection program.</title>
+  </titles>
+  <sponsor id="412426"/>
+  <cosponsors>
+    <cosponsor id="412500" joined="2015-06-17"/>
+    <cosponsor id="412536" joined="2015-07-21"/>
+    <cosponsor id="412482" joined="2015-06-17"/>
+    <cosponsor id="400160" joined="2015-05-21"/>
+    <cosponsor id="412661" joined="2015-06-01"/>
+    <cosponsor id="412583" joined="2015-06-17"/>
+    <cosponsor id="412192" joined="2015-07-08"/>
+    <cosponsor id="412308" joined="2015-07-21"/>
+    <cosponsor id="400326" joined="2015-06-25"/>
+    <cosponsor id="412394" joined="2015-05-21"/>
+    <cosponsor id="412310" joined="2015-07-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-21" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Department of Labor"/>
+    <term name="Worker safety and health"/>
+  </subjects>
+  <amendments/>
+  <summary>5/21/2015--Introduced.
+Voluntary Protection Program Act
+
+ Directs the Secretary of Labor to enter into cooperative agreements with employers to:
+
+ encourage establishment of comprehensive safety and health management systems to protect employees from occupational hazards, and establish a voluntary protection program to encourage excellence and recognize its achievement in both the technical and managerial protection of employees from occupational hazards. Requires the Secretary to take necessary steps for the orderly transition from Occupational Safety and Health Administration cooperative agreements and voluntary protection programs existing before enactment of this Act to agreements and programs authorized under this Act.</summary>
+</bill>

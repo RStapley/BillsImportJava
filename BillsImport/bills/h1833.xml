@@ -1,0 +1,74 @@
+<bill session="114" type="h" number="1833" updated="2015-07-15T04:48:27-04:00">
+  <state datetime="2015-04-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-16"/>
+  </status>
+  <introduced datetime="2015-04-16"/>
+  <titles>
+    <title type="short" as="introduced">FAFSA for All Act</title>
+    <title type="official" as="introduced">To amend the Higher Education Act of 1965 to include guidance on how dependent students with parents without SSNs may obtain Federal student assistance.</title>
+  </titles>
+  <sponsor id="412579"/>
+  <cosponsors>
+    <cosponsor id="412607" joined="2015-04-16"/>
+    <cosponsor id="412615" joined="2015-07-14"/>
+    <cosponsor id="412565" joined="2015-04-16"/>
+    <cosponsor id="400062" joined="2015-04-16"/>
+    <cosponsor id="412517" joined="2015-04-16"/>
+    <cosponsor id="412576" joined="2015-04-16"/>
+    <cosponsor id="400080" joined="2015-04-16"/>
+    <cosponsor id="400093" joined="2015-04-16"/>
+    <cosponsor id="412505" joined="2015-05-19"/>
+    <cosponsor id="412215" joined="2015-04-16"/>
+    <cosponsor id="412327" joined="2015-04-16"/>
+    <cosponsor id="400653" joined="2015-04-16"/>
+    <cosponsor id="400162" joined="2015-04-16"/>
+    <cosponsor id="400163" joined="2015-04-16"/>
+    <cosponsor id="400170" joined="2015-04-16"/>
+    <cosponsor id="400179" joined="2015-04-16"/>
+    <cosponsor id="400204" joined="2015-04-16"/>
+    <cosponsor id="412638" joined="2015-04-16"/>
+    <cosponsor id="400237" joined="2015-04-16"/>
+    <cosponsor id="400245" joined="2015-04-16"/>
+    <cosponsor id="412558" joined="2015-04-16"/>
+    <cosponsor id="412293" joined="2015-04-16"/>
+    <cosponsor id="412189" joined="2015-04-23"/>
+    <cosponsor id="400271" joined="2015-04-16"/>
+    <cosponsor id="400295" joined="2015-04-16"/>
+    <cosponsor id="412306" joined="2015-04-16"/>
+    <cosponsor id="400333" joined="2015-04-16"/>
+    <cosponsor id="400350" joined="2015-04-16"/>
+    <cosponsor id="400355" joined="2015-04-16"/>
+    <cosponsor id="400364" joined="2015-05-19"/>
+    <cosponsor id="412396" joined="2015-04-16"/>
+    <cosponsor id="400379" joined="2015-04-16"/>
+    <cosponsor id="412514" joined="2015-04-23"/>
+    <cosponsor id="412522" joined="2015-04-16"/>
+    <cosponsor id="412580" joined="2015-04-23"/>
+    <cosponsor id="412644" joined="2015-04-16"/>
+    <cosponsor id="412412" joined="2015-04-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-16" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Higher education"/>
+    <term name="Student aid and college costs"/>
+  </subjects>
+  <amendments/>
+  <summary>4/16/2015--Introduced.
+FAFSA for All Act
+
+Amends title IV (Student Assistance) of the Higher Education Act of 1965 to direct the Secretary of Education to include on the same website that is used to provide students with the electronic version of the Free Application for Federal Student Aid (FAFSA) questions to determine, for title IV eligibility purposes, whether:
+
+ a dependent student is a citizen, national, or permanent resident of the United States or is here for other than a temporary purpose with the intention of becoming a citizen or permanent resident; and the parents of a dependent student have a valid social security number. Requires that website to also include:
+
+ detailed guidance on how dependent students who satisfy those immigration requirements but whose parents do not have a valid social security number may obtain student assistance under title IV, and an online tool that allows those students to upload the documents they need to receive such assistance.</summary>
+</bill>

@@ -1,0 +1,65 @@
+<bill session="114" type="h" number="1407" updated="2015-05-02T06:30:20-04:00">
+  <state datetime="2015-03-17">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-17"/>
+  </status>
+  <introduced datetime="2015-03-17"/>
+  <titles>
+    <title type="short" as="introduced">Regulatory Improvement Act of 2015</title>
+    <title type="official" as="introduced">To establish an independent advisory committee to review certain regulations, and for other purposes.</title>
+  </titles>
+  <sponsor id="412527"/>
+  <cosponsors>
+    <cosponsor id="412642" joined="2015-03-17"/>
+    <cosponsor id="412478" joined="2015-03-17"/>
+    <cosponsor id="400618" joined="2015-03-17"/>
+    <cosponsor id="412536" joined="2015-03-17"/>
+    <cosponsor id="412544" joined="2015-03-17"/>
+    <cosponsor id="412603" joined="2015-03-17"/>
+    <cosponsor id="412566" joined="2015-03-17"/>
+    <cosponsor id="412583" joined="2015-03-17"/>
+    <cosponsor id="400218" joined="2015-03-17"/>
+    <cosponsor id="412474" joined="2015-03-17"/>
+    <cosponsor id="412489" joined="2015-03-17"/>
+    <cosponsor id="412315" joined="2015-03-17"/>
+    <cosponsor id="412509" joined="2015-03-17"/>
+    <cosponsor id="412525" joined="2015-03-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-17" state="REFERRED">
+      <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-03-17">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2015-03-17">
+      <text>Referred to House Rules</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+    <committee code="HSRU" name="House Rules" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="708"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Advisory bodies"/>
+    <term name="Congressional oversight"/>
+    <term name="Legislative rules and procedure"/>
+    <term name="Public participation and lobbying"/>
+  </subjects>
+  <amendments/>
+  <summary>3/17/2015--Introduced.
+Regulatory Improvement Act of 2015
+
+Establishes in the legislative branch the Regulatory Improvement Commission.
+
+Requires the Commission to evaluate and makee recommendations and propose legislation for modification, consolidation, or repeal of regulations that have been finalized not later than 10 years before the establishment of the Commission (covered regulations) for the purpose of reducing compliance costs, encouraging growth and innovation, improving competitiveness, and protecting public safety.
+
+ Requires the Commission to give priority to covered regulations that: (1) impose disproportionately high costs on a small entity, (2) create substantial recurring paperwork burdens or transaction costs, or (3) could be made more effective while reducing regulatory costs.
+
+Sets forth reporting requirements for the Commission and procedures for congressional consideration of Commission reports and recommendations and proposed legislation.</summary>
+</bill>

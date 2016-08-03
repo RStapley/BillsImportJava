@@ -1,0 +1,71 @@
+<bill session="114" type="s" number="1334" updated="2015-08-01T07:03:19-04:00">
+  <state datetime="2015-05-20">REPORTED</state>
+  <status>
+    <unknown datetime="2015-05-20"/>
+  </status>
+  <introduced datetime="2015-05-13"/>
+  <titles>
+    <title type="short" as="introduced">Illegal, Unreported, and Unregulated Fishing Enforcement Act of 2015</title>
+    <title type="short" as="introduced" partial="1">Antigua Convention Implementing Act of 2015</title>
+    <title type="short" as="introduced" partial="1">Port State Measures Agreement Act of 2015</title>
+    <title type="short" as="reported to senate">Illegal, Unreported, and Unregulated Fishing Enforcement Act of 2015</title>
+    <title type="official" as="introduced">A bill to strengthen enforcement mechanisms to stop illegal, unreported, and unregulated fishing, to amend the Tuna Conventions Act of 1950 to implement the Antigua Convention, and for other purposes.</title>
+  </titles>
+  <sponsor id="300075"/>
+  <cosponsors>
+    <cosponsor id="300018" joined="2015-05-14"/>
+    <cosponsor id="400253" joined="2015-05-14"/>
+    <cosponsor id="412507" joined="2015-05-13"/>
+    <cosponsor id="412665" joined="2015-05-13"/>
+    <cosponsor id="412247" joined="2015-05-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-13" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+    <calendar datetime="2015-05-20" state="REPORTED">
+      <text>Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+    <action datetime="2015-07-28">
+      <text>Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. Without written report.</text>
+    </action>
+    <calendar datetime="2015-07-28" calendar="Senate Legislative" under="General Orders" number="168">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 168.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="774"/>
+    <bill relation="unknown" session="114" type="h" number="774"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Advisory bodies"/>
+    <term name="Arctic and polar regions"/>
+    <term name="Assault and harassment offenses"/>
+    <term name="Atlantic Ocean"/>
+    <term name="Caribbean area"/>
+    <term name="Civil actions and liability"/>
+    <term name="Costa Rica"/>
+    <term name="Crimes against animals and natural resources"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Customs enforcement"/>
+    <term name="Department of Commerce"/>
+    <term name="Fishes"/>
+    <term name="Fraud offenses and financial crimes"/>
+    <term name="Government information and archives"/>
+    <term name="International law and treaties"/>
+    <term name="International organizations and cooperation"/>
+    <term name="Latin America"/>
+    <term name="Licensing and registrations"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Pacific Ocean"/>
+    <term name="Seafood"/>
+    <term name="Trade restrictions"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+</bill>

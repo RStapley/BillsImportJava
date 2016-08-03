@@ -1,0 +1,55 @@
+<bill session="114" type="h" number="1604" updated="2015-07-28T05:08:56-04:00">
+  <state datetime="2015-03-25">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-25"/>
+  </status>
+  <introduced datetime="2015-03-25"/>
+  <titles>
+    <title type="short" as="introduced">Veterans' Mental Health Care Access Act</title>
+    <title type="official" as="introduced">To amend the Veterans Access, Choice, and Accountability Act of 2014 to expand the eligibility of veterans to receive mental health care at non-Department of Veterans Affairs facilities.</title>
+  </titles>
+  <sponsor id="412643"/>
+  <cosponsors>
+    <cosponsor id="412630" joined="2015-07-27"/>
+    <cosponsor id="412541" joined="2015-05-14"/>
+    <cosponsor id="412619" joined="2015-06-01"/>
+    <cosponsor id="412271" joined="2015-06-01"/>
+    <cosponsor id="412658" joined="2015-04-13"/>
+    <cosponsor id="412651" joined="2015-05-12"/>
+    <cosponsor id="412621" joined="2015-05-21"/>
+    <cosponsor id="412536" joined="2015-05-19"/>
+    <cosponsor id="412614" joined="2015-04-23"/>
+    <cosponsor id="412290" joined="2015-04-13"/>
+    <cosponsor id="400285" joined="2015-07-08"/>
+    <cosponsor id="412575" joined="2015-03-25"/>
+    <cosponsor id="412633" joined="2015-06-24"/>
+    <cosponsor id="400341" joined="2015-04-23"/>
+    <cosponsor id="412411" joined="2015-07-27"/>
+    <cosponsor id="412648" joined="2015-06-01"/>
+    <cosponsor id="412430" joined="2015-06-01"/>
+    <cosponsor id="412646" joined="2015-05-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-25" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2015-04-07">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <summary>3/25/2015--Introduced.
+Veterans' Mental Health Care Access Act
+
+This bill amends the Veterans Access, Choice, and Accountability Act of 2014 to make a veteran eligible for mental health care at a non-Department of Veterans Affairs (VA) facility regardless of:
+
+ the date on which the veteran enrolled in the VA health care system, whether the veteran has attempted to schedule an appointment for such care at a VA facility, or the location of the veteran's residence.</summary>
+</bill>

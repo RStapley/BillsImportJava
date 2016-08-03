@@ -1,0 +1,91 @@
+<bill session="114" type="h" number="1453" updated="2015-08-01T04:50:43-04:00">
+  <state datetime="2015-03-18">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-18"/>
+  </status>
+  <introduced datetime="2015-03-18"/>
+  <titles>
+    <title type="short" as="introduced">Ambulatory Surgical Center Quality and Access Act of 2015</title>
+    <title type="official" as="introduced">To amend title XVIII of the Social Security Act to modernize payments for ambulatory surgical centers under the Medicare program, and for other purposes.</title>
+  </titles>
+  <sponsor id="400297"/>
+  <cosponsors>
+    <cosponsor id="412565" joined="2015-06-24"/>
+    <cosponsor id="400032" joined="2015-03-18"/>
+    <cosponsor id="400636" joined="2015-03-18"/>
+    <cosponsor id="412196" joined="2015-03-18"/>
+    <cosponsor id="400052" joined="2015-03-18"/>
+    <cosponsor id="412457" joined="2015-06-10"/>
+    <cosponsor id="412482" joined="2015-03-24"/>
+    <cosponsor id="412476" joined="2015-05-19"/>
+    <cosponsor id="412278" joined="2015-03-18"/>
+    <cosponsor id="412280" joined="2015-03-18"/>
+    <cosponsor id="412446" joined="2015-03-24"/>
+    <cosponsor id="412422" joined="2015-03-18"/>
+    <cosponsor id="412284" joined="2015-07-21"/>
+    <cosponsor id="412460" joined="2015-03-18"/>
+    <cosponsor id="400206" joined="2015-05-18"/>
+    <cosponsor id="412603" joined="2015-06-25"/>
+    <cosponsor id="412290" joined="2015-05-12"/>
+    <cosponsor id="400232" joined="2015-07-22"/>
+    <cosponsor id="400233" joined="2015-03-18"/>
+    <cosponsor id="412209" joined="2015-03-24"/>
+    <cosponsor id="400656" joined="2015-03-18"/>
+    <cosponsor id="412189" joined="2015-03-18"/>
+    <cosponsor id="400279" joined="2015-06-10"/>
+    <cosponsor id="412527" joined="2015-03-18"/>
+    <cosponsor id="412660" joined="2015-03-18"/>
+    <cosponsor id="412443" joined="2015-03-18"/>
+    <cosponsor id="400309" joined="2015-07-13"/>
+    <cosponsor id="412523" joined="2015-03-18"/>
+    <cosponsor id="400316" joined="2015-03-18"/>
+    <cosponsor id="400333" joined="2015-03-18"/>
+    <cosponsor id="412489" joined="2015-07-09"/>
+    <cosponsor id="412310" joined="2015-03-18"/>
+    <cosponsor id="400355" joined="2015-07-31"/>
+    <cosponsor id="412399" joined="2015-03-18"/>
+    <cosponsor id="400363" joined="2015-03-18"/>
+    <cosponsor id="400367" joined="2015-03-18"/>
+    <cosponsor id="412514" joined="2015-03-18"/>
+    <cosponsor id="412405" joined="2015-04-15"/>
+    <cosponsor id="412579" joined="2015-03-18"/>
+    <cosponsor id="412610" joined="2015-04-14"/>
+    <cosponsor id="400627" joined="2015-03-18"/>
+    <cosponsor id="400440" joined="2015-07-31"/>
+    <cosponsor id="412428" joined="2015-04-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-18" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-03-18">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-03-18">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-03-20">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+  <summary>3/18/2015--Introduced.
+Ambulatory Surgical Center Quality and Access Act of 2015
+
+ Amends title XVIII (Medicare) of the Social Security Act to require alignment of updates for ambulatory surgical center (ASC) services under a revised prospective payment system (PPS) with updates for hospital outpatient department (OPD) services.
+
+Revises requirements for the reporting and applying of quality measure data by ASCs and hospital OPDs.
+
+Revises requirements for the composition of the expert outside advisory panel the Secretary of Health and Human Services is required to consult during the annual review of the clinical integrity of the groups and payment weights in the PPS for OPD services. Requires the panel to include suppliers subject to the PPS as well as at least one ASC representative.
+
+Requires the Secretary, when excluding from a final rule updating ASC lists a procedure whose inclusion was requested during the public comment period, to cite in the final rule specific criteria based on which the procedure was excluded. Requires the Secretary also to identify the peer reviewed research or the evidence upon which the exclusion is based if certain of those criteria are cited for it. Prohibits the Secretary from using or citing as a criterion or a basis for an exclusion that the procedure can only be reported using a Current Procedural Terminology unlisted surgical procedure code.</summary>
+</bill>

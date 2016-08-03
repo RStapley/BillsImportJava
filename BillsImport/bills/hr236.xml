@@ -1,0 +1,42 @@
+<bill session="114" type="hr" number="236" updated="2015-07-08T04:47:03-04:00">
+  <state datetime="2015-04-30">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-30"/>
+  </status>
+  <introduced datetime="2015-04-30"/>
+  <titles>
+    <title type="official" as="introduced">Expressing condolences to the family of Dr. Warren Weinstein, and commemorating the life and work of Dr. Warren Weinstein.</title>
+  </titles>
+  <sponsor id="412544"/>
+  <cosponsors>
+    <cosponsor id="412407" joined="2015-07-07"/>
+    <cosponsor id="412569" joined="2015-05-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-30" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="sr" number="169"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Congressional tributes"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="Foreign aid and international relief"/>
+    <term name="Terrorism"/>
+  </subjects>
+  <amendments/>
+  <summary>4/30/2015--Introduced.
+Mourns the death of Dr. Warren Weinstein and expresses condolences to his family.
+
+ Salutes Dr. Weinstein for his lifelong commitment to humanitarian development work in challenging and dangerous circumstances.
+
+Calls on the United States to make the return of all U.S. citizens held captive abroad a top priority, and to provide a coordinated and consistent approach to supporting hostages and their families.
+
+Requests that the Clerk of the House transmit an enrolled copy of this resolution to the Weinstein family.</summary>
+</bill>

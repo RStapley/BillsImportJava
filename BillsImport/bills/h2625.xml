@@ -1,0 +1,41 @@
+<bill session="114" type="h" number="2625" updated="2015-06-13T06:40:29-04:00">
+  <state datetime="2015-06-03">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-03"/>
+  </status>
+  <introduced datetime="2015-06-03"/>
+  <titles>
+    <title type="short" as="introduced">Bailout Prevention Act of 2015</title>
+    <title type="official" as="introduced">To amend the Federal Reserve Act to reform the Federal Reserve System.</title>
+  </titles>
+  <sponsor id="400145"/>
+  <cosponsors>
+    <cosponsor id="400063" joined="2015-06-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-03" state="REFERRED">
+      <text>Referred to the Committee on Financial Services, and in addition to the Committees on Rules, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-06-03">
+      <text>Referred to House Financial Services</text>
+    </action>
+    <action datetime="2015-06-03">
+      <text>Referred to House Rules</text>
+    </action>
+    <action datetime="2015-06-03">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+    <committee code="HSRU" name="House Rules" activity="Referral"/>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1320"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+  </subjects>
+  <amendments/>
+</bill>

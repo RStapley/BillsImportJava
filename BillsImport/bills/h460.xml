@@ -1,0 +1,117 @@
+<bill session="114" type="h" number="460" updated="2015-06-13T06:22:07-04:00">
+  <state datetime="2015-01-27T14:48:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2015-01-27T14:48:00-05:00"/>
+  </status>
+  <introduced datetime="2015-01-21"/>
+  <titles>
+    <title type="short" as="introduced">Human Trafficking Detection Act of 2015</title>
+    <title type="short" as="passed house">Human Trafficking Detection Act of 2015</title>
+    <title type="short" as="reported to senate">Human Trafficking Detection Act of 2015</title>
+    <title type="official" as="introduced">To direct the Secretary of Homeland Security to train Department of Homeland Security personnel how to effectively deter, detect, disrupt, and prevent human trafficking during the course of their primary roles and responsibilities, and for other purposes.</title>
+  </titles>
+  <sponsor id="412670"/>
+  <cosponsors>
+    <cosponsor id="412607" joined="2015-01-26"/>
+    <cosponsor id="400004" joined="2015-01-21"/>
+    <cosponsor id="412541" joined="2015-01-26"/>
+    <cosponsor id="412635" joined="2015-01-26"/>
+    <cosponsor id="412658" joined="2015-01-26"/>
+    <cosponsor id="412536" joined="2015-01-26"/>
+    <cosponsor id="400646" joined="2015-01-26"/>
+    <cosponsor id="412453" joined="2015-01-26"/>
+    <cosponsor id="412444" joined="2015-01-26"/>
+    <cosponsor id="412486" joined="2015-01-27"/>
+    <cosponsor id="412550" joined="2015-01-21"/>
+    <cosponsor id="412649" joined="2015-01-21"/>
+    <cosponsor id="412583" joined="2015-01-26"/>
+    <cosponsor id="400654" joined="2015-01-21"/>
+    <cosponsor id="400644" joined="2015-01-26"/>
+    <cosponsor id="412611" joined="2015-01-27"/>
+    <cosponsor id="412552" joined="2015-01-21"/>
+    <cosponsor id="412540" joined="2015-01-26"/>
+    <cosponsor id="412575" joined="2015-01-26"/>
+    <cosponsor id="412551" joined="2015-01-21"/>
+    <cosponsor id="400652" joined="2015-01-26"/>
+    <cosponsor id="400356" joined="2015-01-21"/>
+    <cosponsor id="412548" joined="2015-01-21"/>
+    <cosponsor id="412538" joined="2015-01-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-21" state="REFERRED">
+      <text>Referred to the Committee on Homeland Security, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-01-21">
+      <text>Referred to House Homeland Security</text>
+    </action>
+    <action datetime="2015-01-21">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2015-01-27T14:31:00-05:00">
+      <text>Mr. Walker moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2015-01-27T14:31:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H607-611" label="consideration"/>
+    </action>
+    <action datetime="2015-01-27T14:31:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 460.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2015-01-27T14:48:00-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H607" label="text"/>
+    </vote>
+    <action datetime="2015-01-27T14:48:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2015-01-28">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <action datetime="2015-02-19">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+    <calendar datetime="2015-03-04">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="2015-05-14">
+      <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 114-46.</text>
+    </action>
+    <calendar datetime="2015-05-14" calendar="Senate Legislative" under="General Orders" number="82">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 82.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="623"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Congressional oversight"/>
+    <term name="Crime prevention"/>
+    <term name="Crime victims"/>
+    <term name="Department of Homeland Security"/>
+    <term name="Employment and training programs"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Human trafficking"/>
+    <term name="Law enforcement officers"/>
+    <term name="Performance measurement"/>
+  </subjects>
+  <amendments/>
+  <summary>5/14/2015--Reported to Senate without amendment.
+(This measure has not been amended since it was introduced. The expanded summary of the House passed version is repeated here.)
+
+Human Trafficking Detection Act of 2015
+
+ (Sec. 3) Directs the Secretary of Homeland Security (DHS) to implement a program to: (1) train relevant Transportation Security Administration, U.S. Customs and Border Protection, and other DHS personnel on how to effectively deter, detect, and disrupt human trafficking and interdict suspected perpetrators during the course of their primary roles and responsibilities; and (2) ensure that such personnel regularly receive current information on matters related to the detection of human trafficking.
+
+Permits training to be conducted through in-class or virtual learning capabilities. Requires such training to include:
+
+ methods for identifying suspected victims and perpetrators of human trafficking, methods for approaching a suspected victim in a manner that is sensitive to the victim and not likely to alert a perpetrator, training that is most appropriate for a particular location or environment, and a post-training evaluation of trainees. (Sec. 4) Directs the Secretary: (1) to reassess the training program annually; (2) within one year after enactment of this Act, to certify to the appropriate congressional committees that all such personnel have successfully completed the required training; and (3) to report annually on the overall effectiveness of the training program and on the number of human trafficking cases reported by DHS personnel and the number confirmed.
+
+(Sec. 5) Authorizes the Secretary, upon request, to provide training curricula to assist any state, local, or tribal government or private organization in establishing its program.</summary>
+</bill>

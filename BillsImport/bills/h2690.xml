@@ -1,0 +1,30 @@
+<bill session="114" type="h" number="2690" updated="2015-08-11T04:48:06-04:00">
+  <state datetime="2015-06-09">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-09"/>
+  </status>
+  <introduced datetime="2015-06-09"/>
+  <titles>
+    <title type="short" as="introduced">Including Families in Mental Health Recovery Act of 2015</title>
+    <title type="official" as="introduced">To direct the Secretary of Health and Human Services to promulgate regulations clarifying the circumstances under which, consistent with the standards governing the privacy and security of individually identifiable health information promulgated by the Secretary under sections 262(a) and 264 of the Health Insurance Portability and Accountability Act of 1996, health care providers and covered entities may disclose the protected health information of patients with a mental illness, and for other purposes.</title>
+  </titles>
+  <sponsor id="400663"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-06-09" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-06-12">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+</bill>

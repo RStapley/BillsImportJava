@@ -1,0 +1,49 @@
+<bill session="114" type="h" number="489" updated="2015-03-04T04:46:51-05:00">
+  <state datetime="2015-01-22">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-22"/>
+  </status>
+  <introduced datetime="2015-01-22"/>
+  <titles>
+    <title type="short" as="introduced">Taxpayer Conscience Protection Act of 2015</title>
+    <title type="official" as="introduced">To require States to report information on Medicaid payments to abortion providers.</title>
+  </titles>
+  <sponsor id="412302"/>
+  <cosponsors>
+    <cosponsor id="400046" joined="2015-01-22"/>
+    <cosponsor id="400209" joined="2015-01-22"/>
+    <cosponsor id="412540" joined="2015-02-03"/>
+    <cosponsor id="412442" joined="2015-01-22"/>
+    <cosponsor id="400313" joined="2015-01-22"/>
+    <cosponsor id="412394" joined="2015-01-22"/>
+    <cosponsor id="400367" joined="2015-01-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-22" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-01-23">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Abortion"/>
+    <term name="Congressional oversight"/>
+    <term name="Government information and archives"/>
+    <term name="Medicaid"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+  <summary>1/22/2015--Introduced.
+Taxpayer Conscience Protection Act of 2015
+
+ Directs each state that makes a Medicaid payment from federal funds during the fiscal year for any items or services furnished by an abortion provider to: (1) report to the Secretary of Health and Human Services (HHS) on all such payments, and (2) publish the report on a public Internet website of the state.
+
+Requires an annual report to specified congressional committees on such reports, which shall also be published on a public HHS website.</summary>
+</bill>

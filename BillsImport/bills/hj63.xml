@@ -1,0 +1,35 @@
+<bill session="114" type="hj" number="63" updated="2015-08-15T06:48:41-04:00">
+  <state datetime="2015-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-31"/>
+  </status>
+  <introduced datetime="2015-07-31"/>
+  <titles>
+    <title type="official" as="introduced">Providing for the approval of the Congress of the proposed Agreement for Cooperation Between the Government of the United States of America and the Government of the Republic of Korea Concerning Peaceful Uses of Nuclear Energy transmitted on June 16, 2015.</title>
+  </titles>
+  <sponsor id="400348"/>
+  <cosponsors>
+    <cosponsor id="400122" joined="2015-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-31" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="sj" number="20"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Asia"/>
+    <term name="Congressional oversight"/>
+    <term name="International law and treaties"/>
+    <term name="International organizations and cooperation"/>
+    <term name="Nuclear power"/>
+    <term name="South Korea"/>
+  </subjects>
+  <amendments/>
+</bill>

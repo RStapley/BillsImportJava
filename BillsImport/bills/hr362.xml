@@ -1,0 +1,52 @@
+<bill session="114" type="hr" number="362" updated="2015-07-18T06:18:39-04:00">
+  <state datetime="2015-07-15T14:31:00-04:00">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2015-07-15T14:31:00-04:00"/>
+  </status>
+  <introduced datetime="2015-07-14"/>
+  <titles>
+    <title type="official" as="introduced">Providing for consideration of the bill (H.R. 2898) to provide drought relief in the State of California, and for other purposes, and providing for consideration of the bill (H.R. 3038) to provide an extension of Federal-aid highway, highway safety, motor carrier safety, transit, and other programs funded out of the Highway Trust Fund, and for other purposes.</title>
+  </titles>
+  <sponsor id="412660"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-14T16:52:00-04:00">
+      <text>The House Committee on Rules reported an original measure, H. Rept. 114-204, by Mr. Newhouse.</text>
+    </action>
+    <action datetime="2015-07-14T16:52:00-04:00">
+      <text>The rule provide for consideration of the bills H.R. 2898 and H.R. 3038. The rule provides for 1 hour of general debate on both bills. The resolution makes in order further amendments printed in the report on H.R. 2898. For H.R. 3038, the resolution provides for consideration under a closed rule. The resolution provides for one motion to recommit with or without instructions on both bills.</text>
+    </action>
+    <calendar datetime="2015-07-14T16:53:00-04:00" state="REPORTED" calendar="House" number="48">
+      <text>Placed on the House Calendar, Calendar No. 48.</text>
+    </calendar>
+    <action datetime="2015-07-15T12:42:00-04:00">
+      <text>Considered as privileged matter.</text>
+      <reference ref="CR H5188-5198" label="consideration"/>
+    </action>
+    <action datetime="2015-07-15T12:45:00-04:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H. Res. 362.</text>
+    </action>
+    <action datetime="2015-07-15T14:23:00-04:00">
+      <text>On ordering the previous question Agreed to by the Yeas and Nays: 245 - 182 (Roll no. 438).</text>
+      <reference ref="CR H5197" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="439" datetime="2015-07-15T14:31:00-04:00" where="h" result="pass" state="PASSED:SIMPLERES">
+      <text>On agreeing to the resolution Agreed to by recorded vote: 245 - 183 (Roll no. 439).</text>
+      <reference ref="CR H5188" label="text"/>
+    </vote>
+    <action datetime="2015-07-15T14:31:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="2898"/>
+    <bill relation="unknown" session="114" type="h" number="3038"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+  <summary>7/14/2015--Introduced.
+Sets forth the rule for consideration of the bill (H.R. 2898) to provide drought relief in the State of California, and for other purposes, and providing for consideration of the bill (H.R. 3038) to provide an extension of Federal-aid highway, highway safety, motor carrier safety, transit, and other programs funded out of the Highway Trust Fund.</summary>
+</bill>

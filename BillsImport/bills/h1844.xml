@@ -1,0 +1,52 @@
+<bill session="114" type="h" number="1844" updated="2015-06-11T04:47:45-04:00">
+  <state datetime="2015-04-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-16"/>
+  </status>
+  <introduced datetime="2015-04-16"/>
+  <titles>
+    <title type="short" as="introduced">Military Corridor Transportation Improvement Act of 2015</title>
+    <title type="official" as="introduced">To amend the Intermodal Surface Transportation Efficiency Act of 1991 to designate high priority corridors on the National Highway System in the State of North Carolina, and for other purposes.</title>
+  </titles>
+  <sponsor id="400616"/>
+  <cosponsors>
+    <cosponsor id="412607" joined="2015-04-16"/>
+    <cosponsor id="412457" joined="2015-04-22"/>
+    <cosponsor id="400643" joined="2015-06-10"/>
+    <cosponsor id="412553" joined="2015-04-16"/>
+    <cosponsor id="412550" joined="2015-04-28"/>
+    <cosponsor id="400209" joined="2015-04-16"/>
+    <cosponsor id="400644" joined="2015-05-01"/>
+    <cosponsor id="412552" joined="2015-04-16"/>
+    <cosponsor id="412551" joined="2015-05-13"/>
+    <cosponsor id="400326" joined="2015-04-16"/>
+    <cosponsor id="412641" joined="2015-04-16"/>
+    <cosponsor id="412670" joined="2015-05-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-16" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2015-04-17">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW12" subcommittee="Highways and Transit" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="983"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="North Carolina"/>
+    <term name="Roads and highways"/>
+    <term name="Transportation programs funding"/>
+  </subjects>
+  <amendments/>
+  <summary>4/16/2015--Introduced.
+Military Corridor Transportation Improvement Act of 2015
+
+ Amends the Intermodal Surface Transportation Efficiency Act of 1991, as amended, to declare as high priority corridors on the National Highway System as well as segments of the Interstate System: (1) U.S. Route 117/Interstate Route 795 from U.S. Route 70 in Goldsboro, Wayne County, North Carolina, to Interstate Route 40 west of Faison, Sampson County, North Carolina; and (2) U.S. Route 70 from its intersection with Interstate Route 40 in Garner, Wake County, North Carolina, to the Port at Morehead City, Carteret County, North Carolina.</summary>
+</bill>

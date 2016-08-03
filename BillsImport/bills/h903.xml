@@ -1,0 +1,65 @@
+<bill session="114" type="h" number="903" updated="2015-03-27T04:46:50-04:00">
+  <state datetime="2015-02-11">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-11"/>
+  </status>
+  <introduced datetime="2015-02-11"/>
+  <titles>
+    <title type="short" as="introduced">Health Exchange Security and Transparency Act of 2015</title>
+    <title type="official" as="introduced">To require notification of individuals of breaches of personally identifiable information through Exchanges under the Patient Protection and Affordable Care Act, and for other purposes.</title>
+  </titles>
+  <sponsor id="400320"/>
+  <cosponsors>
+    <cosponsor id="412655" joined="2015-02-13"/>
+    <cosponsor id="412469" joined="2015-03-16"/>
+    <cosponsor id="412250" joined="2015-02-13"/>
+    <cosponsor id="400032" joined="2015-02-13"/>
+    <cosponsor id="412563" joined="2015-02-25"/>
+    <cosponsor id="400646" joined="2015-02-13"/>
+    <cosponsor id="400640" joined="2015-03-16"/>
+    <cosponsor id="412661" joined="2015-03-04"/>
+    <cosponsor id="412280" joined="2015-02-13"/>
+    <cosponsor id="412422" joined="2015-02-13"/>
+    <cosponsor id="412460" joined="2015-03-26"/>
+    <cosponsor id="400209" joined="2015-02-13"/>
+    <cosponsor id="412465" joined="2015-02-25"/>
+    <cosponsor id="412256" joined="2015-03-04"/>
+    <cosponsor id="412568" joined="2015-03-18"/>
+    <cosponsor id="412309" joined="2015-02-13"/>
+    <cosponsor id="412310" joined="2015-03-16"/>
+    <cosponsor id="400381" joined="2015-02-25"/>
+    <cosponsor id="412317" joined="2015-02-13"/>
+    <cosponsor id="412515" joined="2015-02-25"/>
+    <cosponsor id="412410" joined="2015-02-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-11" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-02-12">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H989"/>
+    </action>
+    <action datetime="2015-02-13">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Comprehensive health care"/>
+    <term name="Computer security and identity theft"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Right of privacy"/>
+  </subjects>
+  <amendments/>
+  <summary>2/11/2015--Introduced.
+Health Exchange Security and Transparency Act of 2015
+
+Requires the Department of Health and Human Services to notify an individual within two business days after discovery of any breach of security of any system maintained by a health care exchange established under the Patient Protection and Affordable Care Act which is known to have resulted in the theft or unlawful access of the individual's personally identifiable information.</summary>
+</bill>

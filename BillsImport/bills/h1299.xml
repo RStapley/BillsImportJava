@@ -1,0 +1,129 @@
+<bill session="114" type="h" number="1299" updated="2015-08-01T04:50:38-04:00">
+  <state datetime="2015-03-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-04"/>
+  </status>
+  <introduced datetime="2015-03-04"/>
+  <titles>
+    <title type="short" as="introduced">Child Welfare Provider Inclusion Act of 2015</title>
+    <title type="official" as="introduced">To ensure that organizations with religious or moral convictions are allowed to continue to provide services for children.</title>
+  </titles>
+  <sponsor id="412465"/>
+  <cosponsors>
+    <cosponsor id="400004" joined="2015-06-23"/>
+    <cosponsor id="412625" joined="2015-05-13"/>
+    <cosponsor id="412500" joined="2015-03-04"/>
+    <cosponsor id="412655" joined="2015-05-20"/>
+    <cosponsor id="412469" joined="2015-03-04"/>
+    <cosponsor id="400018" joined="2015-03-19"/>
+    <cosponsor id="412478" joined="2015-03-17"/>
+    <cosponsor id="400032" joined="2015-04-14"/>
+    <cosponsor id="400046" joined="2015-03-04"/>
+    <cosponsor id="412601" joined="2015-03-17"/>
+    <cosponsor id="400057" joined="2015-03-17"/>
+    <cosponsor id="400071" joined="2015-03-23"/>
+    <cosponsor id="412604" joined="2015-03-04"/>
+    <cosponsor id="412563" joined="2015-07-14"/>
+    <cosponsor id="412555" joined="2015-03-17"/>
+    <cosponsor id="412536" joined="2015-03-23"/>
+    <cosponsor id="412472" joined="2015-03-04"/>
+    <cosponsor id="412639" joined="2015-03-17"/>
+    <cosponsor id="412479" joined="2015-03-17"/>
+    <cosponsor id="400646" joined="2015-03-04"/>
+    <cosponsor id="412275" joined="2015-03-04"/>
+    <cosponsor id="412480" joined="2015-07-09"/>
+    <cosponsor id="400137" joined="2015-03-04"/>
+    <cosponsor id="400640" joined="2015-03-19"/>
+    <cosponsor id="400141" joined="2015-03-04"/>
+    <cosponsor id="400145" joined="2015-03-04"/>
+    <cosponsor id="400651" joined="2015-06-04"/>
+    <cosponsor id="400154" joined="2015-07-31"/>
+    <cosponsor id="412388" joined="2015-03-25"/>
+    <cosponsor id="412661" joined="2015-03-04"/>
+    <cosponsor id="412434" joined="2015-03-04"/>
+    <cosponsor id="412444" joined="2015-03-04"/>
+    <cosponsor id="400175" joined="2015-03-17"/>
+    <cosponsor id="412429" joined="2015-03-04"/>
+    <cosponsor id="412422" joined="2015-03-04"/>
+    <cosponsor id="412460" joined="2015-06-01"/>
+    <cosponsor id="412603" joined="2015-03-04"/>
+    <cosponsor id="400209" joined="2015-03-04"/>
+    <cosponsor id="412566" joined="2015-07-07"/>
+    <cosponsor id="400220" joined="2015-03-17"/>
+    <cosponsor id="412510" joined="2015-04-30"/>
+    <cosponsor id="412191" joined="2015-03-04"/>
+    <cosponsor id="412256" joined="2015-03-04"/>
+    <cosponsor id="412445" joined="2015-06-17"/>
+    <cosponsor id="412292" joined="2015-03-04"/>
+    <cosponsor id="412294" joined="2015-04-27"/>
+    <cosponsor id="412468" joined="2015-03-04"/>
+    <cosponsor id="412295" joined="2015-03-17"/>
+    <cosponsor id="412552" joined="2015-07-08"/>
+    <cosponsor id="412540" joined="2015-03-04"/>
+    <cosponsor id="400279" joined="2015-03-24"/>
+    <cosponsor id="412662" joined="2015-03-04"/>
+    <cosponsor id="412474" joined="2015-03-04"/>
+    <cosponsor id="400285" joined="2015-06-01"/>
+    <cosponsor id="400441" joined="2015-03-04"/>
+    <cosponsor id="412302" joined="2015-06-23"/>
+    <cosponsor id="412443" joined="2015-03-04"/>
+    <cosponsor id="412608" joined="2015-05-20"/>
+    <cosponsor id="400313" joined="2015-03-04"/>
+    <cosponsor id="412551" joined="2015-03-04"/>
+    <cosponsor id="400320" joined="2015-03-04"/>
+    <cosponsor id="412431" joined="2015-03-04"/>
+    <cosponsor id="412462" joined="2015-03-04"/>
+    <cosponsor id="412489" joined="2015-03-17"/>
+    <cosponsor id="412394" joined="2015-05-19"/>
+    <cosponsor id="412310" joined="2015-03-19"/>
+    <cosponsor id="400343" joined="2015-03-04"/>
+    <cosponsor id="412311" joined="2015-07-07"/>
+    <cosponsor id="412570" joined="2015-03-04"/>
+    <cosponsor id="412641" joined="2015-03-04"/>
+    <cosponsor id="412650" joined="2015-05-18"/>
+    <cosponsor id="400606" joined="2015-03-04"/>
+    <cosponsor id="412417" joined="2015-03-04"/>
+    <cosponsor id="400367" joined="2015-03-17"/>
+    <cosponsor id="412217" joined="2015-03-04"/>
+    <cosponsor id="400380" joined="2015-03-04"/>
+    <cosponsor id="412596" joined="2015-05-20"/>
+    <cosponsor id="412392" joined="2015-03-17"/>
+    <cosponsor id="412317" joined="2015-03-04"/>
+    <cosponsor id="412213" joined="2015-03-25"/>
+    <cosponsor id="412574" joined="2015-06-24"/>
+    <cosponsor id="412610" joined="2015-03-19"/>
+    <cosponsor id="412255" joined="2015-05-20"/>
+    <cosponsor id="412640" joined="2015-03-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-04" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="667"/>
+  </relatedbills>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Administrative remedies"/>
+    <term name="Adoption and foster care"/>
+    <term name="Child safety and welfare"/>
+    <term name="Civil actions and liability"/>
+    <term name="Poverty and welfare assistance"/>
+    <term name="Religion"/>
+  </subjects>
+  <amendments/>
+  <summary>3/4/2015--Introduced.
+Child Welfare Provider Inclusion Act of 2015
+
+Prohibits the federal government, and any state that receives federal funding for any program that provides child welfare services under part B (Child and Family Services) or part E (Foster Care and Adoption Assistance) of title IV of the Social Security Act (SSAct), from discriminating or taking an adverse action against a child welfare service provider that declines to provide, facilitate, or refer for a child welfare service that conflicts with the provider's sincerely held religious beliefs or moral convictions.
+
+Bars such prohibition from applying to SSAct requirements that forbid state entities from denying or delaying adoption or foster care placements on the basis of an adoptive parent's or a child's race, color, or national origin.
+
+Requires the Department of Health and Human Services to withhold 15% of the federal funds that a state receives for such programs if the state violates this Act.
+
+Allows an aggrieved child welfare service provider to assert such an adverse action violation as a claim or defense in a judicial proceeding and to obtain all appropriate relief (including declaratory relief, injunctive relief, compensatory damages, and reasonable attorney's fees and costs).</summary>
+</bill>

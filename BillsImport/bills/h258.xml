@@ -1,0 +1,81 @@
+<bill session="114" type="h" number="258" updated="2015-04-22T05:01:21-04:00">
+  <state datetime="2015-01-09">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-09"/>
+  </status>
+  <introduced datetime="2015-01-09"/>
+  <titles>
+    <title type="short" as="introduced">Half in Ten Act of 2015</title>
+    <title type="official" as="introduced">To establish the Federal Interagency Working Group on Reducing Poverty which will create and carry out a national plan to cut poverty in America in half in ten years.</title>
+  </titles>
+  <sponsor id="400237"/>
+  <cosponsors>
+    <cosponsor id="412404" joined="2015-04-21"/>
+    <cosponsor id="412517" joined="2015-01-09"/>
+    <cosponsor id="412258" joined="2015-01-20"/>
+    <cosponsor id="412571" joined="2015-01-09"/>
+    <cosponsor id="412379" joined="2015-01-09"/>
+    <cosponsor id="412470" joined="2015-01-09"/>
+    <cosponsor id="412272" joined="2015-01-09"/>
+    <cosponsor id="400103" joined="2015-01-09"/>
+    <cosponsor id="412613" joined="2015-02-09"/>
+    <cosponsor id="412263" joined="2015-01-20"/>
+    <cosponsor id="412215" joined="2015-01-09"/>
+    <cosponsor id="412327" joined="2015-01-20"/>
+    <cosponsor id="400162" joined="2015-01-09"/>
+    <cosponsor id="400170" joined="2015-01-09"/>
+    <cosponsor id="400185" joined="2015-01-09"/>
+    <cosponsor id="400189" joined="2015-01-20"/>
+    <cosponsor id="412511" joined="2015-02-09"/>
+    <cosponsor id="412561" joined="2015-01-09"/>
+    <cosponsor id="400211" joined="2015-01-09"/>
+    <cosponsor id="412595" joined="2015-01-09"/>
+    <cosponsor id="400230" joined="2015-01-09"/>
+    <cosponsor id="412521" joined="2015-01-27"/>
+    <cosponsor id="400263" joined="2015-01-20"/>
+    <cosponsor id="400661" joined="2015-02-09"/>
+    <cosponsor id="400289" joined="2015-01-09"/>
+    <cosponsor id="412585" joined="2015-01-09"/>
+    <cosponsor id="400333" joined="2015-01-09"/>
+    <cosponsor id="400350" joined="2015-01-20"/>
+    <cosponsor id="400360" joined="2015-01-09"/>
+    <cosponsor id="400366" joined="2015-01-09"/>
+    <cosponsor id="412396" joined="2015-01-09"/>
+    <cosponsor id="400378" joined="2015-01-22"/>
+    <cosponsor id="400402" joined="2015-01-09"/>
+    <cosponsor id="412319" joined="2015-01-09"/>
+    <cosponsor id="412211" joined="2015-01-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-09" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Advisory bodies"/>
+    <term name="Child safety and welfare"/>
+    <term name="Climate change and greenhouse gases"/>
+    <term name="Community life and organization"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Disaster relief and insurance"/>
+    <term name="Economic performance and conditions"/>
+    <term name="Employment and training programs"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Federal officials"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Performance measurement"/>
+    <term name="Poverty and welfare assistance"/>
+    <term name="Public-private cooperation"/>
+  </subjects>
+  <amendments/>
+  <summary>1/9/2015--Introduced.
+Half in Ten Act of 2015
+
+ Establishes within the Department of Health and Human Services a Federal Interagency Working Group on Reducing Poverty, which shall develop a National Strategy to reduce the number of persons living in poverty in America in half within 10 years after release of the 2014 Census Report on Income and Poverty in the United States: 2013.</summary>
+</bill>

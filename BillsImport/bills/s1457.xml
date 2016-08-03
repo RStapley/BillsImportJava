@@ -1,0 +1,36 @@
+<bill session="114" type="s" number="1457" updated="2015-08-01T07:04:23-04:00">
+  <state datetime="2015-05-22">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-22"/>
+  </status>
+  <introduced datetime="2015-05-22"/>
+  <titles>
+    <title type="short" as="introduced">Alabama-Coushatta Tribe of Texas Equal and Fair Opportunity Settlement Act</title>
+    <title type="official" as="introduced">A bill to restore an opportunity for tribal economic development on terms that are equal and fair, and for other purposes.</title>
+  </titles>
+  <sponsor id="412244"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-05-22" state="REFERRED">
+      <text>Read twice and referred to the Committee on Indian Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SLIA" name="Senate Indian Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="2684"/>
+  </relatedbills>
+  <subjects>
+    <term name="Native Americans"/>
+  </subjects>
+  <amendments/>
+  <summary>5/22/2015--Introduced.
+Alabama-Coushatta Tribe of Texas Equal and Fair Opportunity Settlement Act
+
+ This bill amends the Alabama-Coushatta Tribes of Texas Restoration Act to repeal the prohibition against gaming activities by the Alabama-Coushatta Tribe of Texas on its lands if those gaming activities are prohibited by Texas law.
+
+The United States and the Tribe must execute and file in each applicable court a motion for dismissal of any pending claim arising out of or relating to any interest in the aboriginal lands of the Tribe.
+
+Any claim by or on behalf of the Tribe, or any predecessor in interest or any of its members, against the United States, Texas, or any landowner, that is based on any interest in or right involving any land or natural resources regarding the aboriginal lands, is hereby extinguished.</summary>
+</bill>

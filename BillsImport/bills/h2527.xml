@@ -1,0 +1,48 @@
+<bill session="114" type="h" number="2527" updated="2015-08-22T06:40:25-04:00">
+  <state datetime="2015-05-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-21"/>
+  </status>
+  <introduced datetime="2015-05-21"/>
+  <titles>
+    <title type="official" as="introduced">To designate the facility of the United States Postal Service located at 7802 37th Avenue in Jackson Heights, New York, as the "Jeanne Sobelson Manford Post Office Building".</title>
+  </titles>
+  <sponsor id="400087"/>
+  <cosponsors>
+    <cosponsor id="412221" joined="2015-05-21"/>
+    <cosponsor id="400122" joined="2015-05-21"/>
+    <cosponsor id="400641" joined="2015-05-21"/>
+    <cosponsor id="400195" joined="2015-05-21"/>
+    <cosponsor id="400251" joined="2015-05-21"/>
+    <cosponsor id="412562" joined="2015-05-21"/>
+    <cosponsor id="400271" joined="2015-05-21"/>
+    <cosponsor id="412560" joined="2015-05-21"/>
+    <cosponsor id="400289" joined="2015-05-21"/>
+    <cosponsor id="400333" joined="2015-05-21"/>
+    <cosponsor id="400366" joined="2015-05-21"/>
+    <cosponsor id="400378" joined="2015-05-21"/>
+    <cosponsor id="412319" joined="2015-05-21"/>
+    <cosponsor id="400416" joined="2015-05-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-21" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="2607"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congressional tributes"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="New York City"/>
+    <term name="Postal service"/>
+  </subjects>
+  <amendments/>
+  <summary>5/21/2015--Introduced.
+Designates the facility of the United States Postal Service located at 7802 37th Avenue in Jackson Heights, New York, as the "Jeanne Sobelson Manford Post Office Building."</summary>
+</bill>

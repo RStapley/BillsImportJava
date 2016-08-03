@@ -1,0 +1,52 @@
+<bill session="114" type="h" number="1658" updated="2015-05-16T06:31:34-04:00">
+  <state datetime="2015-03-26">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-26"/>
+  </status>
+  <introduced datetime="2015-03-26"/>
+  <titles>
+    <title type="short" as="introduced">Federal Employee Accountability Act of 2015</title>
+    <title type="official" as="introduced">To amend title 5, United States Code, to limit the circumstances in which official time may be used by a Federal employee.</title>
+  </titles>
+  <sponsor id="412623"/>
+  <cosponsors>
+    <cosponsor id="412625" joined="2015-05-05"/>
+    <cosponsor id="412531" joined="2015-05-05"/>
+    <cosponsor id="400141" joined="2015-03-26"/>
+    <cosponsor id="400651" joined="2015-04-13"/>
+    <cosponsor id="412397" joined="2015-03-26"/>
+    <cosponsor id="412473" joined="2015-04-13"/>
+    <cosponsor id="412661" joined="2015-03-26"/>
+    <cosponsor id="412444" joined="2015-03-26"/>
+    <cosponsor id="400175" joined="2015-03-26"/>
+    <cosponsor id="412609" joined="2015-04-21"/>
+    <cosponsor id="400206" joined="2015-03-26"/>
+    <cosponsor id="400220" joined="2015-04-13"/>
+    <cosponsor id="412256" joined="2015-03-26"/>
+    <cosponsor id="412445" joined="2015-03-26"/>
+    <cosponsor id="412295" joined="2015-03-26"/>
+    <cosponsor id="412569" joined="2015-05-05"/>
+    <cosponsor id="412551" joined="2015-03-26"/>
+    <cosponsor id="412309" joined="2015-04-21"/>
+    <cosponsor id="412411" joined="2015-03-26"/>
+    <cosponsor id="400606" joined="2015-03-26"/>
+    <cosponsor id="412574" joined="2015-03-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-26" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+  </subjects>
+  <amendments/>
+  <summary>3/26/2015--Introduced.
+Federal Employee Accountability Act of 2015
+
+Repeals provisions: (1) authorizing a federal employee representing an exclusive representative in the negotiation of a collective bargaining agreement official time for such purpose during the time such employee otherwise would be in a duty status; and (2) requiring the Federal Labor Relations Authority to determine whether any employee participating for, or on behalf of, a labor organization in any phase of proceedings before it shall be authorized official time for that purpose.</summary>
+</bill>

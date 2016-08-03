@@ -1,0 +1,52 @@
+<bill session="114" type="h" number="2361" updated="2015-08-01T06:39:15-04:00">
+  <state datetime="2015-05-15">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-15"/>
+  </status>
+  <introduced datetime="2015-05-15"/>
+  <titles>
+    <title type="short" as="introduced">Work-Study for Student Veterans Act</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to extend the authority to provide work-study allowance for certain activities by individuals receiving educational assistance by the Secretary of Veterans Affairs.</title>
+  </titles>
+  <sponsor id="412520"/>
+  <cosponsors>
+    <cosponsor id="412382" joined="2015-05-26"/>
+    <cosponsor id="412523" joined="2015-07-08"/>
+    <cosponsor id="412564" joined="2015-05-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-15" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2015-06-01">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+    </action>
+    <action datetime="2015-06-02">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="2015-06-25">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2015-06-25">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSVR10" subcommittee="Economic Opportunity" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Cemeteries and funerals"/>
+    <term name="Hospital care"/>
+    <term name="Long-term, rehabilitative, and terminal care"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>5/15/2015--Introduced.
+Work-Study for Student Veterans Act
+
+Reauthorizes through June 30, 2020 (under current law, the authorization expires as of June 30, 2013) certain qualifying work-study activities for individuals receiving educational assistance through the Department of Veterans Affairs.</summary>
+</bill>

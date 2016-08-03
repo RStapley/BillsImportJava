@@ -1,0 +1,54 @@
+<bill session="114" type="h" number="591" updated="2015-05-30T06:22:50-04:00">
+  <state datetime="2015-01-28">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-28"/>
+  </status>
+  <introduced datetime="2015-01-28"/>
+  <titles>
+    <title type="short" as="introduced">Engineering Biology Research and Development Act of 2015</title>
+    <title type="official" as="introduced">To provide for a coordinated Federal research program to ensure continued United States leadership in engineering biology.</title>
+  </titles>
+  <sponsor id="400204"/>
+  <cosponsors>
+    <cosponsor id="412523" joined="2015-04-22"/>
+    <cosponsor id="400365" joined="2015-01-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-28" state="REFERRED">
+      <text>Referred to the House Committee on Science, Space, and Technology.</text>
+    </action>
+    <action datetime="2015-02-19">
+      <text>Referred to the Subcommittee on Research and Technology.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science, Space, and Technology" activity="Referral"/>
+    <committee activity="Referral" code="HSSY15" subcommittee="Research and Technology" name="House Science, Space, and Technology"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1898"/>
+  </relatedbills>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="Advanced technology and technological innovations"/>
+    <term name="Advisory bodies"/>
+    <term name="Alternative and renewable resources"/>
+    <term name="Aviation and airports"/>
+    <term name="Biological and life sciences"/>
+    <term name="Competitiveness, trade promotion, trade deficits"/>
+    <term name="Energy research"/>
+    <term name="Environmental assessment, monitoring, research"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Higher education"/>
+    <term name="Manufacturing"/>
+    <term name="Minority education"/>
+    <term name="Public-private cooperation"/>
+    <term name="Research administration and funding"/>
+    <term name="Research and development"/>
+    <term name="Science and engineering education"/>
+    <term name="Small business"/>
+    <term name="Space flight and exploration"/>
+    <term name="Technology transfer and commercialization"/>
+  </subjects>
+  <amendments/>
+</bill>

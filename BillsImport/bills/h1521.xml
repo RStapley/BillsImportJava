@@ -1,0 +1,29 @@
+<bill session="114" type="h" number="1521" updated="2015-05-09T06:33:56-04:00">
+  <state datetime="2015-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-19"/>
+  </status>
+  <introduced datetime="2015-03-19"/>
+  <titles>
+    <title type="official" as="introduced">To rename the Captain William Wylie Galt Great Falls Armed Forces Readiness Center in honor of Captain John E. Moran, a recipient of the Medal of Honor.</title>
+  </titles>
+  <sponsor id="412640"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-03-19" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="719"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <summary>3/19/2015--Introduced.
+Redesignates the Captain William Wylie Galt Great Falls Armed Forces Readiness Center in Great Falls, Montana, as the "Captain John E. Moran and Captain William Wylie Galt Armed Forces Reserve Center."</summary>
+</bill>

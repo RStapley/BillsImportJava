@@ -1,0 +1,67 @@
+<bill session="114" type="h" number="598" updated="2015-07-24T04:47:33-04:00">
+  <state datetime="2015-07-22">REPORTED</state>
+  <status>
+    <unknown datetime="2015-07-22"/>
+  </status>
+  <introduced datetime="2015-01-28"/>
+  <titles>
+    <title type="short" as="introduced">Taxpayers Right-To-Know Act</title>
+    <title type="official" as="introduced">To provide taxpayers with an annual report disclosing the cost and performance of Government programs and areas of duplication among them, and for other purposes.</title>
+  </titles>
+  <sponsor id="412213"/>
+  <cosponsors>
+    <cosponsor id="412629" joined="2015-01-28"/>
+    <cosponsor id="400081" joined="2015-01-28"/>
+    <cosponsor id="400618" joined="2015-03-16"/>
+    <cosponsor id="412465" joined="2015-01-28"/>
+    <cosponsor id="412445" joined="2015-01-28"/>
+    <cosponsor id="412611" joined="2015-02-02"/>
+    <cosponsor id="412302" joined="2015-02-05"/>
+    <cosponsor id="412551" joined="2015-02-04"/>
+    <cosponsor id="412202" joined="2015-02-04"/>
+    <cosponsor id="400351" joined="2015-02-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-28" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2015-02-04">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H765"/>
+    </action>
+    <action datetime="2015-07-22">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-07-22" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="282"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Accounting and auditing"/>
+    <term name="Census and government statistics"/>
+    <term name="Congressional oversight"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Performance measurement"/>
+  </subjects>
+  <amendments/>
+  <summary>1/28/2015--Introduced.
+Taxpayers Right-to-Know Act
+
+Requires that the website of the Office of Management and Budget (OMB) include a program inventory that identifies each program of the federal government, which shall include: (1) any activity that is commonly referred to as a program; (2) any activity specifically created by law, or referenced in law, as a program; (3) each program that has an application process; (4) each program for which financial awards are made on a competitive basis; and (5) any activity identified as a program activity in a budget request.
+
+Requires, for each program identified in such program inventory: (1) an identification of the specific statute that authorizes the program and any program regulations; (2) an estimate of the number of individuals served by any program that provides grants or financial assistance and the beneficiaries who received financial assistance under the program; (3) an estimate of the number of full-time employees who administer the program and the number of such employees whose salary is paid, in full or part, by the federal government; (4) links to any evaluation, assessment, or program performance reviews by the agency, an Inspector General, or the Government Accountability Office,&#160;released during the preceding five years; and (5) financial information for each program required to be reported under the Federal Funding Accountability and Transparency Act of 2006.
+
+Requires the OMB Director to issue guidance to assist agencies in identifying how the program activities used in budget or appropriations accounts correspond with programs identified in the program inventory required by this Act. Authorizes the Director to issue guidance to agencies on how to more closely align programs in the program inventory for purposes of the President's annual budget submission to Congress.
+
+Requires the OMB Director to: (1) publish on the OMB website the total amount of undisbursed grant funding remaining in grant accounts with expired availability, and (2)&#160;prescribe regulations or other guidance to implement this Act.</summary>
+</bill>

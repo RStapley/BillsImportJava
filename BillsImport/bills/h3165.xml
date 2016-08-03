@@ -1,0 +1,46 @@
+<bill session="114" type="h" number="3165" updated="2015-08-05T04:47:35-04:00">
+  <state datetime="2015-07-22">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-22"/>
+  </status>
+  <introduced datetime="2015-07-22"/>
+  <titles>
+    <title type="short" as="introduced">Safer DC Act of 2015</title>
+    <title type="official" as="introduced">To provide for the apprehension, detention, and removal of certain aliens arrested by the District of Columbia, and for other purposes.</title>
+  </titles>
+  <sponsor id="400651"/>
+  <cosponsors>
+    <cosponsor id="412395" joined="2015-07-23"/>
+    <cosponsor id="412622" joined="2015-07-28"/>
+    <cosponsor id="412482" joined="2015-07-23"/>
+    <cosponsor id="400220" joined="2015-07-23"/>
+    <cosponsor id="412295" joined="2015-07-23"/>
+    <cosponsor id="400381" joined="2015-07-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-22" state="REFERRED">
+      <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committees on the Judiciary, and Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-07-22">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2015-07-22">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2015-07-22">
+      <text>Referred to House Homeland Security</text>
+    </action>
+    <action datetime="2015-08-04">
+      <text>Referred to the Subcommittee on Border and Maritime Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral"/>
+    <committee activity="Referral" code="HSHM11" subcommittee="Border and Maritime Security" name="House Homeland Security"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,48 @@
+<bill session="114" type="hr" number="375" updated="2015-08-06T04:47:59-04:00">
+  <state datetime="2015-07-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-23"/>
+  </status>
+  <introduced datetime="2015-07-23"/>
+  <titles>
+    <title type="official" as="introduced">Honoring the victims, survivors, and those who responded to the Eastland disaster - a shipwreck which resulted in the deaths of 844 passengers and crew - on its centennial.</title>
+  </titles>
+  <sponsor id="400630"/>
+  <cosponsors>
+    <cosponsor id="412537" joined="2015-07-23"/>
+    <cosponsor id="400093" joined="2015-07-23"/>
+    <cosponsor id="412536" joined="2015-07-23"/>
+    <cosponsor id="412533" joined="2015-07-23"/>
+    <cosponsor id="412257" joined="2015-07-23"/>
+    <cosponsor id="400163" joined="2015-07-23"/>
+    <cosponsor id="412422" joined="2015-07-23"/>
+    <cosponsor id="412595" joined="2015-07-23"/>
+    <cosponsor id="412421" joined="2015-07-23"/>
+    <cosponsor id="412331" joined="2015-07-23"/>
+    <cosponsor id="400360" joined="2015-07-23"/>
+    <cosponsor id="400373" joined="2015-07-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-23" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2015-07-24">
+      <text>Referred to the Subcommittee on Coast Guard and Maritime Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW07" subcommittee="Coast Guard and Maritime Transportation" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+  <summary>7/23/2015--Introduced.
+Honors the working-class families of Illinois who lost their lives as a result of the Eastland shipwreck disaster.
+
+Recognizes the brave first responders, both volunteers and professionals, for their rapid response in their community's time of need.
+
+Reaffirms the importance of intelligent maritime safety policy.</summary>
+</bill>

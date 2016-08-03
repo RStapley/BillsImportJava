@@ -1,0 +1,45 @@
+<bill session="114" type="h" number="1692" updated="2015-06-17T04:49:44-04:00">
+  <state datetime="2015-03-26">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-26"/>
+  </status>
+  <introduced datetime="2015-03-26"/>
+  <titles>
+    <title type="short" as="introduced">Safety, Efficiency, and Accountability in Transportation Projects Through Public Inspection Act of 2015</title>
+    <title type="official" as="introduced">To require public employees to perform the inspection of State and local surface transportation projects, and related essential public functions, to ensure public safety, the cost-effective use of transportation funding, and timely project delivery.</title>
+  </titles>
+  <sponsor id="412263"/>
+  <cosponsors>
+    <cosponsor id="400063" joined="2015-04-14"/>
+    <cosponsor id="412379" joined="2015-06-03"/>
+    <cosponsor id="400185" joined="2015-06-11"/>
+    <cosponsor id="412511" joined="2015-06-16"/>
+    <cosponsor id="400290" joined="2015-05-21"/>
+    <cosponsor id="400295" joined="2015-03-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-26">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E446"/>
+    </action>
+    <action datetime="2015-03-26" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2015-03-27">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW12" subcommittee="Highways and Transit" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+  <summary>3/26/2015--Introduced.
+Safety, Efficiency, and Accountability in Transportation Projects Through Public Inspection Act of 2015
+
+ Requires public employees to perform construction inspections on all surface transportation projects receiving federal funding.</summary>
+</bill>

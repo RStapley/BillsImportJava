@@ -1,0 +1,33 @@
+<bill session="114" type="s" number="1897" updated="2015-08-08T07:07:37-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">Safer Officers and Safer Citizens Act of 2015</title>
+    <title type="official" as="introduced">A bill to help keep law enforcement officers and communities safer by making grants to purchase body worn cameras for use by State, local, and tribal law enforcement officers.</title>
+  </titles>
+  <sponsor id="412471"/>
+  <cosponsors>
+    <cosponsor id="412598" joined="2015-07-29"/>
+    <cosponsor id="412223" joined="2015-08-04"/>
+    <cosponsor id="300047" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <action datetime="2015-07-30">
+      <text>Sponsor introductory remarks on measure.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+  </subjects>
+  <amendments/>
+</bill>

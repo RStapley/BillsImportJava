@@ -1,0 +1,45 @@
+<bill session="114" type="h" number="98" updated="2015-02-04T04:46:30-05:00">
+  <state datetime="2015-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-06"/>
+  </status>
+  <introduced datetime="2015-01-06"/>
+  <titles>
+    <title type="short" as="introduced">Preventing Termination of Utility Services in Bankruptcy Act of 2015</title>
+    <title type="official" as="introduced">To amend title 11 of the United States Code to dispense with the requirement of providing assurance of payment for utility services under certain circumstances.</title>
+  </titles>
+  <sponsor id="400080"/>
+  <cosponsors>
+    <cosponsor id="400199" joined="2015-01-06"/>
+    <cosponsor id="412199" joined="2015-01-06"/>
+    <cosponsor id="400245" joined="2015-01-06"/>
+    <cosponsor id="400295" joined="2015-01-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-06">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E4-5"/>
+    </action>
+    <action datetime="2015-01-06" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-02-02">
+      <text>Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU05" subcommittee="Regulatory Reform, Commercial And Antitrust Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Bankruptcy"/>
+    <term name="Public utilities and utility rates"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/2015--Introduced.
+Preventing Termination of Utility Services in Bankruptcy Act of 2015
+
+Amends federal bankruptcy law, with respect to the prohibition against disruption of utility services to a debtor, to declare that an individual debtor may not be required to furnish assurance of payment if he or she pays, within 20 days after the date of the order for relief, those debts owed to a utility for service during that period, and afterward also pays when due debts owed for service during the pendency of the case in bankruptcy.</summary>
+</bill>

@@ -1,0 +1,43 @@
+<bill session="114" type="h" number="3382" updated="2015-08-08T06:47:35-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">Lake Tahoe Restoration Act of 2015</title>
+    <title type="official" as="introduced">To amend the Lake Tahoe Restoration Act to enhance recreational opportunities, environmental restoration activities, and forest management activities in the Lake Tahoe Basin, and for other purposes.</title>
+  </titles>
+  <sponsor id="412295"/>
+  <cosponsors>
+    <cosponsor id="412500" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the Committee on Natural Resources, and in addition to the Committees on Agriculture, and Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2015-07-30">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW02" subcommittee="Water Resources and Environment" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+  </subjects>
+  <amendments/>
+</bill>

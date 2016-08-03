@@ -1,0 +1,50 @@
+<bill session="114" type="h" number="267" updated="2015-04-16T04:46:41-04:00">
+  <state datetime="2015-01-09">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-09"/>
+  </status>
+  <introduced datetime="2015-01-09"/>
+  <titles>
+    <title type="short" as="introduced">Respect for Peace Corps Volunteers Act</title>
+    <title type="official" as="introduced">To amend the Peace Corps Act to allow former volunteers to use the seal, emblem, or name of Peace Corps on death announcements and grave stones.</title>
+  </titles>
+  <sponsor id="412186"/>
+  <cosponsors>
+    <cosponsor id="400063" joined="2015-04-13"/>
+    <cosponsor id="412571" joined="2015-04-13"/>
+    <cosponsor id="400081" joined="2015-04-13"/>
+    <cosponsor id="400129" joined="2015-04-13"/>
+    <cosponsor id="412382" joined="2015-02-27"/>
+    <cosponsor id="412453" joined="2015-04-13"/>
+    <cosponsor id="400162" joined="2015-04-13"/>
+    <cosponsor id="400195" joined="2015-04-13"/>
+    <cosponsor id="400199" joined="2015-03-24"/>
+    <cosponsor id="412543" joined="2015-04-13"/>
+    <cosponsor id="400259" joined="2015-03-26"/>
+    <cosponsor id="412523" joined="2015-04-13"/>
+    <cosponsor id="412585" joined="2015-04-13"/>
+    <cosponsor id="400333" joined="2015-03-24"/>
+    <cosponsor id="400350" joined="2015-04-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-09" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Cemeteries and funerals"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Peace Corps"/>
+    <term name="Social work, volunteer service, charitable organizations"/>
+  </subjects>
+  <amendments/>
+  <summary>1/9/2015--Introduced.
+Respect for Peace Corps Volunteers Act 
+
+ Amends the Peace Corps Act to allow former volunteers or applicants for enrollment as a volunteer to use the seal, emblem, or name "Peace Corps" on death announcements, plaques, grave stones, or other grave markers.</summary>
+</bill>

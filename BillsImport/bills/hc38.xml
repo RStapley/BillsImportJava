@@ -1,0 +1,108 @@
+<bill session="114" type="hc" number="38" updated="2015-06-26T04:49:29-04:00">
+  <state datetime="2015-04-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-16"/>
+  </status>
+  <introduced datetime="2015-04-16"/>
+  <titles>
+    <title type="official" as="introduced">Supporting the goals and ideals of the Gay, Lesbian and Straight Education Network's (GLSEN) National Day of Silence in bringing attention to anti-lesbian, gay, bisexual, and transgender name-calling, bullying, and harassment faced by individuals in schools.</title>
+  </titles>
+  <sponsor id="400122"/>
+  <cosponsors>
+    <cosponsor id="400033" joined="2015-04-16"/>
+    <cosponsor id="412652" joined="2015-04-16"/>
+    <cosponsor id="400062" joined="2015-04-16"/>
+    <cosponsor id="412258" joined="2015-04-16"/>
+    <cosponsor id="412470" joined="2015-04-16"/>
+    <cosponsor id="412236" joined="2015-04-28"/>
+    <cosponsor id="400080" joined="2015-04-17"/>
+    <cosponsor id="400097" joined="2015-04-16"/>
+    <cosponsor id="400101" joined="2015-04-16"/>
+    <cosponsor id="412505" joined="2015-04-16"/>
+    <cosponsor id="412385" joined="2015-04-16"/>
+    <cosponsor id="412637" joined="2015-04-16"/>
+    <cosponsor id="400114" joined="2015-04-16"/>
+    <cosponsor id="400129" joined="2015-04-16"/>
+    <cosponsor id="412612" joined="2015-04-16"/>
+    <cosponsor id="412276" joined="2015-04-16"/>
+    <cosponsor id="400162" joined="2015-04-16"/>
+    <cosponsor id="400163" joined="2015-04-16"/>
+    <cosponsor id="400170" joined="2015-04-16"/>
+    <cosponsor id="412584" joined="2015-04-16"/>
+    <cosponsor id="400641" joined="2015-04-16"/>
+    <cosponsor id="400185" joined="2015-04-16"/>
+    <cosponsor id="400195" joined="2015-04-16"/>
+    <cosponsor id="400199" joined="2015-04-16"/>
+    <cosponsor id="412199" joined="2015-04-16"/>
+    <cosponsor id="412435" joined="2015-04-16"/>
+    <cosponsor id="412583" joined="2015-04-16"/>
+    <cosponsor id="412557" joined="2015-04-16"/>
+    <cosponsor id="412638" joined="2015-04-16"/>
+    <cosponsor id="400237" joined="2015-04-16"/>
+    <cosponsor id="400240" joined="2015-04-16"/>
+    <cosponsor id="412616" joined="2015-04-16"/>
+    <cosponsor id="412209" joined="2015-04-16"/>
+    <cosponsor id="400245" joined="2015-04-16"/>
+    <cosponsor id="412521" joined="2015-04-16"/>
+    <cosponsor id="412562" joined="2015-04-16"/>
+    <cosponsor id="400259" joined="2015-04-16"/>
+    <cosponsor id="412527" joined="2015-04-16"/>
+    <cosponsor id="400289" joined="2015-04-16"/>
+    <cosponsor id="400291" joined="2015-04-16"/>
+    <cosponsor id="400295" joined="2015-04-16"/>
+    <cosponsor id="412523" joined="2015-04-16"/>
+    <cosponsor id="412585" joined="2015-04-16"/>
+    <cosponsor id="412308" joined="2015-04-16"/>
+    <cosponsor id="400326" joined="2015-04-16"/>
+    <cosponsor id="412331" joined="2015-04-16"/>
+    <cosponsor id="400333" joined="2015-04-16"/>
+    <cosponsor id="412647" joined="2015-04-16"/>
+    <cosponsor id="400355" joined="2015-04-16"/>
+    <cosponsor id="400360" joined="2015-04-16"/>
+    <cosponsor id="400361" joined="2015-04-16"/>
+    <cosponsor id="400366" joined="2015-04-17"/>
+    <cosponsor id="400371" joined="2015-04-16"/>
+    <cosponsor id="412509" joined="2015-04-16"/>
+    <cosponsor id="412186" joined="2015-04-16"/>
+    <cosponsor id="412259" joined="2015-04-16"/>
+    <cosponsor id="412626" joined="2015-04-16"/>
+    <cosponsor id="412520" joined="2015-04-16"/>
+    <cosponsor id="412318" joined="2015-04-16"/>
+    <cosponsor id="412319" joined="2015-04-16"/>
+    <cosponsor id="412254" joined="2015-04-16"/>
+    <cosponsor id="400415" joined="2015-04-16"/>
+    <cosponsor id="412522" joined="2015-04-16"/>
+    <cosponsor id="400623" joined="2015-04-16"/>
+    <cosponsor id="412644" joined="2015-04-16"/>
+    <cosponsor id="412412" joined="2015-06-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-16" state="REFERRED">
+      <text>Referred to the Committee on Education and the Workforce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-04-16">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+    <action datetime="2015-04-16">
+      <text>Referred to House Judiciary</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Assault and harassment offenses"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Higher education"/>
+    <term name="Sex, gender, sexual orientation discrimination"/>
+    <term name="State and local government operations"/>
+    <term name="Teaching, teachers, curricula"/>
+  </subjects>
+  <amendments/>
+  <summary>4/16/2015--Introduced.
+Supports the goals and ideals of the National Day of Silence (during which students vow to remain silent to bring attention to the harassment and discrimination faced by lesbian, gay, bisexual, and transgender people in schools). Encourages each state, city, and local educational agency to adopt laws and policies to prohibit name-calling, bullying, harassment, and discrimination against students, teachers, and other school staff regardless of their sexual orientation and gender identity or gender expression.</summary>
+</bill>

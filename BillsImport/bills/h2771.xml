@@ -1,0 +1,28 @@
+<bill session="114" type="h" number="2771" updated="2015-07-11T06:41:54-04:00">
+  <state datetime="2015-06-15">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-15"/>
+  </status>
+  <introduced datetime="2015-06-15"/>
+  <titles>
+    <title type="short" as="introduced">Group Term Life Insurance Increase Act of 2015</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to increase the dollar limitation on employer-provided group term life insurance that can be excluded from the gross income of the employee.</title>
+  </titles>
+  <sponsor id="400052"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-06-15" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <summary>6/15/2015--Introduced.
+Group Term Life Insurance Increase Act of 2015
+
+This bill amends the Internal Revenue Code to increase the limit on the amount of employer-provided group term life insurance that an employee may exclude from his or her gross income for income tax purposes. Currently, an employee may exclude from gross income up to $50,000 of the cost of such insurance plus any amount paid by the employee for the purchase of such insurance. The bill increases the $50,000 limit to $375,000, and adjusts such increased limit for inflation in taxable years beginning after 2015.</summary>
+</bill>

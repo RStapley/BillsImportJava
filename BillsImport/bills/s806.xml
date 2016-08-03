@@ -1,0 +1,61 @@
+<bill session="114" type="s" number="806" updated="2015-08-22T06:58:25-04:00">
+  <state datetime="2015-05-20">REPORTED</state>
+  <status>
+    <unknown datetime="2015-05-20"/>
+  </status>
+  <introduced datetime="2015-03-19"/>
+  <titles>
+    <title type="short" as="introduced">Drug Free Commercial Driver Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend section 31306 of title 49, United States Code, to recognize hair as an alternative specimen for preemployment and random controlled substances testing of commercial motor vehicle drivers and for other purposes.</title>
+  </titles>
+  <sponsor id="400040"/>
+  <cosponsors>
+    <cosponsor id="400013" joined="2015-05-12"/>
+    <cosponsor id="412556" joined="2015-03-23"/>
+    <cosponsor id="412554" joined="2015-03-19"/>
+    <cosponsor id="412496" joined="2015-07-13"/>
+    <cosponsor id="412391" joined="2015-03-19"/>
+    <cosponsor id="400284" joined="2015-05-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-19" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+    <calendar datetime="2015-05-20" state="REPORTED">
+      <text>Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1467"/>
+    <bill relation="unknown" session="114" type="s" number="1732"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Transportation"/>
+    <term name="Drug safety, medical device, and laboratory regulation"/>
+    <term name="Drug, alcohol, tobacco use"/>
+    <term name="Employee hiring"/>
+    <term name="Motor carriers"/>
+    <term name="Personnel records"/>
+    <term name="Transportation employees"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+  <summary>3/19/2015--Introduced.
+Drug Free Commercial Driver Act of 2015 
+
+ Revises regulations that require motor carriers to conduct preemployment, reasonable suspicion, random, and post-accident testing of commercial motor vehicle operators for controlled substances or alcohol.
+
+Allows motor carriers to use hair testing as an acceptable alternative to urinalysis for detecting use of controlled substances by individuals, but only for preemployment testing and random testing.
+
+Requires the Secretary of Transportation to develop requirements for laboratories and testing procedures for controlled substances that include mandatory guidelines that establish, among other things, laboratory protocols and cut-off levels for hair testing to detect the use of such substances.
+
+Allows a motor carrier that demonstrates it can carry out a hair testing program consistent with generally accepted industry standards to apply to the Administrator of the Federal Motor Carrier Safety Administration for exemption from mandatory urinalysis testing. Requires the Administrator, in evaluating an application for such exemption, to determine if the applicant's testing program employs procedures and protections similar to those of fleets that have carried out hair testing programs for at least one year.
+
+Directs the Secretary of Health and Human Services to issue scientific and technical guidelines for hair testing as a method for detecting the use of controlled substances.</summary>
+</bill>

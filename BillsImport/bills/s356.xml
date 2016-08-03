@@ -1,0 +1,81 @@
+<bill session="114" type="s" number="356" updated="2015-08-05T04:47:47-04:00">
+  <state datetime="2015-02-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-04"/>
+  </status>
+  <introduced datetime="2015-02-04"/>
+  <titles>
+    <title type="short" as="introduced">Electronic Communications Privacy Act Amendments Act of 2015</title>
+    <title type="official" as="introduced">A bill to improve the provisions relating to the privacy of electronic communications.</title>
+  </titles>
+  <sponsor id="412495"/>
+  <cosponsors>
+    <cosponsor id="412493" joined="2015-05-20"/>
+    <cosponsor id="412490" joined="2015-02-04"/>
+    <cosponsor id="412598" joined="2015-02-12"/>
+    <cosponsor id="412390" joined="2015-02-09"/>
+    <cosponsor id="300027" joined="2015-02-04"/>
+    <cosponsor id="412573" joined="2015-05-05"/>
+    <cosponsor id="412549" joined="2015-04-28"/>
+    <cosponsor id="300038" joined="2015-03-03"/>
+    <cosponsor id="412378" joined="2015-02-23"/>
+    <cosponsor id="412406" joined="2015-02-04"/>
+    <cosponsor id="412281" joined="2015-02-25"/>
+    <cosponsor id="412554" joined="2015-06-17"/>
+    <cosponsor id="412218" joined="2015-08-04"/>
+    <cosponsor id="300065" joined="2015-02-04"/>
+    <cosponsor id="400253" joined="2015-03-02"/>
+    <cosponsor id="412325" joined="2015-02-04"/>
+    <cosponsor id="400284" joined="2015-02-04"/>
+    <cosponsor id="300083" joined="2015-02-10"/>
+    <cosponsor id="412507" joined="2015-08-04"/>
+    <cosponsor id="412323" joined="2015-02-04"/>
+    <cosponsor id="400413" joined="2015-08-04"/>
+    <cosponsor id="400418" joined="2015-03-02"/>
+    <cosponsor id="300100" joined="2015-02-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-04">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S773-774"/>
+    </action>
+    <action datetime="2015-02-04" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="283"/>
+    <bill relation="unknown" session="114" type="h" number="699"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Business records"/>
+    <term name="Congressional oversight"/>
+    <term name="Consumer affairs"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Criminal procedure and sentencing"/>
+    <term name="Internet and video services"/>
+    <term name="Right of privacy"/>
+    <term name="Telephone and wireless communication"/>
+  </subjects>
+  <amendments/>
+  <summary>2/4/2015--Introduced.
+Electronic Communications Privacy Act Amendments Act of 2015 
+
+Amends the Electronic Communications Privacy Act of 1986 to prohibit a provider of remote computing service or electronic communication service to the public from knowingly divulging to a governmental entity the contents of any communication that is in electronic storage or otherwise maintained by the provider, subject to exceptions.
+
+Revises provisions under which the government may require a provider to disclose the contents of such communications. Eliminates the different requirements applicable under current law depending on whether such communications were: (1) stored for fewer than, or more than, 180 days by an electronic communication service; or (2) held by an electronic communication service as opposed to a remote computing service.
+
+Requires the government to obtain a warrant from a court before requiring providers to disclose the content of such communications regardless of how long the communication has been held in electronic storage by an electronic communication service or whether the information is sought from an electronic communication service or a remote computing service
+
+Requires a law enforcement agency, within 10 days after receiving the contents of a customer's communication, or a governmental entity, within 3 days, to provide a customer whose communications were disclosed by the provider a copy of the warrant and a notice that such information was requested by, and supplied to, the government entity. Allows the government to request delays of such notifications.
+
+Prohibits disclosure requirements that apply to providers from being construed to limit the government's authority to use an administrative or civil discovery subpoena to require: (1) an originator or recipient of an electronic communication to disclose the contents of such communication; or (2) an entity that provides electronic communication services to its employees or agents to disclose the contents of an electronic communication to or from such employee or agent if the communication is on an electronic communications system owned or operated by the entity.
+
+Allows the government to apply for an order directing a provider, for a specified period, to refrain from notifying any other person that the provider has been required to disclose communications or records.
+
+Directs the Comptroller General to report to Congress regarding disclosures of customer communications and records under provisions: (1) as in effect before the enactment of this Act, and (2) as amended by this Act.</summary>
+</bill>

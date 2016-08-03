@@ -1,0 +1,55 @@
+<bill session="114" type="sr" number="232" updated="2015-08-08T06:51:20-04:00">
+  <state datetime="2015-08-04">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2015-08-04"/>
+  </status>
+  <introduced datetime="2015-07-27"/>
+  <titles>
+    <title type="official" as="introduced">A resolution expressing the sense of the Senate that August 30, 2015, be observed as "1890 Land-Grant Institutions Quasquicentennial Recognition Day".</title>
+  </titles>
+  <sponsor id="400040"/>
+  <cosponsors>
+    <cosponsor id="400050" joined="2015-07-27"/>
+    <cosponsor id="400061" joined="2015-07-27"/>
+    <cosponsor id="400064" joined="2015-07-27"/>
+    <cosponsor id="300019" joined="2015-07-27"/>
+    <cosponsor id="300023" joined="2015-07-27"/>
+    <cosponsor id="412390" joined="2015-07-27"/>
+    <cosponsor id="412508" joined="2015-07-27"/>
+    <cosponsor id="300047" joined="2015-07-28"/>
+    <cosponsor id="300055" joined="2015-07-27"/>
+    <cosponsor id="400194" joined="2015-07-27"/>
+    <cosponsor id="300065" joined="2015-07-30"/>
+    <cosponsor id="412391" joined="2015-07-27"/>
+    <cosponsor id="300073" joined="2015-08-03"/>
+    <cosponsor id="412666" joined="2015-07-27"/>
+    <cosponsor id="400325" joined="2015-07-27"/>
+    <cosponsor id="300083" joined="2015-07-27"/>
+    <cosponsor id="412471" joined="2015-07-28"/>
+    <cosponsor id="300088" joined="2015-07-27"/>
+    <cosponsor id="412668" joined="2015-07-27"/>
+    <cosponsor id="412321" joined="2015-07-27"/>
+    <cosponsor id="400432" joined="2015-07-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-27" state="REFERRED">
+      <text>Referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+      <reference ref="CR S5933" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2015-08-04">
+      <text>Senate Committee on Agriculture, Nutrition, and Forestry discharged by Unanimous Consent.</text>
+      <reference ref="CR S6325" label="consideration"/>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2015-08-04" where="s" result="pass" state="PASSED:SIMPLERES">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+  </subjects>
+  <amendments/>
+</bill>

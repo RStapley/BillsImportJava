@@ -1,0 +1,75 @@
+<bill session="114" type="h" number="684" updated="2015-07-08T04:47:28-04:00">
+  <state datetime="2015-02-03">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-03"/>
+  </status>
+  <introduced datetime="2015-02-03"/>
+  <titles>
+    <title type="short" as="introduced">Non-Disparagement of Native American Persons or Peoples in Trademark Registration Act of 2015</title>
+    <title type="official" as="introduced">To amend the Trademark Act of 1946 regarding the disparagement of Native American persons or peoples through marks that use the term "redskin", and for other purposes.</title>
+  </titles>
+  <sponsor id="400185"/>
+  <cosponsors>
+    <cosponsor id="412404" joined="2015-02-03"/>
+    <cosponsor id="400033" joined="2015-02-03"/>
+    <cosponsor id="400047" joined="2015-02-03"/>
+    <cosponsor id="400048" joined="2015-02-03"/>
+    <cosponsor id="412517" joined="2015-02-03"/>
+    <cosponsor id="412258" joined="2015-02-03"/>
+    <cosponsor id="412571" joined="2015-02-27"/>
+    <cosponsor id="412379" joined="2015-02-24"/>
+    <cosponsor id="412221" joined="2015-02-03"/>
+    <cosponsor id="400100" joined="2015-07-07"/>
+    <cosponsor id="412263" joined="2015-02-03"/>
+    <cosponsor id="412215" joined="2015-02-03"/>
+    <cosponsor id="400124" joined="2015-02-04"/>
+    <cosponsor id="412327" joined="2015-02-03"/>
+    <cosponsor id="400162" joined="2015-02-03"/>
+    <cosponsor id="412511" joined="2015-02-04"/>
+    <cosponsor id="412546" joined="2015-06-17"/>
+    <cosponsor id="412583" joined="2015-02-03"/>
+    <cosponsor id="412286" joined="2015-02-03"/>
+    <cosponsor id="400237" joined="2015-02-03"/>
+    <cosponsor id="400240" joined="2015-02-03"/>
+    <cosponsor id="400245" joined="2015-02-03"/>
+    <cosponsor id="412521" joined="2015-02-12"/>
+    <cosponsor id="400259" joined="2015-02-03"/>
+    <cosponsor id="400262" joined="2015-02-03"/>
+    <cosponsor id="400661" joined="2015-02-03"/>
+    <cosponsor id="408211" joined="2015-02-03"/>
+    <cosponsor id="400295" joined="2015-02-03"/>
+    <cosponsor id="400308" joined="2015-02-04"/>
+    <cosponsor id="412585" joined="2015-02-03"/>
+    <cosponsor id="400378" joined="2015-02-03"/>
+    <cosponsor id="412626" joined="2015-02-03"/>
+    <cosponsor id="412520" joined="2015-02-03"/>
+    <cosponsor id="412522" joined="2015-02-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-03" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-03-17">
+      <text>Referred to the Subcommittee on Courts, Intellectual Property, and the Internet.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU03" subcommittee="Courts, Intellectual Property, and the Internet" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Native Americans"/>
+    <term name="Intellectual property"/>
+    <term name="Licensing and registrations"/>
+    <term name="Professional sports"/>
+    <term name="Racial and ethnic relations"/>
+  </subjects>
+  <amendments/>
+  <summary>2/3/2015--Introduced.
+Non-Disparagement of Native American Persons or Peoples in Trademark Registration Act of 2015
+
+Amends the Trademark Act of 1946 to conclusively presume that a mark that uses the term "redskin" or any derivation of that term consists of matter which may disparage persons if: (1) it has been, is, or is intended to be used in commerce in connection with references to or images of Native Americans; or (2) the U.S. Patent and Trademark Office (USPTO) determines that the term as included in the mark is commonly understood to refer to Native Americans. (The possibility that a mark disparages persons is grounds for refusing its registration.)
+
+Requires the USPTO to cancel the registration of a mark containing the term "redskin" or any derivation of that term if: (1) it has been or is used in commerce in connection with references to or images of Native Americans, or (2) the USPTO determines that the term as included in the mark is commonly understood to refer to Native Americans.</summary>
+</bill>

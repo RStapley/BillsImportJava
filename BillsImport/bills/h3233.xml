@@ -1,0 +1,30 @@
+<bill session="114" type="h" number="3233" updated="2015-07-30T09:48:13-04:00">
+  <state datetime="2015-07-28">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-28"/>
+  </status>
+  <introduced datetime="2015-07-28"/>
+  <titles>
+    <title type="short" as="introduced">Congressional Intern Protection Act of 2015</title>
+    <title type="official" as="introduced">To amend the Congressional Accountability Act of 1995 to protect unpaid interns in the legislative branch from workplace harassment and discrimination, and for other purposes.</title>
+  </titles>
+  <sponsor id="400090"/>
+  <cosponsors>
+    <cosponsor id="412560" joined="2015-07-28"/>
+    <cosponsor id="400295" joined="2015-07-29"/>
+    <cosponsor id="400364" joined="2015-07-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-28" state="REFERRED">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+  </subjects>
+  <amendments/>
+</bill>

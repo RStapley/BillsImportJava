@@ -1,0 +1,27 @@
+<bill session="114" type="s" number="1887" updated="2015-08-06T12:47:34-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">Protect and Preserve International Cultural Property Act</title>
+    <title type="official" as="introduced">A bill to protect and preserve international cultural property at risk due to political instability, armed conflict, or natural or other disasters, and for other purposes.</title>
+  </titles>
+  <sponsor id="412246"/>
+  <cosponsors>
+    <cosponsor id="300048" joined="2015-07-29"/>
+    <cosponsor id="412305" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

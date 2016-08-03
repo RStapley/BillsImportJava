@@ -1,0 +1,54 @@
+<bill session="114" type="s" number="865" updated="2015-04-29T04:49:13-04:00">
+  <state datetime="2015-03-25">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-25"/>
+  </status>
+  <introduced datetime="2015-03-25"/>
+  <titles>
+    <title type="short" as="introduced">Ruth Moore Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend title 38, United States Code, to improve the disability compensation evaluation procedure of the Secretary of Veterans Affairs for veterans with mental health conditions related to military sexual trauma, and for other purposes.</title>
+  </titles>
+  <sponsor id="412244"/>
+  <cosponsors>
+    <cosponsor id="400013" joined="2015-03-25"/>
+    <cosponsor id="412330" joined="2015-03-25"/>
+    <cosponsor id="300011" joined="2015-04-28"/>
+    <cosponsor id="300025" joined="2015-03-25"/>
+    <cosponsor id="300038" joined="2015-03-25"/>
+    <cosponsor id="412223" joined="2015-03-25"/>
+    <cosponsor id="412545" joined="2015-03-25"/>
+    <cosponsor id="412242" joined="2015-03-25"/>
+    <cosponsor id="412243" joined="2015-03-25"/>
+    <cosponsor id="412323" joined="2015-04-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-25" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="1607"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Congressional oversight"/>
+    <term name="Crimes against women"/>
+    <term name="Disability assistance"/>
+    <term name="Evidence and witnesses"/>
+    <term name="Mental health"/>
+    <term name="Sex offenses"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>3/25/2015--Introduced.
+Ruth Moore Act of 2015
+
+Directs the Secretary of Veterans Affairs, in any case in which a veteran claims that a covered mental health condition was incurred in or aggravated by military sexual trauma during active duty, to: (1) accept as sufficient proof of service-connection a diagnosis by a mental health professional together with satisfactory lay or other evidence of such trauma and an opinion by the mental health professional that such condition is related to such trauma if consistent with the circumstances, conditions, or hardships of such service, notwithstanding the fact that there is no official record of such incurrence or aggravation in such service; and (2) resolve every reasonable doubt in favor of the veteran. Allows such service-connection to be rebutted by clear and convincing evidence to the contrary.
+
+Includes as a "covered mental health condition" post-traumatic stress disorder, anxiety, depression, or any other mental health diagnosis that the Secretary determines to be related to military sexual trauma.
+
+Requires the Secretary to report annually to Congress in each of 2016 through 2020 on covered claims submitted.</summary>
+</bill>

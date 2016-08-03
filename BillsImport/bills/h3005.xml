@@ -1,0 +1,46 @@
+<bill session="114" type="h" number="3005" updated="2015-08-11T04:48:27-04:00">
+  <state datetime="2015-07-09">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-09"/>
+  </status>
+  <introduced datetime="2015-07-09"/>
+  <titles>
+    <title type="short" as="introduced">Julia Carson Responsible Fatherhood and Healthy Families Act of 2015</title>
+    <title type="official" as="introduced">To amend title IV of the Social Security Act to ensure funding for grants to promote responsible fatherhood and strengthen low-income families, and for other purposes.</title>
+  </titles>
+  <sponsor id="400093"/>
+  <cosponsors>
+    <cosponsor id="412258" joined="2015-07-09"/>
+    <cosponsor id="400074" joined="2015-07-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-09" state="REFERRED">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committees on Energy and Commerce, and Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-07-09">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-07-09">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-07-09">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2015-07-10">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSAG" name="House Agriculture" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="2991"/>
+  </relatedbills>
+  <subjects>
+    <term name="Social welfare"/>
+  </subjects>
+  <amendments/>
+</bill>

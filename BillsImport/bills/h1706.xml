@@ -1,0 +1,104 @@
+<bill session="114" type="h" number="1706" updated="2015-07-29T04:48:07-04:00">
+  <state datetime="2015-03-26">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-26"/>
+  </status>
+  <introduced datetime="2015-03-26"/>
+  <titles>
+    <title type="short" as="introduced">Real Education for Healthy Youth Act of 2015</title>
+    <title type="official" as="introduced">To provide for the overall health and well-being of young people, including the promotion of comprehensive sexual health and healthy relationships, the reduction of unintended pregnancy and sexually transmitted infections (STIs), including HIV, and the prevention of dating violence and sexual assault, and for other purposes.</title>
+  </titles>
+  <sponsor id="400237"/>
+  <cosponsors>
+    <cosponsor id="412607" joined="2015-03-26"/>
+    <cosponsor id="412657" joined="2015-05-14"/>
+    <cosponsor id="412501" joined="2015-06-02"/>
+    <cosponsor id="412221" joined="2015-03-26"/>
+    <cosponsor id="400080" joined="2015-03-26"/>
+    <cosponsor id="400101" joined="2015-03-26"/>
+    <cosponsor id="400103" joined="2015-03-26"/>
+    <cosponsor id="412385" joined="2015-03-26"/>
+    <cosponsor id="412215" joined="2015-04-13"/>
+    <cosponsor id="400129" joined="2015-03-26"/>
+    <cosponsor id="400130" joined="2015-06-02"/>
+    <cosponsor id="412529" joined="2015-03-26"/>
+    <cosponsor id="400170" joined="2015-03-26"/>
+    <cosponsor id="400185" joined="2015-04-13"/>
+    <cosponsor id="400199" joined="2015-03-26"/>
+    <cosponsor id="400204" joined="2015-03-26"/>
+    <cosponsor id="412595" joined="2015-06-02"/>
+    <cosponsor id="412638" joined="2015-03-26"/>
+    <cosponsor id="400238" joined="2015-05-14"/>
+    <cosponsor id="400240" joined="2015-03-26"/>
+    <cosponsor id="412616" joined="2015-04-29"/>
+    <cosponsor id="412521" joined="2015-03-26"/>
+    <cosponsor id="412558" joined="2015-03-26"/>
+    <cosponsor id="400251" joined="2015-04-28"/>
+    <cosponsor id="400262" joined="2015-03-26"/>
+    <cosponsor id="400263" joined="2015-04-13"/>
+    <cosponsor id="412189" joined="2015-04-21"/>
+    <cosponsor id="400661" joined="2015-03-26"/>
+    <cosponsor id="400289" joined="2015-03-26"/>
+    <cosponsor id="400295" joined="2015-03-26"/>
+    <cosponsor id="412523" joined="2015-03-26"/>
+    <cosponsor id="412307" joined="2015-04-13"/>
+    <cosponsor id="412585" joined="2015-04-13"/>
+    <cosponsor id="412331" joined="2015-05-20"/>
+    <cosponsor id="400333" joined="2015-04-13"/>
+    <cosponsor id="400360" joined="2015-03-26"/>
+    <cosponsor id="400363" joined="2015-03-26"/>
+    <cosponsor id="400378" joined="2015-07-28"/>
+    <cosponsor id="412259" joined="2015-03-26"/>
+    <cosponsor id="412520" joined="2015-03-26"/>
+    <cosponsor id="412318" joined="2015-03-26"/>
+    <cosponsor id="400623" joined="2015-03-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-26" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-03-26">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-03-26">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+    <action datetime="2015-03-27">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Assault and harassment offenses"/>
+    <term name="Child health"/>
+    <term name="Crime victims"/>
+    <term name="Domestic violence and child abuse"/>
+    <term name="Drug, alcohol, tobacco use"/>
+    <term name="Education of the disadvantaged"/>
+    <term name="Education programs funding"/>
+    <term name="Educational technology and distance education"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Family planning and birth control"/>
+    <term name="Family relationships"/>
+    <term name="HIV/AIDS"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="Higher education"/>
+    <term name="Minority education"/>
+    <term name="Performance measurement"/>
+    <term name="Sex and reproductive health"/>
+    <term name="Sex offenses"/>
+    <term name="Sex, gender, sexual orientation discrimination"/>
+    <term name="Sexually transmitted diseases"/>
+    <term name="Teaching, teachers, curricula"/>
+    <term name="Teenage pregnancy"/>
+    <term name="Violent crime"/>
+  </subjects>
+  <amendments/>
+</bill>

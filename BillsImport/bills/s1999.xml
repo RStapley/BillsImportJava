@@ -1,0 +1,30 @@
+<bill session="114" type="s" number="1999" updated="2015-08-18T09:46:28-04:00">
+  <state datetime="2015-08-05">REFERRED</state>
+  <status>
+    <introduced datetime="2015-08-05"/>
+  </status>
+  <introduced datetime="2015-08-05"/>
+  <titles>
+    <title type="short" as="introduced">Caribbean Oil Spill Intervention, Prevention, and Preparedness Act</title>
+    <title type="official" as="introduced">A bill to authorize the Secretary of the department in which the Coast Guard is operating to act, without liability for certain damages, to prevent and respond to the threat of damage from pollution of the sea by crude oil, and for other purposes.</title>
+  </titles>
+  <sponsor id="300078"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-08-05">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S6391-6392"/>
+    </action>
+    <action datetime="2015-08-05" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+</bill>

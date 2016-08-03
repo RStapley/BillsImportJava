@@ -1,0 +1,29 @@
+<bill session="114" type="h" number="3350" updated="2015-08-06T12:47:30-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">Know the CBRN Terrorism Threats to Transportation Act</title>
+    <title type="official" as="introduced">To require a terrorism threat assessment regarding the transportation of chemical, biological, nuclear, and radiological materials through United States land borders and within the United States, and for other purposes.</title>
+  </titles>
+  <sponsor id="400641"/>
+  <cosponsors>
+    <cosponsor id="400219" joined="2015-07-29"/>
+    <cosponsor id="400402" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the House Committee on Homeland Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+</bill>

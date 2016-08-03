@@ -1,0 +1,250 @@
+<bill session="114" type="h" number="1610" updated="2015-07-30T04:48:49-04:00">
+  <state datetime="2015-03-25">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-25"/>
+  </status>
+  <introduced datetime="2015-03-25"/>
+  <titles>
+    <title type="short" as="introduced">Biennial Budgeting and Enhanced Oversight Act of 2015</title>
+    <title type="official" as="introduced">To establish biennial budgets for the United States Government.</title>
+  </titles>
+  <sponsor id="412489"/>
+  <cosponsors>
+    <cosponsor id="412630" joined="2015-03-25"/>
+    <cosponsor id="412625" joined="2015-06-25"/>
+    <cosponsor id="412500" joined="2015-03-25"/>
+    <cosponsor id="412642" joined="2015-06-24"/>
+    <cosponsor id="412655" joined="2015-07-23"/>
+    <cosponsor id="412541" joined="2015-03-25"/>
+    <cosponsor id="400018" joined="2015-03-25"/>
+    <cosponsor id="412436" joined="2015-03-25"/>
+    <cosponsor id="412512" joined="2015-03-25"/>
+    <cosponsor id="412478" joined="2015-03-25"/>
+    <cosponsor id="400032" joined="2015-03-25"/>
+    <cosponsor id="412627" joined="2015-03-25"/>
+    <cosponsor id="412629" joined="2015-03-25"/>
+    <cosponsor id="400636" joined="2015-03-25"/>
+    <cosponsor id="400046" joined="2015-03-25"/>
+    <cosponsor id="412605" joined="2015-06-02"/>
+    <cosponsor id="412567" joined="2015-07-23"/>
+    <cosponsor id="412395" joined="2015-03-25"/>
+    <cosponsor id="412539" joined="2015-03-25"/>
+    <cosponsor id="412619" joined="2015-05-05"/>
+    <cosponsor id="412427" joined="2015-03-25"/>
+    <cosponsor id="412537" joined="2015-03-25"/>
+    <cosponsor id="412601" joined="2015-05-01"/>
+    <cosponsor id="412407" joined="2015-03-25"/>
+    <cosponsor id="412622" joined="2015-06-25"/>
+    <cosponsor id="400068" joined="2015-03-25"/>
+    <cosponsor id="400071" joined="2015-03-25"/>
+    <cosponsor id="412270" joined="2015-03-25"/>
+    <cosponsor id="412470" joined="2015-03-25"/>
+    <cosponsor id="412604" joined="2015-03-25"/>
+    <cosponsor id="412271" joined="2015-03-25"/>
+    <cosponsor id="412563" joined="2015-03-25"/>
+    <cosponsor id="412531" joined="2015-06-18"/>
+    <cosponsor id="412272" joined="2015-05-29"/>
+    <cosponsor id="412513" joined="2015-03-25"/>
+    <cosponsor id="400081" joined="2015-03-25"/>
+    <cosponsor id="400618" joined="2015-03-25"/>
+    <cosponsor id="412651" joined="2015-03-25"/>
+    <cosponsor id="412555" joined="2015-03-25"/>
+    <cosponsor id="412400" joined="2015-07-07"/>
+    <cosponsor id="400657" joined="2015-07-22"/>
+    <cosponsor id="412621" joined="2015-07-29"/>
+    <cosponsor id="412536" joined="2015-03-25"/>
+    <cosponsor id="400100" joined="2015-03-25"/>
+    <cosponsor id="412544" joined="2015-04-16"/>
+    <cosponsor id="412403" joined="2015-06-25"/>
+    <cosponsor id="412526" joined="2015-03-25"/>
+    <cosponsor id="412477" joined="2015-06-11"/>
+    <cosponsor id="412420" joined="2015-03-25"/>
+    <cosponsor id="412533" joined="2015-03-25"/>
+    <cosponsor id="412488" joined="2015-03-25"/>
+    <cosponsor id="412472" joined="2015-03-25"/>
+    <cosponsor id="412457" joined="2015-07-23"/>
+    <cosponsor id="412639" joined="2015-07-23"/>
+    <cosponsor id="412482" joined="2015-07-23"/>
+    <cosponsor id="400646" joined="2015-03-25"/>
+    <cosponsor id="412480" joined="2015-06-11"/>
+    <cosponsor id="400137" joined="2015-07-29"/>
+    <cosponsor id="400141" joined="2015-03-25"/>
+    <cosponsor id="412532" joined="2015-03-25"/>
+    <cosponsor id="412463" joined="2015-06-16"/>
+    <cosponsor id="412453" joined="2015-06-11"/>
+    <cosponsor id="400651" joined="2015-06-15"/>
+    <cosponsor id="412397" joined="2015-03-25"/>
+    <cosponsor id="412473" joined="2015-06-25"/>
+    <cosponsor id="412620" joined="2015-05-14"/>
+    <cosponsor id="412631" joined="2015-07-23"/>
+    <cosponsor id="412485" joined="2015-07-14"/>
+    <cosponsor id="412661" joined="2015-03-25"/>
+    <cosponsor id="412447" joined="2015-03-25"/>
+    <cosponsor id="412498" joined="2015-07-28"/>
+    <cosponsor id="412454" joined="2015-03-25"/>
+    <cosponsor id="412645" joined="2015-05-20"/>
+    <cosponsor id="412280" joined="2015-07-21"/>
+    <cosponsor id="412444" joined="2015-03-25"/>
+    <cosponsor id="412446" joined="2015-03-25"/>
+    <cosponsor id="400175" joined="2015-03-25"/>
+    <cosponsor id="412623" joined="2015-06-25"/>
+    <cosponsor id="412282" joined="2015-03-25"/>
+    <cosponsor id="412553" joined="2015-06-25"/>
+    <cosponsor id="412550" joined="2015-07-23"/>
+    <cosponsor id="412511" joined="2015-05-01"/>
+    <cosponsor id="412437" joined="2015-03-25"/>
+    <cosponsor id="412422" joined="2015-03-25"/>
+    <cosponsor id="412484" joined="2015-03-25"/>
+    <cosponsor id="412284" joined="2015-03-25"/>
+    <cosponsor id="412460" joined="2015-03-25"/>
+    <cosponsor id="400209" joined="2015-03-25"/>
+    <cosponsor id="412226" joined="2015-03-25"/>
+    <cosponsor id="412649" joined="2015-07-09"/>
+    <cosponsor id="412465" joined="2015-03-25"/>
+    <cosponsor id="400218" joined="2015-03-25"/>
+    <cosponsor id="412421" joined="2015-03-25"/>
+    <cosponsor id="412286" joined="2015-06-10"/>
+    <cosponsor id="412614" joined="2015-06-25"/>
+    <cosponsor id="412557" joined="2015-03-25"/>
+    <cosponsor id="412419" joined="2015-07-09"/>
+    <cosponsor id="412510" joined="2015-05-05"/>
+    <cosponsor id="412191" joined="2015-06-25"/>
+    <cosponsor id="412290" joined="2015-03-25"/>
+    <cosponsor id="412256" joined="2015-07-22"/>
+    <cosponsor id="412638" joined="2015-06-23"/>
+    <cosponsor id="412616" joined="2015-07-15"/>
+    <cosponsor id="400630" joined="2015-03-25"/>
+    <cosponsor id="412445" joined="2015-06-17"/>
+    <cosponsor id="412624" joined="2015-06-25"/>
+    <cosponsor id="412656" joined="2015-04-21"/>
+    <cosponsor id="412521" joined="2015-03-25"/>
+    <cosponsor id="412292" joined="2015-07-16"/>
+    <cosponsor id="412558" joined="2015-03-25"/>
+    <cosponsor id="412294" joined="2015-03-25"/>
+    <cosponsor id="412562" joined="2015-03-25"/>
+    <cosponsor id="400656" joined="2015-07-22"/>
+    <cosponsor id="412468" joined="2015-07-23"/>
+    <cosponsor id="400654" joined="2015-03-25"/>
+    <cosponsor id="400644" joined="2015-03-25"/>
+    <cosponsor id="412487" joined="2015-03-25"/>
+    <cosponsor id="412552" joined="2015-03-25"/>
+    <cosponsor id="412466" joined="2015-04-23"/>
+    <cosponsor id="412540" joined="2015-03-25"/>
+    <cosponsor id="400279" joined="2015-07-15"/>
+    <cosponsor id="412634" joined="2015-04-22"/>
+    <cosponsor id="412662" joined="2015-04-30"/>
+    <cosponsor id="412632" joined="2015-07-08"/>
+    <cosponsor id="412568" joined="2015-06-25"/>
+    <cosponsor id="412474" joined="2015-03-25"/>
+    <cosponsor id="412527" joined="2015-03-25"/>
+    <cosponsor id="400441" joined="2015-03-25"/>
+    <cosponsor id="412660" joined="2015-04-23"/>
+    <cosponsor id="412475" joined="2015-03-25"/>
+    <cosponsor id="408211" joined="2015-06-03"/>
+    <cosponsor id="412409" joined="2015-07-23"/>
+    <cosponsor id="412575" joined="2015-07-21"/>
+    <cosponsor id="412302" joined="2015-07-15"/>
+    <cosponsor id="412608" joined="2015-05-14"/>
+    <cosponsor id="412303" joined="2015-03-25"/>
+    <cosponsor id="400313" joined="2015-07-29"/>
+    <cosponsor id="412569" joined="2015-06-09"/>
+    <cosponsor id="412523" joined="2015-03-25"/>
+    <cosponsor id="400316" joined="2015-04-23"/>
+    <cosponsor id="412551" joined="2015-03-25"/>
+    <cosponsor id="412585" joined="2015-03-25"/>
+    <cosponsor id="400652" joined="2015-03-25"/>
+    <cosponsor id="412633" joined="2015-03-25"/>
+    <cosponsor id="412308" joined="2015-04-30"/>
+    <cosponsor id="412431" joined="2015-05-15"/>
+    <cosponsor id="412653" joined="2015-07-16"/>
+    <cosponsor id="412393" joined="2015-03-25"/>
+    <cosponsor id="400660" joined="2015-04-30"/>
+    <cosponsor id="412462" joined="2015-03-25"/>
+    <cosponsor id="412647" joined="2015-07-09"/>
+    <cosponsor id="412572" joined="2015-03-25"/>
+    <cosponsor id="412483" joined="2015-03-25"/>
+    <cosponsor id="412310" joined="2015-05-12"/>
+    <cosponsor id="412426" joined="2015-03-25"/>
+    <cosponsor id="412411" joined="2015-03-25"/>
+    <cosponsor id="412570" joined="2015-06-19"/>
+    <cosponsor id="412641" joined="2015-04-29"/>
+    <cosponsor id="400348" joined="2015-07-23"/>
+    <cosponsor id="412519" joined="2015-06-10"/>
+    <cosponsor id="412650" joined="2015-07-23"/>
+    <cosponsor id="400351" joined="2015-03-25"/>
+    <cosponsor id="400606" joined="2015-07-09"/>
+    <cosponsor id="400607" joined="2015-05-05"/>
+    <cosponsor id="412315" joined="2015-03-25"/>
+    <cosponsor id="412399" joined="2015-07-10"/>
+    <cosponsor id="412417" joined="2015-04-21"/>
+    <cosponsor id="400363" joined="2015-07-20"/>
+    <cosponsor id="400365" joined="2015-03-25"/>
+    <cosponsor id="400367" joined="2015-06-04"/>
+    <cosponsor id="400373" joined="2015-07-29"/>
+    <cosponsor id="412509" joined="2015-03-25"/>
+    <cosponsor id="412217" joined="2015-03-25"/>
+    <cosponsor id="412596" joined="2015-06-25"/>
+    <cosponsor id="412648" joined="2015-07-09"/>
+    <cosponsor id="412461" joined="2015-03-25"/>
+    <cosponsor id="412392" joined="2015-03-25"/>
+    <cosponsor id="412514" joined="2015-03-25"/>
+    <cosponsor id="412317" joined="2015-04-16"/>
+    <cosponsor id="400406" joined="2015-07-23"/>
+    <cosponsor id="412405" joined="2015-03-25"/>
+    <cosponsor id="412636" joined="2015-03-25"/>
+    <cosponsor id="412548" joined="2015-07-09"/>
+    <cosponsor id="412213" joined="2015-03-25"/>
+    <cosponsor id="400419" joined="2015-03-25"/>
+    <cosponsor id="412670" joined="2015-07-23"/>
+    <cosponsor id="412538" joined="2015-03-25"/>
+    <cosponsor id="412214" joined="2015-04-28"/>
+    <cosponsor id="412574" joined="2015-04-30"/>
+    <cosponsor id="412410" joined="2015-06-19"/>
+    <cosponsor id="412239" joined="2015-03-25"/>
+    <cosponsor id="412564" joined="2015-06-25"/>
+    <cosponsor id="412610" joined="2015-06-11"/>
+    <cosponsor id="400627" joined="2015-03-25"/>
+    <cosponsor id="400431" joined="2015-03-25"/>
+    <cosponsor id="412578" joined="2015-03-25"/>
+    <cosponsor id="400433" joined="2015-03-25"/>
+    <cosponsor id="412255" joined="2015-03-25"/>
+    <cosponsor id="412211" joined="2015-03-25"/>
+    <cosponsor id="412525" joined="2015-03-25"/>
+    <cosponsor id="412428" joined="2015-03-25"/>
+    <cosponsor id="412640" joined="2015-03-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-25" state="REFERRED">
+      <text>Referred to the Committee on the Budget, and in addition to the Committees on Oversight and Government Reform, and Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-03-25">
+      <text>Referred to House Budget</text>
+    </action>
+    <action datetime="2015-03-25">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2015-03-25">
+      <text>Referred to House Rules</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBU" name="House Budget" activity="Referral"/>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+    <committee code="HSRU" name="House Rules" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1456"/>
+  </relatedbills>
+  <subjects>
+    <term name="Economics and public finance"/>
+  </subjects>
+  <amendments/>
+  <summary>3/25/2015--Introduced.
+Biennial Budgeting and Enhanced Oversight Act of 2015
+
+ This bill amends the Congressional Budget Act of 1974, the Congressional Budget Impoundment and Control Act of 1974, and the Rules of the House of Representatives to change the process for the President's budget submission, congressional budget resolutions, appropriations bills, and government strategic and performance plans from the current annual process to a biennial process, in which a biennium is the two consecutive fiscal years beginning on October 1 of any odd-numbered year.
+
+The House Budget Committee must use the second session of each Congress to study issues with long-term budgetary and economic implications.
+
+The bill creates a point of order in the House and Senate against authorizations of appropriations that do not include specific authorizations covering at least each fiscal year in one or more bienniums.</summary>
+</bill>

@@ -1,0 +1,104 @@
+<bill session="114" type="h" number="1111" updated="2015-06-03T04:47:17-04:00">
+  <state datetime="2015-02-26">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-26"/>
+  </status>
+  <introduced datetime="2015-02-26"/>
+  <titles>
+    <title type="short" as="introduced">Department of Peacebuilding Act of 2015</title>
+    <title type="official" as="introduced">To establish a Department of Peacebuilding.</title>
+  </titles>
+  <sponsor id="400237"/>
+  <cosponsors>
+    <cosponsor id="412379" joined="2015-04-13"/>
+    <cosponsor id="400080" joined="2015-02-26"/>
+    <cosponsor id="400100" joined="2015-04-28"/>
+    <cosponsor id="412613" joined="2015-03-23"/>
+    <cosponsor id="412263" joined="2015-02-26"/>
+    <cosponsor id="412215" joined="2015-02-26"/>
+    <cosponsor id="400129" joined="2015-04-28"/>
+    <cosponsor id="412276" joined="2015-04-13"/>
+    <cosponsor id="400162" joined="2015-02-26"/>
+    <cosponsor id="412498" joined="2015-04-13"/>
+    <cosponsor id="400170" joined="2015-04-15"/>
+    <cosponsor id="400185" joined="2015-04-13"/>
+    <cosponsor id="412199" joined="2015-04-15"/>
+    <cosponsor id="400240" joined="2015-02-26"/>
+    <cosponsor id="400263" joined="2015-04-15"/>
+    <cosponsor id="400661" joined="2015-03-23"/>
+    <cosponsor id="400295" joined="2015-02-26"/>
+    <cosponsor id="412307" joined="2015-04-15"/>
+    <cosponsor id="412308" joined="2015-02-27"/>
+    <cosponsor id="400333" joined="2015-06-02"/>
+    <cosponsor id="400350" joined="2015-04-28"/>
+    <cosponsor id="400352" joined="2015-04-21"/>
+    <cosponsor id="400360" joined="2015-04-13"/>
+    <cosponsor id="400364" joined="2015-02-26"/>
+    <cosponsor id="412644" joined="2015-02-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-26" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Advanced technology and technological innovations"/>
+    <term name="Advisory bodies"/>
+    <term name="Alternative dispute resolution, mediation, arbitration"/>
+    <term name="Arms control and nonproliferation"/>
+    <term name="Assault and harassment offenses"/>
+    <term name="Child health"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Correctional facilities and imprisonment"/>
+    <term name="Crime prevention"/>
+    <term name="Crime victims"/>
+    <term name="Crimes against children"/>
+    <term name="Crimes against women"/>
+    <term name="Cultural exchanges and relations"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="Domestic violence and child abuse"/>
+    <term name="Drug, alcohol, tobacco use"/>
+    <term name="Economic development"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Employment discrimination and employee rights"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Firearms and explosives"/>
+    <term name="Foreign aid and international relief"/>
+    <term name="Government information and archives"/>
+    <term name="Higher education"/>
+    <term name="Human rights"/>
+    <term name="International organizations and cooperation"/>
+    <term name="Juvenile crime and gang violence"/>
+    <term name="Mental health"/>
+    <term name="News media and reporting"/>
+    <term name="Preschool education"/>
+    <term name="Racial and ethnic relations"/>
+    <term name="Reconstruction and stabilization"/>
+    <term name="Sex offenses"/>
+    <term name="Sex, gender, sexual orientation discrimination"/>
+    <term name="Teaching, teachers, curricula"/>
+    <term name="United Nations"/>
+    <term name="Violent crime"/>
+    <term name="Women's rights"/>
+  </subjects>
+  <amendments/>
+  <summary>2/26/2015--Introduced.
+Department of Peacebuilding Act of 2015
+
+Establishes a Department of Peacebuilding in the executive branch, to be headed by a Secretary of Peacebuilding, dedicated to peacebuilding, peacemaking, and the study and promotion of conditions conducive to both domestic and international peace and a culture of peace.
+
+Sets forth the mission of the Department, which includes the: (1) cultivation of peace and peacebuilding as a strategic national policy objective; and (2) development of policies that promote national and international conflict prevention, nonviolent intervention, mediation, peaceful conflict resolution, and structured conflict mediation.
+
+Establishes in the Department: (1) the Office of Peace Education and Training, (2) the Office of Domestic Peacebuilding Activities, (3) the Office of International Peacebuilding Activities, (4) the Office of Technology for Peace, (5) the Office of Arms Control and Disarmament, (6) the Office of Peacebuilding Information and Research, (7) the Office of Human Rights and Economic Rights, and (8) the Intergovernmental Advisory Council on Peace.
+
+Establishes a Federal Interagency Committee on Peace to coordinate the actions of the Department with other federal agencies.
+
+Directs the Secretary of Defense and the Secretary of State to consult with the Secretary concerning nonviolent means of conflict resolution when a conflict between the United States and any other government or entity is imminent or occurring.
+
+Directs the Secretary to encourage citizens to observe and celebrate the blessings of peace and endeavor to create peace on Peace Days, which shall include discussions of the professional activities and the achievements in the lives of peacemakers.</summary>
+</bill>

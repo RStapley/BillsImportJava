@@ -1,0 +1,209 @@
+<bill session="114" type="h" number="2400" updated="2015-08-05T04:47:19-04:00">
+  <state datetime="2015-05-18">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-18"/>
+  </status>
+  <introduced datetime="2015-05-18"/>
+  <titles>
+    <title type="short" as="introduced">SIGMA Act of 2015</title>
+    <title type="short" as="introduced">Special Inspector General for Monitoring the ACA Act of 2015</title>
+    <title type="official" as="introduced">To establish the Office of the Special Inspector General for Monitoring the Affordable Care Act, and for other purposes.</title>
+  </titles>
+  <sponsor id="412202"/>
+  <cosponsors>
+    <cosponsor id="412630" joined="2015-07-29"/>
+    <cosponsor id="412625" joined="2015-06-25"/>
+    <cosponsor id="412655" joined="2015-07-28"/>
+    <cosponsor id="412469" joined="2015-07-29"/>
+    <cosponsor id="412541" joined="2015-06-04"/>
+    <cosponsor id="400018" joined="2015-07-28"/>
+    <cosponsor id="412250" joined="2015-06-12"/>
+    <cosponsor id="412635" joined="2015-07-29"/>
+    <cosponsor id="400029" joined="2015-07-23"/>
+    <cosponsor id="412478" joined="2015-06-02"/>
+    <cosponsor id="400032" joined="2015-05-20"/>
+    <cosponsor id="412629" joined="2015-07-09"/>
+    <cosponsor id="400636" joined="2015-06-04"/>
+    <cosponsor id="412605" joined="2015-06-16"/>
+    <cosponsor id="412567" joined="2015-06-15"/>
+    <cosponsor id="412196" joined="2015-06-03"/>
+    <cosponsor id="412427" joined="2015-08-04"/>
+    <cosponsor id="400052" joined="2015-05-20"/>
+    <cosponsor id="400071" joined="2015-07-09"/>
+    <cosponsor id="400077" joined="2015-05-18"/>
+    <cosponsor id="412563" joined="2015-07-28"/>
+    <cosponsor id="400655" joined="2015-06-04"/>
+    <cosponsor id="412555" joined="2015-07-28"/>
+    <cosponsor id="400086" joined="2015-07-29"/>
+    <cosponsor id="412621" joined="2015-07-22"/>
+    <cosponsor id="412536" joined="2015-05-29"/>
+    <cosponsor id="412420" joined="2015-06-02"/>
+    <cosponsor id="412472" joined="2015-07-22"/>
+    <cosponsor id="412639" joined="2015-07-07"/>
+    <cosponsor id="412482" joined="2015-07-28"/>
+    <cosponsor id="400646" joined="2015-07-22"/>
+    <cosponsor id="412476" joined="2015-08-04"/>
+    <cosponsor id="412480" joined="2015-05-18"/>
+    <cosponsor id="400137" joined="2015-07-29"/>
+    <cosponsor id="400141" joined="2015-07-28"/>
+    <cosponsor id="412397" joined="2015-06-15"/>
+    <cosponsor id="412473" joined="2015-05-29"/>
+    <cosponsor id="412661" joined="2015-06-23"/>
+    <cosponsor id="412447" joined="2015-07-29"/>
+    <cosponsor id="412278" joined="2015-07-29"/>
+    <cosponsor id="412454" joined="2015-07-13"/>
+    <cosponsor id="412645" joined="2015-06-25"/>
+    <cosponsor id="412434" joined="2015-07-16"/>
+    <cosponsor id="412444" joined="2015-06-25"/>
+    <cosponsor id="400175" joined="2015-06-11"/>
+    <cosponsor id="412623" joined="2015-06-24"/>
+    <cosponsor id="412553" joined="2015-05-18"/>
+    <cosponsor id="412429" joined="2015-06-03"/>
+    <cosponsor id="412437" joined="2015-06-25"/>
+    <cosponsor id="412422" joined="2015-06-09"/>
+    <cosponsor id="412284" joined="2015-05-20"/>
+    <cosponsor id="412460" joined="2015-07-16"/>
+    <cosponsor id="400206" joined="2015-06-01"/>
+    <cosponsor id="412603" joined="2015-07-16"/>
+    <cosponsor id="400209" joined="2015-06-15"/>
+    <cosponsor id="412226" joined="2015-05-18"/>
+    <cosponsor id="412566" joined="2015-06-03"/>
+    <cosponsor id="412465" joined="2015-05-18"/>
+    <cosponsor id="412673" joined="2015-07-28"/>
+    <cosponsor id="400219" joined="2015-07-29"/>
+    <cosponsor id="412419" joined="2015-07-28"/>
+    <cosponsor id="412510" joined="2015-07-16"/>
+    <cosponsor id="412191" joined="2015-08-04"/>
+    <cosponsor id="412290" joined="2015-06-23"/>
+    <cosponsor id="412256" joined="2015-07-22"/>
+    <cosponsor id="400247" joined="2015-07-29"/>
+    <cosponsor id="412294" joined="2015-06-12"/>
+    <cosponsor id="400656" joined="2015-05-18"/>
+    <cosponsor id="412468" joined="2015-05-18"/>
+    <cosponsor id="412295" joined="2015-06-09"/>
+    <cosponsor id="412487" joined="2015-07-23"/>
+    <cosponsor id="412611" joined="2015-07-29"/>
+    <cosponsor id="412552" joined="2015-07-22"/>
+    <cosponsor id="412466" joined="2015-05-18"/>
+    <cosponsor id="412634" joined="2015-06-18"/>
+    <cosponsor id="412662" joined="2015-07-29"/>
+    <cosponsor id="412474" joined="2015-06-11"/>
+    <cosponsor id="400285" joined="2015-05-18"/>
+    <cosponsor id="400441" joined="2015-07-21"/>
+    <cosponsor id="412660" joined="2015-07-29"/>
+    <cosponsor id="412475" joined="2015-05-18"/>
+    <cosponsor id="400297" joined="2015-06-03"/>
+    <cosponsor id="412302" joined="2015-06-16"/>
+    <cosponsor id="412303" joined="2015-06-02"/>
+    <cosponsor id="400313" joined="2015-07-28"/>
+    <cosponsor id="412551" joined="2015-06-09"/>
+    <cosponsor id="412431" joined="2015-07-23"/>
+    <cosponsor id="400626" joined="2015-06-01"/>
+    <cosponsor id="412653" joined="2015-07-29"/>
+    <cosponsor id="412393" joined="2015-06-02"/>
+    <cosponsor id="400660" joined="2015-06-03"/>
+    <cosponsor id="412462" joined="2015-05-18"/>
+    <cosponsor id="412572" joined="2015-06-11"/>
+    <cosponsor id="412483" joined="2015-08-04"/>
+    <cosponsor id="412310" joined="2015-05-18"/>
+    <cosponsor id="400607" joined="2015-07-22"/>
+    <cosponsor id="412417" joined="2015-06-24"/>
+    <cosponsor id="400365" joined="2015-07-09"/>
+    <cosponsor id="400367" joined="2015-07-29"/>
+    <cosponsor id="412217" joined="2015-06-03"/>
+    <cosponsor id="412596" joined="2015-05-18"/>
+    <cosponsor id="400381" joined="2015-06-12"/>
+    <cosponsor id="412648" joined="2015-07-29"/>
+    <cosponsor id="412581" joined="2015-07-28"/>
+    <cosponsor id="400406" joined="2015-06-10"/>
+    <cosponsor id="412405" joined="2015-07-23"/>
+    <cosponsor id="412213" joined="2015-06-03"/>
+    <cosponsor id="412538" joined="2015-07-22"/>
+    <cosponsor id="412618" joined="2015-06-18"/>
+    <cosponsor id="412574" joined="2015-07-29"/>
+    <cosponsor id="412410" joined="2015-07-16"/>
+    <cosponsor id="400627" joined="2015-08-04"/>
+    <cosponsor id="412416" joined="2015-07-29"/>
+    <cosponsor id="412525" joined="2015-07-21"/>
+    <cosponsor id="412628" joined="2015-07-23"/>
+    <cosponsor id="400440" joined="2015-07-29"/>
+    <cosponsor id="412428" joined="2015-06-10"/>
+    <cosponsor id="412640" joined="2015-07-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-18" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Natural Resources, Education and the Workforce, Ways and Means, Oversight and Government Reform, House Administration, the Judiciary, Rules, and Appropriations, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-05-18">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-05-18">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2015-05-18">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+    <action datetime="2015-05-18">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-05-18">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2015-05-18">
+      <text>Referred to House House Administration</text>
+    </action>
+    <action datetime="2015-05-18">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2015-05-18">
+      <text>Referred to House Rules</text>
+    </action>
+    <action datetime="2015-05-18">
+      <text>Referred to House Appropriations</text>
+    </action>
+    <action datetime="2015-05-22">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2015-06-10">
+      <text>Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII24" subcommittee="Indian, Insular and Alaska Native Affairs" name="House Natural Resources"/>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+    <committee code="HSHA" name="House Administration" activity="Referral"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee code="HSRU" name="House Rules" activity="Referral"/>
+    <committee code="HSAP" name="House Appropriations" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="1368"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Abortion"/>
+    <term name="Accounting and auditing"/>
+    <term name="Comprehensive health care"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health personnel"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Income tax credits"/>
+    <term name="Medicaid"/>
+    <term name="Performance measurement"/>
+    <term name="Religion"/>
+    <term name="Sales and excise taxes"/>
+    <term name="Tax administration and collection, taxpayers"/>
+  </subjects>
+  <amendments/>
+</bill>

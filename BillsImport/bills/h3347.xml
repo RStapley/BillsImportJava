@@ -1,0 +1,34 @@
+<bill session="114" type="h" number="3347" updated="2015-08-22T04:47:32-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">Byron Nash Renal Medullary Carcinoma Awareness Act of 2015</title>
+    <title type="official" as="introduced">To amend title XIX of the Social Security Act to provide incentives for education on the risk of renal medullary carcinoma in individuals who are receiving medical assistance under such title and who have Sickle Cell Disease.</title>
+  </titles>
+  <sponsor id="400653"/>
+  <cosponsors>
+    <cosponsor id="400052" joined="2015-07-29"/>
+    <cosponsor id="400093" joined="2015-07-29"/>
+    <cosponsor id="400160" joined="2015-07-29"/>
+    <cosponsor id="412302" joined="2015-07-29"/>
+    <cosponsor id="400333" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-07-31">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

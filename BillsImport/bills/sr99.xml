@@ -1,0 +1,43 @@
+<bill session="114" type="sr" number="99" updated="2015-03-21T06:31:00-04:00">
+  <state datetime="2015-03-10">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-10"/>
+  </status>
+  <introduced datetime="2015-03-10"/>
+  <titles>
+    <title type="official" as="introduced">A resolution calling on the Government of Iran to fulfill its promises of assistance in the case of Robert Levinson, the longest held United States civilian in our Nation's history.</title>
+  </titles>
+  <sponsor id="300078"/>
+  <cosponsors>
+    <cosponsor id="412491" joined="2015-03-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-10" state="REFERRED">
+      <text>Referred to the Committee on Foreign Relations.</text>
+      <reference ref="CR S1388" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="hr" number="148"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="Iran"/>
+    <term name="Middle East"/>
+  </subjects>
+  <amendments/>
+  <summary>3/10/2015--Introduced.
+Recognizes that Robert Levinson is the longest held U.S. civilian in our nation's history.
+
+ Notes the pledges by current Iranian officials to provide their government's assistance in the Robert Levinson case.
+
+ Urges Iran, as a humanitarian gesture, to intensify its cooperation in the Robert Levinson case and to share the results of its investigation into his disappearance with the U.S. government.
+
+ Urges the President and U.S. allies to continue to raise the Robert Levinson case with Iranian officials at every opportunity.
+
+ Expresses sympathy to Robert Levinson's family for their anguish and expresses hope that their ordeal can be brought to an end in the near future.</summary>
+</bill>

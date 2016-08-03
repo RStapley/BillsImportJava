@@ -1,0 +1,64 @@
+<bill session="114" type="hr" number="194" updated="2015-07-23T04:47:36-04:00">
+  <state datetime="2015-04-13">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-13"/>
+  </status>
+  <introduced datetime="2015-04-13"/>
+  <titles>
+    <title type="official" as="introduced">Expressing the sense of the House of Representatives that the President and the Secretary of State should ensure that the Canadian Government does not permanently store nuclear waste in the Great Lakes Basin.</title>
+  </titles>
+  <sponsor id="412546"/>
+  <cosponsors>
+    <cosponsor id="412436" joined="2015-04-22"/>
+    <cosponsor id="412635" joined="2015-04-16"/>
+    <cosponsor id="400080" joined="2015-04-13"/>
+    <cosponsor id="412637" joined="2015-04-13"/>
+    <cosponsor id="412420" joined="2015-04-13"/>
+    <cosponsor id="412533" joined="2015-04-13"/>
+    <cosponsor id="412488" joined="2015-04-13"/>
+    <cosponsor id="412327" joined="2015-04-13"/>
+    <cosponsor id="412453" joined="2015-04-29"/>
+    <cosponsor id="400641" joined="2015-04-13"/>
+    <cosponsor id="412566" joined="2015-04-13"/>
+    <cosponsor id="400211" joined="2015-04-13"/>
+    <cosponsor id="412638" joined="2015-04-13"/>
+    <cosponsor id="400238" joined="2015-04-13"/>
+    <cosponsor id="400276" joined="2015-04-13"/>
+    <cosponsor id="412634" joined="2015-04-16"/>
+    <cosponsor id="408211" joined="2015-05-19"/>
+    <cosponsor id="412462" joined="2015-04-22"/>
+    <cosponsor id="400360" joined="2015-04-13"/>
+    <cosponsor id="400378" joined="2015-04-13"/>
+    <cosponsor id="412636" joined="2015-04-22"/>
+    <cosponsor id="412538" joined="2015-07-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-13" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2015-05-20">
+      <text>Referred to the Subcommittee on the Western Hemisphere.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSFA07" subcommittee="Western Hemisphere" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="sr" number="134"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Canada"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="Great Lakes"/>
+    <term name="Radioactive wastes and releases"/>
+    <term name="Water quality"/>
+    <term name="Watersheds"/>
+  </subjects>
+  <amendments/>
+  <summary>4/13/2015--Introduced.
+Declares the sense of the House of Representatives that:
+
+ the Canadian government should not allow a permanent nuclear waste repository to be built within the Great Lakes Basin, the President and the Secretary of State should take appropriate action to work with the Canadian government to prevent a permanent nuclear waste repository from being built there, and the President and the Secretary should work together with their Canadian government counterparts on a safe and responsible solution for the long-term storage of nuclear waste.</summary>
+</bill>

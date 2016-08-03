@@ -1,0 +1,72 @@
+<bill session="114" type="h" number="2661" updated="2015-08-22T06:41:33-04:00">
+  <state datetime="2015-06-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-04"/>
+  </status>
+  <introduced datetime="2015-06-04"/>
+  <titles>
+    <title type="short" as="introduced">National Discovery Trails Act of 2015</title>
+    <title type="official" as="introduced">To amend the National Trails System Act to include national discovery trails, and to designate the American Discovery Trail, and for other purposes.</title>
+  </titles>
+  <sponsor id="400640"/>
+  <cosponsors>
+    <cosponsor id="400033" joined="2015-07-23"/>
+    <cosponsor id="412537" joined="2015-07-23"/>
+    <cosponsor id="412272" joined="2015-07-23"/>
+    <cosponsor id="412544" joined="2015-07-28"/>
+    <cosponsor id="412511" joined="2015-06-04"/>
+    <cosponsor id="412209" joined="2015-07-23"/>
+    <cosponsor id="400295" joined="2015-07-23"/>
+    <cosponsor id="412308" joined="2015-07-23"/>
+    <cosponsor id="412212" joined="2015-07-23"/>
+    <cosponsor id="400415" joined="2015-07-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-04" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2015-06-16">
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="Federal Lands" name="House Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="California"/>
+    <term name="Colorado"/>
+    <term name="Delaware"/>
+    <term name="District of Columbia"/>
+    <term name="Illinois"/>
+    <term name="Indiana"/>
+    <term name="Iowa"/>
+    <term name="Kansas"/>
+    <term name="Kentucky"/>
+    <term name="Land use and conservation"/>
+    <term name="Maryland"/>
+    <term name="Missouri"/>
+    <term name="Nebraska"/>
+    <term name="Nevada"/>
+    <term name="Ohio"/>
+    <term name="Parks, recreation areas, trails"/>
+    <term name="Social work, volunteer service, charitable organizations"/>
+    <term name="Utah"/>
+    <term name="West Virginia"/>
+  </subjects>
+  <amendments/>
+  <summary>6/4/2015--Introduced.
+National Discovery Trails Act of 2015
+
+ Amends the National Trails System Act to establish as part of the national trails system national discovery trails, which shall be extended, continuous interstate trails located to provide for outdoor recreation and travel and to connect representative examples of America's trails and communities.
+
+Authorizes the designation of such trails on federal lands and, with the owner's consent, on non-federal lands.
+
+ Designates as a national discovery trail the 6,000-mile American Discovery Trail extending from Cape Henlopen State Park in Delaware to Point Reyes National Seashore in California, splitting into northern and southern routes at Cincinnati, Ohio, and rejoining at Denver, Colorado.
+
+Sets forth requirements for designation of a trail as a national discovery trail.
+
+Requires the appropriate Department for each national discovery trail to: (1) administer the trail in cooperation with a competent trailwide volunteer-based organization; and (2) submit a comprehensive plan for the trail's protection, management, development, and use.</summary>
+</bill>

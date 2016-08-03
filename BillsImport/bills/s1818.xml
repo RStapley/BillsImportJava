@@ -1,0 +1,28 @@
+<bill session="114" type="s" number="1818" updated="2015-08-01T07:07:26-04:00">
+  <state datetime="2015-07-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-21"/>
+  </status>
+  <introduced datetime="2015-07-21"/>
+  <titles>
+    <title type="short" as="introduced">Principled Rulemaking Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend title 5, United States Code, to reform the rule making process of agencies.</title>
+  </titles>
+  <sponsor id="412464"/>
+  <cosponsors>
+    <cosponsor id="412554" joined="2015-07-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+  </subjects>
+  <amendments/>
+</bill>

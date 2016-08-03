@@ -1,0 +1,65 @@
+<bill session="114" type="h" number="1096" updated="2015-07-30T04:48:22-04:00">
+  <state datetime="2015-02-26">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-26"/>
+  </status>
+  <introduced datetime="2015-02-26"/>
+  <titles>
+    <title type="short" as="introduced">Real Choice for Veterans Act</title>
+    <title type="official" as="introduced">To amend the Veterans Access, Choice, and Accountability Act of 2014 to clarify the distance requirements regarding the eligibility of certain veterans to receive medical care and services from non-Department of Veterans Affairs facilities.</title>
+  </titles>
+  <sponsor id="412601"/>
+  <cosponsors>
+    <cosponsor id="400004" joined="2015-02-26"/>
+    <cosponsor id="412655" joined="2015-04-21"/>
+    <cosponsor id="412541" joined="2015-04-13"/>
+    <cosponsor id="400030" joined="2015-04-13"/>
+    <cosponsor id="412407" joined="2015-05-13"/>
+    <cosponsor id="412571" joined="2015-04-23"/>
+    <cosponsor id="412271" joined="2015-03-19"/>
+    <cosponsor id="412658" joined="2015-04-13"/>
+    <cosponsor id="400618" joined="2015-04-28"/>
+    <cosponsor id="400086" joined="2015-04-21"/>
+    <cosponsor id="412536" joined="2015-03-19"/>
+    <cosponsor id="412544" joined="2015-04-13"/>
+    <cosponsor id="412661" joined="2015-04-21"/>
+    <cosponsor id="412454" joined="2015-06-04"/>
+    <cosponsor id="400175" joined="2015-04-21"/>
+    <cosponsor id="412435" joined="2015-04-13"/>
+    <cosponsor id="412465" joined="2015-04-13"/>
+    <cosponsor id="412292" joined="2015-05-01"/>
+    <cosponsor id="412295" joined="2015-03-19"/>
+    <cosponsor id="412302" joined="2015-05-01"/>
+    <cosponsor id="412489" joined="2015-07-29"/>
+    <cosponsor id="412394" joined="2015-02-26"/>
+    <cosponsor id="400341" joined="2015-02-26"/>
+    <cosponsor id="400381" joined="2015-03-25"/>
+    <cosponsor id="412581" joined="2015-04-13"/>
+    <cosponsor id="412548" joined="2015-04-13"/>
+    <cosponsor id="412610" joined="2015-04-28"/>
+    <cosponsor id="412255" joined="2015-05-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-26" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2015-03-13">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Health care coverage and access"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>2/26/2015--Introduced.
+Real Choice for Veterans Act
+
+Amends the Veterans Access, Choice, and Accountability Act of 2014 to change a criterion for eligibility of certain veterans to receive medical care and services from non-Department of Veterans Affairs (VA) facilities to a requirement that the veteran resides more than 40 miles from the closest VA medical facility that is able to provide the care and services the veteran seeks (currently, more than 40 miles from the closest VA medical facility).</summary>
+</bill>

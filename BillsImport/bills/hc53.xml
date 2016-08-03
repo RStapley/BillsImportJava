@@ -1,0 +1,71 @@
+<bill session="114" type="hc" number="53" updated="2015-08-15T06:49:08-04:00">
+  <state datetime="2015-05-26">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-26"/>
+  </status>
+  <introduced datetime="2015-05-26"/>
+  <titles>
+    <title type="official" as="introduced">Honoring American veterans disabled for life.</title>
+  </titles>
+  <sponsor id="412529"/>
+  <cosponsors>
+    <cosponsor id="400041" joined="2015-05-26"/>
+    <cosponsor id="412652" joined="2015-05-26"/>
+    <cosponsor id="400048" joined="2015-05-26"/>
+    <cosponsor id="412571" joined="2015-05-26"/>
+    <cosponsor id="412470" joined="2015-05-26"/>
+    <cosponsor id="412236" joined="2015-06-15"/>
+    <cosponsor id="400080" joined="2015-05-26"/>
+    <cosponsor id="412651" joined="2015-05-26"/>
+    <cosponsor id="412621" joined="2015-05-26"/>
+    <cosponsor id="412385" joined="2015-05-26"/>
+    <cosponsor id="412524" joined="2015-05-26"/>
+    <cosponsor id="400162" joined="2015-06-17"/>
+    <cosponsor id="400170" joined="2015-05-26"/>
+    <cosponsor id="400195" joined="2015-05-26"/>
+    <cosponsor id="412460" joined="2015-05-26"/>
+    <cosponsor id="412603" joined="2015-05-26"/>
+    <cosponsor id="400209" joined="2015-05-26"/>
+    <cosponsor id="412583" joined="2015-05-26"/>
+    <cosponsor id="400219" joined="2015-05-26"/>
+    <cosponsor id="412614" joined="2015-06-04"/>
+    <cosponsor id="400230" joined="2015-05-26"/>
+    <cosponsor id="412638" joined="2015-05-26"/>
+    <cosponsor id="400240" joined="2015-05-26"/>
+    <cosponsor id="412209" joined="2015-05-26"/>
+    <cosponsor id="412521" joined="2015-06-15"/>
+    <cosponsor id="400246" joined="2015-07-07"/>
+    <cosponsor id="400263" joined="2015-05-26"/>
+    <cosponsor id="412611" joined="2015-05-26"/>
+    <cosponsor id="400271" joined="2015-05-26"/>
+    <cosponsor id="400279" joined="2015-05-26"/>
+    <cosponsor id="412527" joined="2015-05-26"/>
+    <cosponsor id="400333" joined="2015-05-26"/>
+    <cosponsor id="400344" joined="2015-05-26"/>
+    <cosponsor id="412312" joined="2015-05-26"/>
+    <cosponsor id="400366" joined="2015-05-26"/>
+    <cosponsor id="409888" joined="2015-05-26"/>
+    <cosponsor id="412520" joined="2015-05-26"/>
+    <cosponsor id="412525" joined="2015-05-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-26" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="hc" number="52"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Congressional tributes"/>
+    <term name="Disability and paralysis"/>
+    <term name="Veterans' organizations and recognition"/>
+  </subjects>
+  <amendments/>
+  <summary>5/26/2015--Introduced.
+Honors American veterans disabled for life. Expresses appreciation to the men and women left permanently wounded, ill, or injured as a result of service in the Armed Forces.</summary>
+</bill>

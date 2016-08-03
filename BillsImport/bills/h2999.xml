@@ -1,0 +1,50 @@
+<bill session="114" type="h" number="2999" updated="2015-08-01T04:51:10-04:00">
+  <state datetime="2015-07-09">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-09"/>
+  </status>
+  <introduced datetime="2015-07-09"/>
+  <titles>
+    <title type="short" as="introduced">Fair VA Accountability Act</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to improve the authority of the Secretary of Veterans Affairs to suspend and remove employees of the Department of Veterans Affairs for performance or misconduct that is a threat to public health or safety.</title>
+  </titles>
+  <sponsor id="412520"/>
+  <cosponsors>
+    <cosponsor id="412652" joined="2015-07-28"/>
+    <cosponsor id="400048" joined="2015-07-14"/>
+    <cosponsor id="412516" joined="2015-07-14"/>
+    <cosponsor id="400618" joined="2015-07-28"/>
+    <cosponsor id="412524" joined="2015-07-29"/>
+    <cosponsor id="412257" joined="2015-07-29"/>
+    <cosponsor id="400185" joined="2015-07-21"/>
+    <cosponsor id="412583" joined="2015-07-31"/>
+    <cosponsor id="412286" joined="2015-07-15"/>
+    <cosponsor id="412557" joined="2015-07-14"/>
+    <cosponsor id="400259" joined="2015-07-21"/>
+    <cosponsor id="412189" joined="2015-07-15"/>
+    <cosponsor id="412647" joined="2015-07-23"/>
+    <cosponsor id="412318" joined="2015-07-14"/>
+    <cosponsor id="412214" joined="2015-07-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-09" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2015-07-10">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1035"/>
+    </action>
+    <action datetime="2015-07-17">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR10" subcommittee="Economic Opportunity" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+</bill>

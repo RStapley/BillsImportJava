@@ -1,0 +1,126 @@
+<bill session="114" type="s" number="993" updated="2015-08-06T04:48:34-04:00">
+  <state datetime="2015-04-30">REPORTED</state>
+  <status>
+    <unknown datetime="2015-04-30"/>
+  </status>
+  <introduced datetime="2015-04-16"/>
+  <titles>
+    <title type="short" as="introduced">Comprehensive Justice and Mental Health Act of 2015</title>
+    <title type="short" as="reported to senate">Comprehensive Justice and Mental Health Act of 2015</title>
+    <title type="official" as="introduced">A bill to increase public safety by facilitating collaboration among the criminal justice, juvenile justice, veterans treatment services, mental health treatment, and substance abuse systems.</title>
+  </titles>
+  <sponsor id="412378"/>
+  <cosponsors>
+    <cosponsor id="412493" joined="2015-04-16"/>
+    <cosponsor id="412490" joined="2015-04-16"/>
+    <cosponsor id="400034" joined="2015-04-16"/>
+    <cosponsor id="412598" joined="2015-04-16"/>
+    <cosponsor id="300011" joined="2015-04-16"/>
+    <cosponsor id="400050" joined="2015-04-16"/>
+    <cosponsor id="300025" joined="2015-07-23"/>
+    <cosponsor id="412390" joined="2015-04-16"/>
+    <cosponsor id="300027" joined="2015-04-16"/>
+    <cosponsor id="300038" joined="2015-04-16"/>
+    <cosponsor id="300043" joined="2015-04-28"/>
+    <cosponsor id="412406" joined="2015-06-08"/>
+    <cosponsor id="300047" joined="2015-04-28"/>
+    <cosponsor id="300048" joined="2015-04-21"/>
+    <cosponsor id="300052" joined="2015-04-29"/>
+    <cosponsor id="412281" joined="2015-07-27"/>
+    <cosponsor id="412218" joined="2015-04-27"/>
+    <cosponsor id="412242" joined="2015-04-16"/>
+    <cosponsor id="300065" joined="2015-04-16"/>
+    <cosponsor id="412305" joined="2015-08-05"/>
+    <cosponsor id="400325" joined="2015-04-16"/>
+    <cosponsor id="300083" joined="2015-05-14"/>
+    <cosponsor id="400357" joined="2015-08-03"/>
+    <cosponsor id="300087" joined="2015-04-23"/>
+    <cosponsor id="412323" joined="2015-06-16"/>
+    <cosponsor id="400413" joined="2015-05-04"/>
+    <cosponsor id="412542" joined="2015-04-16"/>
+    <cosponsor id="412247" joined="2015-04-16"/>
+    <cosponsor id="300100" joined="2015-07-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-16">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S2251-2252"/>
+    </action>
+    <action datetime="2015-04-16" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-04-21">
+      <text>Committee on the Judiciary. Hearings held.</text>
+    </action>
+    <calendar datetime="2015-04-30" state="REPORTED">
+      <text>Committee on the Judiciary. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="2015-04-30">
+      <text>Committee on the Judiciary. Reported by Senator Grassley without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="2015-04-30" calendar="Senate Legislative" under="General Orders" number="62">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 62.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Hearings, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="731"/>
+    <bill relation="identical" session="114" type="h" number="1854"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Accounting and auditing"/>
+    <term name="Congressional oversight"/>
+    <term name="Correctional facilities and imprisonment"/>
+    <term name="Crime prevention"/>
+    <term name="Crime victims"/>
+    <term name="Drug, alcohol, tobacco use"/>
+    <term name="Employment and training programs"/>
+    <term name="First responders and emergency personnel"/>
+    <term name="Government studies and investigations"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Law enforcement administration and funding"/>
+    <term name="Law enforcement officers"/>
+    <term name="Medical tests and diagnostic methods"/>
+    <term name="Mental health"/>
+    <term name="Performance measurement"/>
+    <term name="Specialized courts"/>
+    <term name="Tax-exempt organizations"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+    <term name="Veterans' loans, housing, homeless programs"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>4/30/2015--Reported to Senate without amendment.
+(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)
+
+Comprehensive Justice and Mental Health Act of 2015
+
+ (Sec. 4) This bill amends the Omnibus Crime Control and Safe Streets Act of 1968 to authorize the Attorney General to make grants to an eligible entity for sequential intercept mapping and implementation for:
+
+ mental health and criminal justice stakeholders to develop a shared understanding of the flow of individuals with mental illnesses through the criminal justice system, and identify opportunities for improved responses, including emergency and crisis services, specialized police-based responses, and community and post-prison supervision; and hiring and training personnel, identifying target populations, and providing services to reduce recidivism. (Sec. 5) The Attorney General is authorized to award grants for:
+
+ veterans treatment court programs involving collaboration among criminal justice, veterans, and mental health and substance abuse agencies; peer to peer services or programs for qualified veterans; practices that identify and provide treatment, rehabilitation, legal, and transitional services to such veterans who have been incarcerated; and training programs to teach criminal justice, law enforcement, corrections, mental health, and substance abuse personnel how to identify and respond to incidents involving such veterans. The Attorney General shall give priority to applications that:
+
+ demonstrate collaboration between and joint investments by criminal justice, mental health, substance abuse, and veterans service agencies; promote effective strategies to reduce the risk of harm to qualified veterans and public safety; and propose interventions with empirical support to improve outcomes for qualified veterans. (Sec. 6) The Attorney General is authorized to award grants to enhance correctional facility capabilities to:
+
+ identify and screen for mentally ill inmates; provide the clinical, medical, and social needs of inmates and appropriate mental health and substance abuse treatment; develop post-release transition plans and alternatives to solitary confinement and segregated housing; and train correctional facility employees to respond to incidents involving inmates with mental health and/or substance abuse disorders. (Sec. 7) Adult and juvenile criminal/mental health collaboration program grants may be used to:
+
+ establish multidisciplinary teams that coordinate and implement community-based crisis responses for frequent users of crisis services; train public service personnel in responding to the unique issues involving frequent users of crisis services; develop or support alternatives to hospital and jail admissions for frequent users of crisis services; and develop protocols and systems among law enforcement, mental health, substance abuse, housing, corrections, and emergency medical service operations to provide coordinated assistance to frequent users of crisis services. (Sec. 8) Training grants to improve law enforcement response to mentally ill offenders shall now be available to support academy curricula, law enforcement orientation programs, continuing education training, and other programs that teach law enforcement personnel how to respond to incidents involving persons with mental health or substance abuse disorders.
+
+(Sec. 9) The Attorney General shall provide direction for: (1) programs that offer specialized training to federal first responders and tactical units to identify and respond to incidents involving individuals who have a mental illness; and (2) the establishment or improvement of computerized information systems to improve federal law enforcement response to situations involving individuals who have a mental illness.
+
+(Sec. 10) The Government Accountability Office shall report to Congress regarding:
+
+ practices that federal first responders, tactical units, and corrections officers are trained to use in responding to individuals with mental illness; procedures to identify and respond to incidents in which the unique needs of individuals who have a mental illness are involved; the application of evidence-based practices in criminal justice settings to better address individuals with mental illnesses; and improvement of Department of Justice information sharing and dissemination of best practices. (Sec. 11) Collaboration program grant priorities are expanded to include applications that: (1) propose interventions that have been shown by empirical evidence to reduce recidivism; and (2) use validated assessment tools to target preliminarily qualified offenders with a moderate or high risk of recidivism and a need for treatment and services.
+
+ (Sec. 12) The definition of "preliminarily qualified offender" is revised for purposes of collaboration program grants to:
+
+ include, in the case of a veterans treatment court program, an adult or juvenile accused of an offense who has been diagnosed with, or manifests signs of, mental illness or a substance abuse disorder; remove a requirement that the person be accused of a nonviolent offense; require a person to be unanimously approved for participation, and to have been determined to not pose a risk of violence to program participants or the public; and disqualify a person who has been charged with or convicted of a sex offense or murder or assault with intent to murder. (Sec. 13) Adult and juvenile collaboration program-related grants are subjected to specified accountability provisions.
+
+(Sec. 14) Appropriations are authorized through FY2020.
+
+Not more than 20% of such funds may be used for the veterans treatment court program.</summary>
+</bill>

@@ -1,0 +1,59 @@
+<bill session="114" type="s" number="819" updated="2015-06-05T04:48:30-04:00">
+  <state datetime="2015-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-19"/>
+  </status>
+  <introduced datetime="2015-03-19"/>
+  <titles>
+    <title type="short" as="introduced">Export-Import Bank Reform and Reauthorization Act of 2015</title>
+    <title type="official" as="introduced">A bill to reauthorize and reform the Export-Import Bank of the United States, and for other purposes.</title>
+  </titles>
+  <sponsor id="400222"/>
+  <cosponsors>
+    <cosponsor id="412493" joined="2015-03-19"/>
+    <cosponsor id="400034" joined="2015-03-19"/>
+    <cosponsor id="412205" joined="2015-03-19"/>
+    <cosponsor id="300047" joined="2015-03-19"/>
+    <cosponsor id="412554" joined="2015-03-19"/>
+    <cosponsor id="412391" joined="2015-03-19"/>
+    <cosponsor id="412321" joined="2015-03-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-19" state="REFERRED">
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+    <action datetime="2015-06-02">
+      <text>Committee on Banking, Housing, and Urban Affairs. Hearings held.</text>
+    </action>
+    <action datetime="2015-06-04">
+      <text>Committee on Banking, Housing, and Urban Affairs. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Accounting and auditing"/>
+    <term name="Advisory bodies"/>
+    <term name="Africa"/>
+    <term name="Competitiveness, trade promotion, trade deficits"/>
+    <term name="Computers and information technology"/>
+    <term name="Congressional oversight"/>
+    <term name="Environmental assessment, monitoring, research"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Export-Import Bank of the United States"/>
+    <term name="Federal officials"/>
+    <term name="Fraud offenses and financial crimes"/>
+    <term name="Government corporations and government-sponsored enterprises"/>
+    <term name="Government ethics and transparency, public corruption"/>
+    <term name="Government information and archives"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Government studies and investigations"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Small business"/>
+    <term name="Trade agreements and negotiations"/>
+  </subjects>
+  <amendments/>
+</bill>

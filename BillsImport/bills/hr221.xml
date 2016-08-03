@@ -1,0 +1,77 @@
+<bill session="114" type="hr" number="221" updated="2015-08-22T06:17:33-04:00">
+  <state datetime="2015-04-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-23"/>
+  </status>
+  <introduced datetime="2015-04-23"/>
+  <titles>
+    <title type="official" as="introduced">Expressing support for designation of April 2015 as "National Stress Awareness Month".</title>
+  </titles>
+  <sponsor id="412517"/>
+  <cosponsors>
+    <cosponsor id="412615" joined="2015-04-23"/>
+    <cosponsor id="412404" joined="2015-04-23"/>
+    <cosponsor id="400021" joined="2015-04-23"/>
+    <cosponsor id="412512" joined="2015-04-23"/>
+    <cosponsor id="400062" joined="2015-04-23"/>
+    <cosponsor id="412195" joined="2015-04-23"/>
+    <cosponsor id="412221" joined="2015-04-23"/>
+    <cosponsor id="400657" joined="2015-04-23"/>
+    <cosponsor id="412505" joined="2015-04-23"/>
+    <cosponsor id="412385" joined="2015-04-23"/>
+    <cosponsor id="400129" joined="2015-04-23"/>
+    <cosponsor id="412532" joined="2015-04-23"/>
+    <cosponsor id="400163" joined="2015-04-23"/>
+    <cosponsor id="400170" joined="2015-04-23"/>
+    <cosponsor id="400185" joined="2015-04-23"/>
+    <cosponsor id="412543" joined="2015-04-23"/>
+    <cosponsor id="412557" joined="2015-04-23"/>
+    <cosponsor id="400237" joined="2015-04-23"/>
+    <cosponsor id="400240" joined="2015-04-23"/>
+    <cosponsor id="412616" joined="2015-04-23"/>
+    <cosponsor id="412209" joined="2015-04-23"/>
+    <cosponsor id="400245" joined="2015-04-23"/>
+    <cosponsor id="412521" joined="2015-04-23"/>
+    <cosponsor id="412558" joined="2015-04-23"/>
+    <cosponsor id="412562" joined="2015-04-23"/>
+    <cosponsor id="400663" joined="2015-04-23"/>
+    <cosponsor id="412527" joined="2015-04-23"/>
+    <cosponsor id="400290" joined="2015-04-23"/>
+    <cosponsor id="412506" joined="2015-04-23"/>
+    <cosponsor id="412523" joined="2015-04-23"/>
+    <cosponsor id="400333" joined="2015-04-23"/>
+    <cosponsor id="412519" joined="2015-04-23"/>
+    <cosponsor id="400352" joined="2015-04-23"/>
+    <cosponsor id="400360" joined="2015-04-23"/>
+    <cosponsor id="412514" joined="2015-04-23"/>
+    <cosponsor id="412617" joined="2015-04-23"/>
+    <cosponsor id="412522" joined="2015-04-23"/>
+    <cosponsor id="412579" joined="2015-04-23"/>
+    <cosponsor id="412580" joined="2015-04-23"/>
+    <cosponsor id="412214" joined="2015-04-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-23" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-04-24">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="Mental health"/>
+  </subjects>
+  <amendments/>
+  <summary>4/23/2015--Introduced.
+Expresses support for the designation of National Stress Awareness Month.
+
+Recognizes the efforts made by the Department of Health and Human Services to educate people about the causes, symptoms, and treatment of stress.</summary>
+</bill>

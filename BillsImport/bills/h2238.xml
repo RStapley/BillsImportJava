@@ -1,0 +1,43 @@
+<bill session="114" type="h" number="2238" updated="2015-07-11T06:37:27-04:00">
+  <state datetime="2015-05-05">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-05"/>
+  </status>
+  <introduced datetime="2015-05-05"/>
+  <titles>
+    <title type="short" as="introduced">Craft Beverage Bond Simplification Act of 2015</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to remove bond requirements and extend filing periods for certain taxpayers with limited excise tax liability.</title>
+  </titles>
+  <sponsor id="412465"/>
+  <cosponsors>
+    <cosponsor id="400033" joined="2015-05-05"/>
+    <cosponsor id="400100" joined="2015-05-05"/>
+    <cosponsor id="412454" joined="2015-06-10"/>
+    <cosponsor id="400262" joined="2015-05-05"/>
+    <cosponsor id="412466" joined="2015-05-05"/>
+    <cosponsor id="412303" joined="2015-05-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-05" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="904"/>
+    <bill relation="unknown" session="114" type="s" number="1562"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Alcoholic beverages"/>
+    <term name="Sales and excise taxes"/>
+    <term name="Tax administration and collection, taxpayers"/>
+  </subjects>
+  <amendments/>
+  <summary>5/5/2015--Introduced.
+Craft Beverage Bond Simplification Act of 2015 
+
+This bill allows taxpayers who are liable for not more than $50,000 per year in excise taxes on distilled spirits, wine, or beer to file and pay such taxes quarterly without the requirement to post a bond covering the operations and withdrawals of such distilled spirits, wines, or beer. The bill also allows such a taxpayer who reasonably expects to have a tax liability of not more than $1,000 per year and who was liable for not more than $1,000 in taxes in the preceding calendar year to file and pay such taxes annually rather than quarterly.</summary>
+</bill>

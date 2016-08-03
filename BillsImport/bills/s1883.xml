@@ -1,0 +1,39 @@
+<bill session="114" type="s" number="1883" updated="2015-08-08T07:07:30-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">Childhood Cancer STAR Act</title>
+    <title type="short" as="introduced">Childhood Cancer Survivorship, Treatment, Access, and Research Act of 2015</title>
+    <title type="official" as="introduced">A bill to maximize discovery, and accelerate development and availability, of promising childhood cancer treatments, and for other purposes.</title>
+  </titles>
+  <sponsor id="300081"/>
+  <cosponsors>
+    <cosponsor id="412493" joined="2015-08-05"/>
+    <cosponsor id="400050" joined="2015-08-03"/>
+    <cosponsor id="400061" joined="2015-07-29"/>
+    <cosponsor id="412205" joined="2015-07-30"/>
+    <cosponsor id="412223" joined="2015-08-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-29">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S6138"/>
+    </action>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="3381"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+</bill>

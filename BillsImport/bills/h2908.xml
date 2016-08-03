@@ -1,0 +1,37 @@
+<bill session="114" type="h" number="2908" updated="2015-07-11T04:47:31-04:00">
+  <state datetime="2015-06-25">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-25"/>
+  </status>
+  <introduced datetime="2015-06-25"/>
+  <titles>
+    <title type="short" as="introduced">National Bison Legacy Act</title>
+    <title type="official" as="introduced">To adopt the bison as the national mammal of the United States.</title>
+  </titles>
+  <sponsor id="400074"/>
+  <cosponsors>
+    <cosponsor id="412221" joined="2015-06-25"/>
+    <cosponsor id="400639" joined="2015-06-25"/>
+    <cosponsor id="412555" joined="2015-06-25"/>
+    <cosponsor id="400640" joined="2015-06-25"/>
+    <cosponsor id="412454" joined="2015-06-25"/>
+    <cosponsor id="400224" joined="2015-07-10"/>
+    <cosponsor id="400630" joined="2015-07-10"/>
+    <cosponsor id="412475" joined="2015-06-25"/>
+    <cosponsor id="412192" joined="2015-06-25"/>
+    <cosponsor id="400366" joined="2015-06-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-25" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Animals"/>
+  </subjects>
+  <amendments/>
+</bill>

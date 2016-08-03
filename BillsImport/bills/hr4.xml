@@ -1,0 +1,39 @@
+<bill session="114" type="hr" number="4" updated="2015-02-07T06:15:19-05:00">
+  <state datetime="2015-01-06T14:35:00-05:00">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2015-01-06T14:35:00-05:00"/>
+  </status>
+  <introduced datetime="2015-01-06"/>
+  <titles>
+    <title type="official" as="introduced">Authorizing the Clerk to inform the President of the election of the Speaker and the Clerk.</title>
+  </titles>
+  <sponsor id="400240"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-01-06T14:35:00-05:00">
+      <text>Considered as privileged matter.</text>
+      <reference ref="CR H7" label="consideration"/>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2015-01-06T14:35:00-05:00" where="h" result="pass" state="PASSED:SIMPLERES">
+      <text>On agreeing to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H7" label="text"/>
+    </vote>
+    <action datetime="2015-01-06T14:36:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional leadership"/>
+    <term name="Congressional officers and employees"/>
+    <term name="Congressional-executive branch relations"/>
+    <term name="House of Representatives"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/2015--Passed House without amendment.
+(This measure has not been amended since it was introduced. The summary of that version is repeated here.)
+
+Instructs the Clerk of the House of Representatives to inform the President that John A. Boehner has been elected Speaker of the House and that Karen L. Haas has been elected Clerk.</summary>
+</bill>

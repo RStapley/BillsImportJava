@@ -1,0 +1,45 @@
+<bill session="114" type="h" number="3114" updated="2015-08-22T06:45:21-04:00">
+  <state datetime="2015-07-23">REPORTED</state>
+  <status>
+    <unknown datetime="2015-07-23"/>
+  </status>
+  <introduced datetime="2015-07-20"/>
+  <titles>
+    <title type="official" as="introduced">To provide funds to the Army Corps of Engineers to hire veterans and members of the Armed Forces to assist the Corps with curation and historic preservation activities, and for other purposes.</title>
+  </titles>
+  <sponsor id="400290"/>
+  <cosponsors>
+    <cosponsor id="412536" joined="2015-07-20"/>
+    <cosponsor id="412637" joined="2015-07-29"/>
+    <cosponsor id="400185" joined="2015-07-23"/>
+    <cosponsor id="400209" joined="2015-07-27"/>
+    <cosponsor id="412286" joined="2015-07-27"/>
+    <cosponsor id="400295" joined="2015-07-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-20" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2015-07-21">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+    </action>
+    <action datetime="2015-07-23">
+      <text>Subcommittee on Water Resources and Environment Discharged.</text>
+    </action>
+    <action datetime="2015-07-23">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-07-23" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup"/>
+    <committee activity="Referral, Discharged" code="HSPW02" subcommittee="Water Resources and Environment" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+</bill>

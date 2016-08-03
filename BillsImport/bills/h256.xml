@@ -1,0 +1,37 @@
+<bill session="114" type="h" number="256" updated="2015-02-07T06:18:13-05:00">
+  <state datetime="2015-01-09">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-09"/>
+  </status>
+  <introduced datetime="2015-01-09"/>
+  <titles>
+    <title type="short" as="introduced">Creating Jobs From Innovative Small Businesses Act of 2015</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to allow a credit against income tax for equity investments in research intensive small business concerns.</title>
+  </titles>
+  <sponsor id="400185"/>
+  <cosponsors>
+    <cosponsor id="400366" joined="2015-01-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-09" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Advanced technology and technological innovations"/>
+    <term name="Financial services and investments"/>
+    <term name="Income tax credits"/>
+    <term name="Research and development"/>
+    <term name="Small business"/>
+  </subjects>
+  <amendments/>
+  <summary>1/9/2015--Introduced.
+Creating Jobs From Innovative Small Businesses Act of 2015
+
+ Amends the Internal Revenue Code to allow a general business tax credit of 20% of the amount paid to acquire an equity investment in a qualified research intensive small business concern. Defines "qualified research intensive small business concern" as a small business concern that employs an average of fewer than 500 employees during a year and devotes at least 50% of its gross expenditures to research and experimentation.</summary>
+</bill>

@@ -1,0 +1,35 @@
+<bill session="114" type="s" number="173" updated="2015-03-14T06:37:17-04:00">
+  <state datetime="2015-01-13">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-13"/>
+  </status>
+  <introduced datetime="2015-01-13"/>
+  <titles>
+    <title type="official" as="introduced">A bill to modify the definition of "antique firearm".</title>
+  </titles>
+  <sponsor id="412269"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-01-13" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="1114"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Firearms and explosives"/>
+    <term name="Government information and archives"/>
+    <term name="Historical and cultural resources"/>
+    <term name="Licensing and registrations"/>
+    <term name="Sales and excise taxes"/>
+    <term name="Trade restrictions"/>
+  </subjects>
+  <amendments/>
+  <summary>1/13/2015--Introduced.
+Modifies the definition of "antique firearm" under the federal criminal code and the Internal Revenue Code to cover any firearm manufactured in or before the calendar year that is 100 years before the year in which a determination is made as to whether the firearm is an antique firearm (currently, any firearm manufactured in or before 1898).</summary>
+</bill>

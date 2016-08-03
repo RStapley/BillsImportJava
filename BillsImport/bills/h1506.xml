@@ -1,0 +1,40 @@
+<bill session="114" type="h" number="1506" updated="2015-06-24T04:48:25-04:00">
+  <state datetime="2015-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-19"/>
+  </status>
+  <introduced datetime="2015-03-19"/>
+  <titles>
+    <title type="short" as="introduced">Small Business Access to Spectrum Act of 2015</title>
+    <title type="official" as="introduced">To direct the Federal Communications Commission to promulgate rules in an open proceeding with respect to updating its competitive bidding rules.</title>
+  </titles>
+  <sponsor id="400308"/>
+  <cosponsors>
+    <cosponsor id="400616" joined="2015-03-26"/>
+    <cosponsor id="412221" joined="2015-06-23"/>
+    <cosponsor id="412293" joined="2015-03-26"/>
+    <cosponsor id="400663" joined="2015-03-26"/>
+    <cosponsor id="400350" joined="2015-03-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-19" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-03-20">
+      <text>Referred to the Subcommittee on Communications and Technology.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF16" subcommittee="Communications and Technology" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Science, technology, communications"/>
+  </subjects>
+  <amendments/>
+  <summary>3/19/2015--Introduced.
+Small Business Access to Spectrum Act of 2015
+
+Directs the Federal Communications Commission, within 90 days after enactment of this Act, to&#160;promulgate rules in WT Docket No. 14-170 concerning&#160;updating rules governing competitive bidding for spectrum licenses.</summary>
+</bill>

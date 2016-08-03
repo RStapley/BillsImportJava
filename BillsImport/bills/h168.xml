@@ -1,0 +1,34 @@
+<bill session="114" type="h" number="168" updated="2015-07-11T06:20:02-04:00">
+  <state datetime="2015-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-06"/>
+  </status>
+  <introduced datetime="2015-01-06"/>
+  <titles>
+    <title type="official" as="introduced">To authorize an additional district judgeship for the district of Idaho.</title>
+  </titles>
+  <sponsor id="400376"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-01-06" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-02-02">
+      <text>Referred to the Subcommittee on Courts, Intellectual Property, and the Internet.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU03" subcommittee="Courts, Intellectual Property, and the Internet" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Law"/>
+    <term name="Federal district courts"/>
+    <term name="Idaho"/>
+    <term name="Judges"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/2015--Introduced.
+Requires the President to appoint, with the advice and consent of the Senate, one additional district judge for the district of Idaho.</summary>
+</bill>

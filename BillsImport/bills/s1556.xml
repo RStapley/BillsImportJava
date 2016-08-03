@@ -1,0 +1,41 @@
+<bill session="114" type="s" number="1556" updated="2015-07-11T07:00:18-04:00">
+  <state datetime="2015-06-11">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-11"/>
+  </status>
+  <introduced datetime="2015-06-11"/>
+  <titles>
+    <title type="short" as="introduced">Adjunct Faculty Loan Fairness Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend section 455(m) of the Higher Education Act of 1965 in order to allow adjunct faculty members to qualify for public service loan forgiveness.</title>
+  </titles>
+  <sponsor id="300038"/>
+  <cosponsors>
+    <cosponsor id="412378" joined="2015-06-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-11">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S4106-4107"/>
+    </action>
+    <action datetime="2015-06-11" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <reference ref="CR S4107" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Higher education"/>
+    <term name="Student aid and college costs"/>
+    <term name="Teaching, teachers, curricula"/>
+    <term name="Temporary and part-time employment"/>
+  </subjects>
+  <amendments/>
+  <summary>6/11/2015--Introduced.
+Adjunct Faculty Loan Fairness Act of 2015
+
+This bill amends title IV (Student Assistance) of the Higher Education Act of 1965 to treat part-time teachers as public service employees, for purposes of the William D. Ford Federal Direct Loan forgiveness program for public service employees, if they: (1) teach at least one course at an institution of higher education, a postsecondary vocational institution, or a Tribal College or University; and (2) do not have another full-time job. (Public service employees must make 120 monthly payments on such loans as public service employees to qualify for Direct Loan forgiveness under the program.)</summary>
+</bill>

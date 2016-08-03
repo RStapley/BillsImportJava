@@ -1,0 +1,64 @@
+<bill session="114" type="h" number="1900" updated="2015-06-18T04:47:55-04:00">
+  <state datetime="2015-04-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-21"/>
+  </status>
+  <introduced datetime="2015-04-21"/>
+  <titles>
+    <title type="short" as="introduced">National Sea Grant College Program Amendments Act of 2015</title>
+    <title type="official" as="introduced">To reauthorize and amend the National Sea Grant College Program Act, and for other purposes.</title>
+  </titles>
+  <sponsor id="412638"/>
+  <cosponsors>
+    <cosponsor id="400041" joined="2015-05-01"/>
+    <cosponsor id="400080" joined="2015-04-21"/>
+    <cosponsor id="400170" joined="2015-05-01"/>
+    <cosponsor id="412546" joined="2015-06-17"/>
+    <cosponsor id="400238" joined="2015-05-01"/>
+    <cosponsor id="400295" joined="2015-06-01"/>
+    <cosponsor id="412308" joined="2015-05-01"/>
+    <cosponsor id="412331" joined="2015-06-01"/>
+    <cosponsor id="400333" joined="2015-05-01"/>
+    <cosponsor id="400403" joined="2015-04-23"/>
+    <cosponsor id="412579" joined="2015-05-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-21" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2015-05-07">
+      <text>Referred to the Subcommittee on Water, Power and Oceans.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII13" subcommittee="Water, Power and Oceans" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="764"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Advisory bodies"/>
+    <term name="Agricultural research"/>
+    <term name="Aquaculture"/>
+    <term name="Aquatic ecology"/>
+    <term name="Congressional committees"/>
+    <term name="Congressional officers and employees"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Commerce"/>
+    <term name="Education programs funding"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Food supply, safety, and labeling"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Great Lakes"/>
+    <term name="Higher education"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Marine and inland water transportation"/>
+    <term name="Research administration and funding"/>
+    <term name="Seafood"/>
+    <term name="Social work, volunteer service, charitable organizations"/>
+    <term name="Student aid and college costs"/>
+  </subjects>
+  <amendments/>
+</bill>

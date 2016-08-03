@@ -1,0 +1,58 @@
+<bill session="114" type="s" number="1645" updated="2015-07-04T07:00:05-04:00">
+  <state datetime="2015-06-23">REPORTED</state>
+  <status>
+    <unknown datetime="2015-06-23"/>
+  </status>
+  <introduced datetime="2015-06-23"/>
+  <titles>
+    <title type="short" as="introduced">Department of the Interior, Environment, and Related Agencies Appropriations Act, 2016</title>
+    <title type="short" as="reported to senate">Department of the Interior, Environment, and Related Agencies Appropriations Act, 2016</title>
+    <title type="official" as="introduced">An original bill making appropriations for the Department of the Interior, environment, and related agencies for the fiscal year ending September 30, 2016, and for other purposes.</title>
+  </titles>
+  <sponsor id="300075"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-06-23">
+      <text>Committee on Appropriations. Original measure reported to Senate by Senator Murkowski. With written report No. 114-70.</text>
+    </action>
+    <calendar datetime="2015-06-23" state="REPORTED" calendar="Senate Legislative" under="General Orders" number="126">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 126.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSAP" name="Senate Appropriations" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="167"/>
+    <bill relation="unknown" session="114" type="h" number="2809"/>
+    <bill relation="unknown" session="114" type="h" number="2822"/>
+    <bill relation="unknown" session="114" type="s" number="235"/>
+    <bill relation="unknown" session="114" type="s" number="1586"/>
+  </relatedbills>
+  <subjects>
+    <term name="Economics and public finance"/>
+  </subjects>
+  <amendments/>
+  <summary>6/23/2015--Introduced.
+Department of the Interior, Environment, and Related Agencies Appropriations Act, 2016 
+
+Provides FY2016 appropriations for the Department of the Interior, the Environmental Protection Agency (EPA), and related agencies.
+
+Provides appropriations to Interior for:
+
+ the Bureau of Land Management, the U.S. Fish and Wildlife Service, the National Park Service, the U.S. Geological Survey, the Bureau of Ocean Energy Management, the Bureau of Safety and Environmental Enforcement, the Office of Surface Mining Reclamation and Enforcement, and the Bureau of Indian Affairs and Bureau of Indian Education. Provides appropriations to Interior for Departmental Offices, including the Office of the Secretary, Insular Affairs, the Office of the Solicitor, the Office of Inspector General, and the Office of the Special Trustee for American Indians.
+
+Provides appropriations to Interior for Department-Wide Programs, including Wildland Fire Management, the Central Hazardous Materials Fund, the Natural Resources Damage Assessment Fund, and the Working Capital Fund.
+
+Provides appropriations to the EPA.
+
+Provides appropriations to the Department of Agriculture (USDA) for the Forest Service.
+
+Provides appropriations to the Department of Health and Human Services for the Indian Health Service, the National Institutes of Health for the National Institute of Environmental Health Sciences, and the Agency for Toxic Substances and Disease Registry.
+
+Provides appropriations to:
+
+ the Executive Office of the President for the Council on Environmental Quality and the Office of Environmental Quality; the Chemical Safety and Hazard Investigation Board; the Office of Navajo and Hopi Indian Relocation; the Institute of American Indian and Alaska Native Culture and Arts Development; the Smithsonian Institution; the National Gallery of Art; the John F. Kennedy Center for the Performing Arts; the Woodrow Wilson International Center for Scholars; the National Foundation on the Arts and Humanities, including the National Endowment for the Arts and the National Endowment for the Humanities; the Commission of Fine Arts; the Advisory Council on Historic Preservation; the National Capital Planning Commission; the U.S. Holocaust Memorial Museum; and the Dwight D. Eisenhower Memorial Commission. Sets forth permissible, restricted, and prohibited uses for funds provided by this and other appropriations Acts.
+
+Amends the Balanced Budget and Emergency Deficit Control Act of 1985 to require specified adjustments to discretionary spending limits in FY2016-FY2021 to accommodate appropriations for wildfire suppression operations in the Wildland Fire Management accounts at USDA and Interior.</summary>
+</bill>

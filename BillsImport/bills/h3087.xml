@@ -1,0 +1,38 @@
+<bill session="114" type="h" number="3087" updated="2015-08-22T06:45:08-04:00">
+  <state datetime="2015-07-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-16"/>
+  </status>
+  <introduced datetime="2015-07-16"/>
+  <titles>
+    <title type="short" as="introduced">Education Stability for Foster Youth Act</title>
+    <title type="official" as="introduced">To amend the Elementary and Secondary Education Act of 1965 to assure educational stability for children in foster care, and for other purposes.</title>
+  </titles>
+  <sponsor id="400093"/>
+  <cosponsors>
+    <cosponsor id="412404" joined="2015-07-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-16" state="REFERRED">
+      <text>Referred to the Committee on Education and the Workforce, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-07-16">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+    <action datetime="2015-07-16">
+      <text>Referred to House Financial Services</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1177"/>
+    <bill relation="unknown" session="114" type="s" number="1639"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+  </subjects>
+  <amendments/>
+</bill>

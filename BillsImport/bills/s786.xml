@@ -1,0 +1,86 @@
+<bill session="114" type="s" number="786" updated="2015-07-09T04:48:20-04:00">
+  <state datetime="2015-03-18">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-18"/>
+  </status>
+  <introduced datetime="2015-03-18"/>
+  <titles>
+    <title type="short" as="introduced">Family and Medical Insurance Leave Act</title>
+    <title type="official" as="introduced">A bill to provide paid and family medical leave benefits to certain individuals, and for other purposes.</title>
+  </titles>
+  <sponsor id="412223"/>
+  <cosponsors>
+    <cosponsor id="400013" joined="2015-03-18"/>
+    <cosponsor id="412490" joined="2015-03-18"/>
+    <cosponsor id="412598" joined="2015-03-18"/>
+    <cosponsor id="400050" joined="2015-03-18"/>
+    <cosponsor id="300038" joined="2015-04-13"/>
+    <cosponsor id="412200" joined="2015-03-18"/>
+    <cosponsor id="412242" joined="2015-07-08"/>
+    <cosponsor id="400253" joined="2015-03-18"/>
+    <cosponsor id="412325" joined="2015-03-18"/>
+    <cosponsor id="300073" joined="2015-03-18"/>
+    <cosponsor id="412194" joined="2015-06-16"/>
+    <cosponsor id="300081" joined="2015-03-18"/>
+    <cosponsor id="400357" joined="2015-06-10"/>
+    <cosponsor id="412507" joined="2015-03-18"/>
+    <cosponsor id="300087" joined="2015-06-23"/>
+    <cosponsor id="400413" joined="2015-06-23"/>
+    <cosponsor id="412542" joined="2015-03-18"/>
+    <cosponsor id="412247" joined="2015-03-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-18" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="1439"/>
+  </relatedbills>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Adult day care"/>
+    <term name="Advisory bodies"/>
+    <term name="Child care and development"/>
+    <term name="Civil actions and liability"/>
+    <term name="Congressional oversight"/>
+    <term name="Disability assistance"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Employee leave"/>
+    <term name="Employment discrimination and employee rights"/>
+    <term name="Employment taxes"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Government studies and investigations"/>
+    <term name="Government trust funds"/>
+    <term name="Railroads"/>
+    <term name="Social Security Administration"/>
+    <term name="Social security and elderly assistance"/>
+    <term name="Transportation employees"/>
+    <term name="Wages and earnings"/>
+  </subjects>
+  <amendments/>
+  <summary>3/18/2015--Introduced.
+Family and Medical Insurance Leave Act
+
+Establishes the Office of Paid Family and Medical Leave within the Social Security Administration (SSA), to be headed by the Deputy SSA Commissioner.
+
+Entitles every individual to a family and medical leave insurance (FMLI) benefit payment for each month beginning on the first day of the first month in which the individual meets the criteria specified below and ending 365 days later (benefit period), not to exceed 60 qualified caregiving days per period. Qualifies for such a benefit payment any individual who:
+
+ is insured for disability insurance benefits under the Social Security Act at the time his or her application is filed; has earned income from employment during the 12 months before filing it; has filed an application for a FMLI benefit in accordance with this Act; and was engaged in qualified caregiving (any activity, except regular employment, for a reason entitled to leave under the Family and Medical Leave Act of 1993), or anticipates being so engaged, during the 90-day period before the application is filed or within 30 days after. Prescribes a formula for determination of an individual's monthly FMLI benefit payment, as well as for the maximum and the minimum monthly benefit amounts.
+
+Requires a FMLI benefit payment to be coordinated with any periodic benefits received from temporary disability insurance or family leave insurance programs under any state law or plan, local government, or an instrumentality of two or more states.
+
+Prescribes criteria that makes an individual ineligible for a FMLI benefit payment.
+
+Specifies prohibited acts by an employer, and penalties for violations.
+
+Establishes the Federal Family and Medical Leave Insurance Trust Fund in the Treasury. Requires FMLI benefit payments to be made only from this Fund.
+
+Prohibits the use of amounts from the Social Security Trust Fund or appropriated to the SSA to administer Social Security programs for FMLI benefits or administration.
+
+Amends the Internal Revenue Code to impose a tax on every individual and employer, all self-employment income, and every railroad employee, employee representative, or railroad employer to finance the Federal Family and Medical Leave Insurance Trust Fund in the Treasury for FMLI benefits.</summary>
+</bill>

@@ -1,0 +1,40 @@
+<bill session="114" type="h" number="2015" updated="2015-06-13T06:35:17-04:00">
+  <state datetime="2015-04-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-23"/>
+  </status>
+  <introduced datetime="2015-04-23"/>
+  <titles>
+    <title type="short" as="introduced">Customs Training Enhancement Act</title>
+    <title type="official" as="introduced">To establish educational seminars at United States ports of entry to improve the ability of U.S. Customs and Border Protection personnel to classify and appraise articles that are imported into the United States in accordance with the customs laws of the United States.</title>
+  </titles>
+  <sponsor id="400630"/>
+  <cosponsors>
+    <cosponsor id="412638" joined="2015-04-23"/>
+    <cosponsor id="400263" joined="2015-04-23"/>
+    <cosponsor id="400417" joined="2015-04-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-23" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1015"/>
+    <bill relation="unknown" session="114" type="s" number="1269"/>
+  </relatedbills>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Customs enforcement"/>
+    <term name="Department of Homeland Security"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+  </subjects>
+  <amendments/>
+  <summary>4/23/2015--Introduced.
+Customs Training Enhancement Act
+
+ Directs the Commissioner of the U.S. Customs and Border Protection (CBP) to establish educational seminars at U.S. ports of entry to improve the ability of CBP personnel to classify and appraise articles imported into the United States in accordance with U.S. customs laws, including their ability to identify and prevent the mislabeling and transshipment of such articles.</summary>
+</bill>

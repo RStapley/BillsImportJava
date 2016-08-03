@@ -1,0 +1,33 @@
+<bill session="114" type="h" number="1010" updated="2015-04-04T06:25:24-04:00">
+  <state datetime="2015-02-13">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-13"/>
+  </status>
+  <introduced datetime="2015-02-13"/>
+  <titles>
+    <title type="official" as="introduced">To provide for the posthumous commission as a captain in the regular Army of Milton Holland, who, while sergeant major of the 5th Regiment, United States Colored Infantry, was awarded the Medal of Honor for gallantry during the Civil War.</title>
+  </titles>
+  <sponsor id="412461"/>
+  <cosponsors>
+    <cosponsor id="400653" joined="2015-02-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-13" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Veterans' organizations and recognition"/>
+  </subjects>
+  <amendments/>
+  <summary>2/13/2015--Introduced.
+Deems Milton Holland (who, while a sergeant major of the 5th Regiment, United States Colored Infantry, was awarded the Medal of Honor for gallantry during the Civil War) to have held the grade of captain in the regular Army, effective as of September 29, 1864, and continuing until his separation from the Army.
+
+Prohibits any entitlement&#160;to bonuses, gratuity, pay, or allowances because of&#160; such posthumous commission.</summary>
+</bill>

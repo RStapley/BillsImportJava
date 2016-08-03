@@ -1,0 +1,45 @@
+<bill session="114" type="h" number="2136" updated="2015-08-15T06:37:13-04:00">
+  <state datetime="2015-04-30">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-30"/>
+  </status>
+  <introduced datetime="2015-04-30"/>
+  <titles>
+    <title type="short" as="introduced">Improving the Quality of Disability Decisions Act of 2015</title>
+    <title type="official" as="introduced">To amend titles II and XVI of the Social Security Act to provide for quality reviews of benefit decisions, and for other purposes.</title>
+  </titles>
+  <sponsor id="400206"/>
+  <cosponsors>
+    <cosponsor id="412478" joined="2015-04-30"/>
+    <cosponsor id="412465" joined="2015-04-30"/>
+    <cosponsor id="412393" joined="2015-04-30"/>
+    <cosponsor id="412428" joined="2015-04-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-30" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="1922"/>
+  </relatedbills>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Administrative remedies"/>
+    <term name="Congressional oversight"/>
+    <term name="Disability assistance"/>
+    <term name="Performance measurement"/>
+    <term name="Poverty and welfare assistance"/>
+    <term name="Social Security Administration"/>
+  </subjects>
+  <amendments/>
+  <summary>4/30/2015--Introduced.
+Improving the Quality of Disability Decisions Act of 2015
+
+This bill amends titles II (Old Age, Survivors, and Disability Insurance) (OASDI) and XVI (Supplemental Security Income) (SSI) of the Social Security Act to direct the Commissioner of Social Security to conduct pre-effectuation and post-effectuation quality reviews of hearing dispositions with respect to decisions in connection with applications for OASDI or SSI benefits, in a sufficient number to ensure compliance with laws, regulations, and other guidance.
+
+The Commissioner shall report annually Congress on: (1) the total number of cases selected for quality review, (2) the number in which a decision is remanded, and (3) the number in which a decision is modified or reversed.</summary>
+</bill>

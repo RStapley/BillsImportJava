@@ -1,0 +1,33 @@
+<bill session="114" type="s" number="1842" updated="2015-08-06T04:48:52-04:00">
+  <state datetime="2015-07-22">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-22"/>
+  </status>
+  <introduced datetime="2015-07-22"/>
+  <titles>
+    <title type="short" as="introduced">Protecting American Lives Act</title>
+    <title type="official" as="introduced">A bill to ensure State and local compliance with all Federal immigration detainers on aliens in custody and for other purposes.</title>
+  </titles>
+  <sponsor id="300088"/>
+  <cosponsors>
+    <cosponsor id="400040" joined="2015-07-27"/>
+    <cosponsor id="412508" joined="2015-07-22"/>
+    <cosponsor id="412573" joined="2015-07-22"/>
+    <cosponsor id="300055" joined="2015-07-22"/>
+    <cosponsor id="412496" joined="2015-07-22"/>
+    <cosponsor id="412666" joined="2015-07-28"/>
+    <cosponsor id="412471" joined="2015-07-28"/>
+    <cosponsor id="400432" joined="2015-08-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-22" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

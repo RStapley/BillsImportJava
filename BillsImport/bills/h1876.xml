@@ -1,0 +1,51 @@
+<bill session="114" type="h" number="1876" updated="2015-05-30T06:33:38-04:00">
+  <state datetime="2015-04-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-16"/>
+  </status>
+  <introduced datetime="2015-04-16"/>
+  <titles>
+    <title type="short" as="introduced">Real Unemployment Calculation Act</title>
+    <title type="official" as="introduced">To recognize a primary measure of national unemployment for purposes of the Federal Government.</title>
+  </titles>
+  <sponsor id="412283"/>
+  <cosponsors>
+    <cosponsor id="412625" joined="2015-04-16"/>
+    <cosponsor id="400057" joined="2015-05-19"/>
+    <cosponsor id="412563" joined="2015-04-16"/>
+    <cosponsor id="412457" joined="2015-04-28"/>
+    <cosponsor id="400145" joined="2015-04-16"/>
+    <cosponsor id="400158" joined="2015-04-16"/>
+    <cosponsor id="412278" joined="2015-04-16"/>
+    <cosponsor id="412422" joined="2015-04-16"/>
+    <cosponsor id="412484" joined="2015-04-16"/>
+    <cosponsor id="412421" joined="2015-04-16"/>
+    <cosponsor id="412445" joined="2015-04-22"/>
+    <cosponsor id="400279" joined="2015-04-16"/>
+    <cosponsor id="412474" joined="2015-04-16"/>
+    <cosponsor id="412443" joined="2015-04-16"/>
+    <cosponsor id="412426" joined="2015-04-16"/>
+    <cosponsor id="412610" joined="2015-04-16"/>
+    <cosponsor id="400433" joined="2015-04-16"/>
+    <cosponsor id="412640" joined="2015-04-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-16" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Census and government statistics"/>
+    <term name="Unemployment"/>
+  </subjects>
+  <amendments/>
+  <summary>4/16/2015--Introduced.
+Real Unemployment Calculation Act 
+
+ Treats the measure of unemployment issued by the Bureau of Labor Statistics (known as U5) as the official and primary measure of unemployment in the United States.</summary>
+</bill>

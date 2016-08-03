@@ -1,0 +1,41 @@
+<bill session="114" type="h" number="2009" updated="2015-07-09T04:47:24-04:00">
+  <state datetime="2015-04-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-23"/>
+  </status>
+  <introduced datetime="2015-04-23"/>
+  <titles>
+    <title type="short" as="introduced">Pascua Yaqui Tribe Land Conveyance Act of 2015</title>
+    <title type="official" as="introduced">To provide for the conveyance of certain land inholdings owned by the United States to the Tucson Unified School District and to the Pascua Yaqui Tribe of Arizona.</title>
+  </titles>
+  <sponsor id="400162"/>
+  <cosponsors>
+    <cosponsor id="400141" joined="2015-07-08"/>
+    <cosponsor id="412612" joined="2015-06-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-23" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2015-05-26">
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="Federal Lands" name="House Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Native Americans"/>
+    <term name="Arizona"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Federal-Indian relations"/>
+    <term name="Gambling"/>
+    <term name="Indian lands and resources rights"/>
+    <term name="Land transfers"/>
+  </subjects>
+  <amendments/>
+  <summary>4/23/2015--Introduced.
+Pascua Yaqui Tribe Land Conveyance Act of 2015 Declares that, in the event that the Tuscon Unified School District No. 1 conveys to the United States all of its interest in and to approximately 39.65 acres of land depicted as Parcel A on the map titled "PYT Land Department/2015/BLM Congressional Bill," that parcel shall be accepted by the United States and held in trust for the benefit of the Pascua Yaqui Tribe of Arizona as part of its reservation. Requires that all interest of the United States in and to approximately 13.24 acres of federal lands generally depicted on the map as Parcel B be conveyed to the District by patent without reservation of rights by the United States. Waives and gives up all U.S. reversionary interest in and to the approximately 27.50 acres of the land generally depicted on the map as Parcel C. Deems those lands to be held by the District free and clear of any U.S. claims. Prohibits gaming on the lands taken into trust pursuant to this Act. Prohibits the forfeiture or abandonment of any water rights that are appurtenant to such lands.</summary>
+</bill>

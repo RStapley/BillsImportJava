@@ -1,0 +1,36 @@
+<bill session="114" type="h" number="2672" updated="2015-06-20T06:40:51-04:00">
+  <state datetime="2015-06-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-04"/>
+  </status>
+  <introduced datetime="2015-06-04"/>
+  <titles>
+    <title type="short" as="introduced">Train Act</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to clarify the amount and duration of scholarships under the Department of Veterans Affairs Employee Incentive Scholarship Program.</title>
+  </titles>
+  <sponsor id="412632"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-06-04" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2015-06-15">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <summary>6/4/2015--Introduced.
+Train Act
+
+This bill amends the Department of Veterans Affairs (VA) employee incentive scholarship program to increase: (1) the scholarship program from one to four years, (2) the required term of a graduate's full-time VA health service to up to four years, and (3) the maximum scholarship for a full-time student to $25,000 per year.
+
+An individual who is enrolled in the program as of the day before the enactment of this Act may elect to be covered by this Act with respect to a quarter, semester, or term commencing on or after enactment.</summary>
+</bill>

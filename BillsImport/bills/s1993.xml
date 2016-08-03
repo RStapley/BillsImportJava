@@ -1,0 +1,26 @@
+<bill session="114" type="s" number="1993" updated="2015-08-18T09:46:25-04:00">
+  <state datetime="2015-08-05">REFERRED</state>
+  <status>
+    <introduced datetime="2015-08-05"/>
+  </status>
+  <introduced datetime="2015-08-05"/>
+  <titles>
+    <title type="short" as="introduced">21st Century Conservation Service Corps Act of 2015</title>
+    <title type="official" as="introduced">A bill to establish the 21st Century Conservation Service Corps to place youth and veterans in the United States in national service positions to protect, restore, and enhance the great outdoors of the United States, and for other purposes.</title>
+  </titles>
+  <sponsor id="300071"/>
+  <cosponsors>
+    <cosponsor id="412330" joined="2015-08-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-08-05" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

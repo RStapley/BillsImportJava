@@ -1,0 +1,30 @@
+<bill session="114" type="h" number="1577" updated="2015-06-20T06:31:35-04:00">
+  <state datetime="2015-03-24">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-24"/>
+  </status>
+  <introduced datetime="2015-03-24"/>
+  <titles>
+    <title type="short" as="introduced">Fannie Mae and Freddie Mac Transparency Act of 2015</title>
+    <title type="official" as="introduced">To require additional entities to be subject to the requirements of section 552 of title 5, United States Code (commonly referred to as the Freedom of Information Act), and for other purposes.</title>
+  </titles>
+  <sponsor id="412270"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-03-24" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+  </subjects>
+  <amendments/>
+  <summary>3/24/2015--Introduced.
+Fannie Mae and Freddie Mac Transparency Act of 2015
+
+ Requires either the Federal National Mortgage Association (Fannie Mae) or the Federal Home Loan Mortgage Corporation (Freddie Mac) to be considered an agency subject to the public information disclosure requirements of the Freedom of Information Act during any period in which such entity is under conservatorship or receivership.</summary>
+</bill>

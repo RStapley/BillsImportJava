@@ -1,0 +1,52 @@
+<bill session="114" type="s" number="627" updated="2015-07-24T04:49:43-04:00">
+  <state datetime="2015-07-22">REPORTED</state>
+  <status>
+    <unknown datetime="2015-07-22"/>
+  </status>
+  <introduced datetime="2015-03-03"/>
+  <titles>
+    <title type="official" as="introduced">A bill to require the Secretary of Veterans Affairs to revoke bonuses paid to employees involved in electronic wait list manipulations, and for other purposes.</title>
+  </titles>
+  <sponsor id="412493"/>
+  <cosponsors>
+    <cosponsor id="412269" joined="2015-07-16"/>
+    <cosponsor id="300030" joined="2015-03-03"/>
+    <cosponsor id="400134" joined="2015-03-03"/>
+    <cosponsor id="412242" joined="2015-03-03"/>
+    <cosponsor id="412243" joined="2015-03-03"/>
+    <cosponsor id="400284" joined="2015-03-03"/>
+    <cosponsor id="412323" joined="2015-03-03"/>
+    <cosponsor id="400546" joined="2015-03-03"/>
+    <cosponsor id="400408" joined="2015-03-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-03" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2015-05-13">
+      <text>Committee on Veterans' Affairs. Hearings held.</text>
+    </action>
+    <calendar datetime="2015-07-22" state="REPORTED">
+      <text>Committee on Veterans' Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, Hearings, Markup"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Veterans Affairs"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Government ethics and transparency, public corruption"/>
+    <term name="Government studies and investigations"/>
+    <term name="Performance measurement"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>3/3/2015--Introduced.
+Directs the Secretary of Veterans Affairs, within 180 days after the Inspector General of the Department of Veterans Affairs (VA) submits a report to Congress on investigations carried out in calendar year 2014 that identifies VA medical facilities at which scheduling practices did not comply with VA policies and procedures, to identify each VA employee who: (1) during any of FY2011-FY2014, contributed to the purposeful omission of the names of veterans from an electronic wait list for health care at such a facility or was a VA supervisor who knew or should have known that the employee contributed to such omission; and (2) received a bonus in part because of such omission.
+
+ Requires the Secretary, after notice and an opportunity for a hearing, to order such employee to repay the bonus. Authorizes the employee to appeal to the Merit Systems Protection Board.</summary>
+</bill>

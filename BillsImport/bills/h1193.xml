@@ -1,0 +1,74 @@
+<bill session="114" type="h" number="1193" updated="2015-06-20T04:47:09-04:00">
+  <state datetime="2015-03-02">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-02"/>
+  </status>
+  <introduced datetime="2015-03-02"/>
+  <titles>
+    <title type="official" as="introduced">To prohibit any reduction in the amount of the per diem allowance to which members of the uniformed services or civilian employees of the Department of Defense are entitled based on the duration of temporary duty assignments or official travel, and for other purposes.</title>
+  </titles>
+  <sponsor id="412583"/>
+  <cosponsors>
+    <cosponsor id="412469" joined="2015-04-16"/>
+    <cosponsor id="412657" joined="2015-03-02"/>
+    <cosponsor id="400029" joined="2015-03-02"/>
+    <cosponsor id="400047" joined="2015-03-02"/>
+    <cosponsor id="412516" joined="2015-03-25"/>
+    <cosponsor id="412407" joined="2015-03-04"/>
+    <cosponsor id="412571" joined="2015-03-02"/>
+    <cosponsor id="400077" joined="2015-03-02"/>
+    <cosponsor id="412272" joined="2015-03-02"/>
+    <cosponsor id="412482" joined="2015-03-25"/>
+    <cosponsor id="412532" joined="2015-03-02"/>
+    <cosponsor id="412447" joined="2015-03-04"/>
+    <cosponsor id="400641" joined="2015-03-02"/>
+    <cosponsor id="400209" joined="2015-03-02"/>
+    <cosponsor id="412557" joined="2015-03-02"/>
+    <cosponsor id="400232" joined="2015-06-19"/>
+    <cosponsor id="400244" joined="2015-03-02"/>
+    <cosponsor id="400245" joined="2015-04-16"/>
+    <cosponsor id="400263" joined="2015-03-02"/>
+    <cosponsor id="412466" joined="2015-03-02"/>
+    <cosponsor id="412606" joined="2015-03-02"/>
+    <cosponsor id="400295" joined="2015-03-02"/>
+    <cosponsor id="412523" joined="2015-03-02"/>
+    <cosponsor id="412307" joined="2015-03-02"/>
+    <cosponsor id="412585" joined="2015-03-02"/>
+    <cosponsor id="400333" joined="2015-03-02"/>
+    <cosponsor id="400364" joined="2015-03-02"/>
+    <cosponsor id="412514" joined="2015-03-25"/>
+    <cosponsor id="412626" joined="2015-03-02"/>
+    <cosponsor id="412318" joined="2015-03-02"/>
+    <cosponsor id="412319" joined="2015-03-02"/>
+    <cosponsor id="412522" joined="2015-03-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-02" state="REFERRED">
+      <text>Referred to the Committee on Armed Services, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-03-02">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2015-03-02">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Department of Defense"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Transportation costs"/>
+  </subjects>
+  <amendments/>
+  <summary>3/2/2015--Introduced.
+Prohibits uniformed service agencies or the Department of Defense (DOD) from altering the amount of the locality-based travel and transportation per diem allowances or reimbursements to which certain uniformed service members or civilian DOD employees are entitled based on the duration of temporary duty assignments or official travel in a locality.
+
+Nullifies the DOD policy implemented on November 1, 2014, regarding reductions in per diem allowances based on the duration of temporary duty assignments or civilian travel.</summary>
+</bill>

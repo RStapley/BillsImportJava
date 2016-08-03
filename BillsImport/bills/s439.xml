@@ -1,0 +1,92 @@
+<bill session="114" type="s" number="439" updated="2015-07-14T04:48:25-04:00">
+  <state datetime="2015-02-10">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-10"/>
+  </status>
+  <introduced datetime="2015-02-10"/>
+  <titles>
+    <title type="short" as="introduced">Student Non-Discrimination Act of 2015</title>
+    <title type="official" as="introduced">A bill to end discrimination based on actual or perceived sexual orientation or gender identity in public schools, and for other purposes.</title>
+  </titles>
+  <sponsor id="412378"/>
+  <cosponsors>
+    <cosponsor id="400013" joined="2015-02-10"/>
+    <cosponsor id="412330" joined="2015-02-10"/>
+    <cosponsor id="412490" joined="2015-07-09"/>
+    <cosponsor id="412598" joined="2015-02-11"/>
+    <cosponsor id="300011" joined="2015-05-19"/>
+    <cosponsor id="400050" joined="2015-02-10"/>
+    <cosponsor id="300018" joined="2015-04-16"/>
+    <cosponsor id="400064" joined="2015-06-01"/>
+    <cosponsor id="300019" joined="2015-03-03"/>
+    <cosponsor id="412246" joined="2015-05-04"/>
+    <cosponsor id="412390" joined="2015-02-10"/>
+    <cosponsor id="300038" joined="2015-02-10"/>
+    <cosponsor id="300043" joined="2015-06-23"/>
+    <cosponsor id="412223" joined="2015-02-10"/>
+    <cosponsor id="412281" joined="2015-06-09"/>
+    <cosponsor id="412554" joined="2015-04-30"/>
+    <cosponsor id="412200" joined="2015-05-19"/>
+    <cosponsor id="412582" joined="2015-04-15"/>
+    <cosponsor id="412242" joined="2015-02-10"/>
+    <cosponsor id="300065" joined="2015-02-24"/>
+    <cosponsor id="400253" joined="2015-06-03"/>
+    <cosponsor id="412243" joined="2015-07-07"/>
+    <cosponsor id="400272" joined="2015-02-11"/>
+    <cosponsor id="412325" joined="2015-06-25"/>
+    <cosponsor id="300073" joined="2015-02-10"/>
+    <cosponsor id="412194" joined="2015-04-13"/>
+    <cosponsor id="300076" joined="2015-02-10"/>
+    <cosponsor id="412305" joined="2015-02-10"/>
+    <cosponsor id="300081" joined="2015-04-21"/>
+    <cosponsor id="300082" joined="2015-07-13"/>
+    <cosponsor id="400357" joined="2015-04-13"/>
+    <cosponsor id="412507" joined="2015-02-10"/>
+    <cosponsor id="300087" joined="2015-02-10"/>
+    <cosponsor id="412323" joined="2015-02-10"/>
+    <cosponsor id="300093" joined="2015-02-12"/>
+    <cosponsor id="412244" joined="2015-03-17"/>
+    <cosponsor id="400413" joined="2015-02-10"/>
+    <cosponsor id="412542" joined="2015-02-10"/>
+    <cosponsor id="412247" joined="2015-02-10"/>
+    <cosponsor id="300100" joined="2015-02-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-10" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="846"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Assault and harassment offenses"/>
+    <term name="Civil actions and liability"/>
+    <term name="Education programs funding"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Government liability"/>
+    <term name="Legal fees and court costs"/>
+    <term name="Sex, gender, sexual orientation discrimination"/>
+  </subjects>
+  <amendments/>
+  <summary>2/10/2015--Introduced.
+Student Non-Discrimination Act of 2015
+
+Prohibits public school students from being excluded from participating in, or subject to discrimination under, any federally-assisted educational program on the basis of their actual or perceived sexual orientation or gender identity or that of their associates.
+
+Considers harassment to be a form of discrimination.
+
+Prohibits retaliation against anyone for opposing conduct made unlawful under this Act.
+
+Authorizes federal departments and agencies to enforce these prohibitions by cutting off the educational assistance of recipients found to be violating them.
+
+Allows an aggrieved individual to assert a violation of this Act in a judicial proceeding and recover reasonable attorney's fees should they prevail.
+
+Authorizes the Attorney General to institute a civil action in any appropriate U.S. district court for a violation of this Act.
+
+Deems a state's receipt of federal educational assistance for a program to constitute a waiver of sovereign immunity for conduct prohibited under this Act regarding such program.</summary>
+</bill>

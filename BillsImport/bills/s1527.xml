@@ -1,0 +1,44 @@
+<bill session="114" type="s" number="1527" updated="2015-06-13T06:57:33-04:00">
+  <state datetime="2015-06-08">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-08"/>
+  </status>
+  <introduced datetime="2015-06-08"/>
+  <titles>
+    <title type="short" as="introduced">Improving Department of State Oversight Act of 2015</title>
+    <title type="official" as="introduced">A bill to enable more responsible and efficient spending on Department of State activities and foreign operations.</title>
+  </titles>
+  <sponsor id="412666"/>
+  <cosponsors>
+    <cosponsor id="412582" joined="2015-06-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-08" state="REFERRED">
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+  </subjects>
+  <amendments/>
+  <summary>6/8/2015--Introduced.
+Improving Department of State Oversight Act of 2015
+
+This bill grants competitive status for appointment to a position in the competitive service for which the employee is qualified to any employee of the Special Inspector General for Iraq Reconstruction (SIGRI) who was not terminated for cause, and who completes at least 12 months of service at any time before the termination of the SIGRI on October 5, 2013.
+
+The Secretary of State shall certify to Congress that the Department of State has made reasonable efforts to ensure the integrity and independence of the Office of the Inspector General Information Technology systems.
+
+Each Department entity under the Foreign Service Act of 1980 shall report within five business days to the Inspector General (IG) any allegations of:
+
+ program waste, fraud, or abuse; criminal or serious misconduct on the part of a Department employee at the FS-1, GS-15, GM-15 level or higher; criminal misconduct on the part of any Department employee; and serious, noncriminal misconduct on the part of any individual who is authorized to carry a weapon, make arrests, or conduct searches (such as conduct that would constitute perjury or material dishonesty, warrant suspension as discipline for a first offense, or result in loss of law enforcement authority). The IG may investigate such matters.
+
+No Department entity with concurrent jurisdiction over such matters, including the Bureau of Diplomatic Security, may initiate an investigation without first reporting the allegations to the IG.
+
+A Department entity that initiates an investigation of such a matter must fully cooperate with the IG, unless the IG authorizes an exception.
+
+Temporary relaxation of such restrictions may occur in exigent circumstances.</summary>
+</bill>

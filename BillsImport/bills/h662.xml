@@ -1,0 +1,174 @@
+<bill session="114" type="h" number="662" updated="2015-07-30T04:48:02-04:00">
+  <state datetime="2015-02-02">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-02"/>
+  </status>
+  <introduced datetime="2015-02-02"/>
+  <titles>
+    <title type="short" as="introduced">Traditional Cigar Manufacturing and Small Business Jobs Preservation Act of 2015</title>
+    <title type="official" as="introduced">To amend the Federal Food, Drug, and Cosmetic Act to clarify the Food and Drug Administration's jurisdiction over certain tobacco products, and to protect jobs and small businesses involved in the sale, manufacturing and distribution of traditional and premium cigars.</title>
+  </titles>
+  <sponsor id="412309"/>
+  <cosponsors>
+    <cosponsor id="412500" joined="2015-03-04"/>
+    <cosponsor id="412469" joined="2015-03-16"/>
+    <cosponsor id="412541" joined="2015-03-03"/>
+    <cosponsor id="412436" joined="2015-02-13"/>
+    <cosponsor id="412250" joined="2015-02-02"/>
+    <cosponsor id="400030" joined="2015-02-24"/>
+    <cosponsor id="400032" joined="2015-02-02"/>
+    <cosponsor id="412627" joined="2015-03-03"/>
+    <cosponsor id="400041" joined="2015-03-23"/>
+    <cosponsor id="400047" joined="2015-02-02"/>
+    <cosponsor id="412605" joined="2015-07-29"/>
+    <cosponsor id="412196" joined="2015-02-02"/>
+    <cosponsor id="412601" joined="2015-02-27"/>
+    <cosponsor id="400057" joined="2015-02-02"/>
+    <cosponsor id="412517" joined="2015-02-02"/>
+    <cosponsor id="400068" joined="2015-02-26"/>
+    <cosponsor id="412195" joined="2015-02-02"/>
+    <cosponsor id="400071" joined="2015-03-23"/>
+    <cosponsor id="400074" joined="2015-02-02"/>
+    <cosponsor id="412271" joined="2015-06-02"/>
+    <cosponsor id="400077" joined="2015-02-02"/>
+    <cosponsor id="412563" joined="2015-02-02"/>
+    <cosponsor id="412531" joined="2015-03-17"/>
+    <cosponsor id="400655" joined="2015-04-21"/>
+    <cosponsor id="412513" joined="2015-06-25"/>
+    <cosponsor id="400618" joined="2015-02-02"/>
+    <cosponsor id="412193" joined="2015-04-13"/>
+    <cosponsor id="412400" joined="2015-03-17"/>
+    <cosponsor id="412621" joined="2015-02-13"/>
+    <cosponsor id="412403" joined="2015-02-05"/>
+    <cosponsor id="400648" joined="2015-02-27"/>
+    <cosponsor id="412477" joined="2015-05-18"/>
+    <cosponsor id="400108" joined="2015-02-02"/>
+    <cosponsor id="412420" joined="2015-05-20"/>
+    <cosponsor id="412472" joined="2015-02-10"/>
+    <cosponsor id="412457" joined="2015-02-24"/>
+    <cosponsor id="412639" joined="2015-05-21"/>
+    <cosponsor id="412482" joined="2015-02-24"/>
+    <cosponsor id="412479" joined="2015-06-01"/>
+    <cosponsor id="412476" joined="2015-06-11"/>
+    <cosponsor id="412480" joined="2015-03-17"/>
+    <cosponsor id="400137" joined="2015-04-22"/>
+    <cosponsor id="400643" joined="2015-02-02"/>
+    <cosponsor id="400142" joined="2015-04-15"/>
+    <cosponsor id="412463" joined="2015-05-14"/>
+    <cosponsor id="412453" joined="2015-07-09"/>
+    <cosponsor id="400154" joined="2015-04-13"/>
+    <cosponsor id="400158" joined="2015-02-02"/>
+    <cosponsor id="412388" joined="2015-03-04"/>
+    <cosponsor id="412276" joined="2015-02-02"/>
+    <cosponsor id="412485" joined="2015-02-02"/>
+    <cosponsor id="412447" joined="2015-06-03"/>
+    <cosponsor id="412278" joined="2015-02-24"/>
+    <cosponsor id="412434" joined="2015-02-02"/>
+    <cosponsor id="400170" joined="2015-02-02"/>
+    <cosponsor id="412446" joined="2015-02-27"/>
+    <cosponsor id="412553" joined="2015-02-10"/>
+    <cosponsor id="412550" joined="2015-02-13"/>
+    <cosponsor id="412437" joined="2015-03-16"/>
+    <cosponsor id="412283" joined="2015-02-02"/>
+    <cosponsor id="412654" joined="2015-04-28"/>
+    <cosponsor id="400196" joined="2015-02-10"/>
+    <cosponsor id="412603" joined="2015-02-02"/>
+    <cosponsor id="400209" joined="2015-03-16"/>
+    <cosponsor id="412226" joined="2015-04-14"/>
+    <cosponsor id="412566" joined="2015-02-26"/>
+    <cosponsor id="412649" joined="2015-03-16"/>
+    <cosponsor id="412465" joined="2015-02-02"/>
+    <cosponsor id="400219" joined="2015-04-27"/>
+    <cosponsor id="412421" joined="2015-02-02"/>
+    <cosponsor id="412614" joined="2015-06-02"/>
+    <cosponsor id="412191" joined="2015-03-16"/>
+    <cosponsor id="412624" joined="2015-06-17"/>
+    <cosponsor id="412292" joined="2015-02-24"/>
+    <cosponsor id="412503" joined="2015-03-16"/>
+    <cosponsor id="412295" joined="2015-03-17"/>
+    <cosponsor id="400644" joined="2015-04-27"/>
+    <cosponsor id="412552" joined="2015-03-04"/>
+    <cosponsor id="400273" joined="2015-05-12"/>
+    <cosponsor id="400279" joined="2015-06-23"/>
+    <cosponsor id="412634" joined="2015-05-14"/>
+    <cosponsor id="412662" joined="2015-06-17"/>
+    <cosponsor id="412474" joined="2015-03-04"/>
+    <cosponsor id="412527" joined="2015-02-02"/>
+    <cosponsor id="400285" joined="2015-02-02"/>
+    <cosponsor id="412660" joined="2015-04-23"/>
+    <cosponsor id="412409" joined="2015-03-16"/>
+    <cosponsor id="400297" joined="2015-07-13"/>
+    <cosponsor id="400309" joined="2015-02-02"/>
+    <cosponsor id="400313" joined="2015-04-21"/>
+    <cosponsor id="412551" joined="2015-03-16"/>
+    <cosponsor id="412308" joined="2015-06-11"/>
+    <cosponsor id="412431" joined="2015-02-02"/>
+    <cosponsor id="412393" joined="2015-07-29"/>
+    <cosponsor id="412462" joined="2015-04-13"/>
+    <cosponsor id="412489" joined="2015-04-13"/>
+    <cosponsor id="412310" joined="2015-06-09"/>
+    <cosponsor id="400340" joined="2015-02-02"/>
+    <cosponsor id="412426" joined="2015-02-10"/>
+    <cosponsor id="412311" joined="2015-03-03"/>
+    <cosponsor id="400344" joined="2015-02-10"/>
+    <cosponsor id="412202" joined="2015-02-02"/>
+    <cosponsor id="412411" joined="2015-02-02"/>
+    <cosponsor id="412570" joined="2015-02-26"/>
+    <cosponsor id="412641" joined="2015-03-04"/>
+    <cosponsor id="400348" joined="2015-02-02"/>
+    <cosponsor id="400349" joined="2015-06-16"/>
+    <cosponsor id="412399" joined="2015-02-26"/>
+    <cosponsor id="412417" joined="2015-04-13"/>
+    <cosponsor id="400365" joined="2015-02-27"/>
+    <cosponsor id="400367" joined="2015-02-02"/>
+    <cosponsor id="400373" joined="2015-07-21"/>
+    <cosponsor id="409888" joined="2015-02-10"/>
+    <cosponsor id="412626" joined="2015-07-07"/>
+    <cosponsor id="412317" joined="2015-03-04"/>
+    <cosponsor id="412405" joined="2015-03-16"/>
+    <cosponsor id="412318" joined="2015-06-03"/>
+    <cosponsor id="400411" joined="2015-02-26"/>
+    <cosponsor id="412213" joined="2015-02-04"/>
+    <cosponsor id="400419" joined="2015-05-14"/>
+    <cosponsor id="412574" joined="2015-05-21"/>
+    <cosponsor id="412564" joined="2015-05-18"/>
+    <cosponsor id="400627" joined="2015-02-02"/>
+    <cosponsor id="412578" joined="2015-02-24"/>
+    <cosponsor id="412412" joined="2015-02-02"/>
+    <cosponsor id="412255" joined="2015-06-25"/>
+    <cosponsor id="412416" joined="2015-03-25"/>
+    <cosponsor id="412430" joined="2015-02-02"/>
+    <cosponsor id="412525" joined="2015-06-17"/>
+    <cosponsor id="400440" joined="2015-04-13"/>
+    <cosponsor id="412640" joined="2015-05-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-02" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-02-06">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="441"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Drug safety, medical device, and laboratory regulation"/>
+    <term name="Drug, alcohol, tobacco use"/>
+    <term name="Food and Drug Administration (FDA)"/>
+    <term name="User charges and fees"/>
+  </subjects>
+  <amendments/>
+  <summary>2/2/2015--Introduced.
+Traditional Cigar Manufacturing and Small Business Jobs Preservation Act of 2015
+
+Amends the Federal Food, Drug, and Cosmetic Act to exempt traditional large and premium cigars from regulation by the Food and Drug Administration (FDA) and from user fees assessed on tobacco products by the FDA.</summary>
+</bill>

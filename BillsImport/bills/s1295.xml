@@ -1,0 +1,39 @@
+<bill session="114" type="s" number="1295" updated="2015-07-11T06:58:06-04:00">
+  <state datetime="2015-05-12">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-12"/>
+  </status>
+  <introduced datetime="2015-05-12"/>
+  <titles>
+    <title type="short" as="introduced">Arapaho National Forest Boundary Adjustment Act of 2015</title>
+    <title type="official" as="introduced">A bill to adjust the boundary of the Arapaho National Forest, Colorado, and for other purposes.</title>
+  </titles>
+  <sponsor id="412330"/>
+  <cosponsors>
+    <cosponsor id="412406" joined="2015-05-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-12" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1324"/>
+    <bill relation="unknown" session="114" type="h" number="1892"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+  <summary>5/12/2015--Introduced.
+Arapaho National Forest Boundary Adjustment Act of 2015
+
+ Adjusts the boundary of the Arapaho National Forest in Colorado to incorporate approximately 92.95 acres of land generally depicted as 'The Wedge" on the map entitled "Arapaho National Forest Boundary Adjustment" and identified as lots 3,4, 8, and 9 of section 13.
+
+Permits such a lot to be included in the boundary adjustment only after the Department of Agriculture (USDA) obtains written permission from the lot owner or owners.
+
+Requires the USDA to include all federal land within the boundary in the Bowen Gulch Protection Area established under the Colorado Wilderness Act of 1993.</summary>
+</bill>

@@ -1,0 +1,84 @@
+<bill session="114" type="s" number="1297" updated="2015-08-08T07:02:35-04:00">
+  <state datetime="2015-08-04">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2015-08-04"/>
+  </status>
+  <introduced datetime="2015-05-12"/>
+  <titles>
+    <title type="short" as="introduced">U.S. Commercial Space Launch Competitiveness Act</title>
+    <title type="short" as="reported to senate">U.S. Commercial Space Launch Competitiveness Act</title>
+    <title type="short" as="passed senate">U.S. Commercial Space Launch Competitiveness Act</title>
+    <title type="official" as="introduced">A bill to update the Commercial Space Launch Act by amending title 51, United States Code, to promote competitiveness of the U.S. commercial space sector, and for other purposes.</title>
+  </titles>
+  <sponsor id="412573"/>
+  <cosponsors>
+    <cosponsor id="412406" joined="2015-05-12"/>
+    <cosponsor id="300078" joined="2015-05-12"/>
+    <cosponsor id="412305" joined="2015-05-12"/>
+    <cosponsor id="412491" joined="2015-05-12"/>
+    <cosponsor id="400413" joined="2015-06-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-12" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+    <calendar datetime="2015-05-20" state="REPORTED">
+      <text>Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+    <action datetime="2015-07-22">
+      <text>Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 114-88.</text>
+    </action>
+    <calendar datetime="2015-07-22" calendar="Senate Legislative" under="General Orders" number="159">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 159.</text>
+    </calendar>
+    <vote how="by Unanimous Consent" type="vote" datetime="2015-08-04" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+      <reference ref="CR S6323-6325" label="consideration"/>
+      <reference ref="S6323-6325" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2015-08-05">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Civil actions and liability"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Transportation"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Government liability"/>
+    <term name="International scientific cooperation"/>
+    <term name="Licensing and registrations"/>
+    <term name="Life, casualty, property insurance"/>
+    <term name="National Aeronautics and Space Administration"/>
+    <term name="Public-private cooperation"/>
+    <term name="Research and development"/>
+    <term name="Space flight and exploration"/>
+    <term name="Spacecraft and satellites"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+  <summary>5/12/2015--Introduced.
+U.S. Commercial Space Launch Competitiveness Act
+
+The Department of Transportation (DOT) shall evaluate and, if necessary, develop a plan to update the methodology used to calculate the maximum probable loss from commercial space launch liability claims with a validated risk profile approach in order to consistently compute valid and reasonable maximum probable loss values.
+
+The liability coverage of licensees subject to third-party claims exceeding the amount of insurance or demonstration of financial responsibility now extends through December 31, 2020.
+
+Certain time constraints of commercial space launch and reentry experimental permit requirements are repealed and rockets as well as rocket designs are covered. DOT may issue an experimental launch or reentry permit notwithstanding the issuance of any launch or reentry license.
+
+DOT shall report to Congress on approaches for streamlining the licensing and permitting process of launch vehicles, reentry vehicles, or components of launch or reentry vehicles, to enable non-launch flight operations related to space transportation.
+
+The Office of Science and Technology Policy shall: (1) assess current, and proposed near-term, commercial non-governmental activities conducted in space; (2) identify appropriate oversight authorities for such activities; and (3) recommend an oversight approach that would prioritize safety, utilize existing authorities, minimize burdens, promote the U.S. commercial space sector, and meet U.S. obligations under international treaties. DOT, in concurrence with the Department of Defense, shall study the feasibility of processing and releasing to any entity safety-related space situational awareness data and information consistent with national security interests and public safety obligations of the United States. Beginning on October 1, 2020 (currently, October 1, 2015), DOT may propose new safety regulations governing the design or operation of a launch vehicle to protect the health and safety of government astronauts, as well as crew and space flight participants. DOT shall continue to work with the commercial space sector, including the Commercial Space Transportation Advisory Committee, to facilitate the development of voluntary consensus standards based on recommended best practices to improve the safety of crew, government astronauts, and space flight participants as that sector continues to mature. Commercial space launch requirements apply to newly defined government astronauts. DOT must consult with DOD, NASA, and other executive agencies to identify and evaluate all requirements imposed to protect health and safety, safety of property, national security interests, and foreign policy interests of the United States relevant to any commercial launch of a launch vehicle or commercial reentry of a reentry vehicle, and: determine whether the satisfaction of a requirement of one agency could result in the satisfaction of a requirement of another agency, and resolve any inconsistencies and remove any outmoded or duplicative federal requirements or approvals. DOT shall report annually to Congress on these efforts until no outmoded or duplicative federal requirements or approvals exist.
+
+NASA shall ensure that the ISS remains a viable and productive facility capable of potential U.S. utilization through at least FY2024 (currently, through FY2020).
+
+NASA shall ensure that the ISS as a designated national laboratory:
+
+ remains viable as an element of overall exploration and partnership strategies and approaches; is considered for use by all NASA mission directorates for technically appropriate scientific data gathering or technology risk reduction demonstrations; and remains an effective, functional vehicle providing research and test bed capabilities for the United States through at least FY2024.</summary>
+</bill>

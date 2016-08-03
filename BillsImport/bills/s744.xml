@@ -1,0 +1,43 @@
+<bill session="114" type="s" number="744" updated="2015-07-04T06:52:33-04:00">
+  <state datetime="2015-03-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-16"/>
+  </status>
+  <introduced datetime="2015-03-16"/>
+  <titles>
+    <title type="short" as="introduced">REFUND Act</title>
+    <title type="short" as="introduced">Returned Exclusively For Unpaid National Debt Act</title>
+    <title type="official" as="introduced">A bill to rescind certain Federal funds identified by States as unwanted and use the funds to reduce the Federal debt.</title>
+  </titles>
+  <sponsor id="412491"/>
+  <cosponsors>
+    <cosponsor id="412251" joined="2015-03-16"/>
+    <cosponsor id="400034" joined="2015-04-22"/>
+    <cosponsor id="402675" joined="2015-03-16"/>
+    <cosponsor id="300055" joined="2015-03-16"/>
+    <cosponsor id="412496" joined="2015-03-16"/>
+    <cosponsor id="400325" joined="2015-03-16"/>
+    <cosponsor id="412322" joined="2015-03-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-16" state="REFERRED">
+      <text>Read twice and referred to the Committee on Appropriations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAP" name="Senate Appropriations" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Appropriations"/>
+    <term name="Budget deficits and national debt"/>
+    <term name="Intergovernmental relations"/>
+    <term name="State and local finance"/>
+  </subjects>
+  <amendments/>
+  <summary>3/16/2015--Introduced.
+Returned Exclusively For Unpaid National Debt Act or the REFUND Act 
+
+This bill rescinds federal funds identified by a state as unwanted and requires the funds to be used for debt reduction. The bill applies to federal funds required to be allocated by formula among all states that agree to use the funds for a specified purpose. To identify the funds as unwanted, a state legislature must pass a concurrent resolution, and the state must then notify the head of the federal agency responsible for allocating the funds. The Department of the Treasury must deposit the rescinded funds in the Gifts to the United States for Reduction of the Public Debt account, use the funds to reduce the debt, and submit an annual report to Congress identifying funds received.</summary>
+</bill>

@@ -1,0 +1,39 @@
+<bill session="114" type="s" number="232" updated="2015-03-28T06:35:23-04:00">
+  <state datetime="2015-01-22">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-22"/>
+  </status>
+  <introduced datetime="2015-01-22"/>
+  <titles>
+    <title type="short" as="introduced">Nevada Land Sovereignty Act of 2015</title>
+    <title type="official" as="introduced">A bill to prohibit the further extension or establishment of national monuments in the State of Nevada except by express authorization of Congress, and for other purposes.</title>
+  </titles>
+  <sponsor id="412218"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-01-22" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="488"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Congressional oversight"/>
+    <term name="Monuments and memorials"/>
+    <term name="Nevada"/>
+    <term name="Parks, recreation areas, trails"/>
+    <term name="Wilderness and natural areas, wildlife refuges, wild rivers, habitats"/>
+  </subjects>
+  <amendments/>
+  <summary>1/22/2015--Introduced.
+Nevada Land Sovereignty Act of 2015
+
+Prohibits any further extension or establishment of national parks and monuments in Nevada from being undertaken, except by express authorization of Congress.
+
+ Prohibits the Department of the Interior from implementing, administering, or enforcing Secretarial Order No. 3310 issued on December 22, 2010, which requires the Bureau of Land Management to inventory public lands with wilderness characteristics.</summary>
+</bill>

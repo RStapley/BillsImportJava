@@ -1,0 +1,38 @@
+<bill session="114" type="s" number="109" updated="2015-01-24T06:21:28-05:00">
+  <state datetime="2015-01-07">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-07"/>
+  </status>
+  <introduced datetime="2015-01-07"/>
+  <titles>
+    <title type="short" as="introduced">Enumerated Powers Act</title>
+    <title type="official" as="introduced">A bill to prohibit the consideration of any bill by Congress unless the authority provided by the Constitution of the United States for the legislation can be determined and is clearly specified.</title>
+  </titles>
+  <sponsor id="412218"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-01-07" state="REFERRED">
+      <text>Read twice and referred to the Committee on Rules and Administration.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSRA" name="Senate Rules and Administration" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Constitution and constitutional amendments"/>
+    <term name="Legislative rules and procedure"/>
+  </subjects>
+  <amendments/>
+  <summary>1/7/2015--Introduced.
+Enumerated Powers Act
+
+ Requires each Act of Congress, bill, resolution, conference report, or amendment to contain a concise explanation of the specific constitutional authority relied upon as the basis for enacting each portion of the measure.
+
+Permits a statement of constitutionality, to the extent that a measure limits or abolishes any federal activity, spending, or power overall, to cite the 9th or the 10th Amendment to the U.S. Constitution.
+
+Declares that invoking one or more specified parts of the following clauses in a statement of constitutionality is not sufficient to satisfy the requirements of this Act: (1) the enumerated spending clause; (2) the necessary and proper clause; or (3) the commerce clause for any purpose other than the regulation of the buying and selling of goods or services, or their transportation, across boundaries with foreign nations, across state lines, or with the Indian tribes.
+
+Declares that failure to comply with this requirement shall give rise to a point of order in either chamber.</summary>
+</bill>

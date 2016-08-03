@@ -1,0 +1,24 @@
+<bill session="114" type="h" number="3383" updated="2015-08-07T12:48:55-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">Child Performers Protection Act of 2015</title>
+    <title type="official" as="introduced">To limit the number of hours that children may be employed as actors, performers, and models, to require blocked trust accounts for the financial protection of such children, to clarify the liability of employers, contractors, and other individuals for sexual harassment of such child performers, and for other purposes.</title>
+  </titles>
+  <sponsor id="412560"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

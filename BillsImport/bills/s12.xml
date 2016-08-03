@@ -1,0 +1,69 @@
+<bill session="114" type="s" number="12" updated="2015-08-01T06:52:07-04:00">
+  <state datetime="2015-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-06"/>
+  </status>
+  <introduced datetime="2015-01-06"/>
+  <titles>
+    <title type="short" as="introduced">Hire More Heroes Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to exempt employees with health coverage under TRICARE or the Veterans Administration from being taken into account for purposes of determining the employers to which the employer mandate applies under the Patient Protection and Affordable Care Act.</title>
+  </titles>
+  <sponsor id="400034"/>
+  <cosponsors>
+    <cosponsor id="412493" joined="2015-01-06"/>
+    <cosponsor id="412251" joined="2015-01-07"/>
+    <cosponsor id="400040" joined="2015-01-06"/>
+    <cosponsor id="400054" joined="2015-01-06"/>
+    <cosponsor id="402675" joined="2015-01-12"/>
+    <cosponsor id="300023" joined="2015-01-06"/>
+    <cosponsor id="300025" joined="2015-01-06"/>
+    <cosponsor id="300027" joined="2015-01-06"/>
+    <cosponsor id="300041" joined="2015-01-06"/>
+    <cosponsor id="412556" joined="2015-01-06"/>
+    <cosponsor id="300052" joined="2015-01-06"/>
+    <cosponsor id="412218" joined="2015-01-07"/>
+    <cosponsor id="412494" joined="2015-01-06"/>
+    <cosponsor id="300055" joined="2015-01-06"/>
+    <cosponsor id="400222" joined="2015-01-06"/>
+    <cosponsor id="300071" joined="2015-01-06"/>
+    <cosponsor id="400284" joined="2015-01-06"/>
+    <cosponsor id="300075" joined="2015-01-06"/>
+    <cosponsor id="400325" joined="2015-01-06"/>
+    <cosponsor id="300083" joined="2015-01-06"/>
+    <cosponsor id="412471" joined="2015-01-06"/>
+    <cosponsor id="300088" joined="2015-01-07"/>
+    <cosponsor id="300089" joined="2015-01-08"/>
+    <cosponsor id="412665" joined="2015-01-20"/>
+    <cosponsor id="400546" joined="2015-01-06"/>
+    <cosponsor id="400408" joined="2015-01-06"/>
+    <cosponsor id="400418" joined="2015-01-06"/>
+    <cosponsor id="400432" joined="2015-01-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="hj" number="61"/>
+    <bill relation="identical" session="114" type="h" number="22"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Comprehensive health care"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Military medicine"/>
+    <term name="Sales and excise taxes"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/2015--Introduced.
+Hire More Heroes Act of 2015
+
+This bill amends the Internal Revenue Code to add a provision to exempt any employee with coverage under a health care program administered by the Department of Defense, including the TRICARE program, or&#160;by&#160;the Veterans Administration, from classification as an eligible employee of an applicable large employer for purposes of the employer mandate&#160;under the Patient Protection and Affordable Care Act&#160;to provide such employees with minimum essential health care coverage.</summary>
+</bill>

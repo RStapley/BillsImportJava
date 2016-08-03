@@ -1,0 +1,54 @@
+<bill session="114" type="h" number="2284" updated="2015-08-01T06:38:36-04:00">
+  <state datetime="2015-05-12">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-12"/>
+  </status>
+  <introduced datetime="2015-05-12"/>
+  <titles>
+    <title type="short" as="introduced">Point Spencer Land Conveyance Act</title>
+    <title type="official" as="introduced">To provide for the retention and future use of certain land in Point Spencer, Alaska, to support the mission of the Coast Guard, to convey certain land in Point Spencer to the Bering Straits Native Corporation, to convey certain land in Point Spencer to the State of Alaska, and for other purposes.</title>
+  </titles>
+  <sponsor id="400440"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-05-12" state="REFERRED">
+      <text>Referred to the Committee on Natural Resources, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-05-12">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2015-05-12">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2015-05-13">
+      <text>Referred to the Subcommittee on Coast Guard and Maritime Transportation.</text>
+    </action>
+    <action datetime="2015-06-04">
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+    </action>
+    <action datetime="2015-06-04">
+      <text>Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="Federal Lands" name="House Natural Resources"/>
+    <committee activity="Referral" code="HSII24" subcommittee="Indian, Insular and Alaska Native Affairs" name="House Natural Resources"/>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW07" subcommittee="Coast Guard and Maritime Transportation" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="1316"/>
+    <bill relation="unknown" session="114" type="s" number="1611"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+  <summary>5/12/2015--Introduced.
+Point Spencer Land Conveyance Act
+
+This bill directs the Department of the Interior to convey the surface and subsurface estates of Tracts 1, 2, 3, 4, and 5 as identified on the map titled "Point Spencer Land Retention and Conveyance Map," dated January 2015, to the Bering Straits Native Corporation and tract 6 surface and subsurface estates to Alaska in accordance with specified terms.
+
+The Port Coordination Advisory Council for the Port of Point Spencer is established.</summary>
+</bill>

@@ -1,0 +1,84 @@
+<bill session="114" type="h" number="270" updated="2015-05-30T04:46:39-04:00">
+  <state datetime="2015-01-12">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-12"/>
+  </status>
+  <introduced datetime="2015-01-12"/>
+  <titles>
+    <title type="short" as="introduced">Flexibility in Health IT Reporting (Flex-IT) Act of 2015</title>
+    <title type="official" as="introduced">To continue the use of a 3-month quarter EHR reporting period for health care providers to demonstrate meaningful use for 2015 under the Medicare and Medicaid EHR incentive payment programs, and for other purposes.</title>
+  </titles>
+  <sponsor id="412457"/>
+  <cosponsors>
+    <cosponsor id="412469" joined="2015-03-10"/>
+    <cosponsor id="400029" joined="2015-02-09"/>
+    <cosponsor id="412478" joined="2015-01-21"/>
+    <cosponsor id="400032" joined="2015-01-12"/>
+    <cosponsor id="400052" joined="2015-01-14"/>
+    <cosponsor id="400071" joined="2015-02-09"/>
+    <cosponsor id="412270" joined="2015-02-09"/>
+    <cosponsor id="412555" joined="2015-01-14"/>
+    <cosponsor id="400093" joined="2015-01-14"/>
+    <cosponsor id="412536" joined="2015-02-26"/>
+    <cosponsor id="400640" joined="2015-02-09"/>
+    <cosponsor id="400158" joined="2015-02-09"/>
+    <cosponsor id="412454" joined="2015-01-14"/>
+    <cosponsor id="412280" joined="2015-01-21"/>
+    <cosponsor id="412609" joined="2015-02-13"/>
+    <cosponsor id="412663" joined="2015-02-11"/>
+    <cosponsor id="412460" joined="2015-02-13"/>
+    <cosponsor id="412603" joined="2015-03-17"/>
+    <cosponsor id="400209" joined="2015-04-21"/>
+    <cosponsor id="412465" joined="2015-01-21"/>
+    <cosponsor id="400218" joined="2015-01-12"/>
+    <cosponsor id="412286" joined="2015-05-29"/>
+    <cosponsor id="412256" joined="2015-02-11"/>
+    <cosponsor id="400263" joined="2015-03-17"/>
+    <cosponsor id="412466" joined="2015-01-14"/>
+    <cosponsor id="412302" joined="2015-01-14"/>
+    <cosponsor id="412523" joined="2015-04-21"/>
+    <cosponsor id="412489" joined="2015-03-17"/>
+    <cosponsor id="412310" joined="2015-04-13"/>
+    <cosponsor id="412641" joined="2015-04-27"/>
+    <cosponsor id="400356" joined="2015-02-11"/>
+    <cosponsor id="412314" joined="2015-01-21"/>
+    <cosponsor id="400363" joined="2015-01-12"/>
+    <cosponsor id="400367" joined="2015-01-21"/>
+    <cosponsor id="412581" joined="2015-02-09"/>
+    <cosponsor id="412317" joined="2015-01-12"/>
+    <cosponsor id="400431" joined="2015-02-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-12" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-01-12">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-01-12">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-01-16">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Health facilities and institutions"/>
+    <term name="Health information and medical records"/>
+    <term name="Health personnel"/>
+    <term name="Medicaid"/>
+    <term name="Medicare"/>
+  </subjects>
+  <amendments/>
+  <summary>1/12/2015--Introduced.
+Flexibility in Health IT Reporting (Flex-IT) Act of 2015
+
+Directs the Secretary of Health and Human Services, in specifying the electronic health record (EHR) reporting period under EHR electronic health record technology incentive payment programs under titles XVIII (Medicare) and XIX (Medicaid) of the Social Security Act, to continue through 2015 (in the case of eligible professionals) and FY2015 (in the case of eligible hospitals and critical access hospitals) to permit the use of a three-month quarter EHR reporting period to demonstrate meaningful use without regard to the payment year or the stage of meaningful use criteria involved.</summary>
+</bill>

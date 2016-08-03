@@ -1,0 +1,59 @@
+<bill session="114" type="s" number="686" updated="2015-08-01T06:57:47-04:00">
+  <state datetime="2015-03-10">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-10"/>
+  </status>
+  <introduced datetime="2015-03-10"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to provide a limitation on certain aliens from claiming the earned income tax credit.</title>
+  </titles>
+  <sponsor id="300048"/>
+  <cosponsors>
+    <cosponsor id="400040" joined="2015-03-10"/>
+    <cosponsor id="402675" joined="2015-03-11"/>
+    <cosponsor id="300027" joined="2015-03-10"/>
+    <cosponsor id="412508" joined="2015-03-18"/>
+    <cosponsor id="300030" joined="2015-03-10"/>
+    <cosponsor id="300041" joined="2015-03-10"/>
+    <cosponsor id="300055" joined="2015-03-10"/>
+    <cosponsor id="400194" joined="2015-03-10"/>
+    <cosponsor id="412496" joined="2015-03-10"/>
+    <cosponsor id="412666" joined="2015-03-10"/>
+    <cosponsor id="412322" joined="2015-03-10"/>
+    <cosponsor id="300083" joined="2015-03-10"/>
+    <cosponsor id="412471" joined="2015-03-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-10">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S1386-1387"/>
+    </action>
+    <action datetime="2015-03-10" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1182"/>
+    <bill relation="unknown" session="114" type="h" number="1249"/>
+    <bill relation="unknown" session="114" type="h" number="2389"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Border security and unlawful immigration"/>
+    <term name="Foreign labor"/>
+    <term name="Government information and archives"/>
+    <term name="Immigration status and procedures"/>
+    <term name="Income tax credits"/>
+    <term name="Marriage and family status"/>
+    <term name="Poverty and welfare assistance"/>
+    <term name="Social security and elderly assistance"/>
+    <term name="Tax administration and collection, taxpayers"/>
+    <term name="Tax treatment of families"/>
+  </subjects>
+  <amendments/>
+  <summary>3/10/2015--Introduced.
+This bill amends the Internal Revenue Code to deny the earned income tax credit to an alien who has been granted deferred action from removal in any taxable year in which such alien was not lawfully present in the United States or not authorized to work. The bill requires the Commissioner of Social Security to provide the Internal Revenue Service with information on social security account numbers granted to aliens under the deferred action from removal program.</summary>
+</bill>

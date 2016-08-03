@@ -1,0 +1,76 @@
+<bill session="114" type="h" number="2523" updated="2015-07-21T04:47:55-04:00">
+  <state datetime="2015-05-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-21"/>
+  </status>
+  <introduced datetime="2015-05-21"/>
+  <titles>
+    <title type="short" as="introduced">American Trade Enforcement Effectiveness Act</title>
+    <title type="official" as="introduced">To make improvements to the antidumping and countervailing duty laws.</title>
+  </titles>
+  <sponsor id="412629"/>
+  <cosponsors>
+    <cosponsor id="400004" joined="2015-05-22"/>
+    <cosponsor id="412469" joined="2015-05-21"/>
+    <cosponsor id="412436" joined="2015-06-01"/>
+    <cosponsor id="400029" joined="2015-06-08"/>
+    <cosponsor id="412395" joined="2015-06-01"/>
+    <cosponsor id="412601" joined="2015-05-21"/>
+    <cosponsor id="412400" joined="2015-05-21"/>
+    <cosponsor id="412536" joined="2015-05-21"/>
+    <cosponsor id="400648" joined="2015-06-01"/>
+    <cosponsor id="412482" joined="2015-06-03"/>
+    <cosponsor id="412480" joined="2015-05-21"/>
+    <cosponsor id="400640" joined="2015-06-11"/>
+    <cosponsor id="412463" joined="2015-05-21"/>
+    <cosponsor id="400158" joined="2015-06-11"/>
+    <cosponsor id="400160" joined="2015-05-21"/>
+    <cosponsor id="412550" joined="2015-05-21"/>
+    <cosponsor id="412460" joined="2015-05-21"/>
+    <cosponsor id="400209" joined="2015-05-22"/>
+    <cosponsor id="400211" joined="2015-05-21"/>
+    <cosponsor id="412465" joined="2015-05-21"/>
+    <cosponsor id="412421" joined="2015-06-01"/>
+    <cosponsor id="412209" joined="2015-06-17"/>
+    <cosponsor id="400259" joined="2015-06-12"/>
+    <cosponsor id="412487" joined="2015-05-22"/>
+    <cosponsor id="400285" joined="2015-05-21"/>
+    <cosponsor id="408211" joined="2015-05-21"/>
+    <cosponsor id="400295" joined="2015-07-20"/>
+    <cosponsor id="400309" joined="2015-05-22"/>
+    <cosponsor id="412192" joined="2015-06-03"/>
+    <cosponsor id="412551" joined="2015-05-21"/>
+    <cosponsor id="412393" joined="2015-05-22"/>
+    <cosponsor id="412462" joined="2015-05-21"/>
+    <cosponsor id="412426" joined="2015-05-21"/>
+    <cosponsor id="412202" joined="2015-07-14"/>
+    <cosponsor id="412570" joined="2015-05-21"/>
+    <cosponsor id="412641" joined="2015-05-21"/>
+    <cosponsor id="400352" joined="2015-05-21"/>
+    <cosponsor id="412396" joined="2015-05-21"/>
+    <cosponsor id="400373" joined="2015-05-21"/>
+    <cosponsor id="412461" joined="2015-06-08"/>
+    <cosponsor id="412405" joined="2015-06-01"/>
+    <cosponsor id="400411" joined="2015-06-01"/>
+    <cosponsor id="400417" joined="2015-05-21"/>
+    <cosponsor id="412213" joined="2015-06-03"/>
+    <cosponsor id="412578" joined="2015-06-04"/>
+    <cosponsor id="400433" joined="2015-06-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-21" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="644"/>
+    <bill relation="unknown" session="114" type="s" number="1269"/>
+  </relatedbills>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+  </subjects>
+  <amendments/>
+</bill>

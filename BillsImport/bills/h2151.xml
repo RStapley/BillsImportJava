@@ -1,0 +1,43 @@
+<bill session="114" type="h" number="2151" updated="2015-06-27T06:55:03-04:00">
+  <state datetime="2015-04-30">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-30"/>
+  </status>
+  <introduced datetime="2015-04-30"/>
+  <titles>
+    <title type="short" as="introduced">Improving Oversight and Accountability in Medicaid Non-DSH Supplemental Payments Act</title>
+    <title type="official" as="introduced">To amend title XIX of the Social Security Act to improve the calculation, oversight, and accountability of non-DSH supplemental payments under the Medicaid program, and for other purposes.</title>
+  </titles>
+  <sponsor id="412563"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-04-30" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-05-01">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Accounting and auditing"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Medicaid"/>
+    <term name="State and local finance"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+  <summary>4/30/2015--Introduced.
+Improving Oversight and Accountability in Medicaid Non-DSH Supplemental Payments Act 
+
+This bill amends title XIX (Medicaid) of the Social Security Act to direct the Secretary of Health and Human Services to: (1) issue guidance to states that identifies permissible methods for calculation of non-DSH (disproportionate share) supplemental payments to providers, (2) establish annual reporting requirements for states making non-DSH supplemental payments, and (3) establish requirements for states making non-DSH supplemental payments to conduct and submit to the Secretary an annual independent certified audit.
+
+No federal payment under Medicaid may be made to a state for any expenditures to make non-DSH supplemental payments unless the state complies with the reporting and auditing requirements of this Act.</summary>
+</bill>

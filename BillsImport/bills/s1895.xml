@@ -1,0 +1,35 @@
+<bill session="114" type="s" number="1895" updated="2015-08-22T07:07:37-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Radiation Exposure Compensation Act for purposes of making claims under such Act based on exposure to atmospheric nuclear testing.</title>
+  </titles>
+  <sponsor id="300071"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-29">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S6143"/>
+    </action>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="3345"/>
+  </relatedbills>
+  <subjects>
+    <term name="Labor and employment"/>
+  </subjects>
+  <amendments/>
+  <summary>7/29/2015--Introduced.
+Downwinders Compensation Act of 2015
+
+This bill amends the Radiation Exposure Compensation Act to expand eligibility for restitution relating to atmospheric nuclear testing to individuals who were present, during the periods of testing, in any part of Clark County, Nevada, or any part of any county in Arizona that has a part north of the Grand Canyon.</summary>
+</bill>

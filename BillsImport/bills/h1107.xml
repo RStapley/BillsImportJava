@@ -1,0 +1,75 @@
+<bill session="114" type="h" number="1107" updated="2015-07-28T05:08:36-04:00">
+  <state datetime="2015-02-26">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-26"/>
+  </status>
+  <introduced datetime="2015-02-26"/>
+  <titles>
+    <title type="short" as="introduced">Bureau of Reclamation Transparency Act</title>
+    <title type="official" as="introduced">To require the Secretary of the Interior to submit to Congress a report on the efforts of the Bureau of Reclamation to manage its infrastructure assets.</title>
+  </titles>
+  <sponsor id="412397"/>
+  <cosponsors>
+    <cosponsor id="412500" joined="2015-02-26"/>
+    <cosponsor id="400018" joined="2015-02-26"/>
+    <cosponsor id="412571" joined="2015-02-26"/>
+    <cosponsor id="412271" joined="2015-02-26"/>
+    <cosponsor id="412403" joined="2015-02-26"/>
+    <cosponsor id="400141" joined="2015-02-26"/>
+    <cosponsor id="412382" joined="2015-02-26"/>
+    <cosponsor id="412453" joined="2015-07-23"/>
+    <cosponsor id="412645" joined="2015-02-26"/>
+    <cosponsor id="412446" joined="2015-02-26"/>
+    <cosponsor id="412511" joined="2015-02-26"/>
+    <cosponsor id="412286" joined="2015-02-26"/>
+    <cosponsor id="412616" joined="2015-02-26"/>
+    <cosponsor id="412294" joined="2015-02-26"/>
+    <cosponsor id="412295" joined="2015-02-26"/>
+    <cosponsor id="412611" joined="2015-06-04"/>
+    <cosponsor id="400279" joined="2015-02-26"/>
+    <cosponsor id="400290" joined="2015-02-26"/>
+    <cosponsor id="400313" joined="2015-02-26"/>
+    <cosponsor id="412585" joined="2015-07-27"/>
+    <cosponsor id="400606" joined="2015-02-26"/>
+    <cosponsor id="412509" joined="2015-02-26"/>
+    <cosponsor id="412405" joined="2015-02-26"/>
+    <cosponsor id="412640" joined="2015-02-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-26" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2015-03-23">
+      <text>Referred to the Subcommittee on Water, Power and Oceans.</text>
+    </action>
+    <action datetime="2015-06-25">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral, Hearings" code="HSII13" subcommittee="Water, Power and Oceans" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="593"/>
+  </relatedbills>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Congressional oversight"/>
+    <term name="Dams and canals"/>
+    <term name="Department of the Interior"/>
+    <term name="Government information and archives"/>
+    <term name="Infrastructure development"/>
+    <term name="Water resources funding"/>
+    <term name="Water use and supply"/>
+  </subjects>
+  <amendments/>
+  <summary>2/26/2015--Introduced.
+Bureau of Reclamation Transparency Act
+
+Directs the Department of the Interior to submit to Congress, make publicly available, and biennially update an Asset Management Report that describes the Bureau of Reclamation's efforts to maintain in a reliable manner all reserved works (buildings, structures, facilities, or equipment owned by the Bureau for which operations and maintenance are performed by Bureau employees or through a contract with the Bureau) at Reclamation facilities (infrastructure assets that are owned by the Bureau at each Reclamation project owned by the Bureau) and to standardize and streamline data reporting and processes across regions and areas for the purpose of maintaining such works.
+
+Requires such Report to include: (1) a detailed assessment of major repair and rehabilitation needs for all such works; and (2) an itemized list of major repair and rehabilitation needs of individual Reclamation facilities at each Reclamation project, including a budget level cost estimate of appropriations needed to complete each item and an assignment of a categorical rating for each item consistent with existing uniform categorization systems to inform the annual budget process and agency requirements.
+
+Directs Interior to: (1) coordinate with the non-federal entities responsible for the operation and maintenance of transferred works (Reclamation facilities at which operations and maintenance are carried out by a non-federal entity under a formal agreement with the Bureau) in developing reporting requirements for Asset Management Reports regarding the condition of, and planned maintenance for, transferred works; and (2) develop and implement a categorical rating system for transferred works.</summary>
+</bill>

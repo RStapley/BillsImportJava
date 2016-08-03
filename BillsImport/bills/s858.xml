@@ -1,0 +1,42 @@
+<bill session="114" type="s" number="858" updated="2015-05-01T04:49:53-04:00">
+  <state datetime="2015-03-25">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-25"/>
+  </status>
+  <introduced datetime="2015-03-25"/>
+  <titles>
+    <title type="short" as="introduced">Energy Savings Through Public-Private Partnerships Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend the National Energy Conservation Policy Act to encourage the increased use of performance contracting in Federal facilities.</title>
+  </titles>
+  <sponsor id="412406"/>
+  <cosponsors>
+    <cosponsor id="412390" joined="2015-03-25"/>
+    <cosponsor id="400325" joined="2015-03-25"/>
+    <cosponsor id="412323" joined="2015-03-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-25" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2015-04-30">
+      <text>Committee on Energy and Natural Resources. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1629"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Congressional oversight"/>
+    <term name="Energy efficiency and conservation"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Performance measurement"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Public utilities and utility rates"/>
+    <term name="Water use and supply"/>
+  </subjects>
+  <amendments/>
+</bill>

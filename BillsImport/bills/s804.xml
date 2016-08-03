@@ -1,0 +1,68 @@
+<bill session="114" type="s" number="804" updated="2015-08-06T04:48:33-04:00">
+  <state datetime="2015-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-19"/>
+  </status>
+  <introduced datetime="2015-03-19"/>
+  <titles>
+    <title type="short" as="introduced">Medicare CGM Access Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act to specify coverage of continuous glucose monitoring devices, and for other purposes.</title>
+  </titles>
+  <sponsor id="300025"/>
+  <cosponsors>
+    <cosponsor id="412493" joined="2015-07-21"/>
+    <cosponsor id="412330" joined="2015-07-15"/>
+    <cosponsor id="412598" joined="2015-07-23"/>
+    <cosponsor id="400040" joined="2015-07-28"/>
+    <cosponsor id="400050" joined="2015-07-13"/>
+    <cosponsor id="400061" joined="2015-07-29"/>
+    <cosponsor id="300023" joined="2015-05-06"/>
+    <cosponsor id="412390" joined="2015-04-14"/>
+    <cosponsor id="412205" joined="2015-05-19"/>
+    <cosponsor id="300038" joined="2015-06-18"/>
+    <cosponsor id="300043" joined="2015-08-05"/>
+    <cosponsor id="412223" joined="2015-06-09"/>
+    <cosponsor id="300048" joined="2015-07-21"/>
+    <cosponsor id="412281" joined="2015-04-15"/>
+    <cosponsor id="400222" joined="2015-06-10"/>
+    <cosponsor id="412242" joined="2015-05-20"/>
+    <cosponsor id="300065" joined="2015-07-21"/>
+    <cosponsor id="412391" joined="2015-08-05"/>
+    <cosponsor id="400284" joined="2015-06-03"/>
+    <cosponsor id="300075" joined="2015-06-22"/>
+    <cosponsor id="412194" joined="2015-07-28"/>
+    <cosponsor id="412323" joined="2015-03-19"/>
+    <cosponsor id="412244" joined="2015-07-23"/>
+    <cosponsor id="400418" joined="2015-04-20"/>
+    <cosponsor id="412542" joined="2015-08-05"/>
+    <cosponsor id="400432" joined="2015-06-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-19">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S1663-1664"/>
+    </action>
+    <action datetime="2015-03-19" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="1427"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Digestive and metabolic diseases"/>
+    <term name="Health technology, devices, supplies"/>
+    <term name="Medicare"/>
+  </subjects>
+  <amendments/>
+  <summary>3/19/2015--Introduced.
+Medicare CGM Access Act of 2015 - This bill amends title XVIII (Medicare) of the Social Security Act to provide Medicare coverage of continuous glucose monitoring (CGM) devices furnished to a CGM qualified individual.
+
+The Department of Health and Human Services must establish a fee schedule and ensure that CGM qualified individuals are furnished with appropriate device components.</summary>
+</bill>

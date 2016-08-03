@@ -1,0 +1,48 @@
+<bill session="114" type="h" number="2849" updated="2015-08-05T04:47:26-04:00">
+  <state datetime="2015-06-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-23"/>
+  </status>
+  <introduced datetime="2015-06-23"/>
+  <titles>
+    <title type="short" as="introduced">Pet Safety and Protection Act of 2015</title>
+    <title type="official" as="introduced">To amend the Animal Welfare Act to ensure that all dogs and cats used by research facilities are obtained legally.</title>
+  </titles>
+  <sponsor id="400114"/>
+  <cosponsors>
+    <cosponsor id="400041" joined="2015-07-22"/>
+    <cosponsor id="412516" joined="2015-07-08"/>
+    <cosponsor id="412196" joined="2015-07-20"/>
+    <cosponsor id="400063" joined="2015-07-20"/>
+    <cosponsor id="412379" joined="2015-07-28"/>
+    <cosponsor id="412600" joined="2015-08-04"/>
+    <cosponsor id="412272" joined="2015-07-21"/>
+    <cosponsor id="400100" joined="2015-07-09"/>
+    <cosponsor id="412385" joined="2015-07-20"/>
+    <cosponsor id="400129" joined="2015-08-04"/>
+    <cosponsor id="400246" joined="2015-07-28"/>
+    <cosponsor id="412611" joined="2015-07-29"/>
+    <cosponsor id="412308" joined="2015-07-28"/>
+    <cosponsor id="400326" joined="2015-07-21"/>
+    <cosponsor id="412331" joined="2015-07-27"/>
+    <cosponsor id="400361" joined="2015-07-20"/>
+    <cosponsor id="400378" joined="2015-07-08"/>
+    <cosponsor id="400380" joined="2015-06-23"/>
+    <cosponsor id="412318" joined="2015-07-22"/>
+    <cosponsor id="400415" joined="2015-07-27"/>
+    <cosponsor id="412239" joined="2015-07-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-23" state="REFERRED">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Animals"/>
+  </subjects>
+  <amendments/>
+</bill>

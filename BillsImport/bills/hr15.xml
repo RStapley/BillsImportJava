@@ -1,0 +1,93 @@
+<bill session="114" type="hr" number="15" updated="2015-08-05T04:46:50-04:00">
+  <state datetime="2015-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-06"/>
+  </status>
+  <introduced datetime="2015-01-06"/>
+  <titles>
+    <title type="official" as="introduced">Congratulating Pope Francis on his election and recognizing his inspirational statements and actions.</title>
+  </titles>
+  <sponsor id="400233"/>
+  <cosponsors>
+    <cosponsor id="412642" joined="2015-02-10"/>
+    <cosponsor id="400030" joined="2015-02-20"/>
+    <cosponsor id="412652" joined="2015-07-28"/>
+    <cosponsor id="400048" joined="2015-02-20"/>
+    <cosponsor id="400063" joined="2015-04-21"/>
+    <cosponsor id="412571" joined="2015-02-25"/>
+    <cosponsor id="412379" joined="2015-02-20"/>
+    <cosponsor id="412470" joined="2015-04-13"/>
+    <cosponsor id="412600" joined="2015-02-20"/>
+    <cosponsor id="412236" joined="2015-02-27"/>
+    <cosponsor id="412272" joined="2015-02-10"/>
+    <cosponsor id="400081" joined="2015-02-20"/>
+    <cosponsor id="400618" joined="2015-02-11"/>
+    <cosponsor id="400090" joined="2015-02-20"/>
+    <cosponsor id="412536" joined="2015-03-03"/>
+    <cosponsor id="400103" joined="2015-02-10"/>
+    <cosponsor id="412524" joined="2015-02-25"/>
+    <cosponsor id="400129" joined="2015-07-28"/>
+    <cosponsor id="400646" joined="2015-02-20"/>
+    <cosponsor id="412276" joined="2015-02-20"/>
+    <cosponsor id="400162" joined="2015-02-20"/>
+    <cosponsor id="400163" joined="2015-02-27"/>
+    <cosponsor id="400170" joined="2015-02-10"/>
+    <cosponsor id="400641" joined="2015-02-20"/>
+    <cosponsor id="400199" joined="2015-07-28"/>
+    <cosponsor id="412561" joined="2015-02-25"/>
+    <cosponsor id="400219" joined="2015-01-06"/>
+    <cosponsor id="400240" joined="2015-02-25"/>
+    <cosponsor id="412616" joined="2015-02-25"/>
+    <cosponsor id="400630" joined="2015-02-20"/>
+    <cosponsor id="400245" joined="2015-02-25"/>
+    <cosponsor id="412293" joined="2015-02-27"/>
+    <cosponsor id="412643" joined="2015-08-04"/>
+    <cosponsor id="412562" joined="2015-02-25"/>
+    <cosponsor id="400259" joined="2015-07-29"/>
+    <cosponsor id="400263" joined="2015-02-09"/>
+    <cosponsor id="412662" joined="2015-02-12"/>
+    <cosponsor id="400290" joined="2015-02-20"/>
+    <cosponsor id="400291" joined="2015-02-20"/>
+    <cosponsor id="408211" joined="2015-02-25"/>
+    <cosponsor id="400309" joined="2015-02-25"/>
+    <cosponsor id="400316" joined="2015-02-27"/>
+    <cosponsor id="412307" joined="2015-02-20"/>
+    <cosponsor id="412585" joined="2015-02-25"/>
+    <cosponsor id="412633" joined="2015-03-24"/>
+    <cosponsor id="412308" joined="2015-02-27"/>
+    <cosponsor id="400326" joined="2015-02-25"/>
+    <cosponsor id="412331" joined="2015-02-27"/>
+    <cosponsor id="400333" joined="2015-02-10"/>
+    <cosponsor id="412647" joined="2015-03-13"/>
+    <cosponsor id="412432" joined="2015-07-28"/>
+    <cosponsor id="400350" joined="2015-02-20"/>
+    <cosponsor id="400352" joined="2015-02-20"/>
+    <cosponsor id="400366" joined="2015-02-25"/>
+    <cosponsor id="412186" joined="2015-02-25"/>
+    <cosponsor id="412259" joined="2015-02-25"/>
+    <cosponsor id="412514" joined="2015-02-20"/>
+    <cosponsor id="412520" joined="2015-02-20"/>
+    <cosponsor id="412319" joined="2015-02-20"/>
+    <cosponsor id="412522" joined="2015-02-20"/>
+    <cosponsor id="400416" joined="2015-02-20"/>
+    <cosponsor id="400417" joined="2015-02-25"/>
+    <cosponsor id="412239" joined="2015-02-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-06" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Arts, culture, religion"/>
+    <term name="Congressional tributes"/>
+    <term name="Religion"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/2015--Introduced.
+Congratulates Pope Francis on his election and recognizes his inspirational statements and actions.</summary>
+</bill>

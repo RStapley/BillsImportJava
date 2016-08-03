@@ -1,0 +1,59 @@
+<bill session="114" type="h" number="1581" updated="2015-07-30T04:48:46-04:00">
+  <state datetime="2015-03-24">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-24"/>
+  </status>
+  <introduced datetime="2015-03-24"/>
+  <titles>
+    <title type="short" as="introduced">Veterans Education Tax Security Act of 2015</title>
+    <title type="short" as="introduced">VETS Act of 2015</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to exclude from gross income the discharge of certain student loans of deceased or disabled veterans.</title>
+  </titles>
+  <sponsor id="412612"/>
+  <cosponsors>
+    <cosponsor id="412517" joined="2015-06-18"/>
+    <cosponsor id="412576" joined="2015-06-18"/>
+    <cosponsor id="412613" joined="2015-06-18"/>
+    <cosponsor id="412533" joined="2015-06-18"/>
+    <cosponsor id="400137" joined="2015-06-23"/>
+    <cosponsor id="412532" joined="2015-06-18"/>
+    <cosponsor id="400162" joined="2015-06-18"/>
+    <cosponsor id="412446" joined="2015-06-18"/>
+    <cosponsor id="400209" joined="2015-06-18"/>
+    <cosponsor id="412286" joined="2015-06-18"/>
+    <cosponsor id="412614" joined="2015-06-18"/>
+    <cosponsor id="412616" joined="2015-06-18"/>
+    <cosponsor id="412643" joined="2015-06-18"/>
+    <cosponsor id="412585" joined="2015-06-18"/>
+    <cosponsor id="412509" joined="2015-06-18"/>
+    <cosponsor id="412648" joined="2015-07-29"/>
+    <cosponsor id="412514" joined="2015-06-18"/>
+    <cosponsor id="412520" joined="2015-06-18"/>
+    <cosponsor id="400411" joined="2015-06-18"/>
+    <cosponsor id="412522" joined="2015-06-18"/>
+    <cosponsor id="412214" joined="2015-06-18"/>
+    <cosponsor id="400433" joined="2015-06-18"/>
+    <cosponsor id="412640" joined="2015-03-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-24">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H1856"/>
+    </action>
+    <action datetime="2015-03-24" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+  <summary>3/24/2015--Introduced.
+Veterans Education Tax Security Act of 2015 or the VETS Act of 2015
+
+This bill amends the Internal Revenue Code to exclude from the gross income of a veteran with a service-connected disability rated as total, or from the gross income of a parent or cosigner of a deceased veteran, income imputed from the discharge of student loan amounts under the Higher Education Act of 1965.</summary>
+</bill>

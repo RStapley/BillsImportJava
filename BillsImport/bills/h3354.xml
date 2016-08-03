@@ -1,0 +1,31 @@
+<bill session="114" type="h" number="3354" updated="2015-08-15T06:47:26-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">Federal Prison Bureau Relief Act of 2015</title>
+    <title type="official" as="introduced">To amend title 18, United States Code, to provide an alternate release date for certain nonviolent offenders, to amend title 18, United States Code, with respect to the computation of the good time credit toward service of sentences of imprisonment, and for other purposes.</title>
+  </titles>
+  <sponsor id="400199"/>
+  <cosponsors>
+    <cosponsor id="400080" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="71"/>
+    <bill relation="unknown" session="114" type="h" number="1253"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+  </subjects>
+  <amendments/>
+</bill>

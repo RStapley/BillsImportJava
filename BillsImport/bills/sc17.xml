@@ -1,0 +1,57 @@
+<bill session="114" type="sc" number="17" updated="2015-08-15T06:51:45-04:00">
+  <state datetime="2015-05-20">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-20"/>
+  </status>
+  <introduced datetime="2015-03-20"/>
+  <titles>
+    <title type="short" as="introduced">Regulation Sensibility Through Oversight Restoration Resolution of 2015</title>
+    <title type="short" as="introduced">RESTORE Resolution of 2015</title>
+    <title type="official" as="introduced">A concurrent resolution establishing a joint select committee to address regulatory reform.</title>
+  </titles>
+  <sponsor id="412669"/>
+  <cosponsors>
+    <cosponsor id="300002" joined="2015-05-21"/>
+    <cosponsor id="412493" joined="2015-06-01"/>
+    <cosponsor id="400061" joined="2015-05-20"/>
+    <cosponsor id="300025" joined="2015-05-20"/>
+    <cosponsor id="412494" joined="2015-05-20"/>
+    <cosponsor id="300055" joined="2015-05-20"/>
+    <cosponsor id="400194" joined="2015-06-09"/>
+    <cosponsor id="412391" joined="2015-05-20"/>
+    <cosponsor id="300071" joined="2015-07-16"/>
+    <cosponsor id="412322" joined="2015-05-20"/>
+    <cosponsor id="400546" joined="2015-05-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-20" state="REFERRED">
+      <text>Referred to the Committee on Rules and Administration.</text>
+      <reference ref="CR S3188-3189" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSRA" name="Senate Rules and Administration" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="hc" number="67"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Congressional committees"/>
+    <term name="Congressional operations and organization"/>
+    <term name="Congressional oversight"/>
+    <term name="Economic performance and conditions"/>
+  </subjects>
+  <amendments/>
+  <summary>5/20/2015--Introduced.
+Regulation Sensibility Through Oversight Restoration Resolution of 2015 or the RESTORE Resolution of 2015
+
+Establishes the Joint Select Committee on Regulatory Reform to:
+
+ review the process by which rules are promulgated by agencies, hold hearings on the effects of and how to reduce regulatory overreach in all sectors of the economy, and review the Code of Federal Regulations to identify rules and sets of rules that should be repealed. Requires the Joint Select Committee to recommend to Congress legislation to create processes: (1) under which an agency, before promulgating a rule, shall seek advice from Congress and take other specified actions; and (2) to appropriately sunset as many rules as possible.
+
+Requires the Joint Select Committee also to submit to Congress:
+
+ recommendations for ways to reduce the financial burden placed on the various sectors of the economy in order to comply with rules; an analysis of the feasibility of creating a permanent Joint Committee on Rules Review, and requiring each agency to submit each of its proposed rules to the appropriate congressional committee for review in a specified manner; and a list of rules and sets of rules that the Joint Select Committee recommends should be repealed. Requires the Joint Committee on Rules Review, if established, to review each proposed rule that an agency determines is likely to have an annual effect on the economy of $50 million or more before the agency promulgates the final rule.</summary>
+</bill>

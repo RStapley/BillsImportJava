@@ -1,0 +1,46 @@
+<bill session="114" type="h" number="417" updated="2015-03-07T06:20:04-05:00">
+  <state datetime="2015-01-20">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-20"/>
+  </status>
+  <introduced datetime="2015-01-20"/>
+  <titles>
+    <title type="short" as="introduced">Federal Workforce Reduction Through Attrition Act</title>
+    <title type="official" as="introduced">To reduce the total number of civil service employees in the executive branch of the Government through attrition, and for other purposes.</title>
+  </titles>
+  <sponsor id="412294"/>
+  <cosponsors>
+    <cosponsor id="412619" joined="2015-02-02"/>
+    <cosponsor id="412472" joined="2015-01-28"/>
+    <cosponsor id="400220" joined="2015-01-28"/>
+    <cosponsor id="412474" joined="2015-01-20"/>
+    <cosponsor id="412310" joined="2015-01-28"/>
+    <cosponsor id="412426" joined="2015-02-10"/>
+    <cosponsor id="412610" joined="2015-02-10"/>
+    <cosponsor id="412640" joined="2015-02-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-20" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congressional oversight"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Public contracts and procurement"/>
+  </subjects>
+  <amendments/>
+  <summary>1/20/2015--Introduced.
+Federal Workforce Reduction Through Attrition Act
+
+ Requires the Office of Management and Budget (OMB) to ensure that the total number of federal employees in each calendar quarter after the enactment of this Act does not exceed the applicable maximum for such quarter, as determined under this Act. Sets forth a formula for determining the applicable maximum based upon 90% of the total number of federal employees as of September 30, 2013. Requires that compliance with such workforce limitation be made through attrition, or through both attrition and a freeze on appointments if the total number of federal employees exceeds the applicable maximum for a quarter.
+
+Requires OMB to: (1) ensure that there is a reduction in the amount expended for the procurement of service contracts for each fiscal year after this Act's enactment equal to the reduction in the amount expended for the federal workforce in the previous fiscal year as a result of the requirements of this Act; and (2) continuously monitor all agencies to determine whether the workforce limitation required by this Act has been met.
+
+Allows the President to waive such workforce or service contract limitation if necessary due to: (1) a state of war or for reasons of national security; or (2) an extraordinary emergency threatening life, health, safety, or property.</summary>
+</bill>

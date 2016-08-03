@@ -1,0 +1,89 @@
+<bill session="114" type="h" number="2043" updated="2015-07-30T04:49:08-04:00">
+  <state datetime="2015-04-28">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-28"/>
+  </status>
+  <introduced datetime="2015-04-28"/>
+  <titles>
+    <title type="short" as="introduced">Diagnostic Imaging Services Access Protection Act of 2015</title>
+    <title type="official" as="introduced">To amend title XVIII of the Social Security Act to ensure the continued access of Medicare beneficiaries to diagnostic imaging services, and for other purposes.</title>
+  </titles>
+  <sponsor id="412302"/>
+  <cosponsors>
+    <cosponsor id="412630" joined="2015-07-09"/>
+    <cosponsor id="412500" joined="2015-06-02"/>
+    <cosponsor id="400032" joined="2015-05-21"/>
+    <cosponsor id="400636" joined="2015-07-29"/>
+    <cosponsor id="412516" joined="2015-06-02"/>
+    <cosponsor id="412379" joined="2015-06-24"/>
+    <cosponsor id="412272" joined="2015-06-11"/>
+    <cosponsor id="412651" joined="2015-05-21"/>
+    <cosponsor id="412536" joined="2015-07-29"/>
+    <cosponsor id="412453" joined="2015-07-09"/>
+    <cosponsor id="412485" joined="2015-07-09"/>
+    <cosponsor id="412584" joined="2015-07-15"/>
+    <cosponsor id="412460" joined="2015-07-29"/>
+    <cosponsor id="400204" joined="2015-07-09"/>
+    <cosponsor id="412566" joined="2015-07-29"/>
+    <cosponsor id="412583" joined="2015-07-09"/>
+    <cosponsor id="412616" joined="2015-06-11"/>
+    <cosponsor id="400244" joined="2015-07-09"/>
+    <cosponsor id="400656" joined="2015-05-21"/>
+    <cosponsor id="400259" joined="2015-04-28"/>
+    <cosponsor id="412474" joined="2015-06-02"/>
+    <cosponsor id="400297" joined="2015-04-28"/>
+    <cosponsor id="412443" joined="2015-06-04"/>
+    <cosponsor id="400309" joined="2015-07-22"/>
+    <cosponsor id="412307" joined="2015-06-17"/>
+    <cosponsor id="400626" joined="2015-07-15"/>
+    <cosponsor id="412483" joined="2015-07-15"/>
+    <cosponsor id="412310" joined="2015-07-29"/>
+    <cosponsor id="400341" joined="2015-07-22"/>
+    <cosponsor id="412202" joined="2015-04-28"/>
+    <cosponsor id="400361" joined="2015-05-21"/>
+    <cosponsor id="400363" joined="2015-05-21"/>
+    <cosponsor id="400365" joined="2015-06-04"/>
+    <cosponsor id="412461" joined="2015-06-02"/>
+    <cosponsor id="412405" joined="2015-07-29"/>
+    <cosponsor id="412319" joined="2015-06-17"/>
+    <cosponsor id="412617" joined="2015-06-04"/>
+    <cosponsor id="412515" joined="2015-07-23"/>
+    <cosponsor id="400419" joined="2015-05-21"/>
+    <cosponsor id="412239" joined="2015-07-29"/>
+    <cosponsor id="412430" joined="2015-07-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-28" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-04-28">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-04-28">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-05-01">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="1020"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Government information and archives"/>
+    <term name="Health information and medical records"/>
+    <term name="Medical tests and diagnostic methods"/>
+    <term name="Medicare"/>
+  </subjects>
+  <amendments/>
+  <summary>4/28/2015--Introduced.
+Diagnostic Imaging Services Access Protection Act of 2015
+
+This bill amends title XVIII (Medicare) of the Social Security Act to prohibit the Secretary of Health and Human Services from applying a multiple procedure payment reduction policy to the professional component of imaging services furnished: (1) after a specified date in the year this Act is enacted; or (2) in any subsequent year before the Secretary conducts and publishes, as part of the Medicare Physician Fee Schedule for a year, an analysis of the Resource-Based Relative Value Scale Data Manager information used to determine what, if any, efficiencies exist within the professional component of imaging services when two or more studies are performed on the same patient on the same day.</summary>
+</bill>

@@ -1,0 +1,32 @@
+<bill session="114" type="s" number="1627" updated="2015-07-11T07:00:53-04:00">
+  <state datetime="2015-06-18">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-18"/>
+  </status>
+  <introduced datetime="2015-06-18"/>
+  <titles>
+    <title type="short" as="introduced">Human Rights Accountability Act of 2015</title>
+    <title type="official" as="introduced">A bill to ensure the Secretary of State complies fully with reporting requirements in section 116(d) of the Foreign Assistance Act of 1961.</title>
+  </titles>
+  <sponsor id="412573"/>
+  <cosponsors>
+    <cosponsor id="400222" joined="2015-06-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-18" state="REFERRED">
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+  </subjects>
+  <amendments/>
+  <summary>6/18/2015--Introduced.
+Human Rights Accountability Act of 2015
+
+This bill requires that 5% of the funds appropriated or otherwise made available for a fiscal year for the Department of State's diplomatic and consular programs (and not designated for worldwide security protection) be withheld from obligation for every 30 days the Department's human rights report is late.</summary>
+</bill>

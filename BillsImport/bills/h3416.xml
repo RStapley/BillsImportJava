@@ -1,0 +1,26 @@
+<bill session="114" type="h" number="3416" updated="2015-08-11T09:51:53-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">Flight School Security Act of 2015</title>
+    <title type="official" as="introduced">To amend title 49, United States Code, to require that individuals seeking training in the operation of certain aircraft be checked against the terrorist watchlist to ensure that such individuals are non-threats to aviation, and for other purposes.</title>
+  </titles>
+  <sponsor id="400402"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the House Committee on Homeland Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+</bill>

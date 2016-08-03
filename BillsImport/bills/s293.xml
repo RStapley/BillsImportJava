@@ -1,0 +1,55 @@
+<bill session="114" type="s" number="293" updated="2015-05-22T04:51:00-04:00">
+  <state datetime="2015-01-28">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-28"/>
+  </status>
+  <introduced datetime="2015-01-28"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Endangered Species Act of 1973 to establish a procedure for approval of certain settlements.</title>
+  </titles>
+  <sponsor id="300027"/>
+  <cosponsors>
+    <cosponsor id="412251" joined="2015-01-29"/>
+    <cosponsor id="400040" joined="2015-01-28"/>
+    <cosponsor id="300030" joined="2015-01-28"/>
+    <cosponsor id="412573" joined="2015-05-21"/>
+    <cosponsor id="300041" joined="2015-02-02"/>
+    <cosponsor id="412556" joined="2015-01-28"/>
+    <cosponsor id="400134" joined="2015-01-28"/>
+    <cosponsor id="300052" joined="2015-01-28"/>
+    <cosponsor id="412218" joined="2015-01-28"/>
+    <cosponsor id="300055" joined="2015-03-26"/>
+    <cosponsor id="412464" joined="2015-01-28"/>
+    <cosponsor id="400284" joined="2015-01-28"/>
+    <cosponsor id="412322" joined="2015-01-28"/>
+    <cosponsor id="300083" joined="2015-01-28"/>
+    <cosponsor id="412669" joined="2015-01-28"/>
+    <cosponsor id="400418" joined="2015-01-28"/>
+    <cosponsor id="400432" joined="2015-01-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-28" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+      <reference ref="CR S602" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2015-05-06">
+      <text>Committee on Environment and Public Works. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="585"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Alternative dispute resolution, mediation, arbitration"/>
+    <term name="Civil actions and liability"/>
+    <term name="Endangered and threatened species"/>
+    <term name="Government information and archives"/>
+    <term name="Intergovernmental relations"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+</bill>

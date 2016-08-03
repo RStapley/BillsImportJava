@@ -1,0 +1,50 @@
+<bill session="114" type="h" number="94" updated="2015-07-22T04:58:18-04:00">
+  <state datetime="2015-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-06"/>
+  </status>
+  <introduced datetime="2015-01-06"/>
+  <titles>
+    <title type="short" as="introduced">Cameras in the Courtroom Act</title>
+    <title type="official" as="introduced">To permit the televising of Supreme Court proceedings.</title>
+  </titles>
+  <sponsor id="412272"/>
+  <cosponsors>
+    <cosponsor id="412195" joined="2015-02-03"/>
+    <cosponsor id="412470" joined="2015-01-12"/>
+    <cosponsor id="400249" joined="2015-01-26"/>
+    <cosponsor id="400289" joined="2015-04-23"/>
+    <cosponsor id="400295" joined="2015-07-21"/>
+    <cosponsor id="400652" joined="2015-01-06"/>
+    <cosponsor id="412331" joined="2015-01-06"/>
+    <cosponsor id="412211" joined="2015-02-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-06" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-02-02">
+      <text>Referred to the Subcommittee on Courts, Intellectual Property, and the Internet.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU03" subcommittee="Courts, Intellectual Property, and the Internet" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1381"/>
+    <bill relation="identical" session="114" type="s" number="780"/>
+  </relatedbills>
+  <subjects>
+    <term name="Law"/>
+    <term name="Broadcasting, cable, digital technologies"/>
+    <term name="Due process and equal protection"/>
+    <term name="Supreme Court"/>
+    <term name="Television and film"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/2015--Introduced.
+Cameras in the Courtroom Act
+
+Requires the Supreme Court to permit television coverage of all open sessions of the Court unless it decides by majority vote that allowing such coverage in a particular case would violate the due process rights of any of the parties involved.</summary>
+</bill>

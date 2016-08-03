@@ -1,0 +1,234 @@
+<bill session="114" type="h" number="594" updated="2015-05-14T04:46:44-04:00">
+  <state datetime="2015-01-28">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-28"/>
+  </status>
+  <introduced datetime="2015-01-28"/>
+  <titles>
+    <title type="short" as="introduced">Waters of the United States Regulatory Overreach Protection Act of 2015</title>
+    <title type="official" as="introduced">To preserve existing rights and responsibilities with respect to waters of the United States, and for other purposes.</title>
+  </titles>
+  <sponsor id="412397"/>
+  <cosponsors>
+    <cosponsor id="412630" joined="2015-02-03"/>
+    <cosponsor id="400004" joined="2015-02-04"/>
+    <cosponsor id="412625" joined="2015-02-04"/>
+    <cosponsor id="412438" joined="2015-01-28"/>
+    <cosponsor id="412500" joined="2015-01-28"/>
+    <cosponsor id="412642" joined="2015-01-28"/>
+    <cosponsor id="412655" joined="2015-01-28"/>
+    <cosponsor id="412469" joined="2015-03-04"/>
+    <cosponsor id="412541" joined="2015-01-28"/>
+    <cosponsor id="400018" joined="2015-02-03"/>
+    <cosponsor id="412436" joined="2015-01-28"/>
+    <cosponsor id="412250" joined="2015-02-25"/>
+    <cosponsor id="412635" joined="2015-02-27"/>
+    <cosponsor id="412478" joined="2015-04-13"/>
+    <cosponsor id="400032" joined="2015-01-28"/>
+    <cosponsor id="412627" joined="2015-01-28"/>
+    <cosponsor id="412629" joined="2015-01-28"/>
+    <cosponsor id="400636" joined="2015-01-28"/>
+    <cosponsor id="412605" joined="2015-03-04"/>
+    <cosponsor id="412567" joined="2015-01-28"/>
+    <cosponsor id="412395" joined="2015-01-28"/>
+    <cosponsor id="412427" joined="2015-01-28"/>
+    <cosponsor id="400052" joined="2015-01-28"/>
+    <cosponsor id="412601" joined="2015-01-28"/>
+    <cosponsor id="400068" joined="2015-02-03"/>
+    <cosponsor id="400071" joined="2015-01-30"/>
+    <cosponsor id="412270" joined="2015-01-30"/>
+    <cosponsor id="412531" joined="2015-01-28"/>
+    <cosponsor id="412513" joined="2015-01-28"/>
+    <cosponsor id="412555" joined="2015-01-28"/>
+    <cosponsor id="412400" joined="2015-01-28"/>
+    <cosponsor id="400086" joined="2015-01-28"/>
+    <cosponsor id="400089" joined="2015-04-13"/>
+    <cosponsor id="412621" joined="2015-02-10"/>
+    <cosponsor id="412536" joined="2015-01-30"/>
+    <cosponsor id="412403" joined="2015-01-28"/>
+    <cosponsor id="400648" joined="2015-01-28"/>
+    <cosponsor id="412526" joined="2015-01-30"/>
+    <cosponsor id="412477" joined="2015-03-26"/>
+    <cosponsor id="400108" joined="2015-02-04"/>
+    <cosponsor id="412488" joined="2015-02-10"/>
+    <cosponsor id="412472" joined="2015-01-28"/>
+    <cosponsor id="400116" joined="2015-02-04"/>
+    <cosponsor id="412457" joined="2015-02-04"/>
+    <cosponsor id="412639" joined="2015-01-28"/>
+    <cosponsor id="412482" joined="2015-01-28"/>
+    <cosponsor id="412479" joined="2015-02-13"/>
+    <cosponsor id="412476" joined="2015-02-04"/>
+    <cosponsor id="412275" joined="2015-01-28"/>
+    <cosponsor id="412480" joined="2015-01-28"/>
+    <cosponsor id="400137" joined="2015-01-28"/>
+    <cosponsor id="400141" joined="2015-01-28"/>
+    <cosponsor id="412453" joined="2015-01-28"/>
+    <cosponsor id="400651" joined="2015-01-28"/>
+    <cosponsor id="400154" joined="2015-01-28"/>
+    <cosponsor id="400157" joined="2015-04-13"/>
+    <cosponsor id="400158" joined="2015-01-28"/>
+    <cosponsor id="412388" joined="2015-02-10"/>
+    <cosponsor id="412485" joined="2015-01-28"/>
+    <cosponsor id="412661" joined="2015-01-28"/>
+    <cosponsor id="412447" joined="2015-04-13"/>
+    <cosponsor id="412278" joined="2015-01-30"/>
+    <cosponsor id="412454" joined="2015-01-28"/>
+    <cosponsor id="412645" joined="2015-01-28"/>
+    <cosponsor id="412280" joined="2015-01-28"/>
+    <cosponsor id="412434" joined="2015-03-16"/>
+    <cosponsor id="412446" joined="2015-02-04"/>
+    <cosponsor id="400175" joined="2015-02-13"/>
+    <cosponsor id="412486" joined="2015-02-04"/>
+    <cosponsor id="412623" joined="2015-01-28"/>
+    <cosponsor id="412609" joined="2015-01-28"/>
+    <cosponsor id="412553" joined="2015-02-10"/>
+    <cosponsor id="412550" joined="2015-01-28"/>
+    <cosponsor id="412429" joined="2015-01-28"/>
+    <cosponsor id="412437" joined="2015-01-28"/>
+    <cosponsor id="412422" joined="2015-02-03"/>
+    <cosponsor id="412283" joined="2015-01-28"/>
+    <cosponsor id="412654" joined="2015-01-28"/>
+    <cosponsor id="412484" joined="2015-01-28"/>
+    <cosponsor id="400196" joined="2015-02-11"/>
+    <cosponsor id="412663" joined="2015-02-04"/>
+    <cosponsor id="412284" joined="2015-02-04"/>
+    <cosponsor id="412460" joined="2015-02-27"/>
+    <cosponsor id="400206" joined="2015-01-28"/>
+    <cosponsor id="412603" joined="2015-01-28"/>
+    <cosponsor id="400209" joined="2015-01-30"/>
+    <cosponsor id="412226" joined="2015-02-04"/>
+    <cosponsor id="412566" joined="2015-01-28"/>
+    <cosponsor id="412465" joined="2015-01-28"/>
+    <cosponsor id="400220" joined="2015-04-13"/>
+    <cosponsor id="412421" joined="2015-01-28"/>
+    <cosponsor id="412286" joined="2015-02-27"/>
+    <cosponsor id="412510" joined="2015-01-28"/>
+    <cosponsor id="412191" joined="2015-01-28"/>
+    <cosponsor id="412256" joined="2015-01-28"/>
+    <cosponsor id="412445" joined="2015-01-28"/>
+    <cosponsor id="412624" joined="2015-02-10"/>
+    <cosponsor id="400247" joined="2015-01-28"/>
+    <cosponsor id="412292" joined="2015-02-10"/>
+    <cosponsor id="412294" joined="2015-01-28"/>
+    <cosponsor id="412643" joined="2015-02-03"/>
+    <cosponsor id="400656" joined="2015-01-28"/>
+    <cosponsor id="412468" joined="2015-02-03"/>
+    <cosponsor id="412503" joined="2015-04-13"/>
+    <cosponsor id="412295" joined="2015-01-28"/>
+    <cosponsor id="400644" joined="2015-02-05"/>
+    <cosponsor id="412487" joined="2015-01-28"/>
+    <cosponsor id="400659" joined="2015-01-28"/>
+    <cosponsor id="412611" joined="2015-01-30"/>
+    <cosponsor id="412552" joined="2015-01-28"/>
+    <cosponsor id="412540" joined="2015-02-05"/>
+    <cosponsor id="400276" joined="2015-02-25"/>
+    <cosponsor id="400279" joined="2015-02-10"/>
+    <cosponsor id="412634" joined="2015-02-13"/>
+    <cosponsor id="412662" joined="2015-04-23"/>
+    <cosponsor id="412568" joined="2015-02-04"/>
+    <cosponsor id="412474" joined="2015-02-11"/>
+    <cosponsor id="400285" joined="2015-01-30"/>
+    <cosponsor id="400441" joined="2015-01-28"/>
+    <cosponsor id="412660" joined="2015-01-28"/>
+    <cosponsor id="412475" joined="2015-02-03"/>
+    <cosponsor id="412409" joined="2015-01-28"/>
+    <cosponsor id="400297" joined="2015-01-28"/>
+    <cosponsor id="412302" joined="2015-01-28"/>
+    <cosponsor id="412443" joined="2015-01-28"/>
+    <cosponsor id="412608" joined="2015-02-25"/>
+    <cosponsor id="400313" joined="2015-01-28"/>
+    <cosponsor id="412569" joined="2015-01-28"/>
+    <cosponsor id="400316" joined="2015-01-28"/>
+    <cosponsor id="412551" joined="2015-01-28"/>
+    <cosponsor id="400652" joined="2015-01-28"/>
+    <cosponsor id="412633" joined="2015-01-30"/>
+    <cosponsor id="412431" joined="2015-01-28"/>
+    <cosponsor id="412309" joined="2015-02-11"/>
+    <cosponsor id="412653" joined="2015-03-16"/>
+    <cosponsor id="412572" joined="2015-01-30"/>
+    <cosponsor id="412394" joined="2015-02-03"/>
+    <cosponsor id="412310" joined="2015-01-28"/>
+    <cosponsor id="400340" joined="2015-01-28"/>
+    <cosponsor id="400341" joined="2015-02-04"/>
+    <cosponsor id="400343" joined="2015-02-10"/>
+    <cosponsor id="412426" joined="2015-01-28"/>
+    <cosponsor id="412311" joined="2015-01-28"/>
+    <cosponsor id="412411" joined="2015-02-10"/>
+    <cosponsor id="412570" joined="2015-01-30"/>
+    <cosponsor id="412641" joined="2015-02-11"/>
+    <cosponsor id="412650" joined="2015-02-25"/>
+    <cosponsor id="400351" joined="2015-01-28"/>
+    <cosponsor id="400606" joined="2015-01-28"/>
+    <cosponsor id="400607" joined="2015-02-10"/>
+    <cosponsor id="412314" joined="2015-01-28"/>
+    <cosponsor id="412417" joined="2015-05-13"/>
+    <cosponsor id="400365" joined="2015-01-28"/>
+    <cosponsor id="400367" joined="2015-02-04"/>
+    <cosponsor id="400373" joined="2015-01-28"/>
+    <cosponsor id="400376" joined="2015-01-28"/>
+    <cosponsor id="412596" joined="2015-01-28"/>
+    <cosponsor id="412648" joined="2015-02-25"/>
+    <cosponsor id="412581" joined="2015-01-28"/>
+    <cosponsor id="412461" joined="2015-01-28"/>
+    <cosponsor id="412392" joined="2015-01-28"/>
+    <cosponsor id="412317" joined="2015-01-30"/>
+    <cosponsor id="400404" joined="2015-01-28"/>
+    <cosponsor id="400406" joined="2015-01-28"/>
+    <cosponsor id="412405" joined="2015-01-28"/>
+    <cosponsor id="412636" joined="2015-02-11"/>
+    <cosponsor id="400414" joined="2015-01-28"/>
+    <cosponsor id="412515" joined="2015-01-28"/>
+    <cosponsor id="412548" joined="2015-02-04"/>
+    <cosponsor id="412213" joined="2015-01-28"/>
+    <cosponsor id="400419" joined="2015-01-28"/>
+    <cosponsor id="412538" joined="2015-02-13"/>
+    <cosponsor id="412574" joined="2015-01-28"/>
+    <cosponsor id="412410" joined="2015-01-28"/>
+    <cosponsor id="412564" joined="2015-01-28"/>
+    <cosponsor id="412610" joined="2015-01-28"/>
+    <cosponsor id="400627" joined="2015-01-28"/>
+    <cosponsor id="400431" joined="2015-01-28"/>
+    <cosponsor id="412578" joined="2015-01-28"/>
+    <cosponsor id="412255" joined="2015-02-11"/>
+    <cosponsor id="412402" joined="2015-01-28"/>
+    <cosponsor id="412525" joined="2015-01-28"/>
+    <cosponsor id="412628" joined="2015-02-27"/>
+    <cosponsor id="400440" joined="2015-01-28"/>
+    <cosponsor id="412640" joined="2015-01-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-28" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2015-01-29">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW02" subcommittee="Water Resources and Environment" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Agricultural conservation and pollution"/>
+    <term name="Army Corps of Engineers"/>
+    <term name="Congressional oversight"/>
+    <term name="Environmental Protection Agency (EPA)"/>
+    <term name="Environmental regulatory procedures"/>
+    <term name="Government information and archives"/>
+    <term name="Intergovernmental relations"/>
+    <term name="State and local government operations"/>
+    <term name="Water quality"/>
+  </subjects>
+  <amendments/>
+  <summary>1/28/2015--Introduced.
+Waters of the United States Regulatory Overreach Protection Act of 2015 
+
+This bill prohibits the U.S. Army Corps of Engineers and the Environmental Protection Agency (EPA) from:
+
+ developing, finalizing, adopting, implementing, applying, administering, or enforcing the proposed rule entitled, "Definition of 'Waters of the United States' Under the Clean Water Act," issued on April 21, 2014, or the proposed guidance entitled, "Guidance on Identifying Waters Protected By the Clean Water Act," dated February 17, 2012; or using the proposed rule or proposed guidance, any successor document, or any substantially similar proposed rule or guidance as the basis for any rulemaking or decision regarding the scope or enforcement of the Federal Water Pollution Control Act (commonly known as the Clean Water Act). The Army Corps and the EPA must withdraw the interpretive rule entitled, "Notice of Availability Regarding the Exemption from Permitting Under Section 404(f)(1)(A) of the Clean Water Act to Certain Agricultural Conservation Practices," issued on April 21, 2014.
+
+The Army Corps and the EPA are required to consult with relevant state and local officials to develop recommendations for a regulatory proposal that would identify the scope of waters covered under the Clean Water Act and the scope of waters not covered.</summary>
+</bill>

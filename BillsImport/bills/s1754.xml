@@ -1,0 +1,25 @@
+<bill session="114" type="s" number="1754" updated="2015-08-22T07:06:25-04:00">
+  <state datetime="2015-07-14">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-14"/>
+  </status>
+  <introduced datetime="2015-07-14"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 38, United States Code, to make permanent the temporary increase in number of judges presiding over the United States Court of Appeals for Veterans Claims, and for other purposes.</title>
+  </titles>
+  <sponsor id="412323"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-14" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,41 @@
+<bill session="114" type="h" number="1256" updated="2015-05-22T04:48:41-04:00">
+  <state datetime="2015-03-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-04"/>
+  </status>
+  <introduced datetime="2015-03-04"/>
+  <titles>
+    <title type="short" as="introduced">Concrete Pump Tax Fairness Act of 2015</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to impose a mileage-based user fee for mobile mounted concrete boom pumps in lieu of the tax on taxable fuels, and for other purposes.</title>
+  </titles>
+  <sponsor id="412578"/>
+  <cosponsors>
+    <cosponsor id="400033" joined="2015-03-04"/>
+    <cosponsor id="412192" joined="2015-04-16"/>
+    <cosponsor id="400403" joined="2015-05-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-04" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Government trust funds"/>
+    <term name="Motor carriers"/>
+    <term name="Motor vehicles"/>
+    <term name="Roads and highways"/>
+    <term name="Sales and excise taxes"/>
+    <term name="Transportation costs"/>
+    <term name="Transportation programs funding"/>
+  </subjects>
+  <amendments/>
+  <summary>3/4/2015--Introduced.
+Concrete Pump Tax Fairness Act of 2015
+
+Amends the Internal Revenue Code to impose a vehicle mileage tax on owners&#160;of mobile mounted concrete boom pump vehicles. Defines "mobile mounted concrete boom pump vehicle" as a vehicle which is mobile machinery and on which the mounted machinery consists of a concrete boom pump and related subordinate parts. Directs that revenues from such tax be deposited into the Highway Trust Fund.</summary>
+</bill>

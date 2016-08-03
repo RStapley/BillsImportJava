@@ -1,0 +1,58 @@
+<bill session="114" type="hr" number="64" updated="2015-02-14T06:17:19-05:00">
+  <state datetime="2015-01-28">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-28"/>
+  </status>
+  <introduced datetime="2015-01-28"/>
+  <titles>
+    <title type="official" as="introduced">Recognizing January 2015 as "National Mentoring Month".</title>
+  </titles>
+  <sponsor id="412412"/>
+  <cosponsors>
+    <cosponsor id="412404" joined="2015-01-28"/>
+    <cosponsor id="400048" joined="2015-01-28"/>
+    <cosponsor id="412517" joined="2015-01-28"/>
+    <cosponsor id="412258" joined="2015-01-28"/>
+    <cosponsor id="412195" joined="2015-01-28"/>
+    <cosponsor id="400080" joined="2015-01-28"/>
+    <cosponsor id="400093" joined="2015-01-28"/>
+    <cosponsor id="400097" joined="2015-01-28"/>
+    <cosponsor id="400130" joined="2015-01-28"/>
+    <cosponsor id="412327" joined="2015-01-28"/>
+    <cosponsor id="400653" joined="2015-01-28"/>
+    <cosponsor id="400162" joined="2015-02-03"/>
+    <cosponsor id="400230" joined="2015-01-28"/>
+    <cosponsor id="412209" joined="2015-01-28"/>
+    <cosponsor id="400259" joined="2015-01-28"/>
+    <cosponsor id="400295" joined="2015-01-28"/>
+    <cosponsor id="412192" joined="2015-01-28"/>
+    <cosponsor id="412585" joined="2015-01-28"/>
+    <cosponsor id="400360" joined="2015-01-28"/>
+    <cosponsor id="400361" joined="2015-01-28"/>
+    <cosponsor id="412317" joined="2015-01-28"/>
+    <cosponsor id="412254" joined="2015-01-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-28" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Child care and development"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="Elementary and secondary education"/>
+  </subjects>
+  <amendments/>
+  <summary>1/28/2015--Introduced.
+Recognizes: (1) National Mentoring Month, and (2) the staff and volunteers at quality mentoring programs who help young people reach their full potential.
+
+Acknowledges that mentoring is beneficial in that it encourages educational achievement, reduces juvenile delinquency, improves life outcomes, and strengthens communities.
+
+Expresses support for: (1) the creation and expansion of quality mentoring programs across the United States, and (2) initiatives to increase the percentage of young people who have a mentor.</summary>
+</bill>

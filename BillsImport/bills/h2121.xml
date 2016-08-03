@@ -1,0 +1,63 @@
+<bill session="114" type="h" number="2121" updated="2015-07-30T04:49:13-04:00">
+  <state datetime="2015-04-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-29"/>
+  </status>
+  <introduced datetime="2015-04-29"/>
+  <titles>
+    <title type="short" as="introduced">SAFE Transitional Licensing Act of 2015</title>
+    <title type="official" as="introduced">To amend the S.A.F.E. Mortgage Licensing Act of 2008 to provide a temporary license for loan originators transitioning between employers, and for other purposes.</title>
+  </titles>
+  <sponsor id="412461"/>
+  <cosponsors>
+    <cosponsor id="412565" joined="2015-04-29"/>
+    <cosponsor id="412407" joined="2015-06-25"/>
+    <cosponsor id="400639" joined="2015-07-29"/>
+    <cosponsor id="412544" joined="2015-07-09"/>
+    <cosponsor id="412479" joined="2015-07-29"/>
+    <cosponsor id="412485" joined="2015-07-10"/>
+    <cosponsor id="412437" joined="2015-06-25"/>
+    <cosponsor id="412546" joined="2015-07-10"/>
+    <cosponsor id="412656" joined="2015-07-29"/>
+    <cosponsor id="412292" joined="2015-06-25"/>
+    <cosponsor id="400251" joined="2015-06-25"/>
+    <cosponsor id="412562" joined="2015-07-29"/>
+    <cosponsor id="400271" joined="2015-07-29"/>
+    <cosponsor id="412540" joined="2015-04-29"/>
+    <cosponsor id="400661" joined="2015-07-29"/>
+    <cosponsor id="412474" joined="2015-06-25"/>
+    <cosponsor id="412192" joined="2015-04-30"/>
+    <cosponsor id="412308" joined="2015-07-29"/>
+    <cosponsor id="412483" joined="2015-07-29"/>
+    <cosponsor id="412411" joined="2015-07-09"/>
+    <cosponsor id="400363" joined="2015-07-29"/>
+    <cosponsor id="412396" joined="2015-04-29"/>
+    <cosponsor id="400371" joined="2015-06-25"/>
+    <cosponsor id="412509" joined="2015-04-29"/>
+    <cosponsor id="412186" joined="2015-07-10"/>
+    <cosponsor id="412405" joined="2015-06-25"/>
+    <cosponsor id="400414" joined="2015-07-10"/>
+    <cosponsor id="400627" joined="2015-04-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-29" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Housing and community development"/>
+    <term name="Housing finance and home ownership"/>
+    <term name="Licensing and registrations"/>
+  </subjects>
+  <amendments/>
+  <summary>4/29/2015--Introduced.
+SAFE Transitional Licensing Act of 2015 
+
+This bill amends the S.A.F.E. Mortgage Licensing Act of 2008 to provide a temporary license of 120 days for registered loan originators: (1) moving from a financial institution to a state-licensed non-bank originator, or (2) moving interstate to a state-licensed loan originator in another state.
+
+Any person registering a registered loan originator with the Nationwide Mortgage Licensing System and Registry shall be subject to this Act and to applicable state law to the same extent as if that registered loan originator was licensed and registered as a state-licensed loan originator.</summary>
+</bill>

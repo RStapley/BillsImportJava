@@ -1,0 +1,145 @@
+<bill session="114" type="h" number="2494" updated="2015-08-15T06:40:12-04:00">
+  <state datetime="2015-06-25">REPORTED</state>
+  <status>
+    <unknown datetime="2015-06-25"/>
+  </status>
+  <introduced datetime="2015-05-21"/>
+  <titles>
+    <title type="short" as="introduced">Global Anti-Poaching Act</title>
+    <title type="official" as="introduced">To support global anti-poaching efforts, strengthen the capacity of partner countries to counter wildlife trafficking, designate major wildlife trafficking countries, and for other purposes.</title>
+  </titles>
+  <sponsor id="400348"/>
+  <cosponsors>
+    <cosponsor id="412404" joined="2015-05-21"/>
+    <cosponsor id="412657" joined="2015-07-09"/>
+    <cosponsor id="400033" joined="2015-06-25"/>
+    <cosponsor id="412652" joined="2015-07-31"/>
+    <cosponsor id="412539" joined="2015-07-28"/>
+    <cosponsor id="400062" joined="2015-08-04"/>
+    <cosponsor id="400063" joined="2015-06-25"/>
+    <cosponsor id="412571" joined="2015-06-02"/>
+    <cosponsor id="400071" joined="2015-06-25"/>
+    <cosponsor id="412470" joined="2015-07-21"/>
+    <cosponsor id="412271" joined="2015-07-16"/>
+    <cosponsor id="412236" joined="2015-06-25"/>
+    <cosponsor id="412563" joined="2015-07-07"/>
+    <cosponsor id="412513" joined="2015-06-09"/>
+    <cosponsor id="400618" joined="2015-07-31"/>
+    <cosponsor id="400086" joined="2015-05-21"/>
+    <cosponsor id="400657" joined="2015-05-21"/>
+    <cosponsor id="400097" joined="2015-06-25"/>
+    <cosponsor id="400100" joined="2015-06-25"/>
+    <cosponsor id="412526" joined="2015-06-25"/>
+    <cosponsor id="412613" joined="2015-06-25"/>
+    <cosponsor id="412385" joined="2015-06-25"/>
+    <cosponsor id="412420" joined="2015-07-31"/>
+    <cosponsor id="412672" joined="2015-07-21"/>
+    <cosponsor id="400122" joined="2015-05-21"/>
+    <cosponsor id="412524" joined="2015-07-21"/>
+    <cosponsor id="400129" joined="2015-06-09"/>
+    <cosponsor id="400646" joined="2015-07-21"/>
+    <cosponsor id="400640" joined="2015-06-25"/>
+    <cosponsor id="412382" joined="2015-06-09"/>
+    <cosponsor id="400157" joined="2015-07-23"/>
+    <cosponsor id="400162" joined="2015-06-25"/>
+    <cosponsor id="400195" joined="2015-06-25"/>
+    <cosponsor id="412435" joined="2015-05-21"/>
+    <cosponsor id="412583" joined="2015-07-07"/>
+    <cosponsor id="412616" joined="2015-07-07"/>
+    <cosponsor id="400244" joined="2015-07-15"/>
+    <cosponsor id="412209" joined="2015-07-31"/>
+    <cosponsor id="400245" joined="2015-06-25"/>
+    <cosponsor id="412521" joined="2015-06-25"/>
+    <cosponsor id="400246" joined="2015-07-28"/>
+    <cosponsor id="400654" joined="2015-06-09"/>
+    <cosponsor id="400259" joined="2015-05-21"/>
+    <cosponsor id="400263" joined="2015-06-09"/>
+    <cosponsor id="412487" joined="2015-06-25"/>
+    <cosponsor id="412189" joined="2015-06-25"/>
+    <cosponsor id="412611" joined="2015-07-07"/>
+    <cosponsor id="412552" joined="2015-07-07"/>
+    <cosponsor id="412560" joined="2015-06-25"/>
+    <cosponsor id="400290" joined="2015-07-16"/>
+    <cosponsor id="412506" joined="2015-06-11"/>
+    <cosponsor id="400313" joined="2015-06-09"/>
+    <cosponsor id="412551" joined="2015-07-13"/>
+    <cosponsor id="400652" joined="2015-05-21"/>
+    <cosponsor id="412308" joined="2015-06-09"/>
+    <cosponsor id="400326" joined="2015-06-25"/>
+    <cosponsor id="400333" joined="2015-06-09"/>
+    <cosponsor id="412489" joined="2015-06-25"/>
+    <cosponsor id="412650" joined="2015-07-09"/>
+    <cosponsor id="400352" joined="2015-06-09"/>
+    <cosponsor id="400606" joined="2015-07-21"/>
+    <cosponsor id="400361" joined="2015-07-31"/>
+    <cosponsor id="412186" joined="2015-06-25"/>
+    <cosponsor id="400380" joined="2015-05-21"/>
+    <cosponsor id="412648" joined="2015-06-15"/>
+    <cosponsor id="412636" joined="2015-07-07"/>
+    <cosponsor id="412579" joined="2015-06-25"/>
+    <cosponsor id="412618" joined="2015-07-15"/>
+    <cosponsor id="412214" joined="2015-06-25"/>
+    <cosponsor id="412574" joined="2015-06-09"/>
+    <cosponsor id="400433" joined="2015-06-09"/>
+    <cosponsor id="412525" joined="2015-06-25"/>
+    <cosponsor id="412646" joined="2015-07-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-21" state="REFERRED">
+      <text>Referred to the Committee on Foreign Affairs, and in addition to the Committees on the Judiciary, and Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-05-21">
+      <text>Referred to House Foreign Affairs</text>
+    </action>
+    <action datetime="2015-05-21">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2015-05-21">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2015-06-10">
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+    </action>
+    <action datetime="2015-06-16">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+    <action datetime="2015-06-25">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-06-25" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Unanimous Consent.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, Markup"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="Federal Lands" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="27"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Africa"/>
+    <term name="Asia"/>
+    <term name="Civil actions and liability"/>
+    <term name="Congressional oversight"/>
+    <term name="Currency"/>
+    <term name="Endangered and threatened species"/>
+    <term name="Foreign aid and international relief"/>
+    <term name="Fraud offenses and financial crimes"/>
+    <term name="Law enforcement administration and funding"/>
+    <term name="Law enforcement officers"/>
+    <term name="Mammals"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Military assistance, sales, and agreements"/>
+    <term name="Organized crime"/>
+    <term name="Sanctions"/>
+    <term name="Smuggling and trafficking"/>
+    <term name="Travel and tourism"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+</bill>

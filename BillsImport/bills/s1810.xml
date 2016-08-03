@@ -1,0 +1,29 @@
+<bill session="114" type="s" number="1810" updated="2015-07-28T10:06:53-04:00">
+  <state datetime="2015-07-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-21"/>
+  </status>
+  <introduced datetime="2015-07-21"/>
+  <titles>
+    <title type="short" as="introduced">No Exemption for Washington from Obamacare Act</title>
+    <title type="official" as="introduced">A bill to apply the provisions of the Patient Protection and Affordable Care Act to Congressional members and members of the executive branch.</title>
+  </titles>
+  <sponsor id="400418"/>
+  <cosponsors>
+    <cosponsor id="412573" joined="2015-07-21"/>
+    <cosponsor id="412491" joined="2015-07-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+</bill>

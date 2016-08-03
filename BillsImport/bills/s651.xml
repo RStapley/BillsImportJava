@@ -1,0 +1,37 @@
+<bill session="114" type="s" number="651" updated="2015-03-28T06:38:52-04:00">
+  <state datetime="2015-03-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-04"/>
+  </status>
+  <introduced datetime="2015-03-04"/>
+  <titles>
+    <title type="short" as="introduced">John Muir National Historic Site Expansion Act</title>
+    <title type="official" as="introduced">A bill to authorize the Secretary of the Interior to acquire certain land in Martinez, California, for inclusion in the John Muir National Historic Site, and for other purposes.</title>
+  </titles>
+  <sponsor id="300011"/>
+  <cosponsors>
+    <cosponsor id="300043" joined="2015-03-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-04" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1289"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="California"/>
+    <term name="Historic sites and heritage areas"/>
+    <term name="Land transfers"/>
+  </subjects>
+  <amendments/>
+  <summary>3/4/2015--Introduced.
+John Muir National Historic Site Expansion Act
+
+ Authorizes the Department of the Interior to acquire by donation approximately 44 acres of land to include in the John Muir National Historic Site in Martinez, California.</summary>
+</bill>

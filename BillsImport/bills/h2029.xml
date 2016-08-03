@@ -1,0 +1,564 @@
+<bill session="114" type="h" number="2029" updated="2015-08-22T06:36:16-04:00">
+  <state datetime="2015-04-30T19:16:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2015-04-30T19:16:00-04:00"/>
+  </status>
+  <introduced datetime="2015-04-24"/>
+  <titles>
+    <title type="short" as="introduced">Military Construction and Veterans Affairs and Related Agencies Appropriations Act, 2016</title>
+    <title type="short" as="reported to house">Military Construction and Veterans Affairs and Related Agencies Appropriations Act, 2016</title>
+    <title type="short" as="passed house">Military Construction and Veterans Affairs and Related Agencies Appropriations Act, 2016</title>
+    <title type="short" as="reported to senate">Military Construction and Veterans Affairs and Related Agencies Appropriations Act, 2016</title>
+    <title type="official" as="introduced">Making appropriations for military construction, the Department of Veterans Affairs, and related agencies for the fiscal year ending September 30, 2016, and for other purposes.</title>
+  </titles>
+  <sponsor id="400648"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-04-24T16:43:00-04:00">
+      <text>The House Committee on Appropriations reported an original measure, H. Rept. 114-92, by Mr. Dent.</text>
+    </action>
+    <calendar datetime="2015-04-24T16:43:00-04:00" state="REPORTED" calendar="Union" number="65">
+      <text>Placed on the Union Calendar, Calendar No. 65.</text>
+    </calendar>
+    <action datetime="2015-04-28T21:03:00-04:00">
+      <text>Rules Committee Resolution H. Res. 223 Reported to House. Rule provides for consideration of H.R. 2028 and H.R. 2029. Motion to recommit allowed. The resolution provides for a modified-open rule for both H.R. 2028 and 2029.</text>
+    </action>
+    <action datetime="2015-04-29T14:16:00-04:00">
+      <text>Rule H. Res. 223 passed House.</text>
+    </action>
+    <action datetime="2015-04-29T14:30:00-04:00">
+      <text>Considered under the provisions of rule H. Res. 223.</text>
+      <reference ref="CR H2574-2623" label="consideration"/>
+      <reference ref="CR H2583, H2586, H2587-2589" label="text of Title I as reported in House"/>
+      <reference ref="CR H2589, H2590, H2591, H2594, H2595, H2596-2598, H2598-2599, H2599" label="text of Title II as reported in House"/>
+      <reference ref="CR H2600" label="text of Title III as reported in House"/>
+      <reference ref="CR H2600, H2602-2603, H2603" label="text of Title IV as reported in House"/>
+      <reference ref="CR H2604, H2605, CR 4/30/2015 H2708" label="text of Title V as reported in House"/>
+    </action>
+    <action datetime="2015-04-29T14:30:00-04:00">
+      <text>Rule provides for consideration of H.R. 2028 and H.R. 2029. Motion to recommit allowed. The resolution provides for a modified-open rule for both H.R. 2028 and 2029.</text>
+    </action>
+    <action datetime="2015-04-29T14:30:00-04:00">
+      <text>House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 223 and Rule XVIII.</text>
+    </action>
+    <action datetime="2015-04-29T14:30:00-04:00">
+      <text>The Speaker designated the Honorable Ileana Ros-Lehtinen to act as Chairwoman of the Committee.</text>
+    </action>
+    <action datetime="2015-04-29T14:31:00-04:00">
+      <text>GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 2029.</text>
+    </action>
+    <action datetime="2015-04-29T15:16:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole House proceeded with 10 minutes of debate on the Bishop (GA) amendment, pending reservation of a point of order.</text>
+    </action>
+    <action datetime="2015-04-29T15:21:00-04:00">
+      <text>Mr. Bishop (GA) appealed the ruling of the Chair. The question was then put on sustaining the ruling of the Chair.</text>
+    </action>
+    <action datetime="2015-04-29T15:46:00-04:00">
+      <text>On sustaining the ruling of the Chair. Agreed to by recorded vote: 237 - 180 (Roll no. 178).</text>
+    </action>
+    <action datetime="2015-04-29T15:47:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Stefanik amendment.</text>
+    </action>
+    <action datetime="2015-04-29T16:03:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Gosar amendment, pending reservation of a point of order.</text>
+    </action>
+    <action datetime="2015-04-29T16:14:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the McNerney amendment.</text>
+    </action>
+    <action datetime="2015-04-29T16:22:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Gosar amendment.</text>
+    </action>
+    <action datetime="2015-04-29T16:24:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Titus amendment.</text>
+    </action>
+    <action datetime="2015-04-29T16:30:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Gosar amendment.</text>
+    </action>
+    <action datetime="2015-04-29T16:32:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Sinema amendment.</text>
+    </action>
+    <action datetime="2015-04-29T16:36:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Gosar amendment.</text>
+    </action>
+    <action datetime="2015-04-29T16:39:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Ruiz amendment.</text>
+    </action>
+    <action datetime="2015-04-29T16:45:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Walberg amendment.</text>
+    </action>
+    <action datetime="2015-04-29T17:01:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the LaMalfa amendment.</text>
+    </action>
+    <action datetime="2015-04-29T17:09:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Benishek amendment.</text>
+    </action>
+    <action datetime="2015-04-29T17:15:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Mulvaney amendment.</text>
+    </action>
+    <action datetime="2015-04-29T17:24:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Van Hollen amendment.</text>
+    </action>
+    <action datetime="2015-04-29T17:32:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Van Hollen amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Van Hollen demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2015-04-29T17:34:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the First Mulvaney amendment.</text>
+    </action>
+    <action datetime="2015-04-29T17:37:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Mulvaney amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the had noes prevailed. Mr. Mulvaney demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2015-04-29T17:39:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Second Mulvaney amendment.</text>
+    </action>
+    <action datetime="2015-04-29T17:41:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the second Mulvaney amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Mulvaney demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2015-04-29T17:45:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Nadler amendment.</text>
+    </action>
+    <action datetime="2015-04-29T17:54:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Nadler amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Nadler demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2015-04-29T17:57:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Boustany amendment.</text>
+    </action>
+    <action datetime="2015-04-29T17:59:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson Lee amendment.</text>
+    </action>
+    <action datetime="2015-04-29T18:05:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Jolly amendment.</text>
+    </action>
+    <action datetime="2015-04-29T18:11:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Blumenauer amendment.</text>
+    </action>
+    <action datetime="2015-04-29T18:26:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Blumenauer amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Blumenauer demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2015-04-29T18:28:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Babin amendment.</text>
+    </action>
+    <action datetime="2015-04-29T18:36:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Rothfus amendment.</text>
+    </action>
+    <action datetime="2015-04-29T18:45:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson Lee amendment.</text>
+    </action>
+    <action datetime="2015-04-29T18:48:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Roe amendment No. 6.</text>
+    </action>
+    <action datetime="2015-04-29T18:55:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Pocan amendment, pending reservation of a point of order.</text>
+    </action>
+    <action datetime="2015-04-29T18:59:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Noem amendment.</text>
+    </action>
+    <action datetime="2015-04-29T19:03:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Pocan amendment.</text>
+    </action>
+    <action datetime="2015-04-29T19:12:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Pocan amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Pocan demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2015-04-29T19:13:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Ratcliffe amendment.</text>
+    </action>
+    <action datetime="2015-04-29T19:19:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Grayson amendment.</text>
+    </action>
+    <action datetime="2015-04-29T19:20:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Hurd amendment.</text>
+    </action>
+    <action datetime="2015-04-29T19:22:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Roe amendment.</text>
+    </action>
+    <action datetime="2015-04-29T19:29:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Stivers amendment.</text>
+    </action>
+    <action datetime="2015-04-29T19:33:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Byrne amendment.</text>
+    </action>
+    <action datetime="2015-04-29T19:37:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Gosar amendment.</text>
+    </action>
+    <action datetime="2015-04-29T19:42:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Hill amendment.</text>
+    </action>
+    <action datetime="2015-04-29T19:49:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Farenthold amendment.</text>
+    </action>
+    <action datetime="2015-04-29T19:54:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the LaMalfa amendment.</text>
+    </action>
+    <action datetime="2015-04-29T19:57:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the Hice (GA) amendment.</text>
+    </action>
+    <action datetime="2015-04-29T20:06:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Hice (GA) amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Bishop (GA) demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2015-04-29T20:07:00-04:00">
+      <text>DEBATE - Pursuant to the provsions of H. Res. 223, the Committee of the Whole proceeded with 10 minutes of debate on the King (IA) amendment No. 3.</text>
+    </action>
+    <action datetime="2015-04-29T20:15:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the King (IA) amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. King (IA) demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2015-04-29T20:20:00-04:00">
+      <text>Mr. Dent moved that the Committee rise.</text>
+      <reference ref="CR H2623" label="consideration"/>
+    </action>
+    <action datetime="2015-04-29T20:20:00-04:00">
+      <text>On motion that the Committee rise Agreed to by voice vote.</text>
+    </action>
+    <action datetime="2015-04-29T20:20:00-04:00">
+      <text>Committee of the Whole House on the state of the Union rises leaving H.R. 2029 as unfinished business.</text>
+    </action>
+    <action datetime="2015-04-30T18:17:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H2702-2710" label="consideration"/>
+    </action>
+    <action datetime="2015-04-30T18:17:00-04:00">
+      <text>The House resolved into Committee of the Whole House on the state of the Union for further consideration.</text>
+    </action>
+    <action datetime="2015-04-30T18:18:00-04:00">
+      <text>UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.</text>
+    </action>
+    <action datetime="2015-04-30T18:51:00-04:00">
+      <text>The House rose from the Committee of the Whole House on the state of the Union to report H.R. 2029.</text>
+    </action>
+    <action datetime="2015-04-30T18:52:00-04:00">
+      <text>The House adopted the amendments en gross as agreed to by the Committee of the Whole House on the state of the Union.</text>
+    </action>
+    <action datetime="2015-04-30T18:53:00-04:00">
+      <text>Mrs. Kirkpatrick moved to recommit with instructions to the Committee on Appropriations.</text>
+      <reference ref="CR H2708-2710" label="consideration"/>
+      <reference ref="CR H2708" label="text"/>
+    </action>
+    <action datetime="2015-04-30T18:53:00-04:00">
+      <text>Floor summary: DEBATE - The House proceeded with 10 minutes of debate on the Kirkpatrick motion to recommit with instructions. The instructions contained in the motion seek to report the same back to the House forthwith with an amendment to provide $15 million in additional funds for the Veterans Health Administration Medical Services account. The increase would be offset from the Departmental Administration General Administration account.</text>
+    </action>
+    <action datetime="2015-04-30T19:02:00-04:00">
+      <text>The previous question on the motion to recommit with instructions was ordered without objection.</text>
+      <reference ref="CR H2709" label="consideration"/>
+    </action>
+    <action datetime="2015-04-30T19:09:00-04:00">
+      <text>On motion to recommit with instructions Failed by recorded vote: 181 - 236 (Roll no. 192).</text>
+      <reference ref="CR H2709-2710" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="193" datetime="2015-04-30T19:16:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by the Yeas and Nays: 255 - 163 (Roll no. 193).</text>
+    </vote>
+    <action datetime="2015-04-30T19:16:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2015-05-04">
+      <text>Received in the Senate and Read twice and referred to the Committee on Appropriations.</text>
+    </action>
+    <action datetime="2015-05-21">
+      <text>Committee on Appropriations. Reported by Senator Kirk with an amendment in the nature of a substitute. With written report No. 114-57.</text>
+    </action>
+    <calendar datetime="2015-05-21" calendar="Senate Legislative" under="General Orders" number="98">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 98.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSAP" name="House Appropriations" activity="Origin, Reporting"/>
+    <committee code="SSAP" name="Senate Appropriations" activity="Referral, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="rule" session="114" type="hr" number="223"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Administrative remedies"/>
+    <term name="American Battle Monuments Commission"/>
+    <term name="Appropriations"/>
+    <term name="Armed Forces Retirement Home"/>
+    <term name="Cemeteries and funerals"/>
+    <term name="Computers and information technology"/>
+    <term name="Congressional oversight"/>
+    <term name="Defense spending"/>
+    <term name="Department of Defense"/>
+    <term name="Department of Veterans Affairs"/>
+    <term name="Disability and paralysis"/>
+    <term name="Environmental assessment, monitoring, research"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Government information and archives"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Historic sites and heritage areas"/>
+    <term name="Housing and community development funding"/>
+    <term name="Indian social and development programs"/>
+    <term name="Life, casualty, property insurance"/>
+    <term name="Medical research"/>
+    <term name="Military facilities and property"/>
+    <term name="Military operations and strategy"/>
+    <term name="National Guard and reserves"/>
+    <term name="Research administration and funding"/>
+    <term name="Rural conditions and development"/>
+    <term name="Specialized courts"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+    <term name="Veterans' loans, housing, homeless programs"/>
+    <term name="Veterans' medical care"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments>
+    <amendment number="h108"/>
+    <amendment number="h109"/>
+    <amendment number="h110"/>
+    <amendment number="h111"/>
+    <amendment number="h112"/>
+    <amendment number="h113"/>
+    <amendment number="h114"/>
+    <amendment number="h115"/>
+    <amendment number="h116"/>
+    <amendment number="h117"/>
+    <amendment number="h118"/>
+    <amendment number="h119"/>
+    <amendment number="h120"/>
+    <amendment number="h121"/>
+    <amendment number="h122"/>
+    <amendment number="h123"/>
+    <amendment number="h124"/>
+    <amendment number="h125"/>
+    <amendment number="h126"/>
+    <amendment number="h127"/>
+    <amendment number="h128"/>
+    <amendment number="h129"/>
+    <amendment number="h130"/>
+    <amendment number="h131"/>
+    <amendment number="h132"/>
+    <amendment number="h133"/>
+    <amendment number="h134"/>
+    <amendment number="h135"/>
+    <amendment number="h136"/>
+    <amendment number="h137"/>
+    <amendment number="h138"/>
+    <amendment number="h139"/>
+    <amendment number="h140"/>
+    <amendment number="h141"/>
+    <amendment number="h142"/>
+    <amendment number="h143"/>
+    <amendment number="h144"/>
+    <amendment number="h145"/>
+    <amendment number="h146"/>
+    <amendment number="h147"/>
+    <amendment number="h148"/>
+    <amendment number="h149"/>
+    <amendment number="h150"/>
+  </amendments>
+  <summary>5/21/2015--Reported to Senate amended.
+Highlights: 
+
+The Military Construction and Veterans Affairs and Related Agencies Appropriations Act, 2016 provides FY2016 appropriations to the Department of Defense (DOD) for military construction, military family housing, the U.S. share of the North Atlantic Treaty Organization Security Investment Program, and base closures and realignments.
+
+The bill also provides appropriations to the Department of Veterans Affairs (VA) for veterans benefit and health care programs, Departmental Administration, and the National Cemetery Administration.
+
+Related agencies and programs funded in the bill include the U.S. Court of Appeals for Veterans Claims; the Armed Forces Retirement Home; and the Cemeterial Expenses of the Army, including Arlington National Cemetery.
+
+The bill increases overall FY2016 Military Construction and Veterans Affairs funding above FY2015 levels and includes increases for both DOD and the VA.
+
+Within the DOD budget, the bill includes increases for the Military Construction and the Family Housing accounts compared to FY2015 levels.
+
+The VA budget includes increases for the Veterans Benefits Administration, the Veterans Health Administration, the National Cemetery Administration, and Departmental Administration compared to FY2015 levels.
+
+The bill includes a provision prohibiting the VA from interfering with or denying services to veterans participating in state-approved medicinal marijuana programs.
+
+The bill also prohibits the Administration from renovating, expanding, or constructing facilities in the United States to house individuals held in the detention facility at Guantanamo Bay.
+
+Full Summary: 
+
+Military Construction and Veterans Affairs, and Related Agencies Appropriations Act, 2016 
+
+Provides FY2016 appropriations for military construction, the Department of Veterans Affairs (VA), and related agencies.
+
+TITLE I--DEPARTMENT OF DEFENSE
+
+Provides appropriations to DOD for Military Construction for the Army; Navy and Marine Corps; Air Force; Defense-Wide agencies and activities (other than military departments); the Army and Air National Guard; and the Army, Navy, and Air Force Reserves.
+
+Provides appropriations to DOD for the North Atlantic Treaty Organization (NATO) Security Investment Program.
+
+Provides appropriations to DOD for Construction and Operation and Maintenance of Family Housing for the Army, Navy and Marine Corps, Air Force, and Defense-Wide agencies and activities (other than military departments).
+
+Provides appropriations for the Department of Defense Base Closure Account.
+
+(Sec. 101) Limits the use of funds made available in this title for cost-plus-a-fixed-fee construction contracts exceeding $25,000 without DOD approval. Includes an exception for work that is to be performed in Alaska.
+
+(Sec. 102) Permits funds made available in this title for construction to be used for hiring passenger motor vehicles. (Sec. 103) Permits funds made available in this title for construction to be used for advances to the Federal Highway Administration for the construction of access roads DOD has certified as important to national defense.
+
+(Sec. 104) Prohibits funds made available in this title from being used to begin construction of new bases in the United States without a specific appropriation.
+
+(Sec. 105) Prohibits funds made available in this title from being used to purchase land or land easements in excess of 100% of the value as determined by the Army Corps of Engineers or the Naval Facilities Engineering Command. Includes exceptions for: (1) determinations of value by a federal court, (2) purchases negotiated by the Attorney General or a designee, (3) values less than $25,000, and (4) DOD determinations that the purchase is in the public interest.
+
+(Sec. 106) Prohibits funds made available in this title from being used to acquire land, provide for site preparation, or install utilities for family housing, except housing for which appropriations have been provided.
+
+(Sec. 107) Prohibits funds made available in this title for minor construction from being used to transfer or relocate any activity from one base or installation to another without notifying Congress in advance.
+
+(Sec. 108) Prohibits funds made available in this title from being used to procure steel for construction unless American producers, fabricators, and manufacturers have been allowed to compete for the procurement.
+
+(Sec. 109) Prohibits funds made available to DOD for military construction or family housing during the current fiscal year from being used to pay real property taxes in any foreign nation.
+
+(Sec. 110) Prohibits funds made available in this title from being used to initiate a new installation overseas without notifying Congress in advance.
+
+(Sec. 111) Prohibits funds made available in this title from being used for architect and engineer contracts estimated to exceed $500,000 for projects in Japan, NATO member countries, or countries bordering the Arabian Gulf unless the contracts are awarded to U.S. firms or joint ventures with U.S. firms.
+
+(Sec. 112) Prohibits funds made available in this title for military construction in U.S. territories and possessions in the Pacific and on Kwajalein Atoll, or in countries bordering the Arabian Gulf from being used to award a contract over $1 million to a foreign contractor. Includes exceptions. (Sec. 113) Requires DOD to notify Congress in advance of military exercises if construction costs are expected to exceed $100,000.
+
+(Sec. 114) Prohibits more than 20% of the funds made available in this title from being obligated during the last two months of the fiscal year.
+
+(Sec. 115) Permits funds appropriated to DOD for construction in prior years to be used for construction projects authorized during the current session of Congress.
+
+(Sec. 116) Permits expired or lapsed funds to be used to pay for supervision, inspection, overhead, engineering, and design costs for military construction or family housing projects being completed with lapsed or expired funds.
+
+(Sec. 117) Permits military construction funds to be available for five years if: (1) the funds obligated are available for military construction, and (2) do not exceed the amount appropriated or permitted by law.
+
+(Sec. 118) Permits the following transfers if Congress is notified and specified conditions are met:
+
+ to the Department of Defense Family Housing Improvement Fund from appropriations for construction in Family Housing accounts, and to the Department of Defense Military Unaccompanied Housing Improvement Fund from appropriations for construction of military unaccompanied housing in Military Construction accounts. (Sec. 119) Permits the transfer of funds from the Department of Defense Base Closure Account to the fund established to pay expenses associated with the Homeowners Assistance Program under the Demonstration Cities and Metropolitan Development Act of 1966.
+
+(Sec. 120) Provides that funds for operation and maintenance of family housing in this title shall be the only source of funds for repair and maintenance of all family housing units, including general or flag officer quarters. Sets forth limitations and requirements for expenditures for maintenance and repair of general or flag officer quarters.
+
+(Sec. 121) Appropriates funds contained in the Ford Island Improvement Account to remain available until expended or transferred.
+
+(Sec. 122) Permits the transfer of unobligated balances of expired military construction and family housing funds into the Foreign Currency Fluctuations, Construction, Defense account.
+
+(Sec. 123) Permits funds provided to an account in this title to be transferred among projects and activities within the account subject to specified DOD reprogramming guidelines for military and family housing construction.
+
+(Sec. 124) Prohibits DOD military construction funds provided in this title from being used for the planning, design, and construction of projects at Arlington National Cemetery.
+
+(Sec. 125) Provides specified additional funds to the Army to remain available through FY2020 for unfunded military construction priorities.
+
+(Sec. 126) Provides specified additional funds to the Navy and Marine Corps to remain available through FY2020 for unfunded military construction priorities.
+
+(Sec. 127) Provides specified additional funds to the Army National Guard to remain available through FY2020 for unfunded military construction priorities.
+
+(Sec. 128) Provides specified additional funds to the Army Reserve to remain available through FY2020 for unfunded military construction priorities.
+
+(Sec. 129) Rescinds specified unobligated balances from prior appropriations for Army, Air Force, and Defense-Wide Military Construction.
+
+(Sec. 130) Rescinds specified unobligated balances from the fund established by the Demonstration Cities and Metropolitan Development Act of 1966 for expenses associated with the Homeowners Assistance Program.
+
+(Sec. 131) Prohibits funds from being used to consolidate or relocate any element of a U.S. Air Force Rapid Engineer Deployable Heavy Operational Repair Squadron Engineer (RED HORSE) squadron outside of the United States until the Air Force: (1) submits to Congress an analysis and comparison of the cost and investment required to consolidate or relocate a RED HORSE squadron outside of the United States versus within the United States, and (2) certifies to Congress that the preferred site yields the greatest savings.
+
+TITLE II--DEPARTMENT OF VETERANS AFFAIRS
+
+Provides appropriations to the VA for the Veterans Benefits Administration, including Compensation and Pensions, Readjustment Benefits, Veterans Insurance and Indemnities, the Veterans Housing Benefit Program Fund, the Vocational Rehabilitation Loans Program Account, and the Native American Veteran Housing Loan Program Account.
+
+Provides appropriations to the VA for the Veterans Health Administration, including Medical Services, Medical Support and Compliance, Medical Facilities, and Medical and Prosthetic Research.
+
+Provides appropriations to the VA for the National Cemetery Administration.
+
+Provides appropriations to the VA for Departmental Administration, including General Administration, the Board of Veterans Appeals, General Operating Expenses of the Veterans Benefits Administration, Information Technology Systems, the Office of Inspector General, Major Construction Projects, Minor Construction Projects, Grants for the Construction of State Extended Care Facilities, and Grants for Construction of Veterans Cemeteries.
+
+Limits the expenditure of specified information technology funds for the VistA (Veterans Health Information Systems and Technology Architecture) Evolution Program to 25% of the funds provided until the VA provides a report to Congress including specified details regarding the status of the program.
+
+Prohibits specified funds provided for Veterans Health Administration (VHA) major construction projects from being available until the VA enters into an agreement with the U.S. Army Corps of Engineers for the design and construction of VHA projects with a total estimated cost of $250 million or above.
+
+(Sec. 201) Permits funds to be transferred between the Compensation and Pensions, Readjustment Benefits, and Veterans Insurance and Indemnities accounts if approved by Congress.
+
+(Sec. 202) Permits funds to be transferred between the Medical Services, Medical Support and Compliance, and Medical Facilities accounts, subject to specified requirements and the approval of Congress for certain transfers. (Sec. 203) Permits appropriations for salaries and expenses to be used for employment of temporary or intermittent experts and consultants, hire of passenger vehicles, lease of a facility or land, and uniforms.
+
+(Sec. 204) Prohibits appropriations in this title other than Construction--Major Projects and Construction--Minor Projects from being used for land acquisition or construction of any new hospital or home.
+
+(Sec. 205) Requires the VA to be reimbursed for medical services it provides to any person not defined as a beneficiary under specified laws.
+
+(Sec. 206) Permits appropriations provided in this title for Compensation and Pensions, Readjustment Benefits, and Veterans Insurance and Indemnities to be used for payment of accrued obligations for the accounts recorded in the last quarter of FY2015.
+
+(Sec. 207) Permits appropriations provided in this title to be used to pay specified prior year obligations. Requires obligations from trust fund accounts to be paid only from the Compensation and Pensions account.
+
+(Sec. 208) Requires the VA to use surplus earnings from the National Service Life Insurance Fund, the Veterans' Special Life Insurance Fund, and the United States Government Life Insurance Fund to reimburse the General Operating Expenses--Veterans Benefits Administration and Information Technology Systems accounts for the costs to administer the insurance programs during FY2016.
+
+(Sec. 209) Permits amounts deducted from enhanced-use lease proceeds for reimbursement of expenses from a prior year to be obligated in the year in which the proceeds are received.
+
+(Sec. 210) Permits funds provided by this title for salaries and other administrative expenses to be used to reimburse the Office of Resolution Management and the Office of Employment Discrimination Complaint Adjudication within specified limits.
+
+(Sec. 211) Permits specified FY2016 funds provided for the Office of Rural Health in the Medical Services account to be transferred to the Grants for Construction of State Extended Care Facilities account.
+
+(Sec. 212) Requires the VA to collect third-party reimbursement information prior to providing hospital care, nursing home care, or medical services for a non-service connected disability. Permits the VA to recover reasonable charges for care from anyone who has not provided the required disclosures. (Sec. 213) Permits enhanced-use leasing revenues to be deposited into the Construction--Major Projects and Construction--Minor Projects accounts to be used for construction, alterations, and improvements of VA medical facilities.
+
+(Sec. 214) Permits funds provided for Medical Services to be used for: (1) furnishing recreational facilities, supplies, and equipment; and (2) funeral and burial expenses.
+
+(Sec. 215) Permits funds deposited in the Medical Care Collections Fund to be transferred to the Medical Services account and remain available until expended. Requires up to $27 million to be transferred from the Fund to Information Technology Systems, to remain available until expended for development of the Medical Care Collections Fund electronic data exchange provider and payer system.
+
+(Sec. 216) Permits the VA to enter into agreements with certain Indian tribes and tribal organizations in rural Alaska to provide health care to veterans.
+
+(Sec. 217) Permits funds deposited into the Department of Veterans Affairs Capital Asset Fund to be transferred to the Construction--Major Projects and Construction--Minor Projects accounts to remain available until expended.
+
+(Sec. 218) Bars the use of funds provided in this title to prohibit the Directors of the Veterans Integrated Services Networks from conducting outreach or marketing to enroll new veterans. (Sec. 219) Directs the VA to submit a quarterly report to Congress on the financial status of the Veterans Health Administration.
+
+(Sec. 220) Permits specified FY2016 VA funds to be transferred to or from the Information Technology Systems account if approved by Congress.
+
+(Sec. 221) Prohibits funds from being used to: (1) convert to contractor performance an activity or function performed by more than 10 federal employees unless the conversion is based on the result of a public-private competition that meets specified criteria, or (2) conduct studies comparing the costs of private and government provision of certain VHA products and services without a specific appropriation for that purpose.
+
+(Sec. 222) Prohibits more than 20% of the funds provided to the Medical Facilities account for nonrecurring maintenance from being obligated during the last two months of the fiscal year. Permits the VA to waive the requirements after notifying Congress.
+
+(Sec. 223) Permits specified FY2016 VA funds to be transferred to the Joint Department of Defense-Department of Veterans Affairs Medical Facility Demonstration Fund and used for the operation of combined federal medical facilities.
+
+(Sec. 224) Permits specified FY2017 VA funds to be transferred to the Joint Department of Defense-Department of Veterans Affairs Medical Facility Demonstration Fund and used for the operation of combined federal medical facilities.
+
+(Sec. 225) Permits transfers from the Medical Care Collections Fund to the Joint Department of Defense-Department of Veterans Affairs Medical Facility Demonstration Fund for the operation of combined federal medical facilities.
+
+(Sec. 226) Requires specified funds from the Medical Services, Medical Support and Compliance, and Medical Facilities accounts to be transferred to the DOD-VA Health Care Sharing Incentive Fund to remain available until expended.
+
+(Sec. 227) Rescinds FY2016 appropriations for the VA Medical Services, Medical Support and Compliance, and Medical Facilities accounts and reappropriates the funds to remain available through FY2017.
+
+(Sec. 228) Directs the VA to notify Congress of all bid savings in major construction projects that total at least $5 million or 5% of the programmed amount of the project, whichever is less.
+
+(Sec. 229) Prohibits the scope of work for a project included in Construction--Major Projects from being increased above the original budget request without congressional approval.
+
+(Sec. 230) Requires the VA to submit to Congress quarterly reports from each Veterans Benefits Administration regional office including:
+
+ the average time to complete a disability compensation claim, the number of claims pending more than 125 days, error rates, the number of claims personnel, corrective actions taken, training programs undertaken, and the number and results of Quality Review Team audits. (Sec. 231) Limits funds from the Medical Services and Medical Support and Compliance accounts that may be used for the VistA (Veterans Health Information Systems and Technology Architecture) Evolution and electronic health record interoperability projects. Permits additional funds to be obligated for this purpose if Congress is notified in advance.
+
+(Sec. 232) Directs the VA to notify Congress before organizational changes that result in the transfer of 25 or more full-time equivalent staff from one organizational unit to another.
+
+(Sec. 233) Requires the VA to report to Congress quarterly regarding any single national outreach and awareness campaign exceeding $2 million.
+
+(Sec. 234) Limits to $4.4 million the funds provided by this bill for Department of Veterans Affairs--Departmental Administration--General Administration that may be used for the Office of Congressional and Legislative Affairs.
+
+(Sec. 235) Prohibits the VA from using funds to replace the current system by which the Veterans Integrated Service Networks select and contract for diabetes monitoring supplies and equipment.
+
+(Sec. 236) Rescinds specified FY2016 funds appropriated to the VA for Medical Services, Medical Support and Compliance, and Medical Facilities.
+
+(Sec. 237) Rescinds $55 million from appropriations provided to the VA for FY2016 and requires the VA to submit to Congress a report allocating the rescission.
+
+(Sec. 238) Rescinds $50 million in unobligated balances from the DOD-VA Health Care Sharing Incentive Fund.
+
+(Sec. 239) Rescinds specified funds from prior appropriations to the VA for the General Administration and Construction--Minor Projects Accounts.
+
+(Sec. 240) Rescinds $90.293 million from unobligated balances from prior VA appropriations. Requires the VA to submit a report to Congress specifying the account and amount of each rescission, excluding specified accounts and any amounts designated by Congress as emergency spending.
+
+(Sec. 241) Provides whistleblower protections to certain VA health care employees.
+
+(Sec. 242) Permits the VA to offer grants to train and employ homeless and at-risk veterans in natural resource conservation management.
+
+(Sec. 243) Specifies requirements regarding access to Inspector General reports for specified congressional committees, the Secretary of the VA, and the public.
+
+(Sec. 244) Prohibits funds provided by this bill from being used to pay the salary of any individual who: (1) was the Executive Director of the Office of Acquisition, Logistics, and Construction; and (2) retired during a VA investigation into delays and cost overruns associated with the design and construction of the new medical center in Aurora, Colorado.
+
+(Sec. 245) Provides funding from the Medical Services account to hire additional caregiver support coordinators.
+
+(Sec. 246) Prohibits funds provided by this bill from being used to: interfere with the ability of veterans to participate in a state-approved medicinal marijuana program, deny services to veterans participating in a program, or interfere with the ability of a VA health care provider care to comply with a program.
+
+TITLE III-- RELATED AGENCIES
+
+Provides appropriations for the American Battle Monuments Commission, the U.S. Court of Appeals for Veterans Claims, Cemeterial Expenses of the Army for Arlington National Cemetery and Soldiers' and Airmen's Home National Cemetery, and the Armed Forces Retirement Home.
+
+(Sec. 301) Permits funds for Cemeterial Expenses--Army to be provided to Arlington County, Virginia to relocate a water main at Arlington National Cemetery to make additional land available for burials.
+
+(Sec. 302) Permits funds from concessions at Army National Military Cemeteries to be used to support activities at the Cemeteries
+
+TITLE IV-- GENERAL PROVISIONS
+
+(Sec. 401) Prohibits the obligation of funds in this bill beyond the current fiscal year unless expressly permitted in this bill. (Sec. 402) Prohibits the use of funds provided by this bill for programs, projects, or activities not in compliance with federal laws related to risk assessment, the protection of private property rights, or unfunded mandates.
+
+(Sec. 403) Requires pay raises for programs funded by this bill to be absorbed within the levels appropriated in the bill.
+
+(Sec. 404) Prohibits funds provided by this bill from being used for publicity, propaganda, or to support or defeat legislation pending before Congress.
+
+(Sec. 405) Encourages all departments and agencies funded in this bill to expand their use of "E-Commerce" technologies and procedures.
+
+(Sec. 406) Specifies the congressional committees that are to receive all reports and notifications required by this bill.
+
+(Sec. 407) Prohibits the transfer of funds to any part of the U.S. government without authority provided by an appropriations law. (Sec. 408) Requires agencies to post reports submitted to Congress on the public web site of the agency. Includes exceptions for national security and confidential or proprietary information.
+
+(Sec. 409) Prohibits the use of funds provided by this bill for a computer network unless pornography is blocked, with the exception of law enforcement, prosecution, or adjudication activities.
+
+(Sec. 410) Prohibits the use of funds provided by this bill for the renovation, expansion, or construction of any facility in the United States to house any individual detained at the United States Naval Station at Guantanamo Bay, Cuba. Includes an exception for modification to the facility at Guantanamo Bay.</summary>
+</bill>

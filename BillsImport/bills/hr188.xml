@@ -1,0 +1,61 @@
+<bill session="114" type="hr" number="188" updated="2015-05-22T04:47:58-04:00">
+  <state datetime="2015-03-26">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-26"/>
+  </status>
+  <introduced datetime="2015-03-26"/>
+  <titles>
+    <title type="official" as="introduced">Expressing the sense of the House of Representatives with respect to promoting energy security of European allies through the opening of the Southern Gas Corridor.</title>
+  </titles>
+  <sponsor id="400411"/>
+  <cosponsors>
+    <cosponsor id="412567" joined="2015-03-26"/>
+    <cosponsor id="412236" joined="2015-03-26"/>
+    <cosponsor id="412526" joined="2015-04-23"/>
+    <cosponsor id="412453" joined="2015-03-26"/>
+    <cosponsor id="412278" joined="2015-03-26"/>
+    <cosponsor id="412460" joined="2015-04-22"/>
+    <cosponsor id="412468" joined="2015-03-26"/>
+    <cosponsor id="412560" joined="2015-03-26"/>
+    <cosponsor id="412540" joined="2015-04-13"/>
+    <cosponsor id="412569" joined="2015-03-26"/>
+    <cosponsor id="412417" joined="2015-03-26"/>
+    <cosponsor id="400363" joined="2015-03-26"/>
+    <cosponsor id="409888" joined="2015-03-26"/>
+    <cosponsor id="412579" joined="2015-04-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-26" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2015-05-20">
+      <text>Referred to the Subcommittee on Europe, Eurasia, and Emerging Threats.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSFA14" subcommittee="Europe, Eurasia, and Emerging Threats" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Asia"/>
+    <term name="Azerbaijan"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="Energy storage, supplies, demand"/>
+    <term name="Europe"/>
+    <term name="Georgia (Republic)"/>
+    <term name="Oil and gas"/>
+    <term name="Pipelines"/>
+    <term name="Turkey"/>
+  </subjects>
+  <amendments/>
+  <summary>3/26/2015--Introduced.
+Notes that further energy exploration in the Caspian Sea region will enhance the energy security of European allies.
+
+ Affirms that it is in the U.S. national interest to enhance Europe's energy security by opening up the Southern Gas Corridor.
+
+ Encourages the Administration to continue to engage with Azerbaijan, Turkey, Georgia, and other regional partners to provide support for new and ongoing projects.
+
+ Expresses the sense of the House of Representatives that it is in the U.S. national interest to enhance Europe's energy security by working with Azerbaijan, Turkey, Georgia, and other regional partners to make available additional gas and oil supplies to that market in a cost effective and secure manner.</summary>
+</bill>

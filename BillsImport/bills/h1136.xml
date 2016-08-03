@@ -1,0 +1,46 @@
+<bill session="114" type="h" number="1136" updated="2015-04-18T06:26:42-04:00">
+  <state datetime="2015-02-26">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-26"/>
+  </status>
+  <introduced datetime="2015-02-26"/>
+  <titles>
+    <title type="short" as="introduced">Accountability in Unemployment Act of 2015</title>
+    <title type="official" as="introduced">To amend title III of the Social Security Act to require States to implement a drug testing program for applicants for and recipients of unemployment compensation.</title>
+  </titles>
+  <sponsor id="400313"/>
+  <cosponsors>
+    <cosponsor id="412655" joined="2015-02-26"/>
+    <cosponsor id="400068" joined="2015-02-26"/>
+    <cosponsor id="412397" joined="2015-02-26"/>
+    <cosponsor id="412434" joined="2015-02-26"/>
+    <cosponsor id="412510" joined="2015-02-26"/>
+    <cosponsor id="412474" joined="2015-03-17"/>
+    <cosponsor id="412310" joined="2015-02-26"/>
+    <cosponsor id="412426" joined="2015-02-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-26" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Drug, alcohol, tobacco use"/>
+    <term name="Medical tests and diagnostic methods"/>
+    <term name="Unemployment"/>
+  </subjects>
+  <amendments/>
+  <summary>2/26/2015--Introduced.
+Accountability in Unemployment Act of 2015 
+
+ Amends title III (Grants to States for Unemployment Compensation) of the Social Security Act to require state laws to deny unemployment compensation to applicants unless they undergo drug testing and test negative.
+
+Requires a retest after a 30-day waiting period for applicants who test positive for any one of several specified drugs.
+
+Denies unemployment compensation for five years to any applicant who tests positive for drugs three or more times.</summary>
+</bill>

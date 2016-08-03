@@ -1,0 +1,43 @@
+<bill session="114" type="h" number="1533" updated="2015-08-15T06:32:05-04:00">
+  <state datetime="2015-03-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-23"/>
+  </status>
+  <introduced datetime="2015-03-23"/>
+  <titles>
+    <title type="short" as="introduced">Medical Device Tax Elimination Act</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to repeal the excise tax on medical devices, and for other purposes.</title>
+  </titles>
+  <sponsor id="412607"/>
+  <cosponsors>
+    <cosponsor id="412571" joined="2015-03-23"/>
+    <cosponsor id="412236" joined="2015-06-17"/>
+    <cosponsor id="412257" joined="2015-07-07"/>
+    <cosponsor id="400641" joined="2015-03-23"/>
+    <cosponsor id="412616" joined="2015-06-17"/>
+    <cosponsor id="400245" joined="2015-07-14"/>
+    <cosponsor id="400259" joined="2015-06-09"/>
+    <cosponsor id="412308" joined="2015-03-23"/>
+    <cosponsor id="412254" joined="2015-03-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-23" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="844"/>
+    <bill relation="unknown" session="114" type="s" number="1907"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+  <summary>3/23/2015--Introduced.
+Medical Device Tax Elimination Act
+
+This bill amends the Internal Revenue Code to repeal the excise tax on medical devices and offsets the cost of such repeal by: (1) eliminating the tax deduction for income attributable to oil, natural gas, or primary products thereof for major integrated oil companies (companies that have an average daily worldwide annual production of crude oil of at least 500,000 barrels and annual gross receipts in excess of $1 billion); (2) prohibiting the use of the last-in, first-out (LIFO) accounting method by major integrated oil companies; and (3) denying the foreign tax credit to major integrated oil companies that are dual taxpayers (companies that receive an economic benefit from a foreign country or a possession of the United States that does not impose a generally applicable income tax).</summary>
+</bill>

@@ -1,0 +1,65 @@
+<bill session="114" type="s" number="438" updated="2015-06-13T06:48:16-04:00">
+  <state datetime="2015-03-18">REPORTED</state>
+  <status>
+    <unknown datetime="2015-03-18"/>
+  </status>
+  <introduced datetime="2015-02-10"/>
+  <titles>
+    <title type="short" as="introduced">IRRIGATE Act</title>
+    <title type="short" as="introduced">Irrigation Rehabilitation and Renovation for Indian Tribal Governments and Their Economies Act</title>
+    <title type="official" as="introduced">A bill to provide for the repair, replacement, and maintenance of certain Indian irrigation projects.</title>
+  </titles>
+  <sponsor id="412251"/>
+  <cosponsors>
+    <cosponsor id="412330" joined="2015-02-11"/>
+    <cosponsor id="412549" joined="2015-02-10"/>
+    <cosponsor id="300041" joined="2015-02-10"/>
+    <cosponsor id="300052" joined="2015-02-10"/>
+    <cosponsor id="412244" joined="2015-02-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-10" state="REFERRED">
+      <text>Read twice and referred to the Committee on Indian Affairs.</text>
+    </action>
+    <action datetime="2015-02-11">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S924-925"/>
+    </action>
+    <action datetime="2015-03-04">
+      <text>Committee on Indian Affairs. Hearings held. Hearings printed: S.Hrg. 114-14.</text>
+    </action>
+    <calendar datetime="2015-03-18" state="REPORTED">
+      <text>Committee on Indian Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SLIA" name="Senate Indian Affairs" activity="Referral, Hearings, Markup"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Native Americans"/>
+    <term name="Congressional oversight"/>
+    <term name="Federal-Indian relations"/>
+    <term name="Government studies and investigations"/>
+    <term name="Government trust funds"/>
+    <term name="Indian lands and resources rights"/>
+    <term name="Water resources funding"/>
+    <term name="Water use and supply"/>
+    <term name="Watersheds"/>
+  </subjects>
+  <amendments/>
+  <summary>2/10/2015--Introduced.
+Irrigation Rehabilitation and Renovation for Indian Tribal Governments and Their Economies Act or the IRRIGATE Act
+
+Establishes the Indian Irrigation Fund from which the Commissioner of Reclamation may make expenditures to carry out this Act. Requires the Secretary of the Treasury to deposit into such Fund for each of FY2015-FY2036 specified amounts of revenues that would otherwise be deposited in the reclamation fund established by the Reclamation Act of 1902. Terminates the Fund on September 30, 2036, and requires the unexpended and unobligated balance to be transferred to the reclamation fund.
+
+Directs the Commissioner to establish a program to address the deferred maintenance needs of Indian irrigation projects that: (1) create risks to public or employee safety or natural or cultural resources, and (2) unduly impede the management and efficiency of the Indian irrigation program.
+
+Requires the Commissioner to use or transfer specified amounts in the Fund to the Bureau of Indian Affairs (BIA) for each of FY2015-FY2036 to carry out maintenance, repair, and replacement activities for Indian irrigation projects in the western United States that are owned by the federal government and managed by BIA and that have deferred maintenance documented.
+
+Requires the Commissioner to submit to Congress: (1) programmatic goals to carry out this Act that would enable the completion of repairing, replacing, improving, or performing maintenance on projects as expeditiously as possible, facilitate or improve BIA's ability to carry out its mission in operating a project, and ensure that the results of government-to-government consultation with the Indian tribe that has jurisdiction over the land on which an eligible project is located are addressed; and (2) funding prioritization criteria to serve as a methodology for distributing funds under this Act. Requires such criteria to take into account:
+
+ the extent to which deferred maintenance of projects threatens public or employee safety or health, natural or cultural resources, or BIA's ability to operate the project; the methodology of the rehabilitation priority index; the potential economic benefits of the expenditures on job creation and general economic development in the affected tribal communities; and the ability of the qualifying project to address tribal, regional, and watershed level water supply needs. Requires the Assistant Secretary for Indian Affairs to complete a study that evaluates options for improving programmatic and project management and performance of irrigation projects managed and operated by BIA.
+
+Requires the Commissioner to ensure that, for each of FY2015-FY2036, each eligible Indian irrigation project that has critical maintenance needs receives funding.</summary>
+</bill>

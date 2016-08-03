@@ -1,0 +1,93 @@
+<bill session="114" type="h" number="911" updated="2015-07-28T05:08:31-04:00">
+  <state datetime="2015-02-12">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-12"/>
+  </status>
+  <introduced datetime="2015-02-12"/>
+  <titles>
+    <title type="short" as="introduced">Saracini Aviation Safety Act of 2015</title>
+    <title type="official" as="introduced">To direct the Administrator of the Federal Aviation Administration to issue an order with respect to secondary cockpit barriers, and for other purposes.</title>
+  </titles>
+  <sponsor id="400646"/>
+  <cosponsors>
+    <cosponsor id="412642" joined="2015-03-17"/>
+    <cosponsor id="400041" joined="2015-02-12"/>
+    <cosponsor id="412652" joined="2015-04-30"/>
+    <cosponsor id="400063" joined="2015-02-12"/>
+    <cosponsor id="412571" joined="2015-02-12"/>
+    <cosponsor id="412236" joined="2015-02-27"/>
+    <cosponsor id="412513" joined="2015-03-26"/>
+    <cosponsor id="412193" joined="2015-02-12"/>
+    <cosponsor id="400090" joined="2015-02-12"/>
+    <cosponsor id="412385" joined="2015-02-12"/>
+    <cosponsor id="412532" joined="2015-02-27"/>
+    <cosponsor id="412382" joined="2015-04-28"/>
+    <cosponsor id="412276" joined="2015-06-03"/>
+    <cosponsor id="400162" joined="2015-02-24"/>
+    <cosponsor id="400641" joined="2015-02-12"/>
+    <cosponsor id="400185" joined="2015-02-24"/>
+    <cosponsor id="412511" joined="2015-02-24"/>
+    <cosponsor id="400195" joined="2015-02-12"/>
+    <cosponsor id="412199" joined="2015-02-12"/>
+    <cosponsor id="400209" joined="2015-02-27"/>
+    <cosponsor id="412435" joined="2015-04-13"/>
+    <cosponsor id="400219" joined="2015-02-12"/>
+    <cosponsor id="412557" joined="2015-02-12"/>
+    <cosponsor id="412290" joined="2015-02-12"/>
+    <cosponsor id="412638" joined="2015-04-13"/>
+    <cosponsor id="400245" joined="2015-03-17"/>
+    <cosponsor id="412643" joined="2015-04-28"/>
+    <cosponsor id="412468" joined="2015-02-12"/>
+    <cosponsor id="400271" joined="2015-02-12"/>
+    <cosponsor id="400279" joined="2015-06-18"/>
+    <cosponsor id="412632" joined="2015-04-13"/>
+    <cosponsor id="400289" joined="2015-02-12"/>
+    <cosponsor id="408211" joined="2015-02-27"/>
+    <cosponsor id="400295" joined="2015-06-03"/>
+    <cosponsor id="412192" joined="2015-02-12"/>
+    <cosponsor id="412523" joined="2015-03-24"/>
+    <cosponsor id="412311" joined="2015-06-10"/>
+    <cosponsor id="400360" joined="2015-02-12"/>
+    <cosponsor id="412186" joined="2015-02-12"/>
+    <cosponsor id="400380" joined="2015-06-15"/>
+    <cosponsor id="412259" joined="2015-03-24"/>
+    <cosponsor id="412514" joined="2015-02-12"/>
+    <cosponsor id="412520" joined="2015-02-12"/>
+    <cosponsor id="412317" joined="2015-02-12"/>
+    <cosponsor id="412254" joined="2015-07-27"/>
+    <cosponsor id="412515" joined="2015-07-09"/>
+    <cosponsor id="412579" joined="2015-02-27"/>
+    <cosponsor id="412214" joined="2015-04-15"/>
+    <cosponsor id="412578" joined="2015-07-16"/>
+    <cosponsor id="412255" joined="2015-02-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-12" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2015-02-13">
+      <text>Referred to the Subcommittee on Aviation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW05" subcommittee="Aviation" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="911"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Aviation and airports"/>
+    <term name="Department of Transportation"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+  <summary>2/12/2015--Introduced.
+Saracini Aviation Safety Act of 2015
+
+ Directs the Administrator of the Federal Aviation Administration to issue an order to require: (1) the installation of secondary barriers, other than the cockpit door, to prevent access to the flight deck of each covered aircraft; (2) such barriers on the aircraft with a cockpit door to remain locked while the aircraft is in flight and the cockpit door separating the flight deck and the passenger area is open; and (3) such barriers on the aircraft without a cockpit door to remain locked as determined by the pilot in command.
+
+Defines "covered aircraft" to mean a commercial aircraft: (1) equipped with more than 75 passenger seats, and (2) with a maximum gross takeoff weight of more than 75,000 pounds.</summary>
+</bill>

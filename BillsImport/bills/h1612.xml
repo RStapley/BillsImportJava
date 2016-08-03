@@ -1,0 +1,53 @@
+<bill session="114" type="h" number="1612" updated="2015-07-17T04:58:09-04:00">
+  <state datetime="2015-03-25">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-25"/>
+  </status>
+  <introduced datetime="2015-03-25"/>
+  <titles>
+    <title type="short" as="introduced">Intermountain West Corridor Development Act of 2015</title>
+    <title type="official" as="introduced">To amend the Intermodal Surface Transportation Efficiency Act of 1991 to extend Interstate Route 11.</title>
+  </titles>
+  <sponsor id="412397"/>
+  <cosponsors>
+    <cosponsor id="412500" joined="2015-04-16"/>
+    <cosponsor id="400141" joined="2015-04-14"/>
+    <cosponsor id="412612" joined="2015-07-16"/>
+    <cosponsor id="400162" joined="2015-07-16"/>
+    <cosponsor id="412645" joined="2015-03-25"/>
+    <cosponsor id="412446" joined="2015-04-14"/>
+    <cosponsor id="412286" joined="2015-03-25"/>
+    <cosponsor id="412611" joined="2015-04-28"/>
+    <cosponsor id="412509" joined="2015-04-22"/>
+    <cosponsor id="412318" joined="2015-03-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-25" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2015-03-26">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW12" subcommittee="Highways and Transit" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="842"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Arizona"/>
+    <term name="Nevada"/>
+    <term name="Roads and highways"/>
+    <term name="Transportation programs funding"/>
+  </subjects>
+  <amendments/>
+  <summary>3/25/2015--Introduced.
+Intermountain West Corridor Development Act of 2015
+
+This bill amends the Intermodal Surface Transportation Efficiency Act of 1991 to designate as a high priority corridor on the National Highway System, as part of Interstate Route I-11, the Intermountain West Corridor from the vicinity of Las Vegas, Nevada, extending:
+
+ north along U.S. Route 95, terminating at Interstate Route 80; and south from the vicinity of Wickenburg to Interstate Route 10 and continuing south toward the Tucson vicinity to the Nogales, Arizona, region; and establishing an international trade corridor by employing Interstates in existence on the date of enactment of this Act or new alignments to be determined through appropriate studies.</summary>
+</bill>

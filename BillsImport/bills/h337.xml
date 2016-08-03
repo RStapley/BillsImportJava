@@ -1,0 +1,38 @@
+<bill session="114" type="h" number="337" updated="2015-06-06T06:20:54-04:00">
+  <state datetime="2015-01-13">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-13"/>
+  </status>
+  <introduced datetime="2015-01-13"/>
+  <titles>
+    <title type="short" as="introduced">Maritime Lien Reform Act</title>
+    <title type="official" as="introduced">To provide limitations on maritime liens on fishing permits, and for other purposes.</title>
+  </titles>
+  <sponsor id="400440"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-01-13" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2015-01-14">
+      <text>Referred to the Subcommittee on Coast Guard and Maritime Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW07" subcommittee="Coast Guard and Maritime Transportation" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Civil actions and liability"/>
+    <term name="Licensing and registrations"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Marine and inland water transportation"/>
+  </subjects>
+  <amendments/>
+  <summary>1/13/2015--Introduced.
+Maritime Lien Reform Act
+
+This bill revises federal shipping laws governing maritime liability to prohibit: (1) maritime liens (liens on vessels) from being imposed on state or federal fishing permits, or (2) civil actions to enforce maritime liens on the permits. A fishing permit is not considered to be part of a vessel, so it does not pass with a vessel upon the vessel's sale or transfer.</summary>
+</bill>

@@ -1,0 +1,54 @@
+<bill session="114" type="h" number="2515" updated="2015-08-15T06:40:22-04:00">
+  <state datetime="2015-05-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-21"/>
+  </status>
+  <introduced datetime="2015-05-21"/>
+  <titles>
+    <title type="short" as="introduced">Anna Westin Act of 2015</title>
+    <title type="official" as="introduced">To amend the Public Health Service Act with respect to eating disorders, and for other purposes.</title>
+  </titles>
+  <sponsor id="412385"/>
+  <cosponsors>
+    <cosponsor id="412652" joined="2015-07-31"/>
+    <cosponsor id="412571" joined="2015-07-21"/>
+    <cosponsor id="412420" joined="2015-07-31"/>
+    <cosponsor id="412529" joined="2015-07-21"/>
+    <cosponsor id="400170" joined="2015-07-21"/>
+    <cosponsor id="412290" joined="2015-07-21"/>
+    <cosponsor id="400326" joined="2015-07-21"/>
+    <cosponsor id="400344" joined="2015-05-21"/>
+    <cosponsor id="412319" joined="2015-06-08"/>
+    <cosponsor id="412628" joined="2015-07-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-21" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Education and the Workforce, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-05-21">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-05-21">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+    <action datetime="2015-05-21">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-05-22">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1865"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+</bill>

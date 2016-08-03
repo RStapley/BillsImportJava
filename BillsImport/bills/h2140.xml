@@ -1,0 +1,93 @@
+<bill session="114" type="h" number="2140" updated="2015-07-10T04:48:09-04:00">
+  <state datetime="2015-04-30">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-30"/>
+  </status>
+  <introduced datetime="2015-04-30"/>
+  <titles>
+    <title type="short" as="introduced">Vietnam Human Rights Act of 2015</title>
+    <title type="official" as="introduced">To promote freedom, human rights, and the rule of law as part of United States-Vietnam relations.</title>
+  </titles>
+  <sponsor id="400380"/>
+  <cosponsors>
+    <cosponsor id="412272" joined="2015-04-30"/>
+    <cosponsor id="400111" joined="2015-06-24"/>
+    <cosponsor id="412639" joined="2015-05-12"/>
+    <cosponsor id="400646" joined="2015-06-23"/>
+    <cosponsor id="400245" joined="2015-04-30"/>
+    <cosponsor id="412521" joined="2015-04-30"/>
+    <cosponsor id="400654" joined="2015-07-07"/>
+    <cosponsor id="412552" joined="2015-06-01"/>
+    <cosponsor id="400652" joined="2015-06-12"/>
+    <cosponsor id="412309" joined="2015-07-07"/>
+    <cosponsor id="400343" joined="2015-04-30"/>
+    <cosponsor id="400344" joined="2015-05-12"/>
+    <cosponsor id="400348" joined="2015-04-30"/>
+    <cosponsor id="412650" joined="2015-06-24"/>
+    <cosponsor id="400356" joined="2015-04-30"/>
+    <cosponsor id="412636" joined="2015-07-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-30" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2015-05-07">
+      <text>Referred to the Subcommittee on Africa, Global Health, Global Human Rights and International Organizations.</text>
+    </action>
+    <action datetime="2015-05-14">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2015-05-14">
+      <text>Forwarded by Subcommittee to Full Committee by Unanimous Consent .</text>
+    </action>
+    <action datetime="2015-05-20">
+      <text>Referred to the Subcommittee on Asia and the Pacific.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee activity="Referral, Markup, Reporting" code="HSFA16" subcommittee="Africa, Global Health, Global Human Rights and International Organizations" name="House Foreign Affairs"/>
+    <committee activity="Referral" code="HSFA05" subcommittee="Asia and the Pacific" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Area studies and international education"/>
+    <term name="Asia"/>
+    <term name="Congressional oversight"/>
+    <term name="Cultural exchanges and relations"/>
+    <term name="Detention of persons"/>
+    <term name="Employment discrimination and employee rights"/>
+    <term name="Foreign aid and international relief"/>
+    <term name="Foreign language and bilingual programs"/>
+    <term name="Human rights"/>
+    <term name="Human trafficking"/>
+    <term name="International exchange and broadcasting"/>
+    <term name="International law and treaties"/>
+    <term name="International organizations and cooperation"/>
+    <term name="Internet and video services"/>
+    <term name="Military assistance, sales, and agreements"/>
+    <term name="News media and reporting"/>
+    <term name="Political movements and philosophies"/>
+    <term name="Property rights"/>
+    <term name="Protest and dissent"/>
+    <term name="Racial and ethnic relations"/>
+    <term name="Refugees, asylum, displaced persons"/>
+    <term name="Religion"/>
+    <term name="Rule of law and government transparency"/>
+    <term name="Trade restrictions"/>
+    <term name="Vietnam"/>
+    <term name="Youth employment and child labor"/>
+  </subjects>
+  <amendments/>
+  <summary>4/30/2015--Introduced.
+Vietnam Human Rights Act of 2015 
+
+Prohibits U.S. nonhumanitarian assistance to the government of Vietnam in excess of FY2014 amounts unless the President certifies to Congress that the government of Vietnam has made substantial progress respecting political, civil, media, Internet, and religious freedoms, minority rights, access to U.S. refugee programs, and actions to end trafficking in persons and the release of religious and political prisoners.
+
+Authorizes the President to waive such requirements if increased U.S. nonhumanitarian assistance would promote the purposes of this Act or is otherwise in the U.S. national interest. Allows the President to waive such authority with respect to: (1) all U.S. nonhumanitarian assistance to Vietnam; or (2) one or more programs, projects, or activities of such assistance.
+
+Expresses the sense of Congress that:
+
+ it shall be U.S. policy that further easing of the prohibition on the sale of lethal military equipment to Vietnam shall require Vietnam to take additional and sustained steps to advance human rights protections; the United States should take measures to overcome the jamming of Radio Free Asia by Vietnam and that the Broadcasting Board of Governors should not cut staffing, funding, or broadcast hours for the Vietnamese language services of the Voice of America and Radio Free Asia; U.S.-Vietnam educational and cultural exchange programs should promote freedom and democracy in Vietnam; Vietnam should be designated as a country of particular concern for religious freedom; and Vietnam does not fully comply with the minimum standards for the elimination of trafficking and is not making significant efforts to bring itself into compliance.</summary>
+</bill>

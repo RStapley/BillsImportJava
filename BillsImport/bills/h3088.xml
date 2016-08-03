@@ -1,0 +1,45 @@
+<bill session="114" type="h" number="3088" updated="2015-08-15T06:45:13-04:00">
+  <state datetime="2015-07-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-16"/>
+  </status>
+  <introduced datetime="2015-07-16"/>
+  <titles>
+    <title type="short" as="introduced">LEAP Act</title>
+    <title type="short" as="introduced">Leveraging and Energizing America's Apprenticeship Programs Act</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to allow employers a credit against income tax for employees who participate in qualified apprenticeship programs.</title>
+  </titles>
+  <sponsor id="412536"/>
+  <cosponsors>
+    <cosponsor id="400630" joined="2015-07-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-16" state="REFERRED">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-07-16">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-07-16">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="3435"/>
+    <bill relation="unknown" session="114" type="s" number="574"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+  <summary>7/16/2015--Introduced.
+Leveraging and Energizing America's Apprenticeship Programs Act or the LEAP Act 
+
+Amends the Internal Revenue Code to allow employers a business-related tax credit of $1,500 for hiring&#160;an apprenticeship employee who has not attained age 25&#160;at the close of the taxable year or $1,000 for an apprenticeship employee who has attained age 25. Allows such credit for no more than&#160;two taxable years with respect to any apprenticeship employee. Defines "apprenticeship employee" as an employee who is employed in an officially-recognized apprenticeable occupation pursuant to an apprentice agreement registered with the Office of Apprenticeship of the Employment and Training Administration of the Department of Labor or a state apprenticeship agency.
+
+Requires the Office of Management and Budget to coordinate with the heads of federal agencies to: (1) determine which government publications could be available on government websites and no longer printed, (2) devise a strategy to reduce overall government printing costs over the 10-year period beginning with FY2016, (3) establish government-wide guidelines on employee printing, and (4) issue guidelines for publicly disclosing information about the publication of government documents.</summary>
+</bill>

@@ -1,0 +1,34 @@
+<bill session="114" type="s" number="1399" updated="2015-07-04T06:58:02-04:00">
+  <state datetime="2015-05-20">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-20"/>
+  </status>
+  <introduced datetime="2015-05-20"/>
+  <titles>
+    <title type="short" as="introduced">Small Business Expensing Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to permanently extend and increase expensing limitations, and for other purposes.</title>
+  </titles>
+  <sponsor id="412330"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-05-20" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="636"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+  <summary>5/20/2015--Introduced.
+Small Business Expensing Act of 2015 
+
+This bill amends the Internal Revenue Code, with respect to the taxpayer election to expense depreciable business property (section 179 property), to: (1) increase to $1 million the expensing allowance for such property, (2) increase to $2.5 million the threshold amount of such property after which the amount of the expensing allowance is reduced, (3) grant a permanent right to revoke an expensing election, and (4) make such increased allowance permanent after 2014.
+
+The allowance is also made permanent for computer software and for qualified real property (i.e., qualified leasehold improvement property, restaurant property, and retail improvement property).</summary>
+</bill>

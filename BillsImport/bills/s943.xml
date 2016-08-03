@@ -1,0 +1,41 @@
+<bill session="114" type="s" number="943" updated="2015-05-09T06:50:27-04:00">
+  <state datetime="2015-04-15">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-15"/>
+  </status>
+  <introduced datetime="2015-04-15"/>
+  <titles>
+    <title type="short" as="introduced">Taxpayer Bill of Rights Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to clarify that a duty of the Commissioner of Internal Revenue is to ensure that Internal Revenue Service employees are familiar with and act in accord with certain taxpayer rights.</title>
+  </titles>
+  <sponsor id="400325"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-04-15" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1058"/>
+    <bill relation="unknown" session="114" type="s" number="951"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Administrative remedies"/>
+    <term name="Department of the Treasury"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Government ethics and transparency, public corruption"/>
+    <term name="Internal Revenue Service (IRS)"/>
+    <term name="Lawyers and legal services"/>
+    <term name="Right of privacy"/>
+    <term name="Tax administration and collection, taxpayers"/>
+  </subjects>
+  <amendments/>
+  <summary>4/15/2015--Introduced.
+Taxpayer Bill of Rights Act of 2015
+
+Amends the Internal Revenue Code to require the Internal Revenue Service (IRS) to ensure that IRS employees are familiar with and act in accord with taxpayer rights, including the right to be informed, to quality service, to pay no more than the correct amount of tax, to challenge the position of IRS and to be heard, to appeal an IRS decision to an independent forum, to finality, to privacy, to confidentiality, to retain representation, and to a fair and just tax system.</summary>
+</bill>

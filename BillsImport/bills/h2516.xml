@@ -1,0 +1,59 @@
+<bill session="114" type="h" number="2516" updated="2015-08-15T06:40:23-04:00">
+  <state datetime="2015-05-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-21"/>
+  </status>
+  <introduced datetime="2015-05-21"/>
+  <titles>
+    <title type="short" as="introduced">Veterans E-Health &amp; Telemedicine Support Act of 2015</title>
+    <title type="short" as="introduced">VETS Act of 2015</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to improve the ability of health care professionals to treat veterans via telemedicine.</title>
+  </titles>
+  <sponsor id="400333"/>
+  <cosponsors>
+    <cosponsor id="400041" joined="2015-05-21"/>
+    <cosponsor id="400062" joined="2015-05-21"/>
+    <cosponsor id="412379" joined="2015-06-02"/>
+    <cosponsor id="412236" joined="2015-06-17"/>
+    <cosponsor id="400124" joined="2015-06-17"/>
+    <cosponsor id="400162" joined="2015-06-01"/>
+    <cosponsor id="400185" joined="2015-06-03"/>
+    <cosponsor id="412511" joined="2015-06-02"/>
+    <cosponsor id="400209" joined="2015-05-21"/>
+    <cosponsor id="412465" joined="2015-05-21"/>
+    <cosponsor id="412521" joined="2015-05-21"/>
+    <cosponsor id="400262" joined="2015-05-21"/>
+    <cosponsor id="412585" joined="2015-05-21"/>
+    <cosponsor id="412308" joined="2015-05-21"/>
+    <cosponsor id="400350" joined="2015-05-21"/>
+    <cosponsor id="400366" joined="2015-05-21"/>
+    <cosponsor id="412317" joined="2015-05-21"/>
+    <cosponsor id="400403" joined="2015-05-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-21" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2015-06-05">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Computers and information technology"/>
+    <term name="Health personnel"/>
+    <term name="Health technology, devices, supplies"/>
+    <term name="Licensing and registrations"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>5/21/2015--Introduced.
+Veterans E-Health &amp; Telemedicine Support Act of 2015 or VETS Act of 2015
+
+Allows a health care professional who is authorized to provide health care through the Department of Veterans Affairs and who is a licensed, nationally registered, or certified professional to practice at any location in any state, the District of Columbia, or a U.S. commonwealth, territory, or possession, regardless of where the professional or patient is located, if the professional is using telemedicine to provide treatment. Allows such treatment regardless of whether such professional or patient is located in a facility owned by the federal government.</summary>
+</bill>

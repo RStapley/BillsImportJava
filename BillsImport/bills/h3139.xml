@@ -1,0 +1,70 @@
+<bill session="114" type="h" number="3139" updated="2015-08-22T06:45:34-04:00">
+  <state datetime="2015-07-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-21"/>
+  </status>
+  <introduced datetime="2015-07-21"/>
+  <titles>
+    <title type="short" as="introduced">Securing Military Personnel Response Firearm Initiative Act</title>
+    <title type="short" as="introduced">SEMPER FI Act</title>
+    <title type="official" as="introduced">To improve security at Armed Forces recruitment centers.</title>
+  </titles>
+  <sponsor id="412283"/>
+  <cosponsors>
+    <cosponsor id="412625" joined="2015-07-28"/>
+    <cosponsor id="412250" joined="2015-07-23"/>
+    <cosponsor id="412629" joined="2015-07-31"/>
+    <cosponsor id="400655" joined="2015-07-28"/>
+    <cosponsor id="412555" joined="2015-07-21"/>
+    <cosponsor id="412621" joined="2015-07-28"/>
+    <cosponsor id="412536" joined="2015-07-23"/>
+    <cosponsor id="412420" joined="2015-07-28"/>
+    <cosponsor id="400640" joined="2015-07-23"/>
+    <cosponsor id="400154" joined="2015-07-28"/>
+    <cosponsor id="412661" joined="2015-07-22"/>
+    <cosponsor id="412278" joined="2015-07-28"/>
+    <cosponsor id="412446" joined="2015-07-21"/>
+    <cosponsor id="412609" joined="2015-07-21"/>
+    <cosponsor id="412550" joined="2015-07-21"/>
+    <cosponsor id="412429" joined="2015-07-21"/>
+    <cosponsor id="412284" joined="2015-07-21"/>
+    <cosponsor id="412603" joined="2015-07-31"/>
+    <cosponsor id="400209" joined="2015-07-21"/>
+    <cosponsor id="412566" joined="2015-07-21"/>
+    <cosponsor id="412421" joined="2015-07-21"/>
+    <cosponsor id="400224" joined="2015-07-28"/>
+    <cosponsor id="412614" joined="2015-07-21"/>
+    <cosponsor id="400276" joined="2015-07-21"/>
+    <cosponsor id="400279" joined="2015-07-31"/>
+    <cosponsor id="412569" joined="2015-07-21"/>
+    <cosponsor id="412431" joined="2015-07-22"/>
+    <cosponsor id="412309" joined="2015-07-23"/>
+    <cosponsor id="412653" joined="2015-07-29"/>
+    <cosponsor id="412483" joined="2015-07-28"/>
+    <cosponsor id="412641" joined="2015-07-21"/>
+    <cosponsor id="400607" joined="2015-07-21"/>
+    <cosponsor id="412417" joined="2015-07-21"/>
+    <cosponsor id="400373" joined="2015-07-21"/>
+    <cosponsor id="400376" joined="2015-07-28"/>
+    <cosponsor id="412317" joined="2015-07-23"/>
+    <cosponsor id="412515" joined="2015-07-21"/>
+    <cosponsor id="412538" joined="2015-07-21"/>
+    <cosponsor id="412610" joined="2015-07-21"/>
+    <cosponsor id="412416" joined="2015-07-22"/>
+    <cosponsor id="412430" joined="2015-07-21"/>
+    <cosponsor id="412640" joined="2015-07-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-21" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+</bill>

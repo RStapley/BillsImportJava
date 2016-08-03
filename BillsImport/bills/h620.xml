@@ -1,0 +1,54 @@
+<bill session="114" type="h" number="620" updated="2015-03-07T06:21:46-05:00">
+  <state datetime="2015-01-28">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-28"/>
+  </status>
+  <introduced datetime="2015-01-28"/>
+  <titles>
+    <title type="short" as="introduced">CEO-Employee Paycheck Fairness Act of 2015</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to expand the denial of deduction for certain excessive employee remuneration.</title>
+  </titles>
+  <sponsor id="400415"/>
+  <cosponsors>
+    <cosponsor id="412657" joined="2015-01-28"/>
+    <cosponsor id="400047" joined="2015-01-28"/>
+    <cosponsor id="412195" joined="2015-01-28"/>
+    <cosponsor id="412470" joined="2015-01-28"/>
+    <cosponsor id="400075" joined="2015-01-28"/>
+    <cosponsor id="400103" joined="2015-01-28"/>
+    <cosponsor id="412613" joined="2015-02-25"/>
+    <cosponsor id="412276" joined="2015-01-28"/>
+    <cosponsor id="400170" joined="2015-01-28"/>
+    <cosponsor id="400185" joined="2015-01-28"/>
+    <cosponsor id="412521" joined="2015-01-28"/>
+    <cosponsor id="400262" joined="2015-01-28"/>
+    <cosponsor id="400263" joined="2015-02-03"/>
+    <cosponsor id="400295" joined="2015-01-28"/>
+    <cosponsor id="412585" joined="2015-01-28"/>
+    <cosponsor id="400378" joined="2015-01-28"/>
+    <cosponsor id="412644" joined="2015-01-28"/>
+    <cosponsor id="412239" joined="2015-01-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-28" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Corporate finance and management"/>
+    <term name="Economic performance and conditions"/>
+    <term name="Income tax deductions"/>
+    <term name="Inflation and prices"/>
+    <term name="Wages and earnings"/>
+  </subjects>
+  <amendments/>
+  <summary>1/28/2015--Introduced.
+CEO-Employee Paycheck Fairness Act of 2015 
+
+Amends the Internal Revenue Code to deny a publicly held corporation a tax deduction for the payment of performance-based remuneration in excess of $1 million to any of its current or former&#160;officers or directors if such corporation does not meet the pay fairness requirement established by this Act. Deems the pay fairness requirement to be satisfied if: (1) the average compensation paid by the&#160;employer for all applicable U.S. employees for the taxable year&#160;exceeds the inflation and productivity growth adjusted average (i.e., $118,450 in 2015)&#160;of such compensation&#160;for the preceding taxable year; and (2) the aggregate compensation paid by the employer to or for all applicable employees for the taxable year&#160;is not less than the aggregate of such compensation for the preceding taxable year.</summary>
+</bill>

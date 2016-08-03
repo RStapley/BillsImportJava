@@ -1,0 +1,52 @@
+<bill session="114" type="h" number="1512" updated="2015-08-01T06:32:02-04:00">
+  <state datetime="2015-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-19"/>
+  </status>
+  <introduced datetime="2015-03-19"/>
+  <titles>
+    <title type="official" as="introduced">To direct the Secretary of Veterans Affairs to designate at least one city in the United States each year as an "American World War II City", and for other purposes.</title>
+  </titles>
+  <sponsor id="412641"/>
+  <cosponsors>
+    <cosponsor id="400616" joined="2015-03-19"/>
+    <cosponsor id="412457" joined="2015-03-19"/>
+    <cosponsor id="412553" joined="2015-03-19"/>
+    <cosponsor id="412550" joined="2015-03-19"/>
+    <cosponsor id="400209" joined="2015-03-19"/>
+    <cosponsor id="400644" joined="2015-03-19"/>
+    <cosponsor id="412552" joined="2015-03-19"/>
+    <cosponsor id="412551" joined="2015-03-19"/>
+    <cosponsor id="400326" joined="2015-03-19"/>
+    <cosponsor id="412670" joined="2015-03-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-19" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2015-04-07">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR09" subcommittee="Disability Assistance and Memorial Affairs" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1401"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Conflicts and wars"/>
+    <term name="Congressional tributes"/>
+    <term name="Military history"/>
+    <term name="North Carolina"/>
+    <term name="Urban and suburban affairs and development"/>
+    <term name="Veterans' organizations and recognition"/>
+  </subjects>
+  <amendments/>
+  <summary>3/19/2015--Introduced.
+Directs the Secretary of Veterans Affairs (VA) to designate at least one city in the United States each year as an "American World War II City" based on the city's: (1) contributions to the war effort during World War II; and (2) efforts to preserve the history of such contributions, including through establishment of preservation organizations or museums, restoration of World War II facilities, and recognition of World War II veterans.
+
+Designates Wilmington, North Carolina, as the first such city.</summary>
+</bill>

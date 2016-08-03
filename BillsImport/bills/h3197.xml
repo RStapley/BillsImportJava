@@ -1,0 +1,107 @@
+<bill session="114" type="h" number="3197" updated="2015-08-08T06:46:03-04:00">
+  <state datetime="2015-07-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-23"/>
+  </status>
+  <introduced datetime="2015-07-23"/>
+  <titles>
+    <title type="short" as="introduced">Protecting Life and Taxpayers Act of 2015</title>
+    <title type="official" as="introduced">To prohibit Federal funding to entities that do not certify the entities will not perform, or provide any funding to any other entity that performs, an abortion.</title>
+  </titles>
+  <sponsor id="412478"/>
+  <cosponsors>
+    <cosponsor id="400004" joined="2015-07-23"/>
+    <cosponsor id="412438" joined="2015-07-23"/>
+    <cosponsor id="412655" joined="2015-07-23"/>
+    <cosponsor id="412541" joined="2015-07-29"/>
+    <cosponsor id="412436" joined="2015-07-23"/>
+    <cosponsor id="400032" joined="2015-07-23"/>
+    <cosponsor id="400636" joined="2015-07-23"/>
+    <cosponsor id="412567" joined="2015-07-23"/>
+    <cosponsor id="412601" joined="2015-07-23"/>
+    <cosponsor id="400071" joined="2015-07-23"/>
+    <cosponsor id="400077" joined="2015-07-23"/>
+    <cosponsor id="412531" joined="2015-07-23"/>
+    <cosponsor id="412555" joined="2015-07-23"/>
+    <cosponsor id="412400" joined="2015-07-23"/>
+    <cosponsor id="400089" joined="2015-07-23"/>
+    <cosponsor id="412488" joined="2015-07-23"/>
+    <cosponsor id="412472" joined="2015-07-23"/>
+    <cosponsor id="400116" joined="2015-07-23"/>
+    <cosponsor id="412479" joined="2015-07-23"/>
+    <cosponsor id="412476" joined="2015-07-23"/>
+    <cosponsor id="412275" joined="2015-07-28"/>
+    <cosponsor id="412480" joined="2015-07-31"/>
+    <cosponsor id="400137" joined="2015-07-23"/>
+    <cosponsor id="400643" joined="2015-07-23"/>
+    <cosponsor id="400141" joined="2015-07-23"/>
+    <cosponsor id="400651" joined="2015-07-28"/>
+    <cosponsor id="412397" joined="2015-07-23"/>
+    <cosponsor id="412473" joined="2015-07-29"/>
+    <cosponsor id="400158" joined="2015-07-23"/>
+    <cosponsor id="412661" joined="2015-07-23"/>
+    <cosponsor id="412280" joined="2015-07-23"/>
+    <cosponsor id="412434" joined="2015-07-23"/>
+    <cosponsor id="400175" joined="2015-07-23"/>
+    <cosponsor id="412623" joined="2015-07-23"/>
+    <cosponsor id="412550" joined="2015-07-23"/>
+    <cosponsor id="412429" joined="2015-07-23"/>
+    <cosponsor id="400206" joined="2015-07-23"/>
+    <cosponsor id="412226" joined="2015-07-23"/>
+    <cosponsor id="412465" joined="2015-07-23"/>
+    <cosponsor id="412673" joined="2015-07-23"/>
+    <cosponsor id="412445" joined="2015-07-23"/>
+    <cosponsor id="412292" joined="2015-07-23"/>
+    <cosponsor id="412294" joined="2015-07-23"/>
+    <cosponsor id="400656" joined="2015-07-23"/>
+    <cosponsor id="412503" joined="2015-07-23"/>
+    <cosponsor id="412552" joined="2015-07-23"/>
+    <cosponsor id="412540" joined="2015-07-23"/>
+    <cosponsor id="400279" joined="2015-07-23"/>
+    <cosponsor id="412634" joined="2015-07-23"/>
+    <cosponsor id="412662" joined="2015-07-28"/>
+    <cosponsor id="412568" joined="2015-07-23"/>
+    <cosponsor id="412302" joined="2015-07-23"/>
+    <cosponsor id="412443" joined="2015-07-23"/>
+    <cosponsor id="412608" joined="2015-07-23"/>
+    <cosponsor id="400313" joined="2015-07-23"/>
+    <cosponsor id="400320" joined="2015-07-23"/>
+    <cosponsor id="412653" joined="2015-07-23"/>
+    <cosponsor id="412394" joined="2015-07-28"/>
+    <cosponsor id="412310" joined="2015-07-23"/>
+    <cosponsor id="412426" joined="2015-07-29"/>
+    <cosponsor id="412202" joined="2015-07-23"/>
+    <cosponsor id="412570" joined="2015-07-23"/>
+    <cosponsor id="412641" joined="2015-07-23"/>
+    <cosponsor id="412417" joined="2015-07-28"/>
+    <cosponsor id="400380" joined="2015-07-23"/>
+    <cosponsor id="412596" joined="2015-07-23"/>
+    <cosponsor id="400381" joined="2015-07-23"/>
+    <cosponsor id="400406" joined="2015-07-23"/>
+    <cosponsor id="412548" joined="2015-07-23"/>
+    <cosponsor id="412564" joined="2015-07-23"/>
+    <cosponsor id="412610" joined="2015-07-23"/>
+    <cosponsor id="412255" joined="2015-07-23"/>
+    <cosponsor id="412525" joined="2015-07-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-23" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Abortion"/>
+    <term name="Health facilities and institutions"/>
+    <term name="Health programs administration and funding"/>
+  </subjects>
+  <amendments/>
+  <summary>7/23/2015--Introduced.
+Protecting Life and Taxpayers Act of 2015
+
+This bill prohibits federal funding of an entity unless the entity certifies that, during the period of funding, the entity will not perform, and will not provide funds to any other entity that performs, an abortion, except in cases of rape or incest or where a physical condition endangers the woman's life unless an abortion is performed. This applies to a hospital only if the hospital funds a non-hospital entity that performs abortions.</summary>
+</bill>

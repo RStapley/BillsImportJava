@@ -1,0 +1,36 @@
+<bill session="114" type="h" number="3425" updated="2015-08-22T06:47:57-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">Firearm Rights Equally Enforced Act</title>
+    <title type="short" as="introduced">FREE Act</title>
+    <title type="official" as="introduced">To amend title 18, United States Code, to give nationwide effect to the least restrictive State laws regarding the carrying of firearms that are concealed, or are partially or fully visible to the public.</title>
+  </titles>
+  <sponsor id="412574"/>
+  <cosponsors>
+    <cosponsor id="412655" joined="2015-07-29"/>
+    <cosponsor id="400655" joined="2015-07-29"/>
+    <cosponsor id="412480" joined="2015-07-29"/>
+    <cosponsor id="412434" joined="2015-07-29"/>
+    <cosponsor id="412623" joined="2015-07-29"/>
+    <cosponsor id="400220" joined="2015-07-29"/>
+    <cosponsor id="412653" joined="2015-07-29"/>
+    <cosponsor id="400367" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+  </subjects>
+  <amendments/>
+</bill>

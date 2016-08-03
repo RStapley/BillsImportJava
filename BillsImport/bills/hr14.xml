@@ -1,0 +1,54 @@
+<bill session="114" type="hr" number="14" updated="2015-06-16T04:46:26-04:00">
+  <state datetime="2015-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-06"/>
+  </status>
+  <introduced datetime="2015-01-06"/>
+  <titles>
+    <title type="official" as="introduced">Urging the president to release information regarding the September 11, 2001, terrorist attacks upon the United States.</title>
+  </titles>
+  <sponsor id="400209"/>
+  <cosponsors>
+    <cosponsor id="400063" joined="2015-02-05"/>
+    <cosponsor id="400080" joined="2015-01-21"/>
+    <cosponsor id="400111" joined="2015-02-11"/>
+    <cosponsor id="400116" joined="2015-02-12"/>
+    <cosponsor id="412620" joined="2015-04-30"/>
+    <cosponsor id="412276" joined="2015-01-21"/>
+    <cosponsor id="400245" joined="2015-06-09"/>
+    <cosponsor id="412294" joined="2015-03-16"/>
+    <cosponsor id="400249" joined="2015-01-06"/>
+    <cosponsor id="412503" joined="2015-01-06"/>
+    <cosponsor id="412575" joined="2015-06-09"/>
+    <cosponsor id="400316" joined="2015-02-11"/>
+    <cosponsor id="412585" joined="2015-01-21"/>
+    <cosponsor id="412309" joined="2015-02-13"/>
+    <cosponsor id="400607" joined="2015-02-11"/>
+    <cosponsor id="412239" joined="2015-02-12"/>
+    <cosponsor id="412211" joined="2015-06-15"/>
+    <cosponsor id="412525" joined="2015-02-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-06" state="REFERRED">
+      <text>Referred to the House Committee on Intelligence (Permanent).</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HLIG" name="House Intelligence (Permanent Select)" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Crime victims"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Intelligence activities, surveillance, classified information"/>
+    <term name="New York City"/>
+    <term name="Pennsylvania"/>
+    <term name="Terrorism"/>
+    <term name="Virginia"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/2015--Introduced.
+Expresses the sense of the House of Representatives that: (1) the President should declassify a 28-page section of the Joint Inquiry into Intelligence Community Activities Before and After the Terrorist Attacks of September 2001, and (2) the families of the victims and the people of the United States deserve answers about the events and circumstances surrounding the September 11, 2001, attacks on the United States.</summary>
+</bill>

@@ -1,0 +1,39 @@
+<bill session="114" type="s" number="1436" updated="2015-08-01T07:04:12-04:00">
+  <state datetime="2015-05-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-21"/>
+  </status>
+  <introduced datetime="2015-05-21"/>
+  <titles>
+    <title type="short" as="introduced">Nevada Native Nations Land Act</title>
+    <title type="official" as="introduced">A bill to require the Secretary of the Interior to take land into trust for certain Indian tribes, and for other purposes.</title>
+  </titles>
+  <sponsor id="300082"/>
+  <cosponsors>
+    <cosponsor id="412218" joined="2015-05-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on Indian Affairs.</text>
+      <reference ref="CR S3242-3243" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SLIA" name="Senate Indian Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="2733"/>
+  </relatedbills>
+  <subjects>
+    <term name="Native Americans"/>
+  </subjects>
+  <amendments/>
+  <summary>5/21/2015--Introduced.
+Nevada Native Nations Land Act
+
+This bill declares that the United States holds in trust the following lands for the benefit of:
+
+ the Fort McDermitt Paiute and Shoshone Tribe of the Fort McDermitt Indian Reservation, approximately 19,094 acres of Bureau of Land Management (BLM) land; the Shoshone-Paiute Tribes of the Duck Valley Indian Reservation, approximately 82 acres of Forest Service land; the Summit Lake Paiute Tribe, approximately 941 acres of BLM land; the Reno-Sparks Indian Colony, approximately 13,434 acres of BLM land; the Pyramid Lake Paiute Tribe, approximately 6,357 acres of BLM land; and the Duckwater Shoshone Tribe approximately 31,269 acres of BLM land. The lands held for such Tribes shall be part of their respective reservations.
+
+Lands held in trust under this Act shall not be eligible for Class II and class III gaming.</summary>
+</bill>

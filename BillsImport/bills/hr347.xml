@@ -1,0 +1,54 @@
+<bill session="114" type="hr" number="347" updated="2015-08-06T04:47:57-04:00">
+  <state datetime="2015-07-08T14:19:00-04:00">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2015-07-08T14:19:00-04:00"/>
+  </status>
+  <introduced datetime="2015-07-07"/>
+  <titles>
+    <title type="official" as="introduced">Providing for further consideration of the bill (H.R. 5) to support State and local accountability for public education, protect State and local authority, inform parents of the performance of their children's schools, and for other purposes, and providing for consideration of the bill (H.R. 2647) to expedite under the National Environmental Policy Act and improve forest management activities in units of the National Forest System derived from the public domain, on public lands under the jurisdiction of the Bureau of Land Management, and on tribal lands to return resilience to overgrown, fire-prone forested lands, and for other purposes.</title>
+  </titles>
+  <sponsor id="412660"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-07T19:31:00-04:00">
+      <text>The House Committee on Rules reported an original measure, H. Rept. 114-192, by Mr. Newhouse.</text>
+    </action>
+    <action datetime="2015-07-07T19:31:00-04:00">
+      <text>Providing for consideration of H.R. 5 and H.R. 2647.</text>
+    </action>
+    <calendar datetime="2015-07-07T19:31:00-04:00" state="REPORTED" calendar="House" number="46">
+      <text>Placed on the House Calendar, Calendar No. 46.</text>
+    </calendar>
+    <action datetime="2015-07-08T12:42:00-04:00">
+      <text>Considered as privileged matter.</text>
+      <reference ref="CR H4879-4887" label="consideration"/>
+    </action>
+    <action datetime="2015-07-08T12:45:00-04:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H. Res. 347.</text>
+    </action>
+    <action datetime="2015-07-08T13:49:00-04:00">
+      <text>The previous question was ordered without objection.</text>
+      <reference ref="CR H4887" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="392" datetime="2015-07-08T14:19:00-04:00" where="h" result="pass" state="PASSED:SIMPLERES">
+      <text>On agreeing to the resolution Agreed to by the Yeas and Nays: 242 - 185 (Roll no. 392).</text>
+      <reference ref="CR H4879-4880" label="text"/>
+    </vote>
+    <action datetime="2015-07-08T14:19:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="5"/>
+    <bill relation="ruled-by" session="114" type="h" number="5"/>
+    <bill relation="unknown" session="114" type="h" number="2647"/>
+    <bill relation="ruled-by" session="114" type="h" number="2647"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,49 @@
+<bill session="114" type="h" number="1034" updated="2015-07-30T04:48:20-04:00">
+  <state datetime="2015-02-24">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-24"/>
+  </status>
+  <introduced datetime="2015-02-24"/>
+  <titles>
+    <title type="official" as="introduced">To provide for an accounting of total United States contributions to the United Nations.</title>
+  </titles>
+  <sponsor id="412395"/>
+  <cosponsors>
+    <cosponsor id="400137" joined="2015-04-28"/>
+    <cosponsor id="400651" joined="2015-03-10"/>
+    <cosponsor id="400209" joined="2015-02-24"/>
+    <cosponsor id="412292" joined="2015-03-10"/>
+    <cosponsor id="400279" joined="2015-07-29"/>
+    <cosponsor id="412569" joined="2015-04-13"/>
+    <cosponsor id="412489" joined="2015-02-24"/>
+    <cosponsor id="400367" joined="2015-02-24"/>
+    <cosponsor id="412640" joined="2015-02-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-24" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1238"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Congressional oversight"/>
+    <term name="Foreign aid and international relief"/>
+    <term name="Government information and archives"/>
+    <term name="United Nations"/>
+  </subjects>
+  <amendments/>
+  <summary>2/24/2015--Introduced.
+Requires the Director of the Office of Management and Budget (OMB) to report annually to Congress regarding all assessed and voluntary U.S. contributions to the United Nations (U.N.) and its affiliated agencies and related bodies during the previous fiscal year.
+
+Requires the report to include the following: (1) the total amount of all assessed and voluntary U.S. contributions to the U.N. and its affiliated agencies and related bodies; (2) the approximate percentage of U.S. contributions to each such agency or body in a fiscal year when compared with all such contributions in that fiscal year; and (3) the amount, description, and purpose of each contribution, the identity of the donating U.S. department or agency, and the identity of the recipient U.N. agency or body.
+
+Requires the first report to include information for the previous three fiscal years.
+
+Requires OMB to post a version of such report on a publicly available Internet website.</summary>
+</bill>

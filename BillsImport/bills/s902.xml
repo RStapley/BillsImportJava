@@ -1,0 +1,33 @@
+<bill session="114" type="s" number="902" updated="2015-05-02T06:47:48-04:00">
+  <state datetime="2015-04-13">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-13"/>
+  </status>
+  <introduced datetime="2015-04-13"/>
+  <titles>
+    <title type="official" as="introduced">A bill to prohibit trespassing on critical infrastructure used in or affecting interstate commerce to commit a criminal offense.</title>
+  </titles>
+  <sponsor id="300087"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-04-13" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Crimes against property"/>
+    <term name="Historic sites and heritage areas"/>
+    <term name="Infrastructure development"/>
+    <term name="Monuments and memorials"/>
+  </subjects>
+  <amendments/>
+  <summary>4/13/2015--Introduced.
+Amends the federal criminal code to prohibit knowingly going on any critical infrastructure used in or affecting interstate commerce to commit a criminal offense.
+
+Defines "critical infrastructure"&#160;as a vital physical system or asset, including a national monument, the incapacity or destruction of which would have a debilitating impact on security, national economic security, or national public health or safety.</summary>
+</bill>

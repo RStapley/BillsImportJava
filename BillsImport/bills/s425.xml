@@ -1,0 +1,39 @@
+<bill session="114" type="s" number="425" updated="2015-06-04T04:48:54-04:00">
+  <state datetime="2015-02-10">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-10"/>
+  </status>
+  <introduced datetime="2015-02-10"/>
+  <titles>
+    <title type="short" as="introduced">Homeless Veterans' Reintegration Programs Reauthorization Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend title 38, United States Code, to provide for a five-year extension to the homeless veterans reintegration programs and to provide clarification regarding eligibility for services under such programs.</title>
+  </titles>
+  <sponsor id="400040"/>
+  <cosponsors>
+    <cosponsor id="412244" joined="2015-02-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-10" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2015-06-03">
+      <text>Committee on Veterans' Affairs. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Homelessness and emergency shelter"/>
+    <term name="Indian social and development programs"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+    <term name="Veterans' loans, housing, homeless programs"/>
+  </subjects>
+  <amendments/>
+  <summary>2/10/2015--Introduced.
+Homeless Veterans' Reintegration Programs Reauthorization Act of 2015
+
+Reauthorizes Department of Veterans Affairs (VA) homeless veterans reintegration programs through FY2020. Includes among those for whom job training, counseling, and placement services are to be provided to expedite their reintegration into the labor force: (1) veterans participating in the VA supported housing program for which rental assistance is provided under the United States Housing Act of 1937, (2) Indians who are veterans receiving assistance under the Native American Housing Assistance and Self Determination Act of 1996, and (3) veterans who are transitioning from being incarcerated.</summary>
+</bill>

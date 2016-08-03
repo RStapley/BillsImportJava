@@ -1,0 +1,44 @@
+<bill session="114" type="s" number="1200" updated="2015-08-15T07:01:51-04:00">
+  <state datetime="2015-05-06">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-06"/>
+  </status>
+  <introduced datetime="2015-05-06"/>
+  <titles>
+    <title type="short" as="introduced">Fairness to Pet Owners Act of 2015</title>
+    <title type="official" as="introduced">A bill to promote competition and help consumers save money by giving them the freedom to choose where they buy prescription pet medications, and for other purposes.</title>
+  </titles>
+  <sponsor id="412490"/>
+  <cosponsors>
+    <cosponsor id="412495" joined="2015-05-06"/>
+    <cosponsor id="300087" joined="2015-05-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="3174"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Civil actions and liability"/>
+    <term name="Consumer affairs"/>
+    <term name="Federal Trade Commission (FTC)"/>
+    <term name="Medical ethics"/>
+    <term name="Prescription drugs"/>
+    <term name="Veterinary medicine and animal diseases"/>
+  </subjects>
+  <amendments/>
+  <summary>5/6/2015--Introduced.
+Fairness to Pet Owners Act of 2015
+
+Directs the Federal Trade Commission to require prescribers of animal drugs to verify prescriptions and provide copies of prescriptions to pet owners, pet owner designees, and pharmacies, without the prescriber demanding payment or establishing other conditions.
+
+Treats a violation of this Act as an unfair or deceptive act or practice under the Federal Trade Commission Act.</summary>
+</bill>

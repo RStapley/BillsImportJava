@@ -1,0 +1,61 @@
+<bill session="114" type="h" number="1319" updated="2015-05-02T06:29:34-04:00">
+  <state datetime="2015-03-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-04"/>
+  </status>
+  <introduced datetime="2015-03-04"/>
+  <titles>
+    <title type="short" as="introduced">Ask Veterans Act</title>
+    <title type="official" as="introduced">To direct the Secretary of Veterans Affairs to conduct annual surveys of veterans on experiences obtaining hospital care and medical services from medical facilities of the Department of Veterans Affairs, and for other purposes.</title>
+  </titles>
+  <sponsor id="412575"/>
+  <cosponsors>
+    <cosponsor id="412516" joined="2015-03-04"/>
+    <cosponsor id="412513" joined="2015-03-04"/>
+    <cosponsor id="412532" joined="2015-03-16"/>
+    <cosponsor id="400160" joined="2015-03-04"/>
+    <cosponsor id="412603" joined="2015-03-04"/>
+    <cosponsor id="400209" joined="2015-03-04"/>
+    <cosponsor id="412286" joined="2015-03-04"/>
+    <cosponsor id="412557" joined="2015-03-16"/>
+    <cosponsor id="400313" joined="2015-03-04"/>
+    <cosponsor id="412519" joined="2015-03-04"/>
+    <cosponsor id="412509" joined="2015-03-04"/>
+    <cosponsor id="412514" joined="2015-03-04"/>
+    <cosponsor id="412318" joined="2015-03-04"/>
+    <cosponsor id="412538" joined="2015-04-23"/>
+    <cosponsor id="412214" joined="2015-03-16"/>
+    <cosponsor id="412525" joined="2015-03-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-04" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2015-03-27">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health care quality"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>3/4/2015--Introduced.
+Ask Veterans Act
+
+Directs the Secretary of Veterans Affairs (VA) to contract with an experienced non-government entity to conduct an annual survey, over a five-year period, to determine the experiences of veterans in obtaining hospital care and medical services at each VA medical facility.
+
+Requires those surveys to include questions relating to:
+
+ a veteran's ability to obtain hospital care and medical services at the facility in a timely manner, the time between the date the veteran requests an appointment and the date the appointment is scheduled, the frequency with which scheduled appointments are cancelled, and the quality of hospital care or medical services received. Directs the Secretary to make the results of the surveys publicly available on the VA's Internet website.</summary>
+</bill>

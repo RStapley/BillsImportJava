@@ -1,0 +1,24 @@
+<bill session="114" type="h" number="3307" updated="2015-08-05T09:48:17-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">School Lunch Affordability Act</title>
+    <title type="official" as="introduced">To amend the Richard B. Russell National School Lunch Act by repealing the paid lunch equity requirements.</title>
+  </titles>
+  <sponsor id="412444"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,34 @@
+<bill session="114" type="h" number="2333" updated="2015-08-01T06:39:01-04:00">
+  <state datetime="2015-05-14">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-14"/>
+  </status>
+  <introduced datetime="2015-05-14"/>
+  <titles>
+    <title type="official" as="introduced">To authorize the Secretary of the Interior to acquire certain property related to the Fort Scott National Historic Site in Fort Scott, Kansas.</title>
+  </titles>
+  <sponsor id="412284"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-05-14" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2015-06-04">
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="Federal Lands" name="House Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Historic sites and heritage areas"/>
+    <term name="Kansas"/>
+    <term name="Land transfers"/>
+  </subjects>
+  <amendments/>
+  <summary>5/14/2015--Introduced.
+This bill authorizes the Department of the Interior to acquire the structure known as "Lunette Blair," which is related to the Fort Scott National Historic Site in Fort Scott, Bourbon County, Kansas.</summary>
+</bill>

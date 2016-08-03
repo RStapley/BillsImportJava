@@ -1,0 +1,33 @@
+<bill session="114" type="h" number="2731" updated="2015-06-20T06:41:21-04:00">
+  <state datetime="2015-06-11">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-11"/>
+  </status>
+  <introduced datetime="2015-06-11"/>
+  <titles>
+    <title type="short" as="introduced">National Collegiate Athletics Accountability Act</title>
+    <title type="short" as="introduced">NCAA Act</title>
+    <title type="official" as="introduced">To amend section 487(a) of the Higher Education Act of 1965 to provide increased accountability of nonprofit athletic associations and to establish a commission to identify and examine issues of national concern related to the conduct of intercollegiate athletics, and for other purposes.</title>
+  </titles>
+  <sponsor id="400648"/>
+  <cosponsors>
+    <cosponsor id="412565" joined="2015-06-11"/>
+    <cosponsor id="412621" joined="2015-06-11"/>
+    <cosponsor id="412649" joined="2015-06-11"/>
+    <cosponsor id="400350" joined="2015-06-11"/>
+    <cosponsor id="412317" joined="2015-06-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-11" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+  </subjects>
+  <amendments/>
+</bill>

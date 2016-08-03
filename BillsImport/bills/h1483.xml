@@ -1,0 +1,43 @@
+<bill session="114" type="h" number="1483" updated="2015-05-09T06:33:37-04:00">
+  <state datetime="2015-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-19"/>
+  </status>
+  <introduced datetime="2015-03-19"/>
+  <titles>
+    <title type="short" as="introduced">Highway Trust Fund Reform Act of 2015</title>
+    <title type="official" as="introduced">To amend titles 23 and 49, United States Code, to repeal wage requirements applicable to laborers and mechanics employed on Federal-aid highway and public transportation construction projects.</title>
+  </titles>
+  <sponsor id="400643"/>
+  <cosponsors>
+    <cosponsor id="400175" joined="2015-04-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-19" state="REFERRED">
+      <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-03-19">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2015-03-19">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+    <action datetime="2015-03-20">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW12" subcommittee="Highways and Transit" name="House Transportation and Infrastructure"/>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+  <summary>3/19/2015--Introduced.
+Highway Trust Fund Reform Act of 2015
+
+ Repeals the Davis-Bacon Act (which requires that the locally prevailing wage rate be paid to laborers and mechanics working on federal-aid highway construction projects and public transportation construction projects).</summary>
+</bill>

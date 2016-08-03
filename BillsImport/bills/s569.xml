@@ -1,0 +1,59 @@
+<bill session="114" type="s" number="569" updated="2015-08-15T06:56:31-04:00">
+  <state datetime="2015-02-25">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-25"/>
+  </status>
+  <introduced datetime="2015-02-25"/>
+  <titles>
+    <title type="short" as="introduced">Farm to School Act of 2015</title>
+    <title type="official" as="introduced">A bill to reauthorize the farm to school program, and for other purposes.</title>
+  </titles>
+  <sponsor id="300065"/>
+  <cosponsors>
+    <cosponsor id="300023" joined="2015-02-25"/>
+    <cosponsor id="300100" joined="2015-08-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-25">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S1120-1121"/>
+    </action>
+    <action datetime="2015-02-25" state="REFERRED">
+      <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+      <reference ref="CR S1121" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="1061"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Aquaculture"/>
+    <term name="Congressional oversight"/>
+    <term name="Education programs funding"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Food assistance and relief"/>
+    <term name="Higher education"/>
+    <term name="Indian social and development programs"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Seafood"/>
+  </subjects>
+  <amendments/>
+  <summary>2/25/2015--Introduced.
+Farm to School Act of 2015 
+
+This bill amends the Richard B. Russell National School Lunch Act to reauthorize the Department of Agriculture's (USDA's) Farm to School Program through FY2021 and modify the program. The program currently provides grants and technical assistance to schools, state and local agencies, Indian tribal organizations, agricultural producers, and nonprofit entities to improve access to local foods in schools.
+
+The bill makes schools participating in the Summer Food Service Program for children, the early care and afterschool portions of the Child and Adult Care Food Program, and the School Breakfast Program eligible to participate in the program. It also permits USDA to provide land-grant colleges and universities with grants, research, and technical assistance under the program.
+
+The purposes for grants awarded under the program are expanded to include agricultural literacy and nutrition education. The bill requires USDA to provide technical assistance, research, and information to increase awareness of and participation in farm to school programs among agricultural producers.
+
+In awarding grants, USDA must improve local food procurement and distribution options for agricultural producers and eligible schools. USDA is permitted to fund projects that include innovative approaches to aggregation, processing, transportation, and distribution.
+
+The bill establishes new limitations on the amount and duration of grants.
+
+The bill also establishes reporting requirements and limits funds that may be used for administrative costs.</summary>
+</bill>

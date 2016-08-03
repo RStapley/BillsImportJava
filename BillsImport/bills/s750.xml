@@ -1,0 +1,54 @@
+<bill session="114" type="s" number="750" updated="2015-05-07T04:48:13-04:00">
+  <state datetime="2015-05-06">REPORTED</state>
+  <status>
+    <unknown datetime="2015-05-06"/>
+  </status>
+  <introduced datetime="2015-03-17"/>
+  <titles>
+    <title type="short" as="introduced">Arizona Borderlands Protection and Preservation Act</title>
+    <title type="official" as="introduced">A bill to achieve border security on certain Federal lands along the Southern border.</title>
+  </titles>
+  <sponsor id="300071"/>
+  <cosponsors>
+    <cosponsor id="400134" joined="2015-03-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-17" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <calendar datetime="2015-05-06" state="REPORTED">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1412"/>
+  </relatedbills>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Arizona"/>
+    <term name="Border security and unlawful immigration"/>
+    <term name="California"/>
+    <term name="Customs enforcement"/>
+    <term name="Department of Homeland Security"/>
+    <term name="Historical and cultural resources"/>
+    <term name="Land use and conservation"/>
+    <term name="Latin America"/>
+    <term name="Law enforcement administration and funding"/>
+    <term name="Law enforcement officers"/>
+    <term name="Mexico"/>
+    <term name="New Mexico"/>
+    <term name="Texas"/>
+  </subjects>
+  <amendments/>
+  <summary>3/17/2015--Introduced.
+Arizona Borderlands Protection and Preservation Act
+
+This bill directs the Department of Homeland Security, the Department of Agriculture (USDA), and the Department of the Interior to provide U.S. Customs and Border Protection (CBP) personnel with access to federal lands for security activities, including: (1) routine motorized patrols; and (2) deployment of communications, surveillance, and detection equipment.
+
+Interior and USDA may provide education and training to CBP personnel on the natural and cultural resources present on individual federal land units.
+
+Access authority shall not apply to private or state-owned land within federal land boundaries.</summary>
+</bill>

@@ -1,0 +1,26 @@
+<bill session="114" type="s" number="2008" updated="2015-08-18T09:46:31-04:00">
+  <state datetime="2015-08-06">REFERRED</state>
+  <status>
+    <introduced datetime="2015-08-06"/>
+  </status>
+  <introduced datetime="2015-08-06"/>
+  <titles>
+    <title type="short" as="introduced">Transportation, Access, and Opportunity Act of 2015</title>
+    <title type="official" as="introduced">A bill to enhance transportation programs in order to achieve an interconnected transportation system which connects people to jobs, schools, and other essential services through a multimodal network, and for other purposes.</title>
+  </titles>
+  <sponsor id="412325"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-08-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+</bill>

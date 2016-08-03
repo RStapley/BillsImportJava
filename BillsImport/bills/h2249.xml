@@ -1,0 +1,55 @@
+<bill session="114" type="h" number="2249" updated="2015-07-11T06:37:32-04:00">
+  <state datetime="2015-05-12">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-12"/>
+  </status>
+  <introduced datetime="2015-05-12"/>
+  <titles>
+    <title type="short" as="introduced">Restoring Medicaid for Compact of Free Association Migrants Act of 2015</title>
+    <title type="official" as="introduced">To amend title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 to restore Medicaid coverage for citizens of the Freely Associated States lawfully residing in the United States under the Compacts of Free Association between the Government of the United States and the Governments of the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau.</title>
+  </titles>
+  <sponsor id="412532"/>
+  <cosponsors>
+    <cosponsor id="400041" joined="2015-05-12"/>
+    <cosponsor id="412312" joined="2015-05-12"/>
+    <cosponsor id="412626" joined="2015-05-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-12" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-05-15">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="1301"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="American Samoa"/>
+    <term name="Foreign aid and international relief"/>
+    <term name="Guam"/>
+    <term name="Marshall Islands"/>
+    <term name="Medicaid"/>
+    <term name="Micronesia"/>
+    <term name="Northern Mariana Islands"/>
+    <term name="Oceania"/>
+    <term name="Palau"/>
+    <term name="Puerto Rico"/>
+    <term name="Virgin Islands"/>
+  </subjects>
+  <amendments/>
+  <summary>5/12/2015--Introduced.
+Restoring Medicaid for Compact of Free Association Migrants Act of 2015
+
+ Amends the Personal Responsibility and Work Opportunity Act of 1996 to permit coverage under title XIX (Medicaid) of the Social Security Act for citizens of the Freely Associated States lawfully residing in the United States under the Compacts of Free Association between the United States Government and the Governments of the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau.
+
+Permits Medicaid coverage also to lawful residents, in accordance with such Compacts, but only at the option of the governor, of Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, or American Samoa.
+
+Exempts such citizens from the five-year limited eligibility of qualified aliens for federal means-tested public benefits with respect to Medicaid benefits.</summary>
+</bill>

@@ -1,0 +1,78 @@
+<bill session="114" type="hj" number="61" updated="2015-08-15T06:48:40-04:00">
+  <state datetime="2015-07-27T15:43:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2015-07-27T15:43:00-04:00"/>
+  </status>
+  <introduced datetime="2015-07-23"/>
+  <titles>
+    <title type="short" as="introduced">Hire More Heroes Act of 2015</title>
+    <title type="short" as="passed house">Hire More Heroes Act of 2015</title>
+    <title type="official" as="introduced">Amending the Internal Revenue Code of 1986 to exempt employees with health coverage under TRICARE or the Veterans Administration from being taken into account for purposes of determining the employers to which the employer mandate applies under the Patient Protection and Affordable Care Act.</title>
+  </titles>
+  <sponsor id="412536"/>
+  <cosponsors>
+    <cosponsor id="412621" joined="2015-07-27"/>
+    <cosponsor id="412532" joined="2015-07-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-23" state="REFERRED">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-07-23">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-07-23">
+      <text>Referred to House Budget</text>
+    </action>
+    <action datetime="2015-07-27T15:32:00-04:00">
+      <text>Mr. Ryan (WI) moved to suspend the rules and pass the resolution.</text>
+    </action>
+    <action datetime="2015-07-27T15:32:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5488-5490" label="consideration"/>
+    </action>
+    <action datetime="2015-07-27T15:32:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.J. Res. 61.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2015-07-27T15:43:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H5488" label="text"/>
+    </vote>
+    <action datetime="2015-07-27T15:43:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2015-07-28">
+      <text>Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text>
+    </action>
+    <calendar datetime="2015-07-29" calendar="Senate Legislative" under="General Orders" number="170">
+      <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 170.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee code="HSBU" name="House Budget" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="22"/>
+    <bill relation="unknown" session="114" type="h" number="22"/>
+    <bill relation="unknown" session="114" type="s" number="12"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Military medicine"/>
+    <term name="Sales and excise taxes"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>7/27/2015--Passed House without amendment.
+(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)
+
+Hire More Heroes Act of 2015
+
+(Sec. 2) This joint resolution amends the Internal Revenue Code to exempt any employee with coverage under a health care program administered by the Department of Defense, including the TRICARE program, or&#160;by&#160;the Department of Veterans Affairs from classification as an eligible employee of an applicable large employer for purposes of the employer mandate&#160;under the Patient Protection and Affordable Care Act&#160;to provide eligible employees with minimum essential health care coverage.
+
+(Sec. 3) The budgetary effects of this joint resolution are not entered on either PAYGO scorecard under the Statutory Pay-As-You-Go Act of 2010.</summary>
+</bill>

@@ -1,0 +1,47 @@
+<bill session="114" type="h" number="1364" updated="2015-05-01T04:48:32-04:00">
+  <state datetime="2015-03-13">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-13"/>
+  </status>
+  <introduced datetime="2015-03-13"/>
+  <titles>
+    <title type="short" as="introduced">Nuclear Waste Informed Consent Act</title>
+    <title type="official" as="introduced">To require the Nuclear Regulatory Commission to obtain the consent of affected State and local governments before authorizing the construction of a nuclear waste repository.</title>
+  </titles>
+  <sponsor id="412318"/>
+  <cosponsors>
+    <cosponsor id="412446" joined="2015-03-13"/>
+    <cosponsor id="400237" joined="2015-04-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-13" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-03-20">
+      <text>Referred to the Subcommittee on Environment and the Economy.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF18" subcommittee="Environment and the Economy" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="691"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Federal-Indian relations"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Radioactive wastes and releases"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+  <summary>3/13/2015--Introduced.
+Nuclear Waste Informed Consent Act
+
+This bill prohibits the Nuclear Regulatory Commission from authorizing construction of a nuclear waste repository unless the Secretary of Energy has entered into an agreement to host the repository with the following entities:
+
+ the governor of the state in which the repository is proposed to be located, each affected unit of local government, any unit of general local government contiguous to the affected unit if spent nuclear fuel or high-level radioactive waste will be transported through that unit of general local government for disposal at the repository, and each affected Indian tribe. Furthermore, any agreement to host the repository must meet the following conditions:
+
+ it must be written and signed by all parties, it must be binding on the parties, and it shall not be amended or revoked except by mutual agreement of the parties.</summary>
+</bill>

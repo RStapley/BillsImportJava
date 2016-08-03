@@ -1,0 +1,29 @@
+<bill session="114" type="h" number="2687" updated="2015-08-01T04:51:02-04:00">
+  <state datetime="2015-06-08">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-08"/>
+  </status>
+  <introduced datetime="2015-06-08"/>
+  <titles>
+    <title type="short" as="introduced">Securing Energy Critical Elements and American Jobs Act of 2015</title>
+    <title type="official" as="introduced">To authorize an energy critical elements program, to amend the National Materials and Minerals Policy, Research and Development Act of 1980, and for other purposes.</title>
+  </titles>
+  <sponsor id="412514"/>
+  <cosponsors>
+    <cosponsor id="412521" joined="2015-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-08" state="REFERRED">
+      <text>Referred to the House Committee on Science, Space, and Technology.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science, Space, and Technology" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+</bill>

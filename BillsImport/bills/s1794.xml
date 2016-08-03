@@ -1,0 +1,32 @@
+<bill session="114" type="s" number="1794" updated="2015-07-25T07:04:13-04:00">
+  <state datetime="2015-07-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-16"/>
+  </status>
+  <introduced datetime="2015-07-16"/>
+  <titles>
+    <title type="short" as="introduced">Stop Arctic Ocean Drilling Act of 2015</title>
+    <title type="official" as="introduced">A bill to prohibit drilling in the Arctic Ocean.</title>
+  </titles>
+  <sponsor id="412325"/>
+  <cosponsors>
+    <cosponsor id="412378" joined="2015-07-16"/>
+    <cosponsor id="412281" joined="2015-07-16"/>
+    <cosponsor id="400253" joined="2015-07-16"/>
+    <cosponsor id="400357" joined="2015-07-16"/>
+    <cosponsor id="412247" joined="2015-07-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-16" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+  </subjects>
+  <amendments/>
+</bill>

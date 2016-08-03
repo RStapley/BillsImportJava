@@ -1,0 +1,31 @@
+<bill session="114" type="s" number="936" updated="2015-07-11T06:55:06-04:00">
+  <state datetime="2015-04-14">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-14"/>
+  </status>
+  <introduced datetime="2015-04-14"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Ohio &amp; Erie Canal National Heritage Canalway Act of 1996 to repeal the funding limitation.</title>
+  </titles>
+  <sponsor id="400050"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-04-14" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Dams and canals"/>
+    <term name="Historic sites and heritage areas"/>
+    <term name="Ohio"/>
+    <term name="Parks, recreation areas, trails"/>
+  </subjects>
+  <amendments/>
+  <summary>4/14/2015--Introduced.
+Amends the Ohio &amp; Erie National Heritage Canalway Act of 1996 to repeal the limitation on the total amount that may be appropriated for the Ohio &amp; Erie National Heritage Canalway.</summary>
+</bill>

@@ -1,0 +1,53 @@
+<bill session="114" type="s" number="1676" updated="2015-07-17T05:00:03-04:00">
+  <state datetime="2015-06-24">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-24"/>
+  </status>
+  <introduced datetime="2015-06-24"/>
+  <titles>
+    <title type="short" as="introduced">Delivering Opportunities for Care and Services for Veterans Act of 2015</title>
+    <title type="short" as="introduced">DOCs for Veterans Act of 2015</title>
+    <title type="official" as="introduced">A bill to increase the number of graduate medical education positions treating veterans, to improve the compensation of health care providers, medical directors, and directors of Veterans Integrated Service Networks of the Department of Veterans Affairs, and for other purposes.</title>
+  </titles>
+  <sponsor id="412244"/>
+  <cosponsors>
+    <cosponsor id="400050" joined="2015-07-16"/>
+    <cosponsor id="300038" joined="2015-07-15"/>
+    <cosponsor id="412243" joined="2015-06-24"/>
+    <cosponsor id="412507" joined="2015-06-25"/>
+    <cosponsor id="400413" joined="2015-06-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-24" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <summary>6/24/2015--Introduced.
+Delivering Opportunities for Care and Services for Veterans Act of 2015 or the DOCs for Veterans Act of 2015
+
+This bill amends the Social Security Act with respect to determining the number of full-time-equivalent (FTE) residents for payments to hospitals for direct graduate medical education (GME) costs, in particular the limitation on the total number of FTE residents in the field of allopathic or osteopathic medicine in a hospital's approved medical residency training program. In applying this limitation, the Department of Health and Human Services (HHS) shall not take into account any such resident that counts towards meeting the Department of Veterans Affairs (VA) obligation under the Veterans Access, Choice, and Accountability Act of 2014 to increase the number of GME residency positions at VA medical facilities by up to 1,500 positions.
+
+The period for increasing GME residency positions at VA medical facilities is extended to 10 years.
+
+VA and HHS shall jointly conduct a six-year pilot program to establish at least three graduate behavioral medicine residency programs in underserved areas in the United States.
+
+Education and training of marriage and family therapists and licensed professional mental health counselors shall be included in VA health personnel education and training programs.
+
+Persons with a doctoral degree in mental health counseling are eligible for appointment to a VA mental health counselor position.
+
+Physician assistants in VA facilities must receive pay competitive with pay for similar positions in non-VA facilities in the same labor market.
+
+Not less than 30% of debt reduction payments paid under the education debt reduction program each year shall be paid to individuals who practice medicine in a rural or highly rural area.
+
+The positions (and pay) of Directors of Veterans Integrated Service Networks are established.
+
+VA shall conduct a two-year pilot program to assess the feasibility of implementing in rural and highly rural areas with a large percentage of veterans a nurse advice line to provide veterans with medical advice, appointment and cancellation services, and information on the availability of VA benefits.</summary>
+</bill>

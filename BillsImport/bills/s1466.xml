@@ -1,0 +1,41 @@
+<bill session="114" type="s" number="1466" updated="2015-08-05T04:47:54-04:00">
+  <state datetime="2015-05-22">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-22"/>
+  </status>
+  <introduced datetime="2015-05-22"/>
+  <titles>
+    <title type="short" as="introduced">Ensuring Equal Access to Treatments Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act to modify payment under the Medicare program for outpatient department procedures that utilize drugs as supplies, and for other purposes.</title>
+  </titles>
+  <sponsor id="400222"/>
+  <cosponsors>
+    <cosponsor id="400054" joined="2015-05-22"/>
+    <cosponsor id="300019" joined="2015-05-22"/>
+    <cosponsor id="300038" joined="2015-06-10"/>
+    <cosponsor id="300048" joined="2015-07-22"/>
+    <cosponsor id="412218" joined="2015-08-04"/>
+    <cosponsor id="400272" joined="2015-05-22"/>
+    <cosponsor id="300083" joined="2015-07-30"/>
+    <cosponsor id="300087" joined="2015-05-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-22" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="1178"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+  <summary>5/22/2015--Introduced.
+Ensuring Equal Access to Treatments Act of 2015
+
+Amends title XVIII (Medicare) of the Social Security Act, with respect to the prospective payment system for hospital outpatient department (OPD) services, to direct the Secretary of Health and Human Services to create certain additional groups of covered OPD services that classify separately, from those that do not utilize such a drug, procedures that utilize a drug (other than contrast agents, diagnostic radiopharmaceutical, or anesthesia drugs) that both has a cost above the drug packaging threshold and functions as a supply when used in a diagnostic test or procedure.</summary>
+</bill>

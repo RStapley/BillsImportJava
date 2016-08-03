@@ -1,0 +1,135 @@
+<bill session="114" type="h" number="402" updated="2015-07-23T04:47:48-04:00">
+  <state datetime="2015-01-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-16"/>
+  </status>
+  <introduced datetime="2015-01-16"/>
+  <titles>
+    <title type="short" as="introduced">National Right-to-Carry Reciprocity Act of 2015</title>
+    <title type="official" as="introduced">To amend title 18, United States Code, to provide a national standard in accordance with which nonresidents of a State may carry concealed firearms in the State.</title>
+  </titles>
+  <sponsor id="412409"/>
+  <cosponsors>
+    <cosponsor id="412500" joined="2015-01-21"/>
+    <cosponsor id="412655" joined="2015-07-15"/>
+    <cosponsor id="412541" joined="2015-01-20"/>
+    <cosponsor id="412436" joined="2015-01-16"/>
+    <cosponsor id="400029" joined="2015-02-02"/>
+    <cosponsor id="412478" joined="2015-01-16"/>
+    <cosponsor id="412629" joined="2015-04-30"/>
+    <cosponsor id="412567" joined="2015-02-24"/>
+    <cosponsor id="412539" joined="2015-01-28"/>
+    <cosponsor id="412196" joined="2015-03-16"/>
+    <cosponsor id="412427" joined="2015-03-16"/>
+    <cosponsor id="412601" joined="2015-01-21"/>
+    <cosponsor id="400068" joined="2015-01-16"/>
+    <cosponsor id="400071" joined="2015-01-16"/>
+    <cosponsor id="412271" joined="2015-02-24"/>
+    <cosponsor id="412563" joined="2015-02-17"/>
+    <cosponsor id="412513" joined="2015-01-16"/>
+    <cosponsor id="412555" joined="2015-01-16"/>
+    <cosponsor id="412400" joined="2015-01-16"/>
+    <cosponsor id="400086" joined="2015-01-16"/>
+    <cosponsor id="412536" joined="2015-01-16"/>
+    <cosponsor id="400648" joined="2015-01-20"/>
+    <cosponsor id="412477" joined="2015-01-16"/>
+    <cosponsor id="412472" joined="2015-01-16"/>
+    <cosponsor id="400116" joined="2015-01-16"/>
+    <cosponsor id="412457" joined="2015-02-11"/>
+    <cosponsor id="412482" joined="2015-05-19"/>
+    <cosponsor id="412479" joined="2015-01-16"/>
+    <cosponsor id="400141" joined="2015-01-16"/>
+    <cosponsor id="412453" joined="2015-01-16"/>
+    <cosponsor id="412397" joined="2015-01-21"/>
+    <cosponsor id="412473" joined="2015-04-28"/>
+    <cosponsor id="412388" joined="2015-02-02"/>
+    <cosponsor id="412661" joined="2015-05-19"/>
+    <cosponsor id="412278" joined="2015-03-16"/>
+    <cosponsor id="412454" joined="2015-01-16"/>
+    <cosponsor id="412446" joined="2015-01-21"/>
+    <cosponsor id="400175" joined="2015-02-12"/>
+    <cosponsor id="412609" joined="2015-02-11"/>
+    <cosponsor id="412437" joined="2015-02-02"/>
+    <cosponsor id="412283" joined="2015-01-16"/>
+    <cosponsor id="412484" joined="2015-02-24"/>
+    <cosponsor id="412460" joined="2015-01-28"/>
+    <cosponsor id="412603" joined="2015-01-16"/>
+    <cosponsor id="412226" joined="2015-01-21"/>
+    <cosponsor id="412465" joined="2015-01-16"/>
+    <cosponsor id="412421" joined="2015-02-11"/>
+    <cosponsor id="412445" joined="2015-01-22"/>
+    <cosponsor id="412292" joined="2015-02-10"/>
+    <cosponsor id="412294" joined="2015-01-20"/>
+    <cosponsor id="412295" joined="2015-01-16"/>
+    <cosponsor id="412487" joined="2015-01-16"/>
+    <cosponsor id="412540" joined="2015-01-20"/>
+    <cosponsor id="400279" joined="2015-01-22"/>
+    <cosponsor id="412634" joined="2015-07-22"/>
+    <cosponsor id="400285" joined="2015-02-26"/>
+    <cosponsor id="400441" joined="2015-01-26"/>
+    <cosponsor id="412475" joined="2015-03-23"/>
+    <cosponsor id="400297" joined="2015-01-16"/>
+    <cosponsor id="400313" joined="2015-02-10"/>
+    <cosponsor id="400316" joined="2015-01-16"/>
+    <cosponsor id="400652" joined="2015-01-22"/>
+    <cosponsor id="412633" joined="2015-06-23"/>
+    <cosponsor id="412431" joined="2015-01-16"/>
+    <cosponsor id="412309" joined="2015-03-04"/>
+    <cosponsor id="400626" joined="2015-07-10"/>
+    <cosponsor id="412462" joined="2015-01-22"/>
+    <cosponsor id="412483" joined="2015-04-21"/>
+    <cosponsor id="412310" joined="2015-01-16"/>
+    <cosponsor id="400341" joined="2015-01-16"/>
+    <cosponsor id="412311" joined="2015-01-16"/>
+    <cosponsor id="412411" joined="2015-01-26"/>
+    <cosponsor id="412641" joined="2015-01-28"/>
+    <cosponsor id="400606" joined="2015-03-02"/>
+    <cosponsor id="412315" joined="2015-04-22"/>
+    <cosponsor id="412399" joined="2015-02-11"/>
+    <cosponsor id="400367" joined="2015-01-16"/>
+    <cosponsor id="409888" joined="2015-02-17"/>
+    <cosponsor id="412596" joined="2015-01-21"/>
+    <cosponsor id="400381" joined="2015-01-16"/>
+    <cosponsor id="412581" joined="2015-01-16"/>
+    <cosponsor id="412317" joined="2015-01-16"/>
+    <cosponsor id="412405" joined="2015-01-16"/>
+    <cosponsor id="400411" joined="2015-02-24"/>
+    <cosponsor id="412515" joined="2015-01-22"/>
+    <cosponsor id="412410" joined="2015-02-02"/>
+    <cosponsor id="412564" joined="2015-06-01"/>
+    <cosponsor id="412610" joined="2015-02-04"/>
+    <cosponsor id="412578" joined="2015-01-16"/>
+    <cosponsor id="412255" joined="2015-05-18"/>
+    <cosponsor id="412402" joined="2015-01-16"/>
+    <cosponsor id="412430" joined="2015-01-30"/>
+    <cosponsor id="400440" joined="2015-01-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-16" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-02-05">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="986"/>
+    <bill relation="unknown" session="114" type="s" number="498"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Firearms and explosives"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Licensing and registrations"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+  <summary>1/16/2015--Introduced.
+National Right-to-Carry Reciprocity Act of 2015
+
+ Amends the federal criminal code to authorize a person who is carrying a valid, government-issued identification document containing that person's photograph and a valid permit to carry a concealed firearm in one state, and who is not prohibited from possessing, transporting, shipping, or receiving a firearm under federal law, to possess or carry a concealed handgun (other than a machine gun or destructive device) in another state in accordance with the restrictions of that state.</summary>
+</bill>

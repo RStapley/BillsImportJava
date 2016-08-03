@@ -1,0 +1,47 @@
+<bill session="114" type="h" number="2313" updated="2015-07-25T06:38:19-04:00">
+  <state datetime="2015-05-13">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-13"/>
+  </status>
+  <introduced datetime="2015-05-13"/>
+  <titles>
+    <title type="short" as="introduced">Advancing Research for Hydrocephalus Act of 2015</title>
+    <title type="official" as="introduced">To amend the Public Health Service Act to enhance and expand infrastructure and activities to track the epidemiology of hydrocephalus, and for other purposes.</title>
+  </titles>
+  <sponsor id="400380"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-05-13" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-05-15">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2015-05-21">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E782"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Government information and archives"/>
+    <term name="Health information and medical records"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Medical research"/>
+    <term name="Neurological disorders"/>
+  </subjects>
+  <amendments/>
+  <summary>5/13/2015--Introduced.
+Advancing Research for Hydrocephalus Act of 2015
+
+Amends the Public Health Service Act to require the Centers for Disease Control and Prevention to: (1) enhance and expand infrastructure and activities to track the epidemiology of hydrocephalus (a condition in which fluid accumulates in the brain); and (2) incorporate information obtained through those activities into a National Hydrocephalus Surveillance System. Requires the Department of Health and Human Services (HHS) to ensure that the System facilitates further research on hydrocephalus.
+
+Requires HHS to provide for the collection and storage of information on hydrocephalus, including the incidence, prevalence, and other information, to the extent practicable.
+
+Requires HHS to: (1) make information and analysis in the System available to the public, including researchers; and (2) ensure that privacy and security protections applicable to the System are at least as stringent as the protections under the Health Insurance Portability and Accountability Act.</summary>
+</bill>

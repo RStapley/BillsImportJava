@@ -1,0 +1,44 @@
+<bill session="114" type="h" number="1595" updated="2015-07-30T04:48:47-04:00">
+  <state datetime="2015-03-24">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-24"/>
+  </status>
+  <introduced datetime="2015-03-24"/>
+  <titles>
+    <title type="official" as="introduced">To require the Secretary of the Treasury to implement security measures in the electronic tax return filing process to prevent tax refund fraud from being perpetrated with electronic identity theft.</title>
+  </titles>
+  <sponsor id="412525"/>
+  <cosponsors>
+    <cosponsor id="412250" joined="2015-05-15"/>
+    <cosponsor id="400048" joined="2015-06-23"/>
+    <cosponsor id="412622" joined="2015-06-23"/>
+    <cosponsor id="400108" joined="2015-06-23"/>
+    <cosponsor id="412529" joined="2015-03-24"/>
+    <cosponsor id="412603" joined="2015-04-28"/>
+    <cosponsor id="412614" joined="2015-06-18"/>
+    <cosponsor id="400279" joined="2015-05-15"/>
+    <cosponsor id="400344" joined="2015-07-29"/>
+    <cosponsor id="400348" joined="2015-06-02"/>
+    <cosponsor id="412412" joined="2015-07-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-24" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="845"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Computer security and identity theft"/>
+    <term name="Fraud offenses and financial crimes"/>
+    <term name="Tax administration and collection, taxpayers"/>
+  </subjects>
+  <amendments/>
+  <summary>3/24/2015--Introduced.
+This bill directs the Internal Revenue Service to implement security measures, including the use of security questions, in the electronic tax return filing process&#160;to prevent tax refund fraud from being perpetrated through electronic identity theft.</summary>
+</bill>

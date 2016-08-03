@@ -1,0 +1,120 @@
+<bill session="114" type="h" number="803" updated="2015-07-22T04:58:34-04:00">
+  <state datetime="2015-02-05">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-05"/>
+  </status>
+  <introduced datetime="2015-02-05"/>
+  <titles>
+    <title type="short" as="introduced">Child Interstate Abortion Notification Act</title>
+    <title type="official" as="introduced">To amend title 18, United States Code, to prohibit taking minors across State lines in circumvention of laws requiring the involvement of parents in abortion decisions.</title>
+  </titles>
+  <sponsor id="400344"/>
+  <cosponsors>
+    <cosponsor id="400004" joined="2015-02-05"/>
+    <cosponsor id="412438" joined="2015-02-05"/>
+    <cosponsor id="412655" joined="2015-02-11"/>
+    <cosponsor id="412469" joined="2015-02-05"/>
+    <cosponsor id="400032" joined="2015-02-05"/>
+    <cosponsor id="400636" joined="2015-02-05"/>
+    <cosponsor id="400046" joined="2015-03-04"/>
+    <cosponsor id="400071" joined="2015-02-05"/>
+    <cosponsor id="400077" joined="2015-02-05"/>
+    <cosponsor id="412563" joined="2015-02-05"/>
+    <cosponsor id="400086" joined="2015-02-25"/>
+    <cosponsor id="412621" joined="2015-02-05"/>
+    <cosponsor id="412536" joined="2015-02-05"/>
+    <cosponsor id="400108" joined="2015-02-05"/>
+    <cosponsor id="412472" joined="2015-02-05"/>
+    <cosponsor id="400116" joined="2015-02-05"/>
+    <cosponsor id="412482" joined="2015-02-05"/>
+    <cosponsor id="412479" joined="2015-02-05"/>
+    <cosponsor id="412275" joined="2015-02-11"/>
+    <cosponsor id="400643" joined="2015-02-25"/>
+    <cosponsor id="400141" joined="2015-02-05"/>
+    <cosponsor id="400145" joined="2015-02-05"/>
+    <cosponsor id="412397" joined="2015-02-05"/>
+    <cosponsor id="412388" joined="2015-02-11"/>
+    <cosponsor id="400175" joined="2015-02-12"/>
+    <cosponsor id="412429" joined="2015-02-05"/>
+    <cosponsor id="412437" joined="2015-02-05"/>
+    <cosponsor id="412422" joined="2015-02-11"/>
+    <cosponsor id="412284" joined="2015-02-05"/>
+    <cosponsor id="412460" joined="2015-02-05"/>
+    <cosponsor id="412603" joined="2015-02-05"/>
+    <cosponsor id="400209" joined="2015-02-05"/>
+    <cosponsor id="412226" joined="2015-02-05"/>
+    <cosponsor id="412465" joined="2015-02-05"/>
+    <cosponsor id="412421" joined="2015-02-11"/>
+    <cosponsor id="400224" joined="2015-03-06"/>
+    <cosponsor id="412510" joined="2015-02-05"/>
+    <cosponsor id="412256" joined="2015-02-05"/>
+    <cosponsor id="400630" joined="2015-02-11"/>
+    <cosponsor id="400656" joined="2015-02-05"/>
+    <cosponsor id="412540" joined="2015-02-05"/>
+    <cosponsor id="400279" joined="2015-02-05"/>
+    <cosponsor id="412662" joined="2015-02-11"/>
+    <cosponsor id="412568" joined="2015-02-05"/>
+    <cosponsor id="400285" joined="2015-02-05"/>
+    <cosponsor id="412660" joined="2015-04-22"/>
+    <cosponsor id="412409" joined="2015-03-06"/>
+    <cosponsor id="412302" joined="2015-02-20"/>
+    <cosponsor id="400652" joined="2015-02-05"/>
+    <cosponsor id="412431" joined="2015-02-05"/>
+    <cosponsor id="412311" joined="2015-02-05"/>
+    <cosponsor id="412570" joined="2015-02-05"/>
+    <cosponsor id="412641" joined="2015-02-20"/>
+    <cosponsor id="400606" joined="2015-03-06"/>
+    <cosponsor id="400373" joined="2015-07-21"/>
+    <cosponsor id="400380" joined="2015-02-05"/>
+    <cosponsor id="412548" joined="2015-02-05"/>
+    <cosponsor id="412213" joined="2015-02-05"/>
+    <cosponsor id="412618" joined="2015-02-05"/>
+    <cosponsor id="412564" joined="2015-05-29"/>
+    <cosponsor id="412610" joined="2015-02-05"/>
+    <cosponsor id="400627" joined="2015-02-05"/>
+    <cosponsor id="400433" joined="2015-02-05"/>
+    <cosponsor id="412255" joined="2015-03-04"/>
+    <cosponsor id="412525" joined="2015-02-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-05" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-03-16">
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+    </action>
+    <action datetime="2015-03-16">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU10" subcommittee="Constitution and Civil Justice" name="House Judiciary"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="404"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Abortion"/>
+    <term name="Child health"/>
+    <term name="Civil actions and liability"/>
+    <term name="Criminal procedure and sentencing"/>
+    <term name="Family relationships"/>
+    <term name="Health personnel"/>
+    <term name="Separation, divorce, custody, support"/>
+    <term name="Teenage pregnancy"/>
+  </subjects>
+  <amendments/>
+  <summary>2/5/2015--Introduced.
+Child Interstate Abortion Notification Act
+
+ Amends the federal criminal code to prohibit transporting a minor child across a state line to obtain an abortion (deems such transporting to be a de facto abridgment of the right of a parent under any law in the minor&#146;s state of residence that requires parental involvement in the minor&#146;s abortion decision). Makes an exception for an abortion necessary to save the life of the minor.
+
+Makes it an affirmative defense to a prosecution or civil action under this Act that a defendant: (1) reasonably believed that before the minor obtained the abortion, the required parental consent or notification or judicial authorization took place; or (2) was presented with documentation showing that a court waived parental notification requirements or authorized the minor's abortion.
+
+Defines "abortion" to mean the use or prescription of any instrument, medicine, drug, or any other substance or device: (1) to intentionally kill the unborn child of a woman known to be pregnant; or (2) to intentionally prematurely terminate the pregnancy of a woman known to be pregnant with an intention other than to increase the probability of a live birth or of preserving the life or health of the child after live birth, or to remove a dead unborn child.
+
+Imposes a fine and/or prison term of up to one year on a physician who performs or induces an abortion on an out-of-state minor in violation of parental notification requirements. Requires such physician to give 24-hour actual or constructive notice to a parent of the minor seeking an abortion, subject to certain exceptions.</summary>
+</bill>

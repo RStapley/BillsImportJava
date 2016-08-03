@@ -1,0 +1,138 @@
+<bill session="114" type="h" number="1312" updated="2015-07-30T04:48:34-04:00">
+  <state datetime="2015-03-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-04"/>
+  </status>
+  <introduced datetime="2015-03-04"/>
+  <titles>
+    <title type="short" as="introduced">National Health Service Corps Improvement Act of 2015</title>
+    <title type="official" as="introduced">To amend the Public Health Service Act to provide for the participation of optometrists in the National Health Service Corps scholarship and loan repayment programs, and for other purposes.</title>
+  </titles>
+  <sponsor id="400659"/>
+  <cosponsors>
+    <cosponsor id="412500" joined="2015-05-14"/>
+    <cosponsor id="412404" joined="2015-04-15"/>
+    <cosponsor id="412565" joined="2015-04-22"/>
+    <cosponsor id="412512" joined="2015-05-14"/>
+    <cosponsor id="400030" joined="2015-04-14"/>
+    <cosponsor id="400033" joined="2015-07-07"/>
+    <cosponsor id="412567" joined="2015-03-19"/>
+    <cosponsor id="400048" joined="2015-04-15"/>
+    <cosponsor id="412516" joined="2015-05-14"/>
+    <cosponsor id="412537" joined="2015-07-09"/>
+    <cosponsor id="412517" joined="2015-06-15"/>
+    <cosponsor id="412571" joined="2015-05-14"/>
+    <cosponsor id="412195" joined="2015-03-04"/>
+    <cosponsor id="412600" joined="2015-07-22"/>
+    <cosponsor id="412236" joined="2015-04-15"/>
+    <cosponsor id="412531" joined="2015-07-29"/>
+    <cosponsor id="412193" joined="2015-07-28"/>
+    <cosponsor id="400093" joined="2015-05-14"/>
+    <cosponsor id="412536" joined="2015-05-21"/>
+    <cosponsor id="400100" joined="2015-05-14"/>
+    <cosponsor id="412505" joined="2015-04-22"/>
+    <cosponsor id="400648" joined="2015-04-15"/>
+    <cosponsor id="412420" joined="2015-05-21"/>
+    <cosponsor id="412533" joined="2015-07-07"/>
+    <cosponsor id="412457" joined="2015-06-11"/>
+    <cosponsor id="400129" joined="2015-04-15"/>
+    <cosponsor id="412479" joined="2015-07-07"/>
+    <cosponsor id="400646" joined="2015-06-03"/>
+    <cosponsor id="412257" joined="2015-06-11"/>
+    <cosponsor id="412276" joined="2015-04-22"/>
+    <cosponsor id="412485" joined="2015-03-04"/>
+    <cosponsor id="412278" joined="2015-03-04"/>
+    <cosponsor id="400163" joined="2015-05-14"/>
+    <cosponsor id="400170" joined="2015-05-14"/>
+    <cosponsor id="412584" joined="2015-05-14"/>
+    <cosponsor id="412446" joined="2015-07-07"/>
+    <cosponsor id="412486" joined="2015-06-11"/>
+    <cosponsor id="400179" joined="2015-06-03"/>
+    <cosponsor id="412460" joined="2015-06-03"/>
+    <cosponsor id="412199" joined="2015-07-07"/>
+    <cosponsor id="412566" joined="2015-07-13"/>
+    <cosponsor id="412595" joined="2015-07-28"/>
+    <cosponsor id="412546" joined="2015-07-07"/>
+    <cosponsor id="412583" joined="2015-04-15"/>
+    <cosponsor id="400218" joined="2015-06-18"/>
+    <cosponsor id="412421" joined="2015-03-04"/>
+    <cosponsor id="412286" joined="2015-04-22"/>
+    <cosponsor id="412557" joined="2015-05-14"/>
+    <cosponsor id="412290" joined="2015-04-15"/>
+    <cosponsor id="412616" joined="2015-04-15"/>
+    <cosponsor id="400630" joined="2015-05-14"/>
+    <cosponsor id="412209" joined="2015-04-14"/>
+    <cosponsor id="400245" joined="2015-06-03"/>
+    <cosponsor id="412445" joined="2015-03-04"/>
+    <cosponsor id="412521" joined="2015-04-15"/>
+    <cosponsor id="400247" joined="2015-06-11"/>
+    <cosponsor id="412293" joined="2015-04-22"/>
+    <cosponsor id="412562" joined="2015-05-14"/>
+    <cosponsor id="412503" joined="2015-04-15"/>
+    <cosponsor id="400663" joined="2015-07-07"/>
+    <cosponsor id="400263" joined="2015-07-07"/>
+    <cosponsor id="412552" joined="2015-05-14"/>
+    <cosponsor id="412634" joined="2015-04-22"/>
+    <cosponsor id="412568" joined="2015-05-14"/>
+    <cosponsor id="412660" joined="2015-05-14"/>
+    <cosponsor id="408211" joined="2015-06-18"/>
+    <cosponsor id="412443" joined="2015-05-14"/>
+    <cosponsor id="412192" joined="2015-04-15"/>
+    <cosponsor id="412307" joined="2015-06-11"/>
+    <cosponsor id="412585" joined="2015-06-03"/>
+    <cosponsor id="412308" joined="2015-05-14"/>
+    <cosponsor id="412331" joined="2015-05-19"/>
+    <cosponsor id="400341" joined="2015-04-15"/>
+    <cosponsor id="412519" joined="2015-04-22"/>
+    <cosponsor id="400350" joined="2015-05-19"/>
+    <cosponsor id="400352" joined="2015-06-11"/>
+    <cosponsor id="400360" joined="2015-07-22"/>
+    <cosponsor id="412315" joined="2015-03-04"/>
+    <cosponsor id="412186" joined="2015-04-22"/>
+    <cosponsor id="412514" joined="2015-05-14"/>
+    <cosponsor id="412626" joined="2015-04-15"/>
+    <cosponsor id="400402" joined="2015-04-15"/>
+    <cosponsor id="412405" joined="2015-04-15"/>
+    <cosponsor id="412617" joined="2015-05-14"/>
+    <cosponsor id="412254" joined="2015-04-15"/>
+    <cosponsor id="412515" joined="2015-07-09"/>
+    <cosponsor id="400415" joined="2015-06-11"/>
+    <cosponsor id="412214" joined="2015-05-14"/>
+    <cosponsor id="412644" joined="2015-07-15"/>
+    <cosponsor id="412239" joined="2015-06-15"/>
+    <cosponsor id="400431" joined="2015-04-15"/>
+    <cosponsor id="400440" joined="2015-04-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-04" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-03-06">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="898"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Education programs funding"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health personnel"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Hearing, speech, and vision care"/>
+    <term name="Medical education"/>
+    <term name="Student aid and college costs"/>
+  </subjects>
+  <amendments/>
+  <summary>3/4/2015--Introduced.
+National Health Service Corps Improvement Act of 2015
+
+This bill amends the Public Health Service Act to include optometry services in primary health services for purposes of the National Health Service Corps.
+
+Optometrists are eligible for the fellowship program for the delivery of primary health services in health professional shortage areas, the National Health Service Corps Scholarship Program, and the National Health Service Corps Loan Repayment Program.</summary>
+</bill>

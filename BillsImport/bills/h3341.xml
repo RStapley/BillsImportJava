@@ -1,0 +1,23 @@
+<bill session="114" type="h" number="3341" updated="2015-07-30T04:51:22-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="official" as="introduced">To designate the portion of Moffett Federal Airfield, California, containing the 129th Rescue Wing of the California Air National Guard as Moffett Air National Guard Base.</title>
+  </titles>
+  <sponsor id="400124"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

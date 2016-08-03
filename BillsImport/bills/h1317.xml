@@ -1,0 +1,53 @@
+<bill session="114" type="h" number="1317" updated="2015-07-31T04:47:12-04:00">
+  <state datetime="2015-07-29">REPORTED</state>
+  <status>
+    <unknown datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-03-04"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Commodity Exchange Act and the Securities Exchange Act of 1934 to specify how clearing requirements apply to certain affiliate transactions, and for other purposes.</title>
+  </titles>
+  <sponsor id="400661"/>
+  <cosponsors>
+    <cosponsor id="412327" joined="2015-03-04"/>
+    <cosponsor id="412453" joined="2015-03-04"/>
+    <cosponsor id="412461" joined="2015-03-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-04" state="REFERRED">
+      <text>Referred to the Committee on Financial Services, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-03-04">
+      <text>Referred to House Financial Services</text>
+    </action>
+    <action datetime="2015-03-04">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2015-03-23">
+      <text>Referred to the Subcommittee on Commodity Exchanges, Energy, and Credit.</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-07-29" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 57 - 0.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, Markup"/>
+    <committee code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee activity="Referral" code="HSAG22" subcommittee="Commodity Exchanges, Energy, and Credit" name="House Agriculture"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="37"/>
+    <bill relation="identical" session="114" type="s" number="876"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Commodities markets"/>
+    <term name="Securities"/>
+  </subjects>
+  <amendments/>
+  <summary>3/4/2015--Introduced.
+Amends the Commodity Exchange Act and the Securities Exchange Act of 1934 to revise the treatment of affiliate transactions that may be exempt from clearing requirements to authorize such an exemption only if the affiliate enters into the swap to hedge or mitigate the commercial risk of the person that is not a financial entity (as under current law), provided that an appropriate credit support measure or other mechanism must be used if the hedge or mitigation of commercial risk is addressed by entering into a swap with either: (1) a swap dealer or major swap participant, or (2) a security-based swap with a security-based swap dealer or major security-based swap participant.</summary>
+</bill>

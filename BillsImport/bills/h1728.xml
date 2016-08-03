@@ -1,0 +1,81 @@
+<bill session="114" type="h" number="1728" updated="2015-07-30T04:48:55-04:00">
+  <state datetime="2015-03-26">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-26"/>
+  </status>
+  <introduced datetime="2015-03-26"/>
+  <titles>
+    <title type="short" as="introduced">Summer Meals Act of 2015</title>
+    <title type="official" as="introduced">To amend the Richard B. Russell National School Lunch Act to improve the efficiency of summer meals.</title>
+  </titles>
+  <sponsor id="400440"/>
+  <cosponsors>
+    <cosponsor id="412642" joined="2015-07-16"/>
+    <cosponsor id="412565" joined="2015-07-07"/>
+    <cosponsor id="412501" joined="2015-07-21"/>
+    <cosponsor id="412517" joined="2015-06-25"/>
+    <cosponsor id="400103" joined="2015-06-25"/>
+    <cosponsor id="412505" joined="2015-06-02"/>
+    <cosponsor id="412613" joined="2015-06-24"/>
+    <cosponsor id="412385" joined="2015-06-10"/>
+    <cosponsor id="412533" joined="2015-05-14"/>
+    <cosponsor id="400646" joined="2015-07-21"/>
+    <cosponsor id="400170" joined="2015-04-13"/>
+    <cosponsor id="400185" joined="2015-04-28"/>
+    <cosponsor id="412511" joined="2015-05-05"/>
+    <cosponsor id="400211" joined="2015-06-10"/>
+    <cosponsor id="412543" joined="2015-06-10"/>
+    <cosponsor id="412583" joined="2015-07-14"/>
+    <cosponsor id="400232" joined="2015-03-26"/>
+    <cosponsor id="400245" joined="2015-07-28"/>
+    <cosponsor id="400249" joined="2015-07-09"/>
+    <cosponsor id="412562" joined="2015-04-28"/>
+    <cosponsor id="400262" joined="2015-04-30"/>
+    <cosponsor id="400263" joined="2015-06-10"/>
+    <cosponsor id="400661" joined="2015-06-24"/>
+    <cosponsor id="412606" joined="2015-07-29"/>
+    <cosponsor id="400308" joined="2015-07-07"/>
+    <cosponsor id="412307" joined="2015-04-15"/>
+    <cosponsor id="412411" joined="2015-07-14"/>
+    <cosponsor id="412212" joined="2015-05-14"/>
+    <cosponsor id="400360" joined="2015-06-10"/>
+    <cosponsor id="400379" joined="2015-07-14"/>
+    <cosponsor id="412259" joined="2015-07-07"/>
+    <cosponsor id="412626" joined="2015-06-17"/>
+    <cosponsor id="412520" joined="2015-06-25"/>
+    <cosponsor id="412319" joined="2015-06-10"/>
+    <cosponsor id="400415" joined="2015-07-21"/>
+    <cosponsor id="400416" joined="2015-07-14"/>
+    <cosponsor id="412239" joined="2015-07-21"/>
+    <cosponsor id="412412" joined="2015-07-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-26" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="613"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Food assistance and relief"/>
+    <term name="Poverty and welfare assistance"/>
+    <term name="Public-private cooperation"/>
+  </subjects>
+  <amendments/>
+  <summary>3/26/2015--Introduced.
+Summer Meals Act of 2015
+
+Amends the Richard B. Russell National School Lunch Act to redefine "areas in which poor economic conditions exist," where the summer food service program for children may operate, as areas in which at least 40% (currently, 50%) of the children have been determined to be eligible for free or reduced price school meals under the school lunch and breakfast programs.
+
+Reimburses service institutions (other than school food authorities) for up to one meal and one snack per child each day during after-school hours, weekends, and school holidays during the regular school calendar. (Currently, such institutions are reimbursed for meals and snacks served to children over the summer months or to children who are on vacation under a continuous school calendar.)
+
+Authorizes the Secretary of Agriculture to award competitive grants to service institutions to increase participation in the summer food service program for children at congregate feeding sites through innovative approaches to limited transportation and mobile meal trucks.
+
+Allows service institutions that are participating in the summer food service program for children to serve up to three meals, or two meals and one snack, during each day of operation. (Currently, this option is reserved for camps and service institutions that serve meals primarily to migrant children.)</summary>
+</bill>

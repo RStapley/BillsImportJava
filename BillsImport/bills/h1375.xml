@@ -1,0 +1,88 @@
+<bill session="114" type="h" number="1375" updated="2015-07-10T04:47:40-04:00">
+  <state datetime="2015-03-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-16"/>
+  </status>
+  <introduced datetime="2015-03-16"/>
+  <titles>
+    <title type="short" as="introduced">Child Nicotine Poisoning Prevention Act of 2015</title>
+    <title type="official" as="introduced">To require the Consumer Product Safety Commission to promulgate a rule to require child safety packaging for liquid nicotine containers, and for other purposes.</title>
+  </titles>
+  <sponsor id="412524"/>
+  <cosponsors>
+    <cosponsor id="412657" joined="2015-05-13"/>
+    <cosponsor id="412501" joined="2015-05-14"/>
+    <cosponsor id="400047" joined="2015-04-21"/>
+    <cosponsor id="400048" joined="2015-04-14"/>
+    <cosponsor id="412516" joined="2015-05-14"/>
+    <cosponsor id="412600" joined="2015-03-16"/>
+    <cosponsor id="400081" joined="2015-05-14"/>
+    <cosponsor id="400103" joined="2015-03-16"/>
+    <cosponsor id="412505" joined="2015-06-01"/>
+    <cosponsor id="412385" joined="2015-03-16"/>
+    <cosponsor id="412420" joined="2015-06-01"/>
+    <cosponsor id="412263" joined="2015-05-15"/>
+    <cosponsor id="400640" joined="2015-04-30"/>
+    <cosponsor id="400162" joined="2015-06-01"/>
+    <cosponsor id="412498" joined="2015-04-14"/>
+    <cosponsor id="400170" joined="2015-07-09"/>
+    <cosponsor id="412584" joined="2015-06-01"/>
+    <cosponsor id="412282" joined="2015-06-09"/>
+    <cosponsor id="400185" joined="2015-03-16"/>
+    <cosponsor id="412511" joined="2015-04-30"/>
+    <cosponsor id="400211" joined="2015-06-09"/>
+    <cosponsor id="412557" joined="2015-06-01"/>
+    <cosponsor id="412616" joined="2015-06-01"/>
+    <cosponsor id="412209" joined="2015-06-17"/>
+    <cosponsor id="400245" joined="2015-05-15"/>
+    <cosponsor id="412521" joined="2015-03-16"/>
+    <cosponsor id="400246" joined="2015-05-14"/>
+    <cosponsor id="400251" joined="2015-06-01"/>
+    <cosponsor id="400663" joined="2015-03-16"/>
+    <cosponsor id="400263" joined="2015-04-15"/>
+    <cosponsor id="412632" joined="2015-06-10"/>
+    <cosponsor id="408211" joined="2015-06-01"/>
+    <cosponsor id="400295" joined="2015-04-21"/>
+    <cosponsor id="412585" joined="2015-04-30"/>
+    <cosponsor id="412331" joined="2015-04-21"/>
+    <cosponsor id="400333" joined="2015-04-14"/>
+    <cosponsor id="400350" joined="2015-05-13"/>
+    <cosponsor id="400378" joined="2015-03-16"/>
+    <cosponsor id="412581" joined="2015-06-09"/>
+    <cosponsor id="412514" joined="2015-05-14"/>
+    <cosponsor id="400403" joined="2015-05-14"/>
+    <cosponsor id="400623" joined="2015-03-16"/>
+    <cosponsor id="412239" joined="2015-06-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-16" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-03-20">
+      <text>Referred to the Subcommittee on Commerce, Manufacturing, and Trade.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF17" subcommittee="Commerce, Manufacturing, and Trade" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="142"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Child health"/>
+    <term name="Child safety and welfare"/>
+    <term name="Consumer Product Safety Commission"/>
+    <term name="Hazardous wastes and toxic substances"/>
+    <term name="Product safety and quality"/>
+  </subjects>
+  <amendments/>
+  <summary>3/16/2015--Introduced.
+Child Nicotine Poisoning Prevention Act of 2015
+
+Directs the Consumer Product Safety Commission to promulgate a rule requiring liquid nicotine containers to be designed with special packaging that is difficult for children under five years of age to open or to obtain harmful contents from.
+
+Requires the rule to be treated as a standard applicable to a household substance under the Poison Prevention Packaging Act of 1970.</summary>
+</bill>

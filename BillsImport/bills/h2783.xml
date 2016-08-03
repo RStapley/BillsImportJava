@@ -1,0 +1,35 @@
+<bill session="114" type="h" number="2783" updated="2015-07-25T06:42:15-04:00">
+  <state datetime="2015-06-15">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-15"/>
+  </status>
+  <introduced datetime="2015-06-15"/>
+  <titles>
+    <title type="short" as="introduced">Superfund Polluter Pays Act</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to extend the financing of the Superfund.</title>
+  </titles>
+  <sponsor id="400308"/>
+  <cosponsors>
+    <cosponsor id="400033" joined="2015-06-15"/>
+    <cosponsor id="400309" joined="2015-06-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-15" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="2768"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+  <summary>6/15/2015--Introduced.
+Superfund Polluter Pays Act 
+
+Amends the Internal Revenue Code to reinstate and extend through December 31, 2020, the Hazardous Substance Superfund financing rate and the corporate environmental income tax.</summary>
+</bill>

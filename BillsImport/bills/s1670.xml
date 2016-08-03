@@ -1,0 +1,37 @@
+<bill session="114" type="s" number="1670" updated="2015-07-10T04:49:24-04:00">
+  <state datetime="2015-06-24">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-24"/>
+  </status>
+  <introduced datetime="2015-06-24"/>
+  <titles>
+    <title type="short" as="introduced">Torture Victims Relief Reauthorization Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend the Torture Victims Relief Act of 1998 to authorize appropriations to provide assistance for domestic and foreign programs and centers for the treatment of victims of torture, and for other purposes.</title>
+  </titles>
+  <sponsor id="412242"/>
+  <cosponsors>
+    <cosponsor id="300038" joined="2015-07-09"/>
+    <cosponsor id="412378" joined="2015-06-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-24" state="REFERRED">
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="2870"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+  </subjects>
+  <amendments/>
+  <summary>6/24/2015--Introduced.
+Torture Victims Relief Reauthorization Act of 2015
+
+Amends the Torture Victims Relief Act of 1998 to authorize FY2016-FY2017 appropriations to:
+
+ the Department of Health and Human Services for grants to domestic treatment centers for the costs of services in the rehabilitation of victims of torture (including treatment of both physical and psychological effects), social and legal services, and research and training of health care providers outside of treatment centers or programs; and the President for grants to foreign treatment centers and programs for activities designed to treat victims for the physical and psychological effects of torture. Directs the U.S. Agency for International Development to support indigenous foreign treatment centers and programs for torture victims in order to increase their capacities to train other local health care providers.</summary>
+</bill>

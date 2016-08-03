@@ -1,0 +1,100 @@
+<bill session="114" type="h" number="2902" updated="2015-07-30T04:49:56-04:00">
+  <state datetime="2015-06-25">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-25"/>
+  </status>
+  <introduced datetime="2015-06-25"/>
+  <titles>
+    <title type="short" as="introduced">Safe Schools Improvement Act of 2015</title>
+    <title type="official" as="introduced">To amend the Elementary and Secondary Education Act of 1965 to address and take action to prevent bullying and harassment of students.</title>
+  </titles>
+  <sponsor id="400355"/>
+  <cosponsors>
+    <cosponsor id="412607" joined="2015-06-25"/>
+    <cosponsor id="400033" joined="2015-07-10"/>
+    <cosponsor id="412652" joined="2015-07-07"/>
+    <cosponsor id="412517" joined="2015-07-07"/>
+    <cosponsor id="412258" joined="2015-07-07"/>
+    <cosponsor id="412379" joined="2015-06-25"/>
+    <cosponsor id="412470" joined="2015-07-29"/>
+    <cosponsor id="412600" joined="2015-06-25"/>
+    <cosponsor id="412271" joined="2015-06-25"/>
+    <cosponsor id="412236" joined="2015-07-10"/>
+    <cosponsor id="412272" joined="2015-07-07"/>
+    <cosponsor id="412621" joined="2015-07-07"/>
+    <cosponsor id="400097" joined="2015-07-07"/>
+    <cosponsor id="412505" joined="2015-07-07"/>
+    <cosponsor id="412613" joined="2015-06-25"/>
+    <cosponsor id="412385" joined="2015-06-25"/>
+    <cosponsor id="412533" joined="2015-07-10"/>
+    <cosponsor id="412215" joined="2015-06-25"/>
+    <cosponsor id="400646" joined="2015-06-25"/>
+    <cosponsor id="412453" joined="2015-06-25"/>
+    <cosponsor id="400162" joined="2015-07-10"/>
+    <cosponsor id="400163" joined="2015-07-07"/>
+    <cosponsor id="412454" joined="2015-06-25"/>
+    <cosponsor id="400179" joined="2015-07-07"/>
+    <cosponsor id="400185" joined="2015-06-25"/>
+    <cosponsor id="400199" joined="2015-07-07"/>
+    <cosponsor id="400218" joined="2015-07-10"/>
+    <cosponsor id="400219" joined="2015-06-25"/>
+    <cosponsor id="412286" joined="2015-07-07"/>
+    <cosponsor id="400233" joined="2015-07-10"/>
+    <cosponsor id="400244" joined="2015-06-25"/>
+    <cosponsor id="400245" joined="2015-07-29"/>
+    <cosponsor id="412558" joined="2015-07-07"/>
+    <cosponsor id="412293" joined="2015-07-07"/>
+    <cosponsor id="412643" joined="2015-06-25"/>
+    <cosponsor id="400663" joined="2015-07-07"/>
+    <cosponsor id="400259" joined="2015-07-07"/>
+    <cosponsor id="400271" joined="2015-07-10"/>
+    <cosponsor id="412632" joined="2015-07-15"/>
+    <cosponsor id="412527" joined="2015-07-07"/>
+    <cosponsor id="400290" joined="2015-07-07"/>
+    <cosponsor id="400309" joined="2015-07-07"/>
+    <cosponsor id="412307" joined="2015-07-07"/>
+    <cosponsor id="412585" joined="2015-06-25"/>
+    <cosponsor id="412308" joined="2015-06-25"/>
+    <cosponsor id="412647" joined="2015-07-07"/>
+    <cosponsor id="400344" joined="2015-06-25"/>
+    <cosponsor id="400361" joined="2015-07-07"/>
+    <cosponsor id="400364" joined="2015-06-25"/>
+    <cosponsor id="412509" joined="2015-07-07"/>
+    <cosponsor id="400379" joined="2015-07-07"/>
+    <cosponsor id="412520" joined="2015-06-25"/>
+    <cosponsor id="412319" joined="2015-06-25"/>
+    <cosponsor id="412254" joined="2015-07-10"/>
+    <cosponsor id="400415" joined="2015-07-07"/>
+    <cosponsor id="400440" joined="2015-06-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-25" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="311"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Administrative remedies"/>
+    <term name="Assault and harassment offenses"/>
+    <term name="Child safety and welfare"/>
+    <term name="Congressional oversight"/>
+    <term name="Crime prevention"/>
+    <term name="Crime victims"/>
+    <term name="Crimes against children"/>
+    <term name="Disability and health-based discrimination"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Government information and archives"/>
+    <term name="Performance measurement"/>
+    <term name="Racial and ethnic relations"/>
+    <term name="Religion"/>
+    <term name="School administration"/>
+    <term name="Sex, gender, sexual orientation discrimination"/>
+  </subjects>
+  <amendments/>
+</bill>

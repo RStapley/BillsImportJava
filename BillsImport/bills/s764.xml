@@ -1,0 +1,78 @@
+<bill session="114" type="s" number="764" updated="2015-08-01T06:58:26-04:00">
+  <state datetime="2015-07-28">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2015-07-28"/>
+  </status>
+  <introduced datetime="2015-03-17"/>
+  <titles>
+    <title type="short" as="introduced">National Sea Grant College Program Amendments Act of 2015</title>
+    <title type="short" as="reported to senate">National Sea Grant College Program Amendments Act of 2015</title>
+    <title type="short" as="passed senate">National Sea Grant College Program Amendments Act of 2015</title>
+    <title type="official" as="introduced">A bill to reauthorize and amend the National Sea Grant College Program Act, and for other purposes.</title>
+  </titles>
+  <sponsor id="400432"/>
+  <cosponsors>
+    <cosponsor id="300018" joined="2015-03-17"/>
+    <cosponsor id="412507" joined="2015-03-17"/>
+    <cosponsor id="412665" joined="2015-03-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-17" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+    <calendar datetime="2015-03-25" state="REPORTED">
+      <text>Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+    <action datetime="2015-07-23">
+      <text>Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 114-90.</text>
+    </action>
+    <calendar datetime="2015-07-23" calendar="Senate Legislative" under="General Orders" number="161">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 161.</text>
+    </calendar>
+    <vote how="by Unanimous Consent" type="vote" datetime="2015-07-28" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+      <reference ref="CR S6085-6086" label="consideration"/>
+      <reference ref="CR S6085-6086" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2015-07-29T10:53:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Markup, Reporting"/>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="1900"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Advisory bodies"/>
+    <term name="Agricultural research"/>
+    <term name="Aquaculture"/>
+    <term name="Aquatic ecology"/>
+    <term name="Congressional committees"/>
+    <term name="Congressional officers and employees"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Commerce"/>
+    <term name="Education programs funding"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Food supply, safety, and labeling"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Great Lakes"/>
+    <term name="Higher education"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Marine and inland water transportation"/>
+    <term name="Research administration and funding"/>
+    <term name="Seafood"/>
+    <term name="Social work, volunteer service, charitable organizations"/>
+    <term name="Student aid and college costs"/>
+  </subjects>
+  <amendments/>
+</bill>

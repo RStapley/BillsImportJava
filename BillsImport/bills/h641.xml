@@ -1,0 +1,107 @@
+<bill session="114" type="h" number="641" updated="2015-03-07T06:21:56-05:00">
+  <state datetime="2015-02-04">REPORTED</state>
+  <status>
+    <unknown datetime="2015-02-04"/>
+  </status>
+  <introduced datetime="2015-02-02"/>
+  <titles>
+    <title type="short" as="introduced">Conservation Easement Incentive Act of 2015</title>
+    <title type="short" as="reported to house">Conservation Easement Incentive Act of 2015</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to make permanent the special rule for contributions of qualified conservation contributions.</title>
+  </titles>
+  <sponsor id="412465"/>
+  <cosponsors>
+    <cosponsor id="412469" joined="2015-02-04"/>
+    <cosponsor id="412436" joined="2015-02-02"/>
+    <cosponsor id="400033" joined="2015-02-02"/>
+    <cosponsor id="400062" joined="2015-02-02"/>
+    <cosponsor id="412651" joined="2015-02-02"/>
+    <cosponsor id="400648" joined="2015-02-02"/>
+    <cosponsor id="412477" joined="2015-02-04"/>
+    <cosponsor id="400111" joined="2015-02-02"/>
+    <cosponsor id="412524" joined="2015-02-02"/>
+    <cosponsor id="400646" joined="2015-02-04"/>
+    <cosponsor id="400142" joined="2015-02-02"/>
+    <cosponsor id="412382" joined="2015-02-02"/>
+    <cosponsor id="412453" joined="2015-02-02"/>
+    <cosponsor id="412566" joined="2015-02-02"/>
+    <cosponsor id="400211" joined="2015-02-02"/>
+    <cosponsor id="400218" joined="2015-02-02"/>
+    <cosponsor id="412557" joined="2015-02-02"/>
+    <cosponsor id="400230" joined="2015-02-04"/>
+    <cosponsor id="400233" joined="2015-02-02"/>
+    <cosponsor id="412294" joined="2015-02-02"/>
+    <cosponsor id="412643" joined="2015-02-04"/>
+    <cosponsor id="412562" joined="2015-02-04"/>
+    <cosponsor id="412468" joined="2015-02-02"/>
+    <cosponsor id="400262" joined="2015-02-02"/>
+    <cosponsor id="400263" joined="2015-02-02"/>
+    <cosponsor id="412466" joined="2015-02-02"/>
+    <cosponsor id="412527" joined="2015-02-02"/>
+    <cosponsor id="400285" joined="2015-02-04"/>
+    <cosponsor id="400291" joined="2015-02-02"/>
+    <cosponsor id="412303" joined="2015-02-04"/>
+    <cosponsor id="400316" joined="2015-02-04"/>
+    <cosponsor id="412307" joined="2015-02-04"/>
+    <cosponsor id="400320" joined="2015-02-04"/>
+    <cosponsor id="412308" joined="2015-02-04"/>
+    <cosponsor id="400333" joined="2015-02-02"/>
+    <cosponsor id="412393" joined="2015-02-02"/>
+    <cosponsor id="412202" joined="2015-02-04"/>
+    <cosponsor id="400355" joined="2015-02-02"/>
+    <cosponsor id="400607" joined="2015-02-02"/>
+    <cosponsor id="412314" joined="2015-02-02"/>
+    <cosponsor id="400365" joined="2015-02-02"/>
+    <cosponsor id="400367" joined="2015-02-04"/>
+    <cosponsor id="400376" joined="2015-02-05"/>
+    <cosponsor id="412596" joined="2015-02-02"/>
+    <cosponsor id="412514" joined="2015-02-04"/>
+    <cosponsor id="400403" joined="2015-02-02"/>
+    <cosponsor id="412405" joined="2015-02-04"/>
+    <cosponsor id="412254" joined="2015-02-02"/>
+    <cosponsor id="412214" joined="2015-02-02"/>
+    <cosponsor id="412239" joined="2015-02-02"/>
+    <cosponsor id="412578" joined="2015-02-05"/>
+    <cosponsor id="400440" joined="2015-02-02"/>
+    <cosponsor id="412428" joined="2015-02-04"/>
+    <cosponsor id="412640" joined="2015-02-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-02" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+    <calendar datetime="2015-02-04" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 24 - 14.</text>
+    </calendar>
+    <action datetime="2015-02-09T13:32:00-05:00">
+      <text>Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-17.</text>
+    </action>
+    <calendar datetime="2015-02-09T13:32:00-05:00" calendar="Union" number="11">
+      <text>Placed on the Union Calendar, Calendar No. 11.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="338"/>
+    <bill relation="unknown" session="114" type="s" number="330"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Alaska"/>
+    <term name="Alaska Natives and Hawaiians"/>
+    <term name="Income tax deductions"/>
+    <term name="Land transfers"/>
+    <term name="Land use and conservation"/>
+    <term name="Social work, volunteer service, charitable organizations"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+  <summary>2/9/2015--Reported to House amended.
+Conservation Easement Incentive Act of 2015
+
+(Sec. 2) This bill amends the Internal Revenue Code to make permanent after 2014 the tax deduction for charitable contributions by individuals and corporations of real property interests for conservation purposes.
+
+The bill also allows a tax deduction for conservation contributions made by a Native Corporation of land conveyed under the Alaska Claims Settlement Act.</summary>
+</bill>

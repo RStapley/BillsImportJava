@@ -1,0 +1,37 @@
+<bill session="114" type="h" number="1788" updated="2015-07-16T04:47:46-04:00">
+  <state datetime="2015-04-14">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-14"/>
+  </status>
+  <introduced datetime="2015-04-14"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to increase the alternative tax liability limitation for small property and casualty insurance companies.</title>
+  </titles>
+  <sponsor id="412303"/>
+  <cosponsors>
+    <cosponsor id="400218" joined="2015-04-14"/>
+    <cosponsor id="412421" joined="2015-07-15"/>
+    <cosponsor id="412628" joined="2015-06-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-14" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="905"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Insurance industry and regulation"/>
+    <term name="Life, casualty, property insurance"/>
+    <term name="Small business"/>
+    <term name="Tax administration and collection, taxpayers"/>
+  </subjects>
+  <amendments/>
+  <summary>4/14/2015--Introduced.
+This bill amends the Internal Revenue Code to expand the eligibility of certain small insurance companies (other than life insurance companies) for the alternative corporate income tax by increasing the premium limitation used to determine such eligibility to $2.2 million (from $1.2 million), with an annual inflation adjustment to such increased amount after 2015.</summary>
+</bill>

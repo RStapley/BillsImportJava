@@ -1,0 +1,112 @@
+<bill session="114" type="h" number="2297" updated="2015-07-04T06:37:48-04:00">
+  <state datetime="2015-05-14T16:19:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2015-05-14T16:19:00-04:00"/>
+  </status>
+  <introduced datetime="2015-05-13"/>
+  <titles>
+    <title type="short" as="introduced">Hezbollah International Financing Prevention Act of 2015</title>
+    <title type="short" as="passed house">Hezbollah International Financing Prevention Act of 2015</title>
+    <title type="official" as="introduced">To prevent Hezbollah and associated entities from gaining access to international financial and other institutions, and for other purposes.</title>
+  </titles>
+  <sponsor id="400348"/>
+  <cosponsors>
+    <cosponsor id="412513" joined="2015-05-14"/>
+    <cosponsor id="412385" joined="2015-05-13"/>
+    <cosponsor id="412420" joined="2015-05-14"/>
+    <cosponsor id="400122" joined="2015-05-13"/>
+    <cosponsor id="412603" joined="2015-05-14"/>
+    <cosponsor id="412552" joined="2015-05-13"/>
+    <cosponsor id="412560" joined="2015-05-14"/>
+    <cosponsor id="400626" joined="2015-05-14"/>
+    <cosponsor id="412646" joined="2015-05-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-13" state="REFERRED">
+      <text>Referred to the Committee on Foreign Affairs, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-05-13">
+      <text>Referred to House Foreign Affairs</text>
+    </action>
+    <action datetime="2015-05-13">
+      <text>Referred to House Financial Services</text>
+    </action>
+    <action datetime="2015-05-14T13:49:00-04:00">
+      <text>Mr. Royce moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2015-05-14T13:49:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2983-2989" label="consideration"/>
+    </action>
+    <action datetime="2015-05-14T13:49:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2297.</text>
+    </action>
+    <action datetime="2015-05-14T14:25:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2015-05-14T16:12:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H2998-2999" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="227" datetime="2015-05-14T16:19:00-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 227).</text>
+      <reference ref="CR H2983-2985" label="text"/>
+    </vote>
+    <action datetime="2015-05-14T16:19:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2015-05-18">
+      <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1617"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+  </subjects>
+  <amendments/>
+  <summary>5/14/2015--Passed House without amendment.
+(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)
+
+Hezbollah International Financing Prevention Act of 2015	
+
+(Sec. 2) States that it shall be U.S. policy to: (1) prevent Hezbollah's global logistics and financial network from operating in order to curtail funding of its domestic and international activities; and (2) utilize diplomatic, legislative, and executive avenues to combat Hezbollah's criminal activities in order to block that organization's ability to fund its global terrorist activities.
+
+TITLE I--PREVENTION OF ACCESS BY HEZBOLLAH TO INTERNATIONAL FINANCIAL AND OTHER INSTITUTIONS(Sec. 101) Directs the Department of State to report to Congress annually identifying: (1) satellite, broadcast, Internet, or other providers that knowingly provide material support to al-Manar TV and its affiliates; and (2) the identity of those providers that have or have not been sanctioned pursuant to Executive Order 13224.
+
+(Sec. 102) Requires the Department of the Treasury to prohibit or impose strict conditions on the opening or maintaining in the United States of a correspondent account or a payable-through account by a foreign financial institution that knowingly:
+
+ facilitates a transaction or transactions for Hezbollah, or for a person acting on behalf of, or owned or controlled by Hezbollah; engages in money laundering to carry out such an activity; facilitates a significant transaction or provides significant financial services to carry out such an activity; or facilitates any of these activities, conspires to facilitate or participate in such an activity, or is owned or controlled by a foreign financial institution that knowingly engages in such an activity. Applies specified penalties under the International Emergency Economic Powers Act for violations of this Act.
+
+Authorizes Treasury to waive the application of a prohibition for up to 180 days (with renewable 180-day waivers) if in U.S. national security interests, and with congressional notification.
+
+ Requires Treasury to identify to Congress every 180 days each foreign central bank that carries out a prohibited activity.
+
+Exempts from sanctions a foreign financial institution that is no longer engaging in a prohibited activity or is taking significant steps toward terminating such activity.
+
+TITLE II--REPORTS ON DESIGNATION OF HEZBOLLAH AS A SIGNIFICANT FOREIGN NARCOTICS TRAFFICKER AND A SIGNIFICANT TRANSNATIONAL CRIMINAL ORGANIZATION(Sec. 201) Directs the President to report to Congress on whether Hezbollah meets the criteria for designation as a significant foreign narcotics trafficker, and if the President determines that Hezbollah does not meet such criteria, a detailed justification as to which criteria have not been met.
+
+(Sec. 202) Expresses the sense of Congress that: (1) Hezbollah meets the criteria for designation as a significant transnational criminal organization under Executive Order No. 13581, and (2) the President should designate Hezbollah as a significant transnational criminal organization.
+
+Directs the President to report to Congress on whether Hezbollah meets or does not meet the criteria for such designation.
+
+(Sec. 203) Requires the State Department to report to Congress regarding actions taken through the Department's rewards program to obtain information on Hezbollah's fund raising, financing, and money laundering activities.
+
+(Sec. 204) Directs the President to report to Congress regarding:
+
+ countries that support Hezbollah, in which Hezbollah maintains important portions of its global logistics networks, or in which Hezbollah conducts significant fund raising, financing, or money laundering activities; an assessment of whether a country is taking adequate measures to disrupt Hezbollah's networks and activities within that country; and methods that Hezbollah, or any of its agents or affiliates, utilizes to raise or transfer funds, including trade-based money laundering, the use of foreign exchange houses, and free-trade zones. Requires the State Department, Treasury, and other applicable federal departments and agencies to brief Congress every 180 days on the disposition of Hezbollah's assets and activities related to fund raising, financing, and money laundering assets and activities.
+
+TITLE III--MISCELLANEOUS PROVISIONS(Sec. 301) Declares that nothing in this Act shall apply to authorized U.S. intelligence activities.
+
+(Sec. 302) Directs the President to promulgate implementing regulations.
+
+(Sec. 303) States that this Act shall cease to be in effect 30 days after the President certifies to Congress that Hezbollah:
+
+ is no longer designated as a foreign terrorist organization; is no longer listed in the Annex to Executive Order 13224 (blocking property and prohibiting transactions with persons who commit or support terrorism); and poses no significant threat to U.S. national security, interests, or allies.</summary>
+</bill>

@@ -1,0 +1,90 @@
+<bill session="114" type="hr" number="337" updated="2015-07-18T06:18:27-04:00">
+  <state datetime="2015-07-08T15:57:00-04:00">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2015-07-08T15:57:00-04:00"/>
+  </status>
+  <introduced datetime="2015-06-24"/>
+  <titles>
+    <title type="official" as="introduced">Calling for substantive dialogue, without preconditions, in order to address Tibetan grievances and secure a negotiated agreement for the Tibetan people.</title>
+  </titles>
+  <sponsor id="400122"/>
+  <cosponsors>
+    <cosponsor id="412512" joined="2015-06-24"/>
+    <cosponsor id="412657" joined="2015-06-24"/>
+    <cosponsor id="400063" joined="2015-06-24"/>
+    <cosponsor id="400071" joined="2015-06-24"/>
+    <cosponsor id="412470" joined="2015-06-24"/>
+    <cosponsor id="412600" joined="2015-06-24"/>
+    <cosponsor id="412221" joined="2015-06-24"/>
+    <cosponsor id="412272" joined="2015-06-24"/>
+    <cosponsor id="412477" joined="2015-06-24"/>
+    <cosponsor id="412529" joined="2015-07-08"/>
+    <cosponsor id="400141" joined="2015-06-24"/>
+    <cosponsor id="412276" joined="2015-06-24"/>
+    <cosponsor id="400170" joined="2015-06-24"/>
+    <cosponsor id="400185" joined="2015-06-24"/>
+    <cosponsor id="400199" joined="2015-06-24"/>
+    <cosponsor id="400240" joined="2015-06-24"/>
+    <cosponsor id="412521" joined="2015-06-24"/>
+    <cosponsor id="400259" joined="2015-06-24"/>
+    <cosponsor id="400263" joined="2015-06-24"/>
+    <cosponsor id="400314" joined="2015-06-24"/>
+    <cosponsor id="400320" joined="2015-06-24"/>
+    <cosponsor id="412308" joined="2015-06-24"/>
+    <cosponsor id="400333" joined="2015-06-24"/>
+    <cosponsor id="412489" joined="2015-06-24"/>
+    <cosponsor id="400343" joined="2015-06-24"/>
+    <cosponsor id="400344" joined="2015-06-24"/>
+    <cosponsor id="400606" joined="2015-06-24"/>
+    <cosponsor id="400371" joined="2015-06-24"/>
+    <cosponsor id="412186" joined="2015-06-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-24">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E966-967"/>
+    </action>
+    <action datetime="2015-06-24" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2015-07-08T15:25:00-04:00">
+      <text>Mr. Smith (NJ) moved to suspend the rules and agree to the resolution, as amended.</text>
+    </action>
+    <action datetime="2015-07-08T15:25:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4900-4904" label="consideration"/>
+    </action>
+    <action datetime="2015-07-08T15:26:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 337.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2015-07-08T15:57:00-04:00" where="h" result="pass" state="PASSED:SIMPLERES">
+      <text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H4900-4901" label="text"/>
+    </vote>
+    <action datetime="2015-07-08T15:57:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+  </subjects>
+  <amendments/>
+  <summary>7/8/2015--Passed House amended.
+Calls on the U.S. government to implement specified sections of the Tibetan Policy Act of 2002 to:
+
+ encourage representatives of the government of China and His Holiness the Dalai Lama to hold substantive dialogue to secure a negotiated agreement for the Tibetan people; and establish an office in Lhasa, Tibet, to monitor political, economic and cultural developments in Tibet, and to provide consular protection and citizen services. Urges the U.S. government to:
+
+ raise Tibetan human rights and political and religious freedom concerns at the United States-China Strategic and Economic Dialogue and other high-level bilateral meetings; and call for the release of Tibetan political prisoners, including Gedhun Choekyi Nyima, the 11th Panchen Lama, Tenzin Delek Rinpoche, and Khenpo Kartse (Khenpo Karma Tsewang). Calls on the U.S. government to:
+
+ underscore that government interference in the Tibetan reincarnation process is a violation of the internationally recognized right to religious freedom, and that matters related to reincarnations in Tibetan Buddhism are of keen interest to Tibetan Buddhist populations worldwide; increase global public awareness and monitoring of the upcoming electoral process through which the Tibetan people in exile will choose the next leader of the Central Tibetan Administration, the Sikyong; and encourage development organizations and agencies to implement development projects that fully comply with the Tibet Project Principles. Calls on the United States and international governments and organizations to promote the preservation of Tibet's religious, cultural, linguistic, and national identity.
+
+Calls on the government of China to allow U.S. officials, journalists, and citizens unrestricted access to the Tibetan areas of China.
+
+Affirms the Dalai Lama's desire for a negotiated agreement for the Tibetan people.
+
+Reaffirms the friendship between the people of the United States and the people of Tibet.</summary>
+</bill>

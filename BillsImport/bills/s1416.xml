@@ -1,0 +1,33 @@
+<bill session="114" type="s" number="1416" updated="2015-07-11T06:59:07-04:00">
+  <state datetime="2015-05-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-21"/>
+  </status>
+  <introduced datetime="2015-05-21"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 54, United States Code, to limit the authority to reserve water rights in designating a national monument.</title>
+  </titles>
+  <sponsor id="400134"/>
+  <cosponsors>
+    <cosponsor id="300052" joined="2015-05-21"/>
+    <cosponsor id="412495" joined="2015-05-21"/>
+    <cosponsor id="300071" joined="2015-05-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+  <summary>5/21/2015--Introduced.
+This bill prohibits the President, in designating a national monument, from reserving any implied or expressed water rights associated with it.
+
+Water rights for an associated national monument may only be acquired in accordance with the laws of the state in which the water rights are to be located.</summary>
+</bill>

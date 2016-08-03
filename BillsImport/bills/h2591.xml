@@ -1,0 +1,59 @@
+<bill session="114" type="h" number="2591" updated="2015-08-22T06:40:58-04:00">
+  <state datetime="2015-06-01">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-01"/>
+  </status>
+  <introduced datetime="2015-06-01"/>
+  <titles>
+    <title type="short" as="introduced">Homeless Veterans Assistance Fund Act of 2015</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to allow taxpayers to designate overpayments of tax as contributions and to make additional contributions to the Homeless Veterans Assistance Fund, and for other purposes.</title>
+  </titles>
+  <sponsor id="400195"/>
+  <cosponsors>
+    <cosponsor id="400041" joined="2015-06-01"/>
+    <cosponsor id="412258" joined="2015-06-15"/>
+    <cosponsor id="412571" joined="2015-06-01"/>
+    <cosponsor id="412637" joined="2015-06-01"/>
+    <cosponsor id="412529" joined="2015-06-01"/>
+    <cosponsor id="400162" joined="2015-06-01"/>
+    <cosponsor id="400185" joined="2015-06-01"/>
+    <cosponsor id="412209" joined="2015-06-01"/>
+    <cosponsor id="412521" joined="2015-06-01"/>
+    <cosponsor id="412189" joined="2015-06-15"/>
+    <cosponsor id="400285" joined="2015-06-01"/>
+    <cosponsor id="412647" joined="2015-06-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-01" state="REFERRED">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-06-01">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-06-01">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2015-06-05">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Government trust funds"/>
+    <term name="Homelessness and emergency shelter"/>
+    <term name="Housing and community development funding"/>
+    <term name="Tax administration and collection, taxpayers"/>
+    <term name="Veterans' loans, housing, homeless programs"/>
+  </subjects>
+  <amendments/>
+  <summary>6/1/2015--Introduced.
+Homeless Veterans Assistance Fund Act of 2015
+
+ Amends the Internal Revenue Code to: (1) establish in the Treasury the Homeless Veterans Assistance Fund; (2) allow individual taxpayers to designate on their tax returns a specified portion (not less than $1) of any overpayment of tax, and to make a contribution of an additional amount, to be paid over to such Fund to provide services to homeless veterans; and (3) require the Departments of Veterans Affairs, Labor, and Housing and Urban Development, each year beginning with the President's annual budget submission for FY2017, to include a description of the use of funds from the Fund in the previous fiscal year and the proposed use of such funds for the next fiscal year.</summary>
+</bill>

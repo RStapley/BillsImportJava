@@ -1,0 +1,38 @@
+<bill session="114" type="h" number="1826" updated="2015-05-23T06:33:12-04:00">
+  <state datetime="2015-04-15">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-15"/>
+  </status>
+  <introduced datetime="2015-04-15"/>
+  <titles>
+    <title type="short" as="introduced">Fishing Economy Improvement Act</title>
+    <title type="official" as="introduced">To reauthorize the Magnuson-Stevens Fishery Conservation and Management Act, and for other purposes.</title>
+  </titles>
+  <sponsor id="412312"/>
+  <cosponsors>
+    <cosponsor id="412511" joined="2015-04-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-15">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E496"/>
+    </action>
+    <action datetime="2015-04-15" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2015-04-30">
+      <text>Referred to the Subcommittee on Water, Power and Oceans.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII13" subcommittee="Water, Power and Oceans" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="2012"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,44 @@
+<bill session="114" type="h" number="79" updated="2015-05-09T06:21:54-04:00">
+  <state datetime="2015-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-06"/>
+  </status>
+  <introduced datetime="2015-01-06"/>
+  <titles>
+    <title type="short" as="introduced">No Missing Planes Act</title>
+    <title type="official" as="introduced">To conduct a study to ensure that enhanced communication is provided between commercial aircraft and air traffic control towers, and for other purposes.</title>
+  </titles>
+  <sponsor id="400199"/>
+  <cosponsors>
+    <cosponsor id="412638" joined="2015-05-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-06" state="REFERRED">
+      <text>Referred to the House Committee on Transportation.</text>
+    </action>
+    <action datetime="2015-01-07">
+      <text>Referred to the Subcommittee on Aviation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW05" subcommittee="Aviation" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Aviation and airports"/>
+    <term name="Computers and information technology"/>
+    <term name="Congressional oversight"/>
+    <term name="Government studies and investigations"/>
+    <term name="Technology assessment"/>
+    <term name="Telephone and wireless communication"/>
+    <term name="Transportation programs funding"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/2015--Introduced.
+No Missing Planes Act 
+
+Directs the Administrator of the Federal Aviation Administration (FAA) to study the feasibility of technology to: (1) improve communications between commercial aircraft and air traffic control towers when an aircraft leaves its flight plan or experiences dangerous conditions, (2) pinpoint the location of missing aircraft within 30 minutes by disseminating the information globally in less than hour to rescue and recovery agencies, and (3) accomplish specified related tasks.</summary>
+</bill>

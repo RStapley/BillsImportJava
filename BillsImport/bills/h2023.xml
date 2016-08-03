@@ -1,0 +1,49 @@
+<bill session="114" type="h" number="2023" updated="2015-06-26T04:48:04-04:00">
+  <state datetime="2015-04-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-23"/>
+  </status>
+  <introduced datetime="2015-04-23"/>
+  <titles>
+    <title type="short" as="introduced">Hold Congress Accountable Act</title>
+    <title type="official" as="introduced">To reduce the annual rate of pay of Members of Congress if a Government shutdown occurs during a year, and for other purposes.</title>
+  </titles>
+  <sponsor id="412315"/>
+  <cosponsors>
+    <cosponsor id="412512" joined="2015-06-25"/>
+    <cosponsor id="400081" joined="2015-06-23"/>
+    <cosponsor id="400618" joined="2015-06-23"/>
+    <cosponsor id="412505" joined="2015-06-23"/>
+    <cosponsor id="412523" joined="2015-06-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-23" state="REFERRED">
+      <text>Referred to the Committee on House Administration, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-04-23">
+      <text>Referred to House House Administration</text>
+    </action>
+    <action datetime="2015-04-23">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral"/>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Appropriations"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Members of Congress"/>
+  </subjects>
+  <amendments/>
+  <summary>4/23/2015--Introduced.
+Hold Congress Accountable Act
+
+ Requires a reduction in the annual rate of pay of a Member of Congress during a government shutdown equal to the product of 1 day's worth of pay under such annual rate and the number of 24-hour periods during which the government shutdown is in effect. Makes such reduction applicable to days occurring after the date of the general election for federal office held in November 2016.
+
+Requires any amount of pay of a Member of Congress in the 114th Congress that is reduced due to a government shutdown to be held in escrow until the last day of the 114th Congress and released for payment to Members at that time.</summary>
+</bill>

@@ -1,0 +1,61 @@
+<bill session="114" type="h" number="1215" updated="2015-08-15T06:29:22-04:00">
+  <state datetime="2015-03-03">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-03"/>
+  </status>
+  <introduced datetime="2015-03-03"/>
+  <titles>
+    <title type="short" as="introduced">Future Logging Careers Act</title>
+    <title type="official" as="introduced">To exempt certain 16- and 17-year-old children employed in logging or mechanized operations from child labor laws.</title>
+  </titles>
+  <sponsor id="412419"/>
+  <cosponsors>
+    <cosponsor id="412630" joined="2015-03-23"/>
+    <cosponsor id="412500" joined="2015-04-13"/>
+    <cosponsor id="412655" joined="2015-03-03"/>
+    <cosponsor id="412436" joined="2015-03-03"/>
+    <cosponsor id="412601" joined="2015-07-08"/>
+    <cosponsor id="412488" joined="2015-03-04"/>
+    <cosponsor id="412472" joined="2015-03-03"/>
+    <cosponsor id="400651" joined="2015-03-23"/>
+    <cosponsor id="412661" joined="2015-03-03"/>
+    <cosponsor id="412447" joined="2015-03-24"/>
+    <cosponsor id="412295" joined="2015-03-03"/>
+    <cosponsor id="412474" joined="2015-07-29"/>
+    <cosponsor id="400313" joined="2015-03-03"/>
+    <cosponsor id="412489" joined="2015-03-03"/>
+    <cosponsor id="400343" joined="2015-04-22"/>
+    <cosponsor id="412417" joined="2015-03-26"/>
+    <cosponsor id="400376" joined="2015-03-03"/>
+    <cosponsor id="412610" joined="2015-03-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-03" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+    <action datetime="2015-04-29">
+      <text>Referred to the Subcommittee on Workforce Protections.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee activity="Referral" code="HSED10" subcommittee="Workforce Protections" name="House Education and the Workforce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="3283"/>
+    <bill relation="identical" session="114" type="s" number="694"/>
+  </relatedbills>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Child safety and welfare"/>
+    <term name="Family relationships"/>
+    <term name="Forests, forestry, trees"/>
+    <term name="Worker safety and health"/>
+    <term name="Youth employment and child labor"/>
+  </subjects>
+  <amendments/>
+  <summary>3/3/2015--Introduced.
+Future Logging Careers Act
+
+ Amends the Fair Labor Standards Act of 1938 to make the restrictions on oppressive child labor inapplicable to employment of an employee age 16 or 17 by a parent, or a person standing in place of a parent, in a logging or mechanized operation owned or operated by that parent or person.</summary>
+</bill>

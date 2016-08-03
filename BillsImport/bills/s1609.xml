@@ -1,0 +1,45 @@
+<bill session="114" type="s" number="1609" updated="2015-08-15T07:05:16-04:00">
+  <state datetime="2015-06-18">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-18"/>
+  </status>
+  <introduced datetime="2015-06-18"/>
+  <titles>
+    <title type="short" as="introduced">Middle School STEP Act</title>
+    <title type="short" as="introduced">Middle School Technical Education Program Act</title>
+    <title type="official" as="introduced">A bill to provide support for the development of middle school career exploration programs linked to career and technical education programs of study.</title>
+  </titles>
+  <sponsor id="412582"/>
+  <cosponsors>
+    <cosponsor id="412493" joined="2015-08-05"/>
+    <cosponsor id="300011" joined="2015-06-18"/>
+    <cosponsor id="412246" joined="2015-06-18"/>
+    <cosponsor id="412321" joined="2015-06-18"/>
+    <cosponsor id="412247" joined="2015-06-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-18">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S4301-4302"/>
+    </action>
+    <action datetime="2015-06-18" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="3346"/>
+  </relatedbills>
+  <subjects>
+    <term name="Labor and employment"/>
+  </subjects>
+  <amendments/>
+  <summary>6/18/2015--Introduced.
+Middle School Technical Education Program Act or the Middle School STEP Act 
+
+ Directs the Department of Education to:
+
+ create a pilot program for career and technical education exploration programs, and award grants to eligible partnerships (local educational agencies, area career and technical education schools, educational service agencies, and other organizations) to develop a middle school career and technical education exploration program that transition to career and technical education programs of study.</summary>
+</bill>

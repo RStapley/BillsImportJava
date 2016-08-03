@@ -1,0 +1,38 @@
+<bill session="114" type="h" number="545" updated="2015-02-28T06:20:58-05:00">
+  <state datetime="2015-01-27">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-27"/>
+  </status>
+  <introduced datetime="2015-01-27"/>
+  <titles>
+    <title type="short" as="introduced">Enemy Expatriation Act</title>
+    <title type="official" as="introduced">To add engaging in or supporting hostilities against the United States to the list of acts for which United States nationals would lose their nationality.</title>
+  </titles>
+  <sponsor id="400648"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-01-27" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-02-19">
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration and Border Security" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Citizenship and naturalization"/>
+    <term name="Conflicts and wars"/>
+  </subjects>
+  <amendments/>
+  <summary>1/27/2015--Introduced.
+Enemy Expatriation Act 
+
+Amends the Immigration and Nationality Act to include engaging in or purposefully and materially supporting hostilities against the United States to the list of acts for which U.S. nationals would lose their nationality.
+
+Defines "hostilities" as any conflict subject to the laws of war.</summary>
+</bill>

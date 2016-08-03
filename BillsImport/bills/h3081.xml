@@ -1,0 +1,69 @@
+<bill session="114" type="h" number="3081" updated="2015-08-22T06:45:05-04:00">
+  <state datetime="2015-07-15">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-15"/>
+  </status>
+  <introduced datetime="2015-07-15"/>
+  <titles>
+    <title type="short" as="introduced">TELE-MED Act of 2015</title>
+    <title type="short" as="introduced">TELEmedicine for MEDicare Act of 2015</title>
+    <title type="official" as="introduced">To amend title XVIII of the Social Security Act to permit certain Medicare providers licensed in a State to provide telemedicine services to certain Medicare beneficiaries in a different State.</title>
+  </titles>
+  <sponsor id="400297"/>
+  <cosponsors>
+    <cosponsor id="400636" joined="2015-07-15"/>
+    <cosponsor id="400047" joined="2015-07-31"/>
+    <cosponsor id="400616" joined="2015-07-31"/>
+    <cosponsor id="400057" joined="2015-07-15"/>
+    <cosponsor id="412571" joined="2015-07-15"/>
+    <cosponsor id="412563" joined="2015-07-15"/>
+    <cosponsor id="412446" joined="2015-07-31"/>
+    <cosponsor id="412553" joined="2015-07-15"/>
+    <cosponsor id="412465" joined="2015-07-15"/>
+    <cosponsor id="412293" joined="2015-07-31"/>
+    <cosponsor id="400656" joined="2015-07-15"/>
+    <cosponsor id="412468" joined="2015-07-31"/>
+    <cosponsor id="412295" joined="2015-07-31"/>
+    <cosponsor id="400308" joined="2015-07-15"/>
+    <cosponsor id="400313" joined="2015-07-15"/>
+    <cosponsor id="412523" joined="2015-07-15"/>
+    <cosponsor id="400316" joined="2015-07-15"/>
+    <cosponsor id="412310" joined="2015-07-15"/>
+    <cosponsor id="400350" joined="2015-07-15"/>
+    <cosponsor id="412212" joined="2015-07-15"/>
+    <cosponsor id="400406" joined="2015-07-15"/>
+    <cosponsor id="412548" joined="2015-07-15"/>
+    <cosponsor id="412213" joined="2015-07-31"/>
+    <cosponsor id="412428" joined="2015-07-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-15" state="REFERRED">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-07-15">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-07-15">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-07-17">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="1778"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+  <summary>7/15/2015--Introduced.
+TELEmedicine for MEDicare Act of 2015 or the TELE-MED Act of 2015
+
+This bill amends title XVIII (Medicare) of the Social Security Act to allow a Medicare provider to provide telemedicine services to a Medicare beneficiary who is in a different state from the one in which the provider is licensed or authorized to provide health care services. The licensing or authorizing state has jurisdiction to enforce its licensure or other legal authorization requirements with regard to such a provision of service.</summary>
+</bill>

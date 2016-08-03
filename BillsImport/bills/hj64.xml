@@ -1,0 +1,44 @@
+<bill session="114" type="hj" number="64" updated="2015-08-22T06:48:37-04:00">
+  <state datetime="2015-08-04">REFERRED</state>
+  <status>
+    <introduced datetime="2015-08-04"/>
+  </status>
+  <introduced datetime="2015-08-04"/>
+  <titles>
+    <title type="official" as="introduced">Disapproving of the agreement transmitted to Congress by the President on July 19, 2015, relating to the nuclear program of Iran.</title>
+  </titles>
+  <sponsor id="400348"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-08-04" state="REFERRED">
+      <text>Referred to the Committee on Foreign Affairs, and in addition to the Committees on Financial Services, the Judiciary, Oversight and Government Reform, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-08-04">
+      <text>Referred to House Foreign Affairs</text>
+    </action>
+    <action datetime="2015-08-04">
+      <text>Referred to House Financial Services</text>
+    </action>
+    <action datetime="2015-08-04">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2015-08-04">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2015-08-04">
+      <text>Referred to House Ways and Means</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+  </subjects>
+  <amendments/>
+</bill>

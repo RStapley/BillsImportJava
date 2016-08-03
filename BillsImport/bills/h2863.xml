@@ -1,0 +1,47 @@
+<bill session="114" type="h" number="2863" updated="2015-07-29T04:48:50-04:00">
+  <state datetime="2015-06-23">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-23"/>
+  </status>
+  <introduced datetime="2015-06-23"/>
+  <titles>
+    <title type="short" as="introduced">Secure Legal Services for Veterans Act</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to prohibit unrecognized individuals from charging fees for legal services provided to veterans related to appeals before the Department of Veterans Affairs or the Board of Veterans' Appeals, and for other purposes.</title>
+  </titles>
+  <sponsor id="412311"/>
+  <cosponsors>
+    <cosponsor id="400041" joined="2015-06-23"/>
+    <cosponsor id="400047" joined="2015-06-23"/>
+    <cosponsor id="412385" joined="2015-07-08"/>
+    <cosponsor id="412529" joined="2015-07-08"/>
+    <cosponsor id="400290" joined="2015-07-28"/>
+    <cosponsor id="412483" joined="2015-06-23"/>
+    <cosponsor id="400352" joined="2015-07-28"/>
+    <cosponsor id="412214" joined="2015-06-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-23" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2015-07-02">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR09" subcommittee="Disability Assistance and Memorial Affairs" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <summary>6/23/2015--Introduced.
+Secure Legal Services for Veterans Act
+
+This bill prohibits an individual who is not an agent or attorney from soliciting, contracting for, charging, or receiving any fee or compensation for services rendered in the preparation, presentation, or prosecution of an appeal before the Department of Veterans Affairs (VA) or the Board of Veterans' Appeals.
+
+ Violators of such prohibition shall be fined, imprisoned for not more than one year, or both.
+
+ Amounts collected for such violations shall be deposited in the TBI Research and Initiatives Fund and remain available to VA without fiscal year limitation for traumatic brain injury research and initiatives.</summary>
+</bill>

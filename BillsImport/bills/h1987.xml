@@ -1,0 +1,115 @@
+<bill session="114" type="h" number="1987" updated="2015-06-13T06:35:02-04:00">
+  <state datetime="2015-05-18T18:02:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2015-05-18T18:02:00-04:00"/>
+  </status>
+  <introduced datetime="2015-04-23"/>
+  <titles>
+    <title type="short" as="introduced">Coast Guard Authorization Act of 2015</title>
+    <title type="short" as="reported to house">Coast Guard Authorization Act of 2015</title>
+    <title type="short" as="passed house">Coast Guard Authorization Act of 2015</title>
+    <title type="official" as="introduced">To authorize appropriations for the Coast Guard for fiscal years 2016 and 2017, and for other purposes.</title>
+  </titles>
+  <sponsor id="412283"/>
+  <cosponsors>
+    <cosponsor id="400100" joined="2015-04-23"/>
+    <cosponsor id="412382" joined="2015-04-23"/>
+    <cosponsor id="409888" joined="2015-04-23"/>
+    <cosponsor id="412410" joined="2015-05-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-23" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2015-04-24">
+      <text>Referred to the Subcommittee on Coast Guard and Maritime Transportation.</text>
+    </action>
+    <action datetime="2015-04-30">
+      <text>Subcommittee on Coast Guard and Maritime Transportation Discharged.</text>
+    </action>
+    <action datetime="2015-04-30">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-04-30" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+    <action datetime="2015-05-15T09:36:00-04:00">
+      <text>Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 114-115.</text>
+    </action>
+    <calendar datetime="2015-05-15T09:36:00-04:00" calendar="Union" number="81">
+      <text>Placed on the Union Calendar, Calendar No. 81.</text>
+    </calendar>
+    <action datetime="2015-05-18T17:48:00-04:00">
+      <text>Mr. Graves (LA) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2015-05-18T17:48:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3284-3293" label="consideration"/>
+    </action>
+    <action datetime="2015-05-18T17:48:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1987.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2015-05-18T18:02:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H3284-3291" label="text"/>
+    </vote>
+    <action datetime="2015-05-18T18:02:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2015-05-19">
+      <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSPW07" subcommittee="Coast Guard and Maritime Transportation" name="House Transportation and Infrastructure"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="2038"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Accidents"/>
+    <term name="Accounting and auditing"/>
+    <term name="Alaska"/>
+    <term name="Arctic and polar regions"/>
+    <term name="Atlantic Coast (U.S.)"/>
+    <term name="Aviation and airports"/>
+    <term name="California"/>
+    <term name="Civil actions and liability"/>
+    <term name="Coast guard"/>
+    <term name="Congressional oversight"/>
+    <term name="Debt collection"/>
+    <term name="Department of Homeland Security"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Federal Maritime Commission"/>
+    <term name="Foreign labor"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Great Lakes"/>
+    <term name="Higher education"/>
+    <term name="Historic sites and heritage areas"/>
+    <term name="Land transfers"/>
+    <term name="Licensing and registrations"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Marine and inland water transportation"/>
+    <term name="Medical tests and diagnostic methods"/>
+    <term name="Military education and training"/>
+    <term name="Military facilities and property"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Navigation, waterways, harbors"/>
+    <term name="Outdoor recreation"/>
+    <term name="Performance measurement"/>
+    <term name="Personnel records"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Small business"/>
+    <term name="Teaching, teachers, curricula"/>
+    <term name="Transportation employees"/>
+    <term name="Transportation safety and security"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+    <term name="Wages and earnings"/>
+    <term name="Worker safety and health"/>
+  </subjects>
+  <amendments/>
+</bill>

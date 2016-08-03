@@ -1,0 +1,33 @@
+<bill session="114" type="hr" number="357" updated="2015-07-30T04:47:36-04:00">
+  <state datetime="2015-07-10">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-10"/>
+  </status>
+  <introduced datetime="2015-07-10"/>
+  <titles>
+    <title type="official" as="introduced">Expressing the sense of the House of Representatives regarding the need to eliminate partisan redistricting and gerrymandering.</title>
+  </titles>
+  <sponsor id="408211"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-10" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-07-29">
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU10" subcommittee="Constitution and Civil Justice" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="hr" number="298"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+  <summary>7/10/2015--Introduced.
+Expresses the sense of the House of Representatives that:
+
+ Congress should establish a federal reapportionment system that would create compact and contiguous congressional districts that, to the greatest extent possible, follow geographic boundaries and county lines; congressional districts should not favor or disfavor an incumbent or political party; congressional districts should adhere to the existing standards of equal population; and the highest court of each state should have the power to reject congressional district maps that do not meet the above criteria.</summary>
+</bill>

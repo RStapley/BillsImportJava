@@ -1,0 +1,59 @@
+<bill session="114" type="hr" number="225" updated="2015-05-22T04:48:01-04:00">
+  <state datetime="2015-04-28">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-28"/>
+  </status>
+  <introduced datetime="2015-04-28"/>
+  <titles>
+    <title type="official" as="introduced">Recognizing the 40th anniversary of the Fall of Saigon on April 30, 1975.</title>
+  </titles>
+  <sponsor id="412521"/>
+  <cosponsors>
+    <cosponsor id="412516" joined="2015-04-28"/>
+    <cosponsor id="412517" joined="2015-04-28"/>
+    <cosponsor id="412379" joined="2015-04-28"/>
+    <cosponsor id="412272" joined="2015-04-28"/>
+    <cosponsor id="400097" joined="2015-04-28"/>
+    <cosponsor id="412613" joined="2015-04-28"/>
+    <cosponsor id="412583" joined="2015-04-29"/>
+    <cosponsor id="400245" joined="2015-04-28"/>
+    <cosponsor id="400262" joined="2015-04-28"/>
+    <cosponsor id="412575" joined="2015-04-29"/>
+    <cosponsor id="412523" joined="2015-04-28"/>
+    <cosponsor id="400356" joined="2015-04-28"/>
+    <cosponsor id="400363" joined="2015-05-15"/>
+    <cosponsor id="412520" joined="2015-04-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-28">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H2480"/>
+    </action>
+    <action datetime="2015-04-28" state="REFERRED">
+      <text>Referred to the Committee on Foreign Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-04-28">
+      <text>Referred to House Foreign Affairs</text>
+    </action>
+    <action datetime="2015-04-28">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2015-05-20">
+      <text>Referred to the Subcommittee on Asia and the Pacific.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSFA05" subcommittee="Asia and the Pacific" name="House Foreign Affairs"/>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <summary>4/28/2015--Introduced.
+Recognizes the significance of the 40th anniversary of the Fall of Saigon on April 30, 1975.
+
+ Honors:
+
+ the contributions of Vietnamese Americans to the United States over the last 40 years and their tireless commitment to upholding freedom and democracy in Vietnam; the service of members of the U.S. Armed Forces and of the South Vietnamese forces who fought in Vietnam, including those who gave their lives; and the memory of the Vietnamese who lost their lives while attempting to flee Vietnam. Encourages all U.S. citizens to join in remembering the Fall of Saigon, honoring the contributions of the Vietnamese American community, and calling for freedom and democracy in Vietnam.</summary>
+</bill>

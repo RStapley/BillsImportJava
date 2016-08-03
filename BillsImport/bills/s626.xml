@@ -1,0 +1,54 @@
+<bill session="114" type="s" number="626" updated="2015-07-22T05:01:03-04:00">
+  <state datetime="2015-03-03">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-03"/>
+  </status>
+  <introduced datetime="2015-03-03"/>
+  <titles>
+    <title type="short" as="introduced">HELLPP Act</title>
+    <title type="short" as="introduced">Helping Ensure Life- and Limb-Saving Access to Podiatric Physicians Act</title>
+    <title type="official" as="introduced">A bill to amend title XIX of the Social Security Act to cover physician services delivered by podiatric physicians to ensure access by Medicaid beneficiaries to appropriate quality foot and ankle care, to amend title XVIII of such Act to modify the requirements for diabetic shoes to be included under Medicare, and for other purposes.</title>
+  </titles>
+  <sponsor id="300048"/>
+  <cosponsors>
+    <cosponsor id="400050" joined="2015-06-04"/>
+    <cosponsor id="412508" joined="2015-03-25"/>
+    <cosponsor id="412667" joined="2015-07-21"/>
+    <cosponsor id="412325" joined="2015-05-21"/>
+    <cosponsor id="412305" joined="2015-07-13"/>
+    <cosponsor id="300087" joined="2015-03-03"/>
+    <cosponsor id="412323" joined="2015-03-17"/>
+    <cosponsor id="300093" joined="2015-06-08"/>
+    <cosponsor id="400413" joined="2015-06-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-03" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="1221"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Digestive and metabolic diseases"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health personnel"/>
+    <term name="Health technology, devices, supplies"/>
+    <term name="Medicaid"/>
+    <term name="Medicare"/>
+    <term name="Tax administration and collection, taxpayers"/>
+  </subjects>
+  <amendments/>
+  <summary>3/3/2015--Introduced.
+Helping Ensure Life- and Limb-Saving Access to Podiatric Physicians Act or the HELLPP Act
+
+ Amends title XIX (Medicaid) of the Social Security Act (SSAct) to include podiatrists as physicians in order to cover their services under the Medicaid program.
+
+Amends SSAct title XVIII (Medicare) to revise requirements for coverage of therapeutic shoes for individuals with diabetes regarding the processes of: (1) documentation by a physician of, and certification of a comprehensive plan of care related to, the diabetic condition; (2) prescription by a podiatrist or other qualified physician upon a finding of the medical necessity for the therapeutic shoes, including findings communicated to a certifying doctor of medicine or osteopathy of certain related foot conditions; and (3) fitting and supplying the shoes.
+
+Amends the Internal Revenue Code to subject to the continuing levy upon property and property rights, for collection of unpaid taxes, any payments made to a Medicaid provider or supplier.</summary>
+</bill>

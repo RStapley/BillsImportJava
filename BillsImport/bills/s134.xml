@@ -1,0 +1,50 @@
+<bill session="114" type="s" number="134" updated="2015-06-18T04:49:14-04:00">
+  <state datetime="2015-01-08">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-08"/>
+  </status>
+  <introduced datetime="2015-01-08"/>
+  <titles>
+    <title type="short" as="introduced">Industrial Hemp Farming Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend the Controlled Substances Act to exclude industrial hemp from the definition of marihuana, and for other purposes.</title>
+  </titles>
+  <sponsor id="300100"/>
+  <cosponsors>
+    <cosponsor id="400013" joined="2015-06-17"/>
+    <cosponsor id="412330" joined="2015-06-08"/>
+    <cosponsor id="412549" joined="2015-03-09"/>
+    <cosponsor id="412378" joined="2015-03-09"/>
+    <cosponsor id="412406" joined="2015-02-27"/>
+    <cosponsor id="300072" joined="2015-01-08"/>
+    <cosponsor id="412325" joined="2015-01-08"/>
+    <cosponsor id="412492" joined="2015-01-08"/>
+    <cosponsor id="412244" joined="2015-06-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-08">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S102"/>
+    </action>
+    <action datetime="2015-01-08" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S102" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="525"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Drug trafficking and controlled substances"/>
+    <term name="Horticulture and plants"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+  <summary>1/8/2015--Introduced.
+Industrial Hemp Farming Act of 2015
+
+ Amends the Controlled Substances Act to exclude industrial hemp from the definition of "marihuana." Defines "industrial hemp" to mean the plant Cannabis sativa L. and any part of such plant, whether growing or not, with a delta-nine tetrahydrocannabinol concentration of not more than 0.3 percent on a dry weight basis. Deems Cannabis sativa L. to meet that concentration limit if a person grows or processes it for purposes of making industrial hemp in accordance with state law, unless the Attorney General determines that the state law is not reasonably calculated to comply with such definition.</summary>
+</bill>

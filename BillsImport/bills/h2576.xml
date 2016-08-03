@@ -1,0 +1,93 @@
+<bill session="114" type="h" number="2576" updated="2015-08-01T06:41:05-04:00">
+  <state datetime="2015-06-23T19:17:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2015-06-23T19:17:00-04:00"/>
+  </status>
+  <introduced datetime="2015-05-26"/>
+  <titles>
+    <title type="short" as="introduced">TSCA Modernization Act of 2015</title>
+    <title type="short" as="reported to house">TSCA Modernization Act of 2015</title>
+    <title type="short" as="passed house">TSCA Modernization Act of 2015</title>
+    <title type="official" as="introduced">To modernize the Toxic Substances Control Act, and for other purposes.</title>
+  </titles>
+  <sponsor id="400373"/>
+  <cosponsors>
+    <cosponsor id="412250" joined="2015-06-04"/>
+    <cosponsor id="412622" joined="2015-06-23"/>
+    <cosponsor id="412477" joined="2015-06-16"/>
+    <cosponsor id="400160" joined="2015-06-02"/>
+    <cosponsor id="412280" joined="2015-06-02"/>
+    <cosponsor id="412256" joined="2015-06-02"/>
+    <cosponsor id="412634" joined="2015-06-16"/>
+    <cosponsor id="400308" joined="2015-05-26"/>
+    <cosponsor id="412432" joined="2015-06-23"/>
+    <cosponsor id="400350" joined="2015-06-23"/>
+    <cosponsor id="400360" joined="2015-06-18"/>
+    <cosponsor id="412315" joined="2015-06-18"/>
+    <cosponsor id="412399" joined="2015-06-17"/>
+    <cosponsor id="400402" joined="2015-06-23"/>
+    <cosponsor id="412319" joined="2015-05-26"/>
+    <cosponsor id="400414" joined="2015-05-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-26" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-06-02">
+      <text>Committee Hearings Held.</text>
+    </action>
+    <action datetime="2015-06-02">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2015-06-03">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-06-03" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 47 - 0.</text>
+    </calendar>
+    <action datetime="2015-06-23T15:09:00-04:00">
+      <text>Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 114-176.</text>
+    </action>
+    <calendar datetime="2015-06-23T15:09:00-04:00" calendar="Union" number="131">
+      <text>Placed on the Union Calendar, Calendar No. 131.</text>
+    </calendar>
+    <action datetime="2015-06-23T15:10:00-04:00">
+      <text>Mr. Shimkus moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2015-06-23T15:10:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4551-4560" label="consideration"/>
+    </action>
+    <action datetime="2015-06-23T15:10:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2576.</text>
+    </action>
+    <action datetime="2015-06-23T15:39:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2015-06-23T19:11:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H4581-4582" label="consideration"/>
+    </action>
+    <action datetime="2015-06-23T19:17:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote how="roll" type="vote" roll="378" datetime="2015-06-23T19:17:00-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 398 - 1 (Roll no. 378).</text>
+      <reference ref="CR H4551-4556" label="text"/>
+    </vote>
+    <action datetime="2015-06-24">
+      <text>Received in the Senate.</text>
+    </action>
+    <calendar datetime="2015-07-08" calendar="Senate Legislative" under="General Orders" number="143">
+      <text>Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 143.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Hearings, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+  </subjects>
+  <amendments/>
+</bill>

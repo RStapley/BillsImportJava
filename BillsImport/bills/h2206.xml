@@ -1,0 +1,88 @@
+<bill session="114" type="h" number="2206" updated="2015-08-01T06:37:57-04:00">
+  <state datetime="2015-07-27T17:14:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2015-07-27T17:14:00-04:00"/>
+  </status>
+  <introduced datetime="2015-05-01"/>
+  <titles>
+    <title type="short" as="introduced">State Wide Interoperable Communications Enhancement Act</title>
+    <title type="short" as="introduced">SWIC Enhancement Act</title>
+    <title type="short" as="reported to house">State Wide Interoperable Communications Enhancement Act</title>
+    <title type="short" as="reported to house">SWIC Enhancement Act</title>
+    <title type="short" as="passed house">State Wide Interoperable Communications Enhancement Act</title>
+    <title type="short" as="passed house">SWIC Enhancement Act</title>
+    <title type="official" as="introduced">To amend the Homeland Security Act of 2002 to require recipients of State Homeland Security Grant Program funding to preserve and strengthen interoperable emergency communications capabilities, and for other purposes.</title>
+  </titles>
+  <sponsor id="412506"/>
+  <cosponsors>
+    <cosponsor id="400654" joined="2015-05-01"/>
+    <cosponsor id="412611" joined="2015-05-01"/>
+    <cosponsor id="400402" joined="2015-05-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-01" state="REFERRED">
+      <text>Referred to the House Committee on Homeland Security.</text>
+    </action>
+    <action datetime="2015-05-11">
+      <text>Referred to the Subcommittee on Emergency Preparedness, Response and Communications.</text>
+    </action>
+    <action datetime="2015-05-14">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text>
+    </action>
+    <action datetime="2015-05-20">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-05-20" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+    <action datetime="2015-06-17T12:53:00-04:00">
+      <text>Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-165.</text>
+    </action>
+    <calendar datetime="2015-06-17T12:53:00-04:00" calendar="Union" number="121">
+      <text>Placed on the Union Calendar, Calendar No. 121.</text>
+    </calendar>
+    <action datetime="2015-07-27T17:07:00-04:00">
+      <text>Mr. King (NY) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2015-07-27T17:07:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5506-5508" label="consideration"/>
+    </action>
+    <action datetime="2015-07-27T17:07:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2206.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2015-07-27T17:14:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H5506" label="text"/>
+    </vote>
+    <action datetime="2015-07-27T17:14:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2015-07-28">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Reporting" code="HSHM12" subcommittee="Emergency Preparedness, Response, and Communications" name="House Homeland Security"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Emergency management"/>
+    <term name="Broadcasting, cable, digital technologies"/>
+    <term name="Emergency communications systems"/>
+    <term name="Emergency planning and evacuation"/>
+    <term name="Law enforcement administration and funding"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+  <summary>5/1/2015--Introduced.
+State Wide Interoperable Communications Enhancement Act or the SWIC Enhancement Act
+
+ Amends the Homeland Security Act of 2002 to require a state to include in its application for State Homeland Security Grant Program funding a certification: (1) that the governor of the state has designated a Statewide Interoperability Coordinator, or (2) indicating that the state is performing the functions of such a Coordinator in another manner and identifying the primary point of contact for performance of such functions.
+
+Sets forth as such Coordinator's functions:
+
+ overseeing the daily operations of the state's interoperability efforts; coordinating state interoperability and communications projects and grant applications for such projects; establishing and maintaining working groups to develop and implement key interoperability initiatives; and implementing and updating a Statewide Communications Interoperability Plan that specifies the current status of state efforts to enhance communications interoperability within the state, including future goals for communications interoperability among emergency response agencies in the state.</summary>
+</bill>

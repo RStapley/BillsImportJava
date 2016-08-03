@@ -1,0 +1,35 @@
+<bill session="114" type="s" number="1657" updated="2015-08-15T07:05:41-04:00">
+  <state datetime="2015-06-24">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-24"/>
+  </status>
+  <introduced datetime="2015-06-24"/>
+  <titles>
+    <title type="short" as="introduced">Dams Accountability, Maintenance, and Safety Act</title>
+    <title type="official" as="introduced">A bill to amend the Reclamation Safety of Dams Act of 1978.</title>
+  </titles>
+  <sponsor id="412251"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-06-24" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="2749"/>
+    <bill relation="unknown" session="114" type="h" number="2898"/>
+    <bill relation="unknown" session="114" type="h" number="2983"/>
+    <bill relation="unknown" session="114" type="s" number="1837"/>
+  </relatedbills>
+  <subjects>
+    <term name="Water resources development"/>
+  </subjects>
+  <amendments/>
+  <summary>6/24/2015--Introduced.
+Dams Accountability, Maintenance, and Safety Act
+
+Amends the Reclamation Safety of Dams Act of 1978 to authorize the Department of the Interior, subject to a feasibility study, to develop additional project benefits (including additional conservation storage capacity) through the construction of new or supplementary works when it exercises its authority to modify Bureau of Reclamation dams and related facilities to preserve their structural safety, provided that: (1) the additional project benefits will promote more efficient management of water and water-related facilities, (2) the feasibility study is authorized under the Federal Water Project Recreation Act of 1965, and (3) the costs are allocated to the authorized purposes of the structure and repaid consistent with federal reclamation law.</summary>
+</bill>

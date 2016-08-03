@@ -1,0 +1,62 @@
+<bill session="114" type="s" number="383" updated="2015-07-30T04:52:24-04:00">
+  <state datetime="2015-07-29">REPORTED</state>
+  <status>
+    <unknown datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-02-05"/>
+  <titles>
+    <title type="short" as="introduced">Indian Trust Asset Reform Act</title>
+    <title type="short" as="introduced" partial="1">Indian Trust Asset Management Demonstration Project Act of 2015</title>
+    <title type="official" as="introduced">A bill to provide for Indian trust asset management reform, and for other purposes.</title>
+  </titles>
+  <sponsor id="300030"/>
+  <cosponsors>
+    <cosponsor id="412322" joined="2015-02-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-05" state="REFERRED">
+      <text>Read twice and referred to the Committee on Indian Affairs.</text>
+    </action>
+    <calendar datetime="2015-07-29" state="REPORTED">
+      <text>Committee on Indian Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SLIA" name="Senate Indian Affairs" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="812"/>
+  </relatedbills>
+  <subjects>
+    <term name="Native Americans"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Administrative remedies"/>
+    <term name="Alternative dispute resolution, mediation, arbitration"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of the Interior"/>
+    <term name="Environmental assessment, monitoring, research"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Federal officials"/>
+    <term name="Federal-Indian relations"/>
+    <term name="Forests, forestry, trees"/>
+    <term name="Government information and archives"/>
+    <term name="Indian lands and resources rights"/>
+    <term name="Judicial review and appeals"/>
+    <term name="Land use and conservation"/>
+  </subjects>
+  <amendments/>
+  <summary>2/5/2015--Introduced.
+Indian Trust Asset Reform Act
+
+ Reaffirms the federal government's fiduciary responsibilities to Indians.
+
+
+
+ Indian Trust Asset Management Demonstration Project Act of 2015
+
+Directs the Department of the Interior to establish a 10 year (but may be extended at Interior's discretion) Indian trust asset management demonstration project that allows Indian tribes to propose Indian trust asset management plans.
+
+ Authorizes Interior to establish an Under Secretary for Indian Affairs who is to: (1) report directly to the Secretary of the Interior; (2) assume the functions of the Assistant Secretary for Indian Affairs; and (3) coordinate with the Special Trustee for American Indians to ensure an orderly transition of the functions of the Special Trustee to the Bureau of Indian Affairs, or to any other agency or bureau within Interior.
+
+Requires Interior to prepare a transition plan and timetable for the termination of the Office of Special Trustee for American Indians.</summary>
+</bill>

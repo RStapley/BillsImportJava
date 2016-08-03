@@ -1,0 +1,56 @@
+<bill session="114" type="h" number="207" updated="2015-06-12T04:51:32-04:00">
+  <state datetime="2015-01-08">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-08"/>
+  </status>
+  <introduced datetime="2015-01-08"/>
+  <titles>
+    <title type="short" as="introduced">Small Business Development Centers Improvement Act of 2015</title>
+    <title type="official" as="introduced">To amend the Small Business Act to provide for improvements to small business development centers.</title>
+  </titles>
+  <sponsor id="400416"/>
+  <cosponsors>
+    <cosponsor id="412561" joined="2015-06-11"/>
+    <cosponsor id="412286" joined="2015-06-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-08" state="REFERRED">
+      <text>Referred to the House Committee on Small Business.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSM" name="House Small Business" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="999"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Business education"/>
+    <term name="Congressional oversight"/>
+    <term name="Government information and archives"/>
+    <term name="Marketing and advertising"/>
+    <term name="Public-private cooperation"/>
+    <term name="Right of privacy"/>
+    <term name="Small business"/>
+  </subjects>
+  <amendments/>
+  <summary>1/8/2015--Introduced.
+Small Business Development Centers Improvement Act of 2015
+
+ Amends the Small Business Act with respect to the authority of the Small Business Administration (SBA) to use certain SBA programs, including the small business development center (SBDC) program, to provide grants, financial assistance, loans, export assistance, and subcontracting opportunities on federal contracts to specified small businesses, organizations, state governments, universities, companies, and other entities that assist smaller enterprises.
+
+Declares that the SBA shall only use such programs to deliver entrepreneurial development services, entrepreneurial education, business incubation services, growth acceleration services, support for the development and maintenance of clusters, or business training. Makes such program requirements inapplicable to services provided to assist small businesses owned by an Indian tribe.
+
+Bars the SBA from prohibiting grant recipients under the SBDC program from marketing and advertising their services to individuals and small businesses.
+
+Directs the SBA to consult with SBDC associations to develop documents governing data collection activities related to grant recipients.
+
+Prohibits participation in private partnerships and cosponsorships with the SBA from limiting SBDCs from collecting fees or other income related to the operation of such partnerships and cosponsorships.
+
+Removes a limitation on the amount of funds the SBA may use to pay the examination expenses of the SBDC accreditation program.
+
+Revises privacy requirements under the program to specify that SBDCs (including consortia and affiliated contractors or agents) are prohibited, subject to existing exceptions, from disclosing certain identifying information of any individual or small business receiving assistance to any state, local, or federal agency or third party.
+
+Prohibits the SBA from awarding grants (including contracts and cooperative agreements) under the SBDC program to any entity other than those that: (1) received such grants before September 30, 2015; and (2) seek to renew them after such date. Exempts not-for-profit institutions of higher education from such prohibition.</summary>
+</bill>

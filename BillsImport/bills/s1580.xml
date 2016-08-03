@@ -1,0 +1,42 @@
+<bill session="114" type="s" number="1580" updated="2015-08-15T07:05:02-04:00">
+  <state datetime="2015-06-24">REPORTED</state>
+  <status>
+    <unknown datetime="2015-06-24"/>
+  </status>
+  <introduced datetime="2015-06-16"/>
+  <titles>
+    <title type="short" as="introduced">Competitive Service Act of 2015</title>
+    <title type="official" as="introduced">A bill to allow additional appointing authorities to select individuals from competitive service certificates.</title>
+  </titles>
+  <sponsor id="412244"/>
+  <cosponsors>
+    <cosponsor id="400064" joined="2015-06-16"/>
+    <cosponsor id="300041" joined="2015-06-17"/>
+    <cosponsor id="412554" joined="2015-06-16"/>
+    <cosponsor id="412496" joined="2015-06-25"/>
+    <cosponsor id="400284" joined="2015-06-16"/>
+    <cosponsor id="400325" joined="2015-06-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-16" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <calendar datetime="2015-06-24" state="REPORTED">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="2827"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+  </subjects>
+  <amendments/>
+  <summary>6/16/2015--Introduced.
+Competitive Service Act of 2015 
+
+Authorizes an appointing authority (i.e., a federal agency appointing an individual to a position in the competitive service), other than the appointing authority that requested the certificate of eligibles for filling a position in the competitive service, to select an individual from that certificate for appointment to a position that is: (1) in the same occupational series as the position for which the certificate of eligibles was issued, and (2) at a similar grade level as the original position. Sets forth requirements relating to the sharing of certificates, notice, and selection of job applicants.</summary>
+</bill>

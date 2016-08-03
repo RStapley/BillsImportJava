@@ -1,0 +1,44 @@
+<bill session="114" type="h" number="2366" updated="2015-07-24T04:48:27-04:00">
+  <state datetime="2015-05-15">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-15"/>
+  </status>
+  <introduced datetime="2015-05-15"/>
+  <titles>
+    <title type="official" as="introduced">To provide for improvement of field emergency medical services, and for other purposes.</title>
+  </titles>
+  <sponsor id="412427"/>
+  <cosponsors>
+    <cosponsor id="412407" joined="2015-06-10"/>
+    <cosponsor id="412292" joined="2015-06-10"/>
+    <cosponsor id="400316" joined="2015-07-13"/>
+    <cosponsor id="412310" joined="2015-07-13"/>
+    <cosponsor id="412426" joined="2015-07-23"/>
+    <cosponsor id="400363" joined="2015-07-13"/>
+    <cosponsor id="400365" joined="2015-06-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-15" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-05-15">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2015-05-15">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-05-22">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+</bill>

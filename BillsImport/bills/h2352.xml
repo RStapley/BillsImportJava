@@ -1,0 +1,43 @@
+<bill session="114" type="h" number="2352" updated="2015-07-25T06:38:38-04:00">
+  <state datetime="2015-05-15">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-15"/>
+  </status>
+  <introduced datetime="2015-05-15"/>
+  <titles>
+    <title type="short" as="introduced">State, Tribal, and Local Species Transparency and Recovery Act</title>
+    <title type="official" as="introduced">To amend the Endangered Species Act of 1973 to require making available to States affected by determinations that species are endangered species or threatened species all data that is the basis of such determinations, and for other purposes.</title>
+  </titles>
+  <sponsor id="400441"/>
+  <cosponsors>
+    <cosponsor id="412500" joined="2015-05-18"/>
+    <cosponsor id="412531" joined="2015-05-15"/>
+    <cosponsor id="412437" joined="2015-05-15"/>
+    <cosponsor id="412292" joined="2015-05-18"/>
+    <cosponsor id="412294" joined="2015-05-15"/>
+    <cosponsor id="412660" joined="2015-05-15"/>
+    <cosponsor id="412317" joined="2015-05-18"/>
+    <cosponsor id="412515" joined="2015-05-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-15" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="736"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Endangered and threatened species"/>
+    <term name="Government information and archives"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Land transfers"/>
+    <term name="State and local government operations"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+</bill>

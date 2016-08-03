@@ -1,0 +1,40 @@
+<bill session="114" type="sr" number="144" updated="2015-04-28T04:48:21-04:00">
+  <state datetime="2015-04-22">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2015-04-22"/>
+  </status>
+  <introduced datetime="2015-04-22"/>
+  <titles>
+    <title type="official" as="introduced">A resolution supporting the mission and goals of 2015 National Crime Victims' Rights Week, which include increasing public awareness of the rights, needs, and concerns of, and services available to assist, victims and survivors of crime in the United States.</title>
+  </titles>
+  <sponsor id="300048"/>
+  <cosponsors>
+    <cosponsor id="300043" joined="2015-04-27"/>
+    <cosponsor id="300052" joined="2015-04-22"/>
+    <cosponsor id="300065" joined="2015-04-22"/>
+    <cosponsor id="300087" joined="2015-04-22"/>
+    <cosponsor id="400418" joined="2015-04-22"/>
+    <cosponsor id="400432" joined="2015-04-22"/>
+  </cosponsors>
+  <actions>
+    <vote how="by Unanimous Consent" type="vote" datetime="2015-04-22" where="s" result="pass" state="PASSED:SIMPLERES">
+      <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S2319" label="consideration"/>
+      <reference ref="CR S2357" label="text of measure as passed Senate"/>
+    </vote>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Crime victims"/>
+  </subjects>
+  <amendments/>
+  <summary>4/22/2015--Passed Senate without amendment.
+(This measure has not been amended since it was introduced. The summary of that version is repeated here.)
+
+Expresses support for the mission and goals of 2015 National Crime Victims' Rights Week, which include increasing individual and public awareness of: (1) the impact of crime on victims, survivors, and their families; (2) the challenges to achieving justice for victims and survivors of crime and their families; and (3) the many solutions to meet such challenges.
+
+Recognizes that crime victims and survivors and their families should be treated with dignity, fairness, and respect.</summary>
+</bill>

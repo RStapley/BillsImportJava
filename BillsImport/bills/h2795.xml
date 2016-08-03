@@ -1,0 +1,50 @@
+<bill session="114" type="h" number="2795" updated="2015-08-08T06:42:41-04:00">
+  <state datetime="2015-06-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-16"/>
+  </status>
+  <introduced datetime="2015-06-16"/>
+  <titles>
+    <title type="short" as="introduced">First Responder Identification of Emergency Needs in Disaster Situations</title>
+    <title type="short" as="introduced">FRIENDS Act</title>
+    <title type="official" as="introduced">To require the Secretary of Homeland Security to submit a study on the circumstances which may impact the effectiveness and availability of first responders before, during, or after a terrorist threat or event.</title>
+  </titles>
+  <sponsor id="400199"/>
+  <cosponsors>
+    <cosponsor id="412404" joined="2015-06-16"/>
+    <cosponsor id="412565" joined="2015-06-16"/>
+    <cosponsor id="412576" joined="2015-06-16"/>
+    <cosponsor id="400103" joined="2015-06-16"/>
+    <cosponsor id="412327" joined="2015-06-16"/>
+    <cosponsor id="400160" joined="2015-06-16"/>
+    <cosponsor id="400179" joined="2015-06-16"/>
+    <cosponsor id="412595" joined="2015-06-16"/>
+    <cosponsor id="400233" joined="2015-06-16"/>
+    <cosponsor id="400237" joined="2015-06-16"/>
+    <cosponsor id="412606" joined="2015-06-16"/>
+    <cosponsor id="400308" joined="2015-06-16"/>
+    <cosponsor id="400309" joined="2015-06-16"/>
+    <cosponsor id="412506" joined="2015-06-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-16" state="REFERRED">
+      <text>Referred to the House Committee on Homeland Security.</text>
+    </action>
+    <action datetime="2015-06-19">
+      <text>Referred to the Subcommittee on Emergency Preparedness, Response and Communications.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral"/>
+    <committee activity="Referral" code="HSHM12" subcommittee="Emergency Preparedness, Response, and Communications" name="House Homeland Security"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Emergency management"/>
+  </subjects>
+  <amendments/>
+  <summary>6/16/2015--Introduced.
+First Responder Identification of Emergency Needs in Disaster Situations or the FRIENDS Act
+
+Directs the Department of Homeland Security to submit a report on factors that would result in first responders failing to meet expectations based upon training and planning for terrorist incidents, which: (1) may include information on first responder performance and availability before, during, or after a terrorist threat or event; and (2) shall include first responder input on how the presence of family in the impacted area, the adequacy of personal protective equipment, and training gaps may influence performance and availability.</summary>
+</bill>

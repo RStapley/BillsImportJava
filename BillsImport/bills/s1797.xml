@@ -1,0 +1,42 @@
+<bill session="114" type="s" number="1797" updated="2015-08-22T07:06:46-04:00">
+  <state datetime="2015-07-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-16"/>
+  </status>
+  <introduced datetime="2015-07-16"/>
+  <titles>
+    <title type="short" as="introduced">Connect with Veterans Act of 2015</title>
+    <title type="official" as="introduced">A bill to require the Secretary of Veterans Affairs to establish a voluntary national directory of veterans to support outreach to veterans, and for other purposes.</title>
+  </titles>
+  <sponsor id="412554"/>
+  <cosponsors>
+    <cosponsor id="400040" joined="2015-07-16"/>
+    <cosponsor id="412545" joined="2015-07-16"/>
+    <cosponsor id="400284" joined="2015-07-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-16">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S5163-5165"/>
+    </action>
+    <action datetime="2015-07-16" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Government information and archives"/>
+    <term name="Personnel records"/>
+    <term name="State and local government operations"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+    <term name="Veterans' loans, housing, homeless programs"/>
+    <term name="Veterans' medical care"/>
+    <term name="Veterans' organizations and recognition"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+</bill>

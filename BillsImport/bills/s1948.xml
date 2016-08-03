@@ -1,0 +1,29 @@
+<bill session="114" type="s" number="1948" updated="2015-08-22T07:08:03-04:00">
+  <state datetime="2015-08-05">REFERRED</state>
+  <status>
+    <introduced datetime="2015-08-05"/>
+  </status>
+  <introduced datetime="2015-08-05"/>
+  <titles>
+    <title type="short" as="introduced">Access to Fair Financial Options for Repaying Debt Act of 2015</title>
+    <title type="short" as="introduced">AFFORD Act</title>
+    <title type="official" as="introduced">A bill to increase awareness of the Federal student loan income-based repayment plan, and for other purposes.</title>
+  </titles>
+  <sponsor id="412325"/>
+  <cosponsors>
+    <cosponsor id="300100" joined="2015-08-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-08-05" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+  </subjects>
+  <amendments/>
+</bill>

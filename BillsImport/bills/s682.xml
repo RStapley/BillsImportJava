@@ -1,0 +1,70 @@
+<bill session="114" type="s" number="682" updated="2015-08-08T06:57:22-04:00">
+  <state datetime="2015-03-10">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-10"/>
+  </status>
+  <introduced datetime="2015-03-10"/>
+  <titles>
+    <title type="short" as="introduced">Preserving Access to Manufactured Housing Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend the Truth in Lending Act to modify the definitions of a mortgage originator and a high-cost mortgage.</title>
+  </titles>
+  <sponsor id="412205"/>
+  <cosponsors>
+    <cosponsor id="300002" joined="2015-04-28"/>
+    <cosponsor id="412493" joined="2015-06-01"/>
+    <cosponsor id="400040" joined="2015-05-18"/>
+    <cosponsor id="400061" joined="2015-03-18"/>
+    <cosponsor id="402675" joined="2015-06-11"/>
+    <cosponsor id="300023" joined="2015-05-06"/>
+    <cosponsor id="412248" joined="2015-04-20"/>
+    <cosponsor id="412508" joined="2015-03-10"/>
+    <cosponsor id="300030" joined="2015-04-13"/>
+    <cosponsor id="412549" joined="2015-05-05"/>
+    <cosponsor id="300048" joined="2015-04-22"/>
+    <cosponsor id="412494" joined="2015-06-04"/>
+    <cosponsor id="300055" joined="2015-04-28"/>
+    <cosponsor id="412464" joined="2015-05-06"/>
+    <cosponsor id="412391" joined="2015-03-10"/>
+    <cosponsor id="412492" joined="2015-06-18"/>
+    <cosponsor id="412305" joined="2015-05-14"/>
+    <cosponsor id="400325" joined="2015-05-05"/>
+    <cosponsor id="412491" joined="2015-05-22"/>
+    <cosponsor id="412471" joined="2015-05-20"/>
+    <cosponsor id="300088" joined="2015-06-10"/>
+    <cosponsor id="400408" joined="2015-03-10"/>
+    <cosponsor id="400432" joined="2015-05-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-10" state="REFERRED">
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+    <action datetime="2015-04-16">
+      <text>Committee on Banking, Housing, and Urban Affairs. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="650"/>
+    <bill relation="unknown" session="114" type="s" number="1910"/>
+  </relatedbills>
+  <subjects>
+    <term name="Housing and community development"/>
+    <term name="Banking and financial institutions regulation"/>
+    <term name="Housing finance and home ownership"/>
+    <term name="Housing industry and standards"/>
+    <term name="Interest, dividends, interest rates"/>
+    <term name="Real estate business"/>
+    <term name="Retail and wholesale trades"/>
+  </subjects>
+  <amendments/>
+  <summary>3/10/2015--Introduced.
+Preserving Access to Manufactured Housing Act of 2015
+
+Amends the Truth in Lending Act to revise the exclusion from the meaning of "mortgage originator" of any employee of a retailer of manufactured homes who does not for compensation or gain take residential mortgage loan applications, for compensation or gain offer or negotiate terms of a residential mortgage loan, or advise a consumer on loan terms (including rates, fees, and other costs).
+
+Excludes from the meaning of "mortgage originator," instead, any retailer of manufactured or modular homes or its employees unless the retailer or its employees receive compensation or gain for engaging in certain activities in excess of any compensation or gain received in a comparable cash transaction.
+
+Revises the definition of "high cost mortgage."</summary>
+</bill>

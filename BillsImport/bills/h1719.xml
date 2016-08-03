@@ -1,0 +1,40 @@
+<bill session="114" type="h" number="1719" updated="2015-05-16T06:32:04-04:00">
+  <state datetime="2015-03-26">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-26"/>
+  </status>
+  <introduced datetime="2015-03-26"/>
+  <titles>
+    <title type="short" as="introduced">Geothermal Production Expansion Act of 2015</title>
+    <title type="official" as="introduced">To expand geothermal production, and for other purposes.</title>
+  </titles>
+  <sponsor id="400376"/>
+  <cosponsors>
+    <cosponsor id="400100" joined="2015-04-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-26" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2015-04-20">
+      <text>Referred to the Subcommittee on Energy and Mineral Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII06" subcommittee="Energy and Mineral Resources" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="822"/>
+    <bill relation="unknown" session="114" type="s" number="1057"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Administrative remedies"/>
+    <term name="Alternative and renewable resources"/>
+    <term name="Department of the Interior"/>
+    <term name="Government information and archives"/>
+    <term name="Land use and conservation"/>
+  </subjects>
+  <amendments/>
+</bill>

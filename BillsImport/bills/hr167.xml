@@ -1,0 +1,42 @@
+<bill session="114" type="hr" number="167" updated="2015-05-09T06:20:32-04:00">
+  <state datetime="2015-03-24">REFERRED</state>
+  <status>
+    <introduced datetime="2015-03-24"/>
+  </status>
+  <introduced datetime="2015-03-24"/>
+  <titles>
+    <title type="official" as="introduced">Expressing the sense of the House of Representatives that the committees of jurisdiction in the House of Representatives should craft replacement language for the Patient Protection and Affordable Care Act that includes the amendments made to the Black Lung Benefits Act.</title>
+  </titles>
+  <sponsor id="412663"/>
+  <cosponsors>
+    <cosponsor id="412485" joined="2015-03-24"/>
+    <cosponsor id="412487" joined="2015-03-24"/>
+    <cosponsor id="412662" joined="2015-03-24"/>
+    <cosponsor id="400340" joined="2015-03-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-24">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H1854"/>
+    </action>
+    <action datetime="2015-03-24" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Cardiovascular and respiratory health"/>
+    <term name="Coal"/>
+    <term name="Disability assistance"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Mining"/>
+    <term name="Worker safety and health"/>
+  </subjects>
+  <amendments/>
+  <summary>3/24/2015--Introduced.
+Expresses the sense that the committees of jurisdiction in the House of Representatives should craft a replacement for the Patient Protection and Affordable Care Act that includes restoration of the Black Lung Benefits Act.</summary>
+</bill>

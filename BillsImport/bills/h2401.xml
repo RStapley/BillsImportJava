@@ -1,0 +1,54 @@
+<bill session="114" type="h" number="2401" updated="2015-08-01T06:39:36-04:00">
+  <state datetime="2015-05-18">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-18"/>
+  </status>
+  <introduced datetime="2015-05-18"/>
+  <titles>
+    <title type="official" as="introduced">To direct the Secretary of the Interior and the Secretary of Agriculture to require annual permits and assess annual fees for commercial filming activities on Federal land for film crews of 5 persons or fewer, and for other purposes.</title>
+  </titles>
+  <sponsor id="412256"/>
+  <cosponsors>
+    <cosponsor id="412255" joined="2015-05-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-18" state="REFERRED">
+      <text>Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-05-18">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2015-05-18">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2015-06-08">
+      <text>Referred to the Subcommittee on Conservation and Forestry.</text>
+    </action>
+    <action datetime="2015-06-10">
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="Federal Lands" name="House Natural Resources"/>
+    <committee code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee activity="Referral" code="HSAG15" subcommittee="Conservation and Forestry" name="House Agriculture"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="2406"/>
+    <bill relation="unknown" session="114" type="s" number="405"/>
+    <bill relation="unknown" session="114" type="s" number="556"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Forests, forestry, trees"/>
+    <term name="Land use and conservation"/>
+    <term name="Licensing and registrations"/>
+    <term name="Parks, recreation areas, trails"/>
+    <term name="Television and film"/>
+    <term name="User charges and fees"/>
+  </subjects>
+  <amendments/>
+  <summary>5/18/2015--Introduced.
+Directs the Department of the Interior, for National Park System land, and the Department of Agriculture, for land under its jurisdiction, to require any film crew of five persons or fewer to obtain a permit and pay an annual fee of $200 to conduct commercial filming activities or similar projects on such land and waterways.</summary>
+</bill>

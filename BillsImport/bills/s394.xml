@@ -1,0 +1,52 @@
+<bill session="114" type="s" number="394" updated="2015-04-28T04:48:29-04:00">
+  <state datetime="2015-02-05">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-05"/>
+  </status>
+  <introduced datetime="2015-02-05"/>
+  <titles>
+    <title type="short" as="introduced">Depreciation Fairness Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to permanently extend the 15-year recovery period for qualified leasehold improvement property, qualified restaurant property, and qualified retail improvement property.</title>
+  </titles>
+  <sponsor id="412246"/>
+  <cosponsors>
+    <cosponsor id="400050" joined="2015-02-05"/>
+    <cosponsor id="400054" joined="2015-02-09"/>
+    <cosponsor id="300025" joined="2015-04-27"/>
+    <cosponsor id="300027" joined="2015-02-05"/>
+    <cosponsor id="300030" joined="2015-02-05"/>
+    <cosponsor id="412218" joined="2015-02-05"/>
+    <cosponsor id="300055" joined="2015-02-05"/>
+    <cosponsor id="400194" joined="2015-02-27"/>
+    <cosponsor id="412242" joined="2015-02-09"/>
+    <cosponsor id="400272" joined="2015-02-05"/>
+    <cosponsor id="412322" joined="2015-02-25"/>
+    <cosponsor id="300083" joined="2015-02-05"/>
+    <cosponsor id="300093" joined="2015-02-05"/>
+    <cosponsor id="400418" joined="2015-02-05"/>
+    <cosponsor id="400432" joined="2015-04-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-05" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="765"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Business investment and capital"/>
+    <term name="Food industry and services"/>
+    <term name="Income tax deductions"/>
+    <term name="Retail and wholesale trades"/>
+  </subjects>
+  <amendments/>
+  <summary>2/5/2015--Introduced.
+Depreciation Fairness Act of 2015 
+
+This bill amends the Internal Revenue Code to make permanent the 15-year recovery period for qualified leasehold improvement property, qualified restaurant property, and qualified retail improvement property for purposes of the tax deduction for depreciation.</summary>
+</bill>

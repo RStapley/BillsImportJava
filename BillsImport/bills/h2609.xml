@@ -1,0 +1,46 @@
+<bill session="114" type="h" number="2609" updated="2015-08-22T06:41:07-04:00">
+  <state datetime="2015-06-02">REFERRED</state>
+  <status>
+    <introduced datetime="2015-06-02"/>
+  </status>
+  <introduced datetime="2015-06-02"/>
+  <titles>
+    <title type="short" as="introduced">Right-of-Way for American Drivers Act of 2015</title>
+    <title type="official" as="introduced">To amend title 23, United States Code, to repeal the transportation alternatives program, and for other purposes.</title>
+  </titles>
+  <sponsor id="400206"/>
+  <cosponsors>
+    <cosponsor id="400032" joined="2015-06-17"/>
+    <cosponsor id="400655" joined="2015-07-29"/>
+    <cosponsor id="400141" joined="2015-06-17"/>
+    <cosponsor id="412444" joined="2015-06-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-06-02" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2015-06-03">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW12" subcommittee="Highways and Transit" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Parks, recreation areas, trails"/>
+    <term name="Pedestrians and bicycling"/>
+    <term name="Roads and highways"/>
+    <term name="Transportation programs funding"/>
+    <term name="Transportation safety and security"/>
+    <term name="Water quality"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+  <summary>6/2/2015--Introduced.
+Right-of-Way for American Drivers Act of 2015
+
+This bill repeals the transportation alternatives program. That program funds such projects as those for pedestrians and bicyclists, non-driver and disabled access to safe transportation, recreational trails and areas, land use in rights-of-way, and environmental mitigation (including protection of wildlife).</summary>
+</bill>

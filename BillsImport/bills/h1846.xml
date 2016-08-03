@@ -1,0 +1,96 @@
+<bill session="114" type="h" number="1846" updated="2015-06-24T04:48:41-04:00">
+  <state datetime="2015-04-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-16"/>
+  </status>
+  <introduced datetime="2015-04-16"/>
+  <titles>
+    <title type="short" as="introduced">Bridge to Sustainable Infrastructure Act</title>
+    <title type="official" as="introduced">To provide for sustainable highway funding, and for other purposes.</title>
+  </titles>
+  <sponsor id="412462"/>
+  <cosponsors>
+    <cosponsor id="412500" joined="2015-04-16"/>
+    <cosponsor id="412469" joined="2015-04-16"/>
+    <cosponsor id="412565" joined="2015-06-04"/>
+    <cosponsor id="400047" joined="2015-04-21"/>
+    <cosponsor id="412427" joined="2015-04-29"/>
+    <cosponsor id="400063" joined="2015-04-16"/>
+    <cosponsor id="412407" joined="2015-05-14"/>
+    <cosponsor id="412571" joined="2015-05-12"/>
+    <cosponsor id="400081" joined="2015-06-23"/>
+    <cosponsor id="400114" joined="2015-04-16"/>
+    <cosponsor id="412327" joined="2015-05-12"/>
+    <cosponsor id="412463" joined="2015-04-16"/>
+    <cosponsor id="412454" joined="2015-04-16"/>
+    <cosponsor id="412511" joined="2015-04-21"/>
+    <cosponsor id="412561" joined="2015-05-12"/>
+    <cosponsor id="400211" joined="2015-04-29"/>
+    <cosponsor id="400233" joined="2015-04-16"/>
+    <cosponsor id="400240" joined="2015-04-16"/>
+    <cosponsor id="400630" joined="2015-04-16"/>
+    <cosponsor id="412632" joined="2015-05-12"/>
+    <cosponsor id="400309" joined="2015-04-16"/>
+    <cosponsor id="412523" joined="2015-04-16"/>
+    <cosponsor id="412331" joined="2015-04-16"/>
+    <cosponsor id="400333" joined="2015-04-21"/>
+    <cosponsor id="412489" joined="2015-04-16"/>
+    <cosponsor id="412647" joined="2015-05-12"/>
+    <cosponsor id="412483" joined="2015-04-16"/>
+    <cosponsor id="400352" joined="2015-04-16"/>
+    <cosponsor id="400364" joined="2015-05-12"/>
+    <cosponsor id="412186" joined="2015-04-16"/>
+    <cosponsor id="412239" joined="2015-05-12"/>
+    <cosponsor id="400440" joined="2015-04-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-16" state="REFERRED">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committees on Transportation and Infrastructure, and Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2015-04-16">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2015-04-16">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2015-04-16">
+      <text>Referred to House Rules</text>
+    </action>
+    <action datetime="2015-04-17">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW12" subcommittee="Highways and Transit" name="House Transportation and Infrastructure"/>
+    <committee code="HSRU" name="House Rules" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Advisory bodies"/>
+    <term name="Appropriations"/>
+    <term name="Congressional operations and organization"/>
+    <term name="Government trust funds"/>
+    <term name="Inflation and prices"/>
+    <term name="Legislative rules and procedure"/>
+    <term name="Motor fuels"/>
+    <term name="Oil and gas"/>
+    <term name="Public transit"/>
+    <term name="Roads and highways"/>
+    <term name="Sales and excise taxes"/>
+    <term name="Transportation programs funding"/>
+  </subjects>
+  <amendments/>
+  <summary>4/16/2015--Introduced.
+Bridge to Sustainable Infrastructure Act
+
+This bill amends the Internal Revenue Code to require an inflation adjustment in calendar years after 2015 to the rates of the excise taxes on petroleum and petroleum products, diesel fuel, alcohol-based fuel, and fuels used in certain buses.
+
+Appropriations are advanced to the Highway Account and the Mass Transit Account in the Highway Trust Fund (HTF) in anticipation of a shortfall in funding in 2015. Such advances must be repaid from the HTF to the general fund of the Treasury.
+
+There is established in the legislative branch the Bipartisan Task Force for Sustainable Highway Funding. The Task Force shall identify and make recommendations addressing factors that affect the long-term fiscal imbalance of the HTF.
+
+The rates of excise taxes on petroleum and diesel fuels are increased to cover an identified three- and five-year shortfall in funding of the HTF in 2017 and each subsequent calendar year through 2024.</summary>
+</bill>

@@ -1,0 +1,27 @@
+<bill session="114" type="s" number="2001" updated="2015-08-18T09:46:29-04:00">
+  <state datetime="2015-08-05">REFERRED</state>
+  <status>
+    <introduced datetime="2015-08-05"/>
+  </status>
+  <introduced datetime="2015-08-05"/>
+  <titles>
+    <title type="short" as="introduced">TIME Act</title>
+    <title type="short" as="introduced">Transitioning to Integrated and Meaningful Employment Act</title>
+    <title type="official" as="introduced">A bill to phase out special wage certificates under section 14(c) of the Fair Labor Standards Act of 1938 that allow individuals with disabilities to be paid at subminimum wage rates.</title>
+  </titles>
+  <sponsor id="412493"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-08-05" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Labor and employment"/>
+  </subjects>
+  <amendments/>
+</bill>

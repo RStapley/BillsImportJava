@@ -1,0 +1,33 @@
+<bill session="114" type="s" number="2006" updated="2015-08-22T07:08:32-04:00">
+  <state datetime="2015-08-06">REFERRED</state>
+  <status>
+    <introduced datetime="2015-08-06"/>
+  </status>
+  <introduced datetime="2015-08-06"/>
+  <titles>
+    <title type="short" as="introduced">Regulatory Accountability Act of 2015</title>
+    <title type="official" as="introduced">A bill to reform the process by which Federal agencies analyze and formulate new regulations and guidance documents.</title>
+  </titles>
+  <sponsor id="400325"/>
+  <cosponsors>
+    <cosponsor id="412493" joined="2015-08-06"/>
+    <cosponsor id="300025" joined="2015-08-06"/>
+    <cosponsor id="300027" joined="2015-08-06"/>
+    <cosponsor id="412496" joined="2015-08-06"/>
+    <cosponsor id="412545" joined="2015-08-06"/>
+    <cosponsor id="412666" joined="2015-08-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-08-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+  </subjects>
+  <amendments/>
+</bill>

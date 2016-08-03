@@ -1,0 +1,45 @@
+<bill session="114" type="h" number="3066" updated="2015-07-29T04:49:05-04:00">
+  <state datetime="2015-07-15">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-15"/>
+  </status>
+  <introduced datetime="2015-07-15"/>
+  <titles>
+    <title type="short" as="introduced">Federal Disaster Assistance Nonprofit Fairness Act of 2015</title>
+    <title type="official" as="introduced">To amend the Robert T. Stafford Disaster Relief and Emergency Assistance Act to clarify that houses of worship are eligible for certain disaster relief and emergency assistance on terms equal to other eligible private nonprofit facilities, and for other purposes.</title>
+  </titles>
+  <sponsor id="400380"/>
+  <cosponsors>
+    <cosponsor id="400219" joined="2015-07-15"/>
+    <cosponsor id="412560" joined="2015-07-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-15">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1071-1072"/>
+    </action>
+    <action datetime="2015-07-15" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2015-07-16">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Emergency management"/>
+  </subjects>
+  <amendments/>
+  <summary>7/15/2015--Introduced.
+Federal Disaster Assistance Nonprofit Fairness Act of 2015
+
+ Amends the Robert T. Stafford Disaster Relief and Emergency Assistance Act to include community centers, including tax-exempt houses of worship, as "private nonprofit facilities" for purposes of disaster relief and emergency assistance eligibility under such Act.
+
+Makes a church, synagogue, mosque, temple, or other house of worship, and a private nonprofit facility operated by a religious organization, eligible for federal contributions for the repair, restoration, and replacement of facilities damaged or destroyed by a major disaster, without regard to the religious character of the facility or the primary religious use of the facility.
+
+Makes this Act applicable to the provision of assistance in response to a major disaster or emergency declared on or after October 28, 2012.</summary>
+</bill>

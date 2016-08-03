@@ -1,0 +1,36 @@
+<bill session="114" type="h" number="1812" updated="2015-05-23T06:33:05-04:00">
+  <state datetime="2015-04-15">REFERRED</state>
+  <status>
+    <introduced datetime="2015-04-15"/>
+  </status>
+  <introduced datetime="2015-04-15"/>
+  <titles>
+    <title type="short" as="introduced">Western Hemisphere Drug Policy Commission Act</title>
+    <title type="official" as="introduced">To establish the Western Hemisphere Drug Policy Commission.</title>
+  </titles>
+  <sponsor id="400122"/>
+  <cosponsors>
+    <cosponsor id="400606" joined="2015-04-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-04-15">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E505"/>
+    </action>
+    <action datetime="2015-04-15" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+  </subjects>
+  <amendments/>
+  <summary>4/15/2015--Introduced.
+Western Hemisphere Drug Policy Commission Act
+
+ Establishes the Western Hemisphere Drug Policy Commission, which shall: (1) conduct a comprehensive review of U.S. foreign policy in the Western Hemisphere to reduce the illicit drug supply and drug abuse and reduce the damage associated with illicit drug markets and trafficking, and (2) identify policy and program options to improve existing international and domestic counternarcotics policy.</summary>
+</bill>

@@ -1,0 +1,30 @@
+<bill session="114" type="s" number="1991" updated="2015-08-22T07:08:25-04:00">
+  <state datetime="2015-08-05">REFERRED</state>
+  <status>
+    <introduced datetime="2015-08-05"/>
+  </status>
+  <introduced datetime="2015-08-05"/>
+  <titles>
+    <title type="short" as="introduced">Permanent Department of Veterans Affairs Choice Card Act of 2015</title>
+    <title type="official" as="introduced">A bill to eliminate the sunset date for the Choice Program of the Department of Veterans Affairs, to expand eligibility for such program, and for other purposes.</title>
+  </titles>
+  <sponsor id="300071"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-08-05">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S6391"/>
+    </action>
+    <action datetime="2015-08-05" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+</bill>

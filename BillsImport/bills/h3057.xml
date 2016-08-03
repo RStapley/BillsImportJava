@@ -1,0 +1,33 @@
+<bill session="114" type="h" number="3057" updated="2015-08-11T04:48:31-04:00">
+  <state datetime="2015-07-14">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-14"/>
+  </status>
+  <introduced datetime="2015-07-14"/>
+  <titles>
+    <title type="short" as="introduced">EAT for Health Act of 2015</title>
+    <title type="short" as="introduced">Education and Training for Health Act of 2015</title>
+    <title type="official" as="introduced">To require the Secretary of Health and Human Services to issue to Federal agencies guidelines for developing procedures and requirements relating to certain primary care Federal health professionals completing continuing medical education on nutrition and to require Federal agencies to submit annual reports relating to such guidelines, and for other purposes.</title>
+  </titles>
+  <sponsor id="400162"/>
+  <cosponsors>
+    <cosponsor id="412317" joined="2015-07-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-14" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-07-17">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,39 @@
+<bill session="114" type="h" number="570" updated="2015-03-17T04:49:12-04:00">
+  <state datetime="2015-01-27">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-27"/>
+  </status>
+  <introduced datetime="2015-01-27"/>
+  <titles>
+    <title type="short" as="introduced">Stop Wasting Taxpayer Money on Cuba Broadcasting Act</title>
+    <title type="official" as="introduced">To discontinue Radio Marti and Television Marti broadcasts to Cuba.</title>
+  </titles>
+  <sponsor id="400259"/>
+  <cosponsors>
+    <cosponsor id="400162" joined="2015-03-16"/>
+    <cosponsor id="400237" joined="2015-03-16"/>
+    <cosponsor id="408211" joined="2015-03-16"/>
+    <cosponsor id="400366" joined="2015-03-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-27" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Caribbean area"/>
+    <term name="Cuba"/>
+    <term name="International exchange and broadcasting"/>
+    <term name="Latin America"/>
+  </subjects>
+  <amendments/>
+  <summary>1/27/2015--Introduced.
+Stop Wasting Taxpayer Money on Cuba Broadcasting Act
+
+Repeals the Radio Broadcasting to Cuba Act and the Television Broadcasting to Cuba Act (thus eliminating Voice of America: Radio/Television Marti broadcasts to Cuba).</summary>
+</bill>

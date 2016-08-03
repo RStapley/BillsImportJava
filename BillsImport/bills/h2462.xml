@@ -1,0 +1,45 @@
+<bill session="114" type="h" number="2462" updated="2015-08-15T06:39:56-04:00">
+  <state datetime="2015-05-20">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-20"/>
+  </status>
+  <introduced datetime="2015-05-20"/>
+  <titles>
+    <title type="short" as="introduced">Health Insurance Industry Fair Competition Act</title>
+    <title type="official" as="introduced">To restore the application of the Federal antitrust laws to the business of health insurance to protect competition and consumers.</title>
+  </titles>
+  <sponsor id="400100"/>
+  <cosponsors>
+    <cosponsor id="400378" joined="2015-05-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-20" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-06-16">
+      <text>Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU05" subcommittee="Regulatory Reform, Commercial And Antitrust Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="99"/>
+    <bill relation="unknown" session="114" type="h" number="494"/>
+    <bill relation="unknown" session="114" type="h" number="2653"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Competition and antitrust"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Insurance industry and regulation"/>
+  </subjects>
+  <amendments/>
+  <summary>5/20/2015--Introduced.
+Health Insurance Industry Fair Competition Act
+
+Amends the McCarran-Ferguson Act to declare that nothing in that Act modifies, impairs, or supersedes the operation of antitrust laws with respect to the business of health insurance.
+
+Applies prohibitions against using unfair methods of competition to the business of health insurance without regard to whether the business is for profit.</summary>
+</bill>

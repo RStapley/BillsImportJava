@@ -1,0 +1,90 @@
+<bill session="114" type="h" number="1289" updated="2015-08-08T06:29:55-04:00">
+  <state datetime="2015-06-11">REPORTED</state>
+  <status>
+    <unknown datetime="2015-06-11"/>
+  </status>
+  <introduced datetime="2015-03-04"/>
+  <titles>
+    <title type="short" as="introduced">John Muir National Historic Site Expansion Act</title>
+    <title type="short" as="reported to house">John Muir National Historic Site Expansion Act</title>
+    <title type="official" as="introduced">To authorize the Secretary of the Interior to acquire approximately 44 acres of land in Martinez, California, and for other purposes.</title>
+  </titles>
+  <sponsor id="412613"/>
+  <cosponsors>
+    <cosponsor id="412657" joined="2015-04-28"/>
+    <cosponsor id="412571" joined="2015-05-01"/>
+    <cosponsor id="400080" joined="2015-04-13"/>
+    <cosponsor id="400124" joined="2015-04-28"/>
+    <cosponsor id="400129" joined="2015-05-18"/>
+    <cosponsor id="400646" joined="2015-05-18"/>
+    <cosponsor id="412382" joined="2015-04-13"/>
+    <cosponsor id="400185" joined="2015-04-13"/>
+    <cosponsor id="412511" joined="2015-04-13"/>
+    <cosponsor id="400219" joined="2015-05-18"/>
+    <cosponsor id="412286" joined="2015-04-13"/>
+    <cosponsor id="412557" joined="2015-06-09"/>
+    <cosponsor id="400230" joined="2015-04-13"/>
+    <cosponsor id="412638" joined="2015-04-28"/>
+    <cosponsor id="412521" joined="2015-04-13"/>
+    <cosponsor id="400663" joined="2015-04-13"/>
+    <cosponsor id="400259" joined="2015-04-13"/>
+    <cosponsor id="400262" joined="2015-06-09"/>
+    <cosponsor id="400263" joined="2015-05-20"/>
+    <cosponsor id="412189" joined="2015-04-28"/>
+    <cosponsor id="400290" joined="2015-04-13"/>
+    <cosponsor id="408211" joined="2015-05-01"/>
+    <cosponsor id="412585" joined="2015-04-13"/>
+    <cosponsor id="412308" joined="2015-04-28"/>
+    <cosponsor id="400326" joined="2015-05-01"/>
+    <cosponsor id="400333" joined="2015-04-13"/>
+    <cosponsor id="400361" joined="2015-05-18"/>
+    <cosponsor id="412259" joined="2015-04-13"/>
+    <cosponsor id="412514" joined="2015-05-20"/>
+    <cosponsor id="412626" joined="2015-04-13"/>
+    <cosponsor id="400403" joined="2015-06-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-03-04" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2015-03-18">
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+    </action>
+    <action datetime="2015-06-10">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2015-06-11">
+      <text>Subcommittee on Federal Lands Discharged.</text>
+    </action>
+    <action datetime="2015-06-11">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2015-06-11" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Unanimous Consent.</text>
+    </calendar>
+    <action datetime="2015-07-21T16:33:00-04:00">
+      <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-213.</text>
+    </action>
+    <calendar datetime="2015-07-21T16:33:00-04:00" calendar="Union" number="160">
+      <text>Placed on the Union Calendar, Calendar No. 160.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSII10" subcommittee="Federal Lands" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="651"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="California"/>
+    <term name="Historic sites and heritage areas"/>
+    <term name="Land transfers"/>
+  </subjects>
+  <amendments/>
+  <summary>3/4/2015--Introduced.
+John Muir National Historic Site Expansion Act
+
+ Authorizes the Department of the Interior to acquire by donation approximately 44 acres of land to include in the John Muir National Historic Site in Martinez, California.</summary>
+</bill>

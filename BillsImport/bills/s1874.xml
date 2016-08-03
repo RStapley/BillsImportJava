@@ -1,0 +1,45 @@
+<bill session="114" type="s" number="1874" updated="2015-08-15T07:07:29-04:00">
+  <state datetime="2015-07-28">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-28"/>
+  </status>
+  <introduced datetime="2015-07-28"/>
+  <titles>
+    <title type="short" as="introduced">Employee Rights Act</title>
+    <title type="official" as="introduced">A bill to provide protections for workers with respect to their right to select or refrain from selecting representation by a labor organization.</title>
+  </titles>
+  <sponsor id="300052"/>
+  <cosponsors>
+    <cosponsor id="300002" joined="2015-07-28"/>
+    <cosponsor id="402675" joined="2015-07-28"/>
+    <cosponsor id="300023" joined="2015-07-28"/>
+    <cosponsor id="300027" joined="2015-07-28"/>
+    <cosponsor id="412573" joined="2015-07-28"/>
+    <cosponsor id="300041" joined="2015-07-28"/>
+    <cosponsor id="412406" joined="2015-07-28"/>
+    <cosponsor id="400194" joined="2015-07-28"/>
+    <cosponsor id="412496" joined="2015-07-28"/>
+    <cosponsor id="412464" joined="2015-07-28"/>
+    <cosponsor id="300071" joined="2015-07-28"/>
+    <cosponsor id="300072" joined="2015-07-28"/>
+    <cosponsor id="412666" joined="2015-07-28"/>
+    <cosponsor id="412322" joined="2015-07-28"/>
+    <cosponsor id="300083" joined="2015-07-28"/>
+    <cosponsor id="400432" joined="2015-07-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-28" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="3222"/>
+  </relatedbills>
+  <subjects>
+    <term name="Labor and employment"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,41 @@
+<bill session="114" type="s" number="1218" updated="2015-06-27T07:28:55-04:00">
+  <state datetime="2015-05-06">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-06"/>
+  </status>
+  <introduced datetime="2015-05-06"/>
+  <titles>
+    <title type="short" as="introduced">NEWS Act of 2015</title>
+    <title type="short" as="introduced">Nexus of Energy and Water for Sustainability Act of 2015</title>
+    <title type="official" as="introduced">A bill to establish an interagency coordination committee or subcommittee with the leadership of the Department of Energy and the Department of the Interior, focused on the nexus between energy and water production, use, and efficiency, and for other purposes.</title>
+  </titles>
+  <sponsor id="300075"/>
+  <cosponsors>
+    <cosponsor id="400013" joined="2015-06-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2015-06-09">
+      <text>Committee on Energy and Natural Resources. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Congressional oversight"/>
+    <term name="Energy efficiency and conservation"/>
+    <term name="Energy research"/>
+    <term name="Energy storage, supplies, demand"/>
+    <term name="Government information and archives"/>
+    <term name="Public-private cooperation"/>
+    <term name="Water quality"/>
+    <term name="Water resources funding"/>
+    <term name="Water use and supply"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,33 @@
+<bill session="114" type="h" number="2517" updated="2015-07-04T06:39:38-04:00">
+  <state datetime="2015-05-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-21"/>
+  </status>
+  <introduced datetime="2015-05-21"/>
+  <titles>
+    <title type="short" as="introduced">Powering American Jobs Act of 2015</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to extend certain expiring energy tax incentives.</title>
+  </titles>
+  <sponsor id="412465"/>
+  <cosponsors>
+    <cosponsor id="400218" joined="2015-05-21"/>
+    <cosponsor id="412628" joined="2015-06-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-21" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+  <summary>5/21/2015--Introduced.
+Powering American Jobs Act of 2015
+
+Amends the Internal Revenue Code to extend through 2016: (1) the tax credit for nonbusiness energy efficiency improvements, (2) excise tax credits and payments for alternative fuels and biodiesel and renewable diesel fuel mixtures, (3) the tax credit for alternative fuel vehicle refueling property expenditures, and (4) the income tax credit for biodiesel and renewable fuels. Equalizes the excise tax rate for liquefied natural gas and liquefied petroleum gas. Modifies energy efficiency standards for windows, doors, skylights, roofing, water heaters, biomass stoves, and furnaces or hot water boilers.</summary>
+</bill>

@@ -1,0 +1,51 @@
+<bill session="114" type="h" number="3311" updated="2015-08-15T06:47:04-04:00">
+  <state datetime="2015-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-07-29"/>
+  <titles>
+    <title type="short" as="introduced">End Oil and Gas Tax Subsidies Act of 2015</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to repeal fossil fuel subsidies for oil companies.</title>
+  </titles>
+  <sponsor id="400033"/>
+  <cosponsors>
+    <cosponsor id="400062" joined="2015-07-29"/>
+    <cosponsor id="412470" joined="2015-07-29"/>
+    <cosponsor id="400080" joined="2015-07-29"/>
+    <cosponsor id="400103" joined="2015-07-29"/>
+    <cosponsor id="412263" joined="2015-07-29"/>
+    <cosponsor id="400185" joined="2015-07-29"/>
+    <cosponsor id="412511" joined="2015-07-29"/>
+    <cosponsor id="400230" joined="2015-07-29"/>
+    <cosponsor id="412616" joined="2015-07-29"/>
+    <cosponsor id="400259" joined="2015-07-29"/>
+    <cosponsor id="400262" joined="2015-07-29"/>
+    <cosponsor id="400263" joined="2015-07-29"/>
+    <cosponsor id="400295" joined="2015-07-29"/>
+    <cosponsor id="400309" joined="2015-07-29"/>
+    <cosponsor id="412585" joined="2015-07-29"/>
+    <cosponsor id="412308" joined="2015-07-29"/>
+    <cosponsor id="400333" joined="2015-07-29"/>
+    <cosponsor id="412254" joined="2015-07-29"/>
+    <cosponsor id="400415" joined="2015-07-29"/>
+    <cosponsor id="412239" joined="2015-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-07-29">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1181"/>
+    </action>
+    <action datetime="2015-07-29" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+</bill>

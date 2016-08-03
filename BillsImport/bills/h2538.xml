@@ -1,0 +1,44 @@
+<bill session="114" type="h" number="2538" updated="2015-07-11T06:39:57-04:00">
+  <state datetime="2015-05-21">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-21"/>
+  </status>
+  <introduced datetime="2015-05-21"/>
+  <titles>
+    <title type="short" as="introduced">Lytton Rancheria Homelands Act of 2015</title>
+    <title type="official" as="introduced">To take lands in Sonoma County, California, into trust as part of the reservation of the Lytton Rancheria of California, and for other purposes.</title>
+  </titles>
+  <sponsor id="412511"/>
+  <cosponsors>
+    <cosponsor id="412403" joined="2015-05-21"/>
+    <cosponsor id="400403" joined="2015-06-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-21" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2015-06-10">
+      <text>Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.</text>
+    </action>
+    <action datetime="2015-06-17">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral, Hearings" code="HSII24" subcommittee="Indian, Insular and Alaska Native Affairs" name="House Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Native Americans"/>
+  </subjects>
+  <amendments/>
+  <summary>5/21/2015--Introduced.
+Lytton Rancheria Homelands Act of 2015
+
+This bill takes into trust for the benefit of the Lytton Rancheria of California (the Tribe), subject to valid existing rights, contracts, and management agreements related to easements and rights-of-way, certain land owned by the Tribe which is generally depicted on the map entitled "Lytton Fee Owned Property to be Taken into Trust," dated May 1, 2015.
+
+Lands taken into trust shall become part of the Tribe's reservation.
+
+Gaming is prohibited on such land.</summary>
+</bill>

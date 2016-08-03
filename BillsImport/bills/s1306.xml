@@ -1,0 +1,31 @@
+<bill session="114" type="s" number="1306" updated="2015-06-10T04:49:05-04:00">
+  <state datetime="2015-05-12">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-12"/>
+  </status>
+  <introduced datetime="2015-05-12"/>
+  <titles>
+    <title type="short" as="introduced">Energy Independence Investment Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend the Energy Policy Act of 2005 to use existing funding available to further projects that would improve energy efficiency and reduce emissions.</title>
+  </titles>
+  <sponsor id="412391"/>
+  <cosponsors>
+    <cosponsor id="412554" joined="2015-05-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-12" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2015-06-09">
+      <text>Committee on Energy and Natural Resources. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+  </subjects>
+  <amendments/>
+</bill>

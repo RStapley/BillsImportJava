@@ -1,0 +1,43 @@
+<bill session="114" type="s" number="119" updated="2015-01-31T06:22:59-05:00">
+  <state datetime="2015-01-08">REFERRED</state>
+  <status>
+    <introduced datetime="2015-01-08"/>
+  </status>
+  <introduced datetime="2015-01-08"/>
+  <titles>
+    <title type="short" as="introduced">Wounded Veterans Recreation Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend the Federal Lands Recreation Enhancement Act to provide for a lifetime National Recreational Pass for any veteran with a service-connected disability.</title>
+  </titles>
+  <sponsor id="412323"/>
+  <cosponsors>
+    <cosponsor id="300018" joined="2015-01-09"/>
+    <cosponsor id="300025" joined="2015-01-08"/>
+    <cosponsor id="300043" joined="2015-01-09"/>
+    <cosponsor id="412200" joined="2015-01-09"/>
+    <cosponsor id="412545" joined="2015-01-09"/>
+    <cosponsor id="300073" joined="2015-01-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-01-08" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Disability and paralysis"/>
+    <term name="Parks, recreation areas, trails"/>
+    <term name="User charges and fees"/>
+    <term name="Veterans' organizations and recognition"/>
+  </subjects>
+  <amendments/>
+  <summary>1/8/2015--Introduced.
+Wounded Veterans Recreation Act of 2015
+
+Amends the Federal Lands Recreation Enhancement Act to require the National Parks and Federal Recreational Lands Pass to be made available at no charge to, and for the lifetime of, any veteran with a service-connected disability. (The Pass is currently made available at no charge to, and for the lifetime of, any U.S. citizen or person domiciled in the United States who has been medically determined to be permanently disabled.)
+
+Requires the entrance fees charged those who do not have a free National Parks and Federal Recreational Lands Pass to be adjusted to maintain total receipts.</summary>
+</bill>

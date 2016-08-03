@@ -1,0 +1,43 @@
+<bill session="114" type="s" number="1400" updated="2015-07-30T04:52:33-04:00">
+  <state datetime="2015-07-29">REPORTED</state>
+  <status>
+    <unknown datetime="2015-07-29"/>
+  </status>
+  <introduced datetime="2015-05-20"/>
+  <titles>
+    <title type="short" as="introduced">Veterans Small Business Enhancement Act of 2015</title>
+    <title type="official" as="introduced">A bill to amend the Small Business Act to direct the task force of the Office of Veterans Business Development to provide access to and manage the distribution of excess or surplus property to veteran-owned small businesses.</title>
+  </titles>
+  <sponsor id="300038"/>
+  <cosponsors>
+    <cosponsor id="400418" joined="2015-05-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-20" state="REFERRED">
+      <text>Read twice and referred to the Committee on Small Business and Entrepreneurship.</text>
+      <reference ref="CR S3187" label="text of measure as introduced"/>
+    </action>
+    <calendar datetime="2015-07-29" state="REPORTED">
+      <text>Committee on Small Business and Entrepreneurship. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSSB" name="Senate Small Business and Entrepreneurship" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="2221"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Small business"/>
+    <term name="State and local government operations"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+  </subjects>
+  <amendments/>
+  <summary>5/20/2015--Introduced.
+Veterans Small Business Enhancement Act of 2015
+
+Amends the Small Business Act to require the interagency task force that is responsible for coordinating federal efforts to improve the business development and federal contracting opportunities available to small business concerns owned and controlled by veterans to coordinate administrative and regulatory activities and develop proposals to provide access to, and manage the distribution of, excess or surplus U.S. property to small business concerns owned and controlled by veterans, pursuant to a memorandum of understanding between the task force and the applicable agency designated under state law as the agency responsible for fair and equitable distribution, through donation, of transferred property.</summary>
+</bill>

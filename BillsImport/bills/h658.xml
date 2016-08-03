@@ -1,0 +1,53 @@
+<bill session="114" type="h" number="658" updated="2015-03-25T04:48:39-04:00">
+  <state datetime="2015-02-02">REFERRED</state>
+  <status>
+    <introduced datetime="2015-02-02"/>
+  </status>
+  <introduced datetime="2015-02-02"/>
+  <titles>
+    <title type="short" as="introduced">VA Regional Office Accountability Act</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to require the Secretary of Veterans Affairs to submit to Congress an annual report on the performance of the regional offices of the Department of Veterans Affairs.</title>
+  </titles>
+  <sponsor id="412560"/>
+  <cosponsors>
+    <cosponsor id="412516" joined="2015-02-24"/>
+    <cosponsor id="412258" joined="2015-03-13"/>
+    <cosponsor id="412470" joined="2015-02-24"/>
+    <cosponsor id="412236" joined="2015-02-24"/>
+    <cosponsor id="400100" joined="2015-02-24"/>
+    <cosponsor id="412532" joined="2015-02-24"/>
+    <cosponsor id="400162" joined="2015-02-24"/>
+    <cosponsor id="400641" joined="2015-02-24"/>
+    <cosponsor id="400195" joined="2015-03-13"/>
+    <cosponsor id="412290" joined="2015-02-02"/>
+    <cosponsor id="400263" joined="2015-02-24"/>
+    <cosponsor id="400333" joined="2015-03-24"/>
+    <cosponsor id="412514" joined="2015-02-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-02" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2015-02-13">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR09" subcommittee="Disability Assistance and Memorial Affairs" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Administrative remedies"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Veterans Affairs"/>
+    <term name="Performance measurement"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>2/2/2015--Introduced.
+VA Regional Office Accountability Act
+
+Directs the Secretary of Veterans Affairs to include in a required annual report on Department of Veterans Affairs (VA) expenditures and activities a report on each VA regional office that failed to reach administrative goals concerning the timeliness and accuracy of veterans' claims adjudication.</summary>
+</bill>

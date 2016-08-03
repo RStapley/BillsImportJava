@@ -1,0 +1,64 @@
+<bill session="114" type="s" number="546" updated="2015-07-25T06:53:43-04:00">
+  <state datetime="2015-03-04">REPORTED</state>
+  <status>
+    <unknown datetime="2015-03-04"/>
+  </status>
+  <introduced datetime="2015-02-24"/>
+  <titles>
+    <title type="short" as="introduced">RESPONSE Act of 2015</title>
+    <title type="short" as="reported to senate">RESPONSE Act of 2015</title>
+    <title type="official" as="introduced">A bill to establish the Railroad Emergency Services Preparedness, Operational Needs, and Safety Evaluation (RESPONSE) Subcommittee under the Federal Emergency Management Agency's National Advisory Council to provide recommendations on emergency responder training and resources relating to hazardous materials incidents involving railroads, and for other purposes.</title>
+  </titles>
+  <sponsor id="412554"/>
+  <cosponsors>
+    <cosponsor id="400013" joined="2015-02-24"/>
+    <cosponsor id="412598" joined="2015-02-25"/>
+    <cosponsor id="412246" joined="2015-03-10"/>
+    <cosponsor id="412667" joined="2015-06-09"/>
+    <cosponsor id="412545" joined="2015-02-24"/>
+    <cosponsor id="412243" joined="2015-02-26"/>
+    <cosponsor id="300087" joined="2015-02-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-02-24" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <calendar datetime="2015-03-04" state="REPORTED">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="2015-07-21">
+      <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 114-85.</text>
+    </action>
+    <calendar datetime="2015-07-21" calendar="Senate Legislative" under="General Orders" number="155">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 155.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="1043"/>
+  </relatedbills>
+  <subjects>
+    <term name="Emergency management"/>
+    <term name="Accidents"/>
+    <term name="Advisory bodies"/>
+    <term name="Congressional oversight"/>
+    <term name="Emergency planning and evacuation"/>
+    <term name="First responders and emergency personnel"/>
+    <term name="Hazardous wastes and toxic substances"/>
+    <term name="Public-private cooperation"/>
+    <term name="Railroads"/>
+    <term name="Rural conditions and development"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+  <summary>2/24/2015--Introduced.
+RESPONSE Act of 2015
+
+ Amends the Homeland Security Act of 2002 to direct the Administrator of the Federal Emergency Management Agency to establish the Railroad Emergency Services Preparedness, Operational Needs, and Safety Evaluation Subcommittee of the National Advisory Council.
+
+Directs the Subcommittee to evaluate the following topics and develop recommendations, as appropriate, for improving emergency responder training and resource allocation for hazardous materials incidents involving railroads:
+
+ the quality and application of training for local emergency first responders related to rail hazardous materials incidents, with a particular focus on local emergency responders and small communities near railroads; the effectiveness of funding levels related to training local emergency responders for rail hazardous materials incidents, with a particular focus on local emergency responders and small communities; a strategy for integration of commodity flow studies, mapping, and access platforms for local emergency responders and how to increase the rate of access to the individual responder in existing or emerging communications technology; the need for emergency response plans for rail, similar to existing law related to maritime and stationary facility emergency response plans for hazardous materials; the need for a rail hazardous materials incident database; increasing access to relevant, useful, and timely information for the local emergency responder for training purposes and in the event of a rail hazardous materials incident; and determining the most appropriate agencies and offices for the implementation of the recommendations. Terminates the Subcommittee not later than four years after this Act's enactment, subject to one year extensions.</summary>
+</bill>

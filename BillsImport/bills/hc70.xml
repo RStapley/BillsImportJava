@@ -1,0 +1,35 @@
+<bill session="114" type="hc" number="70" updated="2015-08-15T06:49:17-04:00">
+  <state datetime="2015-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2015-07-31"/>
+  </status>
+  <introduced datetime="2015-07-31"/>
+  <titles>
+    <title type="official" as="introduced">Authorizing the use of the Capitol Grounds for the District of Columbia Special Olympics Law Enforcement Torch Run.</title>
+  </titles>
+  <sponsor id="400295"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2015-07-31" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2015-08-03">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Athletes"/>
+    <term name="Congressional tributes"/>
+    <term name="Disability and paralysis"/>
+    <term name="Olympic games"/>
+    <term name="Outdoor recreation"/>
+    <term name="U.S. Capitol"/>
+  </subjects>
+  <amendments/>
+</bill>

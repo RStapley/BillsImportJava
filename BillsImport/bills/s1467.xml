@@ -1,0 +1,38 @@
+<bill session="114" type="s" number="1467" updated="2015-06-27T07:31:25-04:00">
+  <state datetime="2015-05-22">REFERRED</state>
+  <status>
+    <introduced datetime="2015-05-22"/>
+  </status>
+  <introduced datetime="2015-05-22"/>
+  <titles>
+    <title type="short" as="introduced">Pedestrian Safety Act of 2015</title>
+    <title type="official" as="introduced">A bill to require the Secretary of Transportation to establish new standards for automobile hoods and bumpers to reduce pedestrian injuries, and for other purposes.</title>
+  </titles>
+  <sponsor id="412223"/>
+  <cosponsors>
+    <cosponsor id="412490" joined="2015-05-22"/>
+    <cosponsor id="412598" joined="2015-05-22"/>
+    <cosponsor id="412507" joined="2015-05-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-22" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Department of Transportation"/>
+    <term name="Government information and archives"/>
+    <term name="Marketing and advertising"/>
+    <term name="Motor vehicles"/>
+    <term name="Pedestrians and bicycling"/>
+    <term name="Roads and highways"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+</bill>
